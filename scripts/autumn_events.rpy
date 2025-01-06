@@ -27867,7 +27867,7 @@ translate schinese autkit_e567fc2c:
 translate schinese autkit_e8aaedca:
 
     # l "I'm an Elf! You noticed right away because of my ears! People can scan my face, realize I'm free, or 'unclaimed', and snatch me!"
-    l "我是个精灵!而且你很容易就因为我的耳朵注意到这一点!人们会扫描我的脸,意识到我是自由的,或者说我是'无人认领的',然后直接抢走我!"
+    l "我是个精灵!因为我的耳朵,你一眼就能看出来!人们会扫描我的脸,发现我是自由的,或者说我是'无人认领的',然后把我抢走!"
 
 # game/scripts/autumn_events.rpy:7435
 translate schinese autkit_fb616c5e:
