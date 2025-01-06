@@ -27903,19 +27903,19 @@ translate schinese autkit_1cfa81ac_1:
 translate schinese autkit_9ad894d8_1:
 
     # l "I've met your kind before. You preach faith but don't do anything to help."
-    l "我之前见过你们这种人.你们宣扬你们的信仰,却不做任何实事来帮助别人."
+    l "我见过你这种人.你们宣扬信仰,却不做任何实事来帮助别人."
 
 # game/scripts/autumn_events.rpy:7443
 translate schinese autkit_cf31d816_1:
 
     # l "Where were you when I was being sold? Probably in your comfy bed with your night light on, stomach full of food, praying someone would do something to help me."
-    l "我被卖掉的时候你在哪里?可能是在你舒适的床上,开着夜灯,肚子里装满了食物,祈祷着有人可以做些什么来帮助我."
+    l "我被卖掉的时候,你在哪里?可能躺在你舒适的床上,开着夜灯,吃饱喝足,祈祷有人能帮帮我."
 
 # game/scripts/autumn_events.rpy:7444
 translate schinese autkit_2451bcbd:
 
     # l "Then you went to sleep contented you actually did something."
-    l "然后你就心满意足地去睡觉了,就像你真的做了什么似的."
+    l "然后你就好像真的做了什么一样,心满意足地上床睡觉了."
 
 # game/scripts/autumn_events.rpy:7445
 translate schinese autkit_47f78542_1:
@@ -27927,7 +27927,7 @@ translate schinese autkit_47f78542_1:
 translate schinese autkit_190cdb10:
 
     # l "Just so you know, your kind were the leaders of the 'crusade' against Elves."
-    l "只是想让你知道,你的同类就是迫害精灵的'远征军'的领导者."
+    l "提醒你一下,你们这些人就是迫害精灵的'远征军'的领袖."
 
 # game/scripts/autumn_events.rpy:7447
 translate schinese autkit_1700d53f_1:
@@ -27951,13 +27951,13 @@ translate schinese autkit_f153aa4f_1:
 translate schinese autkit_f7569fa1:
 
     # au "Well, um... You're probably mistaken..."
-    au "好吧,嗯......你可能是误会了......"
+    au "好吧,嗯......你可能是看错了......"
 
 # game/scripts/autumn_events.rpy:7452
 translate schinese autkit_7214dd07:
 
     # l "Hmm, okay. Let's go with that. I probably tripped and dreamed the whole thing up... It's not like that was the biggest devastation in Elven history or anything."
-    l "嗯,好吧.那就按你说的来吧.我大概是被绊倒然后晕了过去,整件事都是我做梦梦到的......反正那也不是精灵历史上最大的一次灾难什么的."
+    l "嗯,好吧,就这样吧.我大概是不小心绊倒,撞昏了头,想象出了一整件事情......反正这又不是什么精灵史上最大的灾难."
 
 # game/scripts/autumn_events.rpy:7454
 translate schinese autkit_95b602ad:
@@ -27975,13 +27975,13 @@ translate schinese autkit_1c7d509b_1:
 translate schinese autkit_760c8a72:
 
     # au "[name], I have to say it... I wish there were more people in this world like you."
-    au "[name],我得说......我希望世界上能多一点像你这样的人."
+    au "[name],我得说......我希望世界上有更多像你这样的人."
 
 # game/scripts/autumn_events.rpy:7457
 translate schinese autkit_2ba89a99:
 
     # au "Buying slaves and freeing them is truly righteous!"
-    au "购买奴隶然后把他们释放了才是真正的正义!"
+    au "买下奴隶,然后释放他们,这才是真正的正义!"
 
 # game/scripts/autumn_events.rpy:7459
 translate schinese autkit_b8a36c77:
@@ -28011,7 +28011,7 @@ translate schinese autumnmar_b51e681d:
 translate schinese autumnmar_f254619d:
 
     # c "What are you two doing?"
-    c "你们在干什么?"
+    c "你们俩在干什么?"
 
 # game/scripts/autumn_events.rpy:7471
 translate schinese autumnmar_282c3513:
@@ -28047,25 +28047,25 @@ translate schinese autumnmar_016c0548:
 translate schinese autumnmar_0c6a47df:
 
     # m "I was thinking we could go to the beach, have a little fun together."
-    m "我在想我们可以去海滩,然后一起玩一玩."
+    m "我想我们可以一起去海边玩玩."
 
 # game/scripts/autumn_events.rpy:7479
 translate schinese autumnmar_cf0b0ce8:
 
     # m "[name] is welcome to come as well."
-    m "[name]也欢迎你来."
+    m "也欢迎[name]你来."
 
 # game/scripts/autumn_events.rpy:7481
 translate schinese autumnmar_1d8b6514:
 
     # au "Oh, Um... I'm sorry Ms...?"
-    au "噢,嗯......对不起你叫......?"
+    au "噢,嗯......对不起,你叫......?"
 
 # game/scripts/autumn_events.rpy:7482
 translate schinese autumnmar_98649204:
 
     # m "My name's Maria."
-    m "我是玛丽亚."
+    m "我叫玛丽亚."
 
 # game/scripts/autumn_events.rpy:7483
 translate schinese autumnmar_f1470b16:
@@ -28083,19 +28083,19 @@ translate schinese autumnmar_0fbf363a:
 translate schinese autumnmar_46264768:
 
     # m "What do you mean? You can't swim?"
-    m "你这是什么意思?你不会游泳吗?"
+    m "什么意思?你不会游泳吗?"
 
 # game/scripts/autumn_events.rpy:7486
 translate schinese autumnmar_adfdc396:
 
     # au "Oh, I'm sure I could if I tried! But... I try to stay away from the beach culture. They're all half naked, haha!"
-    au "噢,如果我尽力的话我肯定可以做到的!但是......我一直都在尽量远离沙滩.他们都是半裸的,哈哈!"
+    au "噢,如果我有去游的话,我是会的!但是......我一直都在尽量地远离沙滩上的那种文化.那里的人都是半裸的,哈哈!"
 
 # game/scripts/autumn_events.rpy:7487
 translate schinese autumnmar_6228fc87:
 
     # au "Weird, isn't it? To be half naked around a bunch of people?"
-    au "很奇怪,对吧?在一大群人周围半裸?"
+    au "很奇怪,对吧?在一大群人面前半裸?"
 
 # game/scripts/autumn_events.rpy:7489
 translate schinese autumnmar_4130be1a:
@@ -28107,37 +28107,37 @@ translate schinese autumnmar_4130be1a:
 translate schinese autumnmar_f98c92e5:
 
     # au "You don't think so? Sure, the human body is a wonderfully created thing, but... I feel like they flaunt themselves a bit too much. Don't you agree?"
-    au "你不这么认为吗?当然,人类的身体是一个奇妙的造物,但是......我觉得他们展示得有点过分了.你不同意吗?"
+    au "你不这么认为吗?当然,人类的身体是一个美妙的造物,但是......我觉得有些他们太过招展了.你不同意吗?"
 
 # game/scripts/autumn_events.rpy:7491
 translate schinese autumnmar_2f477923:
 
     # m "No, of course not. There's so many sexy people at the beach! Why wouldn't you want to go?"
-    m "不,当然不.沙滩上有那么多性感的人!你为什么不去呢?"
+    m "不,当然不.沙滩上有那么多性感的人!你为什么不想去呢?"
 
 # game/scripts/autumn_events.rpy:7492
 translate schinese autumnmar_7288c669:
 
     # au "That's the problem... *sigh*... Oh well, feel free to associate yourself with those, ah... How would you say it..."
-    au "这就是问题所在......*叹气*......噢,好吧,你要和那些,啊......怎么说......"
+    au "这就是问题所在......*叹气*......噢,好吧,你想要和那些,啊......怎么说......"
 
 # game/scripts/autumn_events.rpy:7493
 translate schinese autumnmar_d57f9d37:
 
     # au "Delinquents."
-    au "少年犯."
+    au "不良少年,你想和他们混在一起,我没意见."
 
 # game/scripts/autumn_events.rpy:7495
 translate schinese autumnmar_882b819e:
 
     # m "Delinquents!?"
-    m "少年犯!?"
+    m "不良少年!?"
 
 # game/scripts/autumn_events.rpy:7496
 translate schinese autumnmar_783ec052:
 
     # au "Well, I'm sorry Maria, but you know how it is, right?"
-    au "嗯,对不起玛丽亚,但是你知道怎么回事的,对吧?"
+    au "嗯,我很抱歉,玛丽亚,但是你知道怎么回事的,对吧?"
 
 # game/scripts/autumn_events.rpy:7497
 translate schinese autumnmar_45fae07f:
@@ -28149,25 +28149,25 @@ translate schinese autumnmar_45fae07f:
 translate schinese autumnmar_1f0e2ce4:
 
     # au "I mean... weren't you taught better? To show off your body to everyone is..."
-    au "我是说......你没有被教过吗?向其他人展示你的身体......"
+    au "我是说......你没有被教过吗?向其他人炫耀你的身体是......"
 
 # game/scripts/autumn_events.rpy:7499
 translate schinese autumnmar_0821b96d:
 
     # m "What the fuck are you on about? I can do whatever I want with my body."
-    m "你到底他妈的在说什么?我可以用我的身体做任何我想做的事情."
+    m "你到底他妈地在说什么?我可以对自己的身体为所欲为."
 
 # game/scripts/autumn_events.rpy:7500
 translate schinese autumnmar_8f5ae153:
 
     # au "Oh! Uh... Right, I didn't mean to say otherwise, but..."
-    au "噢!嗯......好吧,我不是那个意思,但是......"
+    au "噢!嗯......好吧,我不是故意要说别的,但是......"
 
 # game/scripts/autumn_events.rpy:7501
 translate schinese autumnmar_9d9004f4:
 
     # m "So you've got a stick up your ass because people are wearing swimsuits? At the beach!?"
-    m "你就因为人们穿着泳装就这么敏感?还是在沙滩上的!?"
+    m "就因为有人穿泳装,还是在海滩上?你就不高兴了!?"
 
 # game/scripts/autumn_events.rpy:7502
 translate schinese autumnmar_02724208:
@@ -28179,19 +28179,19 @@ translate schinese autumnmar_02724208:
 translate schinese autumnmar_b4eafc6c:
 
     # au "What I'm trying to say is... It promotes a nudity culture, the more skimpy, the better. So says them..."
-    au "我想说的是......它提倡一种裸体文化,越露越好.所以说他们......"
+    au "我想说的是......它促进了裸体的文化,越暴露,越好.他们是这么说的......"
 
 # game/scripts/autumn_events.rpy:7504
 translate schinese autumnmar_e12ed3a9:
 
     # au "Women especially should try to avoid showing off their bodies."
-    au "女人应该尽量避免展示自己的身体."
+    au "尤其是女性,应尽量避免炫耀自己的身体."
 
 # game/scripts/autumn_events.rpy:7505
 translate schinese autumnmar_4dea1b79:
 
     # m "Says the slut with her cow tits busting out her top!"
-    m "这句话还是从一个奶子跟牛一样大的,都快跳出来的人说的!"
+    m "这句话还是从一个奶子跟牛一样,大到都要撑破上衣的荡妇说的!"
 
 # game/scripts/autumn_events.rpy:7506
 translate schinese autumnmar_51739f82:
@@ -28203,7 +28203,7 @@ translate schinese autumnmar_51739f82:
 translate schinese autumnmar_202943ee:
 
     # m "Urgh, [name], she's not worth the trouble. She's just a religious nut-job, just kick her out..."
-    m "呃,[name],她不值得费心.她只是一个宗教狂热分子,你把她踢出去吧......"
+    m "呃,[name],她不值得你费心.她就是个狂热的教徒,把她踢出去吧......"
 
 # game/scripts/autumn_events.rpy:7509
 translate schinese autumnmar_63352773:
@@ -28227,13 +28227,13 @@ translate schinese autumnmar_7f73bd22:
 translate schinese autumnmar_7bc05bf2:
 
     # c "She's very different from you."
-    c "她和你完全不一样."
+    c "她与你截然不同."
 
 # game/scripts/autumn_events.rpy:7515
 translate schinese autumnmar_73802e3f:
 
     # au "I can tell... Probably best to avoid her as much as I can..."
-    au "确实......也许最好的办法是尽可能地避开她......"
+    au "我看得出来......也许最好的办法是尽可能地避开她吧......"
 
 # game/scripts/autumn_events.rpy:7516
 translate schinese autumnmar_dd069984:
@@ -28245,7 +28245,7 @@ translate schinese autumnmar_dd069984:
 translate schinese autumnmar_6b1df818:
 
     # au "Right. Thank you Mr. [name]..."
-    au "好吧.谢谢你[name]先生......"
+    au "好吧.谢谢你,[name]先生......"
 
 # game/scripts/autumn_events.rpy:7523
 translate schinese autumncafe_15201988:
@@ -28257,7 +28257,7 @@ translate schinese autumncafe_15201988:
 translate schinese autumncafe_d79e1ff3:
 
     # c "I could have driven you."
-    c "我可以载你的."
+    c "我可以开车载你的."
 
 # game/scripts/autumn_events.rpy:7525
 translate schinese autumncafe_e2f88edf:
@@ -28275,7 +28275,7 @@ translate schinese autumncafe_cf2a6a99:
 translate schinese autumncafe_07fba2a0:
 
     # au "So... This is the place!"
-    au "所以......就是这里!"
+    au "那么......就是这里了!"
 
 # game/scripts/autumn_events.rpy:7529
 translate schinese autumncafe_6e438509:
@@ -28287,7 +28287,7 @@ translate schinese autumncafe_6e438509:
 translate schinese autumncafe_eb38829d:
 
     # au "We all built this place by hand right after we moved over here when we were young. We grew along with it..."
-    au "我们年轻的时候搬到这里,就亲手建造了这个地方.我们和它一起成长......"
+    au "我们年轻的时候搬到这里,就亲手建造了这个地方.我们与它一起成长......"
 
 # game/scripts/autumn_events.rpy:7532
 translate schinese autumncafe_fcdc682a:
@@ -28299,31 +28299,31 @@ translate schinese autumncafe_fcdc682a:
 translate schinese autumncafe_a4c4690f:
 
     # c "And you work here?"
-    c "那你在这工作?"
+    c "你在这工作?"
 
 # game/scripts/autumn_events.rpy:7534
 translate schinese autumncafe_188e89f9:
 
     # au "That's right. I mainly clean the dishes and serve the food. Sometimes I help my sister with the business side of things. Hazel over there is also the cashier and barista, other than being the manager."
-    au "是的.我主要是负责洗碗和端菜.有时候我会帮我姐姐处理业务方面的事情.除了经理之外,榛还负责收银和调制咖啡."
+    au "是的.我主要是负责洗碗和上菜,有时候也会帮姐姐打理下商业上的事情.榛除了是经理之外,还是收银员和咖啡师."
 
 # game/scripts/autumn_events.rpy:7535
 translate schinese autumncafe_6ad0fb5a:
 
     # au "Would you like some coffee Mr. [name]? I'll pay for it!"
-    au "你想来点咖啡吗,[name]先生?我请你!"
+    au "你想来点咖啡吗,[name]先生?我请客!"
 
 # game/scripts/autumn_events.rpy:7536
 translate schinese autumncafe_c48dc32f:
 
     # c "Sure."
-    c "当然可以."
+    c "那就来点."
 
 # game/scripts/autumn_events.rpy:7538
 translate schinese autumncafe_52484dd0:
 
     # au "Hey sis!"
-    au "嘿姐姐!"
+    au "嘿,姐姐!"
 
 # game/scripts/autumn_events.rpy:7539
 translate schinese autumncafe_36bb9226:
@@ -28359,13 +28359,13 @@ translate schinese autumncafe_4ebd3f77:
 translate schinese autumncafe_087845f7:
 
     # ha "He's the guy."
-    ha "他就是那个人."
+    ha "是他."
 
 # game/scripts/autumn_events.rpy:7548
 translate schinese autumncafe_354e2b69:
 
     # au "The guy?"
-    au "什么人?"
+    au "什么他?"
 
 # game/scripts/autumn_events.rpy:7549
 translate schinese autumncafe_6d6b37dc:
@@ -28377,7 +28377,7 @@ translate schinese autumncafe_6d6b37dc:
 translate schinese autumncafe_301aa941:
 
     # au "What? He can't be the guy?"
-    au "什么?他不可能是那个人的?"
+    au "什么?他不是那个人吧?"
 
 # game/scripts/autumn_events.rpy:7555
 translate schinese autumncafe_f9dcb8b5:
@@ -28401,7 +28401,7 @@ translate schinese autumncafe_08dccf16:
 translate schinese autumncafe_b2c78874:
 
     # au "The usual please. And coffee for my friend."
-    au "照旧.还有给我朋友也来一杯."
+    au "还是老样子.还有,给我朋友也来一杯."
 
 # game/scripts/autumn_events.rpy:7560
 translate schinese autumncafe_10c70742:
@@ -28431,7 +28431,7 @@ translate schinese autumncafe_08dccf16_1:
 translate schinese autumncafe_b2c78874_1:
 
     # au "The usual please. And coffee for my friend."
-    au "照旧.还有给我朋友也来一杯."
+    au "还是老样子.还有,给我朋友也来一杯."
 
 # game/scripts/autumn_events.rpy:7568
 translate schinese autumncafe_10c70742_1:
@@ -28503,7 +28503,7 @@ translate schinese autumncafe_08dccf16_2:
 translate schinese autumncafe_b2c78874_2:
 
     # au "The usual please. And coffee for my friend."
-    au "照旧.还有给我朋友也来一杯."
+    au "还是老样子.还有,给我朋友也来一杯."
 
 # game/scripts/autumn_events.rpy:7588
 translate schinese autumncafe_10c70742_2:
@@ -28533,7 +28533,7 @@ translate schinese autumncafe_08dccf16_3:
 translate schinese autumncafe_b2c78874_3:
 
     # au "The usual please. And coffee for my friend."
-    au "照旧.还有给我朋友也来一杯."
+    au "还是老样子.还有,给我朋友也来一杯."
 
 # game/scripts/autumn_events.rpy:7596
 translate schinese autumncafe_10c70742_3:
@@ -28551,13 +28551,13 @@ translate schinese autumncafe_ece8a869:
 translate schinese autumncafe_2a5a88e5:
 
     # ha "Anyway, would you like?"
-    ha "算了,你想要什么?"
+    ha "对了,你想要什么?"
 
 # game/scripts/autumn_events.rpy:7602
 translate schinese autumncafe_b2c78874_4:
 
     # au "The usual please. And coffee for my friend."
-    au "照旧.还有给我朋友也来一杯."
+    au "还是老样子.还有,给我朋友也来一杯."
 
 # game/scripts/autumn_events.rpy:7603
 translate schinese autumncafe_10c70742_4:
@@ -28587,7 +28587,7 @@ translate schinese autumncafe_f0f7cfa9:
 translate schinese autumncafe_a34926ab:
 
     # au "It's a bit strange for a man to own an all girl's hotel, isn't it?"
-    au "一个男人拥有一个住满了女孩的酒店,是不是有点奇怪?"
+    au "一家全女酒店的老板是个男的,这是不是有点奇怪?"
 
 # game/scripts/autumn_events.rpy:7613
 translate schinese autumncafe_291d2049:
@@ -28605,37 +28605,37 @@ translate schinese autumncafe_871ecce0:
 translate schinese autumncafe_e0375c49:
 
     # au "Of course, how didn't you know?"
-    au "当然了,你怎么可能不知道?"
+    au "当然了,你怎么不知道?"
 
 # game/scripts/autumn_events.rpy:7616
 translate schinese autumncafe_4c0182b8:
 
     # c "I guess it's been like that since my grandfather owned the place."
-    c "我想从我爷爷拥有这个地方时候就一直是这样的吧."
+    c "我想,从我爷爷拥有这个地方时候,这里就一直是这样吧."
 
 # game/scripts/autumn_events.rpy:7617
 translate schinese autumncafe_0b2fd9fe:
 
     # au "Oh, well you learn something new every day."
-    au "噢,好吧,你每天都能学到新东西."
+    au "噢,好吧,人总是每天都能学到新东西."
 
 # game/scripts/autumn_events.rpy:7619
 translate schinese autumncafe_6f0ea8bb:
 
     # au "That's good to hear Mr. [name]. Especially in this country."
-    au "听到这个消息真好,[name]先生.特别是在这个国家."
+    au "很高兴听你这么说,[name]先生.尤其是在这个国家."
 
 # game/scripts/autumn_events.rpy:7622
 translate schinese autumncafe_bd88acc7:
 
     # au "You know, I do like the view... It's a very beautiful country."
-    au "你知道的,我确实很喜欢风景......这是个非常美丽的国家."
+    au "你知道,我确实很喜欢这里的风景......这是个非常美丽的国家."
 
 # game/scripts/autumn_events.rpy:7624
 translate schinese autumncafe_12e16a4c:
 
     # au "Umm... What do you think about the whole Elf situation?"
-    au "嗯......你对精灵的情况是什么看法?"
+    au "嗯......你对精灵的情况有什么看法?"
 
 # game/scripts/autumn_events.rpy:7625
 translate schinese autumncafe_0b4766a5:
@@ -28647,19 +28647,19 @@ translate schinese autumncafe_0b4766a5:
 translate schinese autumncafe_ebc9a7c5:
 
     # au "You know, the slavery of their people?"
-    au "你知道的,他们的族人被奴役了?"
+    au "你知道的,他们被奴役了?"
 
 # game/scripts/autumn_events.rpy:7629
 translate schinese autumncafe_fc86226b:
 
     # au "It's horrible... I mean..."
-    au "我是说......那很可怕......"
+    au "我觉得......很可怕......"
 
 # game/scripts/autumn_events.rpy:7630
 translate schinese autumncafe_32771135:
 
     # au "They're being used as common whores."
-    au "她们被当成普通的妓女一般使用."
+    au "她们被当成了普通的妓女."
 
 # game/scripts/autumn_events.rpy:7631
 translate schinese autumncafe_88982d65:
@@ -28671,19 +28671,19 @@ translate schinese autumncafe_88982d65:
 translate schinese autumncafe_cb71f791:
 
     # au "You really think there's at least one slaver out there who's never looked at their slave in an inappropriate way?"
-    au "你真的觉得会有一个奴隶主从未以任何不恰当的方式去看待他们的奴隶吗?"
+    au "你真的觉得会有奴隶主从未以任何不恰当的方式去看待他的奴隶吗?"
 
 # game/scripts/autumn_events.rpy:7634
 translate schinese autumncafe_a949a6b7:
 
     # au "That's wishful thinking Mr. [name]..."
-    au "那是一厢情愿的想法,[name]先生......"
+    au "这只是一厢情愿,[name]先生......"
 
 # game/scripts/autumn_events.rpy:7636
 translate schinese autumncafe_7a4700e3:
 
     # au "What are your thoughts?"
-    au "你觉得呢?"
+    au "你有什么想法?"
 
 # game/scripts/autumn_events.rpy:7640
 translate schinese autumncafe_eafc8bdd:
@@ -28695,7 +28695,7 @@ translate schinese autumncafe_eafc8bdd:
 translate schinese autumncafe_c1870c17:
 
     # au "I guess that's good to hear."
-    au "我想这是个好消息."
+    au "能听到你这么说,我很高兴."
 
 # game/scripts/autumn_events.rpy:7645
 translate schinese autumncafe_c3c00f64:
@@ -28707,13 +28707,13 @@ translate schinese autumncafe_c3c00f64:
 translate schinese autumncafe_5088537c:
 
     # au "It seems to be the norm around here, doesn't it?"
-    au "这在这里看起来很正常,对吧?"
+    au "这似乎是这里的常态,不是吗?"
 
 # game/scripts/autumn_events.rpy:7648
 translate schinese autumncafe_222a1f0f:
 
     # au "Still, this is only country in the world that allows slavery of Elves, and it was their continent to begin with..."
-    au "不过,这是世界上唯一一个允许奴役精灵的国家,而且这里一开始就是精灵们的大陆......"
+    au "不过,这是世界上唯一允许奴役精灵的国家,而且这里一开始就是精灵们的大陆......"
 
 # game/scripts/autumn_events.rpy:7649
 translate schinese autumncafe_475c6351:
@@ -28725,7 +28725,7 @@ translate schinese autumncafe_475c6351:
 translate schinese autumncafe_eda71090:
 
     # c "Actually I was told Elves were pretty new to this continent when Humans got there as well."
-    c "事实上,我听说当人类来到这个大陆时,精灵们对这个大陆还很陌生."
+    c "事实上,我听说,当人类来到这片大陆时,精灵们也刚刚来到这里."
 
 # game/scripts/autumn_events.rpy:7653
 translate schinese autumncafe_561d9af0:
@@ -28761,7 +28761,7 @@ translate schinese autumncafe_c3c00f64_1:
 translate schinese autumncafe_660d6563:
 
     # au "I just wish there was something I could do about it..."
-    au "我只是希望我可以做一些事情来改变现状......"
+    au "我只是希望我能做点什么......"
 
 # game/scripts/autumn_events.rpy:7661
 translate schinese autumncafe_311b0cf7:
@@ -28779,7 +28779,7 @@ translate schinese autumncafe_9bc8c823:
 translate schinese autumncafe_75f33185:
 
     # c "You're religious?"
-    c "你是宗教人士吗?"
+    c "你是教徒吗?"
 
 # game/scripts/autumn_events.rpy:7665
 translate schinese autumncafe_fbfea704:
@@ -28803,7 +28803,7 @@ translate schinese autumncafe_1e8acc57:
 translate schinese autumncafe_1a8ad357:
 
     # c "It's unbuttoned. You're showing off cleavage."
-    c "它没有扣上纽扣.你的乳沟漏出来了."
+    c "你扣子没扣,乳沟都漏出来了."
 
 # game/scripts/autumn_events.rpy:7670
 translate schinese autumncafe_302a7489:
@@ -28815,19 +28815,19 @@ translate schinese autumncafe_302a7489:
 translate schinese autumncafe_d887566d:
 
     # au "Cursed with a sinful body. The buttons would just break if I buttoned it."
-    au "我被这具罪恶的身体诅咒了.如果我扣上纽扣,它就会崩开."
+    au "我罪恶的身体被诅咒了,扣子一扣上就会崩开."
 
 # game/scripts/autumn_events.rpy:7672
 translate schinese autumncafe_68ee3b78:
 
     # au "Don't worry, I plan to do some shopping later. These are some really old clothes, I donated my others to help the Elves."
-    au "别担心,我打算之后去买点东西.这些都是一些旧衣服,我会把我的其他衣服捐出来帮助其他精灵们的."
+    au "别担心,我打算之后去买点东西.这些衣服都穿很久了,我把其他的都捐给了精灵们."
 
 # game/scripts/autumn_events.rpy:7674
 translate schinese autumncafe_4c299e9d:
 
     # au "We don't need to talk about my cleavage though."
-    au "但是我们不需要谈论我的乳沟."
+    au "不过,我们没必要谈论我的乳沟."
 
 # game/scripts/autumn_events.rpy:7676
 translate schinese autumncafe_e588d08a:
@@ -28851,7 +28851,7 @@ translate schinese autumncafe_0ed1a2e8:
 translate schinese autumncafe_7103a5eb:
 
     # au "I guess we're both kind of successful in this world, aren't we?"
-    au "我想我们在这个世界上都是有点成果的,对吧?"
+    au "我想.我们在这个世界上都算是有点成果的,对吧?"
 
 # game/scripts/autumn_events.rpy:7680
 translate schinese autumncafe_cf2a6a99_1:
@@ -28863,19 +28863,19 @@ translate schinese autumncafe_cf2a6a99_1:
 translate schinese autumncafe_194c348b:
 
     # ha "Sorry to interrupt you guys..."
-    ha "对不起打扰你们了......"
+    ha "对不起,打扰你们了......"
 
 # game/scripts/autumn_events.rpy:7683
 translate schinese autumncafe_e2644cf6:
 
     # au "What's wrong Hazel?"
-    au "怎么了榛?"
+    au "怎么了,榛?"
 
 # game/scripts/autumn_events.rpy:7684
 translate schinese autumncafe_3d13763f:
 
     # ha "Well, it's rush hour, and it looks like there's more people than usual coming in today, do you think you could help me out for a couple of minutes?"
-    ha "嗯,现在是高峰时期,看起来今天来的人比平时还要多,你可以帮我几分钟吗?"
+    ha "嗯,现在是高峰时段,看来今天来的人比平时多,你可以帮我几分钟吗?"
 
 # game/scripts/autumn_events.rpy:7685
 translate schinese autumncafe_27b4a18b:
@@ -28887,25 +28887,25 @@ translate schinese autumncafe_27b4a18b:
 translate schinese autumncafe_b1e9a58b:
 
     # au "Sorry [name], I hope you don't mind."
-    au "对不起[name],我希望你不要介意."
+    au "对不起,[name],希望你不要介意."
 
 # game/scripts/autumn_events.rpy:7688
 translate schinese autumncafe_5f72f7a0:
 
     # c "No, go ahead."
-    c "不会,去吧."
+    c "当然不会,去吧."
 
 # game/scripts/autumn_events.rpy:7689
 translate schinese autumncafe_61eab082:
 
     # au "I won't be long!"
-    au "我不会很久的!"
+    au "我不会去太久的!"
 
 # game/scripts/autumn_events.rpy:7691
 translate schinese autumncafe_3ced8dbf:
 
     # "Autumn enters the staff room to change clothes..."
-    "秋进入员工室里去更换衣服了......"
+    "秋进入员工室换衣服......"
 
 # game/scripts/autumn_events.rpy:7693
 translate schinese autumncafe_a18a4a2d:
@@ -28923,7 +28923,7 @@ translate schinese autumncafe_46ac7287:
 translate schinese autumncafe_292dffcc:
 
     # ha "Great! Just serve the guests please!"
-    ha "太好了!请你为客人服务吧!"
+    ha "太好了!招呼下客人就行了!"
 
 # game/scripts/autumn_events.rpy:7698
 translate schinese autumncafe_1542360f:
@@ -28935,7 +28935,7 @@ translate schinese autumncafe_1542360f:
 translate schinese autumncafe_78de7720:
 
     # au "Hello! Here are your espressos!"
-    au "你好!这是你的浓缩咖啡!"
+    au "你好!这是您的浓缩咖啡!"
 
 # game/scripts/autumn_events.rpy:7701
 translate schinese autumncafe_12ab2a36:
@@ -28947,13 +28947,13 @@ translate schinese autumncafe_12ab2a36:
 translate schinese autumncafe_b4f02595:
 
     # by "Damn she's got a nice ass."
-    by "妈的,她的屁股好漂亮/"
+    by "妈的,她的屁股真棒."
 
 # game/scripts/autumn_events.rpy:7703
 translate schinese autumncafe_3cb7e7f4:
 
     # by "Dude, don't say it in front of her."
-    by "兄弟,别在她面前说这话."
+    by "哥们,别在她面前说这话."
 
 # game/scripts/autumn_events.rpy:7705
 translate schinese autumncafe_9ba800f6:
@@ -28983,19 +28983,19 @@ translate schinese autumncafe_1542360f_1:
 translate schinese autumncafe_98abc867:
 
     # au "Here are your lattes!"
-    au "这是你的拿铁!"
+    au "这是您的拿铁!"
 
 # game/scripts/autumn_events.rpy:7712
 translate schinese autumncafe_224af826:
 
     # by "I wish my wife had tits like yours..."
-    by "我希望我的老婆有你这样的奶子......"
+    by "真希望我的老婆有你这样的奶子......"
 
 # game/scripts/autumn_events.rpy:7714
 translate schinese autumncafe_74111af4:
 
     # au "That wasn't nice."
-    au "那可不好."
+    au "请不要这么说."
 
 # game/scripts/autumn_events.rpy:7715
 translate schinese autumncafe_9562ff5b:
@@ -29019,7 +29019,7 @@ translate schinese autumncafe_a047e658:
 translate schinese autumncafe_2a678ffd:
 
     # au "*sigh*, sorry about that Mr. [name]."
-    au "*叹气*,对不起[name]先生."
+    au "*叹气*,对不起,[name]先生."
 
 # game/scripts/autumn_events.rpy:7721
 translate schinese autumncafe_6fe99c43:
@@ -29031,37 +29031,37 @@ translate schinese autumncafe_6fe99c43:
 translate schinese autumncafe_b068eaf9:
 
     # au "Haha, yeah... It happens a lot."
-    au "哈哈,是的......这经常发生."
+    au "哈哈,是的......这种事情经常发生."
 
 # game/scripts/autumn_events.rpy:7724
 translate schinese autumncafe_5c019d56:
 
     # au "Sometimes I just wish I were born in a different body..."
-    au "有时候我希望我身体并不是这样的......"
+    au "有时候,我希望我身体并不是这样的......"
 
 # game/scripts/autumn_events.rpy:7725
 translate schinese autumncafe_f34f39ac:
 
     # au "Well Mr. [name], it was nice talking with you today. I think I'm going to head back and take a rest now, haha... I'm pretty worn out."
-    au "嗯,[name]先生,今天很高兴和你交谈.我想我现在要回去休息了,哈哈......我很累了."
+    au "嗯,[name]先生,很高兴今天能和你交谈.我想我现在要回去休息了,哈哈......我累坏了."
 
 # game/scripts/autumn_events.rpy:7732
 translate schinese autumnin_65efa354:
 
     # au "Is that even? Urgh, I can't tell..."
-    au "是这样的吗?呃,我不知道......"
+    au "是这样的吗?呃,我看不太出来......"
 
 # game/scripts/autumn_events.rpy:7734
 translate schinese autumnin_795190ed:
 
     # au "Yeah! That looks about right..."
-    au "是的!看起来对了......"
+    au "是的!看起来差不多了......"
 
 # game/scripts/autumn_events.rpy:7736
 translate schinese autumnin_12a358c1:
 
     # au "Phew! I think that's everything!"
-    au "呼!我想这就是了!"
+    au "呼!我想就这些了!"
 
 # game/scripts/autumn_events.rpy:7742
 translate schinese autumnin_8d4c1c01:
@@ -29073,7 +29073,7 @@ translate schinese autumnin_8d4c1c01:
 translate schinese autumnin_6104df00:
 
     # au "Yeah! It's looking nice! Bigger than I expected..."
-    au "太好了!它看起来很不错!比我想象中的还要大......"
+    au "太好了!看起来很不错!比我想象中的还要大......"
 
 # game/scripts/autumn_events.rpy:7744
 translate schinese autumnin_e945dff5:
@@ -29085,7 +29085,7 @@ translate schinese autumnin_e945dff5:
 translate schinese autumnin_52f8f44e:
 
     # au "Oh, Mr. [name]! Come to check up on me?"
-    au "噢,[name]先生!是来看看我的吗?"
+    au "噢,[name]先生!你是来看我的吗?"
 
 # game/scripts/autumn_events.rpy:7751
 translate schinese autumnin_aa0afc31:
@@ -29103,7 +29103,7 @@ translate schinese autumnin_297d93f3:
 translate schinese autumnin_721ffa0a:
 
     # au "You came to check up on me. Like I said?"
-    au "你是来看看我的.对吧?"
+    au "你是来看我的.对吧?"
 
 # game/scripts/autumn_events.rpy:7754
 translate schinese autumnin_25e9635c:
@@ -29121,7 +29121,7 @@ translate schinese autumnin_2f72de0e:
 translate schinese autumnin_98142391:
 
     # au "It's such a beautiful hotel you own Mr. [name]..."
-    au "[name]先生,你拥有的这家酒店真是太漂亮了......"
+    au "[name]先生,你这家酒店真是太漂亮了......"
 
 # game/scripts/autumn_events.rpy:7760
 translate schinese autumnin_bae01f69:
@@ -29133,49 +29133,49 @@ translate schinese autumnin_bae01f69:
 translate schinese autumnin_21019755:
 
     # au "They say white means innocence, but I just think it looks nice."
-    au "他们说白色意味着纯真,但我只是觉得它们看起来很好看."
+    au "他们说白色意味着纯洁,但我只是觉得它们看起来很美."
 
 # game/scripts/autumn_events.rpy:7764
 translate schinese autumnin_9eaf569b:
 
     # au "You know, before I moved, my sister warned me about the people here..."
-    au "你知道吗,在我搬出去之前,我姐姐警告过我这里面的人......"
+    au "你知道吗,在我搬来之前,我姐姐就警告过我这里的人......"
 
 # game/scripts/autumn_events.rpy:7766
 translate schinese autumnin_aa1bf827:
 
     # au "I don't mean you! Of course..."
-    au "当然了!我不是说你......"
+    au "当然!我不是说你......"
 
 # game/scripts/autumn_events.rpy:7767
 translate schinese autumnin_1f2065c0:
 
     # au "I just mean... Everywhere but where I was from."
-    au "我只是说......除了我的故乡,其他地方都是如此."
+    au "我的意思是......除了我的故乡以外的地方的人."
 
 # game/scripts/autumn_events.rpy:7768
 translate schinese autumnin_ba23b81c:
 
     # au "I should get to the point. How well do you know the others living here?"
-    au "我应该进入正题了.你对住在这里的其他人了解多少?"
+    au "我说正题吧,你对住在这里的其他人有什么了解吗?"
 
 # game/scripts/autumn_events.rpy:7771
 translate schinese autumnin_3ee9fbdb:
 
     # au "Wow! You all must be one big family!"
-    au "哇哦!你们肯定是一个大家庭!"
+    au "哇哦!你们一定是个大家庭!"
 
 # game/scripts/autumn_events.rpy:7773
 translate schinese autumnin_42b4aa8d:
 
     # au "That's so good to hear!"
-    au "很高兴听到这件事!"
+    au "很高兴听到这个消息!"
 
 # game/scripts/autumn_events.rpy:7775
 translate schinese autumnin_b79aec99:
 
     # au "Do you know how, um... Virtuous... They are?"
-    au "你知道他们的,嗯......三观......怎么样吗?"
+    au "你知道他们的,嗯......品德......怎么样吗?"
 
 # game/scripts/autumn_events.rpy:7776
 translate schinese autumnin_bb00a52c:
@@ -29211,13 +29211,13 @@ translate schinese autumnin_d00091f6:
 translate schinese autumnin_e71f7d33:
 
     # c "Enlighten me."
-    c "解释一下."
+    c "请解释一下."
 
 # game/scripts/autumn_events.rpy:7785
 translate schinese autumnin_e130d9cf:
 
     # au "Mr. [name]... Are you really going to make me ask?"
-    au "[name]先生......你真的得让我问吗?"
+    au "[name]先生......你真的想让我问吗?"
 
 # game/scripts/autumn_events.rpy:7786
 translate schinese autumnin_d19f855d:
@@ -29229,7 +29229,7 @@ translate schinese autumnin_d19f855d:
 translate schinese autumnin_0c8536e6:
 
     # au "I chose this place because it was an all female hotel... You know?"
-    au "我选择这个酒店是因为这里是一个全是女性的酒店......你知道吧?"
+    au "我之所以选择这里,是因为这是一家全女酒店......你知道吧?"
 
 # game/scripts/autumn_events.rpy:7789
 translate schinese autumnin_ebe96166:
@@ -29241,43 +29241,43 @@ translate schinese autumnin_ebe96166:
 translate schinese autumnin_b442a8a4:
 
     # au "What I'm asking is... Are they virgins?"
-    au "我问的是......她们是处女吗?"
+    au "我想问的是......她们是处女吗?"
 
 # game/scripts/autumn_events.rpy:7791
 translate schinese autumnin_e03dad2f:
 
     # c "That's an odd question."
-    c "这个问题有点奇怪啊."
+    c "这个问题有点奇怪."
 
 # game/scripts/autumn_events.rpy:7793
 translate schinese autumnin_74c5c1f6:
 
     # au "Right! Okay, thanks for clearing that up for me then."
-    au "是的!好吧,谢谢你为我澄清了这一点."
+    au "对!好吧,谢谢你帮我澄清了这个问题."
 
 # game/scripts/autumn_events.rpy:7794
 translate schinese autumnin_e16f24d2:
 
     # c "I didn't clear anything up..."
-    c "我什么都没说......"
+    c "我还什么都没说......"
 
 # game/scripts/autumn_events.rpy:7796
 translate schinese autumnin_6e7c1cdc:
 
     # au "So what about you Mr. [name]? I know you mentioned you weren't religious, but are you... Righteous?"
-    au "所以你呢,[name]先生?我知道你不信教,但是你认为......自己是个正义的人吗?"
+    au "那么,你呢,[name]先生?我知道你说过你不信教,但是你......正直吗?"
 
 # game/scripts/autumn_events.rpy:7799
 translate schinese autumnin_7742386f:
 
     # au "That's good to hear, Mr. [name]."
-    au "听到这个消息太好了,[name]先生."
+    au "能听你这么说真是太好了,[name]先生."
 
 # game/scripts/autumn_events.rpy:7801
 translate schinese autumnin_9ea57441:
 
     # au "On the fence, huh? I don't blame you. If I weren't born into it myself, I don't know where I'd be."
-    au "还在犹豫,嗯?我不怪你.如果我自己不是出生在一个宗教家庭里,我也不知道我会是怎么样的."
+    au "有些犹豫不决,嗯?我不怪你.如果我不是生在宗教信仰的环境里,我也不知道我会怎么样."
 
 # game/scripts/autumn_events.rpy:7804
 translate schinese autumnin_06e63265:
@@ -29295,31 +29295,31 @@ translate schinese autumnin_cfff4c5b:
 translate schinese autumnin_708b46f9:
 
     # au "I suppose I should let you know I work at my sister's cafe Monday through Friday. I take the morning shift."
-    au "我想我应该让你知道我周一到周五在我姐姐的咖啡馆工作.我上的是早班."
+    au "我想我应该告诉你,我周一到周五在我姐姐的咖啡馆工作.我上的是早班."
 
 # game/scripts/autumn_events.rpy:7808
 translate schinese autumnin_6d4395e6:
 
     # au "And Sunday Noon, I go to church. You're welcome to join me if you'd like."
-    au "还有周日中午,我会去教堂.如果你愿意,欢迎你和我一起去."
+    au "周日中午,我会去教堂.如果你愿意,欢迎你和我一起去."
 
 # game/scripts/autumn_events.rpy:7809
 translate schinese autumnin_07761bd9:
 
     # au "Oh, right! I did invite you to grab a coffee with me at my sister's cafe! You're still available, right Mr. [name]?"
-    au "哦,对了!我想邀请你和我一起去我姐姐的咖啡馆喝咖啡!你有空吗,[name]先生?"
+    au "哦,对了!我想邀请你去我姐姐的咖啡馆喝咖啡!你现在有空吗,[name]先生?"
 
 # game/scripts/autumn_events.rpy:7810
 translate schinese autumnin_c48dc32f:
 
     # c "Sure."
-    c "当然可以."
+    c "当然了."
 
 # game/scripts/autumn_events.rpy:7811
 translate schinese autumnin_cad26e28:
 
     # au "Good! Then, we'll definitely have to go after I get some rest!"
-    au "太好了!那等我休息好了我们就去吧!"
+    au "太好了!那等我休息好了,我们一定要去!"
 
 # game/scripts/autumn_events.rpy:7812
 translate schinese autumnin_f9f9acd4:
