@@ -27885,7 +27885,7 @@ translate schinese autkit_922f6616:
 translate schinese autkit_dbf3c192:
 
     # au "I think you should just be proud you're free now."
-    au "我觉得你应该为你的自由而骄傲."
+    au "我觉得你应该为自己现在的自由感到骄傲."
 
 # game/scripts/autumn_events.rpy:7439
 translate schinese autkit_7afb4bb5:
