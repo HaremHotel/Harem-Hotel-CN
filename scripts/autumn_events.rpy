@@ -25017,7 +25017,7 @@ translate schinese autsecret_b90212b9:
 translate schinese autsecret_c0a5bd9e:
 
     # bot "That's right! And his penis has always been sad and droopy too! Sometimes it even cried because it knew it was never going to cum again! But then you helped him last night, and now he's going to live!"
-    bot "是的!他的肉棒总是垂头丧气的,有时候甚至还会哭!因为它知道自己再也射不出来了!但是,你昨晚帮了他,现在他又可以活下去了!
+    bot "是的!他的肉棒总是垂头丧气的,有时候甚至还会哭!因为它知道自己再也射不出来了!但是,你昨晚帮了他,现在他又可以活下去了!"
 
 # game/scripts/autumn_events.rpy:6729
 translate schinese autsecret_c77e2e66:
