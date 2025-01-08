@@ -3,7 +3,7 @@
 translate schinese prebar_fe710902:
 
     # "Sports day is going on, the crowd is too big..."
-    "体育日正在进行,人太多了......"
+    "体育日正在举行,那里人太多了......"
 
 # game/scripts/bar.rpy:181
 translate schinese bar_9b3fde8d:
@@ -39,7 +39,7 @@ translate schinese bar_9b3fde8d_3:
 translate schinese firstspank_666d3373:
 
     # moon "No! Wait! PLEASE! I can fix this!"
-    moon "不!等等!求你了!我会搞好的!"
+    moon "不!等等!{b}求你了!{/b}我可以搞定的!"
 
 # game/scripts/bar.rpy:204
 translate schinese firstspank_4cf4c7d5:
@@ -51,7 +51,7 @@ translate schinese firstspank_4cf4c7d5:
 translate schinese firstspank_6871f93b:
 
     # pat "What a dump..."
-    pat "真是个垃圾场......"
+    pat "真是个垃圾堆......"
 
 # game/scripts/bar.rpy:206
 translate schinese firstspank_ec700bea:
@@ -75,7 +75,7 @@ translate schinese firstspank_4732b4ca:
 translate schinese firstspank_e5119cb1:
 
     # bart "You're going to want to talk to Moon... Just give me a call next time I'm able to come to work."
-    bart "你得和文谈谈......下次我可以过来上班的时候打个电话给我就行."
+    bart "你得和文谈谈......我可以过来上班的时候给我打个电话就行."
 
 # game/scripts/bar.rpy:211
 translate schinese firstspank_297d93f3:
@@ -87,7 +87,7 @@ translate schinese firstspank_297d93f3:
 translate schinese firstspank_7f330ee1:
 
     # moon "I'm so sorry Mr. [name]! I'm so sorry! I ruined everything! *sob*"
-    moon "对不起[name]先生!对不起!我把一切都毁了!*抽泣*"
+    moon "对不起，[name]先生!对不起!我把一切都毁了!*抽泣*"
 
 # game/scripts/bar.rpy:214
 translate schinese firstspank_0c5aed51:
@@ -99,7 +99,7 @@ translate schinese firstspank_0c5aed51:
 translate schinese firstspank_d3c7f6df:
 
     # moon "I broke everything! All the glasses! We only have a couple left!"
-    moon "我把东西都打坏了!所有的玻璃杯!我们只剩下两只了!"
+    moon "我把所有的玻璃杯都打坏了!只剩下两只!"
 
 # game/scripts/bar.rpy:216
 translate schinese firstspank_8af7f45e:
@@ -111,49 +111,49 @@ translate schinese firstspank_8af7f45e:
 translate schinese firstspank_8b1274dc:
 
     # moon "I was trying to reach for one off the shelf and I took the whole thing down!"
-    moon "我想伸手去拿架子上的玻璃杯,结果把整个架子都拉下来了!"
+    moon "我想去拿架子上的玻璃杯,结果把整个架子都拉了下来!"
 
 # game/scripts/bar.rpy:218
 translate schinese firstspank_6185b544:
 
     # moon "Bart and Maria are going to be out of a job now, and it's all my fault! I'm so sorry! Please forgive me!"
-    moon "巴特和玛丽亚现在要失业了,这都是我的错!我很抱歉!请原谅我!"
+    moon "巴特和玛丽亚现在要失业了,这都是我的错!对不起!请原谅我!"
 
 # game/scripts/bar.rpy:220
 translate schinese firstspank_a27e8514:
 
     # moon "I-I'll pay for everything! You can have all my money!"
-    moon "我-我会支付一切费用的!你可以用我所有的钱!"
+    moon "我-我会赔偿一切费用的!你可以拿走我所有的钱!"
 
 # game/scripts/bar.rpy:221
 translate schinese firstspank_e831aa4d:
 
     # c "I'm not taking any of your money..."
-    c "我不会拿你的钱的......"
+    c "我不会拿你一分钱......"
 
 # game/scripts/bar.rpy:222
 translate schinese firstspank_52296cfd:
 
     # moon "You have to! The punishment must fit the crime, it's what my father always enforced! I have to pay for this!"
-    moon "你必须拿!惩罚必须和过错相匹配,这也是我爸爸一直以来所执行的!我必须为此付出代价!"
+    moon "你必须拿!犯什么错就要受什么惩罚,这是我爸爸一贯的要求!我必须为此付出代价!"
 
 # game/scripts/bar.rpy:223
 translate schinese firstspank_82cc2713:
 
     # c "You worked for that money, you'll keep it."
-    c "你是来这里赚钱的,你可以留着它."
+    c "这些钱是你努力挣来的,你可以留着它."
 
 # game/scripts/bar.rpy:224
 translate schinese firstspank_322f5e1a:
 
     # moon "What!? That doesn't make any sense! I messed up! I have to make this right!"
-    moon "什么!?那没道理!我把一切都搞砸了!我必须把它改正过来!"
+    moon "什么!?那没道理!我搞砸了!我必须把它改正过来!"
 
 # game/scripts/bar.rpy:225
 translate schinese firstspank_86836fa5:
 
     # moon "I-I'll work for only half my pay then! I can afford that for while! I don't want Maria or Bart to be homeless!"
-    moon "那-那我就只拿一半工资!我暂时还可以负担得起!我不希望玛丽亚或者巴特无家可归!"
+    moon "那-那我就只拿一半工资!我暂时能负担得起!我不想让玛丽亚和巴特无家可归!"
 
 # game/scripts/bar.rpy:226
 translate schinese firstspank_d19f855d:
@@ -177,13 +177,13 @@ translate schinese firstspank_62636ae3:
 translate schinese firstspank_0a7dbe13:
 
     # moon "It must be done!"
-    moon "你必须这样做!"
+    moon "我必须被惩罚!"
 
 # game/scripts/bar.rpy:230
 translate schinese firstspank_efda75ff:
 
     # c "...Then I'll spank you. {size=-15}please don't hit me{/size}"
-    c "......那我会打你屁股.{size=-15}请别打我{/size}"
+    c "......那我就打你屁股.{size=-15}请别打我{/size}"
 
 # game/scripts/bar.rpy:232
 translate schinese firstspank_4984c9d6:
@@ -195,25 +195,25 @@ translate schinese firstspank_4984c9d6:
 translate schinese firstspank_e2519fa6:
 
     # moon "DO YOU WANT TO LOSE YOUR TEETH!?" with ssshake
-    moon "你想满地找牙吗!?" with ssshake
+    moon "{b}你想被我打得满地找牙吗!?{/b}" with ssshake
 
 # game/scripts/bar.rpy:235
 translate schinese firstspank_d32e8a64:
 
     # c "Are you saying your father never spanked you as a punishment?"
-    c "你是说你爸爸从来没打你屁股?"
+    c "你是说你爸爸从来没打过你屁股?"
 
 # game/scripts/bar.rpy:236
 translate schinese firstspank_400ee6fd:
 
     # moon "Of course not! He never laid a hand on me!"
-    moon "当然没有!他从来都没有对我动过手!"
+    moon "当然没有!他从来都没有对我动过粗!"
 
 # game/scripts/bar.rpy:237
 translate schinese firstspank_ec9b52e0:
 
     # c "It's a very common punishment."
-    c "这是一个非常常见的惩罚."
+    c "这是一种非常常见的惩罚."
 
 # game/scripts/bar.rpy:238
 translate schinese firstspank_be3d2126:
@@ -225,19 +225,19 @@ translate schinese firstspank_be3d2126:
 translate schinese firstspank_a9bb6210:
 
     # c "You don't need to be one. And besides, you're the one asking for a punishment."
-    c "你不需要是.而且,你才是那个要求惩罚的人."
+    c "你不需要是.而且,是你自己要求惩罚的."
 
 # game/scripts/bar.rpy:240
 translate schinese firstspank_dc981473:
 
     # moon "Choose something else!"
-    moon "那就选点别的!"
+    moon "那就选点别的惩罚啊!"
 
 # game/scripts/bar.rpy:241
 translate schinese firstspank_8233ebc2:
 
     # c "No more hot springs?"
-    c "不能去温泉呢?"
+    c "禁止去温泉?"
 
 # game/scripts/bar.rpy:242
 translate schinese firstspank_50b97277:
@@ -249,7 +249,7 @@ translate schinese firstspank_50b97277:
 translate schinese firstspank_30a10ae1:
 
     # c "No more alcohol?"
-    c "不能喝酒呢?"
+    c "禁止喝酒?"
 
 # game/scripts/bar.rpy:244
 translate schinese firstspank_ec045a7d:
@@ -261,7 +261,7 @@ translate schinese firstspank_ec045a7d:
 translate schinese firstspank_5cc8cb2a:
 
     # c "How about you undress, I tie you up outside and write demeaning words on your body for 7 days?"
-    c "那我把你衣服脱了,然后在你身上写很多不好的词语,然后把你绑在外面晾上七天,如何?"
+    c "那我把你衣服脱了,在你身上写脏话,然后把你绑在外面晾上七天,如何?"
 
 # game/scripts/bar.rpy:247
 translate schinese firstspank_54c2182b:
@@ -291,7 +291,7 @@ translate schinese firstspank_e69e42b8:
 translate schinese firstspank_23d8c261:
 
     # moon "TAKE MY MONEY!"
-    moon "拿我的钱!!!"
+    moon "{b}拿我的钱!{/b}"
 
 # game/scripts/bar.rpy:253
 translate schinese firstspank_e69e42b8_1:
@@ -309,7 +309,7 @@ translate schinese firstspank_d6976022:
 translate schinese firstspank_fc6ded52:
 
     # moon "Fine, you want to spank me? That's both humiliating and embarrassing! So I guess it's good enough."
-    moon "好吧,你想打我屁股是吧?这既令人难堪也令人羞耻.我想这也算够了."
+    moon "好吧,你想打我屁股是吧?既丢脸又尴尬,我想这也算够了."
 
 # game/scripts/bar.rpy:258
 translate schinese firstspank_871ecce0:
@@ -321,7 +321,7 @@ translate schinese firstspank_871ecce0:
 translate schinese firstspank_20f5c79d:
 
     # moon "Nobody else is here, and so long as you don't take pictures or touch me anywhere you shouldn't, you'll keep your head!"
-    moon "这也没有别人,只要你不拍照,不碰我不该碰的地方,你就可以保住你的脑袋!"
+    moon "这也没有别人,只要你不拍照,不碰不该碰的地方,你就可以保住你的脑袋!"
 
 # game/scripts/bar.rpy:262
 translate schinese firstspank_7210720c:
@@ -339,7 +339,7 @@ translate schinese firstspank_6cce0516:
 translate schinese firstspank_e1e94a60:
 
     # moon "Don't look at them!"
-    moon "别看它们!"
+    moon "别看!"
 
 # game/scripts/bar.rpy:265
 translate schinese firstspank_96d04c5f:
@@ -363,7 +363,7 @@ translate schinese firstspank_3888c1ee:
 translate schinese firstspank_dad59b7f:
 
     # moon "Fine... Enough... I think that's enough..."
-    moon "好吧......够了......我想已经够了......"
+    moon "好吧......够了......我觉得已经够了......"
 
 # game/scripts/bar.rpy:275
 translate schinese firstspank_84381bf3:
@@ -387,25 +387,25 @@ translate schinese firstspank_13a409dc:
 translate schinese firstspank_684ac16e:
 
     # moon "Hmph... I suppose that was good enough."
-    moon "嗯......我想这已经够了."
+    moon "哼......我想这就够了."
 
 # game/scripts/bar.rpy:294
 translate schinese firstspank_4c9dd033:
 
     # c "A little spanking for hundreds of dollars worth of glasses?"
-    c "价值几百美元的玻璃杯换一个小小的打屁股?"
+    c "价值几百块的玻璃杯换一次小小的打屁股?"
 
 # game/scripts/bar.rpy:296
 translate schinese firstspank_2b749f59:
 
     # moon "But you said you didn't want my money!"
-    moon "但是你说你不想要我的钱的!"
+    moon "但你说你不想要我的钱!"
 
 # game/scripts/bar.rpy:297
 translate schinese firstspank_235fc483:
 
     # c "I did, and I'm not going to take it."
-    c "我是这么说的,我也不会拿."
+    c "我是这么说,我也不会拿."
 
 # game/scripts/bar.rpy:298
 translate schinese firstspank_87cf91e9:
@@ -423,7 +423,7 @@ translate schinese firstspank_73d73c4d:
 translate schinese firstspank_52cabc51:
 
     # moon "Give me a call if I'm able to come into work tomorrow..."
-    moon "如果我明天可以来上班了就给我打电话......"
+    moon "如果我明天可以来上班了,就给我打电话......"
 
 # game/scripts/bar.rpy:303
 translate schinese firstspank_37b3cb69:
@@ -435,7 +435,7 @@ translate schinese firstspank_37b3cb69:
 translate schinese firstspank_df8bbcf6:
 
     # c "Moon broke all the glasses in the bar. Do we have the funds to replace them?"
-    c "文把酒吧里的玻璃杯都打碎了.我们有钱去替换它们吗?"
+    c "文打碎了酒吧里所有的杯子,我们有钱买新的吗?"
 
 # game/scripts/bar.rpy:306
 translate schinese firstspank_9b5aa049:
@@ -447,7 +447,7 @@ translate schinese firstspank_9b5aa049:
 translate schinese firstspank_0f6ffd14:
 
     # e "Yes, we have some money in reserve, I'll go tonight and replace our glasses."
-    e "是的,我们有一些储备的资金,我今晚就去更换我们的玻璃杯."
+    e "是的,我们有一些储备金,我今晚就去换玻璃杯."
 
 # game/scripts/bar.rpy:321
 translate schinese moonspankingnude_e9b8976d:
@@ -999,7 +999,7 @@ translate schinese moonspankingcatnchard_d7b8ec89:
 translate schinese moonspankingcatnchard_030c8ab8:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:609
 translate schinese moonspankingcatnchard_0b570100:
@@ -1017,13 +1017,13 @@ translate schinese moonspankingcatnchard_bc959e7e:
 translate schinese moonspankingcatnchard_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:619
 translate schinese moonspankingcatnchard_1bdca328:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:621
 translate schinese moonspankingcatnchard_b84f908b:
@@ -1047,7 +1047,7 @@ translate schinese moonspankingcatnchard_0b570100_1:
 translate schinese moonspankingcatnchard_4a0e8d32:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:633
 translate schinese moonspankingcatnchard_d7b8ec89_1:
@@ -1059,7 +1059,7 @@ translate schinese moonspankingcatnchard_d7b8ec89_1:
 translate schinese moonspankingcatnchard_030c8ab8_1:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:637
 translate schinese moonspankingcatnchard_0b570100_2:
@@ -1077,13 +1077,13 @@ translate schinese moonspankingcatnchard_bc959e7e_1:
 translate schinese moonspankingcatnchard_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:647
 translate schinese moonspankingcatnchard_1bdca328_1:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:649
 translate schinese moonspankingcatnchard_b84f908b_1:
@@ -1107,7 +1107,7 @@ translate schinese moonspankingcatnchard_0b570100_3:
 translate schinese moonspankingcatnchard_4a0e8d32_1:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:661
 translate schinese moonspankingcatnchard_d7b8ec89_2:
@@ -1119,7 +1119,7 @@ translate schinese moonspankingcatnchard_d7b8ec89_2:
 translate schinese moonspankingcatnchard_030c8ab8_2:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:665
 translate schinese moonspankingcatnchard_0b570100_4:
@@ -1137,13 +1137,13 @@ translate schinese moonspankingcatnchard_bc959e7e_2:
 translate schinese moonspankingcatnchard_b268297c_2:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:675
 translate schinese moonspankingcatnchard_1bdca328_2:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:677
 translate schinese moonspankingcatnchard_b84f908b_2:
@@ -1167,7 +1167,7 @@ translate schinese moonspankingcatnchard_0b570100_5:
 translate schinese moonspankingcatnchard_4a0e8d32_2:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:692
 translate schinese moonspankingcatnophard_d7b8ec89:
@@ -1179,7 +1179,7 @@ translate schinese moonspankingcatnophard_d7b8ec89:
 translate schinese moonspankingcatnophard_030c8ab8:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:696
 translate schinese moonspankingcatnophard_0b570100:
@@ -1197,13 +1197,13 @@ translate schinese moonspankingcatnophard_bc959e7e:
 translate schinese moonspankingcatnophard_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:706
 translate schinese moonspankingcatnophard_1bdca328:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:708
 translate schinese moonspankingcatnophard_b84f908b:
@@ -1227,7 +1227,7 @@ translate schinese moonspankingcatnophard_0b570100_1:
 translate schinese moonspankingcatnophard_4a0e8d32:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:721
 translate schinese moonspankingcatnophard_d7b8ec89_1:
@@ -1239,7 +1239,7 @@ translate schinese moonspankingcatnophard_d7b8ec89_1:
 translate schinese moonspankingcatnophard_030c8ab8_1:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:725
 translate schinese moonspankingcatnophard_0b570100_2:
@@ -1257,13 +1257,13 @@ translate schinese moonspankingcatnophard_bc959e7e_1:
 translate schinese moonspankingcatnophard_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:735
 translate schinese moonspankingcatnophard_1bdca328_1:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:737
 translate schinese moonspankingcatnophard_b84f908b_1:
@@ -1287,7 +1287,7 @@ translate schinese moonspankingcatnophard_0b570100_3:
 translate schinese moonspankingcatnophard_4a0e8d32_1:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:750
 translate schinese moonspankingcatnophard_d7b8ec89_2:
@@ -1299,7 +1299,7 @@ translate schinese moonspankingcatnophard_d7b8ec89_2:
 translate schinese moonspankingcatnophard_030c8ab8_2:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:754
 translate schinese moonspankingcatnophard_0b570100_4:
@@ -1317,13 +1317,13 @@ translate schinese moonspankingcatnophard_bc959e7e_2:
 translate schinese moonspankingcatnophard_b268297c_2:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:764
 translate schinese moonspankingcatnophard_1bdca328_2:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:766
 translate schinese moonspankingcatnophard_b84f908b_2:
@@ -1347,7 +1347,7 @@ translate schinese moonspankingcatnophard_0b570100_5:
 translate schinese moonspankingcatnophard_4a0e8d32_2:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:779
 translate schinese moonspankingcatnophard_d7b8ec89_3:
@@ -1359,7 +1359,7 @@ translate schinese moonspankingcatnophard_d7b8ec89_3:
 translate schinese moonspankingcatnophard_030c8ab8_3:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:783
 translate schinese moonspankingcatnophard_0b570100_6:
@@ -1377,13 +1377,13 @@ translate schinese moonspankingcatnophard_bc959e7e_3:
 translate schinese moonspankingcatnophard_b268297c_3:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:793
 translate schinese moonspankingcatnophard_1bdca328_3:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:795
 translate schinese moonspankingcatnophard_b84f908b_3:
@@ -1407,7 +1407,7 @@ translate schinese moonspankingcatnophard_0b570100_7:
 translate schinese moonspankingcatnophard_4a0e8d32_3:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:810
 translate schinese moonspankingcatwethard_d7b8ec89:
@@ -1419,7 +1419,7 @@ translate schinese moonspankingcatwethard_d7b8ec89:
 translate schinese moonspankingcatwethard_030c8ab8:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:814
 translate schinese moonspankingcatwethard_0b570100:
@@ -1437,13 +1437,13 @@ translate schinese moonspankingcatwethard_bc959e7e:
 translate schinese moonspankingcatwethard_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:824
 translate schinese moonspankingcatwethard_1bdca328:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:826
 translate schinese moonspankingcatwethard_b84f908b:
@@ -1467,7 +1467,7 @@ translate schinese moonspankingcatwethard_0b570100_1:
 translate schinese moonspankingcatwethard_4a0e8d32:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:839
 translate schinese moonspankingcatwethard_d7b8ec89_1:
@@ -1479,7 +1479,7 @@ translate schinese moonspankingcatwethard_d7b8ec89_1:
 translate schinese moonspankingcatwethard_030c8ab8_1:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:843
 translate schinese moonspankingcatwethard_0b570100_2:
@@ -1497,13 +1497,13 @@ translate schinese moonspankingcatwethard_bc959e7e_1:
 translate schinese moonspankingcatwethard_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:853
 translate schinese moonspankingcatwethard_1bdca328_1:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:855
 translate schinese moonspankingcatwethard_b84f908b_1:
@@ -1527,7 +1527,7 @@ translate schinese moonspankingcatwethard_0b570100_3:
 translate schinese moonspankingcatwethard_4a0e8d32_1:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:868
 translate schinese moonspankingcatwethard_d7b8ec89_2:
@@ -1539,7 +1539,7 @@ translate schinese moonspankingcatwethard_d7b8ec89_2:
 translate schinese moonspankingcatwethard_030c8ab8_2:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:872
 translate schinese moonspankingcatwethard_0b570100_4:
@@ -1557,13 +1557,13 @@ translate schinese moonspankingcatwethard_bc959e7e_2:
 translate schinese moonspankingcatwethard_b268297c_2:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:882
 translate schinese moonspankingcatwethard_1bdca328_2:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:884
 translate schinese moonspankingcatwethard_b84f908b_2:
@@ -1587,7 +1587,7 @@ translate schinese moonspankingcatwethard_0b570100_5:
 translate schinese moonspankingcatwethard_4a0e8d32_2:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:897
 translate schinese moonspankingcatwethard_d7b8ec89_3:
@@ -1599,7 +1599,7 @@ translate schinese moonspankingcatwethard_d7b8ec89_3:
 translate schinese moonspankingcatwethard_030c8ab8_3:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:901
 translate schinese moonspankingcatwethard_0b570100_6:
@@ -1617,13 +1617,13 @@ translate schinese moonspankingcatwethard_bc959e7e_3:
 translate schinese moonspankingcatwethard_b268297c_3:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:911
 translate schinese moonspankingcatwethard_1bdca328_3:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:913
 translate schinese moonspankingcatwethard_b84f908b_3:
@@ -1647,7 +1647,7 @@ translate schinese moonspankingcatwethard_0b570100_7:
 translate schinese moonspankingcatwethard_4a0e8d32_3:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:928
 translate schinese moonspankingcathard_d7b8ec89:
@@ -1659,7 +1659,7 @@ translate schinese moonspankingcathard_d7b8ec89:
 translate schinese moonspankingcathard_030c8ab8:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:932
 translate schinese moonspankingcathard_0b570100:
@@ -1677,13 +1677,13 @@ translate schinese moonspankingcathard_bc959e7e:
 translate schinese moonspankingcathard_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:942
 translate schinese moonspankingcathard_1bdca328:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:944
 translate schinese moonspankingcathard_b84f908b:
@@ -1707,7 +1707,7 @@ translate schinese moonspankingcathard_0b570100_1:
 translate schinese moonspankingcathard_4a0e8d32:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:957
 translate schinese moonspankingcathard_d7b8ec89_1:
@@ -1719,7 +1719,7 @@ translate schinese moonspankingcathard_d7b8ec89_1:
 translate schinese moonspankingcathard_030c8ab8_1:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:961
 translate schinese moonspankingcathard_0b570100_2:
@@ -1737,13 +1737,13 @@ translate schinese moonspankingcathard_bc959e7e_1:
 translate schinese moonspankingcathard_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:971
 translate schinese moonspankingcathard_1bdca328_1:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:973
 translate schinese moonspankingcathard_b84f908b_1:
@@ -1767,7 +1767,7 @@ translate schinese moonspankingcathard_0b570100_3:
 translate schinese moonspankingcathard_4a0e8d32_1:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:986
 translate schinese moonspankingcathard_d7b8ec89_2:
@@ -1779,7 +1779,7 @@ translate schinese moonspankingcathard_d7b8ec89_2:
 translate schinese moonspankingcathard_030c8ab8_2:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:990
 translate schinese moonspankingcathard_0b570100_4:
@@ -1797,13 +1797,13 @@ translate schinese moonspankingcathard_bc959e7e_2:
 translate schinese moonspankingcathard_b268297c_2:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:1000
 translate schinese moonspankingcathard_1bdca328_2:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:1002
 translate schinese moonspankingcathard_b84f908b_2:
@@ -1827,7 +1827,7 @@ translate schinese moonspankingcathard_0b570100_5:
 translate schinese moonspankingcathard_4a0e8d32_2:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:1015
 translate schinese moonspankingcathard_d7b8ec89_3:
@@ -1839,7 +1839,7 @@ translate schinese moonspankingcathard_d7b8ec89_3:
 translate schinese moonspankingcathard_030c8ab8_3:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:1019
 translate schinese moonspankingcathard_0b570100_6:
@@ -1857,13 +1857,13 @@ translate schinese moonspankingcathard_bc959e7e_3:
 translate schinese moonspankingcathard_b268297c_3:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:1029
 translate schinese moonspankingcathard_1bdca328_3:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:1031
 translate schinese moonspankingcathard_b84f908b_3:
@@ -1887,7 +1887,7 @@ translate schinese moonspankingcathard_0b570100_7:
 translate schinese moonspankingcathard_4a0e8d32_3:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:1048
 translate schinese moonspankingcat_2726388d:
@@ -2259,7 +2259,7 @@ translate schinese moonspankingwaitresshard_d7b8ec89:
 translate schinese moonspankingwaitresshard_030c8ab8:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:1237
 translate schinese moonspankingwaitresshard_0b570100:
@@ -2277,13 +2277,13 @@ translate schinese moonspankingwaitresshard_bc959e7e:
 translate schinese moonspankingwaitresshard_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:1247
 translate schinese moonspankingwaitresshard_1bdca328:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:1249
 translate schinese moonspankingwaitresshard_b84f908b:
@@ -2307,7 +2307,7 @@ translate schinese moonspankingwaitresshard_0b570100_1:
 translate schinese moonspankingwaitresshard_4a0e8d32:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:1262
 translate schinese moonspankingwaitresshard_d7b8ec89_1:
@@ -2319,7 +2319,7 @@ translate schinese moonspankingwaitresshard_d7b8ec89_1:
 translate schinese moonspankingwaitresshard_030c8ab8_1:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:1266
 translate schinese moonspankingwaitresshard_0b570100_2:
@@ -2337,13 +2337,13 @@ translate schinese moonspankingwaitresshard_bc959e7e_1:
 translate schinese moonspankingwaitresshard_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:1276
 translate schinese moonspankingwaitresshard_1bdca328_1:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:1278
 translate schinese moonspankingwaitresshard_b84f908b_1:
@@ -2367,7 +2367,7 @@ translate schinese moonspankingwaitresshard_0b570100_3:
 translate schinese moonspankingwaitresshard_4a0e8d32_1:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:1291
 translate schinese moonspankingwaitresshard_d7b8ec89_2:
@@ -2379,7 +2379,7 @@ translate schinese moonspankingwaitresshard_d7b8ec89_2:
 translate schinese moonspankingwaitresshard_030c8ab8_2:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:1295
 translate schinese moonspankingwaitresshard_0b570100_4:
@@ -2397,13 +2397,13 @@ translate schinese moonspankingwaitresshard_bc959e7e_2:
 translate schinese moonspankingwaitresshard_b268297c_2:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:1305
 translate schinese moonspankingwaitresshard_1bdca328_2:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:1307
 translate schinese moonspankingwaitresshard_b84f908b_2:
@@ -2427,7 +2427,7 @@ translate schinese moonspankingwaitresshard_0b570100_5:
 translate schinese moonspankingwaitresshard_4a0e8d32_2:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:1320
 translate schinese moonspankingwaitresshard_d7b8ec89_3:
@@ -2439,7 +2439,7 @@ translate schinese moonspankingwaitresshard_d7b8ec89_3:
 translate schinese moonspankingwaitresshard_030c8ab8_3:
 
     # moon "HNNG!"
-    moon "嗯!"
+    moon "{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:1324
 translate schinese moonspankingwaitresshard_0b570100_6:
@@ -2457,13 +2457,13 @@ translate schinese moonspankingwaitresshard_bc959e7e_3:
 translate schinese moonspankingwaitresshard_b268297c_3:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:1334
 translate schinese moonspankingwaitresshard_1bdca328_3:
 
     # moon "EGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:1336
 translate schinese moonspankingwaitresshard_b84f908b_3:
@@ -2487,7 +2487,7 @@ translate schinese moonspankingwaitresshard_0b570100_7:
 translate schinese moonspankingwaitresshard_4a0e8d32_3:
 
     # moon "AHH...!"
-    moon "啊......!"
+    moon "{b}啊......!{/b}"
 
 # game/scripts/bar.rpy:1354
 translate schinese moonspankingwaitress_2726388d:
@@ -2709,31 +2709,31 @@ translate schinese moonspa_f5a89e5c:
 translate schinese moonspa_73c0e08d:
 
     # moon "No, no... I'm fine. I'm just really tired..."
-    moon "不,不是......我没事.我只是真的很累......"
+    moon "不,不是......我没事,我只是太累了......"
 
 # game/scripts/bar.rpy:1451
 translate schinese moonspa_39a7b02f:
 
     # c "Why don't you relax in the hot springs with me? You'll feel much better."
-    c "不如陪我去温泉里放松一下?你会感觉好很多的."
+    c "不如和我一起去泡泡温泉?你会感觉好很多的."
 
 # game/scripts/bar.rpy:1452
 translate schinese moonspa_08ae6070:
 
     # moon "Thank you Mr. [name]... But I couldn't do that... I'm not a resident here."
-    moon "谢谢你[name]先生......但我不能那么做......我不是这里的居民."
+    moon "谢谢你,[name]先生......但我不能那么做......我不住在这里."
 
 # game/scripts/bar.rpy:1453
 translate schinese moonspa_0495833a:
 
     # c "Who's going to tell you to leave? I'm the boss here."
-    c "谁会让你离开呢?我才是这里的老板."
+    c "谁会赶走你呢?我才是这的老板."
 
 # game/scripts/bar.rpy:1454
 translate schinese moonspa_212fcfa6:
 
     # moon "Well, that is true..."
-    moon "嗯,那确实......"
+    moon "好吧,那确实......"
 
 # game/scripts/bar.rpy:1455
 translate schinese moonspa_81bfb5b3:
@@ -2745,7 +2745,7 @@ translate schinese moonspa_81bfb5b3:
 translate schinese moonspa_8e7a74ab:
 
     # m "I've got a spare! Just use mine!"
-    m "我有一件备用的!就用我的吧!"
+    m "我有备用的!就用我的吧!"
 
 # game/scripts/bar.rpy:1458
 translate schinese moonspa_95ee0a5b:
@@ -2757,19 +2757,19 @@ translate schinese moonspa_95ee0a5b:
 translate schinese moonspa_d05e41aa:
 
     # m "Oh come on, I'm sure I have something that can fit you."
-    m "噢来嘛,我肯定有合你身的东西."
+    m "噢,来嘛,我肯定有合你身的衣服."
 
 # game/scripts/bar.rpy:1460
 translate schinese moonspa_bece692e:
 
     # moon "But they're your clothes! I would never ask to wear them!"
-    moon "但是它们是你的衣服!我不会去穿它们的!"
+    moon "但是它们是你的衣服!我不能要!"
 
 # game/scripts/bar.rpy:1461
 translate schinese moonspa_289ed337:
 
     # m "Quit being so nice and go relax..."
-    m "别当好好小姐了,去放松下吧......"
+    m "别客气了,去放松下吧......"
 
 # game/scripts/bar.rpy:1462
 translate schinese moonspa_72ccbec9:
@@ -2781,19 +2781,19 @@ translate schinese moonspa_72ccbec9:
 translate schinese moonspa_4ae7e13c:
 
     # m "Come on, go wait outside. I'll bring her something to wear."
-    m "来吧,去外面等着.我去给她拿点东西穿."
+    m "来吧,去外面等着.我去给她拿件衣服穿."
 
 # game/scripts/bar.rpy:1466
 translate schinese moonspa_abe57e2f:
 
     # "You leave the bar and change into your swim clothes. Not long after, Moon arrives..."
-    "你离开了酒吧换上了你的泳衣.没过多久,文就过来了......"
+    "你离开酒吧,换上泳衣.没过多久,文就过来了......"
 
 # game/scripts/bar.rpy:1468
 translate schinese moonspa_d99f55b4:
 
     # moon "Wow... The stars are really pretty here. It reminds me of home..."
-    moon "哇哦......这里的星星真的很美.这让我想起了我的家......"
+    moon "哇哦......这里的星星真美,让我想起了家乡......"
 
 # game/scripts/bar.rpy:1470
 translate schinese moonspa_fde53961:
@@ -2805,7 +2805,7 @@ translate schinese moonspa_fde53961:
 translate schinese moonspa_3087afff:
 
     # c "Just [name] is fine."
-    c "叫[name]就行了."
+    c "叫我[name]就行了."
 
 # game/scripts/bar.rpy:1472
 translate schinese moonspa_ddc2cf7a:
@@ -2817,7 +2817,7 @@ translate schinese moonspa_ddc2cf7a:
 translate schinese moonspa_e5407e6b:
 
     # moon "Up for a challenge, [name]?"
-    moon "准备好迎接挑战了吗,[name]?"
+    moon "准备好接受挑战了吗,[name]?"
 
 # game/scripts/bar.rpy:1475
 translate schinese moonspa_bb00a52c:
@@ -2859,13 +2859,13 @@ translate schinese moonspa_f238ed27:
 translate schinese moonspa_02707f78:
 
     # moon "Stop being a pussy!"
-    moon "别像个懦夫一样!"
+    moon "别像个娘们一样!"
 
 # game/scripts/bar.rpy:1484
 translate schinese moonspa_7fe859db:
 
     # moon "Amazing... See? I told you. We have a beautiful view of both moons!"
-    moon "太美了......看到了吗?我都告诉过你了.两个月都很好看!"
+    moon "太美了......看到了吗?我就说嘛.这两个月亮真美啊!"
 
 # game/scripts/bar.rpy:1485
 translate schinese moonspa_37cc56d9:
@@ -2883,7 +2883,7 @@ translate schinese moonspa_ad85b0e9:
 translate schinese moonspa_e40a79c1:
 
     # c "Three beautiful Moons."
-    c "三个美丽的月(韩文姓氏中'文'的英文也是Moon)."
+    c "三个美丽的月亮(韩文姓氏中'文'的英文也是Moon)."
 
 # game/scripts/bar.rpy:1488
 translate schinese moonspa_4984c9d6:
@@ -2901,25 +2901,25 @@ translate schinese moonspa_c86aaa5e:
 translate schinese moonspa_a1a134a8:
 
     # moon "I used to visit hot springs all the time back home. I really missed this feeling..."
-    moon "我在家里的时候经常会去泡温泉.我真的很怀念这种感觉......"
+    moon "我以前在老家经常会去泡温泉,我真的很怀念这种感觉......"
 
 # game/scripts/bar.rpy:1495
 translate schinese moonspa_804da753:
 
     # moon "And it's so quiet here... It's always so loud in the bar."
-    moon "而且这里很安静......酒吧里一直很吵."
+    moon "而且这里很安静......酒吧里总是很吵."
 
 # game/scripts/bar.rpy:1496
 translate schinese moonspa_e1f86f84:
 
     # moon "There's always someone trying to start a fight..."
-    moon "总有人试图挑起争端......"
+    moon "总有人想打架......"
 
 # game/scripts/bar.rpy:1497
 translate schinese moonspa_2e27572b:
 
     # c "And you've been stopping them?"
-    c "你一直在阻止他们吗?"
+    c "而你一直在阻止他们?"
 
 # game/scripts/bar.rpy:1499
 translate schinese moonspa_d070582c:
@@ -2937,31 +2937,31 @@ translate schinese moonspa_ff80205a:
 translate schinese moonspa_e9b19af9:
 
     # moon "Well, I don't mind... Nobody really sees me coming anyway. They never expect such a small girl to have such great strength."
-    moon "嗯,我不介意......反正也没人指望我过去.他们从来没想到这么小的一个女孩会有这么大的力量."
+    moon "嗯,我不介意......反正也没人能看到我.他们想不到一个小女子力气会那么大."
 
 # game/scripts/bar.rpy:1502
 translate schinese moonspa_4e40ede4:
 
     # c "You don't look very strong."
-    c "你看起来也不是很强壮."
+    c "你看起来确实不是很强壮."
 
 # game/scripts/bar.rpy:1503
 translate schinese moonspa_fb59d847:
 
     # moon "Exactly why they don't expect it Mr-, I mean [name]!"
-    moon "这也是为什么他们没有料到,[name]先-,我是说,[name]!"
+    moon "所以他们没有料到,[name]先-,我是说,[name]!"
 
 # game/scripts/bar.rpy:1504
 translate schinese moonspa_94050268:
 
     # moon "Remember the other day when I mentioned living in a forest?"
-    moon "记得那天我提到我住在森林里吗?"
+    moon "记得前几天我说我住在森林里吗?"
 
 # game/scripts/bar.rpy:1506
 translate schinese moonspa_92306967:
 
     # moon "Or... Is it called a jungle? Tree land?"
-    moon "或者说......它叫丛林?绿地?"
+    moon "或者......丛林?林地?"
 
 # game/scripts/bar.rpy:1508
 translate schinese moonspa_5c397a69:
@@ -2985,7 +2985,7 @@ translate schinese moonspa_ee99ed39:
 translate schinese moonspa_0e4ddb18:
 
     # moon "I never got to meet her..."
-    moon "我从来没见过她......"
+    moon "我从没见过她......"
 
 # game/scripts/bar.rpy:1513
 translate schinese moonspa_ef2fa0da:
