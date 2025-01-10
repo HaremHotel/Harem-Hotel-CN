@@ -6003,25 +6003,25 @@ translate schinese marbar_48fc288b:
 translate schinese marbar_60ef9a40:
 
     # m "Think I can work as a waitress here? I would love to work right next to Moon!"
-    m "你觉得我可以在这里当服务员吗?我很愿意在文旁边工作的!"
+    m "我可以在这里当服务员吗?我很想和文一起工作!"
 
 # game/scripts/bar.rpy:2378
 translate schinese marbar_dce73ee8:
 
     # moon "It would be very fun, boss!"
-    moon "这会很有趣的,老板!"
+    moon "那会很有趣的,老板!"
 
 # game/scripts/bar.rpy:2379
 translate schinese marbar_1fc93202:
 
     # c "I don't think we have any open spots for a waitress..."
-    c "我想我们没有服务员的空缺......"
+    c "我想我们没有服务员岗位缺口......"
 
 # game/scripts/bar.rpy:2381
 translate schinese marbar_ec6f5a99:
 
     # m "What? Come on! You know I need a job! And I would never need to leave the hotel! It would be so fun!"
-    m "什么?拜托!你知道我需要一份工作的!而且我永远也不需要离开酒店!这会很有趣的!"
+    m "什么?拜托!你知道我需要一份工作的!而且也我永远不需要离开酒店!这会很有趣的!"
 
 # game/scripts/bar.rpy:2383
 translate schinese marbar_a8f767b5:
@@ -6033,7 +6033,7 @@ translate schinese marbar_a8f767b5:
 translate schinese marbar_648e56d0:
 
     # m "Or you could just come in and bend me over a counter whenever you want. We wouldn't even have to leave..."
-    m "或者你可以随时进来把我压在柜台上.我们甚至都不需要离开......"
+    m "或者你可以随时进来把我压在柜台上，我们甚至都不需要离开......"
 
 # game/scripts/bar.rpy:2386
 translate schinese marbar_f9bc8863:
@@ -6057,13 +6057,13 @@ translate schinese marbar_7fe78d08:
 translate schinese marbar_86070833:
 
     # m "Oh! That would be fun!"
-    m "噢!那会很有趣的!"
+    m "噢!那一定很有趣!"
 
 # game/scripts/bar.rpy:2391
 translate schinese marbar_ee3f05d1:
 
     # moon "Yeah, you said you liked making drinks! I bet you'd be a great bartender!"
-    moon "是的,你说你喜欢做饮料的!我打赌你会成为一个伟大的调酒师的!"
+    moon "对啊,你说你喜欢调酒!我打赌你会是个很棒的调酒师!"
 
 # game/scripts/bar.rpy:2393
 translate schinese marbar_0c9ee6d6:
@@ -6075,13 +6075,13 @@ translate schinese marbar_0c9ee6d6:
 translate schinese marbar_569e966a:
 
     # c "It's fine. Maria can work Evenings, Bart will work the rest of the time."
-    c "没事的.玛丽亚可以傍晚来工作,巴特会在其他时间工作."
+    c "没事的.玛丽亚可以傍晚来工作,其他时间还是巴特来工作."
 
 # game/scripts/bar.rpy:2396
 translate schinese marbar_1441b83c:
 
     # bart "Ah, works for me."
-    bart "啊,这对我来说有好处啊."
+    bart "啊,我没意见."
 
 # game/scripts/bar.rpy:2397
 translate schinese marbar_424fdc9a:
@@ -6093,7 +6093,7 @@ translate schinese marbar_424fdc9a:
 translate schinese marbar_33046856:
 
     # m "Oh, but I don't have anything to wear... Can you buy me something [name]?"
-    m "噢,但是我没啥可穿的......你可以给我买点东西吗[name]?"
+    m "噢,但是我没有穿的制服......你可以给我买一件吗,[name]?"
 
 # game/scripts/bar.rpy:2400
 translate schinese marbar_c48dc32f:
@@ -6123,7 +6123,7 @@ translate schinese marbar_a7b1cc51:
 translate schinese marbar_741743b9:
 
     # "New items have been unlocked on your computer."
-    "你电脑上的新项目已被解锁."
+    "你电脑已解锁新项目."
 
 # game/scripts/bar.rpy:2412
 translate schinese sarahfucking_461125cf:
@@ -6141,7 +6141,7 @@ translate schinese sarahfucking_1fde0a9e:
 translate schinese sarahfucking_db6574a8:
 
     # pat "Damn, I love a show and a drink!"
-    pat "操,我喜欢这里的表演和饮料!"
+    pat "操,我喜欢这里的表演和酒水!"
 
 # game/scripts/bar.rpy:2415
 translate schinese sarahfucking_cec2b207:
@@ -6165,25 +6165,25 @@ translate schinese sarahbend_cfd6915e:
 translate schinese sarahbend_82715544:
 
     # sar "Ohh... I got drunk again, and now I'm being bred!" with ssshake
-    sar "噢......我有喝醉了,现在我在交尾!" with ssshake
+    sar "噢......我又喝醉了,现在我要被操怀孕了!" with ssshake
 
 # game/scripts/bar.rpy:2424
 translate schinese sarahbend_4416f7f5:
 
     # sar "*hic*! Mmmm, but drunk sex feels so goooood..." with ssshake
-    sar "*打嗝*!嗯,但是喝醉了再做爱感觉好棒......" with ssshake
+    sar "*打嗝*!嗯,但醉酒做爱的感觉好棒......" with ssshake
 
 # game/scripts/bar.rpy:2426
 translate schinese sarahbend_c5f46b1b:
 
     # sar "Thanksh baby... That was... Really hot!"
-    sar "谢了宝贝......那真的......好火辣!"
+    sar "鞋谢你,宝贝......那真的......很火辣!"
 
 # game/scripts/bar.rpy:2427
 translate schinese sarahbend_67479876:
 
     # sar "I'm gonna buy another drink, I think?"
-    sar "我想,我要再买一杯饮料了?"
+    sar "我想我得再买一杯了?"
 
 # game/scripts/bar.rpy:2432
 translate schinese sarahbend_b6d7f6d9:
@@ -6195,7 +6195,7 @@ translate schinese sarahbend_b6d7f6d9:
 translate schinese sarahbend_f31fd421:
 
     # sar "Nnnn... I gotta clean my dresshh now? *hic*!"
-    sar "嗯......现在我得清理我的衣服了?*打嗝*!"
+    sar "嗯......现在我需窑清理下我的意服了?*打嗝*!"
 
 # game/scripts/bar.rpy:2435
 translate schinese sarahbend_c5f46b1b_1:
@@ -6213,7 +6213,7 @@ translate schinese sarahbend_67479876_1:
 translate schinese sarahbend_7659f129:
 
     # sar "Ahhh! Oh baby! Oh my god... That dick is so good!"
-    sar "啊!噢宝贝!哦我天......这根肉棒好爽!"
+    sar "啊!噢宝贝!哦我天......这根肉棒好棒!"
 
 # game/scripts/bar.rpy:2442
 translate schinese sarahbend_ca53a534:
@@ -6225,7 +6225,7 @@ translate schinese sarahbend_ca53a534:
 translate schinese sarahbend_89c6717a:
 
     # pat "Best bar in town!"
-    pat "镇子里最棒的酒吧!"
+    pat "镇里最好的酒吧!"
 
 # game/scripts/bar.rpy:2444
 translate schinese sarahbend_58dcd575:
@@ -6237,13 +6237,13 @@ translate schinese sarahbend_58dcd575:
 translate schinese sarahbend_5c13729b:
 
     # sar "Wait... Wait! Don't cum inside me, I don't wanna another baby..."
-    sar "等等......等等!别射进来,我不想要另一个孩子了......"
+    sar "等等......等等!别射进来,我不想再有孩子了......"
 
 # game/scripts/bar.rpy:2446
 translate schinese sarahbend_36104ee3:
 
     # sar "Oh god... Drunk sex is so fucking hooooot!"
-    sar "哦天......酒后做爱感觉好他妈爽!"
+    sar "哦天......酒后做爱真他妈爽!"
 
 # game/scripts/bar.rpy:2452
 translate schinese sarahbend_a4982d6a:
@@ -6279,7 +6279,7 @@ translate schinese sarahbend_c5f46b1b_2:
 translate schinese sarahbend_67479876_2:
 
     # sar "I'm gonna buy another drink, I think?"
-    sar "我想,我要再来一杯喝的?"
+    sar "我想,我得再买一杯了?"
 
 # game/scripts/bar.rpy:2463
 translate schinese sarahbend_f515e0c2:
@@ -6291,7 +6291,7 @@ translate schinese sarahbend_f515e0c2:
 translate schinese sarahbend_b231b409:
 
     # sar "Woahhhh... It's like a fire hose! *hic*!"
-    sar "喔......这就像一根消防水管!*打嗝*!"
+    sar "喔......就像消防栓一样!*打嗝*!"
 
 # game/scripts/bar.rpy:2466
 translate schinese sarahbend_c5f46b1b_3:
@@ -6309,7 +6309,7 @@ translate schinese sarahbend_1afed28f:
 translate schinese barmart_2b258ccb:
 
     # m "Hey [name]!"
-    m "嘿[name]!"
+    m "嘿,[name]!"
 
 # game/scripts/bar.rpy:2508
 translate schinese drinking2_dc3e4a7d:
@@ -6327,7 +6327,7 @@ translate schinese drinking2_46d1823b:
 translate schinese drinking2_58ef29f7:
 
     # c "I shoulnnnnt a had thhah ohhngge..."
-    c "我补应该和这个的......"
+    c "我补应该和这么躲的......"
 
 # game/scripts/bar.rpy:2537
 translate schinese drinking2_d19f855d:
@@ -6345,13 +6345,13 @@ translate schinese drinking2_cad9094b:
 translate schinese drinking2_3f42245b:
 
     # c "I need to get some sleep..."
-    c "我得去睡觉了......"
+    c "我得睡会......"
 
 # game/scripts/bar.rpy:2566
 translate schinese barbart_a1d771f1:
 
     # bart "Hey boss."
-    bart "嘿老板."
+    bart "嘿,老板."
 
 # game/scripts/bar.rpy:2593
 translate schinese drinking_dc3e4a7d:
@@ -6369,7 +6369,7 @@ translate schinese drinking_46d1823b:
 translate schinese drinking_58ef29f7:
 
     # c "I shoulnnnnt a had thhah ohhngge..."
-    c "我补应该和这个的......"
+    c "我补应该和这么躲的......"
 
 # game/scripts/bar.rpy:2622
 translate schinese drinking_d19f855d:
@@ -6387,7 +6387,7 @@ translate schinese drinking_cad9094b:
 translate schinese drinking_3f42245b:
 
     # c "I need to get some sleep..."
-    c "我得去睡觉了......"
+    c "我得睡会......"
 
 # game/scripts/bar.rpy:2641
 translate schinese drinking_78138fef:
@@ -6399,7 +6399,7 @@ translate schinese drinking_78138fef:
 translate schinese drinking_57f1c8ae:
 
     # c "Prepare some drinks."
-    c "准备点喝的."
+    c "准备点酒水."
 
 # game/scripts/bar.rpy:2646
 translate schinese drinking_3bd66d56:
@@ -6423,7 +6423,7 @@ translate schinese barmooncat_e49e664a:
 translate schinese barmooncattalk_ca7682c4:
 
     # moon "I'm doing aMEOWzing!"
-    moon "喵极了!"
+    moon "太喵了!"
 
 # game/scripts/bar.rpy:2664
 translate schinese barmooncattalk_0aca6b58:
@@ -6441,7 +6441,7 @@ translate schinese barmooncattalk_f44f19ec:
 translate schinese barmooncattalk_dc35cdf5:
 
     # moon "It still stings, [name]... Give me time to recover first."
-    moon "现在还是有点痛,[name]......给我点时间恢复一下吧."
+    moon "还是有点痛,[name]......先让我恢复一下."
 
 # game/scripts/bar.rpy:2678
 translate schinese barmooncattalk_5deb73b6:
@@ -6453,7 +6453,7 @@ translate schinese barmooncattalk_5deb73b6:
 translate schinese barmooncattalk_0206afc4:
 
     # c "I'm sure you can agree the humiliation just adds to the punishment."
-    c "我相信你会同意的,羞辱也刚好增加了惩罚的部分."
+    c "我相信你也同意,羞辱加重了惩罚的力度."
 
 # game/scripts/bar.rpy:2680
 translate schinese barmooncattalk_4984c9d6:
@@ -6507,7 +6507,7 @@ translate schinese barmooncattalk_13a409dc:
 translate schinese barmooncattalk_ba314112:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2707
 translate schinese barmooncattalk_71d89851:
@@ -6519,7 +6519,7 @@ translate schinese barmooncattalk_71d89851:
 translate schinese barmooncattalk_ba314112_1:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2712
 translate schinese barmooncattalk_7e63ec25_1:
@@ -6537,7 +6537,7 @@ translate schinese barmooncattalk_41a59255:
 translate schinese barmooncattalk_0206afc4_1:
 
     # c "I'm sure you can agree the humiliation just adds to the punishment."
-    c "我相信你会同意的,羞辱也刚好增加了惩罚的部分."
+    c "我相信你也同意,羞辱加重了惩罚的力度."
 
 # game/scripts/bar.rpy:2723
 translate schinese barmooncattalk_aeccfdc8:
@@ -6585,7 +6585,7 @@ translate schinese barmooncattalk_13a409dc_1:
 translate schinese barmooncattalk_ba314112_2:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2749
 translate schinese barmooncattalk_71d89851_1:
@@ -6597,7 +6597,7 @@ translate schinese barmooncattalk_71d89851_1:
 translate schinese barmooncattalk_ba314112_3:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2754
 translate schinese barmooncattalk_7e63ec25_2:
@@ -6609,13 +6609,13 @@ translate schinese barmooncattalk_7e63ec25_2:
 translate schinese barmooncattalk_da9cf4ef:
 
     # moon "Do we really have to do this again?"
-    moon "我们真的得再做一次吗?"
+    moon "我们真的得再来一次吗?"
 
 # game/scripts/bar.rpy:2763
 translate schinese barmooncattalk_1ec63ee4:
 
     # c "We can stop if you'd like..."
-    c "如果你想的话我们可以停下......"
+    c "如果你想的话,我们可以停下......"
 
 # game/scripts/bar.rpy:2764
 translate schinese barmooncattalk_ec997992:
@@ -6675,7 +6675,7 @@ translate schinese barmooncattalk_13a409dc_2:
 translate schinese barmooncattalk_ba314112_4:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2793
 translate schinese barmooncattalk_71d89851_2:
@@ -6687,7 +6687,7 @@ translate schinese barmooncattalk_71d89851_2:
 translate schinese barmooncattalk_ba314112_5:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2798
 translate schinese barmooncattalk_7e63ec25_3:
@@ -6699,7 +6699,7 @@ translate schinese barmooncattalk_7e63ec25_3:
 translate schinese barmooncattalk_236a448e:
 
     # moon "[name], I feel a lot less guilty about what I've done now. I think the spankings actually helped!"
-    moon "[name],我现在对我做的那些事不再那么内疚了.我觉得打屁股是真的有帮助的!"
+    moon "[name],我现在对自己的所作所为不再那么内疚了.我觉得打屁股确实有用!"
 
 # game/scripts/bar.rpy:2812
 translate schinese barmooncattalk_d7b8ec89:
@@ -6729,7 +6729,7 @@ translate schinese barmooncattalk_11aa970e:
 translate schinese barmooncattalk_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:2826
 translate schinese barmooncattalk_d7b8ec89_1:
@@ -6759,13 +6759,13 @@ translate schinese barmooncattalk_11aa970e_1:
 translate schinese barmooncattalk_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:2835
 translate schinese barmooncattalk_796ac522:
 
     # c "That's good to hear."
-    c "很高兴听到这个消息."
+    c "很高兴能听你这么说."
 
 # game/scripts/bar.rpy:2837
 translate schinese barmooncattalk_54066883:
@@ -6807,7 +6807,7 @@ translate schinese barmooncattalk_6ab22eb5:
 translate schinese barmooncattalk_1d76b582:
 
     # c "You'd just get keep getting them wet..."
-    c "你那里一直都是湿的......"
+    c "你只会把它弄湿......"
 
 # game/scripts/bar.rpy:2849
 translate schinese barmooncattalk_cc285698:
@@ -6825,13 +6825,13 @@ translate schinese barmooncattalk_f8cb617b:
 translate schinese barmooncattalk_9bc5ace8:
 
     # c "Besides, I'm sure you can agree the humiliation just-"
-    c "而且,我相信你同意羞辱只是-"
+    c "而且,我相信你同意,羞辱加重了-"
 
 # game/scripts/bar.rpy:2853
 translate schinese barmooncattalk_aef6a62a:
 
     # moon "Don't give me that! That's my pussy! I don't want people seeing that!"
-    moon "别跟我那么说!那是我的小穴!我不想要别人看到它!"
+    moon "别跟我那么说!那是我的小穴!我不想被别人看到!"
 
 # game/scripts/bar.rpy:2855
 translate schinese barmooncattalk_0cea0e5d:
@@ -6843,7 +6843,7 @@ translate schinese barmooncattalk_0cea0e5d:
 translate schinese barmooncattalk_d0b54138:
 
     # c "Are you going to get wet again?"
-    c "你是不是又要湿了?"
+    c "那你会不会又把它弄湿了?"
 
 # game/scripts/bar.rpy:2858
 translate schinese barmooncattalk_3f9f60ea:
@@ -6897,7 +6897,7 @@ translate schinese barmooncattalk_13a409dc_3:
 translate schinese barmooncattalk_ba314112_6:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2885
 translate schinese barmooncattalk_71d89851_3:
@@ -6909,7 +6909,7 @@ translate schinese barmooncattalk_71d89851_3:
 translate schinese barmooncattalk_ba314112_7:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2890
 translate schinese barmooncattalk_7e63ec25_4:
@@ -6927,13 +6927,13 @@ translate schinese barmooncattalk_4984c9d6_1:
 translate schinese barmooncattalk_51e1fcda:
 
     # c "I haven't even done anything yet..."
-    c "我什么都还没做呢......"
+    c "我还什么都没做呢......"
 
 # game/scripts/bar.rpy:2902
 translate schinese barmooncattalk_0ae93eca:
 
     # moon "Haven't done anything? You've spanked me so much! Look at what you've done!"
-    moon "什么都没做?你打我屁股那么多次了!看看你都干了什么!"
+    moon "什么都没做?你打了我那么多次屁股!看看你都干了什么!"
 
 # game/scripts/bar.rpy:2903
 translate schinese barmooncattalk_7043ba7a:
@@ -6957,7 +6957,7 @@ translate schinese barmooncattalk_3ff210ff:
 translate schinese barmooncattalk_b0d66984:
 
     # moon "That's just not true! You broke my pussy or something!"
-    moon "那不是真的!是你搞坏了我的小穴什么的!"
+    moon "那不是真的!是你搞坏了我的小穴,或者别的什么的!"
 
 # game/scripts/bar.rpy:2907
 translate schinese barmooncattalk_d12b8add:
@@ -6969,13 +6969,13 @@ translate schinese barmooncattalk_d12b8add:
 translate schinese barmooncattalk_73140e0f:
 
     # moon "It's the vibrations from the spankings! You do it too hard! This would happen to any girl!"
-    moon "是打屁股传过去的!你太大力了!任何女孩都会这样子的!"
+    moon "是打屁股产生的震动!你下手太重了!任何女孩都会这样子的!"
 
 # game/scripts/bar.rpy:2910
 translate schinese barmooncattalk_db282ef6:
 
     # moon "...Just... Take them off... I'm tired of cleaning them every day..."
-    moon "......就......直接把它们拿下来吧......我已经厌倦了每天清洗它们......"
+    moon "......就......直接脱下来吧......我已经厌倦了每天都要清洗它们了......"
 
 # game/scripts/bar.rpy:2912
 translate schinese barmooncattalk_4984c9d6_2:
@@ -7005,37 +7005,37 @@ translate schinese barmooncattalk_048f42ff:
 translate schinese barmooncattalk_4ad7b887:
 
     # c "Don't say it like that."
-    c "别那样说."
+    c "不要这样说."
 
 # game/scripts/bar.rpy:2924
 translate schinese barmooncattalk_c1205426:
 
     # moon "Excuse me?"
-    moon "那怎么说?"
+    moon "那要怎样说?"
 
 # game/scripts/bar.rpy:2925
 translate schinese barmooncattalk_00d76987:
 
     # c "Say 'Please spank my tight ass [name].'"
-    c "说:'请打我的小紧屁股吧[name].'"
+    c "说:'请打我的小紧屁股吧,[name].'"
 
 # game/scripts/bar.rpy:2927
 translate schinese barmooncattalk_ed082e3a:
 
     # moon "What!? Why should I do that?"
-    moon "什么!?为什么我要这么做?"
+    moon "什么!?为什么我要那么做?"
 
 # game/scripts/bar.rpy:2928
 translate schinese barmooncattalk_c6e9fdc4:
 
     # c "Because it would be hot?"
-    c "因为那样很火辣?"
+    c "因为那样很色?"
 
 # game/scripts/bar.rpy:2929
 translate schinese barmooncattalk_40da1b81:
 
     # moon "RGH!"
-    moon "呃!"
+    moon "{b}呃!{/b}"
 
 # game/scripts/bar.rpy:2932
 translate schinese barmooncattalk_de6d2bc0:
@@ -7053,7 +7053,7 @@ translate schinese barmooncattalk_13a409dc_4:
 translate schinese barmooncattalk_c396f73a:
 
     # moon "It stings more than usual..."
-    moon "比平时更痛了......"
+    moon "比平时更痛痒了......"
 
 # game/scripts/bar.rpy:2944
 translate schinese barmooncattalk_f59df506:
@@ -7065,7 +7065,7 @@ translate schinese barmooncattalk_f59df506:
 translate schinese barmooncattalk_13f97163:
 
     # moon "Don't say such things! Punish me!"
-    moon "别说那些话!惩罚我!"
+    moon "别说那种话!惩罚我!"
 
 # game/scripts/bar.rpy:2946
 translate schinese barmooncattalk_6ccb6e7f:
@@ -7119,7 +7119,7 @@ translate schinese barmooncattalk_13a409dc_5:
 translate schinese barmooncattalk_ba314112_8:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2971
 translate schinese barmooncattalk_71d89851_4:
@@ -7131,7 +7131,7 @@ translate schinese barmooncattalk_71d89851_4:
 translate schinese barmooncattalk_ba314112_9:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:2976
 translate schinese barmooncattalk_7e63ec25_5:
@@ -7149,7 +7149,7 @@ translate schinese barmooncattalk_4984c9d6_3:
 translate schinese barmooncattalk_27cdeed0:
 
     # c "Want me to take your panties off?"
-    c "想让我把你内裤脱了吗?"
+    c "想让我脱掉你的内裤吗?"
 
 # game/scripts/bar.rpy:2987
 translate schinese barmooncattalk_e9b8976d:
@@ -7161,7 +7161,7 @@ translate schinese barmooncattalk_e9b8976d:
 translate schinese barmooncattalk_0d7444fd:
 
     # c "I'm surprised you even come to work with panties still."
-    c "我很惊奇你居然还穿着内裤来上班."
+    c "我倒是有些吃惊,你竟然还穿着内裤来上班."
 
 # game/scripts/bar.rpy:2990
 translate schinese barmooncattalk_4984c9d6_4:
@@ -7173,7 +7173,7 @@ translate schinese barmooncattalk_4984c9d6_4:
 translate schinese barmooncattalk_00d76987_1:
 
     # c "Say 'Please spank my tight ass [name].'"
-    c "说'请打我的小紧屁股吧[name].'"
+    c "说'请打我的小紧屁股吧,[name].'"
 
 # game/scripts/bar.rpy:2998
 translate schinese barmooncattalk_0d562c6d:
@@ -7185,7 +7185,7 @@ translate schinese barmooncattalk_0d562c6d:
 translate schinese barmooncattalk_0206afc4_2:
 
     # c "I'm sure you can agree the humiliation just adds to the punishment."
-    c "我相信你会同意的,羞辱也刚好增加了惩罚的部分."
+    c "我相信你也同意,羞辱加重了惩罚的力度."
 
 # game/scripts/bar.rpy:3000
 translate schinese barmooncattalk_925a615a:
@@ -7233,7 +7233,7 @@ translate schinese barmooncattalk_297d93f3:
 translate schinese barmooncattalk_838f40c4:
 
     # moon "You seem to really enjoy it..."
-    moon "你看起来真的很享受......"
+    moon "看起来你真的很喜欢......"
 
 # game/scripts/bar.rpy:3012
 translate schinese barmooncattalk_c2da66bb:
@@ -7305,7 +7305,7 @@ translate schinese barmooncattalk_bfa75403:
 translate schinese barmooncattalk_4f2bc13e:
 
     # c "-Just cleaning you up."
-    c "-只是在帮你清理一下."
+    c "-只是帮你清理一下."
 
 # game/scripts/bar.rpy:3031
 translate schinese barmooncattalk_da11c7b7:
@@ -7341,13 +7341,13 @@ translate schinese barmooncattalk_d15034ef:
 translate schinese barmooncattalk_7b3a4d59:
 
     # moon "You're not supposed to touch me there, remember?" with ssshake
-    moon "你不应该碰我那里的,记得吗?" with ssshake
+    moon "你不能碰我那里,记得吗?" with ssshake
 
 # game/scripts/bar.rpy:3041
 translate schinese barmooncattalk_881c312e:
 
     # c "Sorry, you seemed like you enjoyed it."
-    c "对不起,你看起来很享受的."
+    c "对不起,你看起来还挺享受的."
 
 # game/scripts/bar.rpy:3043
 translate schinese barmooncattalk_030731d7:
@@ -7377,7 +7377,7 @@ translate schinese barmooncattalk_13a409dc_6:
 translate schinese barmooncattalk_ba314112_10:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3064
 translate schinese barmooncattalk_71d89851_5:
@@ -7389,7 +7389,7 @@ translate schinese barmooncattalk_71d89851_5:
 translate schinese barmooncattalk_ba314112_11:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3069
 translate schinese barmooncattalk_7e63ec25_6:
@@ -7443,7 +7443,7 @@ translate schinese barmooncattalk_bfa75403_1:
 translate schinese barmooncattalk_4f2bc13e_1:
 
     # c "-Just cleaning you up."
-    c "-只是在帮你清理一下"
+    c "-只是帮你清理一下"
 
 # game/scripts/bar.rpy:3090
 translate schinese barmooncattalk_007e83d9:
@@ -7491,7 +7491,7 @@ translate schinese barmooncattalk_0f908422:
 translate schinese barmooncattalk_4e1a0168:
 
     # c "It sounded like you wanted me to stop."
-    c "听起来你想让我停下啊."
+    c "听起来你好像想让我停下来."
 
 # game/scripts/bar.rpy:3100
 translate schinese barmooncattalk_2aeb2c32:
@@ -7545,7 +7545,7 @@ translate schinese barmooncattalk_eda4f0af:
 translate schinese barmooncattalk_30c9e87c:
 
     # moon "Ssnnn... Ohh... There..."
-    moon "嗯......噢......那里......"
+    moon "嘶......噢......那里......"
 
 # game/scripts/bar.rpy:3114
 translate schinese barmooncattalk_bab4749a:
@@ -7557,7 +7557,7 @@ translate schinese barmooncattalk_bab4749a:
 translate schinese barmooncattalk_99fa2e42:
 
     # "*shlick*" with dissolve
-    "*轻拍*" with dissolve
+    "*嘶啦*" with dissolve
 
 # game/scripts/bar.rpy:3117
 translate schinese barmooncattalk_90bed004:
@@ -7599,7 +7599,7 @@ translate schinese barmooncattalk_13a409dc_7:
 translate schinese barmooncattalk_ba314112_12:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3142
 translate schinese barmooncattalk_71d89851_6:
@@ -7611,7 +7611,7 @@ translate schinese barmooncattalk_71d89851_6:
 translate schinese barmooncattalk_ba314112_13:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3147
 translate schinese barmooncattalk_7e63ec25_7:
@@ -7635,7 +7635,7 @@ translate schinese barmooncattalk_244ff9be:
 translate schinese barmooncattalk_ba41627c:
 
     # c "Why don't you forget the rest of your clothes too?"
-    c "为什么你不把其他衣服也忘了?"
+    c "你怎么不把其他衣服也忘了?"
 
 # game/scripts/bar.rpy:3160
 translate schinese barmooncattalk_e3009336:
@@ -7647,7 +7647,7 @@ translate schinese barmooncattalk_e3009336:
 translate schinese barmooncattalk_5ba0cf3c:
 
     # c "Your ass has already been out there, the rest won't be much more."
-    c "你的屁股都出来了,剩下的也没多少了......"
+    c "你的屁股都露在外面了,剩下的也不算什么了......"
 
 # game/scripts/bar.rpy:3163
 translate schinese barmooncattalk_b6c34a9b:
@@ -7659,13 +7659,13 @@ translate schinese barmooncattalk_b6c34a9b:
 translate schinese barmooncattalk_ea756623:
 
     # moon "...The rest of my clothes have nothing to do with spanking, [name]..."
-    moon "......我剩下的衣服和打屁股无关,[name]......"
+    moon "......我其他的衣服与打屁股无关,[name]......"
 
 # game/scripts/bar.rpy:3167
 translate schinese barmooncattalk_7222fcf6:
 
     # moon "...But I'm sure you can agree the humiliation just adds to the punishment..."
-    moon "......但我相信你会同意的,羞辱也刚好增加了惩罚的部分......"
+    moon "......但我相信你也同意,羞辱加重了惩罚的力度......"
 
 # game/scripts/bar.rpy:3169
 translate schinese barmooncattalk_bdf3e631:
@@ -7713,7 +7713,7 @@ translate schinese barmooncattalk_68f4bff9_1:
 translate schinese barmooncattalk_1d741ad6:
 
     # moon "Oh... I almost forgot, I'm naked aren't I?"
-    moon "噢......我差点忘了,我是不是裸着?"
+    moon "噢......我差点忘了,我没穿衣服,对吧?"
 
 # game/scripts/bar.rpy:3181
 translate schinese barmooncattalk_ae2abe22:
@@ -7749,7 +7749,7 @@ translate schinese barmooncattalk_13a409dc_8:
 translate schinese barmooncattalk_ba314112_14:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3203
 translate schinese barmooncattalk_71d89851_7:
@@ -7761,7 +7761,7 @@ translate schinese barmooncattalk_71d89851_7:
 translate schinese barmooncattalk_ba314112_15:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3208
 translate schinese barmooncattalk_7e63ec25_8:
@@ -7773,25 +7773,25 @@ translate schinese barmooncattalk_7e63ec25_8:
 translate schinese barmooncattalk_038c8a31:
 
     # moon "...I should really buy new panties some day, hahah..."
-    moon "......我真的得找个时间买点新内裤,哈哈哈......"
+    moon "......改天我真该买条新内裤了,哈哈哈......"
 
 # game/scripts/bar.rpy:3218
 translate schinese barmooncattalk_4bd2b1f0:
 
     # c "They'd just get in the way."
-    c "那它们只会碍手碍脚."
+    c "它们只会碍事."
 
 # game/scripts/bar.rpy:3220
 translate schinese barmooncattalk_c5bdbc04:
 
     # moon "Maybe they would..."
-    moon "也许会吧......"
+    moon "也许吧......"
 
 # game/scripts/bar.rpy:3222
 translate schinese barmooncattalk_6233657e:
 
     # moon "Besides, it hurts more without them..."
-    moon "而且,没有它们疼多了......"
+    moon "而且,没有它们,疼多了......"
 
 # game/scripts/bar.rpy:3224
 translate schinese barmooncattalk_747ace26:
@@ -7977,7 +7977,7 @@ translate schinese barmooncattalk_de6f8d15:
 translate schinese barmooncattalk_f1c10d66:
 
     # moon "And... And rubbed... My wet pussy wants to... Be rubbed..."
-    moon "还有......还有抚摸......我湿润的小穴......需要被抚摸......"
+    moon "还有......还有抚摸......我湿润的小穴想要......被抚摸......"
 
 # game/scripts/bar.rpy:3300
 translate schinese barmooncattalk_f724519e_5:
@@ -8013,13 +8013,13 @@ translate schinese barmooncattalk_a770cc75:
 translate schinese barmooncattalk_d06dd5b7:
 
     # c "Take off your clothes."
-    c "把你的衣服脱了."
+    c "脱掉衣服."
 
 # game/scripts/bar.rpy:3312
 translate schinese barmooncattalk_504ede54:
 
     # moon "A-And you'll put your finger inside...?"
-    moon "那-那你会把手指放进来吗......?"
+    moon "那-那你会把手指插进来吗......?"
 
 # game/scripts/bar.rpy:3313
 translate schinese barmooncattalk_fabe4767:
@@ -8037,7 +8037,7 @@ translate schinese barmooncattalk_48ca5d2e:
 translate schinese barmooncattalk_70c1bd2d:
 
     # moon "Weeelllll...?"
-    moon "好吗......?"
+    moon "可以吗......?"
 
 # game/scripts/bar.rpy:3320
 translate schinese barmooncattalk_3596ecbe:
@@ -8055,7 +8055,7 @@ translate schinese barmooncattalk_74a00694:
 translate schinese barmooncattalk_ec9252bd:
 
     # moon "{size=-10}...Y-Yes... Lately...{/size}"
-    moon "{size=-10}......是-是的......最近..{/size}"
+    moon "{size=-10}......是-是的......最近一直......{/size}"
 
 # game/scripts/bar.rpy:3323
 translate schinese barmooncattalk_df72d121:
@@ -8073,7 +8073,7 @@ translate schinese barmooncattalk_f8ba98f1:
 translate schinese barmooncattalk_a27c545f:
 
     # moon "I-It just- Hn! ...Happens... S-Sometimes..."
-    moon "只-只是-嗯!......有时候......会-会发生......"
+    moon "只-只是-嗯!......有时候......会-会这样......"
 
 # game/scripts/bar.rpy:3326
 translate schinese barmooncattalk_686def15:
@@ -8085,13 +8085,13 @@ translate schinese barmooncattalk_686def15:
 translate schinese barmooncattalk_0d207bce:
 
     # moon "D-Don't ask stupid questions! I-It just happens! Ah~!"
-    moon "别-别问那些傻问题了!它-它就是会发生!啊~!"
+    moon "别-别问那些傻问题了!它-它就是会这样!啊~!"
 
 # game/scripts/bar.rpy:3328
 translate schinese barmooncattalk_095ceeb6:
 
     # c "Have you tried fixing it yourself?"
-    c "你有试过修好你自己吗?"
+    c "你有试过自己解决吗?"
 
 # game/scripts/bar.rpy:3329
 translate schinese barmooncattalk_8ff7e2d8:
@@ -8121,7 +8121,7 @@ translate schinese barmooncattalk_9d272580:
 translate schinese barmooncattalk_162715b8:
 
     # moon "{size=-10}...Wh... Why does it feel so good... Hnnn...{/size} Ahh~"
-    moon "{size=-10}......为......为什么感觉这么舒服......嗯......{/size}啊~"
+    moon "{size=-10}......为......为什么这么舒服......嗯......{/size}啊~"
 
 # game/scripts/bar.rpy:3345
 translate schinese barmooncattalk_7030489d:
@@ -8169,7 +8169,7 @@ translate schinese barmooncattalk_70354428:
 translate schinese barmooncattalk_bd244b4a:
 
     # moon "...Please... Don't make me beg..."
-    moon "......求你了......不要再让我求了......"
+    moon "......求你了......不要再让我求你了......"
 
 # game/scripts/bar.rpy:3364
 translate schinese barmooncattalk_84381bf3_8:
@@ -8193,7 +8193,7 @@ translate schinese barmooncattalk_13a409dc_9:
 translate schinese barmooncattalk_ba314112_16:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3380
 translate schinese barmooncattalk_71d89851_8:
@@ -8205,7 +8205,7 @@ translate schinese barmooncattalk_71d89851_8:
 translate schinese barmooncattalk_ba314112_17:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3385
 translate schinese barmooncattalk_7e63ec25_9:
@@ -8229,7 +8229,7 @@ translate schinese barmooncattalk_4984c9d6_8:
 translate schinese barmooncattalk_0e55b2b0:
 
     # moon "...I'm waiting..."
-    moon "......我还在等......"
+    moon "......我还在等你......"
 
 # game/scripts/bar.rpy:3410
 translate schinese barmooncattalk_8ec36b9f:
@@ -8283,13 +8283,13 @@ translate schinese barmooncattalk_d29e7f6e:
 translate schinese barmooncattalk_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3431
 translate schinese barmooncattalk_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下次......!?你太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3443
 translate schinese barmooncattalk_b6d539ff:
@@ -8307,7 +8307,7 @@ translate schinese moonspankfingering_222e216f:
 translate schinese moonspankfingering_edde996f:
 
     # moon "Hahhhnn! Nnnhh... I want it inside..."
-    moon "哈!嗯......我想要它进来......"
+    moon "哈!嗯......我想要它插进来......"
 
 # game/scripts/bar.rpy:3461
 translate schinese moonspankfingering_7774b6e4:
@@ -8331,19 +8331,19 @@ translate schinese moonspankfingering_2e006a6a:
 translate schinese moonspankfingering_e83b5589:
 
     # moon "Faster...! Faster...!"
-    moon "快点......!快点......!"
+    moon "快点......!再快点......!"
 
 # game/scripts/bar.rpy:3477
 translate schinese moonspankfingering_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3478
 translate schinese moonspankfingering_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3493
 translate schinese moonspankrub_8ec36b9f:
@@ -8391,13 +8391,13 @@ translate schinese moonspankrub_cd974be9:
 translate schinese moonspankrub_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3513
 translate schinese moonspankrub_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3527
 translate schinese moonspankspank_8ec36b9f:
@@ -8445,13 +8445,13 @@ translate schinese moonspankspank_d29e7f6e:
 translate schinese moonspankspank_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3547
 translate schinese moonspankspank_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3554
 translate schinese moonspankred_6b7e561c:
@@ -8481,43 +8481,43 @@ translate schinese moonspankred_9d1cf4b1:
 translate schinese moonspankred_118b2320:
 
     # moon "Hmmmm~ Ahhh! Make my ass redder...! Nnnh!"
-    moon "嗯~啊!让我的屁股变得更红吧......!嗯!"
+    moon "嗯~啊!把我的屁股变得更红吧......!嗯!"
 
 # game/scripts/bar.rpy:3569
 translate schinese moonspankred_d0bf0ccb:
 
     # moon "Ooohfff, Nnn...! Your finger feels so big inside me..."
-    moon "噢,嗯......你的手指在我里面好大......"
+    moon "噢,嗯......你的手指在我体内感觉好大......"
 
 # game/scripts/bar.rpy:3570
 translate schinese moonspankred_081750c1:
 
     # moon "Ehh... It's not even two fingers... And yet... Hnnn!"
-    moon "嗯......这还没......两根手指......嗯!"
+    moon "嗯......这甚至还不是......两根手指......嗯!"
 
 # game/scripts/bar.rpy:3580
 translate schinese moonspankred_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3581
 translate schinese moonspankred_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3590
 translate schinese moonspankred2_6f7e423a:
 
     # moon "This teasing is too much... It's too much...! It's too much!!"
-    moon "这种玩弄太过分了......太过分了......!太过分了!!"
+    moon "这种挑逗太过分了......太过分了......!太过分了!!"
 
 # game/scripts/bar.rpy:3591
 translate schinese moonspankred2_dd06ab75:
 
     # moon "I'm so... So... So close... Please... Put your cock inside me..."
-    moon "我已经......已经......已经要去了......求你了......把你的肉棒放进来吧......"
+    moon "我已经......已经......已经要高潮了......求你了......把你的肉棒插进来吧......"
 
 # game/scripts/bar.rpy:3595
 translate schinese moonspankred2_25978520:
@@ -8529,37 +8529,37 @@ translate schinese moonspankred2_25978520:
 translate schinese moonspankred2_6f7e423a_1:
 
     # moon "This teasing is too much... It's too much...! It's too much!!"
-    moon "这种玩弄太过分了....太过分了....!太过分了!!"
+    moon "这种挑逗太过分了....太过分了....!太过分了!!"
 
 # game/scripts/bar.rpy:3597
 translate schinese moonspankred2_dd06ab75_1:
 
     # moon "I'm so... So... So close... Please... Put your cock inside me..."
-    moon "我已经......已经......已经要去了......求你了......把你的肉棒放进来吧......"
+    moon "我已经......已经......已经要高潮了......求你了......把你的肉棒插进来吧......"
 
 # game/scripts/bar.rpy:3606
 translate schinese moonspankred2_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3607
 translate schinese moonspankred2_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下一次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3616
 translate schinese moonspankred2_8d264032_1:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3617
 translate schinese moonspankred2_578564c8_1:
 
     # moon "Next time...!? That's so mean!"
-    moon "下一次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3628
 translate schinese moonspankred3_9d1cf4b1:
@@ -8571,31 +8571,31 @@ translate schinese moonspankred3_9d1cf4b1:
 translate schinese moonspankred3_118b2320:
 
     # moon "Hmmmm~ Ahhh! Make my ass redder...! Nnnh!"
-    moon "嗯~啊~让我的屁股变得更红吧......!嗯!"
+    moon "嗯~啊~把我的屁股变得更红吧......!嗯!"
 
 # game/scripts/bar.rpy:3630
 translate schinese moonspankred3_d0bf0ccb:
 
     # moon "Ooohfff, Nnn...! Your finger feels so big inside me..."
-    moon "噢,嗯......!你的手指在我里面好大......"
+    moon "噢,嗯......!你的手指在我体内感觉好大......"
 
 # game/scripts/bar.rpy:3631
 translate schinese moonspankred3_081750c1:
 
     # moon "Ehh... It's not even two fingers... And yet... Hnnn!"
-    moon "嗯......这还没......两根手指......嗯!"
+    moon "嗯......这甚至还没到......两根手指......嗯!"
 
 # game/scripts/bar.rpy:3641
 translate schinese moonspankred3_8d264032:
 
     # c "Maybe you can cum next time."
-    c "也许你下次就可以去了."
+    c "也许你下次就可以高潮了."
 
 # game/scripts/bar.rpy:3642
 translate schinese moonspankred3_578564c8:
 
     # moon "Next time...!? That's so mean!"
-    moon "下一次......!?那太刻薄了!"
+    moon "下次......!?太卑鄙了!"
 
 # game/scripts/bar.rpy:3648
 translate schinese moonspankredfuck_0bc7a786:
@@ -8631,7 +8631,7 @@ translate schinese moonspankredfuck_c2c6e211:
 translate schinese moonspankredfuck_d95d9693:
 
     # moon "Hnnnn! It feels so good, having sex after spankings...! Ah! Sex feels so good after a spanking!"
-    moon "嗯!被打屁股之后做爱,感觉好舒服......!啊!被打屁股之后做爱感觉好舒服!"
+    moon "嗯!被打屁股之后做爱,感觉好舒服......!啊!被打屁股之后做爱,感觉好舒服!"
 
 # game/scripts/bar.rpy:3658
 translate schinese moonspankredfuck_a2a9f131:
@@ -8691,7 +8691,7 @@ translate schinese moonspankcatfuck_c2c6e211:
 translate schinese moonspankcatfuck_d95d9693:
 
     # moon "Hnnnn! It feels so good, having sex after spankings...! Ah! Sex feels so good after a spanking!"
-    moon "嗯!被打屁股之后做爱,感觉好舒服......!啊!被打屁股之后做爱感觉好舒服!"
+    moon "嗯!被打屁股之后做爱,感觉好舒服......!啊!被打屁股之后做爱,感觉好舒服!"
 
 # game/scripts/bar.rpy:3680
 translate schinese moonspankcatfuck_a2a9f131:
@@ -8739,7 +8739,7 @@ translate schinese barmoontalk_f44f19ec:
 translate schinese barmoontalk_dc35cdf5:
 
     # moon "It still stings, [name]... Give me time to recover first."
-    moon "现在还是有点痛,[name]......给我点时间恢复一下吧."
+    moon "还是有点痛,[name]......先让我恢复一下."
 
 # game/scripts/bar.rpy:3713
 translate schinese barmoontalk_5deb73b6:
@@ -8751,7 +8751,7 @@ translate schinese barmoontalk_5deb73b6:
 translate schinese barmoontalk_0206afc4:
 
     # c "I'm sure you can agree the humiliation just adds to the punishment."
-    c "我相信你会同意的,羞辱也刚好增加了惩罚的部分."
+    c "我相信你也同意,羞辱加重了惩罚的力度."
 
 # game/scripts/bar.rpy:3715
 translate schinese barmoontalk_4984c9d6:
@@ -8805,7 +8805,7 @@ translate schinese barmoontalk_13a409dc:
 translate schinese barmoontalk_ba314112:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3742
 translate schinese barmoontalk_71d89851:
@@ -8817,7 +8817,7 @@ translate schinese barmoontalk_71d89851:
 translate schinese barmoontalk_ba314112_1:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3747
 translate schinese barmoontalk_7e63ec25_1:
@@ -8829,13 +8829,13 @@ translate schinese barmoontalk_7e63ec25_1:
 translate schinese barmoontalk_84058823:
 
     # c "I need to do 'Waitress Training: All Eyes on You!' first."
-    c "我得先完成'服务员训练:众目睽睽!'"
+    c "我得先完成'服务员训练:万众瞩目!'"
 
 # game/scripts/bar.rpy:3756
 translate schinese barmoontalk_7238be3c:
 
     # c "Change outfits. I'm going to spank you."
-    c "把衣服换了.我要打你屁股."
+    c "换衣服,我要打你屁股."
 
 # game/scripts/bar.rpy:3760
 translate schinese barmoontalk_41a59255:
@@ -8847,7 +8847,7 @@ translate schinese barmoontalk_41a59255:
 translate schinese barmoontalk_0206afc4_1:
 
     # c "I'm sure you can agree the humiliation just adds to the punishment."
-    c "我相信你会同意的,羞辱也刚好增加了惩罚的部分."
+    c "我相信你也同意,羞辱加重了惩罚的力度."
 
 # game/scripts/bar.rpy:3762
 translate schinese barmoontalk_aeccfdc8:
@@ -8895,7 +8895,7 @@ translate schinese barmoontalk_13a409dc_1:
 translate schinese barmoontalk_ba314112_2:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3788
 translate schinese barmoontalk_71d89851_1:
@@ -8907,7 +8907,7 @@ translate schinese barmoontalk_71d89851_1:
 translate schinese barmoontalk_ba314112_3:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3793
 translate schinese barmoontalk_7e63ec25_2:
@@ -8919,19 +8919,19 @@ translate schinese barmoontalk_7e63ec25_2:
 translate schinese barmoontalk_7238be3c_1:
 
     # c "Change outfits. I'm going to spank you."
-    c "把衣服换了.我要打你屁股."
+    c "换衣服,我要打你屁股."
 
 # game/scripts/bar.rpy:3802
 translate schinese barmoontalk_da9cf4ef:
 
     # moon "Do we really have to do this again?"
-    moon "我们真的得再做一次吗?"
+    moon "我们真的得再来一次吗?"
 
 # game/scripts/bar.rpy:3803
 translate schinese barmoontalk_1ec63ee4:
 
     # c "We can stop if you'd like..."
-    c "如果你想的话我们可以停下......"
+    c "如果你想的话,我们可以停下......"
 
 # game/scripts/bar.rpy:3804
 translate schinese barmoontalk_ec997992:
@@ -8991,7 +8991,7 @@ translate schinese barmoontalk_13a409dc_2:
 translate schinese barmoontalk_ba314112_4:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3833
 translate schinese barmoontalk_71d89851_2:
@@ -9003,7 +9003,7 @@ translate schinese barmoontalk_71d89851_2:
 translate schinese barmoontalk_ba314112_5:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3838
 translate schinese barmoontalk_7e63ec25_3:
@@ -9015,13 +9015,13 @@ translate schinese barmoontalk_7e63ec25_3:
 translate schinese barmoontalk_7238be3c_2:
 
     # c "Change outfits. I'm going to spank you."
-    c "把衣服换了.我要打你屁股."
+    c "换衣服,我要打你屁股."
 
 # game/scripts/bar.rpy:3848
 translate schinese barmoontalk_236a448e:
 
     # moon "[name], I feel a lot less guilty about what I've done now. I think the spankings actually helped!"
-    moon "[name],我现在对我做的那些事不再那么内疚了.我觉得打屁股是真的有帮助的!"
+    moon "[name],我现在对自己的所作所为不再那么内疚了.我觉得打屁股确实有用!"
 
 # game/scripts/bar.rpy:3853
 translate schinese barmoontalk_d7b8ec89:
@@ -9051,7 +9051,7 @@ translate schinese barmoontalk_11aa970e:
 translate schinese barmoontalk_b268297c:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:3867
 translate schinese barmoontalk_d7b8ec89_1:
@@ -9081,13 +9081,13 @@ translate schinese barmoontalk_11aa970e_1:
 translate schinese barmoontalk_b268297c_1:
 
     # moon "AHH!"
-    moon "啊!"
+    moon "{b}啊!{/b}"
 
 # game/scripts/bar.rpy:3876
 translate schinese barmoontalk_796ac522:
 
     # c "That's good to hear."
-    c "那听起来很不错."
+    c "很高兴能听你这么说."
 
 # game/scripts/bar.rpy:3878
 translate schinese barmoontalk_54066883:
@@ -9129,7 +9129,7 @@ translate schinese barmoontalk_6ab22eb5:
 translate schinese barmoontalk_d07a6095:
 
     # c "You'd just keep getting them wet..."
-    c "你那里一直都是湿的......"
+    c "你只会把它弄湿......"
 
 # game/scripts/bar.rpy:3890
 translate schinese barmoontalk_cc285698:
@@ -9153,7 +9153,7 @@ translate schinese barmoontalk_9bc5ace8:
 translate schinese barmoontalk_aef6a62a:
 
     # moon "Don't give me that! That's my pussy! I don't want people seeing that!"
-    moon "别跟我那么说!那是我的小穴!我不想要别人看到它!"
+    moon "别跟我那么说!那是我的小穴!我不想被别人看到!"
 
 # game/scripts/bar.rpy:3896
 translate schinese barmoontalk_0cea0e5d:
@@ -9165,7 +9165,7 @@ translate schinese barmoontalk_0cea0e5d:
 translate schinese barmoontalk_d0b54138:
 
     # c "Are you going to get wet again?"
-    c "你是不是又要湿了?"
+    c "那你会不会又把它弄湿了?"
 
 # game/scripts/bar.rpy:3899
 translate schinese barmoontalk_3f9f60ea:
@@ -9219,7 +9219,7 @@ translate schinese barmoontalk_13a409dc_3:
 translate schinese barmoontalk_ba314112_6:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3926
 translate schinese barmoontalk_71d89851_3:
@@ -9231,7 +9231,7 @@ translate schinese barmoontalk_71d89851_3:
 translate schinese barmoontalk_ba314112_7:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:3931
 translate schinese barmoontalk_7e63ec25_4:
@@ -9243,7 +9243,7 @@ translate schinese barmoontalk_7e63ec25_4:
 translate schinese barmoontalk_7238be3c_3:
 
     # c "Change outfits. I'm going to spank you."
-    c "把衣服换了.我要打你屁股."
+    c "换衣服,我要打你屁股."
 
 # game/scripts/bar.rpy:3941
 translate schinese barmoontalk_4984c9d6_1:
@@ -9255,13 +9255,13 @@ translate schinese barmoontalk_4984c9d6_1:
 translate schinese barmoontalk_51e1fcda:
 
     # c "I haven't even done anything yet..."
-    c "我什么都还没做呢......"
+    c "我还什么都没做呢......"
 
 # game/scripts/bar.rpy:3944
 translate schinese barmoontalk_0ae93eca:
 
     # moon "Haven't done anything? You've spanked me so much! Look at what you've done!"
-    moon "什么都没做?你打我屁股那么多次了!看看你都干了什么!"
+    moon "什么都没做?你打了我那么多次屁股!看看你都干了什么!"
 
 # game/scripts/bar.rpy:3945
 translate schinese barmoontalk_7043ba7a:
@@ -9285,7 +9285,7 @@ translate schinese barmoontalk_3ff210ff:
 translate schinese barmoontalk_b0d66984:
 
     # moon "That's just not true! You broke my pussy or something!"
-    moon "那不是真的!是你搞坏了我的小穴什么的!"
+    moon "那不是真的!是你搞坏了我的小穴,或者别的什么的!"
 
 # game/scripts/bar.rpy:3949
 translate schinese barmoontalk_d12b8add:
@@ -9297,7 +9297,7 @@ translate schinese barmoontalk_d12b8add:
 translate schinese barmoontalk_73140e0f:
 
     # moon "It's the vibrations from the spankings! You do it too hard! This would happen to any girl!"
-    moon "是打屁股传过去的!你太大力了!任何女孩都会这样子的!"
+    moon "是打屁股产生的震动!你下手太重了!任何女孩都会这样子的!"
 
 # game/scripts/bar.rpy:3952
 translate schinese barmoontalk_db282ef6:
@@ -9447,7 +9447,7 @@ translate schinese barmoontalk_13a409dc_5:
 translate schinese barmoontalk_ba314112_8:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4013
 translate schinese barmoontalk_71d89851_4:
@@ -9459,7 +9459,7 @@ translate schinese barmoontalk_71d89851_4:
 translate schinese barmoontalk_ba314112_9:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4018
 translate schinese barmoontalk_7e63ec25_5:
@@ -9519,7 +9519,7 @@ translate schinese barmoontalk_0d562c6d:
 translate schinese barmoontalk_0206afc4_2:
 
     # c "I'm sure you can agree the humiliation just adds to the punishment."
-    c "我相信你会同意的,羞辱也刚好增加了惩罚的部分."
+    c "我相信你也同意,羞辱加重了惩罚的力度."
 
 # game/scripts/bar.rpy:4043
 translate schinese barmoontalk_925a615a:
@@ -9711,7 +9711,7 @@ translate schinese barmoontalk_13a409dc_6:
 translate schinese barmoontalk_ba314112_10:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4107
 translate schinese barmoontalk_71d89851_5:
@@ -9723,7 +9723,7 @@ translate schinese barmoontalk_71d89851_5:
 translate schinese barmoontalk_ba314112_11:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4112
 translate schinese barmoontalk_7e63ec25_6:
@@ -9939,7 +9939,7 @@ translate schinese barmoontalk_13a409dc_7:
 translate schinese barmoontalk_ba314112_12:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4186
 translate schinese barmoontalk_71d89851_6:
@@ -9951,7 +9951,7 @@ translate schinese barmoontalk_71d89851_6:
 translate schinese barmoontalk_ba314112_13:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4191
 translate schinese barmoontalk_7e63ec25_7:
@@ -10011,7 +10011,7 @@ translate schinese barmoontalk_ea756623:
 translate schinese barmoontalk_7222fcf6:
 
     # moon "...But I'm sure you can agree the humiliation just adds to the punishment..."
-    moon "......但我相信你会同意的,羞辱也刚好增加了惩罚的部分......"
+    moon "......但我相信你也同意,羞辱加重了惩罚的力度......"
 
 # game/scripts/bar.rpy:4214
 translate schinese barmoontalk_bdf3e631:
@@ -10095,7 +10095,7 @@ translate schinese barmoontalk_13a409dc_8:
 translate schinese barmoontalk_ba314112_14:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4248
 translate schinese barmoontalk_71d89851_7:
@@ -10107,7 +10107,7 @@ translate schinese barmoontalk_71d89851_7:
 translate schinese barmoontalk_ba314112_15:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4253
 translate schinese barmoontalk_7e63ec25_8:
@@ -10545,7 +10545,7 @@ translate schinese barmoontalk_13a409dc_9:
 translate schinese barmoontalk_ba314112_16:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4426
 translate schinese barmoontalk_71d89851_8:
@@ -10557,7 +10557,7 @@ translate schinese barmoontalk_71d89851_8:
 translate schinese barmoontalk_ba314112_17:
 
     # c "That's enough for now."
-    c "够了."
+    c "暂时到此为止."
 
 # game/scripts/bar.rpy:4431
 translate schinese barmoontalk_7e63ec25_9:
