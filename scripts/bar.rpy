@@ -12003,7 +12003,7 @@ translate schinese moon_gaming_22cdf01f:
 translate schinese moon_gaming_b778ffcb:
 
     # moon "Yep, I play games as well. Sometimes I join tourneys. Just local ones."
-    moon "是的,我也玩游戏.有时候我还会参加比赛.不过只是本地的."
+    moon "是的,我也打游戏.有时候我还会参加比赛.不过只是本地的."
 
 # game/scripts/bar.rpy:4848
 translate schinese moon_gaming_2a7320e3:
