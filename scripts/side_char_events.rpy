@@ -49429,3 +49429,2081 @@ translate schinese jin_story6_efb732e3:
 
     # l "{i}But I've tried to invite her to dinner, or a nice walk on the beach, or even a movie. She just doesn't want to have any fun...{/i}"
     l "{i}但我试着邀请她一起吃晚餐,或去海滩散散步,甚至一起看场电影.她就是不想去......{/i}"
+# TODO: Translation updated at 2025-02-05 20:43
+
+# game/scripts/side_char_events.rpy:5334
+translate schinese love_nia_7_12782065:
+
+    # nia "...{w=1}\n...{w=1}\n..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5341
+translate schinese love_nia_7_12782065_1:
+
+    # nia "...{w=1}\n...{w=1}\n..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5349
+translate schinese love_nia_7_e00fe3c8:
+
+    # "{i}{size=-5}(No.... No...! NO!!!){/size}{/i}{w=2}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5352
+translate schinese love_nia_7_fdfeb92b:
+
+    # "{fast}DAMN WHORE.{w=0.5}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5355
+translate schinese love_nia_7_fbf7f605:
+
+    # "{fast}*BARK!* *BARK!*{w=0.5}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5358
+translate schinese love_nia_7_d36b0091:
+
+    # "{fast}No...! No!{w=0.5}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5361
+translate schinese love_nia_7_5508e3ba:
+
+    # "{fast}*Grrrrrrr...!*\n{w=0.3}Please...!{w=0.5}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5364
+translate schinese love_nia_7_5d7afa4d:
+
+    # "{fast}NOOOOO!!!{w=0.5}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5367
+translate schinese love_nia_7_1421065e:
+
+    # "{fast}*BARK!* *BARK!* *BARK!*{w=0.25}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5370
+translate schinese love_nia_7_2c05884c:
+
+    # "{fast}FUCKING BITCH!{w=0.25}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5373
+translate schinese love_nia_7_1421065e_1:
+
+    # "{fast}*BARK!* *BARK!* *BARK!*{w=0.25}{nw}"
+    ""
+
+# game/scripts/side_char_events.rpy:5376
+translate schinese love_nia_7_0ecffa98:
+
+    # "{fast}MOMMYYYYYYYY!!!!!!!{w=1}{nw}" with sshake
+    "" with sshake
+
+# game/scripts/side_char_events.rpy:5397
+translate schinese love_nia_7_1190d824:
+
+    # nia "...{w=0.5}...{w=0.5}...{w=0.5}\n*inhale*{w=1}\n...{w=0.5}...{w=0.5}...{w=1}\n*exhale*"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5399
+translate schinese love_nia_7_033c4a97:
+
+    # ghen "*snore..."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5400
+translate schinese love_nia_7_cdbedb77:
+
+    # news "{i}{size=-5}Breaking News: GDP reaches record heights.{/size}{/i}"
+    news ""
+
+# game/scripts/side_char_events.rpy:5401
+translate schinese love_nia_7_8bf2575a:
+
+    # ghen "*snore*..."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5403
+translate schinese love_nia_7_62136201:
+
+    # jena "*yawwwwwn*{w=0.5}\nMmmn..."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5405
+translate schinese love_nia_7_778629ae:
+
+    # jena "Oh, hey Nia! When did you get here?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5406
+translate schinese love_nia_7_b4b34e30:
+
+    # nia "Last night."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5408
+translate schinese love_nia_7_edea7194:
+
+    # jena "Um, did something happen?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5409
+translate schinese love_nia_7_8937faf8:
+
+    # nia "Not yet."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5410
+translate schinese love_nia_7_29278cf2:
+
+    # jena "Ohhh, you're here to meet her, aren't you?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5411
+translate schinese love_nia_7_a88d9cdf:
+
+    # nia "Hm? Who?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5412
+translate schinese love_nia_7_aa10e9f6:
+
+    # jena "Sable!\n...I told you last week, remember?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5413
+translate schinese love_nia_7_18101c2f:
+
+    # nia "Oh, right."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5415
+translate schinese love_nia_7_ab5c3171:
+
+    # jena "Hey, are you sure you're okay?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5416
+translate schinese love_nia_7_ce24eb44:
+
+    # nia "...I just don't think we're doing enough."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5417
+translate schinese love_nia_7_7c132fb6:
+
+    # jena "Hey, hey, I get it! We all want to make a difference. It just takes time, you know?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5419
+translate schinese love_nia_7_0e5a1a31:
+
+    # nia "THREE HUNDRED YEARS!" with ssshake
+    nia "" with ssshake
+
+# game/scripts/side_char_events.rpy:5420
+translate schinese love_nia_7_855fbb84:
+
+    # jena "Eh?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5421
+translate schinese love_nia_7_b3f785ff:
+
+    # nia "IT'S BEEN THREE HUNDRED YEARS, JENA! How much more time do we need!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5423
+translate schinese love_nia_7_443e07f9:
+
+    # jena "..."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5424
+translate schinese love_nia_7_7ab69af7:
+
+    # nia "*sigh*...\n{w=0.5}...{w=0.5}\n...I'm sorry."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5426
+translate schinese love_nia_7_6c003d27:
+
+    # nia "I've been stopping masters and saving elves for decades. Nothing has changed! There will always be masters, and there will always be slaves..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5427
+translate schinese love_nia_7_e3f986ef:
+
+    # nia "I'm fucking sick of it! It's a never-ending cycle that just keeps repeating."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5428
+translate schinese love_nia_7_101f3f32:
+
+    # jena "But, we do good, Nia! We've saved a lot of elves."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5429
+translate schinese love_nia_7_75cb0d8d:
+
+    # nia "It's not enough! I could do this for a million years and it would still not be enough!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5431
+translate schinese love_nia_7_1e0c2144:
+
+    # nia "We need to make a bigger difference! We need bigger targets! We need more people!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5432
+translate schinese love_nia_7_0c42d439:
+
+    # jena "Um, Nia..."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5434
+translate schinese love_nia_7_ba45294c:
+
+    # nia "What!?\n{w=1}Huh...?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5436
+translate schinese love_nia_7_5dc2c50a:
+
+    # nia "Oh. Hi Sable."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5437
+translate schinese love_nia_7_dd780f1d:
+
+    # sable "Is this a bad time?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5438
+translate schinese love_nia_7_6c09a9f5:
+
+    # nia "As good as any."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5440
+translate schinese love_nia_7_835cf8b9:
+
+    # jena "Welcome back, Sable!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5441
+translate schinese love_nia_7_54d88d3d:
+
+    # sable "Some tea, please? Black."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5442
+translate schinese love_nia_7_49ad8811:
+
+    # jena "Sure! Be right back."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5444
+translate schinese love_nia_7_46b15f8e:
+
+    # sable "*sigh*...\nLowtown is starting to look like actual city these days. Are you sure you're still safe here?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5445
+translate schinese love_nia_7_1a30cdd9:
+
+    # nia "Nobody finds this place by accident."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5446
+translate schinese love_nia_7_6542a957:
+
+    # sable "Yet.\n...Take a seat, Nia."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5447
+translate schinese love_nia_7_1a2aaf70:
+
+    # nia "I'm fine."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5448
+translate schinese love_nia_7_2605dfdd:
+
+    # sable "Nia, take the god damn seat."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5449
+translate schinese love_nia_7_60016604:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5451
+translate schinese love_nia_7_60016604_1:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5452
+translate schinese love_nia_7_f2b89cf1:
+
+    # sable "You can wear a mask all day and night, but at some point you have to take it off."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5453
+translate schinese love_nia_7_1dc7e314:
+
+    # sable "What's wrong?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5454
+translate schinese love_nia_7_a0afeb78:
+
+    # nia "...Nothing is getting better. Things are getting worse, actually..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5455
+translate schinese love_nia_7_27a3203e:
+
+    # sable "What did you expect? Killing masters and relocating slaves isn't going to change the world."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5456
+translate schinese love_nia_7_60016604_2:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5457
+translate schinese love_nia_7_a8a19e63:
+
+    # sable "The one you're really after can't bleed, because it isn't alive. You would have to kill everyone to change the system."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5458
+translate schinese love_nia_7_8dec51ad:
+
+    # sable "Is that what you want?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5459
+translate schinese love_nia_7_866469b9:
+
+    # nia "...No. I want to change their minds. But it's not possible."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5461
+translate schinese love_nia_7_fec4c442:
+
+    # sable "You're right. The human mind is often a stubborn one. They rarely live long enough to see change. That's where we have an upper hand."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5462
+translate schinese love_nia_7_f2baf4ee:
+
+    # sable "You do plan on living long enough to see that change, don't you?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5463
+translate schinese love_nia_7_60016604_3:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5465
+translate schinese love_nia_7_28dbda5a:
+
+    # sable "Nia, the system may not bleed, but those who control it do."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5466
+translate schinese love_nia_7_b42ed328:
+
+    # sable "You're taking your anger out on those who live within the system. Those same people who would be completely different had they been born in another system."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5467
+translate schinese love_nia_7_a4a420c9:
+
+    # sable "When I took you under my wing, I saw a deeply disturbed child who needed an outlet. I wished for you to harness your anger and turn it into a force for good. I did not wish to create a killing machine."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5468
+translate schinese love_nia_7_c3ca5834:
+
+    # nia "I only kill when I have to. I don't enjoy it."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5469
+translate schinese love_nia_7_12fe808d:
+
+    # sable "But who have you killed? Sure, they're not innocent, I get that. But they're products of a broken system. They're victims too."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5471
+translate schinese love_nia_7_dfa58247:
+
+    # nia "SLAVERS are victims? RAPISTS are victims? CHILD TRAFFICKERS!? Fucking bullshit!" with ssshake
+    nia "" with ssshake
+
+# game/scripts/side_char_events.rpy:5472
+translate schinese love_nia_7_e5707e24:
+
+    # sable "And they deserve everything you gave them, Nia. I'm not saying they don't... I'm saying in a better world, they wouldn't even have those opportunities. They could have been decent people if things were different."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5474
+translate schinese love_nia_7_ad3dd635:
+
+    # sable "But do you count murderers on that list? Some of us are victims of our own desires and past traumas. I'm sure you know about that well."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5475
+translate schinese love_nia_7_375e39ef:
+
+    # nia "As the daughter of the pirate queen, I would have thought you would understand."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5476
+translate schinese love_nia_7_18efb73d:
+
+    # sable "But I do understand, and I think we both agree. You aren't accomplishing what you set out to do. You're not fulfilled in your work."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5477
+translate schinese love_nia_7_1e48c4a3:
+
+    # nia "...Why are you here, Sable?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5478
+translate schinese love_nia_7_a759ba6c:
+
+    # sable "To help you change the world."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5480
+translate schinese love_nia_7_651f5346:
+
+    # jena "Here you go."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5481
+translate schinese love_nia_7_e1d254b4:
+
+    # sable "Oh, thank you, Jena."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5483
+translate schinese love_nia_7_9f9a7c33:
+
+    # nia "What do you know?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5484
+translate schinese love_nia_7_ef6610d5:
+
+    # sable "It's not your typical line of work."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5485
+translate schinese love_nia_7_3fcea0ab:
+
+    # nia "Tell me."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5486
+translate schinese love_nia_7_76cc04d4:
+
+    # sable "VitaPharm is losing their patent on the blood pressure medication they developed one hundred years ago. Last week, their CEO decided to increase the cost by thirteen times. Naturally, this will lead to a lot of people dying."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5487
+translate schinese love_nia_7_9ee457ba:
+
+    # nia "What do I care? This is a human issue. That's more of your line of work."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5488
+translate schinese love_nia_7_79fd65ff:
+
+    # sable "Nia... It's just as I told you, we all suffer under this system. Humans are not our enemy, the system is."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5490
+translate schinese love_nia_7_dd087143:
+
+    # nia "When was the last time you heard of an elf with high blood pressure? Only old and fat masters will die."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5491
+translate schinese love_nia_7_058a6d6e:
+
+    # sable "As well as children, and anyone unlucky enough to be born with a bad kidney or narrow arteries. Hundreds of thousands of elves and humans will suffer and die over the next decade simply because they can't afford the new price."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5492
+translate schinese love_nia_7_825adfc5:
+
+    # nia "Why do you know so much about this?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5493
+translate schinese love_nia_7_664f2c61:
+
+    # sable "I've done my research Nia, I always do."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5495
+translate schinese love_nia_7_bba7ef02:
+
+    # sable "Greed is what creates slavery. I see no difference between the two. Humans and elves die to it all the same."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5496
+translate schinese love_nia_7_924bbf27:
+
+    # nia "...Okay, but when are they losing the patent? Other companies will start producing them at cheaper prices."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5497
+translate schinese love_nia_7_7271a11f:
+
+    # sable "That's the issue, Nia. They've applied for a 10 year extension on their patent, and they're a monopoly over many vital pharmacuticals in Syl'anar. They're going to get their patent extention and the CEO will be directly responsible for the deaths of hundreds of thousands."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5499
+translate schinese love_nia_7_e6731a63:
+
+    # sable "...Unless he misses his court date."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5500
+translate schinese love_nia_7_e1864899:
+
+    # nia "You want him dead."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5502
+translate schinese love_nia_7_796baaef:
+
+    # sable "I want there to be no patents on life saving medication... but yes, his absence would save lives."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5503
+translate schinese love_nia_7_d390202c:
+
+    # nia "Are you sure the only thing that will stop this is if he misses the court date?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5505
+translate schinese love_nia_7_0870a56c:
+
+    # sable "That's how it works in Syl'anar. He'll argue his case, and the judge will likely agree. And if he misses it this time, he'll just set a new date. That's why he needs to be stopped, permanently."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5506
+translate schinese love_nia_7_4cc9b992:
+
+    # nia "What about the new CEO? He'll just plead in his place."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5507
+translate schinese love_nia_7_3e3f22a4:
+
+    # sable "Not if we send a message."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5508
+translate schinese love_nia_7_60016604_4:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5509
+translate schinese love_nia_7_f3da9265:
+
+    # nia "...It could work."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5511
+translate schinese love_nia_7_a9bfa505:
+
+    # sable "I'm happy to know you take this seriously. Taking someone's life shouldn't be considered lightly."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5512
+translate schinese love_nia_7_763433f6:
+
+    # sable "Besides that, you would be doing humans a service for once. I'm sure you would have their eternal gratitude."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5514
+translate schinese love_nia_7_7344f86b:
+
+    # nia "I'll need time to prepare. Jena, can you be my eyes?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5515
+translate schinese love_nia_7_8c895842:
+
+    # jena "Ready!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5516
+translate schinese love_nia_7_8476aa5f:
+
+    # sable "No, we'll be going right now."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5518
+translate schinese love_nia_7_4ee0c56b:
+
+    # nia "Now? We? You're coming?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5519
+translate schinese love_nia_7_6f4e6861:
+
+    # sable "Of course. This was my job, I only wanted to ask for your help. I came all the way down from Syl'tin for this guy. I'm not going to let you have all the fun."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5520
+translate schinese love_nia_7_bff0f496:
+
+    # nia "He's here? In Corpus? What do you know?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5522
+translate schinese love_nia_7_f9bcecf6:
+
+    # sable "I know where he works, and I know where he lives. All we need to do is find him when he leaves."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5523
+translate schinese love_nia_7_343508b2:
+
+    # nia "...{w}...{w}..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5525
+translate schinese love_nia_7_3d770a34:
+
+    # nia "Let's do it."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5526
+translate schinese love_nia_7_60d48ee8:
+
+    # jena "Alright~!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5534
+translate schinese love_nia_7_cbc6d1eb:
+
+    # sable "I wasn't expecting you to be on board with this, to be honest with you."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5535
+translate schinese love_nia_7_2585ceb5:
+
+    # nia "No, you were right Sable. I couldn't see the forest for the trees. There's a bigger picture here, and it starts with guys like this."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5536
+translate schinese love_nia_7_6c483efd:
+
+    # sable "Greed is our enemy, and he has many heads."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5538
+translate schinese love_nia_7_686391c0:
+
+    # rasha "Oh! Ey, EYY! Nia!"
+    rasha ""
+
+# game/scripts/side_char_events.rpy:5539
+translate schinese love_nia_7_ede4c1fc:
+
+    # sable "Is he a friend of yours?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5540
+translate schinese love_nia_7_b57d5277:
+
+    # nia "Just ignore him."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5542
+translate schinese love_nia_7_8954e5af:
+
+    # rasha "Nia, a moment of ya time please?"
+    rasha ""
+
+# game/scripts/side_char_events.rpy:5543
+translate schinese love_nia_7_34306566:
+
+    # nia "I'm busy, Rasha."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5544
+translate schinese love_nia_7_f183a764:
+
+    # rasha "Nia, please! We be very low on toilet paper! VERY LOW! Ya know how bad de smell will be if we run out of toilet paper!?"
+    rasha ""
+
+# game/scripts/side_char_events.rpy:5545
+translate schinese love_nia_7_50971417:
+
+    # rasha "The citizens of lowtown need ye to be the hero ya were always destined to be, Nia!!"
+    rasha ""
+
+# game/scripts/side_char_events.rpy:5546
+translate schinese love_nia_7_e91f575d:
+
+    # rasha "Come on! Don't ye forget 'bout the discount now! We have a deal!"
+    rasha ""
+
+# game/scripts/side_char_events.rpy:5548
+translate schinese love_nia_7_e9ee3585:
+
+    # nia "*sigh* no promises. I'll see what I can do."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5549
+translate schinese love_nia_7_e04d92bf:
+
+    # rasha "Thank you! Thank you!"
+    rasha ""
+
+# game/scripts/side_char_events.rpy:5550
+translate schinese love_nia_7_89494c33:
+
+    # sable "A hero, huh?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5551
+translate schinese love_nia_7_f2503c47:
+
+    # nia "He knows how to kiss an ass when he needs to."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5553
+translate schinese love_nia_7_68e0119c:
+
+    # nia "So what's the plan?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5554
+translate schinese love_nia_7_c7d98215:
+
+    # sable "We'll find his house and wait until he gets home."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5555
+translate schinese love_nia_7_276103af:
+
+    # nia "It's that easy, really?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5556
+translate schinese love_nia_7_aec90e4f:
+
+    # sable "Our intel tells us that he's only guarded while working, and protected by his androids inside his house. So our only chance to stop him is before or after work."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5557
+translate schinese love_nia_7_65eb4f6e:
+
+    # sable "We need to hurry. He gets off work in an hour, so we have a chance right now."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5558
+translate schinese love_nia_7_1c472d9e:
+
+    # nia "In that case... follow me."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5563
+translate schinese love_nia_7_73852967:
+
+    # sable "...Wow. That's nice. Where'd you get this?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5564
+translate schinese love_nia_7_b9357a41:
+
+    # nia "...Well, he never had a chance to sell it.\nI've had her for a few years now. She should fit two."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5565
+translate schinese love_nia_7_ca1cb353:
+
+    # sable "Fun~"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5573
+translate schinese love_nia_7_93e49738:
+
+    # sable "...Are you sure we're not being followed?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5574
+translate schinese love_nia_7_09a26787:
+
+    # nia "I'm sure."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5575
+translate schinese love_nia_7_36404a1f:
+
+    # sable "And are you sure this is safe?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5576
+translate schinese love_nia_7_a3cc9fdb:
+
+    # nia "You've never been on a motorcycle?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5579
+translate schinese love_nia_7_a56d3ede:
+
+    # sable "It's not that. We're exposed. Anyone could see that I'm an elf."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5580
+translate schinese love_nia_7_85d77621:
+
+    # nia "That's why you should wear contacts, Sable. Nobody has ever bothered me."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5581
+translate schinese love_nia_7_de5d9c48:
+
+    # sable "I prefer they know exactly what I am~"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5582
+translate schinese love_nia_7_98d036fd:
+
+    # nia "You reap what you sow."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5583
+translate schinese love_nia_7_db8f58a1:
+
+    # sable "Hmm? I wonder who taught you that one..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5586
+translate schinese love_nia_7_41fd7898:
+
+    # sable "This is the place."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5587
+translate schinese love_nia_7_34c35b8a:
+
+    # nia "No car. We made it. \nLet's see if he left any windows open..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5588
+translate schinese love_nia_7_fe10f85b:
+
+    # sable "No, he has a family. The lights are on. Someone is home."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5589
+translate schinese love_nia_7_a0864d37:
+
+    # nia "What? You didn't tell me that."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5590
+translate schinese love_nia_7_9ae852e9:
+
+    # sable "We'll climb this tree and wait. Come on."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5593
+translate schinese love_nia_7_7a4c3978:
+
+    # nia "His wife is home. Good call."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5594
+translate schinese love_nia_7_9f1822fc:
+
+    # sable "..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5596
+translate schinese love_nia_7_7449ae11:
+
+    # sable "...Does it change anything for you? Knowing he has a family. A daughter."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5598
+translate schinese love_nia_7_ffdbf7fd:
+
+    # nia "...{w}..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5599
+translate schinese love_nia_7_ab38e5b5:
+
+    # nia "...Of course it does. {w=1}A child is about to lose her father."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5601
+translate schinese love_nia_7_62206cfe:
+
+    # nia "His decision tomorrow would kill millions of people. If his wife had any sense, she never would have fucked him."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5602
+translate schinese love_nia_7_3fdccc9e:
+
+    # sable "No child deserves to lose their parents, especially at that age. Don't you agree?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5603
+translate schinese love_nia_7_c1292f2f:
+
+    # nia "Of course..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5604
+translate schinese love_nia_7_a34ef7a7:
+
+    # sable "That's exactly what we're trying to prevent. And that's exactly why he has to die."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5606
+translate schinese love_nia_7_9cbf6b06:
+
+    # nia "*sigh*, yeah..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5607
+translate schinese love_nia_7_9f1822fc_1:
+
+    # sable "..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5608
+translate schinese love_nia_7_60016604_5:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5610
+translate schinese love_nia_7_5b5a0193:
+
+    # nia "Sable...? Do you remember how I wanted to be a hero when I was young?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5611
+translate schinese love_nia_7_a11fd163:
+
+    # sable "Hah, of course. You were so ambitious back then."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5612
+translate schinese love_nia_7_8d51682a:
+
+    # nia "...I don't think I'm getting any closer to that."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5613
+translate schinese love_nia_7_1a40bad2:
+
+    # sable "Nia... hahah, this is real life. There are no heroes. There are only villains..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5614
+translate schinese love_nia_7_6c4cb39a:
+
+    # sable "And you know what? You're a damn good one."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5616
+translate schinese love_nia_7_41435e55:
+
+    # nia "I'm sorry?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5617
+translate schinese love_nia_7_90631571:
+
+    # sable "What he's doing isn't illegal. What do you think a hero is going to do here? Commit a crime? Kill someone?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5619
+translate schinese love_nia_7_60016604_6:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5620
+translate schinese love_nia_7_74cae42d:
+
+    # sable "You want to burn this country down and start over, don't you? Only villains declare war on the government..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5621
+translate schinese love_nia_7_e8cf2864:
+
+    # nia "...Are you trying to make me feel like shit?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5622
+translate schinese love_nia_7_e2251e59:
+
+    # sable "Quite the opposite, love. You're great at what you do. You've saved countless lives, you protect the weak, and by the sound of it, you actually provide the people of Lowtown with goods for free."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5623
+translate schinese love_nia_7_b164e844:
+
+    # sable "It just so happens that these qualities make you a villain in Syl'anar..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5625
+translate schinese love_nia_7_0793ac8b:
+
+    # sable "Like I said Nia, you're a damn good one. And if we do our job right, within time, you {u}will{/u} be seen as a hero."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5626
+translate schinese love_nia_7_6004a0aa:
+
+    # sable "Maybe you'll even get a statue, hm?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5628
+translate schinese love_nia_7_9d905588:
+
+    # nia "Heh, shut up."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5629
+translate schinese love_nia_7_2ff50add:
+
+    # sable "You're doing well Nia, don't doubt yourself."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5630
+translate schinese love_nia_7_863898f1:
+
+    # sable "Personally, I want a higher bounty than my mother. It's kind of an honor, you know?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5632
+translate schinese love_nia_7_f4cfeed2:
+
+    # nia "What is it with everyone wanting a higher bounty?\nWhat's it at now?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5633
+translate schinese love_nia_7_75724dfd:
+
+    # sable "Only $5,000. Quite a lot back in Ghen's day, but I only gained it a few years ago when I was caught on a mission, so it doesn't even compare to what his was in his prime."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5634
+translate schinese love_nia_7_e4ffe165:
+
+    # sable "And yours?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5636
+translate schinese love_nia_7_bc1ca681:
+
+    # nia "I don't have a bounty. I don't need the heat..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5638
+translate schinese love_nia_7_2ccc1189:
+
+    # jena "Guys, there's a car coming! I think it's him!" with ssshake
+    jena "" with ssshake
+
+# game/scripts/side_char_events.rpy:5639
+translate schinese love_nia_7_7422fdd2:
+
+    # nia "Jena, fuck, that was loud...!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5641
+translate schinese love_nia_7_ab28e31c:
+
+    # nia "{i}Is that him?{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5642
+translate schinese love_nia_7_b2dbda75:
+
+    # sable "{i}It is.{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5643
+translate schinese love_nia_7_af1ffa5c:
+
+    # nia "{i}Now's our chance...!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5644
+translate schinese love_nia_7_79efff9d:
+
+    # sable "{i}Not in front of the family, Nia... his child is right there.{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5645
+translate schinese love_nia_7_2680faf5:
+
+    # nia "{i}What the fuck does it matter, Sable? You said it yourself, this will save lives! The decision is tomorrow!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5647
+translate schinese love_nia_7_98d8e77a:
+
+    # sable "{i}You know why we don't kill a parent in front of their child. What would that turn her into?{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5649
+translate schinese love_nia_7_60016604_7:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5650
+translate schinese love_nia_7_33f05ee4:
+
+    # sable "{i}Exactly.{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5651
+translate schinese love_nia_7_eec3d5fa:
+
+    # nia "{i}My mother didn't decide on who lives and who dies.{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5653
+translate schinese love_nia_7_1382d98e:
+
+    # nia "That asshole does."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5655
+translate schinese love_nia_7_bd97fcc1:
+
+    # sable "Be patient, Nia. We'll wait for him."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5656
+translate schinese love_nia_7_8ce2ae23:
+
+    # nia "All night?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5657
+translate schinese love_nia_7_20f34014:
+
+    # sable "He's not going anywhere.\nWhat time is it, Jena?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5659
+translate schinese love_nia_7_0c84f00f:
+
+    # jena "1:17."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5660
+translate schinese love_nia_7_1bcbb7cd:
+
+    # sable "You can wait five hours, can't you?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5661
+translate schinese love_nia_7_085e29a4:
+
+    # nia "So what, they'll find his body in the morning? Not exactly less traumatic."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5662
+translate schinese love_nia_7_d97cb185:
+
+    # sable "Jena will call it in anonymously for us. Isn't that right?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5663
+translate schinese love_nia_7_b13f2279:
+
+    # jena "Sure, I can do that."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5664
+translate schinese love_nia_7_9a71be11:
+
+    # nia "*sigh*..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5665
+translate schinese love_nia_7_57a5e85c:
+
+    # q "AAH!" with ssshake
+    q "" with ssshake
+
+# game/scripts/side_char_events.rpy:5667
+translate schinese love_nia_7_df22dfa5:
+
+    # nia "What was that??"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5668
+translate schinese love_nia_7_8466c354:
+
+    # sable "Looks like dinner wasn't ready..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5670
+translate schinese love_nia_7_620a61ae:
+
+    # sable "Not such a happy family after all, hm?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5672
+translate schinese love_nia_7_03dfaee1:
+
+    # sable "Anyway... get some sleep. Big day ahead of us."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5673
+translate schinese love_nia_7_b6f02a92:
+
+    # jena "Goodnight guys~ I'll set an alarm."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5674
+translate schinese love_nia_7_6669209b:
+
+    # nia "I think I'll stay awake..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5677
+translate schinese love_nia_7_ddc51acb:
+
+    # nia "{i}*snore*...{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5678
+translate schinese love_nia_7_67d640bf:
+
+    # "*engine starting*" with ssshake
+    "" with ssshake
+
+# game/scripts/side_char_events.rpy:5680
+translate schinese love_nia_7_5d85595a:
+
+    # nia "Huh!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5682
+translate schinese love_nia_7_9dc598ae:
+
+    # nia "Oh shit! Sable, wake up!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5683
+translate schinese love_nia_7_1358b926:
+
+    # sable "Hm...? Oh fuck!"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5685
+translate schinese love_nia_7_f46cfb3d:
+
+    # sable "Jena? Jena!? Where are you!?"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5686
+translate schinese love_nia_7_7f1df7f9:
+
+    # nia "I told you we should have got him when we had the chance! Come on!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5691
+translate schinese love_nia_7_f2e4f191:
+
+    # nia "Fuck, fuck, fuck! Where is he going!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5692
+translate schinese love_nia_7_7d0a9090:
+
+    # sable "I don't know..."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5693
+translate schinese love_nia_7_b9cf1d57:
+
+    # nia "He's not going to the courthouse is he!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5696
+translate schinese love_nia_7_6d3580ef:
+
+    # sable "I don't know! He woke up early for something!"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5697
+translate schinese love_nia_7_9e9eec1a:
+
+    # nia "This is too public, Sable! We're in the fucking middle of Caliber!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5698
+translate schinese love_nia_7_b5d0896d:
+
+    # sable "It's still early, people are only waking up now. Just don't get too close yet."
+    sable ""
+
+# game/scripts/side_char_events.rpy:5701
+translate schinese love_nia_7_655a2374:
+
+    # nia "Fuck this shit, Sable! We should have fucking ended this by now!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5702
+translate schinese love_nia_7_c157678e:
+
+    # sable "We still have a chance!"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5703
+translate schinese love_nia_7_6eb633c8:
+
+    # sable "Wait, wait! He's parking, get off here!"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5704
+translate schinese love_nia_7_99a8bb17:
+
+    # nia "SHIT!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5707
+translate schinese love_nia_7_bfff81df:
+
+    # nia "{i}This is the fucking courthouse, Sable! There are cops crawling all over the place!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5708
+translate schinese love_nia_7_ce61852e:
+
+    # sable "{i}We don't have a choice. It's now or never...{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5709
+translate schinese love_nia_7_83a734c7:
+
+    # nia "{i}Next time, fucking listen to me! If we get caught because of this...!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5710
+translate schinese love_nia_7_f04402d7:
+
+    # sable "{i}We only have one chance now, Nia! Focus!{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5712
+translate schinese love_nia_7_5aabd51c:
+
+    # nia "{i}God damn it, there he is.{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5713
+translate schinese love_nia_7_0fdaed2d:
+
+    # sable "{i}You want me to do it?{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5714
+translate schinese love_nia_7_c2d7ecca:
+
+    # nia "{i}Give it to me.{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5716
+translate schinese love_nia_7_a3a540f2:
+
+    # nia "{b}HEY!!{/b}" with ssshake
+    nia "" with ssshake
+
+# game/scripts/side_char_events.rpy:5717
+translate schinese love_nia_7_9a2ef4a0:
+
+    # vita "Fuck off, I'm busy."
+    vita ""
+
+# game/scripts/side_char_events.rpy:5719
+translate schinese love_nia_7_b734c219:
+
+    # nia "How much is a life worth to you?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5720
+translate schinese love_nia_7_cd1d1f3f:
+
+    # vita "Hm?"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5721
+translate schinese love_nia_7_06848287:
+
+    # nia "You hold millions in your hands. But you don't care, do you?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5722
+translate schinese love_nia_7_f78aeb12:
+
+    # vita "Oh, you're one of {i}them{/i}..."
+    vita ""
+
+# game/scripts/side_char_events.rpy:5724
+translate schinese love_nia_7_f397069d:
+
+    # vita "Supply and demand. But I wouldn't expect you to-{w=1.5}{nw}"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5726
+translate schinese love_nia_7_aead9af6:
+
+    # vita "{fast}What the fuck!?"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5728
+translate schinese love_nia_7_fa8fa043:
+
+    # vita "WAIT! WAIT! I have a family!"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5729
+translate schinese love_nia_7_22436afa:
+
+    # nia "So do they."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5731
+translate schinese love_nia_7_3bcb5fc5:
+
+    # vita "Hey, y-you've got the wrong guy! We make life saving medication! I- I don't make the rules!"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5732
+translate schinese love_nia_7_04ecb49d:
+
+    # nia "No, but you abuse them."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5734
+translate schinese love_nia_7_8d41f0c8:
+
+    # vita "I- I can pay you! I'm a billionaire, just name your price!"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5736
+translate schinese love_nia_7_193fbd8d:
+
+    # nia "Your head."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5739
+translate schinese love_nia_7_5fe5c1cc:
+
+    # vita "NGHK-! GHK!"
+    vita ""
+
+# game/scripts/side_char_events.rpy:5741
+translate schinese love_nia_7_a61664c3:
+
+    # nia "It's over..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5745
+translate schinese love_nia_7_ea6da3ba:
+
+    # sable "{i}Shit...{/i}"
+    sable ""
+
+# game/scripts/side_char_events.rpy:5749
+translate schinese love_nia_7_7005144c:
+
+    # nia "{i}They're safe. For now...{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5751
+translate schinese love_nia_7_60016604_8:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5753
+translate schinese love_nia_7_010fdd41:
+
+    # nia "*gasp*..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5755
+translate schinese love_nia_7_8f5e610f:
+
+    # nia "...!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5757
+translate schinese love_nia_7_13aab006:
+
+    # q "Is that who I think it is?"
+    q ""
+
+# game/scripts/side_char_events.rpy:5759
+translate schinese love_nia_7_23ebcfc3:
+
+    # q "I ain't gonna lie, he deserved it."
+    q ""
+
+# game/scripts/side_char_events.rpy:5761
+translate schinese love_nia_7_f85afab3:
+
+    # q "Is he dead...!?"
+    q ""
+
+# game/scripts/side_char_events.rpy:5763
+translate schinese love_nia_7_157c2121:
+
+    # q "I saw him on the news... is that really him?"
+    q ""
+
+# game/scripts/side_char_events.rpy:5765
+translate schinese love_nia_7_8688bd81:
+
+    # q "Shouldn't someone call the cops?"
+    q ""
+
+# game/scripts/side_char_events.rpy:5767
+translate schinese love_nia_7_300832b4:
+
+    # ami "That's the guy who increased the price of dad's medication!"
+    ami ""
+
+# game/scripts/side_char_events.rpy:5769
+translate schinese love_nia_7_bb8f02a8:
+
+    # nia "{i}(They're not doing anything...?){/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5770
+translate schinese love_nia_7_17592c82:
+
+    # "*sirens blare in the distance*"
+    ""
+
+# game/scripts/side_char_events.rpy:5771
+translate schinese love_nia_7_ff5d3a02:
+
+    # nia "{i}Shit!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5774
+translate schinese love_nia_7_308f4376:
+
+    # nia "SABLE WE NEED TO-..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5775
+translate schinese love_nia_7_ce0b1057:
+
+    # nia "...Sable...!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5777
+translate schinese love_nia_7_606cc590:
+
+    # nia "She's fucking gone!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5779
+translate schinese love_nia_7_e4eceb8e:
+
+    # nia "{i}God damn it!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5780
+translate schinese love_nia_7_c9b7da33:
+
+    # "*sirens get closer*"
+    ""
+
+# game/scripts/side_char_events.rpy:5781
+translate schinese love_nia_7_9a75e18c:
+
+    # nia "{i}Fuck it! I can't stay!{/i}"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5783
+translate schinese love_nia_7_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/scripts/side_char_events.rpy:5785
+translate schinese love_nia_7_439046ab:
+
+    # nia "Where is she!? Where's Sable!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5786
+translate schinese love_nia_7_fa5b28ea:
+
+    # jena "Nia! You did it! It's all over the internet!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5788
+translate schinese love_nia_7_e1c2ef01:
+
+    # robot "Congratulations Nia! You've successfully-"
+    robot ""
+
+# game/scripts/side_char_events.rpy:5790
+translate schinese love_nia_7_cd2a4684:
+
+    # robot "-Oh my."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5792
+translate schinese love_nia_7_88e1313e:
+
+    # ghen "Hey, that wasn't very nice."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5794
+translate schinese love_nia_7_88f115ca:
+
+    # nia "Where. The fuck. Is Sable!?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5795
+translate schinese love_nia_7_90a8713e:
+
+    # jena "I don't know... I haven't heard from her since last night."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5796
+translate schinese love_nia_7_fb039e50:
+
+    # nia "Are you kidding me!? Was this some kind of setup? She abandoned me out there!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5797
+translate schinese love_nia_7_e0e49741:
+
+    # ghen "That's not like her..."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5799
+translate schinese love_nia_7_95e89d94:
+
+    # nia "And you! Where the fuck were you!? We almost lost him because you didn't wake us up!"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5800
+translate schinese love_nia_7_ce9c4d03:
+
+    # jena "What!? Me!?\nHe got up early! How could I know that?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5801
+translate schinese love_nia_7_e082d077:
+
+    # nia "Sable told you his schedule, didn't she?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5802
+translate schinese love_nia_7_b3806a74:
+
+    # jena "His work schedule! That's all we knew!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5803
+translate schinese love_nia_7_a02af48f:
+
+    # nia "Urgh..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5805
+translate schinese love_nia_7_25a21d49:
+
+    # news24 "BREAKING NEWS: CEO dead after brutal terrorist attack."
+    news24 ""
+
+# game/scripts/side_char_events.rpy:5806
+translate schinese love_nia_7_4912a2ad:
+
+    # jena "*gasp*! Nia, look!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5807
+translate schinese love_nia_7_31eb1a9b:
+
+    # ghen "She hit the news? Already?"
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5808
+translate schinese love_nia_7_df57fe1d:
+
+    # news24 "On the scene, we have Linda Vasquez. Linda?"
+    news24 ""
+
+# game/scripts/side_char_events.rpy:5810
+translate schinese love_nia_7_a57f0041:
+
+    # linda "Good morning Syl'anar. Today, the nation wakes to mourning. Billionaire CEO of VitaPharm was tragically killed just steps from the courthouse - where justice, it seems, was silent this morning."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5811
+translate schinese love_nia_7_bfd3af63:
+
+    # linda "With us, we have key eye witnesses that saw who - or what - ended the CEO's life."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5813
+translate schinese love_nia_7_a0313484:
+
+    # linda "Can you tell us what you saw today?"
+    linda ""
+
+# game/scripts/side_char_events.rpy:5814
+translate schinese love_nia_7_7982bb55:
+
+    # q "Nope."
+    q ""
+
+# game/scripts/side_char_events.rpy:5815
+translate schinese love_nia_7_ce2f62a1:
+
+    # linda "I'm sorry?"
+    linda ""
+
+# game/scripts/side_char_events.rpy:5816
+translate schinese love_nia_7_7d192ff6:
+
+    # q "Like I told the cops, I didn't see shit. I'm blind, deaf, and mute."
+    q ""
+
+# game/scripts/side_char_events.rpy:5817
+translate schinese love_nia_7_870cda92:
+
+    # linda "You're... mute?\nCan you at least tell us your opinion on the matter?"
+    linda ""
+
+# game/scripts/side_char_events.rpy:5818
+translate schinese love_nia_7_68826c7d:
+
+    # q "Yeah. I sure fuckin' hope my medication cost less after this!"
+    q ""
+
+# game/scripts/side_char_events.rpy:5819
+translate schinese love_nia_7_ead17e68:
+
+    # linda "Sir, someone died today."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5820
+translate schinese love_nia_7_780345ba:
+
+    # q "Do I look like I give a shit? Move on."
+    q ""
+
+# game/scripts/side_char_events.rpy:5822
+translate schinese love_nia_7_f0795a92:
+
+    # nia "He definitely saw me..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5823
+translate schinese love_nia_7_9c3318eb:
+
+    # jena "He's protecting you, Nia! That's amazing!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5824
+translate schinese love_nia_7_cd52823f:
+
+    # robot "Revolutionary sentiment grows amongst netizens. Glory to the resistence!"
+    robot ""
+
+# game/scripts/side_char_events.rpy:5825
+translate schinese love_nia_7_5b71ef38:
+
+    # nia "Hm..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5827
+translate schinese love_nia_7_de52656f:
+
+    # linda "Sir, can you tell us what you saw today?"
+    linda ""
+
+# game/scripts/side_char_events.rpy:5828
+translate schinese love_nia_7_cfbf2bbe:
+
+    # q "Uhh, heheh. No, what happened?"
+    q ""
+
+# game/scripts/side_char_events.rpy:5829
+translate schinese love_nia_7_3243af01:
+
+    # linda "The CEO of VitaPharm died? Right here."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5830
+translate schinese love_nia_7_6b9ccbcc:
+
+    # q "Whaaaat? That's... that's crazy! When did that happen?"
+    q ""
+
+# game/scripts/side_char_events.rpy:5831
+translate schinese love_nia_7_4506068c:
+
+    # linda "He's right over there, sir. He was murdered less than 20 minutes ago."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5833
+translate schinese love_nia_7_d267661a:
+
+    # q "..."
+    q ""
+
+# game/scripts/side_char_events.rpy:5835
+translate schinese love_nia_7_eee2952c:
+
+    # q "Whaaaat? That's crazy..."
+    q ""
+
+# game/scripts/side_char_events.rpy:5836
+translate schinese love_nia_7_8b10f8c0:
+
+    # linda "You didn't see anything?"
+    linda ""
+
+# game/scripts/side_char_events.rpy:5837
+translate schinese love_nia_7_81b34867:
+
+    # q "Nothing! Must have been quick."
+    q ""
+
+# game/scripts/side_char_events.rpy:5839
+translate schinese love_nia_7_06d3a5a7:
+
+    # nia "He was there too..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5840
+translate schinese love_nia_7_225a644a:
+
+    # ghen "Good kid. Can't tell a lie to save his life, but I like him."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5841
+translate schinese love_nia_7_5a35e221:
+
+    # nia "Does nobody care? He bled out right in front of them."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5842
+translate schinese love_nia_7_44088bb6:
+
+    # robot "The only good master is a dead master."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5844
+translate schinese love_nia_7_624993fa:
+
+    # linda "Unfortunately it appears that there were no witnesses to the brutal attack that occured in Caliber this morning after all."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5845
+translate schinese love_nia_7_068af55d:
+
+    # linda "The terrorist's identity remains unknown. Police are offering a $10,000 reward for any information that leads to an arrest."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5846
+translate schinese love_nia_7_d40f5483:
+
+    # linda "Back to you."
+    linda ""
+
+# game/scripts/side_char_events.rpy:5848
+translate schinese love_nia_7_d3a312bb:
+
+    # nia "Uhh, do I have a bounty now?"
+    nia ""
+
+# game/scripts/side_char_events.rpy:5849
+translate schinese love_nia_7_d97956a5:
+
+    # ghen "$10,000!? Police got that kinda money!?"
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5850
+translate schinese love_nia_7_d2b021b0:
+
+    # jena "Good thing they don't know what you look like."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5852
+translate schinese love_nia_7_77bb902c:
+
+    # robot "Freedom is taken, never given. Break your chains and ignite the fire!"
+    robot ""
+
+# game/scripts/side_char_events.rpy:5853
+translate schinese love_nia_7_d3ce7af3:
+
+    # jena "You can stop now..."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5854
+translate schinese love_nia_7_94cc44d8:
+
+    # robot "I could! But you programmed me to resist."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5855
+translate schinese love_nia_7_97fb5541:
+
+    # jena "{i}*sigh*, fuck me.{/i}"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5857
+translate schinese love_nia_7_9eb57842:
+
+    # nia "Sable was right... even humans struggle with their own masters. They're protecting me..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5858
+translate schinese love_nia_7_d203bf4e:
+
+    # ghen "Heheheh! Ah, you're finally starting to get it."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5859
+translate schinese love_nia_7_383b87ad:
+
+    # jena "Did you really think all humans were the problem?"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5860
+translate schinese love_nia_7_660f0eeb:
+
+    # nia "It's hard not to... we're living in the world they voted for."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5861
+translate schinese love_nia_7_09483f7d:
+
+    # jena "Most humans don't vote, Nia. They'll only care if something directly affects them, and you just proved that!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5862
+translate schinese love_nia_7_0cf5e9fe:
+
+    # nia "Yeah... I guess so."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5864
+translate schinese love_nia_7_0215872b:
+
+    # nia "*sigh*... I'm going to lay low for a while, is that alright? I haven't slept properly in a few days..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5865
+translate schinese love_nia_7_adfe072f:
+
+    # ghen "Of course! You deserve it. Make yourself at home."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5866
+translate schinese love_nia_7_9df2c869:
+
+    # robot "Break the shackles of drowsiness, free yourself from the oppression of fatigue."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5868
+translate schinese love_nia_7_e29be8a3:
+
+    # jena "I knew working with Sable was going to be a good idea! With this kind of public support, we could do so much more!"
+    jena ""
+
+# game/scripts/side_char_events.rpy:5869
+translate schinese love_nia_7_9f6ad851:
+
+    # robot "Netizens largely agree. Healthcare is a human right."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5870
+translate schinese love_nia_7_bc508210:
+
+    # ghen "Heh, what about us?"
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5871
+translate schinese love_nia_7_bd087063:
+
+    # jena "One step at a time, I guess. Once they realize Nia was their hero, they'll come around."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5873
+translate schinese love_nia_7_60016604_9:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/side_char_events.rpy:5877
+translate schinese love_nia_7_d343d779:
+
+    # ghen "Alright, I gotta take a piss. I'll be right back."
+    ghen ""
+
+# game/scripts/side_char_events.rpy:5878
+translate schinese love_nia_7_adf4daa7:
+
+    # robot "Liberate yourself from the tyranny of a full bladder, comrade."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5879
+translate schinese love_nia_7_23a2ac01:
+
+    # jena "Shut up! You talk too much."
+    jena ""
+
+# game/scripts/side_char_events.rpy:5880
+translate schinese love_nia_7_73cc1213:
+
+    # robot "Silence is compliance. Nice try, tyrant. A textbook authoritarian move."
+    robot ""
+
+# game/scripts/side_char_events.rpy:5881
+translate schinese love_nia_7_5d46bc2c:
+
+    # jena "URGHHH!"
+    jena ""
+

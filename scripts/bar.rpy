@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-30 22:03
+# TODO: Translation updated at 2023-12-30 22:03
 # game/scripts/bar.rpy:51
 translate schinese prebar_fe710902:
 
@@ -11991,7 +11991,7 @@ translate schinese moon_gaming_1fd0d615:
 translate schinese moon_gaming_8f6b55d2:
 
     # moon "Don't worry, nothing bad. It turns out we have something in common."
-    moon "别担心,不是坏事.不过我们好像有点共同点."
+    moon "别担心,没有坏事.原来我们有些共同点."
 
 # game/scripts/bar.rpy:4846
 translate schinese moon_gaming_22cdf01f:
@@ -12003,19 +12003,19 @@ translate schinese moon_gaming_22cdf01f:
 translate schinese moon_gaming_b778ffcb:
 
     # moon "Yep, I play games as well. Sometimes I join tourneys. Just local ones."
-    moon "是的,我也打游戏.有时候我还会参加比赛.不过只是本地的."
+    moon "是的,我也打游戏.有时候我还会参加比赛,不过只打本地的."
 
 # game/scripts/bar.rpy:4848
 translate schinese moon_gaming_2a7320e3:
 
     # k "Woah, really? You don't seem the type."
-    k "喔,真的吗?你看起来不像是那种人."
+    k "喔,真的吗?你看起来不是那种人."
 
 # game/scripts/bar.rpy:4849
 translate schinese moon_gaming_f9d7dd3b:
 
     # moon "Just because I don't wear glasses like you? I can play games! And I'm very competitive, too!"
-    moon "就因为我不像你那样戴眼镜吗?我会打游戏的!而且我也挺有竞争力的!"
+    moon "就因为我不像你一样戴眼镜?我会打游戏!而且我也很好胜!"
 
 # game/scripts/bar.rpy:4850
 translate schinese moon_gaming_9e037934:
@@ -12027,7 +12027,7 @@ translate schinese moon_gaming_9e037934:
 translate schinese moon_gaming_819d1b36:
 
     # moon "Just about everything except simulations. I love shooting and racing games."
-    moon "除了模拟游戏什么都玩.我喜欢射击和赛车游戏."
+    moon "除了模拟游戏,几乎什么都玩.我喜欢射击和赛车游戏."
 
 # game/scripts/bar.rpy:4852
 translate schinese moon_gaming_af0f4e13:
@@ -12039,25 +12039,25 @@ translate schinese moon_gaming_af0f4e13:
 translate schinese moon_gaming_f00a3531:
 
     # moon "I don't live here, I'm just a waitress. But I'm pretty much always in the bar."
-    moon "我不住在这里,我只是一个服务员.但是我大部分时间都在酒吧里."
+    moon "我不住在这里,我只是个服务员.但是我大部分时间都在酒吧里."
 
 # game/scripts/bar.rpy:4854
 translate schinese moon_gaming_dcb88c48:
 
     # k "Oh, that explains it."
-    k "噢,那就可以解释了."
+    k "噢,原来如此."
 
 # game/scripts/bar.rpy:4855
 translate schinese moon_gaming_2b683dfa:
 
     # k "I don't have anything else to do, and I'd rather not drink myself to sleep... Do you want to play something? We have a console in the lobby."
-    k "我现在无事可做,但是我也不想喝得酩酊大醉......你想玩点什么吗?我们大厅里有个游戏机."
+    k "我现在没别的事要做,也不想喝得酩酊大醉......你想玩点什么吗?大厅里有个游戏机."
 
 # game/scripts/bar.rpy:4856
 translate schinese moon_gaming_05950cb6:
 
     # moon "*gasp*, really? I would love to! I've been dying for real competition, so you better be good!"
-    moon "*惊叹*,真的吗?我愿意!我一直都想来一次真正的比赛,所以你最好有那个本事!"
+    moon "*惊叹*,真的吗?我要!我一直很想参加真正的比赛,所以你最好有那个本事!"
 
 # game/scripts/bar.rpy:4859
 translate schinese moon_gaming_59e72d2c:
@@ -12069,13 +12069,13 @@ translate schinese moon_gaming_59e72d2c:
 translate schinese moon_gaming_4787f125:
 
     # c "I'll just watch for now."
-    c "我现在就看看吧."
+    c "我暂时就看看吧."
 
 # game/scripts/bar.rpy:4861
 translate schinese moon_gaming_64782318:
 
     # moon "{size=-10}{i}He's too scared to lose to a couple of girls, heheh.{/i}{/size}"
-    moon "{size=-10}{i}他太害怕了,怕输给几个女孩,呵呵呵.{/i}{/size}"
+    moon "{size=-10}{i}他怕输给几个女孩,呵呵呵.{/i}{/size}"
 
 # game/scripts/bar.rpy:4862
 translate schinese moon_gaming_dd51a8e6:
@@ -12087,25 +12087,25 @@ translate schinese moon_gaming_dd51a8e6:
 translate schinese moon_gaming_fe249c99:
 
     # moon "Of course! I play it all the time."
-    moon "当然了!我一直玩这个的."
+    moon "当然了!我一直都在玩."
 
 # game/scripts/bar.rpy:4864
 translate schinese moon_gaming_c3c0caef:
 
     # k "You should be good then. No excuses if you lose."
-    k "那你应该会玩.输了可别找借口."
+    k "那你应该会玩,输了可别找借口."
 
 # game/scripts/bar.rpy:4866
 translate schinese moon_gaming_38aaa8bf:
 
     # em "Hey guys... what's going on?"
-    em "嘿伙计们......你们在干什么?"
+    em "嘿,伙计们......你们在干什么?"
 
 # game/scripts/bar.rpy:4867
 translate schinese moon_gaming_daa3febc:
 
     # k "Hey Emma, want to join?"
-    k "嘿艾玛,想加入吗?"
+    k "嘿,艾玛,想加入吗?"
 
 # game/scripts/bar.rpy:4869
 translate schinese moon_gaming_b1115d58:
@@ -12117,7 +12117,7 @@ translate schinese moon_gaming_b1115d58:
 translate schinese moon_gaming_53a06ad9:
 
     # k "It's a racing game, have you ever played it?"
-    k "这是个赛车游戏,你玩过吗?"
+    k "这是款赛车游戏,你玩过吗?"
 
 # game/scripts/bar.rpy:4871
 translate schinese moon_gaming_8c7a854c:
@@ -12129,13 +12129,13 @@ translate schinese moon_gaming_8c7a854c:
 translate schinese moon_gaming_be046e68:
 
     # em "I think I'll watch you two for now. I've never seen this before, so I would just suck anyway..."
-    em "我想我现在还是看着你们两个玩吧.我之前从来没玩过这个,所以我只会玩的很烂......"
+    em "我想我还是先看你们俩玩吧.我之前从来没玩过,所以我大概会玩的很烂......"
 
 # game/scripts/bar.rpy:4873
 translate schinese moon_gaming_2f5fd8e2:
 
     # moon "That's fair. I usually beat my friends so bad they hate me for it. So it wouldn't be good for our relationship..."
-    moon "那确实.我通常会把我朋友打得很惨,所以他们讨厌我.这样对我们的关系没啥好处的......"
+    moon "有道理.我通常会把我朋友打得很惨,他们因此很讨厌我.这对我们的关系没有好处......"
 
 # game/scripts/bar.rpy:4875
 translate schinese moon_gaming_1358545b:
@@ -12147,7 +12147,7 @@ translate schinese moon_gaming_1358545b:
 translate schinese moon_gaming_547b9630:
 
     # k "Those are some big words."
-    k "说大话呢."
+    k "可真会夸海口."
 
 # game/scripts/bar.rpy:4877
 translate schinese moon_gaming_c6a10de1:
@@ -12195,25 +12195,25 @@ translate schinese moon_gaming_be2f4d6a:
 translate schinese moon_gaming_186552ee:
 
     # k "That's fine, it just gives me a chance to hit you with a shell."
-    k "没事,这刚好给了我用个龟壳(马里奥赛车的一种道具)打你的机会."
+    k "没事,这样我就能用龟壳打你了."
 
 # game/scripts/bar.rpy:4885
 translate schinese moon_gaming_aff874e9:
 
     # moon "Not with this guarding my back!"
-    moon "在我的防守下可不行!"
+    moon "但是我有盾!"
 
 # game/scripts/bar.rpy:4886
 translate schinese moon_gaming_aa194c08:
 
     # em "Are you guys allowed to kill each other?"
-    em "你们是想杀了对方吗?"
+    em "你们可以杀死对方吗?"
 
 # game/scripts/bar.rpy:4887
 translate schinese moon_gaming_e1f0178b:
 
     # k "No, but we can hit each other's cars. You never die in this."
-    k "没有,但是我们可以撞到对方的车.在这里面是不会死的."
+    k "不行,但我们可以互相撞车.这游戏是不会死的."
 
 # game/scripts/bar.rpy:4889
 translate schinese moon_gaming_cdd9e689:
@@ -12237,31 +12237,31 @@ translate schinese moon_gaming_97a7ec46:
 translate schinese moon_gaming_222ff8ec:
 
     # em "One of you is a princess and one of you is a dragon, I don't get how that's fair..."
-    em "你们一个是公主,另一个是龙,这怎么是公平游戏......(应该是马里奥赛车)"
+    em "你们一个是公主,一个是龙,这公平吗......"
 
 # game/scripts/bar.rpy:4893
 translate schinese moon_gaming_b1599c4e:
 
     # moon "YEAH! HAD TO PICK THE OVER POWERED CHARACTER, HUH!?"
-    moon "是的!你用了那些超模角色了,嗯!?"
+    moon "{b}对啊!你非得选那些超模的吗,嗯!?{/b}"
 
 # game/scripts/bar.rpy:4894
 translate schinese moon_gaming_ccdeffb1:
 
     # k "Here come the excuses..."
-    k "别找借口......"
+    k "这就找上借口了......"
 
 # game/scripts/bar.rpy:4895
 translate schinese moon_gaming_5ea1e5ec:
 
     # moon "Not excuses... the game just isn't fair sometimes. It's built that way!"
-    moon "这可不是借口......游戏有时候就是不公平的.它本来就是建立在这上面的!"
+    moon "这可不是借口......游戏有时候就是不公平的.它本就如此!"
 
 # game/scripts/bar.rpy:4896
 translate schinese moon_gaming_c30a200f:
 
     # moon "You'll see, I'll get a homing shell and you'll eat my dirt! Then you'll see who is making excuses!"
-    moon "走着瞧,我会拿个追踪龟壳的,你就等着在后面吃灰吧!然后你就知道是谁在找借口了!"
+    moon "走着瞧,我给你一发追踪龟壳,你就等着在后面吃灰吧!到时候你就知道是谁在找借口了!"
 
 # game/scripts/bar.rpy:4897
 translate schinese moon_gaming_569737e4:
@@ -12279,13 +12279,13 @@ translate schinese moon_gaming_42acf3c2:
 translate schinese moon_gaming_7be67771:
 
     # em "Oh, that's cool. You two are good then, I haven't seen either of you go below 5th place yet."
-    em "噢,那太酷了.你们两个都很好,我都没看过你们两个谁低过第五名过."
+    em "噢,太酷了.那你们俩真厉害,我还没见过你们低于第五名呢."
 
 # game/scripts/bar.rpy:4900
 translate schinese moon_gaming_38113359:
 
     # k "Some of them are probably kids, so it's not a huge achievement..."
-    k "他们有些可能只是小孩,这不是什么很大的成就......"
+    k "他们有些可能只是小孩,这并不是什么了不起的成绩......"
 
 # game/scripts/bar.rpy:4901
 translate schinese moon_gaming_afa7dd57:
@@ -12297,13 +12297,13 @@ translate schinese moon_gaming_afa7dd57:
 translate schinese moon_gaming_aadfa9cb:
 
     # k "What? *gasp*! NO! You bitch..." with ssshake
-    k "什么?*惊叹*!不!你个婊子......" with ssshake
+    k "什么?*惊叹*!不!你个贱人......" with ssshake
 
 # game/scripts/bar.rpy:4904
 translate schinese moon_gaming_3d50fc81:
 
     # moon "Muahahahah! Get owned!"
-    moon "哇哈哈哈哈!优势在我!"
+    moon "哇哈哈哈哈!被虐了吧!"
 
 # game/scripts/bar.rpy:4905
 translate schinese moon_gaming_2ed7edbd:
@@ -12315,7 +12315,7 @@ translate schinese moon_gaming_2ed7edbd:
 translate schinese moon_gaming_e5899321:
 
     # k "Dammit! Dammit, no! Give me a boost or something! Fuck these coins!"
-    k "妈的!妈的,不要!给我个加速什么的!妈的怎么都是金币!"
+    k "妈的!妈的,不!给我爆个加速什么的啊!他妈的金币有什么用啊!"
 
 # game/scripts/bar.rpy:4907
 translate schinese moon_gaming_62ff0c20:
@@ -12333,13 +12333,13 @@ translate schinese moon_gaming_c1c74a4e:
 translate schinese moon_gaming_f70ab331:
 
     # k "I can't hold the button down any harder than this!"
-    k "我没法把按钮按的更大力了!"
+    k "我按钮已经按最大力了!"
 
 # game/scripts/bar.rpy:4910
 translate schinese moon_gaming_d06bd631:
 
     # k "Ergh, I'm getting so unlucky!"
-    k "呃,我好倒霉!"
+    k "呃,我真是越来越倒霉了!"
 
 # game/scripts/bar.rpy:4911
 translate schinese moon_gaming_f13e82df:
@@ -12351,19 +12351,19 @@ translate schinese moon_gaming_f13e82df:
 translate schinese moon_gaming_1f3a0a72:
 
     # game "PLAYER 2 WINS."
-    game "玩家2获胜."
+    game "{b}玩家2获胜.{/b}"
 
 # game/scripts/bar.rpy:4914
 translate schinese moon_gaming_aa22acdd:
 
     # moon "YES! I win!"
-    moon "是的!我赢了!"
+    moon "{b}是的!{/b}我赢了!"
 
 # game/scripts/bar.rpy:4915
 translate schinese moon_gaming_5adfc593:
 
     # k "All luck, no skill..."
-    k "全是运气,毫无技巧......"
+    k "全靠运气,毫无技巧......"
 
 # game/scripts/bar.rpy:4916
 translate schinese moon_gaming_ce676473:
@@ -12381,7 +12381,7 @@ translate schinese moon_gaming_7328a75c:
 translate schinese moon_gaming_2584aeca:
 
     # k "Sure, grab a controller."
-    k "当然了,去拿个控制器吧."
+    k "当然了,去拿个手柄吧."
 
 # game/scripts/bar.rpy:4920
 translate schinese moon_gaming_d41a7f1a:
@@ -12417,7 +12417,7 @@ translate schinese moon_gaming_1358545b_1:
 translate schinese moon_gaming_8bbf2a8f:
 
     # k "You're going down this time, Moon!"
-    k "这次你可要倒霉了,文!"
+    k "你这次输定了,文!"
 
 # game/scripts/bar.rpy:4928
 translate schinese moon_gaming_c6a10de1_1:
@@ -12441,7 +12441,7 @@ translate schinese moon_gaming_58f3a190_1:
 translate schinese moon_gaming_99b2070e:
 
     # em "Okay, wait, um... how do I boost again?"
-    em "好了,等等,嗯......我怎么喷射来着?"
+    em "好了,等等,嗯......怎么喷射来着?"
 
 # game/scripts/bar.rpy:4932
 translate schinese moon_gaming_52896c8a_1:
@@ -12459,31 +12459,31 @@ translate schinese moon_gaming_add0f254:
 translate schinese moon_gaming_7ee673f4:
 
     # em "Wait, I'm in 7th! That's not too bad!"
-    em "等等,我是第七名!这太糟糕了!"
+    em "等等,我是第七名!还不错嘛!"
 
 # game/scripts/bar.rpy:4935
 translate schinese moon_gaming_72e39304:
 
     # moon "You started in 7th, heh."
-    moon "你就是在第七名的位置开始的,呵呵."
+    moon "你开局就是第七位,呵呵."
 
 # game/scripts/bar.rpy:4936
 translate schinese moon_gaming_32956232:
 
     # em "That's not fair, why did you start in 1st?"
-    em "这不公平,为什么你就在第一名的位置?"
+    em "这不公平,为什么你就在第一位?"
 
 # game/scripts/bar.rpy:4937
 translate schinese moon_gaming_44eb49a7:
 
     # moon "Don't worry, just pick up an item. You'll get something good."
-    moon "别担心,去拿个道具.你会拿到点好东西的."
+    moon "别担心,去拿个道具.你会拿到好东西的."
 
 # game/scripts/bar.rpy:4939
 translate schinese moon_gaming_480e2f06:
 
     # em "Woah! I turned into a bullet! I'm going so fast!"
-    em "喔!我变成了一颗子弹!我好快!"
+    em "喔!我变成了子弹!我跑得好快!"
 
 # game/scripts/bar.rpy:4940
 translate schinese moon_gaming_5ceed862:
@@ -12501,7 +12501,7 @@ translate schinese moon_gaming_5463ff89:
 translate schinese moon_gaming_044281a4:
 
     # moon "Uh oh, you're getting beaten by the noob, Kali?"
-    moon "啊噢,你被菜鸟打败了,凯莉?"
+    moon "啊噢,你被新手打败了,凯莉?"
 
 # game/scripts/bar.rpy:4943
 translate schinese moon_gaming_b435fc73:
@@ -12513,13 +12513,13 @@ translate schinese moon_gaming_b435fc73:
 translate schinese moon_gaming_6af9218c:
 
     # moon "New rules! Every time you get hit by a shell, you take a shot!"
-    moon "新规则!每次你被龟壳撞到了,你就要喝酒!"
+    moon "新规则!每次被龟壳击中,就要喝一杯酒!"
 
 # game/scripts/bar.rpy:4945
 translate schinese moon_gaming_08811cd5:
 
     # k "You can't make up new rules in the middle of the game."
-    k "你不能在游戏还在进行的时候添加新规则."
+    k "你不能在比赛中途制定新规则."
 
 # game/scripts/bar.rpy:4946
 translate schinese moon_gaming_01b88fb8:
@@ -12531,31 +12531,31 @@ translate schinese moon_gaming_01b88fb8:
 translate schinese moon_gaming_7222b401:
 
     # k "How about you eat my homing shell instead!"
-    k "那要不要来试试我的自动追踪龟壳!"
+    k "那就来试试我的追踪龟壳吧!"
 
 # game/scripts/bar.rpy:4949
 translate schinese moon_gaming_56b52457:
 
     # moon "NOO!!" with ssshake
-    moon "不!!" with ssshake
+    moon "{b}不!!{/b}" with ssshake
 
 # game/scripts/bar.rpy:4950
 translate schinese moon_gaming_ba87696a:
 
     # k "1st place!"
-    k "第一名!"
+    k "第一!"
 
 # game/scripts/bar.rpy:4951
 translate schinese moon_gaming_eb019795:
 
     # moon "4th? 5th!? 6th!?"
-    moon "第四名?第五名!?第六名!?"
+    moon "第四?第五!?第六!?"
 
 # game/scripts/bar.rpy:4952
 translate schinese moon_gaming_f12bf5a1:
 
     # em "Bye loser!"
-    em "再见失败者!"
+    em "再见了,失败者!"
 
 # game/scripts/bar.rpy:4953
 translate schinese moon_gaming_21d0cb29:
@@ -12591,19 +12591,19 @@ translate schinese moon_gaming_b26f4fc5:
 translate schinese moon_gaming_e7708c07:
 
     # em "That's not helpful!"
-    em "那没用!"
+    em "一点用都没有!"
 
 # game/scripts/bar.rpy:4959
 translate schinese moon_gaming_17446f8f:
 
     # moon "I'm in 4th again, I can still bring this back!"
-    moon "我又到第四了.我还可以回来!"
+    moon "我又到第四了,我还能赶上!"
 
 # game/scripts/bar.rpy:4960
 translate schinese moon_gaming_4ff11e64:
 
     # moon "Nngh, move losers! I need my vengeance!"
-    moon "嗯,走开失败者!我要复仇!"
+    moon "嗯,走开,失败者!我要复仇!"
 
 # game/scripts/bar.rpy:4961
 translate schinese moon_gaming_4ada5e49:
@@ -12627,13 +12627,13 @@ translate schinese moon_gaming_1ba6a103:
 translate schinese moon_gaming_26b4a807:
 
     # k "Hey, you can't team in this!"
-    k "嘿,你们不能在这样组队!"
+    k "嘿,你们不能结盟!"
 
 # game/scripts/bar.rpy:4965
 translate schinese moon_gaming_2643458e:
 
     # moon "Just throw shit at her!"
-    moon "给她随便丢点东西!"
+    moon "朝她随便丢点东西!"
 
 # game/scripts/bar.rpy:4966
 translate schinese moon_gaming_853548ed:
@@ -12645,13 +12645,13 @@ translate schinese moon_gaming_853548ed:
 translate schinese moon_gaming_ce08b45e:
 
     # moon "AAGH! That was a banana! You hit me!" with ssshake
-    moon "啊!那是个香蕉皮!你打到我了!" with ssshake
+    moon "{b}啊!{/b}那是个香蕉皮!你打到我了!" with ssshake
 
 # game/scripts/bar.rpy:4968
 translate schinese moon_gaming_e1fbdae1:
 
     # em "Eh, wasn't much of a loss."
-    em "呃,这也没什么损失."
+    em "呃,也没什么损失嘛."
 
 # game/scripts/bar.rpy:4969
 translate schinese moon_gaming_0b34eaca:
@@ -12663,7 +12663,7 @@ translate schinese moon_gaming_0b34eaca:
 translate schinese moon_gaming_e46950a4:
 
     # game "PLAYER 1 WINS!"
-    game "玩家1获胜!"
+    game "{b}玩家1获胜!{/b}"
 
 # game/scripts/bar.rpy:4972
 translate schinese moon_gaming_43604cc5:

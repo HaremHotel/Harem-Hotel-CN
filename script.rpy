@@ -105032,3 +105032,1701 @@ translate schinese strings:
     # game/script.rpy:44646
     old "Only {} more days until completion!"
     new "还剩{}天完工!"
+# TODO: Translation updated at 2025-02-05 20:43
+
+# game/script.rpy:7933
+translate schinese kali_door_menu_06571b26:
+
+    # c "Kali has been in Corpus for a while... I wonder how she's been?"
+    c "凯莉去科普斯市已经有一段时间了......不知道她过得怎么样?"
+
+# game/script.rpy:7934
+translate schinese kali_door_menu_ff3868f3:
+
+    # c "I think I'll video call her on my computer."
+    c "我得用电脑给她打个视频电话。"
+
+# game/script.rpy:11100
+translate schinese explore_brothel4_a7e99812:
+
+    # ray "It's the third time this fucking year! We can't keep up with that!"
+    ray "这他妈已经是今年第三次了!我们不能再这样下去了!"
+
+# game/script.rpy:11101
+translate schinese explore_brothel4_34f47a56:
+
+    # bbun "Couldn't we just, like, start evading taxes?"
+    bbun "我们就不能,比如,逃税吗?"
+
+# game/script.rpy:11102
+translate schinese explore_brothel4_c231324f:
+
+    # ray "No, BB! Then we'll be in prison!"
+    ray "不行,BB!那样我们会进监狱的!"
+
+# game/script.rpy:11103
+translate schinese explore_brothel4_1476cb89:
+
+    # ray "*sigh*... If they raise taxes one more time on brothels, we'll just have to shut down..."
+    ray ""
+
+# game/script.rpy:11104
+translate schinese explore_brothel4_5d69497b:
+
+    # rbun "But we just opened...!"
+    rbun ""
+
+# game/script.rpy:11105
+translate schinese explore_brothel4_be0c7965:
+
+    # pbun "I guess we could raise prices?"
+    pbun ""
+
+# game/script.rpy:11106
+translate schinese explore_brothel4_5b4d40cb:
+
+    # ray "We're in the slums, girl! People around here can barely afford the prices as they are!"
+    ray ""
+
+# game/script.rpy:11107
+translate schinese explore_brothel4_d1ffe987:
+
+    # c "...Is this a bad time?"
+    c ""
+
+# game/script.rpy:11109
+translate schinese explore_brothel4_70f0ae3a:
+
+    # ray "Oh, [name], it's you..."
+    ray ""
+
+# game/script.rpy:11110
+translate schinese explore_brothel4_da2be4de:
+
+    # bbun "Hi [name]!"
+    bbun ""
+
+# game/script.rpy:11111
+translate schinese explore_brothel4_41bd8a72:
+
+    # ray "Sorry, I'm just pissed! We're closed right now."
+    ray ""
+
+# game/script.rpy:11112
+translate schinese explore_brothel4_976ef0a7:
+
+    # ray "I mean, they charge us MORE while they give tax breaks to luxury hotels! We're basically paying them to operate! What the fuck is this!?"
+    ray ""
+
+# game/script.rpy:11113
+translate schinese explore_brothel4_c04d8b4d:
+
+    # c "Who? What happened?"
+    c ""
+
+# game/script.rpy:11114
+translate schinese explore_brothel4_f41e1e1b:
+
+    # ray "The government! A new bill just passed. Some bullshit called the 'Sinful Establishment Tax'! I mean, excuse me!? My girls can't just magically make more money because some religious prudes don't like us!"
+    ray ""
+
+# game/script.rpy:11115
+translate schinese explore_brothel4_b99d6165:
+
+    # ray "I know for a fact some of those men who passed this bill were here last month. Starting today, they're fucking banned! No more pussy for you assholes!"
+    ray ""
+
+# game/script.rpy:11117
+translate schinese explore_brothel4_7f1671ee:
+
+    # rbun "Maybe we could start a protest?"
+    rbun ""
+
+# game/script.rpy:11118
+translate schinese explore_brothel4_f54d0328:
+
+    # pbun "Who's going to protest for sex workers...? It's bad enough we don't have health insurance."
+    pbun ""
+
+# game/script.rpy:11119
+translate schinese explore_brothel4_5c075126:
+
+    # rbun "Well, maybe we could set up a mutual aid fund?"
+    rbun ""
+
+# game/script.rpy:11120
+translate schinese explore_brothel4_c11895d6:
+
+    # bbun "We could charge rich customers more!"
+    bbun ""
+
+# game/script.rpy:11121
+translate schinese explore_brothel4_b2274858:
+
+    # ray "Girls, girls... no. You do enough. You're barely scraping by as it is, and for god's sake, this is a {i}luxury{/i} brothel! I don't know how the others are going to handle this..."
+    ray ""
+
+# game/script.rpy:11122
+translate schinese explore_brothel4_169968b1:
+
+    # ray "We'll just raise prices on the drinks... and I'll get a cigarette vending machine! That should help a little bit."
+    ray ""
+
+# game/script.rpy:11123
+translate schinese explore_brothel4_04a671d5:
+
+    # c "I might have an idea for you."
+    c ""
+
+# game/script.rpy:11124
+translate schinese explore_brothel4_5374de66:
+
+    # ray "[name], no offense, but what do you know about running a business?"
+    ray ""
+
+# game/script.rpy:11125
+translate schinese explore_brothel4_dc17f71d:
+
+    # c "Well, I run a hotel."
+    c ""
+
+# game/script.rpy:11126
+translate schinese explore_brothel4_0cc51c21:
+
+    # ray "..."
+    ray ""
+
+# game/script.rpy:11128
+translate schinese explore_brothel4_32ac806d:
+
+    # ray "I'm listening..."
+    ray ""
+
+# game/script.rpy:11129
+translate schinese explore_brothel4_c53316d8:
+
+    # c "Public group stripping.\nYou could set it up at the beach, and you could set up a donation box where certain thresholds remove clothing, or change an outfit. You could even start live streaming."
+    c ""
+
+# game/script.rpy:11131
+translate schinese explore_brothel4_4202f2e4:
+
+    # ray "*GASP*! YES! That's perfect!"
+    ray ""
+
+# game/script.rpy:11132
+translate schinese explore_brothel4_077f9e16:
+
+    # bbun "I love it!"
+    bbun ""
+
+# game/script.rpy:11133
+translate schinese explore_brothel4_e0f1961e:
+
+    # pbun "That's good advertisement."
+    pbun ""
+
+# game/script.rpy:11134
+translate schinese explore_brothel4_bccdc00e:
+
+    # rbun "I think it could work!"
+    rbun ""
+
+# game/script.rpy:11135
+translate schinese explore_brothel4_3fa266d7:
+
+    # ray "We could use that stage they built for slave auctions! It's just what we need! And with live streaming!? We could end up making MORE money after this!"
+    ray ""
+
+# game/script.rpy:11136
+translate schinese explore_brothel4_e1fba9e1:
+
+    # ray "Oh my god, thank you [name]! Thank you! It's brilliant!"
+    ray ""
+
+# game/script.rpy:11138
+translate schinese explore_brothel4_26b10db1:
+
+    # ray "Alright girls! Are you ready to make some money??"
+    ray ""
+
+# game/script.rpy:11139
+translate schinese explore_brothel4_1ad8928e:
+
+    # bbun "Yes, yes!"
+    bbun ""
+
+# game/script.rpy:11140
+translate schinese explore_brothel4_4dd884cd:
+
+    # rbun "Let's do it!"
+    rbun ""
+
+# game/script.rpy:11141
+translate schinese explore_brothel4_14080814:
+
+    # ray "Okay! Give me a few hours to set this up. I'll make some calls and set up a live streaming account for us."
+    ray ""
+
+# game/script.rpy:11142
+translate schinese explore_brothel4_1eb72827:
+
+    # ray "[name], I want you there for this. I'll give you a call and let you know where to meet us, okay?"
+    ray ""
+
+# game/script.rpy:11143
+translate schinese explore_brothel4_c48dc32f:
+
+    # c "Sure."
+    c ""
+
+# game/script.rpy:11144
+translate schinese explore_brothel4_e9bbf50b:
+
+    # ray "Get ready girls! Put your sunscreen on and bring lots of water bottles. This is going to be big!"
+    ray ""
+
+# game/script.rpy:11146
+translate schinese explore_brothel4_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/script.rpy:11147
+translate schinese explore_brothel4_090b202d:
+
+    # "Two hours later, you finally get the text from Ray. The event has started!"
+    ""
+
+# game/script.rpy:11149
+translate schinese explore_brothel4_1e51dec1:
+
+    # c "There they are. Wow, that's a crowd."
+    c ""
+
+# game/script.rpy:11150
+translate schinese explore_brothel4_c927848f:
+
+    # c "And it looks like they've already gotten a few donations."
+    c ""
+
+# game/script.rpy:11152
+translate schinese explore_brothel4_86f37010:
+
+    # ray "[name]! There you are! Can you believe it? It's a hit! People are spending money like crazy to undress these girls!"
+    ray ""
+
+# game/script.rpy:11153
+translate schinese explore_brothel4_5c901640:
+
+    # ray "Oh! And the online donations! I can't believe I never thought of that before! This is really going to save the brothel!"
+    ray ""
+
+# game/script.rpy:11154
+translate schinese explore_brothel4_87629352:
+
+    # c "I'm glad I could help."
+    c ""
+
+# game/script.rpy:11156
+translate schinese explore_brothel4_362496a8:
+
+    # ray "Here, I wanted to give you a little something for helping out. Please, take it!"
+    ray ""
+
+# game/script.rpy:11157
+translate schinese explore_brothel4_0bf1fd87:
+
+    # "You gained $35!"
+    ""
+
+# game/script.rpy:11160
+translate schinese explore_brothel4_603c72fe:
+
+    # c "Oh wow, thanks. You really didn't have to."
+    c ""
+
+# game/script.rpy:11161
+translate schinese explore_brothel4_036e0201:
+
+    # ray "Good ideas deserve great rewards! Of course I had to."
+    ray ""
+
+# game/script.rpy:11162
+translate schinese explore_brothel4_df72f289:
+
+    # ray "But listen, I need to get back to managing this whole thing, but you should stick around! The girls love having you around."
+    ray ""
+
+# game/script.rpy:11163
+translate schinese explore_brothel4_78fe0b12:
+
+    # c "Thanks, but I should probably get going. I just came to make sure everything went smoothly."
+    c ""
+
+# game/script.rpy:11164
+translate schinese explore_brothel4_35e32559:
+
+    # ray "Sure, no problem. I'll see you around, [name]!"
+    ray ""
+
+# game/script.rpy:11166
+translate schinese explore_brothel4_a59200bf:
+
+    # ray "WOO! LET'S GO GIRLS! YOU'RE FANTASTIC! YES!"
+    ray ""
+
+# game/script.rpy:11168
+translate schinese explore_brothel4_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:11171
+translate schinese explore_brothel4_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11173
+translate schinese explore_brothel4_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11175
+translate schinese explore_brothel4_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:11184
+translate schinese explore_brothel5_6725e749:
+
+    # c "Hm, nice.\nLooks like business is booming as ever."
+    c ""
+
+# game/script.rpy:11185
+translate schinese explore_brothel5_3177dfe0:
+
+    # q "[name]! Hey~"
+    q ""
+
+# game/script.rpy:11186
+translate schinese explore_brothel5_4ce77e5e:
+
+    # c "Hm?"
+    c ""
+
+# game/script.rpy:11188
+translate schinese explore_brothel5_9a27f7ca:
+
+    # bbun "Hiii~ welcome back! Thank you again soooo much for helping us out the other day. Business has never been better!"
+    bbun ""
+
+# game/script.rpy:11189
+translate schinese explore_brothel5_d41c7c3e:
+
+    # c "Sure, no problem.\nHey, are you guys hiring?"
+    c ""
+
+# game/script.rpy:11190
+translate schinese explore_brothel5_808fd102:
+
+    # bbun "Heheh, oh I'm sure you'd look stunning in a bunny suit!"
+    bbun ""
+
+# game/script.rpy:11191
+translate schinese explore_brothel5_cb5da8ad:
+
+    # c "Uh, not me..."
+    c ""
+
+# game/script.rpy:11192
+translate schinese explore_brothel5_47b41d3e:
+
+    # bbun "Why? Do you know someone?"
+    bbun ""
+
+# game/script.rpy:11193
+translate schinese explore_brothel5_13312960:
+
+    # c "I might."
+    c ""
+
+# game/script.rpy:11194
+translate schinese explore_brothel5_2f4493ef:
+
+    # bbun "Welllll... we could probably use another dancer. Red and I aren't the best, and Purple could probably use a break."
+    bbun ""
+
+# game/script.rpy:11195
+translate schinese explore_brothel5_f96c5795:
+
+    # bbun "But I'd have to talk to Ray about that. I'm not sure if we're doing {i}that{/i} much better yet."
+    bbun ""
+
+# game/script.rpy:11196
+translate schinese explore_brothel5_c60df9ce:
+
+    # bbun "Anyway! I really need to put this order in. I'll talk to you later, 'kay?"
+    bbun ""
+
+# game/script.rpy:11197
+translate schinese explore_brothel5_ff7b10fd:
+
+    # c "Okay, see you."
+    c ""
+
+# game/script.rpy:11199
+translate schinese explore_brothel5_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:11201
+translate schinese explore_brothel5_3784857a:
+
+    # c "...?"
+    c ""
+
+# game/script.rpy:11203
+translate schinese explore_brothel5_7b748570:
+
+    # q "!!!" with ssshake
+    q "" with ssshake
+
+# game/script.rpy:11205
+translate schinese explore_brothel5_c00ef96d:
+
+    # c "Hm."
+    c ""
+
+# game/script.rpy:11207
+translate schinese explore_brothel5_cdba9b52:
+
+    # c "...You good?"
+    c ""
+
+# game/script.rpy:11208
+translate schinese explore_brothel5_d267661a:
+
+    # q "..."
+    q ""
+
+# game/script.rpy:11209
+translate schinese explore_brothel5_8cda0e0f:
+
+    # q "...Do you work here?"
+    q ""
+
+# game/script.rpy:11210
+translate schinese explore_brothel5_d03c9e8a:
+
+    # c "No?"
+    c ""
+
+# game/script.rpy:11211
+translate schinese explore_brothel5_071fc45b:
+
+    # q "Then how does she know your name?"
+    q ""
+
+# game/script.rpy:11212
+translate schinese explore_brothel5_636d3cc5:
+
+    # c "Uh, we're friends, I guess. Why do you care?"
+    c ""
+
+# game/script.rpy:11213
+translate schinese explore_brothel5_d267661a_1:
+
+    # q "..."
+    q ""
+
+# game/script.rpy:11215
+translate schinese explore_brothel5_a94b8916:
+
+    # q "Well! I'm here to dig up company secrets on a corporate competitor!" with ssshake
+    q "" with ssshake
+
+# game/script.rpy:11216
+translate schinese explore_brothel5_c369c640:
+
+    # q "It just so happens that he frequently visits this place, and I just so happen to know he likes Blue Bunny!"
+    q ""
+
+# game/script.rpy:11217
+translate schinese explore_brothel5_44dcc837:
+
+    # q "In fact, this man is here almost every day! He'll wait hours just for a chance with her. I'm sure they discuss insider business deals! She told me herself!"
+    q ""
+
+# game/script.rpy:11218
+translate schinese explore_brothel5_b2dc0303:
+
+    # c "So you're bribing her?"
+    c ""
+
+# game/script.rpy:11220
+translate schinese explore_brothel5_1470a16f:
+
+    # q "{i}Not so loud...!{/i}\nBut yes. It's strictly professional, okay? I need to be subtle though, or she won't tell me anything."
+    q ""
+
+# game/script.rpy:11222
+translate schinese explore_brothel5_77591ebd:
+
+    # q "*sigh*... But she doesn't deserve this life... I want to get her out of here. Give her the life she deserves... This isn't a place for someone like her. Someone so... beautiful, and intelligent."
+    q ""
+
+# game/script.rpy:11223
+translate schinese explore_brothel5_05331c1b:
+
+    # c "I don't know, I think she's pretty happy here."
+    c ""
+
+# game/script.rpy:11224
+translate schinese explore_brothel5_9081b1fc:
+
+    # q "Nobody is here by choice. Especially not someone like her..."
+    q ""
+
+# game/script.rpy:11225
+translate schinese explore_brothel5_42032988:
+
+    # c "So you're trying to steal his whore, too?"
+    c ""
+
+# game/script.rpy:11227
+translate schinese explore_brothel5_4ce8ff6c:
+
+    # q "Listen, man! This is none of your business! Just forget you saw anything, alright? I'll buy you a cocktail. Sound good?"
+    q ""
+
+# game/script.rpy:11228
+translate schinese explore_brothel5_678a12e9:
+
+    # c "I think I'll take my drink in the form of coin."
+    c ""
+
+# game/script.rpy:11230
+translate schinese explore_brothel5_9b4cd252:
+
+    # q "Yeah, whatever."
+    q ""
+
+# game/script.rpy:11232
+translate schinese explore_brothel5_22bb0f8e:
+
+    # q "This enough to shut you up?"
+    q ""
+
+# game/script.rpy:11233
+translate schinese explore_brothel5_3b7601ea:
+
+    # c "For now."
+    c ""
+
+# game/script.rpy:11235
+translate schinese explore_brothel5_0723b7a8:
+
+    # "You gained $15!"
+    ""
+
+# game/script.rpy:11237
+translate schinese explore_brothel5_1b2d4a64:
+
+    # q "Get lost..."
+    q ""
+
+# game/script.rpy:11238
+translate schinese explore_brothel5_665e2e8f:
+
+    # bbun "Here's your drink, sir!"
+    bbun ""
+
+# game/script.rpy:11240
+translate schinese explore_brothel5_3efdfebd:
+
+    # q "B-Blue Bunny! Hiiii~~~" with ssshake
+    q "" with ssshake
+
+# game/script.rpy:11241
+translate schinese explore_brothel5_dbbfacc5:
+
+    # bbun "Um, but you didn't finish your last drink?"
+    bbun ""
+
+# game/script.rpy:11242
+translate schinese explore_brothel5_7a9c4064:
+
+    # q "T-That's okay! I love you! I- I mean them! The drinks! I love them!"
+    q ""
+
+# game/script.rpy:11243
+translate schinese explore_brothel5_aa56c4b0:
+
+    # bbun "I know~ they're so great, right?"
+    bbun ""
+
+# game/script.rpy:11244
+translate schinese explore_brothel5_4df2b74a:
+
+    # q "Here's another tip for you!"
+    q ""
+
+# game/script.rpy:11245
+translate schinese explore_brothel5_1167a5e5:
+
+    # bbun "Thank you..."
+    bbun ""
+
+# game/script.rpy:11247
+translate schinese explore_brothel5_b5259a88:
+
+    # bbun "Wait, do you two know each other?"
+    bbun ""
+
+# game/script.rpy:11248
+translate schinese explore_brothel5_c5c7b3ff:
+
+    # q "Yes! We go way back. Right [name]?"
+    q ""
+
+# game/script.rpy:11249
+translate schinese explore_brothel5_d19f855d_1:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:11250
+translate schinese explore_brothel5_944d0939:
+
+    # bbun "Hmm, well okay!"
+    bbun ""
+
+# game/script.rpy:11252
+translate schinese explore_brothel5_8c6fe174:
+
+    # bbun "Hey, Red wants to speak with you. She's right over there."
+    bbun ""
+
+# game/script.rpy:11253
+translate schinese explore_brothel5_f3a65846:
+
+    # c "Hm? Alright."
+    c ""
+
+# game/script.rpy:11254
+translate schinese explore_brothel5_2631cbff:
+
+    # q "H-Hey..."
+    q ""
+
+# game/script.rpy:11256
+translate schinese explore_brothel5_6843cf06:
+
+    # rbun "{i}One cherry cocktail... one sunrise...{/i}"
+    rbun ""
+
+# game/script.rpy:11257
+translate schinese explore_brothel5_e387f588:
+
+    # c "You wanted to speak with me?"
+    c ""
+
+# game/script.rpy:11259
+translate schinese explore_brothel5_5f0b5455:
+
+    # rbun "Huh? Oh hi [name]. Uh, no...?"
+    rbun ""
+
+# game/script.rpy:11260
+translate schinese explore_brothel5_270f3921:
+
+    # rbun "I mean, not to be rude... but?"
+    rbun ""
+
+# game/script.rpy:11261
+translate schinese explore_brothel5_ef0cea2d:
+
+    # c "Hm? But Blue said..."
+    c ""
+
+# game/script.rpy:11263
+translate schinese explore_brothel5_55dd5f5f:
+
+    # bbun "Sorry, sorry, I just needed an excuse."
+    bbun ""
+
+# game/script.rpy:11264
+translate schinese explore_brothel5_0814df34:
+
+    # rbun "What's going on, BB?"
+    rbun ""
+
+# game/script.rpy:11266
+translate schinese explore_brothel5_82ade449:
+
+    # bbun "Remember that guy in the suit over there?"
+    bbun ""
+
+# game/script.rpy:11267
+translate schinese explore_brothel5_b16b96c7:
+
+    # rbun "Oh yeah, this is like his fourth time here this week. He seems to like you."
+    rbun ""
+
+# game/script.rpy:11268
+translate schinese explore_brothel5_9c053168:
+
+    # bbun "I know! Wanna know why? One of his company's competitors is also a top client of mine, and he actually thinks I know their secrets!"
+    bbun ""
+
+# game/script.rpy:11269
+translate schinese explore_brothel5_4206ae4f:
+
+    # c "You mean you don't?"
+    c ""
+
+# game/script.rpy:11271
+translate schinese explore_brothel5_3f282e37:
+
+    # bbun "Haha, not at all! Suits don't explose their secrets here. Even when he gets drunk, he's way too hammered to string together a coherent sentence. But that guy doesn't know that~"
+    bbun ""
+
+# game/script.rpy:11272
+translate schinese explore_brothel5_9de237fe:
+
+    # c "Damn. You're playing both of them."
+    c ""
+
+# game/script.rpy:11273
+translate schinese explore_brothel5_22cd0765:
+
+    # bbun "Yeah... and I may have dropped a few hints that I could see a future with him."
+    bbun ""
+
+# game/script.rpy:11274
+translate schinese explore_brothel5_e9f8f493:
+
+    # rbun "*gasp*! You're not supposed to do that! That's unethical, BB!"
+    rbun ""
+
+# game/script.rpy:11275
+translate schinese explore_brothel5_a660aebf:
+
+    # bbun "Isn't that kind of our job though, Red? Hehe."
+    bbun ""
+
+# game/script.rpy:11276
+translate schinese explore_brothel5_d75c490b:
+
+    # rbun "BB...! If Ray hears about this..."
+    rbun ""
+
+# game/script.rpy:11278
+translate schinese explore_brothel5_e405bb43:
+
+    # bbun "Hey, I'm not going to let myself be the one getting played here. Besides, we should always be two steps ahead of our clientele. It's what keeps us alive, and what puts money in our pocket."
+    bbun ""
+
+# game/script.rpy:11279
+translate schinese explore_brothel5_6c5ff411:
+
+    # c "That's smart."
+    c ""
+
+# game/script.rpy:11280
+translate schinese explore_brothel5_1b2d85a5:
+
+    # rbun "Don't endorse her actions, [name]... What if Ray finds out?"
+    rbun ""
+
+# game/script.rpy:11281
+translate schinese explore_brothel5_7d4dfb57:
+
+    # bbun "I don't think he'll care. It's those kind of guys that sponsor the politicians who slapped that bill in our face. If anything, I'm just evening the score a bit..."
+    bbun ""
+
+# game/script.rpy:11282
+translate schinese explore_brothel5_aeaf9f53:
+
+    # rbun "*sigh*, okay fine. I won't say anything. Just be careful, okay?"
+    rbun ""
+
+# game/script.rpy:11283
+translate schinese explore_brothel5_4c957d3f:
+
+    # bbun "Don't worry! I have him wrapped around my little finger~"
+    bbun ""
+
+# game/script.rpy:11284
+translate schinese explore_brothel5_d5962246:
+
+    # rbun "Keep me out of it..."
+    rbun ""
+
+# game/script.rpy:11286
+translate schinese explore_brothel5_be249136:
+
+    # bbun "And [name], would you like a drink? On him~\nConsider it a gift for being cool about it."
+    bbun ""
+
+# game/script.rpy:11287
+translate schinese explore_brothel5_c7e2deeb:
+
+    # c "Sure, thanks Blue."
+    c ""
+
+# game/script.rpy:11289
+translate schinese explore_brothel5_3be5c752:
+
+    # bbun "Call me BB."
+    bbun ""
+
+# game/script.rpy:11291
+translate schinese explore_brothel5_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:11294
+translate schinese explore_brothel5_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11296
+translate schinese explore_brothel5_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11298
+translate schinese explore_brothel5_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:11307
+translate schinese explore_brothel6_791cca9a:
+
+    # ray "Good job, girls! This week was {i}amazing!!{/i}"
+    ray ""
+
+# game/script.rpy:11308
+translate schinese explore_brothel6_25d24357:
+
+    # ray "So, as promised, my husband and I are going to treat you all to a fancy dinner tonight! Dress to impress ladies."
+    ray ""
+
+# game/script.rpy:11309
+translate schinese explore_brothel6_01e7dbc0:
+
+    # bbun "Yay!"
+    bbun ""
+
+# game/script.rpy:11310
+translate schinese explore_brothel6_f8dbc589:
+
+    # pbun "Oh, this is so worth it..."
+    pbun ""
+
+# game/script.rpy:11311
+translate schinese explore_brothel6_74cb5487:
+
+    # rbun "Thank you so much, Ray!"
+    rbun ""
+
+# game/script.rpy:11312
+translate schinese explore_brothel6_78a64e99:
+
+    # ray "Me? No, you made it possible, ladies! The way things are looking, we may be able to hire a new bunny soon!"
+    ray ""
+
+# game/script.rpy:11313
+translate schinese explore_brothel6_8220a001:
+
+    # c "Hey, that's great news."
+    c ""
+
+# game/script.rpy:11315
+translate schinese explore_brothel6_97bc0056:
+
+    # ray "[name]! Oh, welcome! It wouldn't be possible without you too, of course."
+    ray ""
+
+# game/script.rpy:11316
+translate schinese explore_brothel6_81488ef3:
+
+    # ray "Hey, would you like to join us?"
+    ray ""
+
+# game/script.rpy:11317
+translate schinese explore_brothel6_58d08b6f:
+
+    # bbun "Yeah, c'mon. It would be so fun!"
+    bbun ""
+
+# game/script.rpy:11321
+translate schinese explore_brothel6_3003b19e:
+
+    # q "Agh! Please...! They'll find me...! I can't go back!"
+    q ""
+
+# game/script.rpy:11322
+translate schinese explore_brothel6_878928f7:
+
+    # ray "*gasp*!"
+    ray ""
+
+# game/script.rpy:11323
+translate schinese explore_brothel6_e0b5fbc4:
+
+    # rbun "Oh my god!"
+    rbun ""
+
+# game/script.rpy:11324
+translate schinese explore_brothel6_a5cd20bc:
+
+    # pbun "Are you okay? What happened?"
+    pbun ""
+
+# game/script.rpy:11325
+translate schinese explore_brothel6_0f1db9b6:
+
+    # q "They're chasing me! I don't have much time, please...!"
+    q ""
+
+# game/script.rpy:11328
+translate schinese explore_brothel6_b0bd6e84:
+
+    # ray "Woah woah woah woah, that's a code violation! No elves are allowed in here. You need to go somewhere else, missy!"
+    ray ""
+
+# game/script.rpy:11329
+translate schinese explore_brothel6_d5e180fa:
+
+    # q "They'll kill me if I go back! Please, I can't!"
+    q ""
+
+# game/script.rpy:11330
+translate schinese explore_brothel6_ec919c85:
+
+    # ray "What? Who's going to kill you?"
+    ray ""
+
+# game/script.rpy:11331
+translate schinese explore_brothel6_d0de6ef5:
+
+    # q "The company I work for, I escaped! I had to! They don't care if we live or die, I had to get out..."
+    q ""
+
+# game/script.rpy:11332
+translate schinese explore_brothel6_3fd73f5d:
+
+    # q "I'm not going to end up like the others!"
+    q ""
+
+# game/script.rpy:11334
+translate schinese explore_brothel6_0c6f0060:
+
+    # pbun "Hurry, come this way."
+    pbun ""
+
+# game/script.rpy:11335
+translate schinese explore_brothel6_c8fc7995:
+
+    # ray "HEY, pause! No! We cannot take responsibility for this!"
+    ray ""
+
+# game/script.rpy:11336
+translate schinese explore_brothel6_6a2b40d2:
+
+    # bbun "Please Ray, help her! We've all been in a situation like that before!"
+    bbun ""
+
+# game/script.rpy:11337
+translate schinese explore_brothel6_a08768fb:
+
+    # ray "No no no, my responsibility is to take care of my bunnies. We don't need the police here! She puts ALL of us at risk!"
+    ray ""
+
+# game/script.rpy:11338
+translate schinese explore_brothel6_2760691c:
+
+    # ray "What do you think the police are going to think when they see an elf here? We could get shut down! Absolutely not!"
+    ray ""
+
+# game/script.rpy:11339
+translate schinese explore_brothel6_5c45d1eb:
+
+    # rbun "I hate to say it, but I agree... the last thing we need is more trouble here..."
+    rbun ""
+
+# game/script.rpy:11342
+translate schinese explore_brothel6_824c3c60:
+
+    # pbun "You can't be serious! Her life means more than a little heat!"
+    pbun ""
+
+# game/script.rpy:11343
+translate schinese explore_brothel6_dc54e69b:
+
+    # rbun "I don't want to turn her away! But it's the law! I doubt they're going to kill her anyway..."
+    rbun ""
+
+# game/script.rpy:11344
+translate schinese explore_brothel6_12701b89:
+
+    # bbun "Look at her, Red! She needs our help!"
+    bbun ""
+
+# game/script.rpy:11345
+translate schinese explore_brothel6_2a7e07c1:
+
+    # q "Please...!"
+    q ""
+
+# game/script.rpy:11347
+translate schinese explore_brothel6_5bae2f77:
+
+    # ray "It's too much risk. My job is to protect you girls, not other girls!"
+    ray ""
+
+# game/script.rpy:11348
+translate schinese explore_brothel6_615cfddf:
+
+    # bbun "They won't find her if we hide her in the back. You can easily get rid of them, Ray, I've seen you do it before!"
+    bbun ""
+
+# game/script.rpy:11349
+translate schinese explore_brothel6_cd68e9f8:
+
+    # ray "BB...!"
+    ray ""
+
+# game/script.rpy:11352
+translate schinese explore_brothel6_355ea924:
+
+    # bbun "[name]! What do you think? It's 2 to 2, if we delay this any longer someone's going to get fucked!"
+    bbun ""
+
+# game/script.rpy:11355
+translate schinese explore_brothel6_d316c4ce:
+
+    # c "We should hide her, it's only right. Especially if turning her away means she could be killed."
+    c ""
+
+# game/script.rpy:11357
+translate schinese explore_brothel6_3731b743:
+
+    # bbun "Okay! Go, follow Purple Bunny! We'll hide you in the back!"
+    bbun ""
+
+# game/script.rpy:11358
+translate schinese explore_brothel6_8ca2d5fa:
+
+    # ray "What!? HEY! This is not a democracy! It's a republic!"
+    ray ""
+
+# game/script.rpy:11359
+translate schinese explore_brothel6_ba8fff7c:
+
+    # pbun "Hurry!"
+    pbun ""
+
+# game/script.rpy:11360
+translate schinese explore_brothel6_a0ee66b2:
+
+    # q "Thank you! Thank you!"
+    q ""
+
+# game/script.rpy:11362
+translate schinese explore_brothel6_2f7b9cc8:
+
+    # ray "URGH! You guys...!"
+    ray ""
+
+# game/script.rpy:11363
+translate schinese explore_brothel6_5eb09d05:
+
+    # bbun "It's the right thing to do, Ray..."
+    bbun ""
+
+# game/script.rpy:11365
+translate schinese explore_brothel6_2dcef3db:
+
+    # "*BANG BANG BANG*" with sshake
+    "" with sshake
+
+# game/script.rpy:11366
+translate schinese explore_brothel6_191bd5a0:
+
+    # ray "{i}Shit... *ahem*...{/i}"
+    ray ""
+
+# game/script.rpy:11367
+translate schinese explore_brothel6_3292985c:
+
+    # ray "ONE MOMENT!"
+    ray ""
+
+# game/script.rpy:11369
+translate schinese explore_brothel6_668ad4e9:
+
+    # ray "The police!? What do you want?"
+    ray ""
+
+# game/script.rpy:11370
+translate schinese explore_brothel6_e62e53f6:
+
+    # chief "Evening sir. Are you two the owners?"
+    chief ""
+
+# game/script.rpy:11371
+translate schinese explore_brothel6_30a5058b:
+
+    # ray "Just me! Why are you here?"
+    ray ""
+
+# game/script.rpy:11372
+translate schinese explore_brothel6_dad5f8e7:
+
+    # chief "Uh, we're here on official corporate business. We're searching for a runaway slave belonging to Praxus Industries. Have you seen her? Common elf."
+    chief ""
+
+# game/script.rpy:11373
+translate schinese explore_brothel6_133581ab:
+
+    # ray "Does it look like we offer elves here? This is a human brothel! And last I checked, elves can't afford us!"
+    ray ""
+
+# game/script.rpy:11374
+translate schinese explore_brothel6_6326f8d8:
+
+    # pol "Listen here, bucko, this establishment is under suspicion of harboring a dangerous fugitive. I could very well detain you. We're going to need to search the premises."
+    pol ""
+
+# game/script.rpy:11375
+translate schinese explore_brothel6_cd28f783:
+
+    # ray "Excuse me! Not without a warrant you won't!"
+    ray ""
+
+# game/script.rpy:11376
+translate schinese explore_brothel6_0ba92290:
+
+    # chief "Sir, we don't care about anything else going on in here aside from that elf. She just ran down this street."
+    chief ""
+
+# game/script.rpy:11377
+translate schinese explore_brothel6_2891a018:
+
+    # ray "Then I suggest you go down the street! There are no elves here! No one walked through that door in the last two hours besides you two."
+    ray ""
+
+# game/script.rpy:11379
+translate schinese explore_brothel6_d38c241b:
+
+    # chief "..."
+    chief ""
+
+# game/script.rpy:11380
+translate schinese explore_brothel6_451495fb:
+
+    # pol "..."
+    pol ""
+
+# game/script.rpy:11381
+translate schinese explore_brothel6_53d50767:
+
+    # ray "Chop chop! You won't catch anyone just standing there!"
+    ray ""
+
+# game/script.rpy:11383
+translate schinese explore_brothel6_b6efb463:
+
+    # chief "Alright, thank you for your time. If you see or hear anything, you know who to call."
+    chief ""
+
+# game/script.rpy:11384
+translate schinese explore_brothel6_2a833a64:
+
+    # ray "Will do! BYE!"
+    ray ""
+
+# game/script.rpy:11387
+translate schinese explore_brothel6_21aeaea0:
+
+    # ray "Oh god... my anxiety levels are through the fucking roof! I need a cocktail..."
+    ray ""
+
+# game/script.rpy:11389
+translate schinese explore_brothel6_b18503cf:
+
+    # q "Thank you so much! Thank you, thank you!"
+    q ""
+
+# game/script.rpy:11390
+translate schinese explore_brothel6_74263c1a:
+
+    # ray "You're still here? Listen girl, you gotta go! I'm sorry, but you can't stay!"
+    ray ""
+
+# game/script.rpy:11391
+translate schinese explore_brothel6_3f661a95:
+
+    # q "I know... Praxus is tracking all of us. I'll be on the run forever unless I find a way to remove this tag..."
+    q ""
+
+# game/script.rpy:11393
+translate schinese explore_brothel6_3a605a7b:
+
+    # ray "What!? You didn't mention that!"
+    ray ""
+
+# game/script.rpy:11394
+translate schinese explore_brothel6_d768f424:
+
+    # q "I didn't think you would help me if I did..."
+    q ""
+
+# game/script.rpy:11395
+translate schinese explore_brothel6_7015115d:
+
+    # ray "I wouldn't have!"
+    ray ""
+
+# game/script.rpy:11396
+translate schinese explore_brothel6_62bf73bd:
+
+    # q "I'm sorry... can you help me remove it?"
+    q ""
+
+# game/script.rpy:11397
+translate schinese explore_brothel6_cb79ef92:
+
+    # ray "Absolutely not! I don't know anything about that!"
+    ray ""
+
+# game/script.rpy:11399
+translate schinese explore_brothel6_7d9aae9b:
+
+    # q "I understand... you've all helped enough already. Thank you..."
+    q ""
+
+# game/script.rpy:11400
+translate schinese explore_brothel6_840eb655:
+
+    # c "What will you do now?"
+    c ""
+
+# game/script.rpy:11402
+translate schinese explore_brothel6_e47e4333:
+
+    # q "Well, I do know some place that might be able to help... but it's really dangerous. I've only heard stories of it."
+    q ""
+
+# game/script.rpy:11403
+translate schinese explore_brothel6_0d19ade0:
+
+    # c "Come on, let's hurry. I'll get you there."
+    c ""
+
+# game/script.rpy:11404
+translate schinese explore_brothel6_6b52bc6a:
+
+    # q "You will? Thank you!"
+    q ""
+
+# game/script.rpy:11405
+translate schinese explore_brothel6_c86584d8:
+
+    # ray "Oh thank god! Go now before they come back!"
+    ray ""
+
+# game/script.rpy:11406
+translate schinese explore_brothel6_184c1ef6:
+
+    # q "Y-Yes sir! Thank you! Thank all of you!"
+    q ""
+
+# game/script.rpy:11408
+translate schinese explore_brothel6_e70ccd3f:
+
+    # rbun "{i}{size=-7}I'm sorry...{/size}{/i}"
+    rbun ""
+
+# game/script.rpy:11410
+translate schinese explore_brothel6_634bacba:
+
+    # "As you exit the brothel, and ensure the coast is clear, the elf fugitive leads you down the winding streets of the slums. She seems to know her way around the place."
+    ""
+
+# game/script.rpy:11411
+translate schinese explore_brothel6_b28614ef:
+
+    # "Every few minutes you can hear the sound of sirens. Uncertain that at any passing moment, you could be caught. But each time, the sound passes, and you venture on..."
+    ""
+
+# game/script.rpy:11412
+translate schinese explore_brothel6_60517a98:
+
+    # q "It's just down here..."
+    q ""
+
+# game/script.rpy:11413
+translate schinese explore_brothel6_ccd9951c:
+
+    # "The two of you find an empty canal at the edge of Old Town. It hasn't seen any use in years..."
+    ""
+
+# game/script.rpy:11414
+translate schinese explore_brothel6_395d5543:
+
+    # "The elf quickly takes the ladder down and motions you to follow."
+    ""
+
+# game/script.rpy:11416
+translate schinese explore_brothel6_cfaf2871:
+
+    # q "Here we are... they should be in there."
+    q ""
+
+# game/script.rpy:11417
+translate schinese explore_brothel6_4a5cc392:
+
+    # c "...Are you sure about this?"
+    c ""
+
+# game/script.rpy:11418
+translate schinese explore_brothel6_4ac287c0:
+
+    # q "It's the only way. I-I'll be fine, don't worry about me... but this is as far as you should go. People like you don't last long here."
+    q ""
+
+# game/script.rpy:11419
+translate schinese explore_brothel6_dc8f2380:
+
+    # q "*sigh*..."
+    q ""
+
+# game/script.rpy:11421
+translate schinese explore_brothel6_3784857a:
+
+    # c "...?"
+    c ""
+
+# game/script.rpy:11423
+translate schinese explore_brothel6_f34a58f7:
+
+    # q "...Thank you. There aren't many people like you in the world... {w}I hope we see each other again some day."
+    q ""
+
+# game/script.rpy:11424
+translate schinese explore_brothel6_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:11430
+translate schinese explore_brothel6_d19f855d_1:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:11432
+translate schinese explore_brothel6_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:11435
+translate schinese explore_brothel6_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11437
+translate schinese explore_brothel6_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11439
+translate schinese explore_brothel6_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:11446
+translate schinese explore_brothel6_bad7e3fb:
+
+    # c "She puts us all in danger. We have to turn her away, or turn her in."
+    c ""
+
+# game/script.rpy:11447
+translate schinese explore_brothel6_f75d3dcc:
+
+    # q "What!? You- you're horrible!"
+    q ""
+
+# game/script.rpy:11450
+translate schinese explore_brothel6_c1edf9b1:
+
+    # ray "Come on, this way. I'm not just going to throw you back to the wolves, but you can't stay here. There's an exit through the back. But you gotta go FAST!"
+    ray ""
+
+# game/script.rpy:11451
+translate schinese explore_brothel6_ecc09096:
+
+    # q "Nngh, o-okay... thank you."
+    q ""
+
+# game/script.rpy:11452
+translate schinese explore_brothel6_99da0044:
+
+    # ray "HURRY!"
+    ray ""
+
+# game/script.rpy:11453
+translate schinese explore_brothel6_1089bcef:
+
+    # rbun "{i}I'm sorry...{/i}"
+    rbun ""
+
+# game/script.rpy:11456
+translate schinese explore_brothel6_2dcef3db_1:
+
+    # "*BANG BANG BANG*" with sshake
+    "" with sshake
+
+# game/script.rpy:11457
+translate schinese explore_brothel6_191bd5a0_1:
+
+    # ray "{i}Shit... *ahem*...{/i}"
+    ray ""
+
+# game/script.rpy:11458
+translate schinese explore_brothel6_3292985c_1:
+
+    # ray "ONE MOMENT!"
+    ray ""
+
+# game/script.rpy:11460
+translate schinese explore_brothel6_668ad4e9_1:
+
+    # ray "The police!? What do you want?"
+    ray ""
+
+# game/script.rpy:11461
+translate schinese explore_brothel6_e62e53f6_1:
+
+    # chief "Evening sir. Are you two the owners?"
+    chief ""
+
+# game/script.rpy:11462
+translate schinese explore_brothel6_30a5058b_1:
+
+    # ray "Just me! Why are you here?"
+    ray ""
+
+# game/script.rpy:11463
+translate schinese explore_brothel6_dad5f8e7_1:
+
+    # chief "Uh, we're here on official corporate business. We're searching for a runaway slave belonging to Praxus Industries. Have you seen her? Common elf."
+    chief ""
+
+# game/script.rpy:11464
+translate schinese explore_brothel6_133581ab_1:
+
+    # ray "Does it look like we offer elves here? This is a human brothel! And last I checked, elves can't afford us!"
+    ray ""
+
+# game/script.rpy:11465
+translate schinese explore_brothel6_6326f8d8_1:
+
+    # pol "Listen here, bucko, this establishment is under suspicion of harboring a dangerous fugitive. I could very well detain you. We're going to need to search the premises."
+    pol ""
+
+# game/script.rpy:11466
+translate schinese explore_brothel6_cd28f783_1:
+
+    # ray "Excuse me! Not without a warrant you won't!"
+    ray ""
+
+# game/script.rpy:11467
+translate schinese explore_brothel6_0ba92290_1:
+
+    # chief "Sir, we don't care about anything else going on in here aside from that elf. She just ran down this street."
+    chief ""
+
+# game/script.rpy:11468
+translate schinese explore_brothel6_48347e33:
+
+    # ray "Then I suggest you go down the street! No one walked through that door in the last two hours besides you two."
+    ray ""
+
+# game/script.rpy:11469
+translate schinese explore_brothel6_6d47aec2:
+
+    # ray "And if I ever did see an elf in here? I'd kick them out! They can't afford my girls, and I'm certainly not going to ruin my reputation by hiring one!"
+    ray ""
+
+# game/script.rpy:11471
+translate schinese explore_brothel6_d38c241b_1:
+
+    # chief "..."
+    chief ""
+
+# game/script.rpy:11472
+translate schinese explore_brothel6_451495fb_1:
+
+    # pol "..."
+    pol ""
+
+# game/script.rpy:11473
+translate schinese explore_brothel6_53d50767_1:
+
+    # ray "Chop chop! You won't catch anyone just standing there!"
+    ray ""
+
+# game/script.rpy:11475
+translate schinese explore_brothel6_b6efb463_1:
+
+    # chief "Alright, thank you for your time. If you see or hear anything, you know who to call."
+    chief ""
+
+# game/script.rpy:11476
+translate schinese explore_brothel6_2a833a64_1:
+
+    # ray "Will do! BYE!"
+    ray ""
+
+# game/script.rpy:11479
+translate schinese explore_brothel6_21aeaea0_1:
+
+    # ray "Oh god... my anxiety levels are through the fucking roof! I need a cocktail..."
+    ray ""
+
+# game/script.rpy:11480
+translate schinese explore_brothel6_6c2cc907:
+
+    # bbun "Thank you, Ray! You didn't need to go that far, but you did. Thank you..."
+    bbun ""
+
+# game/script.rpy:11481
+translate schinese explore_brothel6_25a3a547:
+
+    # ray "The last thing I need is trouble with those fucking pigs! Ugh."
+    ray ""
+
+# game/script.rpy:11482
+translate schinese explore_brothel6_41b1b64f:
+
+    # rbun "She's going to be okay then?"
+    rbun ""
+
+# game/script.rpy:11483
+translate schinese explore_brothel6_f205c6cb:
+
+    # pbun "Who knows? She escaped though, and that's all that matters."
+    pbun ""
+
+# game/script.rpy:11484
+translate schinese explore_brothel6_96f9431b:
+
+    # rbun "I'm glad..."
+    rbun ""
+
+# game/script.rpy:11485
+translate schinese explore_brothel6_f33d13a4:
+
+    # ray "Alright! The brothel is closed for the next hour! Have a nap, girls..."
+    ray ""
+
+# game/script.rpy:11486
+translate schinese explore_brothel6_a932dabc:
+
+    # ray "[name], you should probably go..."
+    ray ""
+
+# game/script.rpy:11487
+translate schinese explore_brothel6_222182f1:
+
+    # c "Right. Have a good day everyone."
+    c ""
+
+# game/script.rpy:11488
+translate schinese explore_brothel6_5cc13edf:
+
+    # pbun "You too."
+    pbun ""
+
+# game/script.rpy:11490
+translate schinese explore_brothel6_d6b48f27_1:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:11493
+translate schinese explore_brothel6_6b4615f0_2:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11495
+translate schinese explore_brothel6_6b4615f0_3:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:11497
+translate schinese explore_brothel6_875c529f_1:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:19963
+translate schinese yourroomcontinued_58bcda49:
+
+    # "*ring ring, ring ring*\n..."
+    ""
+
+# game/script.rpy:20498
+translate schinese elftown_b046f6d9:
+
+    # c "Hm, Nia is missing..."
+    c ""
+
+# game/script.rpy:20503
+translate schinese elftown_b3cfeda3:
+
+    # c "She's probably fine."
+    c ""
+
+translate schinese strings:
+
+    # game/script.rpy:11353
+    old "Hide the elf"
+    new ""
+
+    # game/script.rpy:11353
+    old "Turn her away"
+    new ""
+
+    # game/script.rpy:15351
+    old "Visit the BunBun Brothel"
+    new ""
+
+    # game/script.rpy:19960
+    old "Video Call Kali"
+    new ""
+
+    # game/script.rpy:20499
+    old "* I wonder where she is? *"
+    new ""
+

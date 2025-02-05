@@ -55340,3 +55340,11 @@ translate schinese lin_teaparty_pt2_1fff03e4:
 
     # polm "LIN! THERE IS A WARRANT FOR YOUR ARREST! PUT THE GUN DOWN OR I WILL SHOOT!" with ssshake
     polm "{b}林!你被逮捕了!把枪放下!不然我就开枪了!{/b}" with ssshake
+# TODO: Translation updated at 2025-02-05 20:43
+
+# game/scripts/lin_events.rpy:6753
+translate schinese lin_newscar_16664c3b:
+
+    # van "{b}FUCK CORNWALL, FUCK TRENERO, FUCK PRESIDENT THORNE, AND FUCK ALL OF YOU WATCHING!{/b}"
+    van "{b}操你妈的康沃尔,操你妈的特内罗,操你妈的索恩总统,还有操你妈所有人!{/b}"
+

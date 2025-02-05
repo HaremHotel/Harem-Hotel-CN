@@ -49346,3 +49346,965 @@ translate schinese kali_work_bbab09fb:
 
     # k "Fuck, it's no wonder Vanessa hated me; my dad's an entitled conman."
     k "操,难怪瓦妮莎讨厌我,我爸就是个有权有势的骗子."
+# TODO: Translation updated at 2025-02-05 20:43
+
+# game/scripts/kali_events.rpy:6
+translate schinese kali_videocall_e66a1a7a:
+
+    # k "Hey [name]! You caught me at a good time. What's up?"
+    k "嘿,[name]!你来得正巧.有什么事吗?"
+
+# game/scripts/kali_events.rpy:7
+translate schinese kali_videocall_4472e7f0:
+
+    # c "Nothing much, just checking up on you. What's up with you?"
+    c "没什么,只是来看看你.你在干什么吗?"
+
+# game/scripts/kali_events.rpy:8
+translate schinese kali_videocall_36cde099:
+
+    # k "Aw, that's sweet. I'm just watching some videos. And I decided to treat myself with real ramen today!"
+    k "啊,真贴心.我只是在看视频而已.今天我决定用真正的拉面来犒劳一下自己!"
+
+# game/scripts/kali_events.rpy:9
+translate schinese kali_videocall_6a78ac38:
+
+    # c "You uh... used to having Lin around?"
+    c "你,呃......已经习惯了林在身边的生活了?"
+
+# game/scripts/kali_events.rpy:11
+translate schinese kali_videocall_bfa9d8a3:
+
+    # k "Mmh? Mmmmmmmh..."
+    k "嗯?嗯......"
+
+# game/scripts/kali_events.rpy:13
+translate schinese kali_videocall_1dbac6a5:
+
+    # k "We're not going to speak of this ever again. You saw nothing, got it?"
+    k "我们还是不要讨论这个了.你什么都没看到,明白吗?"
+
+# game/scripts/kali_events.rpy:15
+translate schinese kali_videocall_e3f868fa:
+
+    # k "But, yeah... I miss all of you. I guess I'm just so used to having Lin take my trash every day..."
+    k "但是,是的......我想念你们大家.我想我已经习惯了让林每天帮我倒垃圾."
+
+# game/scripts/kali_events.rpy:16
+translate schinese kali_videocall_7cef5a91:
+
+    # k "At least dad lets me fly back whenever I want. But it still sucks having to work so far away from you."
+    k "至少爸爸允许我随时飞回去,但是在离你们这么远的地方工作,我还是觉得很糟糕."
+
+# game/scripts/kali_events.rpy:17
+translate schinese kali_videocall_70fea95e:
+
+    # k "Honestly, if I knew I had to do this... I'm not sure I ever would have joined uni. Especially the manager bullshit."
+    k "说实话,要是我早知道我得做这种事情......我都不知道我会不会去上大学.特别是还要做这种管理的破事."
+
+# game/scripts/kali_events.rpy:18
+translate schinese kali_videocall_84fd5755:
+
+    # c "You deserve the title, Kali. You're smarter than all of them combined, including your father. And think about it this way; you get to make a bigger difference now."
+    c "你完全可以胜任这份工作,凯莉.你比他们所有人加起来都聪明,包括你的付钱.你得这么想,你现在可以发挥更大的作用了."
+
+# game/scripts/kali_events.rpy:19
+translate schinese kali_videocall_06648d60:
+
+    # k "Heh, I guess you're right. Especially about my father... This whole thing really changed my perspective about him. I always thought you had to be really smart to be rich."
+    k "呵呵,我想你是对的.尤其是关于父亲那一点......这件事改变了我对他的看法,我一直以为有钱人肯定是非常聪明的."
+
+# game/scripts/kali_events.rpy:20
+translate schinese kali_videocall_583415b5:
+
+    # c "How is work, by the way?"
+    c "说起来,工作怎么样了?"
+
+# game/scripts/kali_events.rpy:22
+translate schinese kali_videocall_1e0c259c:
+
+    # k "It's alright. I'm still getting to know everyone. Progress is slow, but it's progress."
+    k "还行,我还在了解大家.虽然进展缓慢,但总归是有进展的."
+
+# game/scripts/kali_events.rpy:24
+translate schinese kali_videocall_e15a627d:
+
+    # k "Oh, I actually got a call from Mariella this morning. She wants to start advertising the elfbot soon. You know, build hype and stuff? But we haven't even finished fine motor controls yet..."
+    k "哦,今天早上我还接到了玛丽拉的电话.她想尽快为机器精灵做广告,你知道的,预热炒作什么的?但是我们还没完成精细动作控制呢."
+
+# game/scripts/kali_events.rpy:25
+translate schinese kali_videocall_18482a29:
+
+    # k "When I told her that, her response was {i}'That's not a problem, we'll use AI to generate the ad. Nero needs some good press right now.'{/i} ...Can you believe that?"
+    k "我告诉她了这一情况,她的回答是{i}'这不是问题,我们可以用AI生成广告.尼禄公司现在需要的就是良好声誉'{/i}......你能相信吗?"
+
+# game/scripts/kali_events.rpy:26
+translate schinese kali_videocall_83558c96:
+
+    # c "Did something happen with Nero Inc?"
+    c "尼禄公司出什么事了吗?"
+
+# game/scripts/kali_events.rpy:28
+translate schinese kali_videocall_fa3f7da9:
+
+    # k "He donated $250 million syls to Cornwall's 313 campaign. I don't know what they expected... but now people are starting to boycott his products. {i}Not like they're going to get far without his stuff...{/i}"
+    k "他给康沃尔的313竞选活动捐赠了2.5亿西尔元.我不知道他们在想什么......但是人们现在开始抵制他的产品了.{i}他们表现得好像没有他的产品也能继续生活一样......{/i}"
+
+# game/scripts/kali_events.rpy:29
+translate schinese kali_videocall_98fefa93:
+
+    # k "I mean, I get it... politically my dad isn't very smart, and Cornwall sucks ass. But my dad's chips are in everything. I don't think they understand that there is no ethical consumption in this world when literally everything is made by slaves."
+    k "我的意思是,我明白他们的想法......我爸爸的政治思维很差,康沃尔也是个混蛋.但我爸爸的芯片就是一切.我觉得他们不明白,当这个世界上的一切都是由奴隶生产的时候,根本就不存在所谓的道德消费."
+
+# game/scripts/kali_events.rpy:30
+translate schinese kali_videocall_a292408c:
+
+    # c "What else can they do?"
+    c "那他们还能做什么?"
+
+# game/scripts/kali_events.rpy:31
+translate schinese kali_videocall_eea9ca98:
+
+    # k "Honestly? Support Lin. She's the only one pushing for real change. {i}If only people knew about her...{/i}"
+    k "你要我说实话吗?那就是支持林.她是唯一一个在推动真正变革的人/{i}要是人们能知道她就好了......{/i}"
+
+# game/scripts/kali_events.rpy:33
+translate schinese kali_videocall_c4006205:
+
+    # k "Wouldn't that be cool? Lin as president. I'd vote for her!"
+    k "那不也挺酷的?林当总统,我要投她一票!"
+
+# game/scripts/kali_events.rpy:34
+translate schinese kali_videocall_d11bfb71:
+
+    # c "I don't think she'd want to be president."
+    c "我觉得她不想当总统."
+
+# game/scripts/kali_events.rpy:35
+translate schinese kali_videocall_00a44138:
+
+    # k "That's even better! The only person who should have power is someone who doesn't want power. I mean, you've seen what President Thorne has been doing, right?"
+    k "那就更好了!最应该掌握权力的人就是那些不迷恋权力的人.我是说,你也知道索恩总统的那些所作所为吧?"
+
+# game/scripts/kali_events.rpy:36
+translate schinese kali_videocall_7d24efd0:
+
+    # c "I don't keep up with politics."
+    c "我不关注政治."
+
+# game/scripts/kali_events.rpy:38
+translate schinese kali_videocall_efeeca8c:
+
+    # k "He's pushing for half-elf breeding programs... I think my dad has been in his ear. He's campaigning on giving $1,000 syls to every human parent of a newly born half-elf."
+    k "是他推动了半精灵繁衍计划......我觉得我爸爸一直在给他出主意.他也在竞选,承诺给每个新生半精灵的人类父母1000西尔元."
+
+# game/scripts/kali_events.rpy:39
+translate schinese kali_videocall_5e8f34b4:
+
+    # c "I sense a business opportunity..."
+    c "我感觉到了商机......"
+
+# game/scripts/kali_events.rpy:40
+translate schinese kali_videocall_a858aade:
+
+    # k "Shut up!"
+    k "你能不能闭嘴啊!"
+
+# game/scripts/kali_events.rpy:41
+translate schinese kali_videocall_1f60181e:
+
+    # c "I'm just kidding!"
+    c "我开个玩笑嘛!"
+
+# game/scripts/kali_events.rpy:42
+translate schinese kali_videocall_c26d68b7:
+
+    # k "That's exactly what they want you to think. On top of that, my dad is willing to buy them for $300 syls each for the elfbots! They don't have any rights, so what's stopping him from hooking kids up to an IV for the rest of their lives?"
+    k "他们就是想让你这么想.除此之外,我爸爸还愿意为了机器精灵,以300西尔元每位的价格购买他们!他们没有任何权利,还有什么能阻止他让这些孩子们戴着静脉注射器度过余生吗?"
+
+# game/scripts/kali_events.rpy:43
+translate schinese kali_videocall_7cd15eaa:
+
+    # c "Shit, that's bad...\nWait, I thought they were using elf blood for the elfbots because their blood has some special properties?"
+    c "操,那挺糟糕的......\n等等,我以为他们之所以用精灵的血来制造机器精灵,是因为他们的血有一些特殊的苏醒?"
+
+# game/scripts/kali_events.rpy:44
+translate schinese kali_videocall_8eae8245:
+
+    # k "It's all bullshit, dude! They would run on human blood perfectly fine."
+    k "那就是一派胡言,伙计!他们完全可以用人血."
+
+# game/scripts/kali_events.rpy:46
+translate schinese kali_videocall_c51c9922:
+
+    # k "I don't know... sometimes I really wonder if I'm doing the right thing."
+    k "我不知道......有时候我真的怀疑我到底是不是在做正确的事情."
+
+# game/scripts/kali_events.rpy:47
+translate schinese kali_videocall_3519c07f:
+
+    # k "I mean, they're going to get made one way or another... but do I really want to be a part of this?"
+    k "我的意思是,无论如何,他们都会被制造出来......但我真的想参与其中吗?"
+
+# game/scripts/kali_events.rpy:48
+translate schinese kali_videocall_b0fe7a8f:
+
+    # c "You're in a position of power. You have influence. I know you'll do the right thing when it comes down to it."
+    c "你现在位高权重,你有影响力.我知道你在关键时候一定会做出正确的选择."
+
+# game/scripts/kali_events.rpy:49
+translate schinese kali_videocall_4be81fde:
+
+    # k "The way things are looking, every elf is just going to be turned into blood bags. I wanted elfbots to replace slavery, not {i}elves.{/i}"
+    k "现在的情况是,所有的精灵都会变成他们的血袋.我想让机器精灵取代的是奴隶制,而不是{i}精灵{/i}."
+
+# game/scripts/kali_events.rpy:51
+translate schinese kali_videocall_a58608a2:
+
+    # k "I mean, can you imagine it? My dad wants to sell elfbots world wide! Not just in Syl'anar, everywhere! There aren't enough elves and half-elves in the world to support that! He would need every single one of them, and WAY more, to support that vision."
+    k "你能想象吗?我爸爸想把机器精灵卖到全世界!不只是在西尔阿纳尔,是全世界都卖!但这个世界上没有足够的精灵和半精灵来支持这个计划!他需要所有的精灵,甚至更多,来支持他的愿景."
+
+# game/scripts/kali_events.rpy:52
+translate schinese kali_videocall_fea93c73:
+
+    # c "He found a loophole around the ban of elves leaving Syl'anar... not even Cornwall could do that."
+    c "他找到了禁止精灵离开西尔阿纳尔这条法律的漏洞......甚至连康沃尔都做不到."
+
+# game/scripts/kali_events.rpy:54
+translate schinese kali_videocall_8489e516:
+
+    # k "Urgh... if Vanessa knew about all of this, she would kill me. And the worst part is, she would be right..."
+    k "呃......要是瓦妮莎知道了这一切,她会杀了我的.最糟糕的是,她还是对的......"
+
+# game/scripts/kali_events.rpy:56
+translate schinese kali_videocall_5d2adad2:
+
+    # k "NNNNNGH...!\nAnyway, enough of the doom-and-gloom. I should clean up."
+    k "{b}呃......!{/b}\n算了,别说这种丧气的事情了,我收拾一下."
+
+# game/scripts/kali_events.rpy:57
+translate schinese kali_videocall_9b291a9e:
+
+    # c "That's rare, I should start recording."
+    c "真是难得,我可得好好录下来."
+
+# game/scripts/kali_events.rpy:59
+translate schinese kali_videocall_2efed850:
+
+    # k "Shut up.\nYou're not busy, are you? You should stay on."
+    k "闭嘴.\n你不忙吧?那就留下来."
+
+# game/scripts/kali_events.rpy:60
+translate schinese kali_videocall_c48dc32f:
+
+    # c "Sure."
+    c "当然可以."
+
+# game/scripts/kali_events.rpy:62
+translate schinese kali_videocall_5d20dc9c:
+
+    # k "*sigh*, don't laugh at me, I'm trying to prove that I'm a functional adult."
+    k "*叹气*,别笑话我,我只是在证明我是一个正常的成年人."
+
+# game/scripts/kali_events.rpy:63
+translate schinese kali_videocall_768e94b2:
+
+    # c "I'm already impressed. Soon, you'll be a great maid."
+    c "我已经对你刮目相看了.很快,你就会成为一位出色的女仆."
+
+# game/scripts/kali_events.rpy:65
+translate schinese kali_videocall_2fa9b827:
+
+    # k "{i}You're still on that...?{/i}"
+    k "{i}你还想着那个啊......?{/i}"
+
+# game/scripts/kali_events.rpy:66
+translate schinese kali_videocall_fae62b86:
+
+    # c "Seriously, you give Lin a run for her money."
+    c "说真的,你完全能比得上林."
+
+# game/scripts/kali_events.rpy:67
+translate schinese kali_videocall_88c6bee3:
+
+    # k "{i}Mhmmm...{/i}"
+    k "{i}嗯......{/i}"
+
+# game/scripts/kali_events.rpy:69
+translate schinese kali_videocall_98ebf73c:
+
+    # k "Egh, I'm such a mess..."
+    k "呃,我现在真是一团糟......"
+
+# game/scripts/kali_events.rpy:70
+translate schinese kali_videocall_2be82575:
+
+    # k "How is everyone doing, by the way?"
+    k "对了,大家都还好吗?"
+
+# game/scripts/kali_events.rpy:72
+translate schinese kali_videocall_d2b65020:
+
+    # c "Uh... some ups and downs... you have enough to worry about."
+    c "呃......起起落落吧......你自己要关心的就已经够多了."
+
+# game/scripts/kali_events.rpy:73
+translate schinese kali_videocall_3734804b:
+
+    # k "{i}They're like family to me though, I worry about them sometimes.{/i}"
+    k "{i}但是她们就像是我的家人,我有时候也会担心她们.{/i}"
+
+# game/scripts/kali_events.rpy:75
+translate schinese kali_videocall_68653305:
+
+    # c "Seriously, you have enough on your mind."
+    c "说真的,你的心事已经够多了."
+
+# game/scripts/kali_events.rpy:76
+translate schinese kali_videocall_80d8e5e0:
+
+    # k "If you say so."
+    k "好吧,既然你都这么说了."
+
+# game/scripts/kali_events.rpy:78
+translate schinese kali_videocall_ed8fbed5:
+
+    # k "{i}And Lucy? How annoying has she been...?{/i}"
+    k "{i}露西呢?她会很烦人吗......?{/i}"
+
+# game/scripts/kali_events.rpy:79
+translate schinese kali_videocall_3e6c6301:
+
+    # c "She hasn't been bothering anyone."
+    c "她还没有打扰过别人."
+
+# game/scripts/kali_events.rpy:81
+translate schinese kali_videocall_da5bb72a:
+
+    # k "That's new..."
+    k "真新奇......"
+
+# game/scripts/kali_events.rpy:83
+translate schinese kali_videocall_435b5b8a:
+
+    # k "{i}You know what? This cleaning is really starting to make me think elfbots are a purely good decision...{/i}"
+    k "{i}你知道吗?打完扫后,我觉得机器精灵绝对是个好主意......{/i}"
+
+# game/scripts/kali_events.rpy:84
+translate schinese kali_videocall_d27d22ae:
+
+    # c "Come on, it's not much."
+    c "得了吧,那又没什么."
+
+# game/scripts/kali_events.rpy:86
+translate schinese kali_videocall_eb4ddf48:
+
+    # k "Imagine how many videos I could have watched in the mean time?"
+    k "想象一下,在这段时间里我能看多少视频?"
+
+# game/scripts/kali_events.rpy:87
+translate schinese kali_videocall_25e9635c:
+
+    # c "Right..."
+    c "也是......"
+
+# game/scripts/kali_events.rpy:89
+translate schinese kali_videocall_d6072d8c:
+
+    # k "{i}Oh! I almost forgot, I have something to show you!{/i}"
+    k "{i}哦!我差点忘了,我有东西要给你看!{/i}"
+
+# game/scripts/kali_events.rpy:90
+translate schinese kali_videocall_4ce77e5e:
+
+    # c "Hm?"
+    c "嗯?"
+
+# game/scripts/kali_events.rpy:91
+translate schinese kali_videocall_fe8e5db8:
+
+    # k "{i}One sec, let me find it.{/i}"
+    k "{i}等一下,我找找.{/i}"
+
+# game/scripts/kali_events.rpy:92
+translate schinese kali_videocall_6fc3ad67:
+
+    # k "{i}Something caught my eye when I was walking back from work the other day, I think you'll love it.{/i}"
+    k "{i}前几天下班回家的路上,有件衣服吸引了我的注意,我觉得你会喜欢的.{/i}"
+
+# game/scripts/kali_events.rpy:93
+translate schinese kali_videocall_80b8a3af:
+
+    # k "{i}There it is. Okay, okay, just give me a second!{/i}"
+    k "{i}在这啊.行,可以,等我一下!{/i}"
+
+# game/scripts/kali_events.rpy:94
+translate schinese kali_videocall_111d51aa:
+
+    # c "...{w}...{w}..."
+    c "......{w}......{w}......"
+
+# game/scripts/kali_events.rpy:96
+translate schinese kali_videocall_0c892db9:
+
+    # k "Okay... what do you think...?"
+    k "好了......你觉得怎么样......?"
+
+# game/scripts/kali_events.rpy:99
+translate schinese kali_videocall_441016af:
+
+    # c "Wow, that's hot..."
+    c "哇哦,好性感......"
+
+# game/scripts/kali_events.rpy:100
+translate schinese kali_videocall_5408b642:
+
+    # k "You think so? I'm glad."
+    k "你这么认为的吗?我很高兴."
+
+# game/scripts/kali_events.rpy:102
+translate schinese kali_videocall_93384f47:
+
+    # k "And from the back? Does it fit me?"
+    k "后面呢?合我身吗?"
+
+# game/scripts/kali_events.rpy:105
+translate schinese kali_videocall_564cfa01:
+
+    # c "Even better. It's like it was made for you."
+    c "更好了,就好像是为你量身定制的一样."
+
+# game/scripts/kali_events.rpy:106
+translate schinese kali_videocall_4bb7d84e:
+
+    # k "Decided to put my new money to good use, heheh..."
+    k "我新赚来的钱可得花在刀刃上,呵呵呵......"
+
+# game/scripts/kali_events.rpy:108
+translate schinese kali_videocall_7f741ef4:
+
+    # k "I also decided to get this bad boy. I haven't tried it out yet though, I wanted to wait to get on a video call with you."
+    k "我也买了这个坏家伙,不过我还没试过,我想和你视频通话的时候再用."
+
+# game/scripts/kali_events.rpy:109
+translate schinese kali_videocall_758716ac:
+
+    # k "Just so happens you called today..."
+    k "正好你今天就打过来了......"
+
+# game/scripts/kali_events.rpy:110
+translate schinese kali_videocall_57e72a7e:
+
+    # c "I guess I'm in luck."
+    c "看来我运气不错嘛."
+
+# game/scripts/kali_events.rpy:111
+translate schinese kali_videocall_85d97e56:
+
+    # k "You want to have some fun? I've never done anything like this over a call before."
+    k "你想找点乐子吗?我从来没边视频边做这种事情."
+
+# game/scripts/kali_events.rpy:115
+translate schinese kali_videocall_6a612f65:
+
+    # k "Can you take it out? I wanna see it!"
+    k "你可以把肉棒拿出来吗?我想看看!"
+
+# game/scripts/kali_events.rpy:117
+translate schinese kali_videocall_54be8fa7:
+
+    # "...{w}...{w}..."
+    "......{w}......{w}......"
+
+# game/scripts/kali_events.rpy:119
+translate schinese kali_videocall_10030a6e:
+
+    # k "Oh wow...\nYou're really photogenic. You should start send nudes."
+    k "哦,哇哦......\n你真的很上镜,你真得给我发点裸照."
+
+# game/scripts/kali_events.rpy:120
+translate schinese kali_videocall_ae84eaf1:
+
+    # k "Mmmh... can you start stroking it?"
+    k "嗯......你可以开始撸吗?"
+
+# game/scripts/kali_events.rpy:122
+translate schinese kali_videocall_cb0866e2:
+
+    # k "Here you go.\n{w}...{w}\nThat's really hot... I don't think I've ever seen you jerk off before."
+    k "来了.\n{w}......{w}\n太色了......我好像之前都没见过你撸."
+
+# game/scripts/kali_events.rpy:123
+translate schinese kali_videocall_a883b26c:
+
+    # k "Mmmh... I know you can get harder. Hold on, I know what you want..."
+    k "嗯......我知道你还能变得更硬.等一下,我知道你想要什么......"
+
+# game/scripts/kali_events.rpy:126
+translate schinese kali_videocall_5e1a0d44:
+
+    # k "How's that? Heheh."
+    k "怎么样?呵呵呵."
+
+# game/scripts/kali_events.rpy:127
+translate schinese kali_videocall_f04ded17:
+
+    # k "Ohh, I can hear it... you really like that, huh? Keep stroking to my ass baby..."
+    k "哦,我听到了哦.....你真的很喜欢,嗯?继续对着我的屁股撸吧,宝贝......"
+
+# game/scripts/kali_events.rpy:131
+translate schinese kali_videocall_cbd1c701:
+
+    # k "This is turning me on a lot more than I thought it would..."
+    k "这让我变得比想象中的还要更兴奋......"
+
+# game/scripts/kali_events.rpy:133
+translate schinese kali_videocall_a2af34f6:
+
+    # k "Mm, mmh."
+    k "嗯,嗯."
+
+# game/scripts/kali_events.rpy:135
+translate schinese kali_videocall_2282d96d:
+
+    # k "There you go baby. Do you miss me?"
+    k "好了宝贝,想我吗?"
+
+# game/scripts/kali_events.rpy:136
+translate schinese kali_videocall_cc07eb24:
+
+    # c "A lot..."
+    c "很想......"
+
+# game/scripts/kali_events.rpy:137
+translate schinese kali_videocall_7f70f1b9:
+
+    # k "I really wish you were here right now..."
+    k "我真的很希望你现在就在这里......"
+
+# game/scripts/kali_events.rpy:141
+translate schinese kali_videocall_6978e960:
+
+    # k "I know you miss my boobies too, right~?"
+    k "我知道你也很想我的身体,对吧~?"
+
+# game/scripts/kali_events.rpy:142
+translate schinese kali_videocall_6c90031f:
+
+    # k "Mmh, I want you to imagine touching them... touching my body. Feeling every curve..."
+    k "嗯,我要你想象触碰它们的感觉.....触摸我的身体,感受我身上的每一条曲线......"
+
+# game/scripts/kali_events.rpy:143
+translate schinese kali_videocall_05519c26:
+
+    # k "Maybe... putting your hand around my neck...?"
+    k "也许......把你的手绕在我脖子上......?"
+
+# game/scripts/kali_events.rpy:144
+translate schinese kali_videocall_f0367f9e:
+
+    # c "You're really good at this."
+    c "你真的很会."
+
+# game/scripts/kali_events.rpy:145
+translate schinese kali_videocall_38b23b25:
+
+    # k "Of course, I know what you like.\nMmmh, fuck, you're so hard..."
+    k "当然了,我知道你喜欢什么.\n嗯,操,你好硬啊......"
+
+# game/scripts/kali_events.rpy:147
+translate schinese kali_videocall_0ec571f4:
+
+    # k "Don't cum yet, we're just getting started.\nOh, let me reposition you real quick..."
+    k "先别射,我们才刚刚开始呢.\n哦,我马上给你换个位置......"
+
+# game/scripts/kali_events.rpy:149
+translate schinese kali_videocall_d0c90138:
+
+    # k "How's that? Got a better view?"
+    k "怎么样?风景更好了吧?"
+
+# game/scripts/kali_events.rpy:152
+translate schinese kali_videocall_1d3aa9a0:
+
+    # c "A lot better."
+    c "好太多了."
+
+# game/scripts/kali_events.rpy:153
+translate schinese kali_videocall_ac8f9ff2:
+
+    # k "Can you stand up for me? Like you're about to put it in..."
+    k "你可以站起来吗?就好像你要插入一样......"
+
+# game/scripts/kali_events.rpy:156
+translate schinese kali_videocall_94f186fe:
+
+    # k "Nnnh! Just like that baby, fuck..." with ssshake
+    k "嗯?就是这样,宝贝,操......" with ssshake
+
+# game/scripts/kali_events.rpy:157
+translate schinese kali_videocall_01a16dbc:
+
+    # k "Mmmh, nnnm...!"
+    k "嗯,嗯......!"
+
+# game/scripts/kali_events.rpy:158
+translate schinese kali_videocall_c6a521b6:
+
+    # k "Hhnm, your cock is leaking, mmh... it looks like it feels so good to stroke it..."
+    k "嗯,你的肉棒都在流前走汁了,嗯......看起来你撸得很舒服......"
+
+# game/scripts/kali_events.rpy:159
+translate schinese kali_videocall_974e7df8:
+
+    # k "Hahh... nnm, I really miss you, and it's so disappointing to do this alone. I can't cum without you..."
+    k "哈......嗯,我真的很想你,只能一个人做太失望了.没有你,我没法高潮......"
+
+# game/scripts/kali_events.rpy:160
+translate schinese kali_videocall_48de2bb9:
+
+    # c "Let's see if we can change that."
+    c "看看我们能不能改变这种情况."
+
+# game/scripts/kali_events.rpy:161
+translate schinese kali_videocall_93f6ac81:
+
+    # k "Hnngh, I don't know if I can... you know how hard it is for me to cum without you... men are so lucky. Mmmh...!"
+    k "嗯,我不知道我行不行......你知道,没有你,我想高潮有多困难吗......男人太幸运了.嗯......!"
+
+# game/scripts/kali_events.rpy:162
+translate schinese kali_videocall_39290b90:
+
+    # k "Fuck baby, you're so hot... your cock is actually so beautiful... Hnnn...!"
+    k "操,宝贝,你太性感了......你的肉棒太美丽了......嗯......!"
+
+# game/scripts/kali_events.rpy:163
+translate schinese kali_videocall_c5d43840:
+
+    # k "Ahh fuck, the least I can do is make you cum, right? Hmm~! I really wanna see you cum..."
+    k "啊,操,至少我可以让你射出来,对吧?嗯~!我想看你射出来......"
+
+# game/scripts/kali_events.rpy:164
+translate schinese kali_videocall_0644ddcb:
+
+    # k "Nnnh, yeah... go a little faster baby. Nnnh... I actually love seeing you stroke your cock for me. Ahh...!"
+    k "嗯,是的......再快点,宝贝.嗯......我真的很喜欢看你对着我撸.啊......!"
+
+# game/scripts/kali_events.rpy:167
+translate schinese kali_videocall_bec6b14c:
+
+    # k "Mmmh, if you were here right now, what would you do to me?"
+    k "嗯,要是你现在就在这里,你会对我做什么?"
+
+# game/scripts/kali_events.rpy:171
+translate schinese kali_videocall_89fe4a95:
+
+    # k "Yeah? Ahh...! Why don't you fuck my throat? It'll feel better."
+    k "是吗?啊......!为什么你不操我的喉咙呢?那样更舒服."
+
+# game/scripts/kali_events.rpy:172
+translate schinese kali_videocall_d73ae2ba:
+
+    # k "Mmmh! Fuck it until you cum..."
+    k "嗯!操吧,操到你射出来为止......"
+
+# game/scripts/kali_events.rpy:173
+translate schinese kali_videocall_c1e1b1c9:
+
+    # k "Make me gag on your cock...! Nnnm! Fuck..."
+    k "用你的肉棒堵住我的嘴吧......!嗯!操......"
+
+# game/scripts/kali_events.rpy:174
+translate schinese kali_videocall_71c1db8d:
+
+    # k "Oh my god... It's so wet from your precum. I want it in my fucking mouth, shit... Mmh!"
+    k "哦我天......你的前走汁好湿啊.我好想用我的小骚嘴尝尝,操......嗯!"
+
+# game/scripts/kali_events.rpy:177
+translate schinese kali_videocall_b0d4275f:
+
+    # k "Yeah? You wanna fuck me raw and fill my pussy? Fuck me as hard as you're stroking right now? Nnnm...!"
+    k "是吗?你想无套中出我的小穴?用你现在撸的力度来操我?嗯......!"
+
+# game/scripts/kali_events.rpy:178
+translate schinese kali_videocall_f9686905:
+
+    # k "Use my body like a sex doll...? Just fuck until you're satisfied... God, fuck...!"
+    k "把我的身体当成娃娃来用......?操到你满意为止......天啊,操......!"
+
+# game/scripts/kali_events.rpy:179
+translate schinese kali_videocall_67944480:
+
+    # k "Just pump, and pump, and pump...! Oh fuck! I need you inside me baby...!"
+    k "就这样抽插抽插抽插......!哦,操!我需要你插入我,宝贝......!"
+
+# game/scripts/kali_events.rpy:182
+translate schinese kali_videocall_83890eb6:
+
+    # k "Oh yeah? You want my ass? Ahh...!"
+    k "哦,是吗?你想要我的屁股?啊......!"
+
+# game/scripts/kali_events.rpy:184
+translate schinese kali_videocall_29f6ba98:
+
+    # k "Yeah... bend me over and just fucking take it. Mmmh! Just take my fucking ass, it's yours daddy... Mmmh!"
+    k "是的.....按住我,就这么操它吧.嗯!操我的小骚屁股吧,它是你的,爸爸......嗯!"
+
+# game/scripts/kali_events.rpy:186
+translate schinese kali_videocall_f23f36ca:
+
+    # k "Yeah... bend me over and just fucking take it. Mmmh! Just take my fucking ass, it's yours... Mmmh!"
+    k "是的.....按住我,就这么操它吧.嗯!操我的小骚屁股吧,它是你的......嗯!"
+
+# game/scripts/kali_events.rpy:187
+translate schinese kali_videocall_2ad1cd04:
+
+    # k "Ohhh, fuck my ass deep baby...! Fill me up...! Hahh...!"
+    k "哦,狠狠地操我的屁股吧,宝贝......!填满我......!哈......!"
+
+# game/scripts/kali_events.rpy:188
+translate schinese kali_videocall_06ed66fb:
+
+    # k "Ahh, fuck yeah...! I want you [name]...! Hahh...! Oh my god...!"
+    k "啊,操,是的......!我想要你,[name]......!哈......!哦我天......!"
+
+# game/scripts/kali_events.rpy:192
+translate schinese kali_videocall_e3792d06:
+
+    # k "Ah, FUCK! Nnnm...! Oh my godddd...! I wanna fly over there just so you can fuck me...! Fuck!" with ssshake
+    k "啊,{b}操!{/b}嗯......!哦我天......!我好想飞过去,这样你就能操我了......!操!" with ssshake
+
+# game/scripts/kali_events.rpy:193
+translate schinese kali_videocall_46a69c69:
+
+    # k "Ohhh! I need your cock...! Oh my god! I need it... I need it...! God damn it...!"
+    k "哦!我需要你的肉棒......!哦我天!我需要它......我需要它......!妈的......!"
+
+# game/scripts/kali_events.rpy:194
+translate schinese kali_videocall_13f0abb8:
+
+    # k "Nnnnm! We could fuck all night~ all night... you could make me cum so much... MMH!"
+    k "嗯!我们可以操一整晚~一整晚......你可以让我高潮好多次......{b}嗯!{/b}"
+
+# game/scripts/kali_events.rpy:195
+translate schinese kali_videocall_e6343294:
+
+    # k "Fucking shit baby... Oh my god...! Oh my god... Fuck! Fuck!"
+    k "操,宝贝......哦我天......!哦我天......操!操!"
+
+# game/scripts/kali_events.rpy:196
+translate schinese kali_videocall_54847dbe:
+
+    # k "MMMH! Take it, take it, take it...! Fuuuuck~! Oh fuck! I'm so FUCKING wet baby...! MMMH!"
+    k "{b}嗯!操我,操我,操我......!操~!哦,操!我{b}好他妈{/b}湿,宝贝......!{b}嗯!{/b}"
+
+# game/scripts/kali_events.rpy:197
+translate schinese kali_videocall_92966bd9:
+
+    # k "Ahh~! Keep going... keep going...! Stroke your big fucking cock for me~! Nnnh! I want you to cum so much for me...!"
+    k "啊~!继续......继续......!对着我撸你的大肉棒吧~!嗯!我好想要你对着我射......!"
+
+# game/scripts/kali_events.rpy:200
+translate schinese kali_videocall_b8139dad:
+
+    # c "I'm close!"
+    c "我要射了!"
+
+# game/scripts/kali_events.rpy:201
+translate schinese kali_videocall_365c93c0:
+
+    # k "Oh GOD! Yeah! Fuck! Me too! NNNMH! I'm gonna fucking cum! HAHH! Shit! Baby, baby...! Fuck! I'm gonna cum!?" with ssshake
+    k "哦{b}我天{/b}!是的!操!我也要高潮了!{b}嗯!{/b}我他妈要高潮了!{b}哈!{/b}操!宝贝,宝贝......!操!我要去了!?" with ssshake
+
+# game/scripts/kali_events.rpy:202
+translate schinese kali_videocall_aa498a9e:
+
+    # k "Cum with me! Cum with me~! Oh my god, CUM CUM CUM!!! NOW! Oh fuck! MMMH! Cum with me!! AHHH! YES, I- I'M CUMMING!!!" with ssshake
+    k "和我一起去吧!和我一起去吧~!哦我天,{b}去了去了去了!!!去了!{/b}哦,操!{b}嗯!{/b}和我一起高潮吧!!{b}啊!是的,去-去了!!!{/b}" with ssshake
+
+# game/scripts/kali_events.rpy:204
+translate schinese kali_videocall_e25672ad:
+
+    # k "AH! AAAAAAH!! NNNNNNNMMGH~!!!" with ssshake
+    k "{b}啊!啊啊!嗯~!!!{/b}" with ssshake
+
+# game/scripts/kali_events.rpy:205
+translate schinese kali_videocall_7e9f379d:
+
+    # k "FU- FUCK!! FFFFFFMN!! MMMMNGH!!!" with ssshake
+    k "{b}操-操!!操!!嗯!!!{/b}" with ssshake
+
+# game/scripts/kali_events.rpy:206
+translate schinese kali_videocall_e1b021f4:
+
+    # k "YES, YES! YES!! HAAAAH!!!" with ssshake
+    k "{b}是的,是的!是的!!哈!!!{/b}" with ssshake
+
+# game/scripts/kali_events.rpy:208
+translate schinese kali_videocall_575feb24:
+
+    # k "Hahhh... ahhh... hahhh..."
+    k "哈......啊......哈......"
+
+# game/scripts/kali_events.rpy:209
+translate schinese kali_videocall_90c0caf2:
+
+    # k "Holy shit...! Wow...! Nnnmmm... wow... I never cum like that... only with you..."
+    k "我操......!哇哦......!嗯......哇哦......!我从来没有这么激烈地高潮过......只有和你在一起的时候才会这样......"
+
+# game/scripts/kali_events.rpy:210
+translate schinese kali_videocall_da0f3d24:
+
+    # k "Oh fuuuuck..."
+    k "哦操......"
+
+# game/scripts/kali_events.rpy:212
+translate schinese kali_videocall_1ce4af8b:
+
+    # k "Mmmmh... Mh..."
+    k "嗯......嗯......"
+
+# game/scripts/kali_events.rpy:214
+translate schinese kali_videocall_c98e35a3:
+
+    # k "Nnngh..."
+    k "嗯......"
+
+# game/scripts/kali_events.rpy:216
+translate schinese kali_videocall_9ec1b581:
+
+    # k "Mmmm~! That was so fun! How was it for you? Did you cum hard?"
+    k "嗯~!真好玩!你觉得怎么样?你也射得很爽吗?"
+
+# game/scripts/kali_events.rpy:217
+translate schinese kali_videocall_a1f0da02:
+
+    # c "Yeah..."
+    c "是的......"
+
+# game/scripts/kali_events.rpy:218
+translate schinese kali_videocall_968c4c5b:
+
+    # k "Heheh, I'm glad. I hope you didn't ruin your keyboard for me..."
+    k "呵呵呵,我很高兴.我希望你没有因为我弄坏了你的键盘......"
+
+# game/scripts/kali_events.rpy:220
+translate schinese kali_videocall_9566270a:
+
+    # k "Actually, that would be kinda hot..."
+    k "实际上,那样更色了......"
+
+# game/scripts/kali_events.rpy:222
+translate schinese kali_videocall_db6a67bc:
+
+    # k "I've never done something like this before! It's actually really fun."
+    k "我之前从来没做过这种事情!真的很好玩."
+
+# game/scripts/kali_events.rpy:224
+translate schinese kali_videocall_2a0d7ccb:
+
+    # k "Shit!"
+    k "操!"
+
+# game/scripts/kali_events.rpy:225
+translate schinese kali_videocall_297d93f3:
+
+    # c "What?"
+    c "是吗?"
+
+# game/scripts/kali_events.rpy:226
+translate schinese kali_videocall_b5f99c4b:
+
+    # k "I should have recorded you... damn it..."
+    k "我应该录下来的......妈的......"
+
+# game/scripts/kali_events.rpy:227
+translate schinese kali_videocall_7dded806:
+
+    # k "If I can cum like this... I wonder if I can cum to porn of you... *sigh*, fuck."
+    k "如果我这样可以高潮......我在想我能不能看着你的片高潮......*叹气*,操."
+
+# game/scripts/kali_events.rpy:229
+translate schinese kali_videocall_bf1955d6:
+
+    # k "Seriously, it's so hard for me to cum without you on top of me. I can't even remember the last time I came with a vibrator. So that's new!"
+    k "说真的,你不压在我身上,我很难高潮.我都不记得上次用震动棒高潮是什么时候了.还挺新鲜的!"
+
+# game/scripts/kali_events.rpy:230
+translate schinese kali_videocall_2ca41909:
+
+    # c "Hah, I'm glad you had fun."
+    c "哈哈,我很高兴你玩得很爽."
+
+# game/scripts/kali_events.rpy:231
+translate schinese kali_videocall_2b5c98ab:
+
+    # k "So much fun!"
+    k "太爽了!"
+
+# game/scripts/kali_events.rpy:233
+translate schinese kali_videocall_ec932717:
+
+    # k "*sigh* Well, I should probably get back to work. We're all doing remote work today..."
+    k "*叹气*嗯,我大概得回去工作了.我今天得远程办公......"
+
+# game/scripts/kali_events.rpy:234
+translate schinese kali_videocall_41e40e26:
+
+    # c "Aw, that sucks."
+    c "啊,真糟糕."
+
+# game/scripts/kali_events.rpy:235
+translate schinese kali_videocall_3683a57f:
+
+    # k "Well, I like it better than going into the office. But it is what it is..."
+    k "嗯,比起坐班,我更喜欢这样.但工作就是工作......"
+
+# game/scripts/kali_events.rpy:237
+translate schinese kali_videocall_3d4dea56:
+
+    # k "I love you! Byebye~"
+    k "我爱你!再见~"
+
+# game/scripts/kali_events.rpy:238
+translate schinese kali_videocall_969c2b30:
+
+    # c "I love you too."
+    c "我也爱你."
+
+# game/scripts/kali_events.rpy:246
+translate schinese kali_videocall_00884a84:
+
+    # k "Seriously? After all I just did you don't want to do anything?"
+    k "你认真的?我刚做了那么多,你却什么都不想做吗?"
+
+# game/scripts/kali_events.rpy:247
+translate schinese kali_videocall_9d6d3c32:
+
+    # k "Ugh, whatever."
+    k "呃,随你吧."
+
+# game/scripts/kali_events.rpy:249
+translate schinese kali_videocall_11875b7a:
+
+    # c "...She hung up."
+    c "......她挂断了电话."
+
+translate schinese strings:
+
+    # game/scripts/kali_events.rpy:112
+    old "I should get back to work..."
+    new "我得回去工作......"
+
+    # game/scripts/kali_events.rpy:168
+    old "I'd fuck your mouth."
+    new "我要操你的嘴."
+
+    # game/scripts/kali_events.rpy:168
+    old "Spread your legs and fuck your pussy."
+    new "掰开腿,我要操你的小穴."
+
+    # game/scripts/kali_events.rpy:168
+    old "Bend you over and fuck your ass."
+    new "趴下,我要操你的屁股."
+

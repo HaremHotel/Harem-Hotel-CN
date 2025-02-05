@@ -71,3 +71,11 @@ translate schinese patreon_1909018c:
 
     # r "Redsoul, mastergrind, Magyarfi, Archangel, CheeseMasta, Tale, Phoenix Fire, Commissar Senas, Draconia44, Oznek, Relod, Airstryker, Naildir, Ruddock96, skinnypeen, ck14500, Mayet, x4p4ck, Ryzano419, Rikenzu, Kosucha..."
     r "Redsoul, mastergrind, Magyarfi, Archangel, CheeseMasta, Tale, Phoenix Fire, Commissar Senas, Draconia44, Oznek, Relod, Airstryker, Naildir, Ruddock96, skinnypeen, ck14500, Mayet, x4p4ck, Ryzano419, Rikenzu, Kosucha..."
+# TODO: Translation updated at 2025-02-05 20:43
+
+# game/scripts/computer.rpy:165
+translate schinese patreon_f57702bf:
+
+    # r "Redsoul, mastergrind, Magyarfi, Archangel, CheeseMasta, Tale, Phoenix Fire, Commissar Senas, Draconia44, Oznek, Relod, Airstryker, Naildir, Ruddock96, skinnypeen, ck14500, Mayet, x4p4ck, Ryzano419, Rikenzu, Kosucha, DevinM21..."
+    r "Redsoul, mastergrind, Magyarfi, Archangel, CheeseMasta, Tale, Phoenix Fire, Commissar Senas, Draconia44, Oznek, Relod, Airstryker, Naildir, Ruddock96, skinnypeen, ck14500, Mayet, x4p4ck, Ryzano419, Rikenzu, Kosucha, DevinM21..."
+

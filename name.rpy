@@ -379,3 +379,12 @@ translate schinese strings:
 
     old "Mary"
     new "玛丽"
+
+    old "Sable"
+    new "瑟布尔"
+
+    old "CEO of VitaPharm"
+    new "维他制药公司的CEO"
+
+    old "Linda Vasquez"
+    new "琳达·瓦斯奎兹"
