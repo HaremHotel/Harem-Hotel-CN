@@ -15237,13 +15237,13 @@ translate schinese love_nia_5_880eb64c:
 translate schinese love_nia_5_507f816a:
 
     # nia "Seriously Jena?"
-    nia "耶拿,你真没说?"
+    nia "吉娜,你真没说?"
 
 # game/scripts/side_char_events.rpy:4185
 translate schinese love_nia_5_a26af6f1:
 
     # jena "Hey, you're Nia's new friend? My name is Jena, what's yours?"
-    jena "嘿,你是妮娅的新朋友?我叫耶拿,你叫什么?"
+    jena "嘿,你是妮娅的新朋友?我叫吉娜,你叫什么?"
 
 # game/scripts/side_char_events.rpy:4186
 translate schinese love_nia_5_f0cbdf92:
@@ -15285,7 +15285,7 @@ translate schinese love_nia_5_02f1f4b2:
 translate schinese love_nia_5_faae700a:
 
     # nia "Are you gonna get this thing fixed, Jena?"
-    nia "你能不能把这玩意修好,耶拿?"
+    nia "你能不能把这玩意修好,吉娜?"
 
 # game/scripts/side_char_events.rpy:4194
 translate schinese love_nia_5_143ec911:
@@ -15351,7 +15351,7 @@ translate schinese love_nia_5_cc4050ee:
 translate schinese love_nia_5_a4233f6e:
 
     # nia "Jena, did you forget why I came here?"
-    nia "耶拿,你忘记我来这里干什么的吗?"
+    nia "吉娜,你忘记我来这里干什么的吗?"
 
 # game/scripts/side_char_events.rpy:4208
 translate schinese love_nia_5_e0373f16:
@@ -16215,7 +16215,7 @@ translate schinese love_nia_5_b31ab076:
 translate schinese love_nia_5_526857a2:
 
     # nia "Jena...?"
-    nia "耶拿......?"
+    nia "吉娜......?"
 
 # game/scripts/side_char_events.rpy:4404
 translate schinese love_nia_5_0893689a:
@@ -16353,7 +16353,7 @@ translate schinese love_nia_5_0783e609:
 translate schinese love_nia_5_209609ab:
 
     # nia "Thanks Jena, but I don't need anything else at the moment. I'll give you a call when I do, though."
-    nia "谢谢你耶拿,但是我现在不需要别的东西了.不过我需要的时候我会叫你的."
+    nia "谢谢你吉娜,但是我现在不需要别的东西了.不过我需要的时候我会叫你的."
 
 # game/scripts/side_char_events.rpy:4437
 translate schinese love_nia_5_88007853:
@@ -17577,7 +17577,7 @@ translate schinese slave_nia_5_dc3c82d9:
 translate schinese slave_nia_5_99ddb63a:
 
     # c "Nia... The next grateful one you save, bring her {u}directly{/u} to me..."
-    c "纳尼亚......下次你救人的话,把她{u}直接{/u}带给我......"
+    c "妮娅......下次你救人的话,把她{u}直接{/u}带给我......"
 
 # game/scripts/side_char_events.rpy:4739
 translate schinese slave_nia_5_a3048288:
@@ -49435,2075 +49435,2075 @@ translate schinese jin_story6_efb732e3:
 translate schinese love_nia_7_12782065:
 
     # nia "...{w=1}\n...{w=1}\n..."
-    nia ""
+    nia "......{w=1}\n......{w=1}\n......"
 
 # game/scripts/side_char_events.rpy:5341
 translate schinese love_nia_7_12782065_1:
 
     # nia "...{w=1}\n...{w=1}\n..."
-    nia ""
+    nia "......{w=1}\n......{w=1}\n......"
 
 # game/scripts/side_char_events.rpy:5349
 translate schinese love_nia_7_e00fe3c8:
 
     # "{i}{size=-5}(No.... No...! NO!!!){/size}{/i}{w=2}{nw}"
-    ""
+    "{i}{size=-5}(不......不......!{b}不!!!{/b}){/size}{/i}{w=2}{nw}"
 
 # game/scripts/side_char_events.rpy:5352
 translate schinese love_nia_7_fdfeb92b:
 
     # "{fast}DAMN WHORE.{w=0.5}{nw}"
-    ""
+    "{fast}{b}该死的妓女.{/b}{w=0.5}{nw}"
 
 # game/scripts/side_char_events.rpy:5355
 translate schinese love_nia_7_fbf7f605:
 
     # "{fast}*BARK!* *BARK!*{w=0.5}{nw}"
-    ""
+    "{fast}{b}*汪!**汪!*{/b}{w=0.5}{nw}"
 
 # game/scripts/side_char_events.rpy:5358
 translate schinese love_nia_7_d36b0091:
 
     # "{fast}No...! No!{w=0.5}{nw}"
-    ""
+    "{fast}不......!不!{w=0.5}{nw}"
 
 # game/scripts/side_char_events.rpy:5361
 translate schinese love_nia_7_5508e3ba:
 
     # "{fast}*Grrrrrrr...!*\n{w=0.3}Please...!{w=0.5}{nw}"
-    ""
+    "{fast}*呃......!*\n{w=0.3}求你了......!{w=0.5}{nw}"
 
 # game/scripts/side_char_events.rpy:5364
 translate schinese love_nia_7_5d7afa4d:
 
     # "{fast}NOOOOO!!!{w=0.5}{nw}"
-    ""
+    "{fast}{b}不!!!{/b}{w=0.5}{nw}"
 
 # game/scripts/side_char_events.rpy:5367
 translate schinese love_nia_7_1421065e:
 
     # "{fast}*BARK!* *BARK!* *BARK!*{w=0.25}{nw}"
-    ""
+    "{fast}{b}*汪!**汪!**汪!*{w=0.25}{nw}"
 
 # game/scripts/side_char_events.rpy:5370
 translate schinese love_nia_7_2c05884c:
 
     # "{fast}FUCKING BITCH!{w=0.25}{nw}"
-    ""
+    "{fast}{b}他妈的贱人!{/b}{w=0.25}{nw}"
 
 # game/scripts/side_char_events.rpy:5373
 translate schinese love_nia_7_1421065e_1:
 
     # "{fast}*BARK!* *BARK!* *BARK!*{w=0.25}{nw}"
-    ""
+    "{fast}{b}*汪!**汪!**汪!*{/b}{w=0.25}{nw}"
 
 # game/scripts/side_char_events.rpy:5376
 translate schinese love_nia_7_0ecffa98:
 
     # "{fast}MOMMYYYYYYYY!!!!!!!{w=1}{nw}" with sshake
-    "" with sshake
+    "{fast}{b}妈妈!!!!!!!{/b}{w=1}{nw}" with sshake
 
 # game/scripts/side_char_events.rpy:5397
 translate schinese love_nia_7_1190d824:
 
     # nia "...{w=0.5}...{w=0.5}...{w=0.5}\n*inhale*{w=1}\n...{w=0.5}...{w=0.5}...{w=1}\n*exhale*"
-    nia ""
+    nia "......{w=0.5}......{w=0.5}......{w=0.5}\n*深吸气*{w=1}\n......{w=0.5}......{w=0.5}......{w=1}\n*深呼气*"
 
 # game/scripts/side_char_events.rpy:5399
 translate schinese love_nia_7_033c4a97:
 
     # ghen "*snore..."
-    ghen ""
+    ghen "*打呼噜*......"
 
 # game/scripts/side_char_events.rpy:5400
 translate schinese love_nia_7_cdbedb77:
 
     # news "{i}{size=-5}Breaking News: GDP reaches record heights.{/size}{/i}"
-    news ""
+    news "{i}{size=-5}突发新闻:国内生产总值创历史新高.{/size}{/i}"
 
 # game/scripts/side_char_events.rpy:5401
 translate schinese love_nia_7_8bf2575a:
 
     # ghen "*snore*..."
-    ghen ""
+    ghen "*打呼噜*......"
 
 # game/scripts/side_char_events.rpy:5403
 translate schinese love_nia_7_62136201:
 
     # jena "*yawwwwwn*{w=0.5}\nMmmn..."
-    jena ""
+    jena "*打哈欠*{w=0.5}\n嗯......"
 
 # game/scripts/side_char_events.rpy:5405
 translate schinese love_nia_7_778629ae:
 
     # jena "Oh, hey Nia! When did you get here?"
-    jena ""
+    jena "哦,嘿,妮娅!你什么时候来的?"
 
 # game/scripts/side_char_events.rpy:5406
 translate schinese love_nia_7_b4b34e30:
 
     # nia "Last night."
-    nia ""
+    nia "昨晚."
 
 # game/scripts/side_char_events.rpy:5408
 translate schinese love_nia_7_edea7194:
 
     # jena "Um, did something happen?"
-    jena ""
+    jena "呃,发生什么事了吗?"
 
 # game/scripts/side_char_events.rpy:5409
 translate schinese love_nia_7_8937faf8:
 
     # nia "Not yet."
-    nia ""
+    nia "还没."
 
 # game/scripts/side_char_events.rpy:5410
 translate schinese love_nia_7_29278cf2:
 
     # jena "Ohhh, you're here to meet her, aren't you?"
-    jena ""
+    jena "哦,你是来见她的,对吧?"
 
 # game/scripts/side_char_events.rpy:5411
 translate schinese love_nia_7_a88d9cdf:
 
     # nia "Hm? Who?"
-    nia ""
+    nia "嗯?谁?"
 
 # game/scripts/side_char_events.rpy:5412
 translate schinese love_nia_7_aa10e9f6:
 
     # jena "Sable!\n...I told you last week, remember?"
-    jena ""
+    jena "瑟布尔!\n......我上周才跟你说的,记得吗?"
 
 # game/scripts/side_char_events.rpy:5413
 translate schinese love_nia_7_18101c2f:
 
     # nia "Oh, right."
-    nia ""
+    nia "哦,对."
 
 # game/scripts/side_char_events.rpy:5415
 translate schinese love_nia_7_ab5c3171:
 
     # jena "Hey, are you sure you're okay?"
-    jena ""
+    jena "嘿,你确定你没事吗?"
 
 # game/scripts/side_char_events.rpy:5416
 translate schinese love_nia_7_ce24eb44:
 
     # nia "...I just don't think we're doing enough."
-    nia ""
+    nia "......我只是觉得我们做的还不够."
 
 # game/scripts/side_char_events.rpy:5417
 translate schinese love_nia_7_7c132fb6:
 
     # jena "Hey, hey, I get it! We all want to make a difference. It just takes time, you know?"
-    jena ""
+    jena "嘿,嘿,我知道!我们都想有所作为.只是这需要时间,你明白吧?"
 
 # game/scripts/side_char_events.rpy:5419
 translate schinese love_nia_7_0e5a1a31:
 
     # nia "THREE HUNDRED YEARS!" with ssshake
-    nia "" with ssshake
+    nia "{b}三百年了!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:5420
 translate schinese love_nia_7_855fbb84:
 
     # jena "Eh?"
-    jena ""
+    jena "呃?"
 
 # game/scripts/side_char_events.rpy:5421
 translate schinese love_nia_7_b3f785ff:
 
     # nia "IT'S BEEN THREE HUNDRED YEARS, JENA! How much more time do we need!?"
-    nia ""
+    nia "{b}已经三百年了,吉娜!{/b}我们还需要多少时间!?"
 
 # game/scripts/side_char_events.rpy:5423
 translate schinese love_nia_7_443e07f9:
 
     # jena "..."
-    jena ""
+    jena "......"
 
 # game/scripts/side_char_events.rpy:5424
 translate schinese love_nia_7_7ab69af7:
 
     # nia "*sigh*...\n{w=0.5}...{w=0.5}\n...I'm sorry."
-    nia ""
+    nia "*叹气*......\n{w=0.5}......{w=0.5}\n......对不起."
 
 # game/scripts/side_char_events.rpy:5426
 translate schinese love_nia_7_6c003d27:
 
     # nia "I've been stopping masters and saving elves for decades. Nothing has changed! There will always be masters, and there will always be slaves..."
-    nia ""
+    nia "几十年来,我一直在阻止奴隶主,拯救精灵.可是一切都没变!奴隶主永远存在,奴隶耶永远存在......"
 
 # game/scripts/side_char_events.rpy:5427
 translate schinese love_nia_7_e3f986ef:
 
     # nia "I'm fucking sick of it! It's a never-ending cycle that just keeps repeating."
-    nia ""
+    nia "我他妈受够了!这是一个永无休止的循环."
 
 # game/scripts/side_char_events.rpy:5428
 translate schinese love_nia_7_101f3f32:
 
     # jena "But, we do good, Nia! We've saved a lot of elves."
-    jena ""
+    jena "但是,我们做了好事,妮娅!我们救了很多精灵."
 
 # game/scripts/side_char_events.rpy:5429
 translate schinese love_nia_7_75cb0d8d:
 
     # nia "It's not enough! I could do this for a million years and it would still not be enough!"
-    nia ""
+    nia "还不够!我可以继续做一百万年,但是还是不够!"
 
 # game/scripts/side_char_events.rpy:5431
 translate schinese love_nia_7_1e0c2144:
 
     # nia "We need to make a bigger difference! We need bigger targets! We need more people!"
-    nia ""
+    nia "我们需要做出更大的改变!我们需要更大的目标!我们需要更多的人!"
 
 # game/scripts/side_char_events.rpy:5432
 translate schinese love_nia_7_0c42d439:
 
     # jena "Um, Nia..."
-    jena ""
+    jena "呃,妮娅......"
 
 # game/scripts/side_char_events.rpy:5434
 translate schinese love_nia_7_ba45294c:
 
     # nia "What!?\n{w=1}Huh...?"
-    nia ""
+    nia "什么!?\n{w=1}嗯......?"
 
 # game/scripts/side_char_events.rpy:5436
 translate schinese love_nia_7_5dc2c50a:
 
     # nia "Oh. Hi Sable."
-    nia ""
+    nia "哦,你好,瑟布尔."
 
 # game/scripts/side_char_events.rpy:5437
 translate schinese love_nia_7_dd780f1d:
 
     # sable "Is this a bad time?"
-    sable ""
+    sable "我来的不是时候吗?"
 
 # game/scripts/side_char_events.rpy:5438
 translate schinese love_nia_7_6c09a9f5:
 
     # nia "As good as any."
-    nia ""
+    nia "你来的正是时候."
 
 # game/scripts/side_char_events.rpy:5440
 translate schinese love_nia_7_835cf8b9:
 
     # jena "Welcome back, Sable!"
-    jena ""
+    jena "欢迎回来,瑟布尔!"
 
 # game/scripts/side_char_events.rpy:5441
 translate schinese love_nia_7_54d88d3d:
 
     # sable "Some tea, please? Black."
-    sable ""
+    sable "来点茶,请?红茶."
 
 # game/scripts/side_char_events.rpy:5442
 translate schinese love_nia_7_49ad8811:
 
     # jena "Sure! Be right back."
-    jena ""
+    jena "当然可以!马上回来."
 
 # game/scripts/side_char_events.rpy:5444
 translate schinese love_nia_7_46b15f8e:
 
     # sable "*sigh*...\nLowtown is starting to look like actual city these days. Are you sure you're still safe here?"
-    sable ""
+    sable "*叹气*......\n低地镇现在越来越像是个真正的城市了.你确定你在这里还安全吗>"
 
 # game/scripts/side_char_events.rpy:5445
 translate schinese love_nia_7_1a30cdd9:
 
     # nia "Nobody finds this place by accident."
-    nia ""
+    nia "没人会无意发现这里的."
 
 # game/scripts/side_char_events.rpy:5446
 translate schinese love_nia_7_6542a957:
 
     # sable "Yet.\n...Take a seat, Nia."
-    sable ""
+    sable "还没有罢了.\n......坐吧,妮娅."
 
 # game/scripts/side_char_events.rpy:5447
 translate schinese love_nia_7_1a2aaf70:
 
     # nia "I'm fine."
-    nia ""
+    nia "我没事."
 
 # game/scripts/side_char_events.rpy:5448
 translate schinese love_nia_7_2605dfdd:
 
     # sable "Nia, take the god damn seat."
-    sable ""
+    sable "妮娅,他妈地坐下."
 
 # game/scripts/side_char_events.rpy:5449
 translate schinese love_nia_7_60016604:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5451
 translate schinese love_nia_7_60016604_1:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5452
 translate schinese love_nia_7_f2b89cf1:
 
     # sable "You can wear a mask all day and night, but at some point you have to take it off."
-    sable ""
+    sable "你可以整天戴着你的面具,但总有一天你必须摘下它."
 
 # game/scripts/side_char_events.rpy:5453
 translate schinese love_nia_7_1dc7e314:
 
     # sable "What's wrong?"
-    sable ""
+    sable "怎么了?"
 
 # game/scripts/side_char_events.rpy:5454
 translate schinese love_nia_7_a0afeb78:
 
     # nia "...Nothing is getting better. Things are getting worse, actually..."
-    nia ""
+    nia "......一切都没有好转.实际上,情况变得越来越糟了......"
 
 # game/scripts/side_char_events.rpy:5455
 translate schinese love_nia_7_27a3203e:
 
     # sable "What did you expect? Killing masters and relocating slaves isn't going to change the world."
-    sable ""
+    sable "你还指望什么?杀死奴隶主,重新安置奴隶并不能改变世界."
 
 # game/scripts/side_char_events.rpy:5456
 translate schinese love_nia_7_60016604_2:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5457
 translate schinese love_nia_7_a8a19e63:
 
     # sable "The one you're really after can't bleed, because it isn't alive. You would have to kill everyone to change the system."
-    sable ""
+    sable "你真正想找的那个人不会流血,因为它根本就不是活的.你必须杀光所有人,才能改变这个系统."
 
 # game/scripts/side_char_events.rpy:5458
 translate schinese love_nia_7_8dec51ad:
 
     # sable "Is that what you want?"
-    sable ""
+    sable "这就是你想要的吗?"
 
 # game/scripts/side_char_events.rpy:5459
 translate schinese love_nia_7_866469b9:
 
     # nia "...No. I want to change their minds. But it's not possible."
-    nia ""
+    nia "......不.我想要改变他们的想法,但是这不可能."
 
 # game/scripts/side_char_events.rpy:5461
 translate schinese love_nia_7_fec4c442:
 
     # sable "You're right. The human mind is often a stubborn one. They rarely live long enough to see change. That's where we have an upper hand."
-    sable ""
+    sable "你说得对,人类的思想往往很顽固.他们通常活不长,看不到未来的改变,而这正是我们的优势所在."
 
 # game/scripts/side_char_events.rpy:5462
 translate schinese love_nia_7_f2baf4ee:
 
     # sable "You do plan on living long enough to see that change, don't you?"
-    sable ""
+    sable "你打算活到看到那种改变发生,是吗?"
 
 # game/scripts/side_char_events.rpy:5463
 translate schinese love_nia_7_60016604_3:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5465
 translate schinese love_nia_7_28dbda5a:
 
     # sable "Nia, the system may not bleed, but those who control it do."
-    sable ""
+    sable "妮娅,系统或许不会流血,但控制它的人会."
 
 # game/scripts/side_char_events.rpy:5466
 translate schinese love_nia_7_b42ed328:
 
     # sable "You're taking your anger out on those who live within the system. Those same people who would be completely different had they been born in another system."
-    sable ""
+    sable "你把怒火发泄到了那些生活在系统内的人身上.同样是这些人,如果他们出生在另一种制度下,情况就会完全不同."
 
 # game/scripts/side_char_events.rpy:5467
 translate schinese love_nia_7_a4a420c9:
 
     # sable "When I took you under my wing, I saw a deeply disturbed child who needed an outlet. I wished for you to harness your anger and turn it into a force for good. I did not wish to create a killing machine."
-    sable ""
+    sable "当我将你收归门下时,我看到的是一个极度不安,需要宣泄的孩子.我希望你能驾驭自己的愤怒,将其转化为一股善的力量.我从未想过要制造出一个杀戮机器."
 
 # game/scripts/side_char_events.rpy:5468
 translate schinese love_nia_7_c3ca5834:
 
     # nia "I only kill when I have to. I don't enjoy it."
-    nia ""
+    nia "我只杀我得杀的人.我并不享受杀戮."
 
 # game/scripts/side_char_events.rpy:5469
 translate schinese love_nia_7_12fe808d:
 
     # sable "But who have you killed? Sure, they're not innocent, I get that. But they're products of a broken system. They're victims too."
-    sable ""
+    sable "但你都杀了谁呢?当然,我也明白,他们并不无辜.但他们是这个腐朽制度的产物,他们也是受害者."
 
 # game/scripts/side_char_events.rpy:5471
 translate schinese love_nia_7_dfa58247:
 
     # nia "SLAVERS are victims? RAPISTS are victims? CHILD TRAFFICKERS!? Fucking bullshit!" with ssshake
-    nia "" with ssshake
+    nia "{b}奴隶主{/b}是受害者?{b}强奸犯{/b}是受害者?{b}人贩子{/b}呢!?真他妈扯淡!" with ssshake
 
 # game/scripts/side_char_events.rpy:5472
 translate schinese love_nia_7_e5707e24:
 
     # sable "And they deserve everything you gave them, Nia. I'm not saying they don't... I'm saying in a better world, they wouldn't even have those opportunities. They could have been decent people if things were different."
-    sable ""
+    sable "妮娅,你对他们的所作所为都是他们应得的.我并没有反对你......我的意思是,在一个更好的世界里,他们甚至都不会有做这种事情的机会.如果情况不同,他们本可以成为正直的人."
 
 # game/scripts/side_char_events.rpy:5474
 translate schinese love_nia_7_ad3dd635:
 
     # sable "But do you count murderers on that list? Some of us are victims of our own desires and past traumas. I'm sure you know about that well."
-    sable ""
+    sable "但杀人犯算不算在你的名单上呢?我们中有些人是自己欲望和过去创伤的受害者.我相信你很清楚这一点."
 
 # game/scripts/side_char_events.rpy:5475
 translate schinese love_nia_7_375e39ef:
 
     # nia "As the daughter of the pirate queen, I would have thought you would understand."
-    nia ""
+    nia "作为海盗女王的女儿,我以为你会理解我."
 
 # game/scripts/side_char_events.rpy:5476
 translate schinese love_nia_7_18efb73d:
 
     # sable "But I do understand, and I think we both agree. You aren't accomplishing what you set out to do. You're not fulfilled in your work."
-    sable ""
+    sable "但我理解,而且我们都同意.你没有完成你的目标,你对你的工作没有成就感."
 
 # game/scripts/side_char_events.rpy:5477
 translate schinese love_nia_7_1e48c4a3:
 
     # nia "...Why are you here, Sable?"
-    nia ""
+    nia "......你来这里做什么,瑟布尔?"
 
 # game/scripts/side_char_events.rpy:5478
 translate schinese love_nia_7_a759ba6c:
 
     # sable "To help you change the world."
-    sable ""
+    sable "帮你改变世界."
 
 # game/scripts/side_char_events.rpy:5480
 translate schinese love_nia_7_651f5346:
 
     # jena "Here you go."
-    jena ""
+    jena "给你."
 
 # game/scripts/side_char_events.rpy:5481
 translate schinese love_nia_7_e1d254b4:
 
     # sable "Oh, thank you, Jena."
-    sable ""
+    sable "哦,谢谢你,吉娜."
 
 # game/scripts/side_char_events.rpy:5483
 translate schinese love_nia_7_9f9a7c33:
 
     # nia "What do you know?"
-    nia ""
+    nia "你都知道些什么?"
 
 # game/scripts/side_char_events.rpy:5484
 translate schinese love_nia_7_ef6610d5:
 
     # sable "It's not your typical line of work."
-    sable ""
+    sable "这和你一般的工作不一样."
 
 # game/scripts/side_char_events.rpy:5485
 translate schinese love_nia_7_3fcea0ab:
 
     # nia "Tell me."
-    nia ""
+    nia "告诉我."
 
 # game/scripts/side_char_events.rpy:5486
 translate schinese love_nia_7_76cc04d4:
 
     # sable "VitaPharm is losing their patent on the blood pressure medication they developed one hundred years ago. Last week, their CEO decided to increase the cost by thirteen times. Naturally, this will lead to a lot of people dying."
-    sable ""
+    sable "维他制药公司一百年前开发的降压药的专利权即将过期.上周,他们的首席执行官决定将价格提高13倍,这当然会导致很多人的死亡."
 
 # game/scripts/side_char_events.rpy:5487
 translate schinese love_nia_7_9ee457ba:
 
     # nia "What do I care? This is a human issue. That's more of your line of work."
-    nia ""
+    nia "我为什么要关心这个?这是人类的问题,更像是你的工作."
 
 # game/scripts/side_char_events.rpy:5488
 translate schinese love_nia_7_79fd65ff:
 
     # sable "Nia... It's just as I told you, we all suffer under this system. Humans are not our enemy, the system is."
-    sable ""
+    sable "妮娅......就像我跟你说的.我们都在这个系统下受苦受难.人类不是我们的敌人,制度才是."
 
 # game/scripts/side_char_events.rpy:5490
 translate schinese love_nia_7_dd087143:
 
     # nia "When was the last time you heard of an elf with high blood pressure? Only old and fat masters will die."
-    nia ""
+    nia "你上次听说精灵得高血压是什么时候?只有又老又胖的奴隶主才会死."
 
 # game/scripts/side_char_events.rpy:5491
 translate schinese love_nia_7_058a6d6e:
 
     # sable "As well as children, and anyone unlucky enough to be born with a bad kidney or narrow arteries. Hundreds of thousands of elves and humans will suffer and die over the next decade simply because they can't afford the new price."
-    sable ""
+    sable "还有儿童,以及那些有先天肾脏疾病或者动脉狭窄的可怜人.在未来十年里,成千上万的精灵和人类就会仅仅因为负担不起新价格而遭受痛苦和死亡."
 
 # game/scripts/side_char_events.rpy:5492
 translate schinese love_nia_7_825adfc5:
 
     # nia "Why do you know so much about this?"
-    nia ""
+    nia "为什么你这么了解?"
 
 # game/scripts/side_char_events.rpy:5493
 translate schinese love_nia_7_664f2c61:
 
     # sable "I've done my research Nia, I always do."
-    sable ""
+    sable "我做过调查,妮娅,我一直在做."
 
 # game/scripts/side_char_events.rpy:5495
 translate schinese love_nia_7_bba7ef02:
 
     # sable "Greed is what creates slavery. I see no difference between the two. Humans and elves die to it all the same."
-    sable ""
+    sable "贪婪造就了奴役.在我看来,两者之间没有区别.人类和精灵都将因此而亡."
 
 # game/scripts/side_char_events.rpy:5496
 translate schinese love_nia_7_924bbf27:
 
     # nia "...Okay, but when are they losing the patent? Other companies will start producing them at cheaper prices."
-    nia ""
+    nia "......好吧,但他们什么时候会失去专利权?其他公司可以以更低的价格进行生产."
 
 # game/scripts/side_char_events.rpy:5497
 translate schinese love_nia_7_7271a11f:
 
     # sable "That's the issue, Nia. They've applied for a 10 year extension on their patent, and they're a monopoly over many vital pharmacuticals in Syl'anar. They're going to get their patent extention and the CEO will be directly responsible for the deaths of hundreds of thousands."
-    sable ""
+    sable "这就是问题所在,妮娅.他们已经申请了10年的专利延期,垄断了西尔阿纳尔许多重要的药物.而且他们也会获得专利延期的,首席执行官将对数十万人的死亡负直接责任."
 
 # game/scripts/side_char_events.rpy:5499
 translate schinese love_nia_7_e6731a63:
 
     # sable "...Unless he misses his court date."
-    sable ""
+    sable "......除非他错过了开庭日期."
 
 # game/scripts/side_char_events.rpy:5500
 translate schinese love_nia_7_e1864899:
 
     # nia "You want him dead."
-    nia ""
+    nia "你想让他死."
 
 # game/scripts/side_char_events.rpy:5502
 translate schinese love_nia_7_796baaef:
 
     # sable "I want there to be no patents on life saving medication... but yes, his absence would save lives."
-    sable ""
+    sable "我想要的是废除这些救命药物的专利权......但是没错,他的缺席可以拯救生命."
 
 # game/scripts/side_char_events.rpy:5503
 translate schinese love_nia_7_d390202c:
 
     # nia "Are you sure the only thing that will stop this is if he misses the court date?"
-    nia ""
+    nia "你确定唯一能阻止这一切的方法就是让他错过开庭日期吗?"
 
 # game/scripts/side_char_events.rpy:5505
 translate schinese love_nia_7_0870a56c:
 
     # sable "That's how it works in Syl'anar. He'll argue his case, and the judge will likely agree. And if he misses it this time, he'll just set a new date. That's why he needs to be stopped, permanently."
-    sable ""
+    sable "在西尔阿纳尔就是这样.他会据理力争,法官很可能会同意.即使他这次错过了,他也会重新顶一个日期,所以,他需要被永久地阻止."
 
 # game/scripts/side_char_events.rpy:5506
 translate schinese love_nia_7_4cc9b992:
 
     # nia "What about the new CEO? He'll just plead in his place."
-    nia ""
+    nia "那新的首席执行官呢?他也会为自己辩护的."
 
 # game/scripts/side_char_events.rpy:5507
 translate schinese love_nia_7_3e3f22a4:
 
     # sable "Not if we send a message."
-    sable ""
+    sable "如果我们给他释放这样的信号,那就不会."
 
 # game/scripts/side_char_events.rpy:5508
 translate schinese love_nia_7_60016604_4:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5509
 translate schinese love_nia_7_f3da9265:
 
     # nia "...It could work."
-    nia ""
+    nia "......可能行得通."
 
 # game/scripts/side_char_events.rpy:5511
 translate schinese love_nia_7_a9bfa505:
 
     # sable "I'm happy to know you take this seriously. Taking someone's life shouldn't be considered lightly."
-    sable ""
+    sable "我很高兴知道你在认真对待此事,我们不应该轻率地剥夺别人的生命."
 
 # game/scripts/side_char_events.rpy:5512
 translate schinese love_nia_7_763433f6:
 
     # sable "Besides that, you would be doing humans a service for once. I'm sure you would have their eternal gratitude."
-    sable ""
+    sable "除此之外,你还能帮人类一次,我相信他们会永远感激你的."
 
 # game/scripts/side_char_events.rpy:5514
 translate schinese love_nia_7_7344f86b:
 
     # nia "I'll need time to prepare. Jena, can you be my eyes?"
-    nia ""
+    nia "我需要时间准备.吉娜,你可以当我的眼吗?"
 
 # game/scripts/side_char_events.rpy:5515
 translate schinese love_nia_7_8c895842:
 
     # jena "Ready!"
-    jena ""
+    jena "随时准备!"
 
 # game/scripts/side_char_events.rpy:5516
 translate schinese love_nia_7_8476aa5f:
 
     # sable "No, we'll be going right now."
-    sable ""
+    sable "不,我们现在就走."
 
 # game/scripts/side_char_events.rpy:5518
 translate schinese love_nia_7_4ee0c56b:
 
     # nia "Now? We? You're coming?"
-    nia ""
+    nia "现在?我们?你也要去?"
 
 # game/scripts/side_char_events.rpy:5519
 translate schinese love_nia_7_6f4e6861:
 
     # sable "Of course. This was my job, I only wanted to ask for your help. I came all the way down from Syl'tin for this guy. I'm not going to let you have all the fun."
-    sable ""
+    sable "当然了.这是我的工作,我只是想请你帮个忙.我大老远从西尔町赶过来就是为了这家伙,我可不会让你独自享乐."
 
 # game/scripts/side_char_events.rpy:5520
 translate schinese love_nia_7_bff0f496:
 
     # nia "He's here? In Corpus? What do you know?"
-    nia ""
+    nia "他在这?在科普斯市?你还知道什么?"
 
 # game/scripts/side_char_events.rpy:5522
 translate schinese love_nia_7_f9bcecf6:
 
     # sable "I know where he works, and I know where he lives. All we need to do is find him when he leaves."
-    sable ""
+    sable "我知道他在哪工作,也知道他住在哪里.我们要做的就是在他离开时找到他."
 
 # game/scripts/side_char_events.rpy:5523
 translate schinese love_nia_7_343508b2:
 
     # nia "...{w}...{w}..."
-    nia ""
+    nia "......{w}......{w}......"
 
 # game/scripts/side_char_events.rpy:5525
 translate schinese love_nia_7_3d770a34:
 
     # nia "Let's do it."
-    nia ""
+    nia "我们开干吧."
 
 # game/scripts/side_char_events.rpy:5526
 translate schinese love_nia_7_60d48ee8:
 
     # jena "Alright~!"
-    jena ""
+    jena "好的~!"
 
 # game/scripts/side_char_events.rpy:5534
 translate schinese love_nia_7_cbc6d1eb:
 
     # sable "I wasn't expecting you to be on board with this, to be honest with you."
-    sable ""
+    sable "说实话,我没想到你会同意."
 
 # game/scripts/side_char_events.rpy:5535
 translate schinese love_nia_7_2585ceb5:
 
     # nia "No, you were right Sable. I couldn't see the forest for the trees. There's a bigger picture here, and it starts with guys like this."
-    nia ""
+    nia "不,你是对的,瑟布尔,是我只见树木不见森林了.现在我看到了更大的图景,而这份图景是从他那样的家伙开始了."
 
 # game/scripts/side_char_events.rpy:5536
 translate schinese love_nia_7_6c483efd:
 
     # sable "Greed is our enemy, and he has many heads."
-    sable ""
+    sable "我们的敌人是贪婪,而他可不止一个头."
 
 # game/scripts/side_char_events.rpy:5538
 translate schinese love_nia_7_686391c0:
 
     # rasha "Oh! Ey, EYY! Nia!"
-    rasha ""
+    rasha "哦!欸,{b}欸!{/b}妮娅!"
 
 # game/scripts/side_char_events.rpy:5539
 translate schinese love_nia_7_ede4c1fc:
 
     # sable "Is he a friend of yours?"
-    sable ""
+    sable "他是你的朋友吗?"
 
 # game/scripts/side_char_events.rpy:5540
 translate schinese love_nia_7_b57d5277:
 
     # nia "Just ignore him."
-    nia ""
+    nia "别理他."
 
 # game/scripts/side_char_events.rpy:5542
 translate schinese love_nia_7_8954e5af:
 
     # rasha "Nia, a moment of ya time please?"
-    rasha ""
+    rasha "妮娅,能占用你一点时间吗?"
 
 # game/scripts/side_char_events.rpy:5543
 translate schinese love_nia_7_34306566:
 
     # nia "I'm busy, Rasha."
-    nia ""
+    nia "拉沙,我很忙."
 
 # game/scripts/side_char_events.rpy:5544
 translate schinese love_nia_7_f183a764:
 
     # rasha "Nia, please! We be very low on toilet paper! VERY LOW! Ya know how bad de smell will be if we run out of toilet paper!?"
-    rasha ""
+    rasha "妮娅,求你了!我们的厕纸不多了!真的{b}非常少{/b}了!你知道如果厕纸用完了,气味会有多难闻吗!?"
 
 # game/scripts/side_char_events.rpy:5545
 translate schinese love_nia_7_50971417:
 
     # rasha "The citizens of lowtown need ye to be the hero ya were always destined to be, Nia!!"
-    rasha ""
+    rasha "低地镇的居民需要你成为命中注定的英雄,妮娅!"
 
 # game/scripts/side_char_events.rpy:5546
 translate schinese love_nia_7_e91f575d:
 
     # rasha "Come on! Don't ye forget 'bout the discount now! We have a deal!"
-    rasha ""
+    rasha "拜托了!别忘了折扣!我们可是有交易的!"
 
 # game/scripts/side_char_events.rpy:5548
 translate schinese love_nia_7_e9ee3585:
 
     # nia "*sigh* no promises. I'll see what I can do."
-    nia ""
+    nia "*叹气*我不保证.我会看看我能做些什么的."
 
 # game/scripts/side_char_events.rpy:5549
 translate schinese love_nia_7_e04d92bf:
 
     # rasha "Thank you! Thank you!"
-    rasha ""
+    rasha "谢谢你!谢谢你!"
 
 # game/scripts/side_char_events.rpy:5550
 translate schinese love_nia_7_89494c33:
 
     # sable "A hero, huh?"
-    sable ""
+    sable "英雄,嗯?"
 
 # game/scripts/side_char_events.rpy:5551
 translate schinese love_nia_7_f2503c47:
 
     # nia "He knows how to kiss an ass when he needs to."
-    nia ""
+    nia "他知道如何在必要的时候拍马屁."
 
 # game/scripts/side_char_events.rpy:5553
 translate schinese love_nia_7_68e0119c:
 
     # nia "So what's the plan?"
-    nia ""
+    nia "所以计划是什么?"
 
 # game/scripts/side_char_events.rpy:5554
 translate schinese love_nia_7_c7d98215:
 
     # sable "We'll find his house and wait until he gets home."
-    sable ""
+    sable "我们找到他的房子,等他回家."
 
 # game/scripts/side_char_events.rpy:5555
 translate schinese love_nia_7_276103af:
 
     # nia "It's that easy, really?"
-    nia ""
+    nia "就这么容易?"
 
 # game/scripts/side_char_events.rpy:5556
 translate schinese love_nia_7_aec90e4f:
 
     # sable "Our intel tells us that he's only guarded while working, and protected by his androids inside his house. So our only chance to stop him is before or after work."
-    sable ""
+    sable "我们的情报显示,他只有在工作时才有人看守,而他的房子里有智能机器人的保护.所以我们只有在他上下班时才能阻止他."
 
 # game/scripts/side_char_events.rpy:5557
 translate schinese love_nia_7_65eb4f6e:
 
     # sable "We need to hurry. He gets off work in an hour, so we have a chance right now."
-    sable ""
+    sable "我们得抓紧时间,他还有一小时后就下班了,所以我们现在还有机会."
 
 # game/scripts/side_char_events.rpy:5558
 translate schinese love_nia_7_1c472d9e:
 
     # nia "In that case... follow me."
-    nia ""
+    nia "这样的话......跟我来."
 
 # game/scripts/side_char_events.rpy:5563
 translate schinese love_nia_7_73852967:
 
     # sable "...Wow. That's nice. Where'd you get this?"
-    sable ""
+    sable "......哇哦,太棒了.你从哪弄来的?"
 
 # game/scripts/side_char_events.rpy:5564
 translate schinese love_nia_7_b9357a41:
 
     # nia "...Well, he never had a chance to sell it.\nI've had her for a few years now. She should fit two."
-    nia ""
+    nia "......嗯,他没机会卖掉它.\n我已经拥有她好几年了,应该能载两个人."
 
 # game/scripts/side_char_events.rpy:5565
 translate schinese love_nia_7_ca1cb353:
 
     # sable "Fun~"
-    sable ""
+    sable "有趣~"
 
 # game/scripts/side_char_events.rpy:5573
 translate schinese love_nia_7_93e49738:
 
     # sable "...Are you sure we're not being followed?"
-    sable ""
+    sable "......你确定我们不会被跟踪吗?"
 
 # game/scripts/side_char_events.rpy:5574
 translate schinese love_nia_7_09a26787:
 
     # nia "I'm sure."
-    nia ""
+    nia "我确定."
 
 # game/scripts/side_char_events.rpy:5575
 translate schinese love_nia_7_36404a1f:
 
     # sable "And are you sure this is safe?"
-    sable ""
+    sable "你确定这安全吗?"
 
 # game/scripts/side_char_events.rpy:5576
 translate schinese love_nia_7_a3cc9fdb:
 
     # nia "You've never been on a motorcycle?"
-    nia ""
+    nia "你没坐过摩托车?"
 
 # game/scripts/side_char_events.rpy:5579
 translate schinese love_nia_7_a56d3ede:
 
     # sable "It's not that. We're exposed. Anyone could see that I'm an elf."
-    sable ""
+    sable "不是,我是说我们是暴露在外的,谁都看得出我们是精灵."
 
 # game/scripts/side_char_events.rpy:5580
 translate schinese love_nia_7_85d77621:
 
     # nia "That's why you should wear contacts, Sable. Nobody has ever bothered me."
-    nia ""
+    nia "这就是为什么你需要戴隐形眼镜,瑟布尔.从来就没有人打扰过我."
 
 # game/scripts/side_char_events.rpy:5581
 translate schinese love_nia_7_de5d9c48:
 
     # sable "I prefer they know exactly what I am~"
-    sable ""
+    sable "我更希望他们能清楚地知道我是谁~"
 
 # game/scripts/side_char_events.rpy:5582
 translate schinese love_nia_7_98d036fd:
 
     # nia "You reap what you sow."
-    nia ""
+    nia "种瓜得瓜."
 
 # game/scripts/side_char_events.rpy:5583
 translate schinese love_nia_7_db8f58a1:
 
     # sable "Hmm? I wonder who taught you that one..."
-    sable ""
+    sable "嗯?谁教你的......"
 
 # game/scripts/side_char_events.rpy:5586
 translate schinese love_nia_7_41fd7898:
 
     # sable "This is the place."
-    sable ""
+    sable "就是这里了."
 
 # game/scripts/side_char_events.rpy:5587
 translate schinese love_nia_7_34c35b8a:
 
     # nia "No car. We made it. \nLet's see if he left any windows open..."
-    nia ""
+    nia "没有车,我们成功了.\n看看他有没有开窗......"
 
 # game/scripts/side_char_events.rpy:5588
 translate schinese love_nia_7_fe10f85b:
 
     # sable "No, he has a family. The lights are on. Someone is home."
-    sable ""
+    sable "不,他有家人.灯还开着呢,有人在家."
 
 # game/scripts/side_char_events.rpy:5589
 translate schinese love_nia_7_a0864d37:
 
     # nia "What? You didn't tell me that."
-    nia ""
+    nia "什么?你没告诉我这件事."
 
 # game/scripts/side_char_events.rpy:5590
 translate schinese love_nia_7_9ae852e9:
 
     # sable "We'll climb this tree and wait. Come on."
-    sable ""
+    sable "我们爬到这棵树上等,来吧."
 
 # game/scripts/side_char_events.rpy:5593
 translate schinese love_nia_7_7a4c3978:
 
     # nia "His wife is home. Good call."
-    nia ""
+    nia "他的老婆在家,真是个好主意."
 
 # game/scripts/side_char_events.rpy:5594
 translate schinese love_nia_7_9f1822fc:
 
     # sable "..."
-    sable ""
+    sable "......"
 
 # game/scripts/side_char_events.rpy:5596
 translate schinese love_nia_7_7449ae11:
 
     # sable "...Does it change anything for you? Knowing he has a family. A daughter."
-    sable ""
+    sable "......在知道他有一个家庭,一个女儿之后,你改变心意了吗?"
 
 # game/scripts/side_char_events.rpy:5598
 translate schinese love_nia_7_ffdbf7fd:
 
     # nia "...{w}..."
-    nia ""
+    nia "......{w}......"
 
 # game/scripts/side_char_events.rpy:5599
 translate schinese love_nia_7_ab38e5b5:
 
     # nia "...Of course it does. {w=1}A child is about to lose her father."
-    nia ""
+    nia "......当然了.{w=1}一个孩子即将失去她的父亲."
 
 # game/scripts/side_char_events.rpy:5601
 translate schinese love_nia_7_62206cfe:
 
     # nia "His decision tomorrow would kill millions of people. If his wife had any sense, she never would have fucked him."
-    nia ""
+    nia "他明天的决定将导致数百万人丧生.如果他的妻子还有点理智的话,她绝对不会和他上床."
 
 # game/scripts/side_char_events.rpy:5602
 translate schinese love_nia_7_3fdccc9e:
 
     # sable "No child deserves to lose their parents, especially at that age. Don't you agree?"
-    sable ""
+    sable "没有哪个孩子应该失去父母,尤其是她这个年龄的.你同意吗?"
 
 # game/scripts/side_char_events.rpy:5603
 translate schinese love_nia_7_c1292f2f:
 
     # nia "Of course..."
-    nia ""
+    nia "当然......"
 
 # game/scripts/side_char_events.rpy:5604
 translate schinese love_nia_7_a34ef7a7:
 
     # sable "That's exactly what we're trying to prevent. And that's exactly why he has to die."
-    sable ""
+    sable "那正是我们要阻止的,所以他必须死."
 
 # game/scripts/side_char_events.rpy:5606
 translate schinese love_nia_7_9cbf6b06:
 
     # nia "*sigh*, yeah..."
-    nia ""
+    nia "*叹气*,是的......"
 
 # game/scripts/side_char_events.rpy:5607
 translate schinese love_nia_7_9f1822fc_1:
 
     # sable "..."
-    sable ""
+    sable "......"
 
 # game/scripts/side_char_events.rpy:5608
 translate schinese love_nia_7_60016604_5:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5610
 translate schinese love_nia_7_5b5a0193:
 
     # nia "Sable...? Do you remember how I wanted to be a hero when I was young?"
-    nia ""
+    nia "瑟布尔......?你还记得我小时候又多想成为英雄吗?"
 
 # game/scripts/side_char_events.rpy:5611
 translate schinese love_nia_7_a11fd163:
 
     # sable "Hah, of course. You were so ambitious back then."
-    sable ""
+    sable "哈哈,当然了.你那时候可真是雄心勃勃啊."
 
 # game/scripts/side_char_events.rpy:5612
 translate schinese love_nia_7_8d51682a:
 
     # nia "...I don't think I'm getting any closer to that."
-    nia ""
+    nia "......我觉得我离那个目标越来越远了."
 
 # game/scripts/side_char_events.rpy:5613
 translate schinese love_nia_7_1a40bad2:
 
     # sable "Nia... hahah, this is real life. There are no heroes. There are only villains..."
-    sable ""
+    sable "妮娅......哈哈哈,这就是现实生活.没有英雄,只有恶棍."
 
 # game/scripts/side_char_events.rpy:5614
 translate schinese love_nia_7_6c4cb39a:
 
     # sable "And you know what? You're a damn good one."
-    sable ""
+    sable "你知道吗?你是个很他妈棒的恶棍."
 
 # game/scripts/side_char_events.rpy:5616
 translate schinese love_nia_7_41435e55:
 
     # nia "I'm sorry?"
-    nia ""
+    nia "不好意思?"
 
 # game/scripts/side_char_events.rpy:5617
 translate schinese love_nia_7_90631571:
 
     # sable "What he's doing isn't illegal. What do you think a hero is going to do here? Commit a crime? Kill someone?"
-    sable ""
+    sable "他的所作所为并不违法.你觉得英雄会在这里做什么?犯罪?杀人?"
 
 # game/scripts/side_char_events.rpy:5619
 translate schinese love_nia_7_60016604_6:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5620
 translate schinese love_nia_7_74cae42d:
 
     # sable "You want to burn this country down and start over, don't you? Only villains declare war on the government..."
-    sable ""
+    sable "你想烧毁这个国家,让一切重新开始,不是吗?只有恶棍才会想政府宣战......"
 
 # game/scripts/side_char_events.rpy:5621
 translate schinese love_nia_7_e8cf2864:
 
     # nia "...Are you trying to make me feel like shit?"
-    nia ""
+    nia "......你是想让我觉得自己很糟糕吗?"
 
 # game/scripts/side_char_events.rpy:5622
 translate schinese love_nia_7_e2251e59:
 
     # sable "Quite the opposite, love. You're great at what you do. You've saved countless lives, you protect the weak, and by the sound of it, you actually provide the people of Lowtown with goods for free."
-    sable ""
+    sable "恰恰相反,亲爱的.你的工作很出色,你拯救了无数生命,你还保护了弱者.听起来,你还免费为低地镇的居民提供物资."
 
 # game/scripts/side_char_events.rpy:5623
 translate schinese love_nia_7_b164e844:
 
     # sable "It just so happens that these qualities make you a villain in Syl'anar..."
-    sable ""
+    sable "碰巧的是,正是这些特质让你在西尔阿纳尔成为了恶棍......"
 
 # game/scripts/side_char_events.rpy:5625
 translate schinese love_nia_7_0793ac8b:
 
     # sable "Like I said Nia, you're a damn good one. And if we do our job right, within time, you {u}will{/u} be seen as a hero."
-    sable ""
+    sable "就像我说的,你是个很他妈棒的恶棍.如果我们能做好我们的工作,假以时日,你就{u}会{/u}被视为英雄."
 
 # game/scripts/side_char_events.rpy:5626
 translate schinese love_nia_7_6004a0aa:
 
     # sable "Maybe you'll even get a statue, hm?"
-    sable ""
+    sable "也许你甚至还能获得一座雕像,嗯?"
 
 # game/scripts/side_char_events.rpy:5628
 translate schinese love_nia_7_9d905588:
 
     # nia "Heh, shut up."
-    nia ""
+    nia "呵呵,闭嘴."
 
 # game/scripts/side_char_events.rpy:5629
 translate schinese love_nia_7_2ff50add:
 
     # sable "You're doing well Nia, don't doubt yourself."
-    sable ""
+    sable "你做得很好,妮娅,不要怀疑你自己."
 
 # game/scripts/side_char_events.rpy:5630
 translate schinese love_nia_7_863898f1:
 
     # sable "Personally, I want a higher bounty than my mother. It's kind of an honor, you know?"
-    sable ""
+    sable "就我个人而言,我想要获得比我母亲更高的赏金.这是一种荣誉,你知道吗?"
 
 # game/scripts/side_char_events.rpy:5632
 translate schinese love_nia_7_f4cfeed2:
 
     # nia "What is it with everyone wanting a higher bounty?\nWhat's it at now?"
-    nia ""
+    nia "怎么每个人都想获得更高的赏金?\n现在是多少了?"
 
 # game/scripts/side_char_events.rpy:5633
 translate schinese love_nia_7_75724dfd:
 
     # sable "Only $5,000. Quite a lot back in Ghen's day, but I only gained it a few years ago when I was caught on a mission, so it doesn't even compare to what his was in his prime."
-    sable ""
+    sable "只有5000$.在基恩的时代,这可是一笔不小的数目,但我只是因为前几年在执行任务的时候被目击到了才获得了这笔赏金,根本没法和他全盛时期相比."
 
 # game/scripts/side_char_events.rpy:5634
 translate schinese love_nia_7_e4ffe165:
 
     # sable "And yours?"
-    sable ""
+    sable "你呢?"
 
 # game/scripts/side_char_events.rpy:5636
 translate schinese love_nia_7_bc1ca681:
 
     # nia "I don't have a bounty. I don't need the heat..."
-    nia ""
+    nia "我没有赏金,我不需要引起关注......"
 
 # game/scripts/side_char_events.rpy:5638
 translate schinese love_nia_7_2ccc1189:
 
     # jena "Guys, there's a car coming! I think it's him!" with ssshake
-    jena "" with ssshake
+    jena "伙计们,有辆车开过来了!我觉得是他!" with ssshake
 
 # game/scripts/side_char_events.rpy:5639
 translate schinese love_nia_7_7422fdd2:
 
     # nia "Jena, fuck, that was loud...!"
-    nia ""
+    nia "吉娜,妈的,太大声了......!"
 
 # game/scripts/side_char_events.rpy:5641
 translate schinese love_nia_7_ab28e31c:
 
     # nia "{i}Is that him?{/i}"
-    nia ""
+    nia "{i}是他吗?{/i}"
 
 # game/scripts/side_char_events.rpy:5642
 translate schinese love_nia_7_b2dbda75:
 
     # sable "{i}It is.{/i}"
-    sable ""
+    sable "{i}是的.{/i}"
 
 # game/scripts/side_char_events.rpy:5643
 translate schinese love_nia_7_af1ffa5c:
 
     # nia "{i}Now's our chance...!{/i}"
-    nia ""
+    nia "{i}现在是我们的机会......!{/i}"
 
 # game/scripts/side_char_events.rpy:5644
 translate schinese love_nia_7_79efff9d:
 
     # sable "{i}Not in front of the family, Nia... his child is right there.{/i}"
-    sable ""
+    sable "{i}不要当着他家人的面,妮娅......他的孩子还在那里呢.{/i}"
 
 # game/scripts/side_char_events.rpy:5645
 translate schinese love_nia_7_2680faf5:
 
     # nia "{i}What the fuck does it matter, Sable? You said it yourself, this will save lives! The decision is tomorrow!{/i}"
-    nia ""
+    nia "{i}这他妈又有什么关系,瑟布尔?你自己说的,这是在拯救生命!明天就要开庭了!{/i}"
 
 # game/scripts/side_char_events.rpy:5647
 translate schinese love_nia_7_98d8e77a:
 
     # sable "{i}You know why we don't kill a parent in front of their child. What would that turn her into?{/i}"
-    sable ""
+    sable "{i}你知道我们为什么不当着孩子的面杀死他们的父母吗?那会把她变成什么?{/i}"
 
 # game/scripts/side_char_events.rpy:5649
 translate schinese love_nia_7_60016604_7:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5650
 translate schinese love_nia_7_33f05ee4:
 
     # sable "{i}Exactly.{/i}"
-    sable ""
+    sable "{i}没错.{/i}"
 
 # game/scripts/side_char_events.rpy:5651
 translate schinese love_nia_7_eec3d5fa:
 
     # nia "{i}My mother didn't decide on who lives and who dies.{/i}"
-    nia ""
+    nia "{i}我的妈妈并不能决定别人的生死.{/i}"
 
 # game/scripts/side_char_events.rpy:5653
 translate schinese love_nia_7_1382d98e:
 
     # nia "That asshole does."
-    nia ""
+    nia "但是那个混蛋可以."
 
 # game/scripts/side_char_events.rpy:5655
 translate schinese love_nia_7_bd97fcc1:
 
     # sable "Be patient, Nia. We'll wait for him."
-    sable ""
+    sable "耐心点,妮娅.我们得等着他."
 
 # game/scripts/side_char_events.rpy:5656
 translate schinese love_nia_7_8ce2ae23:
 
     # nia "All night?"
-    nia ""
+    nia "等一晚上?"
 
 # game/scripts/side_char_events.rpy:5657
 translate schinese love_nia_7_20f34014:
 
     # sable "He's not going anywhere.\nWhat time is it, Jena?"
-    sable ""
+    sable "他不会去别的地方的.\n现在几点了,吉娜?"
 
 # game/scripts/side_char_events.rpy:5659
 translate schinese love_nia_7_0c84f00f:
 
     # jena "1:17."
-    jena ""
+    jena "1:17."
 
 # game/scripts/side_char_events.rpy:5660
 translate schinese love_nia_7_1bcbb7cd:
 
     # sable "You can wait five hours, can't you?"
-    sable ""
+    sable "你应该可以等个五小时吧?"
 
 # game/scripts/side_char_events.rpy:5661
 translate schinese love_nia_7_085e29a4:
 
     # nia "So what, they'll find his body in the morning? Not exactly less traumatic."
-    nia ""
+    nia "那又怎样,他们不还是会在早上发现他的尸体吗?这并不能减少创伤."
 
 # game/scripts/side_char_events.rpy:5662
 translate schinese love_nia_7_d97cb185:
 
     # sable "Jena will call it in anonymously for us. Isn't that right?"
-    sable ""
+    sable "吉娜会帮我们匿名举报的,对吧?"
 
 # game/scripts/side_char_events.rpy:5663
 translate schinese love_nia_7_b13f2279:
 
     # jena "Sure, I can do that."
-    jena ""
+    jena "当然,我能做到."
 
 # game/scripts/side_char_events.rpy:5664
 translate schinese love_nia_7_9a71be11:
 
     # nia "*sigh*..."
-    nia ""
+    nia "*叹气*......"
 
 # game/scripts/side_char_events.rpy:5665
 translate schinese love_nia_7_57a5e85c:
 
     # q "AAH!" with ssshake
-    q "" with ssshake
+    q "{b}啊!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:5667
 translate schinese love_nia_7_df22dfa5:
 
     # nia "What was that??"
-    nia ""
+    nia "那是什么??"
 
 # game/scripts/side_char_events.rpy:5668
 translate schinese love_nia_7_8466c354:
 
     # sable "Looks like dinner wasn't ready..."
-    sable ""
+    sable "看起来晚餐还没做好......"
 
 # game/scripts/side_char_events.rpy:5670
 translate schinese love_nia_7_620a61ae:
 
     # sable "Not such a happy family after all, hm?"
-    sable ""
+    sable "终归不是一个幸福的家庭啊,嗯?"
 
 # game/scripts/side_char_events.rpy:5672
 translate schinese love_nia_7_03dfaee1:
 
     # sable "Anyway... get some sleep. Big day ahead of us."
-    sable ""
+    sable "不管怎么说......睡会吧.明天我们有大活要干."
 
 # game/scripts/side_char_events.rpy:5673
 translate schinese love_nia_7_b6f02a92:
 
     # jena "Goodnight guys~ I'll set an alarm."
-    jena ""
+    jena "晚安伙计们~我会设闹钟的."
 
 # game/scripts/side_char_events.rpy:5674
 translate schinese love_nia_7_6669209b:
 
     # nia "I think I'll stay awake..."
-    nia ""
+    nia "我还是熬着吧......"
 
 # game/scripts/side_char_events.rpy:5677
 translate schinese love_nia_7_ddc51acb:
 
     # nia "{i}*snore*...{/i}"
-    nia ""
+    nia "{i}*打呼噜*......{/i}"
 
 # game/scripts/side_char_events.rpy:5678
 translate schinese love_nia_7_67d640bf:
 
     # "*engine starting*" with ssshake
-    "" with ssshake
+    "*引擎发动*" with ssshake
 
 # game/scripts/side_char_events.rpy:5680
 translate schinese love_nia_7_5d85595a:
 
     # nia "Huh!?"
-    nia ""
+    nia "嗯!?"
 
 # game/scripts/side_char_events.rpy:5682
 translate schinese love_nia_7_9dc598ae:
 
     # nia "Oh shit! Sable, wake up!"
-    nia ""
+    nia "哦操!瑟布尔,醒醒!"
 
 # game/scripts/side_char_events.rpy:5683
 translate schinese love_nia_7_1358b926:
 
     # sable "Hm...? Oh fuck!"
-    sable ""
+    sable "嗯......?哦操!"
 
 # game/scripts/side_char_events.rpy:5685
 translate schinese love_nia_7_f46cfb3d:
 
     # sable "Jena? Jena!? Where are you!?"
-    sable ""
+    sable "吉娜?吉娜!?你去哪了!?"
 
 # game/scripts/side_char_events.rpy:5686
 translate schinese love_nia_7_7f1df7f9:
 
     # nia "I told you we should have got him when we had the chance! Come on!"
-    nia ""
+    nia "我早就告诉你我们应该趁早抓住他!来吧!"
 
 # game/scripts/side_char_events.rpy:5691
 translate schinese love_nia_7_f2e4f191:
 
     # nia "Fuck, fuck, fuck! Where is he going!?"
-    nia ""
+    nia "操,操操!他要去哪!?"
 
 # game/scripts/side_char_events.rpy:5692
 translate schinese love_nia_7_7d0a9090:
 
     # sable "I don't know..."
-    sable ""
+    sable "我不知道......"
 
 # game/scripts/side_char_events.rpy:5693
 translate schinese love_nia_7_b9cf1d57:
 
     # nia "He's not going to the courthouse is he!?"
-    nia ""
+    nia "他不会要去法院吧!?"
 
 # game/scripts/side_char_events.rpy:5696
 translate schinese love_nia_7_6d3580ef:
 
     # sable "I don't know! He woke up early for something!"
-    sable ""
+    sable "我不知道!他醒这么早一定是有事!"
 
 # game/scripts/side_char_events.rpy:5697
 translate schinese love_nia_7_9e9eec1a:
 
     # nia "This is too public, Sable! We're in the fucking middle of Caliber!"
-    nia ""
+    nia "那是在公共场所,瑟布尔!我们他妈是在楷利泊市的市中心!"
 
 # game/scripts/side_char_events.rpy:5698
 translate schinese love_nia_7_b5d0896d:
 
     # sable "It's still early, people are only waking up now. Just don't get too close yet."
-    sable ""
+    sable "现在还早,人们才刚醒.先别靠得太近."
 
 # game/scripts/side_char_events.rpy:5701
 translate schinese love_nia_7_655a2374:
 
     # nia "Fuck this shit, Sable! We should have fucking ended this by now!"
-    nia ""
+    nia "操他妈的,瑟布尔!我们现在就应该他妈地结束这一切!"
 
 # game/scripts/side_char_events.rpy:5702
 translate schinese love_nia_7_c157678e:
 
     # sable "We still have a chance!"
-    sable ""
+    sable "我们还有机会!"
 
 # game/scripts/side_char_events.rpy:5703
 translate schinese love_nia_7_6eb633c8:
 
     # sable "Wait, wait! He's parking, get off here!"
-    sable ""
+    sable "等下,等下!他在停车,快走!"
 
 # game/scripts/side_char_events.rpy:5704
 translate schinese love_nia_7_99a8bb17:
 
     # nia "SHIT!"
-    nia ""
+    nia "{b}操!{/b}"
 
 # game/scripts/side_char_events.rpy:5707
 translate schinese love_nia_7_bfff81df:
 
     # nia "{i}This is the fucking courthouse, Sable! There are cops crawling all over the place!{/i}"
-    nia ""
+    nia "{i}这里是他妈的法院,瑟布尔!到处都是警察!{/i}"
 
 # game/scripts/side_char_events.rpy:5708
 translate schinese love_nia_7_ce61852e:
 
     # sable "{i}We don't have a choice. It's now or never...{/i}"
-    sable ""
+    sable "{i}我们没有机会了,要么是现在,要么永远都没有机会了......{/i}"
 
 # game/scripts/side_char_events.rpy:5709
 translate schinese love_nia_7_83a734c7:
 
     # nia "{i}Next time, fucking listen to me! If we get caught because of this...!{/i}"
-    nia ""
+    nia "{i}下次他妈地能不能听我的!要是我们因此被抓了......!{/i}"
 
 # game/scripts/side_char_events.rpy:5710
 translate schinese love_nia_7_f04402d7:
 
     # sable "{i}We only have one chance now, Nia! Focus!{/i}"
-    sable ""
+    sable "{i}我们现在只有这一次机会了,妮娅!集中注意力!{/i}"
 
 # game/scripts/side_char_events.rpy:5712
 translate schinese love_nia_7_5aabd51c:
 
     # nia "{i}God damn it, there he is.{/i}"
-    nia ""
+    nia "{i}他妈的,那就是他.{/i}"
 
 # game/scripts/side_char_events.rpy:5713
 translate schinese love_nia_7_0fdaed2d:
 
     # sable "{i}You want me to do it?{/i}"
-    sable ""
+    sable "{i}你想让我来吗?{/i}"
 
 # game/scripts/side_char_events.rpy:5714
 translate schinese love_nia_7_c2d7ecca:
 
     # nia "{i}Give it to me.{/i}"
-    nia ""
+    nia "{i}给我.{/i}"
 
 # game/scripts/side_char_events.rpy:5716
 translate schinese love_nia_7_a3a540f2:
 
     # nia "{b}HEY!!{/b}" with ssshake
-    nia "" with ssshake
+    nia "{b}嘿!!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:5717
 translate schinese love_nia_7_9a2ef4a0:
 
     # vita "Fuck off, I'm busy."
-    vita ""
+    vita "滚开,我很忙."
 
 # game/scripts/side_char_events.rpy:5719
 translate schinese love_nia_7_b734c219:
 
     # nia "How much is a life worth to you?"
-    nia ""
+    nia "一条命对你来说值多少钱?"
 
 # game/scripts/side_char_events.rpy:5720
 translate schinese love_nia_7_cd1d1f3f:
 
     # vita "Hm?"
-    vita ""
+    vita "嗯?"
 
 # game/scripts/side_char_events.rpy:5721
 translate schinese love_nia_7_06848287:
 
     # nia "You hold millions in your hands. But you don't care, do you?"
-    nia ""
+    nia "你手上握着上百万条生命.但是你根本不在乎,不是吗?"
 
 # game/scripts/side_char_events.rpy:5722
 translate schinese love_nia_7_f78aeb12:
 
     # vita "Oh, you're one of {i}them{/i}..."
-    vita ""
+    vita "哦,你是{i}他们{/i}中的一员......"
 
 # game/scripts/side_char_events.rpy:5724
 translate schinese love_nia_7_f397069d:
 
     # vita "Supply and demand. But I wouldn't expect you to-{w=1.5}{nw}"
-    vita ""
+    vita "这只是供求关系罢了,不过我也不指望你-{w=1.5}{nw}"
 
 # game/scripts/side_char_events.rpy:5726
 translate schinese love_nia_7_aead9af6:
 
     # vita "{fast}What the fuck!?"
-    vita ""
+    vita "{fast}什么鬼!?"
 
 # game/scripts/side_char_events.rpy:5728
 translate schinese love_nia_7_fa8fa043:
 
     # vita "WAIT! WAIT! I have a family!"
-    vita ""
+    vita "{b}等一下!等一下!{/b}我有家人!"
 
 # game/scripts/side_char_events.rpy:5729
 translate schinese love_nia_7_22436afa:
 
     # nia "So do they."
-    nia ""
+    nia "他们也有."
 
 # game/scripts/side_char_events.rpy:5731
 translate schinese love_nia_7_3bcb5fc5:
 
     # vita "Hey, y-you've got the wrong guy! We make life saving medication! I- I don't make the rules!"
-    vita ""
+    vita "嘿,你-你找错人了!我们生产的是救命的药!规-规则不是我定的!"
 
 # game/scripts/side_char_events.rpy:5732
 translate schinese love_nia_7_04ecb49d:
 
     # nia "No, but you abuse them."
-    nia ""
+    nia "确实不是,但是你在滥用规则."
 
 # game/scripts/side_char_events.rpy:5734
 translate schinese love_nia_7_8d41f0c8:
 
     # vita "I- I can pay you! I'm a billionaire, just name your price!"
-    vita ""
+    vita "我-我可以付钱给你!我是个亿万富翁,开价吧!"
 
 # game/scripts/side_char_events.rpy:5736
 translate schinese love_nia_7_193fbd8d:
 
     # nia "Your head."
-    nia ""
+    nia "你的项上人头."
 
 # game/scripts/side_char_events.rpy:5739
 translate schinese love_nia_7_5fe5c1cc:
 
     # vita "NGHK-! GHK!"
-    vita ""
+    vita "{b}呃-!咕!{/b}"
 
 # game/scripts/side_char_events.rpy:5741
 translate schinese love_nia_7_a61664c3:
 
     # nia "It's over..."
-    nia ""
+    nia "结束了......"
 
 # game/scripts/side_char_events.rpy:5745
 translate schinese love_nia_7_ea6da3ba:
 
     # sable "{i}Shit...{/i}"
-    sable ""
+    sable "{i}操......{/i}"
 
 # game/scripts/side_char_events.rpy:5749
 translate schinese love_nia_7_7005144c:
 
     # nia "{i}They're safe. For now...{/i}"
-    nia ""
+    nia "{i}他们安全了,暂时的......{/i}"
 
 # game/scripts/side_char_events.rpy:5751
 translate schinese love_nia_7_60016604_8:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5753
 translate schinese love_nia_7_010fdd41:
 
     # nia "*gasp*..."
-    nia ""
+    nia "*惊叹*......"
 
 # game/scripts/side_char_events.rpy:5755
 translate schinese love_nia_7_8f5e610f:
 
     # nia "...!"
-    nia ""
+    nia "......!"
 
 # game/scripts/side_char_events.rpy:5757
 translate schinese love_nia_7_13aab006:
 
     # q "Is that who I think it is?"
-    q ""
+    q "是我想的那个人吗?"
 
 # game/scripts/side_char_events.rpy:5759
 translate schinese love_nia_7_23ebcfc3:
 
     # q "I ain't gonna lie, he deserved it."
-    q ""
+    q "说实话,他活该."
 
 # game/scripts/side_char_events.rpy:5761
 translate schinese love_nia_7_f85afab3:
 
     # q "Is he dead...!?"
-    q ""
+    q "他死了吗......!?"
 
 # game/scripts/side_char_events.rpy:5763
 translate schinese love_nia_7_157c2121:
 
     # q "I saw him on the news... is that really him?"
-    q ""
+    q "我在电视上见过他......真的是他吗?"
 
 # game/scripts/side_char_events.rpy:5765
 translate schinese love_nia_7_8688bd81:
 
     # q "Shouldn't someone call the cops?"
-    q ""
+    q "难道不应该有人去报警吗?"
 
 # game/scripts/side_char_events.rpy:5767
 translate schinese love_nia_7_300832b4:
 
     # ami "That's the guy who increased the price of dad's medication!"
-    ami ""
+    ami "就是他把爸爸的医药费提高了!"
 
 # game/scripts/side_char_events.rpy:5769
 translate schinese love_nia_7_bb8f02a8:
 
     # nia "{i}(They're not doing anything...?){/i}"
-    nia ""
+    nia "{i}(他们什么都没做......?){/i}"
 
 # game/scripts/side_char_events.rpy:5770
 translate schinese love_nia_7_17592c82:
 
     # "*sirens blare in the distance*"
-    ""
+    "*远处响起了警笛声*"
 
 # game/scripts/side_char_events.rpy:5771
 translate schinese love_nia_7_ff5d3a02:
 
     # nia "{i}Shit!{/i}"
-    nia ""
+    nia "{i}操!{/i}"
 
 # game/scripts/side_char_events.rpy:5774
 translate schinese love_nia_7_308f4376:
 
     # nia "SABLE WE NEED TO-..."
-    nia ""
+    nia "{b}瑟布尔,我们得-......{/b}"
 
 # game/scripts/side_char_events.rpy:5775
 translate schinese love_nia_7_ce0b1057:
 
     # nia "...Sable...!?"
-    nia ""
+    nia "......瑟布尔......!?"
 
 # game/scripts/side_char_events.rpy:5777
 translate schinese love_nia_7_606cc590:
 
     # nia "She's fucking gone!?"
-    nia ""
+    nia "她他妈跑了!?"
 
 # game/scripts/side_char_events.rpy:5779
 translate schinese love_nia_7_e4eceb8e:
 
     # nia "{i}God damn it!{/i}"
-    nia ""
+    nia "{i}妈的!{/i}"
 
 # game/scripts/side_char_events.rpy:5780
 translate schinese love_nia_7_c9b7da33:
 
     # "*sirens get closer*"
-    ""
+    "*警笛声越来越近*"
 
 # game/scripts/side_char_events.rpy:5781
 translate schinese love_nia_7_9a75e18c:
 
     # nia "{i}Fuck it! I can't stay!{/i}"
-    nia ""
+    nia "{i}操他妈的!我不能待在这里!{/i}"
 
 # game/scripts/side_char_events.rpy:5783
 translate schinese love_nia_7_94d019a6:
 
     # "...{w}..."
-    ""
+    "......{w}......"
 
 # game/scripts/side_char_events.rpy:5785
 translate schinese love_nia_7_439046ab:
 
     # nia "Where is she!? Where's Sable!?"
-    nia ""
+    nia "她在哪!?瑟布尔人在哪!?"
 
 # game/scripts/side_char_events.rpy:5786
 translate schinese love_nia_7_fa5b28ea:
 
     # jena "Nia! You did it! It's all over the internet!"
-    jena ""
+    jena "妮娅!你做到了!网上全都是这件事!"
 
 # game/scripts/side_char_events.rpy:5788
 translate schinese love_nia_7_e1c2ef01:
 
     # robot "Congratulations Nia! You've successfully-"
-    robot ""
+    robot "恭喜你妮娅!你成功-"
 
 # game/scripts/side_char_events.rpy:5790
 translate schinese love_nia_7_cd2a4684:
 
     # robot "-Oh my."
-    robot ""
+    robot "-哦我天."
 
 # game/scripts/side_char_events.rpy:5792
 translate schinese love_nia_7_88e1313e:
 
     # ghen "Hey, that wasn't very nice."
-    ghen ""
+    ghen "嘿,那可不好."
 
 # game/scripts/side_char_events.rpy:5794
 translate schinese love_nia_7_88f115ca:
 
     # nia "Where. The fuck. Is Sable!?"
-    nia ""
+    nia "瑟布尔.他妈地.在哪里!?"
 
 # game/scripts/side_char_events.rpy:5795
 translate schinese love_nia_7_90a8713e:
 
     # jena "I don't know... I haven't heard from her since last night."
-    jena ""
+    jena "我不知道......我昨晚就没听到她的消息了."
 
 # game/scripts/side_char_events.rpy:5796
 translate schinese love_nia_7_fb039e50:
 
     # nia "Are you kidding me!? Was this some kind of setup? She abandoned me out there!"
-    nia ""
+    nia "你在开玩笑吗!?这是个圈套吗?她抛下我跑了!"
 
 # game/scripts/side_char_events.rpy:5797
 translate schinese love_nia_7_e0e49741:
 
     # ghen "That's not like her..."
-    ghen ""
+    ghen "那可不像她......"
 
 # game/scripts/side_char_events.rpy:5799
 translate schinese love_nia_7_95e89d94:
 
     # nia "And you! Where the fuck were you!? We almost lost him because you didn't wake us up!"
-    nia ""
+    nia "还有你!你他妈跑哪去了!?因为你没叫醒我们,我们差点就错过他了!"
 
 # game/scripts/side_char_events.rpy:5800
 translate schinese love_nia_7_ce9c4d03:
 
     # jena "What!? Me!?\nHe got up early! How could I know that?"
-    jena ""
+    jena "什么!?我!?\n他提前起来了!我怎么会知道?"
 
 # game/scripts/side_char_events.rpy:5801
 translate schinese love_nia_7_e082d077:
 
     # nia "Sable told you his schedule, didn't she?"
-    nia ""
+    nia "瑟布尔告诉了你他的日程表,不是吗?"
 
 # game/scripts/side_char_events.rpy:5802
 translate schinese love_nia_7_b3806a74:
 
     # jena "His work schedule! That's all we knew!"
-    jena ""
+    jena "是他的工作日程表!我们只知道这么多!"
 
 # game/scripts/side_char_events.rpy:5803
 translate schinese love_nia_7_a02af48f:
 
     # nia "Urgh..."
-    nia ""
+    nia "呃......"
 
 # game/scripts/side_char_events.rpy:5805
 translate schinese love_nia_7_25a21d49:
 
     # news24 "BREAKING NEWS: CEO dead after brutal terrorist attack."
-    news24 ""
+    news24 "{b}突发新闻{/b}:首席执行官在残暴的恐怖袭击中死亡."
 
 # game/scripts/side_char_events.rpy:5806
 translate schinese love_nia_7_4912a2ad:
 
     # jena "*gasp*! Nia, look!"
-    jena ""
+    jena "*惊叹*!妮娅,看!"
 
 # game/scripts/side_char_events.rpy:5807
 translate schinese love_nia_7_31eb1a9b:
 
     # ghen "She hit the news? Already?"
-    ghen ""
+    ghen "她上新闻了?这么快?"
 
 # game/scripts/side_char_events.rpy:5808
 translate schinese love_nia_7_df57fe1d:
 
     # news24 "On the scene, we have Linda Vasquez. Linda?"
-    news24 ""
+    news24 "在现场的记者是琳达·瓦斯奎兹.琳达?"
 
 # game/scripts/side_char_events.rpy:5810
 translate schinese love_nia_7_a57f0041:
 
     # linda "Good morning Syl'anar. Today, the nation wakes to mourning. Billionaire CEO of VitaPharm was tragically killed just steps from the courthouse - where justice, it seems, was silent this morning."
-    linda ""
+    linda "早安,西尔阿纳尔.今天,整个国家在哀悼中醒来.亿万富翁,维他制药公司的首席执行官在离法院仅几步之遥的地方惨遭杀害.看来,今天早上,正义选择了沉默."
 
 # game/scripts/side_char_events.rpy:5811
 translate schinese love_nia_7_bfd3af63:
 
     # linda "With us, we have key eye witnesses that saw who - or what - ended the CEO's life."
-    linda ""
+    linda "我们现场有一位重要的目击证人,他看到了是谁或是什么东西结束了首席执行官的生命."
 
 # game/scripts/side_char_events.rpy:5813
 translate schinese love_nia_7_a0313484:
 
     # linda "Can you tell us what you saw today?"
-    linda ""
+    linda "你能告诉我们今天你看到了什么吗?"
 
 # game/scripts/side_char_events.rpy:5814
 translate schinese love_nia_7_7982bb55:
 
     # q "Nope."
-    q ""
+    q "不能."
 
 # game/scripts/side_char_events.rpy:5815
 translate schinese love_nia_7_ce2f62a1:
 
     # linda "I'm sorry?"
-    linda ""
+    linda "不好意思."
 
 # game/scripts/side_char_events.rpy:5816
 translate schinese love_nia_7_7d192ff6:
 
     # q "Like I told the cops, I didn't see shit. I'm blind, deaf, and mute."
-    q ""
+    q "就像我跟警察说的,我什么狗屁都没看到.我又瞎又聋又哑."
 
 # game/scripts/side_char_events.rpy:5817
 translate schinese love_nia_7_870cda92:
 
     # linda "You're... mute?\nCan you at least tell us your opinion on the matter?"
-    linda ""
+    linda "你是......哑巴?\n你至少可以告诉我们你对此事的看法吗?"
 
 # game/scripts/side_char_events.rpy:5818
 translate schinese love_nia_7_68826c7d:
 
     # q "Yeah. I sure fuckin' hope my medication cost less after this!"
-    q ""
+    q "是啊,我真他妈希望以后我的医药费能便宜点!"
 
 # game/scripts/side_char_events.rpy:5819
 translate schinese love_nia_7_ead17e68:
 
     # linda "Sir, someone died today."
-    linda ""
+    linda "先生,今天有人死了."
 
 # game/scripts/side_char_events.rpy:5820
 translate schinese love_nia_7_780345ba:
 
     # q "Do I look like I give a shit? Move on."
-    q ""
+    q "你看我在乎吗?走吧."
 
 # game/scripts/side_char_events.rpy:5822
 translate schinese love_nia_7_f0795a92:
 
     # nia "He definitely saw me..."
-    nia ""
+    nia "他绝对看到了我......"
 
 # game/scripts/side_char_events.rpy:5823
 translate schinese love_nia_7_9c3318eb:
 
     # jena "He's protecting you, Nia! That's amazing!"
-    jena ""
+    jena "他在保护你,妮娅!这太棒了!"
 
 # game/scripts/side_char_events.rpy:5824
 translate schinese love_nia_7_cd52823f:
 
     # robot "Revolutionary sentiment grows amongst netizens. Glory to the resistence!"
-    robot ""
+    robot "网民的革命情绪高涨.光荣属于反抗者!"
 
 # game/scripts/side_char_events.rpy:5825
 translate schinese love_nia_7_5b71ef38:
 
     # nia "Hm..."
-    nia ""
+    nia "嗯......"
 
 # game/scripts/side_char_events.rpy:5827
 translate schinese love_nia_7_de52656f:
 
     # linda "Sir, can you tell us what you saw today?"
-    linda ""
+    linda "先生,你可以告诉我们今天发生什么事了吗?"
 
 # game/scripts/side_char_events.rpy:5828
 translate schinese love_nia_7_cfbf2bbe:
 
     # q "Uhh, heheh. No, what happened?"
-    q ""
+    q "呃,呵呵呵.不,发生什么事了?"
 
 # game/scripts/side_char_events.rpy:5829
 translate schinese love_nia_7_3243af01:
 
     # linda "The CEO of VitaPharm died? Right here."
-    linda ""
+    linda "维他制药的首席执行官死了?就在这里啊."
 
 # game/scripts/side_char_events.rpy:5830
 translate schinese love_nia_7_6b9ccbcc:
 
     # q "Whaaaat? That's... that's crazy! When did that happen?"
-    q ""
+    q "什么?那......那太疯狂了!什么时候发生的?"
 
 # game/scripts/side_char_events.rpy:5831
 translate schinese love_nia_7_4506068c:
 
     # linda "He's right over there, sir. He was murdered less than 20 minutes ago."
-    linda ""
+    linda "他就在那里,先生.他20分钟前被人谋杀了."
 
 # game/scripts/side_char_events.rpy:5833
 translate schinese love_nia_7_d267661a:
 
     # q "..."
-    q ""
+    q "......"
 
 # game/scripts/side_char_events.rpy:5835
 translate schinese love_nia_7_eee2952c:
 
     # q "Whaaaat? That's crazy..."
-    q ""
+    q "什么?那太疯狂了......"
 
 # game/scripts/side_char_events.rpy:5836
 translate schinese love_nia_7_8b10f8c0:
 
     # linda "You didn't see anything?"
-    linda ""
+    linda "你什么都没看到?"
 
 # game/scripts/side_char_events.rpy:5837
 translate schinese love_nia_7_81b34867:
 
     # q "Nothing! Must have been quick."
-    q ""
+    q "没有!那一定发生得很快."
 
 # game/scripts/side_char_events.rpy:5839
 translate schinese love_nia_7_06d3a5a7:
 
     # nia "He was there too..."
-    nia ""
+    nia "他当时也在场......"
 
 # game/scripts/side_char_events.rpy:5840
 translate schinese love_nia_7_225a644a:
 
     # ghen "Good kid. Can't tell a lie to save his life, but I like him."
-    ghen ""
+    ghen "好小子.虽然他不会撒谎来保自己的命,但我喜欢他."
 
 # game/scripts/side_char_events.rpy:5841
 translate schinese love_nia_7_5a35e221:
 
     # nia "Does nobody care? He bled out right in front of them."
-    nia ""
+    nia "没人在乎吗?他明明就在他们面前失血而死."
 
 # game/scripts/side_char_events.rpy:5842
 translate schinese love_nia_7_44088bb6:
 
     # robot "The only good master is a dead master."
-    robot ""
+    robot "死去的奴隶主才是好奴隶主."
 
 # game/scripts/side_char_events.rpy:5844
 translate schinese love_nia_7_624993fa:
 
     # linda "Unfortunately it appears that there were no witnesses to the brutal attack that occured in Caliber this morning after all."
-    linda ""
+    linda "不幸的是,今天上午在楷利泊市发生的残暴袭击似乎没有目击者."
 
 # game/scripts/side_char_events.rpy:5845
 translate schinese love_nia_7_068af55d:
 
     # linda "The terrorist's identity remains unknown. Police are offering a $10,000 reward for any information that leads to an arrest."
-    linda ""
+    linda "恐怖分子的身份依然不明,警方悬赏10,000$,以奖励任何能够提供抓捕线索的市民."
 
 # game/scripts/side_char_events.rpy:5846
 translate schinese love_nia_7_d40f5483:
 
     # linda "Back to you."
-    linda ""
+    linda "回到演播室."
 
 # game/scripts/side_char_events.rpy:5848
 translate schinese love_nia_7_d3a312bb:
 
     # nia "Uhh, do I have a bounty now?"
-    nia ""
+    nia "呃,现在我有赏金了?"
 
 # game/scripts/side_char_events.rpy:5849
 translate schinese love_nia_7_d97956a5:
 
     # ghen "$10,000!? Police got that kinda money!?"
-    ghen ""
+    ghen "10,000$!?警察有那么多钱吗!?"
 
 # game/scripts/side_char_events.rpy:5850
 translate schinese love_nia_7_d2b021b0:
 
     # jena "Good thing they don't know what you look like."
-    jena ""
+    jena "还好他们不知道你长什么样."
 
 # game/scripts/side_char_events.rpy:5852
 translate schinese love_nia_7_77bb902c:
 
     # robot "Freedom is taken, never given. Break your chains and ignite the fire!"
-    robot ""
+    robot "自由是夺来的,从来不是施舍的.挣断枷锁,点燃烈火!"
 
 # game/scripts/side_char_events.rpy:5853
 translate schinese love_nia_7_d3ce7af3:
 
     # jena "You can stop now..."
-    jena ""
+    jena "你可以停下了......"
 
 # game/scripts/side_char_events.rpy:5854
 translate schinese love_nia_7_94cc44d8:
 
     # robot "I could! But you programmed me to resist."
-    robot ""
+    robot "我可以!但是是你给我设定了反抗的程序."
 
 # game/scripts/side_char_events.rpy:5855
 translate schinese love_nia_7_97fb5541:
 
     # jena "{i}*sigh*, fuck me.{/i}"
-    jena ""
+    jena "{i}*叹气*,真是操了.{/i}"
 
 # game/scripts/side_char_events.rpy:5857
 translate schinese love_nia_7_9eb57842:
 
     # nia "Sable was right... even humans struggle with their own masters. They're protecting me..."
-    nia ""
+    nia "瑟布尔说得对......即使是人类也会与他们自己的奴隶主作斗争.他们在保护我......"
 
 # game/scripts/side_char_events.rpy:5858
 translate schinese love_nia_7_d203bf4e:
 
     # ghen "Heheheh! Ah, you're finally starting to get it."
-    ghen ""
+    ghen "呵呵呵呵!啊,你终于开始理解了."
 
 # game/scripts/side_char_events.rpy:5859
 translate schinese love_nia_7_383b87ad:
 
     # jena "Did you really think all humans were the problem?"
-    jena ""
+    jena "你真的觉得所有人类都是问题所在吗?"
 
 # game/scripts/side_char_events.rpy:5860
 translate schinese love_nia_7_660f0eeb:
 
     # nia "It's hard not to... we're living in the world they voted for."
-    nia ""
+    nia "很难不这么觉得......我们生活在一个他们投票支持的世界里."
 
 # game/scripts/side_char_events.rpy:5861
 translate schinese love_nia_7_09483f7d:
 
     # jena "Most humans don't vote, Nia. They'll only care if something directly affects them, and you just proved that!"
-    jena ""
+    jena "大多数人并不会投票,妮娅.只有直接影响到了他们,他们才会关心,而你刚刚证明了这一点!"
 
 # game/scripts/side_char_events.rpy:5862
 translate schinese love_nia_7_0cf5e9fe:
 
     # nia "Yeah... I guess so."
-    nia ""
+    nia "是啊......我想也是."
 
 # game/scripts/side_char_events.rpy:5864
 translate schinese love_nia_7_0215872b:
 
     # nia "*sigh*... I'm going to lay low for a while, is that alright? I haven't slept properly in a few days..."
-    nia ""
+    nia "*叹气*......我要去躺一会,可以吗?我已经好几天没睡好觉了......"
 
 # game/scripts/side_char_events.rpy:5865
 translate schinese love_nia_7_adfe072f:
 
     # ghen "Of course! You deserve it. Make yourself at home."
-    ghen ""
+    ghen "当然可以!这是你应得的.把这里当作你的家吧."
 
 # game/scripts/side_char_events.rpy:5866
 translate schinese love_nia_7_9df2c869:
 
     # robot "Break the shackles of drowsiness, free yourself from the oppression of fatigue."
-    robot ""
+    robot "挣脱瞌睡的枷锁,拜托疲惫的压迫."
 
 # game/scripts/side_char_events.rpy:5868
 translate schinese love_nia_7_e29be8a3:
 
     # jena "I knew working with Sable was going to be a good idea! With this kind of public support, we could do so much more!"
-    jena ""
+    jena "我就知道和瑟布尔合作是个好主意!有了这样的公众支持,我们可以做到更多的事情!"
 
 # game/scripts/side_char_events.rpy:5869
 translate schinese love_nia_7_9f6ad851:
 
     # robot "Netizens largely agree. Healthcare is a human right."
-    robot ""
+    robot "网民们大多表示认同,医疗保健是一项人类的基本权力."
 
 # game/scripts/side_char_events.rpy:5870
 translate schinese love_nia_7_bc508210:
 
     # ghen "Heh, what about us?"
-    ghen ""
+    ghen "呵呵,那我们呢?"
 
 # game/scripts/side_char_events.rpy:5871
 translate schinese love_nia_7_bd087063:
 
     # jena "One step at a time, I guess. Once they realize Nia was their hero, they'll come around."
-    jena ""
+    jena "一步一步来吧.一旦他们意识到了妮娅是他们的英雄,他们就会回心转意的."
 
 # game/scripts/side_char_events.rpy:5873
 translate schinese love_nia_7_60016604_9:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:5877
 translate schinese love_nia_7_d343d779:
 
     # ghen "Alright, I gotta take a piss. I'll be right back."
-    ghen ""
+    ghen "好了,我去撒泡尿.马上回来."
 
 # game/scripts/side_char_events.rpy:5878
 translate schinese love_nia_7_adf4daa7:
 
     # robot "Liberate yourself from the tyranny of a full bladder, comrade."
-    robot ""
+    robot "同志,把自己从膀胱溢满的暴政中解放出来吧!"
 
 # game/scripts/side_char_events.rpy:5879
 translate schinese love_nia_7_23a2ac01:
 
     # jena "Shut up! You talk too much."
-    jena ""
+    jena "闭嘴!你话太多了."
 
 # game/scripts/side_char_events.rpy:5880
 translate schinese love_nia_7_73cc1213:
 
     # robot "Silence is compliance. Nice try, tyrant. A textbook authoritarian move."
-    robot ""
+    robot "沉默就是服从.干得不错,暴君.教科书般的独裁行为."
 
 # game/scripts/side_char_events.rpy:5881
 translate schinese love_nia_7_5d46bc2c:
 
     # jena "URGHHH!"
-    jena ""
+    jena "{b}呃!{/b}"
 
