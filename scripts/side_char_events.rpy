@@ -49633,13 +49633,13 @@ translate schinese love_nia_7_7ab69af7:
 translate schinese love_nia_7_6c003d27:
 
     # nia "I've been stopping masters and saving elves for decades. Nothing has changed! There will always be masters, and there will always be slaves..."
-    nia "几十年来,我一直在阻止奴隶主,拯救精灵.可是一切都没变!奴隶主永远存在,奴隶耶永远存在......"
+    nia "几十年来,我一直在阻止奴隶主,拯救精灵.可是一切都没变!奴隶主永远存在,奴隶也永远存在......"
 
 # game/scripts/side_char_events.rpy:5427
 translate schinese love_nia_7_e3f986ef:
 
     # nia "I'm fucking sick of it! It's a never-ending cycle that just keeps repeating."
-    nia "我他妈受够了!这是一个永无休止的循环."
+    nia "我他妈受够了!这就是个永无休止的循环."
 
 # game/scripts/side_char_events.rpy:5428
 translate schinese love_nia_7_101f3f32:
@@ -49711,7 +49711,7 @@ translate schinese love_nia_7_49ad8811:
 translate schinese love_nia_7_46b15f8e:
 
     # sable "*sigh*...\nLowtown is starting to look like actual city these days. Are you sure you're still safe here?"
-    sable "*叹气*......\n低地镇现在越来越像是个真正的城市了.你确定你在这里还安全吗>"
+    sable "*叹气*......\n低地镇现在越来越像是个真正的城市了.你确定你在这里还安全吗?"
 
 # game/scripts/side_char_events.rpy:5445
 translate schinese love_nia_7_1a30cdd9:
@@ -49825,7 +49825,7 @@ translate schinese love_nia_7_28dbda5a:
 translate schinese love_nia_7_b42ed328:
 
     # sable "You're taking your anger out on those who live within the system. Those same people who would be completely different had they been born in another system."
-    sable "你把怒火发泄到了那些生活在系统内的人身上.同样是这些人,如果他们出生在另一种制度下,情况就会完全不同."
+    sable "你把怒火发泄到了那些生活在系统内的人身上.但同样是这些人,如果他们出生在另一种制度下,情况就会完全不同."
 
 # game/scripts/side_char_events.rpy:5467
 translate schinese love_nia_7_a4a420c9:
@@ -50005,7 +50005,7 @@ translate schinese love_nia_7_d390202c:
 translate schinese love_nia_7_0870a56c:
 
     # sable "That's how it works in Syl'anar. He'll argue his case, and the judge will likely agree. And if he misses it this time, he'll just set a new date. That's why he needs to be stopped, permanently."
-    sable "在西尔阿纳尔就是这样.他会据理力争,法官很可能会同意.即使他这次错过了,他也会重新顶一个日期,所以,他需要被永久地阻止."
+    sable "在西尔阿纳尔就是这样.他会据理力争,法官很可能会同意.即使他这次错过了,他也会重新定一个日期,所以,他需要被永久地阻止."
 
 # game/scripts/side_char_events.rpy:5506
 translate schinese love_nia_7_4cc9b992:
@@ -50113,13 +50113,13 @@ translate schinese love_nia_7_cbc6d1eb:
 translate schinese love_nia_7_2585ceb5:
 
     # nia "No, you were right Sable. I couldn't see the forest for the trees. There's a bigger picture here, and it starts with guys like this."
-    nia "不,你是对的,瑟布尔,是我只见树木不见森林了.现在我看到了更大的图景,而这份图景是从他那样的家伙开始了."
+    nia "不,你是对的,瑟布尔,是我只见树木不见森林了.现在我看到了更大的图景,而这份图景是从他那样的家伙开始的."
 
 # game/scripts/side_char_events.rpy:5536
 translate schinese love_nia_7_6c483efd:
 
     # sable "Greed is our enemy, and he has many heads."
-    sable "我们的敌人是贪婪,而他可不止一个头."
+    sable "我们的敌人是贪婪,而贪婪可不止一个头."
 
 # game/scripts/side_char_events.rpy:5538
 translate schinese love_nia_7_686391c0:
@@ -50347,7 +50347,7 @@ translate schinese love_nia_7_9f1822fc:
 translate schinese love_nia_7_7449ae11:
 
     # sable "...Does it change anything for you? Knowing he has a family. A daughter."
-    sable "......在知道他有一个家庭,一个女儿之后,你改变心意了吗?"
+    sable "......在知道他有一个家庭,一个女儿之后,这对你来说有什么改变吗?"
 
 # game/scripts/side_char_events.rpy:5598
 translate schinese love_nia_7_ffdbf7fd:
@@ -50407,7 +50407,7 @@ translate schinese love_nia_7_60016604_5:
 translate schinese love_nia_7_5b5a0193:
 
     # nia "Sable...? Do you remember how I wanted to be a hero when I was young?"
-    nia "瑟布尔......?你还记得我小时候又多想成为英雄吗?"
+    nia "瑟布尔......?你还记得我小时候有多想成为英雄吗?"
 
 # game/scripts/side_char_events.rpy:5611
 translate schinese love_nia_7_a11fd163:
@@ -50665,7 +50665,7 @@ translate schinese love_nia_7_57a5e85c:
 translate schinese love_nia_7_df22dfa5:
 
     # nia "What was that??"
-    nia "那是什么??"
+    nia "那是怎么回事??"
 
 # game/scripts/side_char_events.rpy:5668
 translate schinese love_nia_7_8466c354:
@@ -50791,7 +50791,7 @@ translate schinese love_nia_7_c157678e:
 translate schinese love_nia_7_6eb633c8:
 
     # sable "Wait, wait! He's parking, get off here!"
-    sable "等下,等下!他在停车,快走!"
+    sable "等下,等下!他在停车,快下车!"
 
 # game/scripts/side_char_events.rpy:5704
 translate schinese love_nia_7_99a8bb17:
@@ -51097,7 +51097,7 @@ translate schinese love_nia_7_88e1313e:
 translate schinese love_nia_7_88f115ca:
 
     # nia "Where. The fuck. Is Sable!?"
-    nia "瑟布尔.他妈地.在哪里!?"
+    nia "瑟布尔.他妈的.在哪里!?"
 
 # game/scripts/side_char_events.rpy:5795
 translate schinese love_nia_7_90a8713e:
@@ -51169,7 +51169,7 @@ translate schinese love_nia_7_31eb1a9b:
 translate schinese love_nia_7_df57fe1d:
 
     # news24 "On the scene, we have Linda Vasquez. Linda?"
-    news24 "在现场的记者是琳达·瓦斯奎兹.琳达?"
+    news24 "我们联系在现场的记者琳达·瓦斯奎兹.琳达?"
 
 # game/scripts/side_char_events.rpy:5810
 translate schinese love_nia_7_a57f0041:
@@ -51445,7 +51445,7 @@ translate schinese love_nia_7_adfe072f:
 translate schinese love_nia_7_9df2c869:
 
     # robot "Break the shackles of drowsiness, free yourself from the oppression of fatigue."
-    robot "挣脱瞌睡的枷锁,拜托疲惫的压迫."
+    robot "挣脱瞌睡的枷锁,摆脱疲惫的压迫."
 
 # game/scripts/side_char_events.rpy:5868
 translate schinese love_nia_7_e29be8a3:

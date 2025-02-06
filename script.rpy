@@ -105068,1665 +105068,1665 @@ translate schinese explore_brothel4_c231324f:
 translate schinese explore_brothel4_1476cb89:
 
     # ray "*sigh*... If they raise taxes one more time on brothels, we'll just have to shut down..."
-    ray ""
+    ray "*叹气*......如果他们再对妓院加税,我们就只能关门大吉了......"
 
 # game/script.rpy:11104
 translate schinese explore_brothel4_5d69497b:
 
     # rbun "But we just opened...!"
-    rbun ""
+    rbun "但是我们才刚刚开业......!"
 
 # game/script.rpy:11105
 translate schinese explore_brothel4_be0c7965:
 
     # pbun "I guess we could raise prices?"
-    pbun ""
+    pbun "那我们可以提高价格?"
 
 # game/script.rpy:11106
 translate schinese explore_brothel4_5b4d40cb:
 
     # ray "We're in the slums, girl! People around here can barely afford the prices as they are!"
-    ray ""
+    ray "我们在贫民窟,女孩们!这里的人几乎负担不起现在的物价!"
 
 # game/script.rpy:11107
 translate schinese explore_brothel4_d1ffe987:
 
     # c "...Is this a bad time?"
-    c ""
+    c "......我是不是来得不是时候?"
 
 # game/script.rpy:11109
 translate schinese explore_brothel4_70f0ae3a:
 
     # ray "Oh, [name], it's you..."
-    ray ""
+    ray "哦,[name],是你啊......"
 
 # game/script.rpy:11110
 translate schinese explore_brothel4_da2be4de:
 
     # bbun "Hi [name]!"
-    bbun ""
+    bbun "嗨,[name]!"
 
 # game/script.rpy:11111
 translate schinese explore_brothel4_41bd8a72:
 
     # ray "Sorry, I'm just pissed! We're closed right now."
-    ray ""
+    ray "对不起,我现在很生气!我们关门了."
 
 # game/script.rpy:11112
 translate schinese explore_brothel4_976ef0a7:
 
     # ray "I mean, they charge us MORE while they give tax breaks to luxury hotels! We're basically paying them to operate! What the fuck is this!?"
-    ray ""
+    ray "你看,他们给我们增税,却给豪华酒店减税!基本上就是拿我们的钱去给他们运营!这他妈算什么!?"
 
 # game/script.rpy:11113
 translate schinese explore_brothel4_c04d8b4d:
 
     # c "Who? What happened?"
-    c ""
+    c "谁?发生什么事了?"
 
 # game/script.rpy:11114
 translate schinese explore_brothel4_f41e1e1b:
 
     # ray "The government! A new bill just passed. Some bullshit called the 'Sinful Establishment Tax'! I mean, excuse me!? My girls can't just magically make more money because some religious prudes don't like us!"
-    ray ""
+    ray "政府!他们刚刚通过了一条法案,叫什么狗屁的'不道德机构税'!这什么意思!?我的姑娘们又不会因为某些宗教人士不喜欢我们,就能神奇地赚更多的钱!"
 
 # game/script.rpy:11115
 translate schinese explore_brothel4_b99d6165:
 
     # ray "I know for a fact some of those men who passed this bill were here last month. Starting today, they're fucking banned! No more pussy for you assholes!"
-    ray ""
+    ray "我认识一些通过这条法案的人,他们上个月还在这里呢.从今天起,他们他妈地不准进入这里!你们这些混蛋一个女人都别想得到!"
 
 # game/script.rpy:11117
 translate schinese explore_brothel4_7f1671ee:
 
     # rbun "Maybe we could start a protest?"
-    rbun ""
+    rbun "也许我们可以发起抗议?"
 
 # game/script.rpy:11118
 translate schinese explore_brothel4_f54d0328:
 
     # pbun "Who's going to protest for sex workers...? It's bad enough we don't have health insurance."
-    pbun ""
+    pbun "谁会为性工作者抗议......?我们连医保都没有,这已经够糟糕了."
 
 # game/script.rpy:11119
 translate schinese explore_brothel4_5c075126:
 
     # rbun "Well, maybe we could set up a mutual aid fund?"
-    rbun ""
+    rbun "嗯,也许我们可以建立一个互助基金?"
 
 # game/script.rpy:11120
 translate schinese explore_brothel4_c11895d6:
 
     # bbun "We could charge rich customers more!"
-    bbun ""
+    bbun "我们可以向有钱的顾客收取更多的费用!"
 
 # game/script.rpy:11121
 translate schinese explore_brothel4_b2274858:
 
     # ray "Girls, girls... no. You do enough. You're barely scraping by as it is, and for god's sake, this is a {i}luxury{/i} brothel! I don't know how the others are going to handle this..."
-    ray ""
+    ray "姑娘们,姑娘们......不.你们已经做得够多了.你们现在已经算是勉强度日了,但是上天啊,这里可是个{i}豪华{/i}妓院啊!我不知道其他人会怎么解决这件事......"
 
 # game/script.rpy:11122
 translate schinese explore_brothel4_169968b1:
 
     # ray "We'll just raise prices on the drinks... and I'll get a cigarette vending machine! That should help a little bit."
-    ray ""
+    ray "我们可以提高酒水的价格......还可以买一台自动香烟售货机!这应该会有些帮助."
 
 # game/script.rpy:11123
 translate schinese explore_brothel4_04a671d5:
 
     # c "I might have an idea for you."
-    c ""
+    c "也许我能给你们出个主意."
 
 # game/script.rpy:11124
 translate schinese explore_brothel4_5374de66:
 
     # ray "[name], no offense, but what do you know about running a business?"
-    ray ""
+    ray "[name],我无意冒犯,但是你对经营企业了解多少?"
 
 # game/script.rpy:11125
 translate schinese explore_brothel4_dc17f71d:
 
     # c "Well, I run a hotel."
-    c ""
+    c "嗯,我拥有一家酒店."
 
 # game/script.rpy:11126
 translate schinese explore_brothel4_0cc51c21:
 
     # ray "..."
-    ray ""
+    ray "......"
 
 # game/script.rpy:11128
 translate schinese explore_brothel4_32ac806d:
 
     # ray "I'm listening..."
-    ray ""
+    ray "说说看吧......"
 
 # game/script.rpy:11129
 translate schinese explore_brothel4_c53316d8:
 
     # c "Public group stripping.\nYou could set it up at the beach, and you could set up a donation box where certain thresholds remove clothing, or change an outfit. You could even start live streaming."
-    c ""
+    c "公开场合集体脱衣舞.\n你可以在海滩上设置一个捐款箱,捐款达到一定的门槛后,就可以让她们脱掉衣服,或者换一套衣服.你甚至可以开个直播."
 
 # game/script.rpy:11131
 translate schinese explore_brothel4_4202f2e4:
 
     # ray "*GASP*! YES! That's perfect!"
-    ray ""
+    ray "{b}*惊叹*!是的!{/b}这太完美了!"
 
 # game/script.rpy:11132
 translate schinese explore_brothel4_077f9e16:
 
     # bbun "I love it!"
-    bbun ""
+    bbun "我喜欢这个主意!"
 
 # game/script.rpy:11133
 translate schinese explore_brothel4_e0f1961e:
 
     # pbun "That's good advertisement."
-    pbun ""
+    pbun "这是一个好广告."
 
 # game/script.rpy:11134
 translate schinese explore_brothel4_bccdc00e:
 
     # rbun "I think it could work!"
-    rbun ""
+    rbun "我觉得这能成!"
 
 # game/script.rpy:11135
 translate schinese explore_brothel4_3fa266d7:
 
     # ray "We could use that stage they built for slave auctions! It's just what we need! And with live streaming!? We could end up making MORE money after this!"
-    ray ""
+    ray "我们可以用他们为奴隶拍卖搭建的舞台!这正是我们需要的!还有直播!?这样我能赚到{b}更多{/b}钱了!"
 
 # game/script.rpy:11136
 translate schinese explore_brothel4_e1fba9e1:
 
     # ray "Oh my god, thank you [name]! Thank you! It's brilliant!"
-    ray ""
+    ray "哦我天,谢谢你,[name]!谢谢你!太天才了!"
 
 # game/script.rpy:11138
 translate schinese explore_brothel4_26b10db1:
 
     # ray "Alright girls! Are you ready to make some money??"
-    ray ""
+    ray "好了姑娘们!准备好赚钱了吗??"
 
 # game/script.rpy:11139
 translate schinese explore_brothel4_1ad8928e:
 
     # bbun "Yes, yes!"
-    bbun ""
+    bbun "是的,是的!"
 
 # game/script.rpy:11140
 translate schinese explore_brothel4_4dd884cd:
 
     # rbun "Let's do it!"
-    rbun ""
+    rbun "我们开始吧!"
 
 # game/script.rpy:11141
 translate schinese explore_brothel4_14080814:
 
     # ray "Okay! Give me a few hours to set this up. I'll make some calls and set up a live streaming account for us."
-    ray ""
+    ray "好的!给我几个小时准备一下.我去打几个电话,然后再开一个直播账户."
 
 # game/script.rpy:11142
 translate schinese explore_brothel4_1eb72827:
 
     # ray "[name], I want you there for this. I'll give you a call and let you know where to meet us, okay?"
-    ray ""
+    ray "[name],我希望你能在现场.我会给你打电话,告诉你在哪里见面,好吗?"
 
 # game/script.rpy:11143
 translate schinese explore_brothel4_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "当然可以."
 
 # game/script.rpy:11144
 translate schinese explore_brothel4_e9bbf50b:
 
     # ray "Get ready girls! Put your sunscreen on and bring lots of water bottles. This is going to be big!"
-    ray ""
+    ray "准备好,姑娘们!涂好防晒霜,多带点水.大的要来了!"
 
 # game/script.rpy:11146
 translate schinese explore_brothel4_94d019a6:
 
     # "...{w}..."
-    ""
+    "......{w}......"
 
 # game/script.rpy:11147
 translate schinese explore_brothel4_090b202d:
 
     # "Two hours later, you finally get the text from Ray. The event has started!"
-    ""
+    "两小时后,你总算接到了雷的短信.活动开始了!"
 
 # game/script.rpy:11149
 translate schinese explore_brothel4_1e51dec1:
 
     # c "There they are. Wow, that's a crowd."
-    c ""
+    c "他们在这.哇哦,人好多啊."
 
 # game/script.rpy:11150
 translate schinese explore_brothel4_c927848f:
 
     # c "And it looks like they've already gotten a few donations."
-    c ""
+    c "看起来他们已经收到一些捐款了."
 
 # game/script.rpy:11152
 translate schinese explore_brothel4_86f37010:
 
     # ray "[name]! There you are! Can you believe it? It's a hit! People are spending money like crazy to undress these girls!"
-    ray ""
+    ray "[name]!你来了!你敢相信吗?太火了!人们疯狂的花钱,来让这些女孩脱衣服!"
 
 # game/script.rpy:11153
 translate schinese explore_brothel4_5c901640:
 
     # ray "Oh! And the online donations! I can't believe I never thought of that before! This is really going to save the brothel!"
-    ray ""
+    ray "哦!还有线上捐款!我以前居然从来没想过这个!这真的能拯救妓院!"
 
 # game/script.rpy:11154
 translate schinese explore_brothel4_87629352:
 
     # c "I'm glad I could help."
-    c ""
+    c "我很高兴我能帮上忙."
 
 # game/script.rpy:11156
 translate schinese explore_brothel4_362496a8:
 
     # ray "Here, I wanted to give you a little something for helping out. Please, take it!"
-    ray ""
+    ray "给,这是我为你的帮助给的一点心意.请收下吧!"
 
 # game/script.rpy:11157
 translate schinese explore_brothel4_0bf1fd87:
 
     # "You gained $35!"
-    ""
+    "你获得了35$!"
 
 # game/script.rpy:11160
 translate schinese explore_brothel4_603c72fe:
 
     # c "Oh wow, thanks. You really didn't have to."
-    c ""
+    c "哦,哇哦,谢谢.你真没必要这么做的."
 
 # game/script.rpy:11161
 translate schinese explore_brothel4_036e0201:
 
     # ray "Good ideas deserve great rewards! Of course I had to."
-    ray ""
+    ray "好点子应该得到好回报!我理应这么做."
 
 # game/script.rpy:11162
 translate schinese explore_brothel4_df72f289:
 
     # ray "But listen, I need to get back to managing this whole thing, but you should stick around! The girls love having you around."
-    ray ""
+    ray "但是听着,我得回去管理一些事情,不过你应该留下来.姑娘们喜欢待在你身边."
 
 # game/script.rpy:11163
 translate schinese explore_brothel4_78fe0b12:
 
     # c "Thanks, but I should probably get going. I just came to make sure everything went smoothly."
-    c ""
+    c "谢谢,不过我得走了.我只是来确保一切顺利."
 
 # game/script.rpy:11164
 translate schinese explore_brothel4_35e32559:
 
     # ray "Sure, no problem. I'll see you around, [name]!"
-    ray ""
+    ray "当然,没问题.回头见,[name]!"
 
 # game/script.rpy:11166
 translate schinese explore_brothel4_a59200bf:
 
     # ray "WOO! LET'S GO GIRLS! YOU'RE FANTASTIC! YES!"
-    ray ""
+    ray "{b}喔!来吧,姑娘们!你们太棒了!是的!{/b}"
 
 # game/script.rpy:11168
 translate schinese explore_brothel4_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:11171
 translate schinese explore_brothel4_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11173
 translate schinese explore_brothel4_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11175
 translate schinese explore_brothel4_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11184
 translate schinese explore_brothel5_6725e749:
 
     # c "Hm, nice.\nLooks like business is booming as ever."
-    c ""
+    c "嗯,很好.\n看起来生意一如既往地红火."
 
 # game/script.rpy:11185
 translate schinese explore_brothel5_3177dfe0:
 
     # q "[name]! Hey~"
-    q ""
+    q "[name]!嘿~"
 
 # game/script.rpy:11186
 translate schinese explore_brothel5_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "嗯?"
 
 # game/script.rpy:11188
 translate schinese explore_brothel5_9a27f7ca:
 
     # bbun "Hiii~ welcome back! Thank you again soooo much for helping us out the other day. Business has never been better!"
-    bbun ""
+    bbun "嗨~欢迎回来!再次非常感谢你前几天对我们的帮助.我们的生意从未如此好过!"
 
 # game/script.rpy:11189
 translate schinese explore_brothel5_d41c7c3e:
 
     # c "Sure, no problem.\nHey, are you guys hiring?"
-    c ""
+    c "当然,别客气.\n嘿,你们还招人吗?"
 
 # game/script.rpy:11190
 translate schinese explore_brothel5_808fd102:
 
     # bbun "Heheh, oh I'm sure you'd look stunning in a bunny suit!"
-    bbun ""
+    bbun "呵呵呵,哦,我相信你穿上兔女郎服一定很迷人!"
 
 # game/script.rpy:11191
 translate schinese explore_brothel5_cb5da8ad:
 
     # c "Uh, not me..."
-    c ""
+    c "呃,不是我......"
 
 # game/script.rpy:11192
 translate schinese explore_brothel5_47b41d3e:
 
     # bbun "Why? Do you know someone?"
-    bbun ""
+    bbun "为什么?你有认识的吗?"
 
 # game/script.rpy:11193
 translate schinese explore_brothel5_13312960:
 
     # c "I might."
-    c ""
+    c "也许."
 
 # game/script.rpy:11194
 translate schinese explore_brothel5_2f4493ef:
 
     # bbun "Welllll... we could probably use another dancer. Red and I aren't the best, and Purple could probably use a break."
-    bbun ""
+    bbun "嗯......我们可能需要另一个舞者.小红和我都不是最好的舞者,小紫也需要休息一下."
 
 # game/script.rpy:11195
 translate schinese explore_brothel5_f96c5795:
 
     # bbun "But I'd have to talk to Ray about that. I'm not sure if we're doing {i}that{/i} much better yet."
-    bbun ""
+    bbun "但是我得跟雷谈一下.我不确定我们的状况有好到{i}那种{/i}程度."
 
 # game/script.rpy:11196
 translate schinese explore_brothel5_c60df9ce:
 
     # bbun "Anyway! I really need to put this order in. I'll talk to you later, 'kay?"
-    bbun ""
+    bbun "不管怎样!我得去处理一下这个订单.回头再聊,好吗?"
 
 # game/script.rpy:11197
 translate schinese explore_brothel5_ff7b10fd:
 
     # c "Okay, see you."
-    c ""
+    c "好的,再见."
 
 # game/script.rpy:11199
 translate schinese explore_brothel5_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/script.rpy:11201
 translate schinese explore_brothel5_3784857a:
 
     # c "...?"
-    c ""
+    c ".....?"
 
 # game/script.rpy:11203
 translate schinese explore_brothel5_7b748570:
 
     # q "!!!" with ssshake
-    q "" with ssshake
+    q "!!!" with ssshake
 
 # game/script.rpy:11205
 translate schinese explore_brothel5_c00ef96d:
 
     # c "Hm."
-    c ""
+    c "嗯."
 
 # game/script.rpy:11207
 translate schinese explore_brothel5_cdba9b52:
 
     # c "...You good?"
-    c ""
+    c "......你还好吗?"
 
 # game/script.rpy:11208
 translate schinese explore_brothel5_d267661a:
 
     # q "..."
-    q ""
+    q "......"
 
 # game/script.rpy:11209
 translate schinese explore_brothel5_8cda0e0f:
 
     # q "...Do you work here?"
-    q ""
+    q "......你在这工作吗?"
 
 # game/script.rpy:11210
 translate schinese explore_brothel5_d03c9e8a:
 
     # c "No?"
-    c ""
+    c "不?"
 
 # game/script.rpy:11211
 translate schinese explore_brothel5_071fc45b:
 
     # q "Then how does she know your name?"
-    q ""
+    q "那她怎么知道你的名字?"
 
 # game/script.rpy:11212
 translate schinese explore_brothel5_636d3cc5:
 
     # c "Uh, we're friends, I guess. Why do you care?"
-    c ""
+    c "呃,我们是朋友,大概.你关心这个干什么?"
 
 # game/script.rpy:11213
 translate schinese explore_brothel5_d267661a_1:
 
     # q "..."
-    q ""
+    q "......"
 
 # game/script.rpy:11215
 translate schinese explore_brothel5_a94b8916:
 
     # q "Well! I'm here to dig up company secrets on a corporate competitor!" with ssshake
-    q "" with ssshake
+    q "好吧!我是来挖掘公司竞争对手的商业机密的!" with ssshake
 
 # game/script.rpy:11216
 translate schinese explore_brothel5_c369c640:
 
     # q "It just so happens that he frequently visits this place, and I just so happen to know he likes Blue Bunny!"
-    q ""
+    q "碰巧那个人经常来这里,而我恰好知道他喜欢蓝兔子!"
 
 # game/script.rpy:11217
 translate schinese explore_brothel5_44dcc837:
 
     # q "In fact, this man is here almost every day! He'll wait hours just for a chance with her. I'm sure they discuss insider business deals! She told me herself!"
-    q ""
+    q "实际上,这个男人几乎每天都会来这里!他会在这里等上几个小时,就为了能和她在一起.我敢肯定他们是在讨论某种内部交易!她自己告诉我的!"
 
 # game/script.rpy:11218
 translate schinese explore_brothel5_b2dc0303:
 
     # c "So you're bribing her?"
-    c ""
+    c "所以你要贿赂她?"
 
 # game/script.rpy:11220
 translate schinese explore_brothel5_1470a16f:
 
     # q "{i}Not so loud...!{/i}\nBut yes. It's strictly professional, okay? I need to be subtle though, or she won't tell me anything."
-    q ""
+    q "{i}别太大声了......{/i}\n但是是的.这是专业上的事情,好吗?不过我得含蓄点,不然她什么都不会告诉我的."
 
 # game/script.rpy:11222
 translate schinese explore_brothel5_77591ebd:
 
     # q "*sigh*... But she doesn't deserve this life... I want to get her out of here. Give her the life she deserves... This isn't a place for someone like her. Someone so... beautiful, and intelligent."
-    q ""
+    q "*叹气*......但她不应该过这种生活......我想带她离开,给她应有的生活......这里不适合她这样一个如此......美丽,聪慧的人."
 
 # game/script.rpy:11223
 translate schinese explore_brothel5_05331c1b:
 
     # c "I don't know, I think she's pretty happy here."
-    c ""
+    c "我不知道,我觉得她在这里挺开心的."
 
 # game/script.rpy:11224
 translate schinese explore_brothel5_9081b1fc:
 
     # q "Nobody is here by choice. Especially not someone like her..."
-    q ""
+    q "没有人是自愿来这里的,尤其是像她这样的人......"
 
 # game/script.rpy:11225
 translate schinese explore_brothel5_42032988:
 
     # c "So you're trying to steal his whore, too?"
-    c ""
+    c "所以你还想偷他的妓女?"
 
 # game/script.rpy:11227
 translate schinese explore_brothel5_4ce8ff6c:
 
     # q "Listen, man! This is none of your business! Just forget you saw anything, alright? I'll buy you a cocktail. Sound good?"
-    q ""
+    q "听着,伙计!这不关你的事!就当你什么都没看见,好吗?我请你一杯鸡尾酒,好吗?"
 
 # game/script.rpy:11228
 translate schinese explore_brothel5_678a12e9:
 
     # c "I think I'll take my drink in the form of coin."
-    c ""
+    c "比起酒,我还是更喜欢等值的现金."
 
 # game/script.rpy:11230
 translate schinese explore_brothel5_9b4cd252:
 
     # q "Yeah, whatever."
-    q ""
+    q "好吧,随你."
 
 # game/script.rpy:11232
 translate schinese explore_brothel5_22bb0f8e:
 
     # q "This enough to shut you up?"
-    q ""
+    q "够让你闭嘴了吗?"
 
 # game/script.rpy:11233
 translate schinese explore_brothel5_3b7601ea:
 
     # c "For now."
-    c ""
+    c "目前是够了."
 
 # game/script.rpy:11235
 translate schinese explore_brothel5_0723b7a8:
 
     # "You gained $15!"
-    ""
+    "你获得了15$!"
 
 # game/script.rpy:11237
 translate schinese explore_brothel5_1b2d4a64:
 
     # q "Get lost..."
-    q ""
+    q "走吧......"
 
 # game/script.rpy:11238
 translate schinese explore_brothel5_665e2e8f:
 
     # bbun "Here's your drink, sir!"
-    bbun ""
+    bbun "这是你的酒水,先生!"
 
 # game/script.rpy:11240
 translate schinese explore_brothel5_3efdfebd:
 
     # q "B-Blue Bunny! Hiiii~~~" with ssshake
-    q "" with ssshake
+    q "蓝-蓝兔子!嗨~~~" with ssshake
 
 # game/script.rpy:11241
 translate schinese explore_brothel5_dbbfacc5:
 
     # bbun "Um, but you didn't finish your last drink?"
-    bbun ""
+    bbun "呃,但是你上一杯酒不是还没喝完吗?"
 
 # game/script.rpy:11242
 translate schinese explore_brothel5_7a9c4064:
 
     # q "T-That's okay! I love you! I- I mean them! The drinks! I love them!"
-    q ""
+    q "没-没关系的!我爱你!我-我是说它们!酒!我爱喝酒!"
 
 # game/script.rpy:11243
 translate schinese explore_brothel5_aa56c4b0:
 
     # bbun "I know~ they're so great, right?"
-    bbun ""
+    bbun "我知道~它们很棒,不是吗?"
 
 # game/script.rpy:11244
 translate schinese explore_brothel5_4df2b74a:
 
     # q "Here's another tip for you!"
-    q ""
+    q "这是给你的另一份小费!"
 
 # game/script.rpy:11245
 translate schinese explore_brothel5_1167a5e5:
 
     # bbun "Thank you..."
-    bbun ""
+    bbun "谢谢......"
 
 # game/script.rpy:11247
 translate schinese explore_brothel5_b5259a88:
 
     # bbun "Wait, do you two know each other?"
-    bbun ""
+    bbun "等等,你们认识吗?"
 
 # game/script.rpy:11248
 translate schinese explore_brothel5_c5c7b3ff:
 
     # q "Yes! We go way back. Right [name]?"
-    q ""
+    q "是的!我们是老相识了.对不对,[name]?"
 
 # game/script.rpy:11249
 translate schinese explore_brothel5_d19f855d_1:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/script.rpy:11250
 translate schinese explore_brothel5_944d0939:
 
     # bbun "Hmm, well okay!"
-    bbun ""
+    bbun "嗯,好吧!"
 
 # game/script.rpy:11252
 translate schinese explore_brothel5_8c6fe174:
 
     # bbun "Hey, Red wants to speak with you. She's right over there."
-    bbun ""
+    bbun "嘿,小红有事要跟你说.她在那."
 
 # game/script.rpy:11253
 translate schinese explore_brothel5_f3a65846:
 
     # c "Hm? Alright."
-    c ""
+    c "嗯?行吧."
 
 # game/script.rpy:11254
 translate schinese explore_brothel5_2631cbff:
 
     # q "H-Hey..."
-    q ""
+    q "嘿-嘿......"
 
 # game/script.rpy:11256
 translate schinese explore_brothel5_6843cf06:
 
     # rbun "{i}One cherry cocktail... one sunrise...{/i}"
-    rbun ""
+    rbun "{i}一杯樱桃鸡尾酒......一杯龙舌兰日出......{/i}"
 
 # game/script.rpy:11257
 translate schinese explore_brothel5_e387f588:
 
     # c "You wanted to speak with me?"
-    c ""
+    c "你有话要对我说吗?"
 
 # game/script.rpy:11259
 translate schinese explore_brothel5_5f0b5455:
 
     # rbun "Huh? Oh hi [name]. Uh, no...?"
-    rbun ""
+    rbun "嗯?哦,你好,[name].呃,没有......?"
 
 # game/script.rpy:11260
 translate schinese explore_brothel5_270f3921:
 
     # rbun "I mean, not to be rude... but?"
-    rbun ""
+    rbun "我是说,无意冒犯......但是?"
 
 # game/script.rpy:11261
 translate schinese explore_brothel5_ef0cea2d:
 
     # c "Hm? But Blue said..."
-    c ""
+    c "嗯?但小蓝说......"
 
 # game/script.rpy:11263
 translate schinese explore_brothel5_55dd5f5f:
 
     # bbun "Sorry, sorry, I just needed an excuse."
-    bbun ""
+    bbun "对不起,对不起,我只是需要一个借口."
 
 # game/script.rpy:11264
 translate schinese explore_brothel5_0814df34:
 
     # rbun "What's going on, BB?"
-    rbun ""
+    rbun "怎么了,BB?"
 
 # game/script.rpy:11266
 translate schinese explore_brothel5_82ade449:
 
     # bbun "Remember that guy in the suit over there?"
-    bbun ""
+    bbun "还记得那边那个穿西装的家伙吗?"
 
 # game/script.rpy:11267
 translate schinese explore_brothel5_b16b96c7:
 
     # rbun "Oh yeah, this is like his fourth time here this week. He seems to like you."
-    rbun ""
+    rbun "哦对,这已经是他这周第四次来这里了.他好像很喜欢你啊."
 
 # game/script.rpy:11268
 translate schinese explore_brothel5_9c053168:
 
     # bbun "I know! Wanna know why? One of his company's competitors is also a top client of mine, and he actually thinks I know their secrets!"
-    bbun ""
+    bbun "我知道!你知道为什么吗?他公司的一个竞争对手也是我的顶级客户,他居然认为我知道他们的秘密!"
 
 # game/script.rpy:11269
 translate schinese explore_brothel5_4206ae4f:
 
     # c "You mean you don't?"
-    c ""
+    c "你是说你不知道?"
 
 # game/script.rpy:11271
 translate schinese explore_brothel5_3f282e37:
 
     # bbun "Haha, not at all! Suits don't explose their secrets here. Even when he gets drunk, he's way too hammered to string together a coherent sentence. But that guy doesn't know that~"
-    bbun ""
+    bbun "哈哈,完全不知道!那些西装男可不会在这里泄露秘密.即使他喝醉了,他也只是醉得话都说不清楚.但是那家伙不知道~"
 
 # game/script.rpy:11272
 translate schinese explore_brothel5_9de237fe:
 
     # c "Damn. You're playing both of them."
-    c ""
+    c "我操.你耍了他们两个啊."
 
 # game/script.rpy:11273
 translate schinese explore_brothel5_22cd0765:
 
     # bbun "Yeah... and I may have dropped a few hints that I could see a future with him."
-    bbun ""
+    bbun "是的......我可能还暗示了他几句,说我能看到和他的未来."
 
 # game/script.rpy:11274
 translate schinese explore_brothel5_e9f8f493:
 
     # rbun "*gasp*! You're not supposed to do that! That's unethical, BB!"
-    rbun ""
+    rbun "*惊叹*!你不应该那么做!那样不道德,BB!"
 
 # game/script.rpy:11275
 translate schinese explore_brothel5_a660aebf:
 
     # bbun "Isn't that kind of our job though, Red? Hehe."
-    bbun ""
+    bbun "我们的工作不正是这样吗,小红?呵呵."
 
 # game/script.rpy:11276
 translate schinese explore_brothel5_d75c490b:
 
     # rbun "BB...! If Ray hears about this..."
-    rbun ""
+    rbun "BB......!要是雷听说了......"
 
 # game/script.rpy:11278
 translate schinese explore_brothel5_e405bb43:
 
     # bbun "Hey, I'm not going to let myself be the one getting played here. Besides, we should always be two steps ahead of our clientele. It's what keeps us alive, and what puts money in our pocket."
-    bbun ""
+    bbun "嘿,我可不想让自己成为被耍的那个.此外,我们永远应该比客户领先两步.这样,我们才能活下去,才能把钱装进口袋里."
 
 # game/script.rpy:11279
 translate schinese explore_brothel5_6c5ff411:
 
     # c "That's smart."
-    c ""
+    c "聪明."
 
 # game/script.rpy:11280
 translate schinese explore_brothel5_1b2d85a5:
 
     # rbun "Don't endorse her actions, [name]... What if Ray finds out?"
-    rbun ""
+    rbun "不要赞同她的行为,[name]......要是雷发现了怎么办?"
 
 # game/script.rpy:11281
 translate schinese explore_brothel5_7d4dfb57:
 
     # bbun "I don't think he'll care. It's those kind of guys that sponsor the politicians who slapped that bill in our face. If anything, I'm just evening the score a bit..."
-    bbun ""
+    bbun "我觉得他并不在乎.就是这种人赞助了那些把法案甩我们脸上的政客们.真要论起来,我只是讨回点公道罢了."
 
 # game/script.rpy:11282
 translate schinese explore_brothel5_aeaf9f53:
 
     # rbun "*sigh*, okay fine. I won't say anything. Just be careful, okay?"
-    rbun ""
+    rbun "*叹气*,好吧.我也不说什么了.只是,小心点,好吗?"
 
 # game/script.rpy:11283
 translate schinese explore_brothel5_4c957d3f:
 
     # bbun "Don't worry! I have him wrapped around my little finger~"
-    bbun ""
+    bbun "别担心!我已经把他玩弄于股掌之中了~"
 
 # game/script.rpy:11284
 translate schinese explore_brothel5_d5962246:
 
     # rbun "Keep me out of it..."
-    rbun ""
+    rbun "别把我扯进去......"
 
 # game/script.rpy:11286
 translate schinese explore_brothel5_be249136:
 
     # bbun "And [name], would you like a drink? On him~\nConsider it a gift for being cool about it."
-    bbun ""
+    bbun "还有,[name],你要来一杯吗?他请客~\n就当作是奖励你这么淡定的礼物."
 
 # game/script.rpy:11287
 translate schinese explore_brothel5_c7e2deeb:
 
     # c "Sure, thanks Blue."
-    c ""
+    c "好啊,谢谢你,小蓝."
 
 # game/script.rpy:11289
 translate schinese explore_brothel5_3be5c752:
 
     # bbun "Call me BB."
-    bbun ""
+    bbun "叫我BB就可以."
 
 # game/script.rpy:11291
 translate schinese explore_brothel5_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:11294
 translate schinese explore_brothel5_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11296
 translate schinese explore_brothel5_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11298
 translate schinese explore_brothel5_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11307
 translate schinese explore_brothel6_791cca9a:
 
     # ray "Good job, girls! This week was {i}amazing!!{/i}"
-    ray ""
+    ray "干得好,姑娘们!这周真的是{i}太棒了!!{/i}"
 
 # game/script.rpy:11308
 translate schinese explore_brothel6_25d24357:
 
     # ray "So, as promised, my husband and I are going to treat you all to a fancy dinner tonight! Dress to impress ladies."
-    ray ""
+    ray "所以,按照约定,我和丈夫今晚要请大家吃一顿丰盛的晚餐!女士们,请盛装出席吧."
 
 # game/script.rpy:11309
 translate schinese explore_brothel6_01e7dbc0:
 
     # bbun "Yay!"
-    bbun ""
+    bbun "耶!"
 
 # game/script.rpy:11310
 translate schinese explore_brothel6_f8dbc589:
 
     # pbun "Oh, this is so worth it..."
-    pbun ""
+    pbun "哦,这太值得了......"
 
 # game/script.rpy:11311
 translate schinese explore_brothel6_74cb5487:
 
     # rbun "Thank you so much, Ray!"
-    rbun ""
+    rbun "谢谢你,雷!"
 
 # game/script.rpy:11312
 translate schinese explore_brothel6_78a64e99:
 
     # ray "Me? No, you made it possible, ladies! The way things are looking, we may be able to hire a new bunny soon!"
-    ray ""
+    ray "我?不,女士们,是你们才让这件事成为可能!从目前的情况来看,也许我们很快就能再雇到一位新兔子了!"
 
 # game/script.rpy:11313
 translate schinese explore_brothel6_8220a001:
 
     # c "Hey, that's great news."
-    c ""
+    c "嘿,那是个好消息啊."
 
 # game/script.rpy:11315
 translate schinese explore_brothel6_97bc0056:
 
     # ray "[name]! Oh, welcome! It wouldn't be possible without you too, of course."
-    ray ""
+    ray "[name]!哦,欢迎!当然,没有你,这也是不可能的."
 
 # game/script.rpy:11316
 translate schinese explore_brothel6_81488ef3:
 
     # ray "Hey, would you like to join us?"
-    ray ""
+    ray "嘿,你想加入我们吗?"
 
 # game/script.rpy:11317
 translate schinese explore_brothel6_58d08b6f:
 
     # bbun "Yeah, c'mon. It would be so fun!"
-    bbun ""
+    bbun "对啊,来吧.那很有趣的!"
 
 # game/script.rpy:11321
 translate schinese explore_brothel6_3003b19e:
 
     # q "Agh! Please...! They'll find me...! I can't go back!"
-    q ""
+    q "啊!求你们......!他们会找到我的......!我不能回去!"
 
 # game/script.rpy:11322
 translate schinese explore_brothel6_878928f7:
 
     # ray "*gasp*!"
-    ray ""
+    ray "*惊叹*!"
 
 # game/script.rpy:11323
 translate schinese explore_brothel6_e0b5fbc4:
 
     # rbun "Oh my god!"
-    rbun ""
+    rbun "哦我天!"
 
 # game/script.rpy:11324
 translate schinese explore_brothel6_a5cd20bc:
 
     # pbun "Are you okay? What happened?"
-    pbun ""
+    pbun "你还好吗?发生什么事了?"
 
 # game/script.rpy:11325
 translate schinese explore_brothel6_0f1db9b6:
 
     # q "They're chasing me! I don't have much time, please...!"
-    q ""
+    q "他们在追我!我时间不多了,求求你们......!"
 
 # game/script.rpy:11328
 translate schinese explore_brothel6_b0bd6e84:
 
     # ray "Woah woah woah woah, that's a code violation! No elves are allowed in here. You need to go somewhere else, missy!"
-    ray ""
+    ray "喔喔喔喔,那样可是违反规定的!精灵不能进来,你得去别的地方,小姐!"
 
 # game/script.rpy:11329
 translate schinese explore_brothel6_d5e180fa:
 
     # q "They'll kill me if I go back! Please, I can't!"
-    q ""
+    q "要是我回去的话,他们会杀了我的!求你了,我不能!"
 
 # game/script.rpy:11330
 translate schinese explore_brothel6_ec919c85:
 
     # ray "What? Who's going to kill you?"
-    ray ""
+    ray "什么?谁要杀了你?"
 
 # game/script.rpy:11331
 translate schinese explore_brothel6_d0de6ef5:
 
     # q "The company I work for, I escaped! I had to! They don't care if we live or die, I had to get out..."
-    q ""
+    q "我工作的公司,我从那里逃了出来!我必须逃走!他们完全不管我们的死活,我必须逃走......"
 
 # game/script.rpy:11332
 translate schinese explore_brothel6_3fd73f5d:
 
     # q "I'm not going to end up like the others!"
-    q ""
+    q "我不想落得和其他人一个下场!"
 
 # game/script.rpy:11334
 translate schinese explore_brothel6_0c6f0060:
 
     # pbun "Hurry, come this way."
-    pbun ""
+    pbun "快点,这边走."
 
 # game/script.rpy:11335
 translate schinese explore_brothel6_c8fc7995:
 
     # ray "HEY, pause! No! We cannot take responsibility for this!"
-    ray ""
+    ray "{b}嘿,{/b}等下!不行!我们不能为此负责!"
 
 # game/script.rpy:11336
 translate schinese explore_brothel6_6a2b40d2:
 
     # bbun "Please Ray, help her! We've all been in a situation like that before!"
-    bbun ""
+    bbun "求你了,雷,帮帮她吧!我们以前都遇到过类似的情况!"
 
 # game/script.rpy:11337
 translate schinese explore_brothel6_a08768fb:
 
     # ray "No no no, my responsibility is to take care of my bunnies. We don't need the police here! She puts ALL of us at risk!"
-    ray ""
+    ray "不不不,我的责任是照顾好我的兔子们.我们不需要警察掺和进来!她会把我们{b}所有人{/b}都置于危险之中的!"
 
 # game/script.rpy:11338
 translate schinese explore_brothel6_2760691c:
 
     # ray "What do you think the police are going to think when they see an elf here? We could get shut down! Absolutely not!"
-    ray ""
+    ray "你觉得警察们要是看到精灵,他们会怎么想?我们会被查封的!绝对不行!"
 
 # game/script.rpy:11339
 translate schinese explore_brothel6_5c45d1eb:
 
     # rbun "I hate to say it, but I agree... the last thing we need is more trouble here..."
-    rbun ""
+    rbun "我不想这么说,但我同意......我们这里最不需要的就是更多的麻烦......"
 
 # game/script.rpy:11342
 translate schinese explore_brothel6_824c3c60:
 
     # pbun "You can't be serious! Her life means more than a little heat!"
-    pbun ""
+    pbun "你不是认真的吧!她的生命要比一点摩擦重要得多!"
 
 # game/script.rpy:11343
 translate schinese explore_brothel6_dc54e69b:
 
     # rbun "I don't want to turn her away! But it's the law! I doubt they're going to kill her anyway..."
-    rbun ""
+    rbun "我不想赶她走!但法律就是法律!我不觉得他们会杀了她......"
 
 # game/script.rpy:11344
 translate schinese explore_brothel6_12701b89:
 
     # bbun "Look at her, Red! She needs our help!"
-    bbun ""
+    bbun "看看她,小红!她需要我们的帮助!"
 
 # game/script.rpy:11345
 translate schinese explore_brothel6_2a7e07c1:
 
     # q "Please...!"
-    q ""
+    q "求你们了......!"
 
 # game/script.rpy:11347
 translate schinese explore_brothel6_5bae2f77:
 
     # ray "It's too much risk. My job is to protect you girls, not other girls!"
-    ray ""
+    ray "风险太大了.我的职责是保护你们,而不是其他女孩!"
 
 # game/script.rpy:11348
 translate schinese explore_brothel6_615cfddf:
 
     # bbun "They won't find her if we hide her in the back. You can easily get rid of them, Ray, I've seen you do it before!"
-    bbun ""
+    bbun "如果我们把她藏在后面,他们就找不到她.你可以轻松摆脱他们的,雷,我以前见过你那么做过!"
 
 # game/script.rpy:11349
 translate schinese explore_brothel6_cd68e9f8:
 
     # ray "BB...!"
-    ray ""
+    ray "BB......!"
 
 # game/script.rpy:11352
 translate schinese explore_brothel6_355ea924:
 
     # bbun "[name]! What do you think? It's 2 to 2, if we delay this any longer someone's going to get fucked!"
-    bbun ""
+    bbun "[name]!你觉得呢?现在是2比2,要是我们再拖下去,有人就会完蛋的!"
 
 # game/script.rpy:11355
 translate schinese explore_brothel6_d316c4ce:
 
     # c "We should hide her, it's only right. Especially if turning her away means she could be killed."
-    c ""
+    c "我们应该把她藏起来,这才是正确的做法.何况是在如果我们把她赶走,她就会被杀的情况下."
 
 # game/script.rpy:11357
 translate schinese explore_brothel6_3731b743:
 
     # bbun "Okay! Go, follow Purple Bunny! We'll hide you in the back!"
-    bbun ""
+    bbun "好的!去吧,跟着紫兔子!我们把你藏在后面!"
 
 # game/script.rpy:11358
 translate schinese explore_brothel6_8ca2d5fa:
 
     # ray "What!? HEY! This is not a democracy! It's a republic!"
-    ray ""
+    ray "什么!?{b}嘿!{/b}我们可不是民主制!是共和制!"
 
 # game/script.rpy:11359
 translate schinese explore_brothel6_ba8fff7c:
 
     # pbun "Hurry!"
-    pbun ""
+    pbun "快点!"
 
 # game/script.rpy:11360
 translate schinese explore_brothel6_a0ee66b2:
 
     # q "Thank you! Thank you!"
-    q ""
+    q "谢谢你!谢谢你们!"
 
 # game/script.rpy:11362
 translate schinese explore_brothel6_2f7b9cc8:
 
     # ray "URGH! You guys...!"
-    ray ""
+    ray "{b}呃!{/b}你们啊......!"
 
 # game/script.rpy:11363
 translate schinese explore_brothel6_5eb09d05:
 
     # bbun "It's the right thing to do, Ray..."
-    bbun ""
+    bbun "这是正确的做法,雷......"
 
 # game/script.rpy:11365
 translate schinese explore_brothel6_2dcef3db:
 
     # "*BANG BANG BANG*" with sshake
-    "" with sshake
+    "{b}*嘭嘭嘭*{/b}" with sshake
 
 # game/script.rpy:11366
 translate schinese explore_brothel6_191bd5a0:
 
     # ray "{i}Shit... *ahem*...{/i}"
-    ray ""
+    ray "{i}操了......*咳嗽*......{/i}"
 
 # game/script.rpy:11367
 translate schinese explore_brothel6_3292985c:
 
     # ray "ONE MOMENT!"
-    ray ""
+    ray "{b}马上!{/b}"
 
 # game/script.rpy:11369
 translate schinese explore_brothel6_668ad4e9:
 
     # ray "The police!? What do you want?"
-    ray ""
+    ray "警察!?你们想要什么?"
 
 # game/script.rpy:11370
 translate schinese explore_brothel6_e62e53f6:
 
     # chief "Evening sir. Are you two the owners?"
-    chief ""
+    chief "晚上好,先生.你们是这里的主人吗?"
 
 # game/script.rpy:11371
 translate schinese explore_brothel6_30a5058b:
 
     # ray "Just me! Why are you here?"
-    ray ""
+    ray "只有我是!你们在这里干什么?"
 
 # game/script.rpy:11372
 translate schinese explore_brothel6_dad5f8e7:
 
     # chief "Uh, we're here on official corporate business. We're searching for a runaway slave belonging to Praxus Industries. Have you seen her? Common elf."
-    chief ""
+    chief "呃,我们是来执行公务的.我们正在找一个从普罗修斯工业公司逃走的奴隶.你见过她吗?一个普通精灵."
 
 # game/script.rpy:11373
 translate schinese explore_brothel6_133581ab:
 
     # ray "Does it look like we offer elves here? This is a human brothel! And last I checked, elves can't afford us!"
-    ray ""
+    ray "我们这里看起来像是会提供精灵的地方吗?这是个人类妓院!而且据我所知,精灵可消费不起我们!"
 
 # game/script.rpy:11374
 translate schinese explore_brothel6_6326f8d8:
 
     # pol "Listen here, bucko, this establishment is under suspicion of harboring a dangerous fugitive. I could very well detain you. We're going to need to search the premises."
-    pol ""
+    pol "听着,小子,这家公司涉嫌窝藏危险逃犯,我可以以此拘留你.我们需要搜查这里."
 
 # game/script.rpy:11375
 translate schinese explore_brothel6_cd28f783:
 
     # ray "Excuse me! Not without a warrant you won't!"
-    ray ""
+    ray "不好意思!没有搜查令,你们不能进来!"
 
 # game/script.rpy:11376
 translate schinese explore_brothel6_0ba92290:
 
     # chief "Sir, we don't care about anything else going on in here aside from that elf. She just ran down this street."
-    chief ""
+    chief "先生,除了那个精灵,我们并不关心这里发生的其他事情.她刚刚跑过这条街."
 
 # game/script.rpy:11377
 translate schinese explore_brothel6_2891a018:
 
     # ray "Then I suggest you go down the street! There are no elves here! No one walked through that door in the last two hours besides you two."
-    ray ""
+    ray "那我建议你们到街上去!这里没有精灵,过去两个小时里,除了你们俩,没有人走过那扇门."
 
 # game/script.rpy:11379
 translate schinese explore_brothel6_d38c241b:
 
     # chief "..."
-    chief ""
+    chief "......"
 
 # game/script.rpy:11380
 translate schinese explore_brothel6_451495fb:
 
     # pol "..."
-    pol ""
+    pol "......"
 
 # game/script.rpy:11381
 translate schinese explore_brothel6_53d50767:
 
     # ray "Chop chop! You won't catch anyone just standing there!"
-    ray ""
+    ray "快点!光站着可是抓不到人的!"
 
 # game/script.rpy:11383
 translate schinese explore_brothel6_b6efb463:
 
     # chief "Alright, thank you for your time. If you see or hear anything, you know who to call."
-    chief ""
+    chief "好吧,谢谢你能抽出时间.如果你看到或者听到了什么,你知道应该找谁."
 
 # game/script.rpy:11384
 translate schinese explore_brothel6_2a833a64:
 
     # ray "Will do! BYE!"
-    ray ""
+    ray "会的!{b}再见!{/b}"
 
 # game/script.rpy:11387
 translate schinese explore_brothel6_21aeaea0:
 
     # ray "Oh god... my anxiety levels are through the fucking roof! I need a cocktail..."
-    ray ""
+    ray "哦天......我他妈都快焦虑到极点了!我需要一杯鸡尾酒......"
 
 # game/script.rpy:11389
 translate schinese explore_brothel6_b18503cf:
 
     # q "Thank you so much! Thank you, thank you!"
-    q ""
+    q "太谢谢你们了!谢谢你们,谢谢你们!"
 
 # game/script.rpy:11390
 translate schinese explore_brothel6_74263c1a:
 
     # ray "You're still here? Listen girl, you gotta go! I'm sorry, but you can't stay!"
-    ray ""
+    ray "你还在这?听着,姑娘,你得走了!我很抱歉,但你不能留在这里!"
 
 # game/script.rpy:11391
 translate schinese explore_brothel6_3f661a95:
 
     # q "I know... Praxus is tracking all of us. I'll be on the run forever unless I find a way to remove this tag..."
-    q ""
+    q "我知道......普罗修斯能追踪我们所有人.除非我想办法除掉这个标签,否则我将永远逃亡下去......"
 
 # game/script.rpy:11393
 translate schinese explore_brothel6_3a605a7b:
 
     # ray "What!? You didn't mention that!"
-    ray ""
+    ray "什么!?你之前怎么没说!"
 
 # game/script.rpy:11394
 translate schinese explore_brothel6_d768f424:
 
     # q "I didn't think you would help me if I did..."
-    q ""
+    q "我觉得如果我说出来,你就不会帮我了......"
 
 # game/script.rpy:11395
 translate schinese explore_brothel6_7015115d:
 
     # ray "I wouldn't have!"
-    ray ""
+    ray "我不会的!"
 
 # game/script.rpy:11396
 translate schinese explore_brothel6_62bf73bd:
 
     # q "I'm sorry... can you help me remove it?"
-    q ""
+    q "对不起......你能帮我弄掉它吗?"
 
 # game/script.rpy:11397
 translate schinese explore_brothel6_cb79ef92:
 
     # ray "Absolutely not! I don't know anything about that!"
-    ray ""
+    ray "当然不能!我都不知道那是什么!"
 
 # game/script.rpy:11399
 translate schinese explore_brothel6_7d9aae9b:
 
     # q "I understand... you've all helped enough already. Thank you..."
-    q ""
+    q "我明白了......你们今天已经帮我帮得够多了.谢谢你们......"
 
 # game/script.rpy:11400
 translate schinese explore_brothel6_840eb655:
 
     # c "What will you do now?"
-    c ""
+    c "那你现在要怎么办?"
 
 # game/script.rpy:11402
 translate schinese explore_brothel6_e47e4333:
 
     # q "Well, I do know some place that might be able to help... but it's really dangerous. I've only heard stories of it."
-    q ""
+    q "嗯,我知道有个地方也许能帮上忙......但那里真的很危险.我只听说过一些传闻."
 
 # game/script.rpy:11403
 translate schinese explore_brothel6_0d19ade0:
 
     # c "Come on, let's hurry. I'll get you there."
-    c ""
+    c "来吧,快点.我带你过去."
 
 # game/script.rpy:11404
 translate schinese explore_brothel6_6b52bc6a:
 
     # q "You will? Thank you!"
-    q ""
+    q "真的吗?谢谢你!"
 
 # game/script.rpy:11405
 translate schinese explore_brothel6_c86584d8:
 
     # ray "Oh thank god! Go now before they come back!"
-    ray ""
+    ray "哦,谢天谢地!在他们回来之前赶紧走吧!"
 
 # game/script.rpy:11406
 translate schinese explore_brothel6_184c1ef6:
 
     # q "Y-Yes sir! Thank you! Thank all of you!"
-    q ""
+    q "是-是的先生!谢谢你!谢谢你们!"
 
 # game/script.rpy:11408
 translate schinese explore_brothel6_e70ccd3f:
 
     # rbun "{i}{size=-7}I'm sorry...{/size}{/i}"
-    rbun ""
+    rbun "{i}{size=-7}对不起......{/size}{/i}"
 
 # game/script.rpy:11410
 translate schinese explore_brothel6_634bacba:
 
     # "As you exit the brothel, and ensure the coast is clear, the elf fugitive leads you down the winding streets of the slums. She seems to know her way around the place."
-    ""
+    "你们走出妓院,确保周围安全后,那个精灵逃犯带着你在贫民窟蜿蜒曲折的街道里绕来绕去,她似乎很熟悉这里的路."
 
 # game/script.rpy:11411
 translate schinese explore_brothel6_b28614ef:
 
     # "Every few minutes you can hear the sound of sirens. Uncertain that at any passing moment, you could be caught. But each time, the sound passes, and you venture on..."
-    ""
+    "每隔几分钟,你就会听到警笛声,你们随时都有可能被抓住.但每次警笛声过后,你们又继续前行......"
 
 # game/script.rpy:11412
 translate schinese explore_brothel6_60517a98:
 
     # q "It's just down here..."
-    q ""
+    q "就在下面......"
 
 # game/script.rpy:11413
 translate schinese explore_brothel6_ccd9951c:
 
     # "The two of you find an empty canal at the edge of Old Town. It hasn't seen any use in years..."
-    ""
+    "你们俩在老城区的边缘找到了一条空运河.这条运河已经多年无人使用了......"
 
 # game/script.rpy:11414
 translate schinese explore_brothel6_395d5543:
 
     # "The elf quickly takes the ladder down and motions you to follow."
-    ""
+    "那位精灵迅速地搬下梯子,并示意你跟上."
 
 # game/script.rpy:11416
 translate schinese explore_brothel6_cfaf2871:
 
     # q "Here we are... they should be in there."
-    q ""
+    q "我们到了......他们应该在这里."
 
 # game/script.rpy:11417
 translate schinese explore_brothel6_4a5cc392:
 
     # c "...Are you sure about this?"
-    c ""
+    c "......你确定吗?"
 
 # game/script.rpy:11418
 translate schinese explore_brothel6_4ac287c0:
 
     # q "It's the only way. I-I'll be fine, don't worry about me... but this is as far as you should go. People like you don't last long here."
-    q ""
+    q "这是唯一的办法.我-我会没事的,担心我......但你也只能走到这里了.像你这样的人在这里是活不久的."
 
 # game/script.rpy:11419
 translate schinese explore_brothel6_dc8f2380:
 
     # q "*sigh*..."
-    q ""
+    q "*叹气*......"
 
 # game/script.rpy:11421
 translate schinese explore_brothel6_3784857a:
 
     # c "...?"
-    c ""
+    c "......?"
 
 # game/script.rpy:11423
 translate schinese explore_brothel6_f34a58f7:
 
     # q "...Thank you. There aren't many people like you in the world... {w}I hope we see each other again some day."
-    q ""
+    q "......谢谢你.世界上已经没有多少像你这样的人了......{w}希望有一天我们能再见面."
 
 # game/script.rpy:11424
 translate schinese explore_brothel6_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/script.rpy:11430
 translate schinese explore_brothel6_d19f855d_1:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/script.rpy:11432
 translate schinese explore_brothel6_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:11435
 translate schinese explore_brothel6_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11437
 translate schinese explore_brothel6_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11439
 translate schinese explore_brothel6_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11446
 translate schinese explore_brothel6_bad7e3fb:
 
     # c "She puts us all in danger. We have to turn her away, or turn her in."
-    c ""
+    c "她把我们都置于危险之中.我们必须把她赶走,或者告发她."
 
 # game/script.rpy:11447
 translate schinese explore_brothel6_f75d3dcc:
 
     # q "What!? You- you're horrible!"
-    q ""
+    q "什么!?你-你太可怕了!"
 
 # game/script.rpy:11450
 translate schinese explore_brothel6_c1edf9b1:
 
     # ray "Come on, this way. I'm not just going to throw you back to the wolves, but you can't stay here. There's an exit through the back. But you gotta go FAST!"
-    ray ""
+    ray "来吧,这边走.我不会把你丢回狼群里的,但你不能待在这里.这后面有出口,但你得{b}快点{/b}走!"
 
 # game/script.rpy:11451
 translate schinese explore_brothel6_ecc09096:
 
     # q "Nngh, o-okay... thank you."
-    q ""
+    q "嗯,好-好的......谢谢你."
 
 # game/script.rpy:11452
 translate schinese explore_brothel6_99da0044:
 
     # ray "HURRY!"
-    ray ""
+    ray "{b}快!{/b}"
 
 # game/script.rpy:11453
 translate schinese explore_brothel6_1089bcef:
 
     # rbun "{i}I'm sorry...{/i}"
-    rbun ""
+    rbun "{i}对不起......{/i}"
 
 # game/script.rpy:11456
 translate schinese explore_brothel6_2dcef3db_1:
 
     # "*BANG BANG BANG*" with sshake
-    "" with sshake
+    "{b}*嘭嘭嘭*{/b}" with sshake
 
 # game/script.rpy:11457
 translate schinese explore_brothel6_191bd5a0_1:
 
     # ray "{i}Shit... *ahem*...{/i}"
-    ray ""
+    ray "{i}操了......*咳嗽*......{/i}"
 
 # game/script.rpy:11458
 translate schinese explore_brothel6_3292985c_1:
 
     # ray "ONE MOMENT!"
-    ray ""
+    ray "{b}马上!{/b}"
 
 # game/script.rpy:11460
 translate schinese explore_brothel6_668ad4e9_1:
 
     # ray "The police!? What do you want?"
-    ray ""
+    ray "警察!?你们想要什么?"
 
 # game/script.rpy:11461
 translate schinese explore_brothel6_e62e53f6_1:
 
     # chief "Evening sir. Are you two the owners?"
-    chief ""
+    chief "晚上好,先生.你们是这里的主人吗?"
 
 # game/script.rpy:11462
 translate schinese explore_brothel6_30a5058b_1:
 
     # ray "Just me! Why are you here?"
-    ray ""
+    ray "只有我是!你们在这里干什么?"
 
 # game/script.rpy:11463
 translate schinese explore_brothel6_dad5f8e7_1:
 
     # chief "Uh, we're here on official corporate business. We're searching for a runaway slave belonging to Praxus Industries. Have you seen her? Common elf."
-    chief ""
+    chief "呃,我们是来执行公务的.我们正在找一个从普罗修斯工业公司逃走的奴隶.你见过她吗?一个普通精灵."
 
 # game/script.rpy:11464
 translate schinese explore_brothel6_133581ab_1:
 
     # ray "Does it look like we offer elves here? This is a human brothel! And last I checked, elves can't afford us!"
-    ray ""
+    ray "我们这里看起来像是会提供精灵的地方吗?这是个人类妓院!而且据我所知,精灵可消费不起我们!"
 
 # game/script.rpy:11465
 translate schinese explore_brothel6_6326f8d8_1:
 
     # pol "Listen here, bucko, this establishment is under suspicion of harboring a dangerous fugitive. I could very well detain you. We're going to need to search the premises."
-    pol ""
+    pol "听着,小子,这家公司涉嫌窝藏危险逃犯,我可以以此拘留你.我们需要搜查这里."
 
 # game/script.rpy:11466
 translate schinese explore_brothel6_cd28f783_1:
 
     # ray "Excuse me! Not without a warrant you won't!"
-    ray ""
+    ray "不好意思!没有搜查令,你们不能进来!"
 
 # game/script.rpy:11467
 translate schinese explore_brothel6_0ba92290_1:
 
     # chief "Sir, we don't care about anything else going on in here aside from that elf. She just ran down this street."
-    chief ""
+    chief "先生,除了那个精灵,我们并不关心这里发生的其他事情.她刚刚跑过这条街."
 
 # game/script.rpy:11468
 translate schinese explore_brothel6_48347e33:
 
     # ray "Then I suggest you go down the street! No one walked through that door in the last two hours besides you two."
-    ray ""
+    ray "那我建议你们到街上去!这里没有精灵,过去两个小时里,除了你们俩,没有人走过那扇门."
 
 # game/script.rpy:11469
 translate schinese explore_brothel6_6d47aec2:
 
     # ray "And if I ever did see an elf in here? I'd kick them out! They can't afford my girls, and I'm certainly not going to ruin my reputation by hiring one!"
-    ray ""
+    ray "要是我在这里看到了精灵?我会把她们赶出去!他们请不起我的姑娘们,我也不可能为了毁掉我的名声雇一个精灵!"
 
 # game/script.rpy:11471
 translate schinese explore_brothel6_d38c241b_1:
 
     # chief "..."
-    chief ""
+    chief "......"
 
 # game/script.rpy:11472
 translate schinese explore_brothel6_451495fb_1:
 
     # pol "..."
-    pol ""
+    pol "......"
 
 # game/script.rpy:11473
 translate schinese explore_brothel6_53d50767_1:
 
     # ray "Chop chop! You won't catch anyone just standing there!"
-    ray ""
+    ray "快点!光站着可是抓不到人的!"
 
 # game/script.rpy:11475
 translate schinese explore_brothel6_b6efb463_1:
 
     # chief "Alright, thank you for your time. If you see or hear anything, you know who to call."
-    chief ""
+    chief "好吧,谢谢你能抽出时间.如果你看到或者听到了什么,你知道应该找谁."
 
 # game/script.rpy:11476
 translate schinese explore_brothel6_2a833a64_1:
 
     # ray "Will do! BYE!"
-    ray ""
+    ray "会的!{b}再见!{/b}"
 
 # game/script.rpy:11479
 translate schinese explore_brothel6_21aeaea0_1:
 
     # ray "Oh god... my anxiety levels are through the fucking roof! I need a cocktail..."
-    ray ""
+    ray "哦天......我他妈都快焦虑到极点了!我需要一杯鸡尾酒......"
 
 # game/script.rpy:11480
 translate schinese explore_brothel6_6c2cc907:
 
     # bbun "Thank you, Ray! You didn't need to go that far, but you did. Thank you..."
-    bbun ""
+    bbun "谢谢你,雷!你本不需要这么做的,但你还是做了.谢谢你......"
 
 # game/script.rpy:11481
 translate schinese explore_brothel6_25a3a547:
 
     # ray "The last thing I need is trouble with those fucking pigs! Ugh."
-    ray ""
+    ray "我可不想和那些死猪警察纠缠不清!呃."
 
 # game/script.rpy:11482
 translate schinese explore_brothel6_41b1b64f:
 
     # rbun "She's going to be okay then?"
-    rbun ""
+    rbun "那她应该会没事的吧?"
 
 # game/script.rpy:11483
 translate schinese explore_brothel6_f205c6cb:
 
     # pbun "Who knows? She escaped though, and that's all that matters."
-    pbun ""
+    pbun "谁知道呢?不过她逃走了,这就够了."
 
 # game/script.rpy:11484
 translate schinese explore_brothel6_96f9431b:
 
     # rbun "I'm glad..."
-    rbun ""
+    rbun "我很高兴......"
 
 # game/script.rpy:11485
 translate schinese explore_brothel6_f33d13a4:
 
     # ray "Alright! The brothel is closed for the next hour! Have a nap, girls..."
-    ray ""
+    ray "行了!妓院接下来一小时关门!打个盹吧,姑娘们......"
 
 # game/script.rpy:11486
 translate schinese explore_brothel6_a932dabc:
 
     # ray "[name], you should probably go..."
-    ray ""
+    ray "[name],你得走了......"
 
 # game/script.rpy:11487
 translate schinese explore_brothel6_222182f1:
 
     # c "Right. Have a good day everyone."
-    c ""
+    c "好的,祝你们今天过得愉快."
 
 # game/script.rpy:11488
 translate schinese explore_brothel6_5cc13edf:
 
     # pbun "You too."
-    pbun ""
+    pbun "你也是."
 
 # game/script.rpy:11490
 translate schinese explore_brothel6_d6b48f27_1:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:11493
 translate schinese explore_brothel6_6b4615f0_2:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11495
 translate schinese explore_brothel6_6b4615f0_3:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:11497
 translate schinese explore_brothel6_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:19963
 translate schinese yourroomcontinued_58bcda49:
 
     # "*ring ring, ring ring*\n..."
-    ""
+    "*铃铃,铃铃*\n......"
 
 # game/script.rpy:20498
 translate schinese elftown_b046f6d9:
 
     # c "Hm, Nia is missing..."
-    c ""
+    c "嗯,妮娅不在这......"
 
 # game/script.rpy:20503
 translate schinese elftown_b3cfeda3:
 
     # c "She's probably fine."
-    c ""
+    c "她应该没事吧."
 
 translate schinese strings:
 
     # game/script.rpy:11353
     old "Hide the elf"
-    new ""
+    new "把精灵藏起来"
 
     # game/script.rpy:11353
     old "Turn her away"
-    new ""
+    new "把她赶走"
 
     # game/script.rpy:15351
     old "Visit the BunBun Brothel"
-    new ""
+    new "去兔兔妓院"
 
     # game/script.rpy:19960
     old "Video Call Kali"
-    new ""
+    new "给凯莉打视频电话"
 
     # game/script.rpy:20499
     old "* I wonder where she is? *"
-    new ""
+    new "*她去哪里了?*"
 

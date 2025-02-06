@@ -49406,7 +49406,7 @@ translate schinese kali_videocall_70fea95e:
 translate schinese kali_videocall_84fd5755:
 
     # c "You deserve the title, Kali. You're smarter than all of them combined, including your father. And think about it this way; you get to make a bigger difference now."
-    c "你完全可以胜任这份工作,凯莉.你比他们所有人加起来都聪明,包括你的付钱.你得这么想,你现在可以发挥更大的作用了."
+    c "你完全可以胜任这份工作,凯莉.你比他们所有人加起来都聪明,包括你的父亲.你得这么想,你现在可以发挥更大的作用了."
 
 # game/scripts/kali_events.rpy:19
 translate schinese kali_videocall_06648d60:
@@ -49466,13 +49466,13 @@ translate schinese kali_videocall_a292408c:
 translate schinese kali_videocall_eea9ca98:
 
     # k "Honestly? Support Lin. She's the only one pushing for real change. {i}If only people knew about her...{/i}"
-    k "你要我说实话吗?那就是支持林.她是唯一一个在推动真正变革的人/{i}要是人们能知道她就好了......{/i}"
+    k "你要我说实话吗?那就是支持林.她是唯一一个在推动真正变革的人.{i}要是人们能知道她就好了......{/i}"
 
 # game/scripts/kali_events.rpy:33
 translate schinese kali_videocall_c4006205:
 
     # k "Wouldn't that be cool? Lin as president. I'd vote for her!"
-    k "那不也挺酷的?林当总统,我要投她一票!"
+    k "那不也挺酷的?林当总统,我投她一票!"
 
 # game/scripts/kali_events.rpy:34
 translate schinese kali_videocall_d11bfb71:
@@ -49526,7 +49526,7 @@ translate schinese kali_videocall_c26d68b7:
 translate schinese kali_videocall_7cd15eaa:
 
     # c "Shit, that's bad...\nWait, I thought they were using elf blood for the elfbots because their blood has some special properties?"
-    c "操,那挺糟糕的......\n等等,我以为他们之所以用精灵的血来制造机器精灵,是因为他们的血有一些特殊的苏醒?"
+    c "操,那挺糟糕的......\n等等,我以为他们之所以用精灵的血来制造机器精灵,是因为他们的血有一些特殊的属性?"
 
 # game/scripts/kali_events.rpy:44
 translate schinese kali_videocall_8eae8245:
@@ -50210,7 +50210,7 @@ translate schinese kali_videocall_2a0d7ccb:
 translate schinese kali_videocall_297d93f3:
 
     # c "What?"
-    c "是吗?"
+    c "什么?"
 
 # game/scripts/kali_events.rpy:226
 translate schinese kali_videocall_b5f99c4b:
