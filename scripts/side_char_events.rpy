@@ -51507,3 +51507,1659 @@ translate schinese love_nia_7_5d46bc2c:
     # jena "URGHHH!"
     jena "{b}呃!{/b}"
 
+# TODO: Translation updated at 2025-03-03 00:08
+
+# game/scripts/side_char_events.rpy:3480
+translate schinese ellenspatalk_83fc7771:
+
+    # e "Hello [name]. Lovely day for a visit to the hot springs, isn't it?"
+    e ""
+
+# game/scripts/side_char_events.rpy:3488
+translate schinese moonspatalk_b0bd364a:
+
+    # moon "Hmm? What are you doing here, [name]? You're wearing your work clothes..."
+    moon ""
+
+# game/scripts/side_char_events.rpy:7097
+translate schinese ellen_fshow_6ab43649:
+
+    # e "*sigh*... Another slow day..."
+    e ""
+
+# game/scripts/side_char_events.rpy:7098
+translate schinese ellen_fshow_b7d8712c:
+
+    # e "Why couldn't he have built this place somewhere that was actually inhabited...?"
+    e ""
+
+# game/scripts/side_char_events.rpy:7100
+translate schinese ellen_fshow_b6aa9141:
+
+    # e "At least I have you girls to keep me company."
+    e ""
+
+# game/scripts/side_char_events.rpy:7101
+translate schinese ellen_fshow_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7102
+translate schinese ellen_fshow_e612037c:
+
+    # m "..."
+    m ""
+
+# game/scripts/side_char_events.rpy:7103
+translate schinese ellen_fshow_1429c7ce:
+
+    # e "Right..."
+    e ""
+
+# game/scripts/side_char_events.rpy:7105
+translate schinese ellen_fshow_27e8b731:
+
+    # a "-Not only was he a tour guide, he had a ho in every city! They all got an STD or two."
+    a ""
+
+# game/scripts/side_char_events.rpy:7106
+translate schinese ellen_fshow_9e9cce60:
+
+    # l "Humans are strange..."
+    l ""
+
+# game/scripts/side_char_events.rpy:7108
+translate schinese ellen_fshow_fe729114:
+
+    # e "{i}(I miss being young... I could have had friends, but no, I wasted my youth chasing after a man twice my age...){/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7110
+translate schinese ellen_fshow_3b453406:
+
+    # e "{i}(Wait, three times my age? Ugh... how did I imagine that ending up? He wasn't even rich...){/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7111
+translate schinese ellen_fshow_f950c963:
+
+    # e "{i}(I wish I had fun when I was young. I wish I could have bought a new dress every month to show off. I wish I would have taken more vacations...){/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7112
+translate schinese ellen_fshow_71cacb71:
+
+    # e "{i}(What do I have all this money for if I can't spoil myself anymore? You work all your life making money, and by the time you have it...){/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7114
+translate schinese ellen_fshow_287a04b5:
+
+    # e "{i}(Hmmm...){/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7116
+translate schinese ellen_fshow_e6a7f7ed:
+
+    # e "Ladies, ladies! I have a special announcement!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7117
+translate schinese ellen_fshow_32fb53c2:
+
+    # a "Hm?"
+    a ""
+
+# game/scripts/side_char_events.rpy:7118
+translate schinese ellen_fshow_f21ab90f:
+
+    # e "[name] just informed me of a spectacular event happening today! A fashion show!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7119
+translate schinese ellen_fshow_9fad45bc:
+
+    # m "*gasp*!"
+    m ""
+
+# game/scripts/side_char_events.rpy:7120
+translate schinese ellen_fshow_77e439c8:
+
+    # e "That's right! Each of you will be given $100 to buy whatever you would like at the mall!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7121
+translate schinese ellen_fshow_4f51d1dd:
+
+    # k "Not interested."
+    k ""
+
+# game/scripts/side_char_events.rpy:7122
+translate schinese ellen_fshow_bd4094b4:
+
+    # e "And the winner gets a pizza!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7123
+translate schinese ellen_fshow_17c53c0b:
+
+    # k "I'm in."
+    k ""
+
+# game/scripts/side_char_events.rpy:7125
+translate schinese ellen_fshow_f728158c:
+
+    # m "So we just have to pick out the best dress? That's easy. I'll win this for sure... And I get free clothes out of this?"
+    m ""
+
+# game/scripts/side_char_events.rpy:7126
+translate schinese ellen_fshow_b6d4d284:
+
+    # e "That's right. [name] will be the judge, of course. So pick something to truly wow him."
+    e ""
+
+# game/scripts/side_char_events.rpy:7127
+translate schinese ellen_fshow_474a1598:
+
+    # l "I will need someone to go with me..."
+    l ""
+
+# game/scripts/side_char_events.rpy:7128
+translate schinese ellen_fshow_d41749b6:
+
+    # k "Same. I don't really have a good sense of style..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7129
+translate schinese ellen_fshow_277bd6d2:
+
+    # e "That's fine. Maria can help Kali, and Ashley can help Lin. You have a two hour deadline starting from right now."
+    e ""
+
+# game/scripts/side_char_events.rpy:7130
+translate schinese ellen_fshow_1c0dc093:
+
+    # m "Okay! What are we waiting for? Let's go!"
+    m ""
+
+# game/scripts/side_char_events.rpy:7132
+translate schinese ellen_fshow_5b51b60e:
+
+    # "After Ellen hands out the money, Kali drives them all to the mall, where they enjoy a frivolous spending spree."
+    ""
+
+# game/scripts/side_char_events.rpy:7133
+translate schinese ellen_fshow_0036241e:
+
+    # "Two and a half hours later... they arrive back at the hotel."
+    ""
+
+# game/scripts/side_char_events.rpy:7135
+translate schinese ellen_fshow_2af0a17b:
+
+    # a "We're back~\nSorry we're late. We-"
+    a ""
+
+# game/scripts/side_char_events.rpy:7137
+translate schinese ellen_fshow_fa250801:
+
+    # a "Oh!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7139
+translate schinese ellen_fshow_2c378014:
+
+    # e "Welcome back! Don't worry, I only just found the carpet.\nWhere are the others?"
+    e ""
+
+# game/scripts/side_char_events.rpy:7140
+translate schinese ellen_fshow_aebf3640:
+
+    # a "They're bringing everything in. Where is [name]?"
+    a ""
+
+# game/scripts/side_char_events.rpy:7141
+translate schinese ellen_fshow_89f025c8:
+
+    # e "After you're all ready I'll call him down. Come on, hurry! Change!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7142
+translate schinese ellen_fshow_ce97fa3c:
+
+    # a "Hehe~ okay okay!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7144
+translate schinese ellen_fshow_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/scripts/side_char_events.rpy:7145
+translate schinese ellen_fshow_d1205fa1:
+
+    # e "[name]! Come here!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7147
+translate schinese ellen_fshow_191870bf:
+
+    # c "Hey-\n-Uh... what's going on?"
+    c ""
+
+# game/scripts/side_char_events.rpy:7148
+translate schinese ellen_fshow_e97432ce:
+
+    # e "The girls have a little surprise for you. It's a fashion show! And you're the judge."
+    e ""
+
+# game/scripts/side_char_events.rpy:7149
+translate schinese ellen_fshow_17164397:
+
+    # c "You set up a fashion show for me? Haha, that's sweet, Ellen."
+    c ""
+
+# game/scripts/side_char_events.rpy:7150
+translate schinese ellen_fshow_a57c22fc:
+
+    # e "Well I was bored, and...\nAh, forget it. Just enjoy!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7153
+translate schinese ellen_fshow_f09c8454:
+
+    # e "Starting with Lin!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7155
+translate schinese ellen_fshow_03d9fa59:
+
+    # l "Hello..."
+    l ""
+
+# game/scripts/side_char_events.rpy:7156
+translate schinese ellen_fshow_8bc8a09e:
+
+    # e "We have a beautiful dress indeed. Show it off, darling!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7157
+translate schinese ellen_fshow_c6c955e3:
+
+    # l "Okay..."
+    l ""
+
+# game/scripts/side_char_events.rpy:7159
+translate schinese ellen_fshow_f1ab61d5:
+
+    # e "Wow, just look at that confidence!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7160
+translate schinese ellen_fshow_13418418:
+
+    # l "Ehh, heheh."
+    l ""
+
+# game/scripts/side_char_events.rpy:7163
+translate schinese ellen_fshow_5a4b1b9b:
+
+    # e "She's turning heads, breaking hearts, and possibly even the bank with that look!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7165
+translate schinese ellen_fshow_ee863cf3:
+
+    # e "This one says, {i}'I'm bold, I'm beautiful, and I'm going to win!'{/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7168
+translate schinese ellen_fshow_ee97caf6:
+
+    # l "Do you like it, [linoname]?"
+    l ""
+
+# game/scripts/side_char_events.rpy:7169
+translate schinese ellen_fshow_225d06b4:
+
+    # e "All judgements will be made at the end of the show!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7170
+translate schinese ellen_fshow_70569e30:
+
+    # l "Aw, okay..."
+    l ""
+
+# game/scripts/side_char_events.rpy:7173
+translate schinese ellen_fshow_ebfdf613:
+
+    # e "Next we have Kali!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7175
+translate schinese ellen_fshow_58374b8d:
+
+    # k "Uhh, what's up."
+    k ""
+
+# game/scripts/side_char_events.rpy:7176
+translate schinese ellen_fshow_9c7a3973:
+
+    # e "An elegant take on her classic bunny suit! Let's see what you got!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7178
+translate schinese ellen_fshow_ac0ec2f3:
+
+    # k "So like, am I supposed to do some poses, or...?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7179
+translate schinese ellen_fshow_f59f59b6:
+
+    # e "Is it hot in here, or is it just that outfit! If confidence were currency, she'd be the richest woman alive! Even without her father's help..."
+    e ""
+
+# game/scripts/side_char_events.rpy:7180
+translate schinese ellen_fshow_0cf7660a:
+
+    # k "That's bullshit, but I'll take it."
+    k ""
+
+# game/scripts/side_char_events.rpy:7184
+translate schinese ellen_fshow_9d04221d:
+
+    # e "This one says, {i}'Out with the old, in with the new!'{/i} A stellar example of pure beauty!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7187
+translate schinese ellen_fshow_6493ea32:
+
+    # k "I'm here for the pizza."
+    k ""
+
+# game/scripts/side_char_events.rpy:7188
+translate schinese ellen_fshow_204db686:
+
+    # e "Who knows? You might just get it!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7191
+translate schinese ellen_fshow_0d5fc698:
+
+    # e "Up next is Maria! Mariaaaaa~!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7193
+translate schinese ellen_fshow_28d88cd4:
+
+    # m "Hiiii~"
+    m ""
+
+# game/scripts/side_char_events.rpy:7194
+translate schinese ellen_fshow_087cc4a0:
+
+    # e "Just look at that class!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7196
+translate schinese ellen_fshow_a4041279:
+
+    # e "That outfit? Stunning. That attitude? Dangerous! The vibe? Absolutely undefeated!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7197
+translate schinese ellen_fshow_eabe43fb:
+
+    # m "You know it~"
+    m ""
+
+# game/scripts/side_char_events.rpy:7201
+translate schinese ellen_fshow_2d9f4874:
+
+    # e "She didn't just come to compete, she came to conquer!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7202
+translate schinese ellen_fshow_117ea793:
+
+    # m "And I shall~"
+    m ""
+
+# game/scripts/side_char_events.rpy:7207
+translate schinese ellen_fshow_67778ab3:
+
+    # e "Last but certainly not least, Ashley!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7209
+translate schinese ellen_fshow_afa25770:
+
+    # a "Hey! That's not fair, you know I'm sensitive to light! Turn down your flash, Ellen!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7210
+translate schinese ellen_fshow_491bc5f8:
+
+    # e "{i}Sorry, sorry.{/i}"
+    e ""
+
+# game/scripts/side_char_events.rpy:7212
+translate schinese ellen_fshow_74ca83eb:
+
+    # e "The look is so powerful, I think the wifi just went out!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7213
+translate schinese ellen_fshow_846fb823:
+
+    # a "WOMAN! TURN THE LIGHT DOWN!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7217
+translate schinese ellen_fshow_76f894b3:
+
+    # e "She didn't just come to play, she came to leave us all speechless! And it's working!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7218
+translate schinese ellen_fshow_7a15581d:
+
+    # a "{i}{size=-5}This is bullshit...{/size}{/i}"
+    a ""
+
+# game/scripts/side_char_events.rpy:7222
+translate schinese ellen_fshow_0897cd7c:
+
+    # e "And the winner is...?"
+    e ""
+
+# game/scripts/side_char_events.rpy:7224
+translate schinese ellen_fshow_d13ff4d9:
+
+    # a "NO! Bullshit!" with ssshake
+    a "" with ssshake
+
+# game/scripts/side_char_events.rpy:7225
+translate schinese ellen_fshow_771356a3:
+
+    # e "*gasp*! Ashley!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7227
+translate schinese ellen_fshow_a32b7443:
+
+    # a "LOOK AT ME!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7228
+translate schinese ellen_fshow_3979b02a:
+
+    # k "Come on..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7229
+translate schinese ellen_fshow_be172880:
+
+    # m "That's not fair, Ashley!"
+    m ""
+
+# game/scripts/side_char_events.rpy:7233
+translate schinese ellen_fshow_74930c7c:
+
+    # a "THIS LIGHT ISN'T FAIR!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7235
+translate schinese ellen_fshow_b812fd11:
+
+    # m "This is a fashion show, not a cabaret!"
+    m ""
+
+# game/scripts/side_char_events.rpy:7236
+translate schinese ellen_fshow_acf12748:
+
+    # a "I'm just making things even!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7237
+translate schinese ellen_fshow_ffe0c16e:
+
+    # m "If I knew we were allowed to undress, I totally would have won!"
+    m ""
+
+# game/scripts/side_char_events.rpy:7238
+translate schinese ellen_fshow_05c1e2e0:
+
+    # k "Hold on, what makes you so sure of that?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7240
+translate schinese ellen_fshow_364e1ca7:
+
+    # m "Hmph, do I even have to explain it?"
+    m ""
+
+# game/scripts/side_char_events.rpy:7241
+translate schinese ellen_fshow_27c9332f:
+
+    # k "I have bigger boobs than you."
+    k ""
+
+# game/scripts/side_char_events.rpy:7243
+translate schinese ellen_fshow_e612037c_1:
+
+    # m "..."
+    m ""
+
+# game/scripts/side_char_events.rpy:7245
+translate schinese ellen_fshow_7d8c53f1:
+
+    # m "...Why don't we just let [name] decide."
+    m ""
+
+# game/scripts/side_char_events.rpy:7246
+translate schinese ellen_fshow_5dd070ef:
+
+    # k "Mhm..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7248
+translate schinese ellen_fshow_b346aac0:
+
+    # m "So, who won?"
+    m ""
+
+# game/scripts/side_char_events.rpy:7249
+translate schinese ellen_fshow_ac4d343c:
+
+    # a "Was it meee~?"
+    a ""
+
+# game/scripts/side_char_events.rpy:7250
+translate schinese ellen_fshow_69a108ba:
+
+    # e "And the winner is...!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7254
+translate schinese ellen_fshow_d07e816d:
+
+    # l "*gasp*! Really [linoname]!? I won!?"
+    l ""
+
+# game/scripts/side_char_events.rpy:7256
+translate schinese ellen_fshow_755a2933:
+
+    # m "*sigh*..."
+    m ""
+
+# game/scripts/side_char_events.rpy:7257
+translate schinese ellen_fshow_3d7c177f:
+
+    # a "Nngh..."
+    a ""
+
+# game/scripts/side_char_events.rpy:7258
+translate schinese ellen_fshow_5361ba96:
+
+    # k "Grats."
+    k ""
+
+# game/scripts/side_char_events.rpy:7262
+translate schinese ellen_fshow_0d79dafc:
+
+    # a "*gasp*! No way! Really!?"
+    a ""
+
+# game/scripts/side_char_events.rpy:7264
+translate schinese ellen_fshow_bd1eafaf:
+
+    # m "Ugh... cheater."
+    m ""
+
+# game/scripts/side_char_events.rpy:7265
+translate schinese ellen_fshow_2b68a14f:
+
+    # l "Congratulations, Ashley."
+    l ""
+
+# game/scripts/side_char_events.rpy:7266
+translate schinese ellen_fshow_5361ba96_1:
+
+    # k "Grats."
+    k ""
+
+# game/scripts/side_char_events.rpy:7270
+translate schinese ellen_fshow_9bf080c4:
+
+    # m "YES! I still got it~"
+    m ""
+
+# game/scripts/side_char_events.rpy:7272
+translate schinese ellen_fshow_40c50bdd:
+
+    # a "Bullshit..."
+    a ""
+
+# game/scripts/side_char_events.rpy:7273
+translate schinese ellen_fshow_2ee82b2a:
+
+    # l "Congratulations, Maria."
+    l ""
+
+# game/scripts/side_char_events.rpy:7274
+translate schinese ellen_fshow_a16a9a81:
+
+    # k "Grats..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7278
+translate schinese ellen_fshow_ebd71502:
+
+    # k "Oh shit! Really?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7280
+translate schinese ellen_fshow_40c50bdd_1:
+
+    # a "Bullshit..."
+    a ""
+
+# game/scripts/side_char_events.rpy:7281
+translate schinese ellen_fshow_7af68945:
+
+    # m "Bullshit."
+    m ""
+
+# game/scripts/side_char_events.rpy:7282
+translate schinese ellen_fshow_39404ba6:
+
+    # l "Congratulations, Kali."
+    l ""
+
+# game/scripts/side_char_events.rpy:7286
+translate schinese ellen_fshow_9ff3cd72:
+
+    # l "*gasp*! Yaaay!"
+    l ""
+
+# game/scripts/side_char_events.rpy:7287
+translate schinese ellen_fshow_c639cd94:
+
+    # m "WHAT!? That's bullshit! I put way more effort into it than they did!"
+    m ""
+
+# game/scripts/side_char_events.rpy:7288
+translate schinese ellen_fshow_f31506d7:
+
+    # a "I showed you my pussy for nothing!?"
+    a ""
+
+# game/scripts/side_char_events.rpy:7289
+translate schinese ellen_fshow_2aee0ac0:
+
+    # k "Does that mean we all get pizza? Hell yeah."
+    k ""
+
+# game/scripts/side_char_events.rpy:7290
+translate schinese ellen_fshow_b8254305:
+
+    # e "Thank you for coming, everyone! Rewards will be handed out accordingly."
+    e ""
+
+# game/scripts/side_char_events.rpy:7292
+translate schinese ellen_fshow_df4b45fc:
+
+    # e "And thank you as well, [name]. You were a wonderful judge."
+    e ""
+
+# game/scripts/side_char_events.rpy:7293
+translate schinese ellen_fshow_1e142ae0:
+
+    # c "Thanks for setting everything up, it was a nice surprise."
+    c ""
+
+# game/scripts/side_char_events.rpy:7294
+translate schinese ellen_fshow_d23d26e9:
+
+    # a "Wait- I thought this was [name]'s idea!"
+    a ""
+
+# game/scripts/side_char_events.rpy:7295
+translate schinese ellen_fshow_f5f09cae:
+
+    # m "Hold on..."
+    m ""
+
+# game/scripts/side_char_events.rpy:7297
+translate schinese ellen_fshow_85086653:
+
+    # e "Eh, heh... I was bored...! I wanted you all to have some fun. And you got nice outfits out of it!"
+    e ""
+
+# game/scripts/side_char_events.rpy:7298
+translate schinese ellen_fshow_f0880be8:
+
+    # k "You mean, {u}you{/u} paid for our stuff?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7299
+translate schinese ellen_fshow_871575f3:
+
+    # e "I wasn't going to use the hotel's funds..."
+    e ""
+
+# game/scripts/side_char_events.rpy:7300
+translate schinese ellen_fshow_2e871017:
+
+    # l "That's so kind of you, Ellen! Thank you."
+    l ""
+
+# game/scripts/side_char_events.rpy:7301
+translate schinese ellen_fshow_e975bd50:
+
+    # k "Yeah, thanks."
+    k ""
+
+# game/scripts/side_char_events.rpy:7302
+translate schinese ellen_fshow_1954f71a:
+
+    # a "I still haven't forgiven you yet..."
+    a ""
+
+# game/scripts/side_char_events.rpy:7303
+translate schinese ellen_fshow_b044f05e:
+
+    # e "Well, how about I order that pizza now? I'll get enough for everyone."
+    e ""
+
+# game/scripts/side_char_events.rpy:7304
+translate schinese ellen_fshow_c21679bd:
+
+    # k "Hell yeah!"
+    k ""
+
+# game/scripts/side_char_events.rpy:7305
+translate schinese ellen_fshow_65db46f9:
+
+    # c "Don't worry, I got this one."
+    c ""
+
+# game/scripts/side_char_events.rpy:7308
+translate schinese ellen_fshow_1d781cf3:
+
+    # "You spent $20 on pizza."
+    ""
+
+# game/scripts/side_char_events.rpy:7843
+translate schinese lucy_sigma_7fde0a9d:
+
+    # lu "*gasp*! Oh my god!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:7844
+translate schinese lucy_sigma_2b1456e4:
+
+    # k "Hm?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7845
+translate schinese lucy_sigma_b37d0a5f:
+
+    # lu "He actually did it... no way."
+    lu ""
+
+# game/scripts/side_char_events.rpy:7846
+translate schinese lucy_sigma_93334484:
+
+    # k "What?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7847
+translate schinese lucy_sigma_b38724bc:
+
+    # lu "I can't believe it!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:7848
+translate schinese lucy_sigma_809f4b2b:
+
+    # k "WHAT LUCY? WHAT!?"
+    k ""
+
+# game/scripts/side_char_events.rpy:7850
+translate schinese lucy_sigma_899c4461:
+
+    # lu "Do you remember Jordan? That rich bald guy."
+    lu ""
+
+# game/scripts/side_char_events.rpy:7851
+translate schinese lucy_sigma_3e429689:
+
+    # k "Uhhh, the one that tried to take us out on a date? At the same time..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7852
+translate schinese lucy_sigma_105591f8:
+
+    # lu "Yes! I met him again on the yacht a while back. He started a podcast!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:7854
+translate schinese lucy_sigma_596aac0b:
+
+    # k "Ugh. Why do you even care? I wish I could forget about him..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7855
+translate schinese lucy_sigma_3a6a75f2:
+
+    # lu "Well he invited me on the first episode, but I didn't think it was actually going to go anywhere. Look!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:7856
+translate schinese lucy_sigma_da9cbe1a:
+
+    # k "Do I have to..."
+    k ""
+
+# game/scripts/side_char_events.rpy:7857
+translate schinese lucy_sigma_25c74ac7:
+
+    # lu "Yes!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:7858
+translate schinese lucy_sigma_cb2a8bcd:
+
+    # k "*sigh*... fine."
+    k ""
+
+# game/scripts/side_char_events.rpy:7860
+translate schinese lucy_sigma_7f2586c4:
+
+    # jor "WHAT'S UP! Welcome back to the Sigma Signal, where the weak get filtered out and only the strongest minds survive. We don't just motivate, we dominate."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7862
+translate schinese lucy_sigma_8c93a441:
+
+    # jor "Camera 2!\nI'm your host Jordan, and I'm bald by choice."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7864
+translate schinese lucy_sigma_ef7967a6:
+
+    # jor "Camera 3!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7865
+translate schinese lucy_sigma_a20cefa7:
+
+    # "..."
+    ""
+
+# game/scripts/side_char_events.rpy:7866
+translate schinese lucy_sigma_f0cd0bbb:
+
+    # jor "Charlie!" with ssshake
+    jor "" with ssshake
+
+# game/scripts/side_char_events.rpy:7867
+translate schinese lucy_sigma_8b768689:
+
+    # char "Huh?"
+    char ""
+
+# game/scripts/side_char_events.rpy:7869
+translate schinese lucy_sigma_27ad5c14:
+
+    # char "Oh!\nI'm Charlie. Yacht owner."
+    char ""
+
+# game/scripts/side_char_events.rpy:7870
+translate schinese lucy_sigma_e3269cd4:
+
+    # jor "{i}Fucking dumbass.{/i}"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7872
+translate schinese lucy_sigma_165f1578:
+
+    # jor "Today we'll be tackling females."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7873
+translate schinese lucy_sigma_0b3f93f5:
+
+    # jor "Not physically, obviously. They would die if we did."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7874
+translate schinese lucy_sigma_bf33627e:
+
+    # jor "We'll be telling YOU how you can pull bitches and wreck as much puss as you can handle. Sounds easy, right? Wrong. Most of you can't even handle a single woman, and that makes you fucking weak."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7876
+translate schinese lucy_sigma_4b47d0ea:
+
+    # char "Hehh, I couldn't even begin to list my body count. Definitely in the triple digits though."
+    char ""
+
+# game/scripts/side_char_events.rpy:7878
+translate schinese lucy_sigma_cf370f39:
+
+    # jor "And mine is even higher. We're professionals you can trust."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7879
+translate schinese lucy_sigma_9a8e40cd:
+
+    # jor "You see, females are basic. Their instincts drive them to find a mate with the highest status and largest hoard of resources. In today's world that means money and fame."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7881
+translate schinese lucy_sigma_57529158:
+
+    # jor "These glasses? $10k."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7883
+translate schinese lucy_sigma_0b3543f1:
+
+    # jor "This watch? $40k."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7885
+translate schinese lucy_sigma_20cd41d8:
+
+    # jor "Females will literally drop to their knees at the mere sight of these things. It shows them that you can provide!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7886
+translate schinese lucy_sigma_edb7d2d9:
+
+    # jor "But can you afford this lifestyle? NO! Of course not. You're a weak beta femboy jerking off to anime tits, when you could be out there CONQUERING!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7887
+translate schinese lucy_sigma_6da1a467:
+
+    # jor "We go over this extensively in our new course, available to you for only $1,000 a month."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7888
+translate schinese lucy_sigma_62aa55a6:
+
+    # jor "You might say {i}'Jordan, $1,000 is too expensive.'{/i}\nWRONG! You're fucking WRONG! It's an investment into your future. But I'll give you one tip for free."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7890
+translate schinese lucy_sigma_35d75f8e:
+
+    # jor "Sit like a fucking man!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7892
+translate schinese lucy_sigma_37a70ec4:
+
+    # jor "No hunching over like a weak beta pussy, show them your frame! Dominate every space you're in!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7894
+translate schinese lucy_sigma_2b87aa41:
+
+    # jor "Treat yourself like the king you are! And don't tell me shit about {i}'Oh, I gotta pay taxes Jordan, I can't afford your course.'{/i}"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7896
+translate schinese lucy_sigma_859ec074:
+
+    # jor "BULLSHIT! Taxes were made up by the ruling class to keep betas like you from achieving your goals."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7898
+translate schinese lucy_sigma_efc71fd7:
+
+    # char "I stopped paying mine years ago. They haven't caught me yet!"
+    char ""
+
+# game/scripts/side_char_events.rpy:7899
+translate schinese lucy_sigma_a2b22d4a:
+
+    # jor "Precisely!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7901
+translate schinese lucy_sigma_a20dd581:
+
+    # char "So uhh, Jordan, we got in a bit of a controversy for our last podcast. Any comment?"
+    char ""
+
+# game/scripts/side_char_events.rpy:7903
+translate schinese lucy_sigma_b26d8f46:
+
+    # jor "I did not rape her. It was consensual."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7904
+translate schinese lucy_sigma_65d5ef41:
+
+    # char "No, the other one."
+    char ""
+
+# game/scripts/side_char_events.rpy:7906
+translate schinese lucy_sigma_9e2d3cfd:
+
+    # jor "What the fuck are you talking about, Charlie?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7908
+translate schinese lucy_sigma_bad8458e:
+
+    # char "Everyone's calling you gay, man."
+    char ""
+
+# game/scripts/side_char_events.rpy:7909
+translate schinese lucy_sigma_0fb54038:
+
+    # jor "That's bullshit. I'm not gay."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7910
+translate schinese lucy_sigma_43a30a00:
+
+    # char "Well you told everyone you fucked a dude."
+    char ""
+
+# game/scripts/side_char_events.rpy:7912
+translate schinese lucy_sigma_92d7eaf8:
+
+    # jor "Okay, literally what is more manly than dominating another man? I made my point very clear."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7913
+translate schinese lucy_sigma_791c551c:
+
+    # char "It's still a bit gay."
+    char ""
+
+# game/scripts/side_char_events.rpy:7914
+translate schinese lucy_sigma_4ed80fc2:
+
+    # jor "It's not gay! It's liter- I'm-"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7916
+translate schinese lucy_sigma_2c9b770c:
+
+    # jor "LISTEN. Females are weak, they're easy. If you want a challenge, try fucking a dude who thinks they're a chick. THAT'S hard."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7918
+translate schinese lucy_sigma_5fda6f37:
+
+    # jor "At the end of the day, a bitch is a bitch. Especially if you make him one.\nCommand. Conquer. Dominate."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7920
+translate schinese lucy_sigma_6aa20e3c:
+
+    # char "Yeah, I've seen some pretty trans girls. They're alright. Some of them even look better than the natural ones these days."
+    char ""
+
+# game/scripts/side_char_events.rpy:7921
+translate schinese lucy_sigma_9d5e2bce:
+
+    # jor "Precisely. It's not gay."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7922
+translate schinese lucy_sigma_66686486:
+
+    # char "I mean, it's still a bit gay."
+    char ""
+
+# game/scripts/side_char_events.rpy:7924
+translate schinese lucy_sigma_4fe6fc75:
+
+    # jor "Moving on."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7925
+translate schinese lucy_sigma_b40d38f8:
+
+    # jor "I see many of you own a slave, or are thinking about buying one. I can tell you that without a shred of doubt, that is the most beta thing you can do."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7926
+translate schinese lucy_sigma_d75cfaf7:
+
+    # jor "Females are easy. Female slaves? You might as well just kill yourself! You're eliminating your masculinity! You might as well fuck a pig."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7928
+translate schinese lucy_sigma_f6b771d1:
+
+    # char "You don't own a single elf? I own a few just for maintenance on my yacht."
+    char ""
+
+# game/scripts/side_char_events.rpy:7929
+translate schinese lucy_sigma_a4465222:
+
+    # jor "No Charlie, that's pussy shit! Buying a few for your business is one thing, but it's not real pussy."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7930
+translate schinese lucy_sigma_e71d238d:
+
+    # char "True, true, okay."
+    char ""
+
+# game/scripts/side_char_events.rpy:7932
+translate schinese lucy_sigma_7ad1ac80:
+
+    # jor "Sell your slaves, buy our course. You'll thank us later when you get some premium pussy."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7934
+translate schinese lucy_sigma_850e71d6:
+
+    # char "Wait hold on, not even dark elf pussy counts?"
+    char ""
+
+# game/scripts/side_char_events.rpy:7935
+translate schinese lucy_sigma_dccd2040:
+
+    # jor "NO! You idiot!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7936
+translate schinese lucy_sigma_173b21f5:
+
+    # char "Dude, you've never fucked an elf have you? Don't knock it 'til you try it. Dark elf pussies are fat."
+    char ""
+
+# game/scripts/side_char_events.rpy:7938
+translate schinese lucy_sigma_4dbdc23c:
+
+    # char "Shit... and drow pussy? Like navigating a hot, wet, messy cave. That shit feels {i}gooooood...{/i}"
+    char ""
+
+# game/scripts/side_char_events.rpy:7940
+translate schinese lucy_sigma_eaed4339:
+
+    # char "And don't even get me started on-!"
+    char ""
+
+# game/scripts/side_char_events.rpy:7941
+translate schinese lucy_sigma_34b673ba:
+
+    # jor "SHUT THE FUCK UP, CHARLIE!" with ssshake
+    jor "" with ssshake
+
+# game/scripts/side_char_events.rpy:7943
+translate schinese lucy_sigma_5e631982:
+
+    # char "Sorry."
+    char ""
+
+# game/scripts/side_char_events.rpy:7945
+translate schinese lucy_sigma_c6e9e93a:
+
+    # jor "Moving on!\nWe'd like to introduce you to our sponsor."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7946
+translate schinese lucy_sigma_b800b0c6:
+
+    # jor "On the journey to becoming the ultimate man, working out is a requirement. You can't be a man if you look like a beta bitch, can you?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7948
+translate schinese lucy_sigma_3e1dcb56:
+
+    # jor "Man Juice is the ultimate non-GMO organic only suppliment that will change your life. It's high in protein, creatine, and beta blockers. Because why would you want to be a beta?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7949
+translate schinese lucy_sigma_a947051b:
+
+    # jor "I use it every day, and I'm fucking ripped. You can be too. Click the link in the description below to buys yours today."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7951
+translate schinese lucy_sigma_e023c9f1:
+
+    # jor "Moving on.\nWe're starting a new segment of the show where we answer calls from our most loyal watchers. We'll answer any questions you have and help you become the man you were destined to be."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7953
+translate schinese lucy_sigma_f621fa8c:
+
+    # jor "Caller number 1, you're on the air."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7954
+translate schinese lucy_sigma_66dff6af:
+
+    # call1 "Hello?"
+    call1 ""
+
+# game/scripts/side_char_events.rpy:7955
+translate schinese lucy_sigma_ae80531c:
+
+    # jor "We can hear you, you sound like a bitch. Why did you call?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7956
+translate schinese lucy_sigma_a780e3fd:
+
+    # call1 "W-Well, I'm having girl problems..."
+    call1 ""
+
+# game/scripts/side_char_events.rpy:7957
+translate schinese lucy_sigma_a73df953:
+
+    # jor "Wrong! You don't have girl problems, girls are the problem. How old are you?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7958
+translate schinese lucy_sigma_72ebd633:
+
+    # call1 "Uhh, 13..."
+    call1 ""
+
+# game/scripts/side_char_events.rpy:7959
+translate schinese lucy_sigma_1159a476:
+
+    # jor "Next caller."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7960
+translate schinese lucy_sigma_169b75cb:
+
+    # jor "Caller number 2, you're on the air."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7961
+translate schinese lucy_sigma_fa7d5205:
+
+    # call2 "Hello Jordan! I'm a big fan!"
+    call2 ""
+
+# game/scripts/side_char_events.rpy:7962
+translate schinese lucy_sigma_4140754b:
+
+    # jor "You sound like a bitch too. How old are you?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7963
+translate schinese lucy_sigma_831d9359:
+
+    # call2 "Uh, 15?"
+    call2 ""
+
+# game/scripts/side_char_events.rpy:7964
+translate schinese lucy_sigma_1159a476_1:
+
+    # jor "Next caller."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7966
+translate schinese lucy_sigma_7d87a11d:
+
+    # char "Bro, our audience is mostly kids. We're gonna be here all day if you keep skipping them."
+    char ""
+
+# game/scripts/side_char_events.rpy:7968
+translate schinese lucy_sigma_029f6bca:
+
+    # jor "Don't call if you're under 18, that is a legal liability. This podcast is for adults only."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7970
+translate schinese lucy_sigma_1be92634:
+
+    # jor "Caller number 3, you're on the air. Fuck off if you're a kid."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7971
+translate schinese lucy_sigma_bed92584:
+
+    # call3 "Hi, I have a few issues with this bitch, and I need some advice on how to deal with them."
+    call3 ""
+
+# game/scripts/side_char_events.rpy:7972
+translate schinese lucy_sigma_82ca1415:
+
+    # jor "You sound like a kid. What the fuck is going on?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7973
+translate schinese lucy_sigma_a628ab7a:
+
+    # call3 "No, I'm just a woman. The bitch is you."
+    call3 ""
+
+# game/scripts/side_char_events.rpy:7975
+translate schinese lucy_sigma_d86781c5:
+
+    # jor "Who the fuck let this slut on? Hold on, you sound familiar..."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7977
+translate schinese lucy_sigma_bf32c147:
+
+    # van "I don't know, maybe because you dated me in highschool?"
+    van ""
+
+# game/scripts/side_char_events.rpy:7978
+translate schinese lucy_sigma_91333e82:
+
+    # van "By the way, I was the only one in highschool..."
+    van ""
+
+# game/scripts/side_char_events.rpy:7979
+translate schinese lucy_sigma_fba43337:
+
+    # jor "Vanessa!?"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7980
+translate schinese lucy_sigma_6e44bbed:
+
+    # van "Bingo!\nWelcome to the Violet Ends podcast, where we tackle the idiocy plaguing our nation."
+    van ""
+
+# game/scripts/side_char_events.rpy:7981
+translate schinese lucy_sigma_325d4273:
+
+    # van "So how many highschoolers have you took on dates this year? Break any records?"
+    van ""
+
+# game/scripts/side_char_events.rpy:7982
+translate schinese lucy_sigma_79c9f2c9:
+
+    # jor "Oh fuck off. I didn't force you into anything."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7983
+translate schinese lucy_sigma_a9e88350:
+
+    # van "Yeah, mistakes were made... who knew you would turn out to be such a dick? Or do you only suck them these days?"
+    van ""
+
+# game/scripts/side_char_events.rpy:7984
+translate schinese lucy_sigma_ab65a34a:
+
+    # jor "I'M NOT GAY!" with ssshake
+    jor "" with ssshake
+
+# game/scripts/side_char_events.rpy:7985
+translate schinese lucy_sigma_49d05ec2:
+
+    # van "Hey, no judgements here. I think it's pretty cool that you're so open to new things."
+    van ""
+
+# game/scripts/side_char_events.rpy:7987
+translate schinese lucy_sigma_68555d95:
+
+    # jor "Get her off the fucking line. We don't talk to females."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7988
+translate schinese lucy_sigma_d3bbe313:
+
+    # van "Aww, what's the matter? I thought you embraced confrontation?"
+    van ""
+
+# game/scripts/side_char_events.rpy:7989
+translate schinese lucy_sigma_60f9fab7:
+
+    # jor "I do! I'd like to see you here in person. You wouldn't last 10 seconds in a fight against me."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7991
+translate schinese lucy_sigma_d04e6746:
+
+    # van "Ooh, what a big man. He can beat up women! Would you like a trophy?"
+    van ""
+
+# game/scripts/side_char_events.rpy:7992
+translate schinese lucy_sigma_ede32f47:
+
+    # jor "I don't beat women, that was a lie started by bitches like you to take me down! Though I easily could if I wanted to."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7993
+translate schinese lucy_sigma_4b11f2ec:
+
+    # van "Wow, I think that was the first time I've ever heard you say the word 'woman'. You've really expanded your vocabulary!"
+    van ""
+
+# game/scripts/side_char_events.rpy:7995
+translate schinese lucy_sigma_91d7180b:
+
+    # jor "This is the problem with modern females. They're too masculine."
+    jor ""
+
+# game/scripts/side_char_events.rpy:7996
+translate schinese lucy_sigma_fcf678d6:
+
+    # jor "Instead of getting on their knees and sucking your cock on request, they talk back! They've become whores in our modern society!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:7998
+translate schinese lucy_sigma_0788946a:
+
+    # char "Wait, I'm confused. Do we want them to be whores or not?"
+    char ""
+
+# game/scripts/side_char_events.rpy:7999
+translate schinese lucy_sigma_48a55a9a:
+
+    # jor "Don't talk while I'm talking, Charlie!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:8001
+translate schinese lucy_sigma_5e631982_1:
+
+    # char "Sorry."
+    char ""
+
+# game/scripts/side_char_events.rpy:8002
+translate schinese lucy_sigma_066b3c25:
+
+    # van "The only whores here are you two. You can't even count how many men and women you've fucked!"
+    van ""
+
+# game/scripts/side_char_events.rpy:8004
+translate schinese lucy_sigma_7b8dd2ae:
+
+    # jor "It's different. We're men, we conquer."
+    jor ""
+
+# game/scripts/side_char_events.rpy:8005
+translate schinese lucy_sigma_79054f09:
+
+    # van "Conquer a new hairline, buddy. We all know you're not bald by choice."
+    van ""
+
+# game/scripts/side_char_events.rpy:8007
+translate schinese lucy_sigma_dcd286bd:
+
+    # jor "{b}GET HER OFF THE LINE! GET HER OFF THE LINE!{/b}" with ssshake
+    jor "" with ssshake
+
+# game/scripts/side_char_events.rpy:8008
+translate schinese lucy_sigma_cfc0ca2e:
+
+    # jor "FUCK THIS DUMB CUNT, I HOPE SHE GETS RAPED! NEVER CALL ME AGAIN!! STUPID BITCH!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:8009
+translate schinese lucy_sigma_a62fd5b3:
+
+    # jor "YOU NEVER SHOULD HAVE DUMPED ME! I'LL MAKE YOUR LIFE A LIVING HELL!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:8011
+translate schinese lucy_sigma_d4e85632:
+
+    # char "Bro... are you crying?"
+    char ""
+
+# game/scripts/side_char_events.rpy:8012
+translate schinese lucy_sigma_492eb227:
+
+    # jor "No Charlie, you fucking dumbass!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:8014
+translate schinese lucy_sigma_2640f11e:
+
+    # jor "I don't cry. Men never cry. To cry is to act, and I don't believe in acting."
+    jor ""
+
+# game/scripts/side_char_events.rpy:8015
+translate schinese lucy_sigma_a1ea6a61:
+
+    # jor "Did I have tears coming out of my eyes? Yes. But it's not crying. My eyes leaked as I conquered."
+    jor ""
+
+# game/scripts/side_char_events.rpy:8016
+translate schinese lucy_sigma_eaa15c88:
+
+    # char "Dude, that's... that's crying."
+    char ""
+
+# game/scripts/side_char_events.rpy:8018
+translate schinese lucy_sigma_8c2b7b73:
+
+    # jor "*ahem*...\nBe the man you were destined to be. Stop being a beta bitch today. Buy our course now."
+    jor ""
+
+# game/scripts/side_char_events.rpy:8020
+translate schinese lucy_sigma_bb49d87e:
+
+    # jor "That's all for today. Peace out bitches!"
+    jor ""
+
+# game/scripts/side_char_events.rpy:8021
+translate schinese lucy_sigma_d5270c5f:
+
+    # char "{size=-5}{i}Ohhh... I'm starting to have regrets...{/i}{/size}"
+    char ""
+
+# game/scripts/side_char_events.rpy:8025
+translate schinese lucy_sigma_c15cc7d6:
+
+    # lu "..."
+    lu ""
+
+# game/scripts/side_char_events.rpy:8026
+translate schinese lucy_sigma_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/side_char_events.rpy:8028
+translate schinese lucy_sigma_7af0b4af:
+
+    # k "Dude."
+    k ""
+
+# game/scripts/side_char_events.rpy:8029
+translate schinese lucy_sigma_c15cc7d6_1:
+
+    # lu "..."
+    lu ""
+
+# game/scripts/side_char_events.rpy:8030
+translate schinese lucy_sigma_24f46eae:
+
+    # k "You almost went on there!?"
+    k ""
+
+# game/scripts/side_char_events.rpy:8031
+translate schinese lucy_sigma_2aefcc1a:
+
+    # lu "I didn't know he was like that! I mean, he was hitting on me at the yacht..."
+    lu ""
+
+# game/scripts/side_char_events.rpy:8032
+translate schinese lucy_sigma_45b183a7:
+
+    # k "How could you not see how much of a cunt he is!?"
+    k ""
+
+# game/scripts/side_char_events.rpy:8033
+translate schinese lucy_sigma_a4f10506:
+
+    # lu "Stop making me feel bad!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:8034
+translate schinese lucy_sigma_e7710137:
+
+    # k "I want my 5 minutes back, Lucy!"
+    k ""
+
+# game/scripts/side_char_events.rpy:8035
+translate schinese lucy_sigma_fe89b595:
+
+    # lu "I'm sorry...!"
+    lu ""
+
+# game/scripts/side_char_events.rpy:8037
+translate schinese lucy_sigma_db241e0a:
+
+    # k "...I need to give [name] a hug..."
+    k ""
+
+# game/scripts/side_char_events.rpy:8038
+translate schinese lucy_sigma_2c3836cc:
+
+    # lu "Huh? Why?"
+    lu ""
+
+# game/scripts/side_char_events.rpy:8039
+translate schinese lucy_sigma_c8314966:
+
+    # k "To remind myself that good men do exist. They should be cherished..."
+    k ""
+
+# game/scripts/side_char_events.rpy:8040
+translate schinese lucy_sigma_dd8d1217:
+
+    # lu "Oh... I think I'll join you..."
+    lu ""
+
+translate schinese strings:
+
+    # game/scripts/side_char_events.rpy:7251
+    old "Lin!"
+    new ""
+
+    # game/scripts/side_char_events.rpy:7251
+    old "Ashley!"
+    new ""
+
+    # game/scripts/side_char_events.rpy:7251
+    old "Maria!"
+    new ""
+
+    # game/scripts/side_char_events.rpy:7251
+    old "Kali!"
+    new ""
+
+    # game/scripts/side_char_events.rpy:7251
+    old "Everyone wins today."
+    new ""
+

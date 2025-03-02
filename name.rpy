@@ -388,3 +388,18 @@ translate schinese strings:
 
     old "Linda Vasquez"
     new "琳达·瓦斯奎兹"
+
+    old "Grand Arbiter"
+    new "大仲裁者"
+
+    old "Caller Number 1"
+    new "1号来电者"
+
+    old "Caller Number 2"
+    new "2号来电者"
+
+    old "Caller Number 3"
+    new "3号来电者"
+
+    old "Hostess"
+    new "女主人"

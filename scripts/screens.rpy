@@ -3783,3 +3783,35 @@ translate schinese strings:
     # game/scripts/screens.rpy:2777
     old "{alpha=-0}{size=-5}[bug_spray_name!t]{/size}{/alpha}"
     new "{alpha=-0}{size=-5}[bug_spray_name!t]{/size}{/alpha}"
+# TODO: Translation updated at 2025-03-03 00:08
+
+translate schinese strings:
+
+    # game/scripts/screens.rpy:8669
+    old "You and Maria infiltrate the Cornwall estate, hoping to gather intel under the guise of a social visit.\n\nDuring dinner, Maria slipped away to snoop through Cornwall's emails, uncovering damning files revealing a secret half-elf daughter.\n\nBefore she could escape, Maria encountered Yuqi, who attacked without hesitation."
+    new "你和玛丽亚潜入康沃尔庄园,希望以社交拜访为幌子收集情报.\n\n晚餐期间，玛丽亚偷看了康沃尔的电子邮件,震惊地发现了一份揭露他拥有一位半精灵女儿的秘密文件.\n\n玛丽亚还没来得及逃走,就遇到了玉琪,后者对她毫不犹豫地发动了攻击."
+
+    # game/scripts/screens.rpy:8687
+    old "Maria's story in v0.17"
+    new "v0.17中玛丽亚的故事"
+
+    # game/scripts/screens.rpy:8837
+    old "Kali's first day at Nero Inc. didn't go quite as she thought it would. Expecting a simple role, she was blindsided when her father promoted her to manager of the elfbot project.\n\nWith no leadership experience or desire to take over his empire, she was forced to step up to the role, but she made one thing clear: once the project is done, she's out."
+    new "凯莉来到尼禄公司的第一天并没有像她想象的那样顺利.她本以为她获得的只是一个简单的职位,但当她的父亲将她提升为机器精灵项目的总管时,她顿时傻了眼.\n\n她没有领导经验,也不想接管他的商业帝国,却不得不接受这一职位.但她明确表示:一旦项目完成,她就立刻走人."
+
+    # game/scripts/screens.rpy:8855
+    old "Kali's story in v0.17"
+    new "v0.17中凯莉的故事"
+
+    # game/scripts/screens.rpy:9448
+    old "Hoping to make amends for her past mistakes, Autumn takes Lin, Ashley, and [name] to Old Town to help the poor. Instead, they uncover an illegal elvish organ trade linked to the church which results in Ashley burning down the lab.\n\nThough shaken, Autumn vows to expose the corruption and redefine her faith."
+    new "为了弥补过去的过错,秋带着林,阿什莉和[name]去老城区帮助穷人.然而,他们却发现了一个与教会有关的非法精灵器官交易,阿什莉因此烧毁了实验室.虽然受到打击,但秋发誓要揭露这般腐败,重新定义自己的信仰."
+
+    # game/scripts/screens.rpy:9466
+    old "Autumn's story in v0.17"
+    new "v0.17中秋的故事"
+
+    # game/scripts/screens.rpy:9473
+    old "Elder Delilah harshly reeducates a group of elves as Autumn and Hazel are promoted to the role of Initiates and expected to fill the void Saint Lily left by using the same harsh methods to reeducate elves. Though one familiar elf decides to rebel by shocking Hazel and running away."
+    new "当秋和榛被提拔为门徒后,黛拉利长老严厉地再教育了一群精灵,并期望她们两个使用同样的方法去再教育精灵,以填补圣莉莉留下的空白.然而一个精灵却选择反抗,反过来电击了榛,并逃跑了."
+

@@ -106730,3 +106730,279 @@ translate schinese strings:
     old "* I wonder where she is? *"
     new "*她去哪里了?*"
 
+# TODO: Translation updated at 2025-03-03 00:08
+
+# game/script.rpy:1066
+translate schinese sleepwithsomeone_1ea1b03c:
+
+    # c "We're not close enough yet."
+    c "我们还不够亲密."
+
+# game/script.rpy:1071
+translate schinese sleepwithsomeone_5877ca03:
+
+    # c "Come to bed."
+    c "来床上."
+
+# game/script.rpy:1072
+translate schinese sleepwithsomeone_bbba7c12:
+
+    # au "Of course~"
+    au "来了~"
+
+# game/script.rpy:3502
+translate schinese ellentalk_cb7aef56:
+
+    # e "Hi [name], what can I help you with?"
+    e "嗨,[name],有什么我可以帮助的吗?"
+
+# game/script.rpy:6117
+translate schinese twin_door_menu_bd4d3cfc:
+
+    # "*knock, knock, knock*"
+    "*敲,敲,敲*"
+
+# game/script.rpy:6118
+translate schinese twin_door_menu_d19f855d_1:
+
+    # c "..."
+    c "......"
+
+# game/script.rpy:6119
+translate schinese twin_door_menu_c8ff96dd:
+
+    # c "There's no answer. I'll wait for her to come out tonight."
+    c "没有回应.我等她今晚出来."
+
+# game/script.rpy:6122
+translate schinese twin_door_menu_bd4d3cfc_1:
+
+    # "*knock, knock, knock*"
+    "*敲,敲,敲*"
+
+# game/script.rpy:6123
+translate schinese twin_door_menu_d19f855d_2:
+
+    # c "..."
+    c "......"
+
+# game/script.rpy:6124
+translate schinese twin_door_menu_bdef7190:
+
+    # c "Hm, she's not here..."
+    c "嗯,她不在这......"
+
+# game/script.rpy:6461
+translate schinese lobby_ad1a643e:
+
+    # c "It's too early to take her on a date. I'll come back later."
+    c "现在带她去约会太早了,我待会再回来."
+
+# game/script.rpy:16410
+translate schinese shower_afb71cfb:
+
+    # e "Mmmn..."
+    e "嗯......"
+
+# game/script.rpy:16417
+translate schinese shower_f5033a6a:
+
+    # e "Oh, it's just you. You startled me."
+    e "哦,原来是你.你吓了我一跳."
+
+# game/script.rpy:16418
+translate schinese shower_0ca83527:
+
+    # e "Did you... come for a bit of relief?"
+    e "你是来......解脱一下的吗?"
+
+# game/script.rpy:16421
+translate schinese shower_51196e7f:
+
+    # e "Come here, then..."
+    e "那就,过来吧......"
+
+# game/script.rpy:16424
+translate schinese shower_1b30bfe1:
+
+    # e "Haaah~! Oh fuck..."
+    e "哈~!哦操......"
+
+# game/script.rpy:16425
+translate schinese shower_6f12b20f:
+
+    # e "Mmmn! Yes- ah! Keep going... oh fuck...!"
+    e "嗯!是的-啊!继续......哦操......!"
+
+# game/script.rpy:16426
+translate schinese shower_87356abc:
+
+    # e "Mn! Mmmn! Aah! Oh god, you fuck so good~ Nnnm~!"
+    e "嗯!嗯!啊!哦我天,你操得我好爽~嗯~!"
+
+# game/script.rpy:16429
+translate schinese shower_d6993e67:
+
+    # e "Oh yes, yes, yes! Aaah~! Are you getting close? Hmm? Nnm!"
+    e "哦是的,是的,是的!啊~!你要射了吗?嗯?嗯!"
+
+# game/script.rpy:16430
+translate schinese shower_82efc171:
+
+    # e "Oh yes baby, fuck! Fuck, fuck! Haaah! Paint me with your cum~ Mmmn!"
+    e "哦是的宝贝,操!操,操!哈!用你的精液来涂抹我吧~嗯!"
+
+# game/script.rpy:16431
+translate schinese shower_96c2324b:
+
+    # e "Fuck fuck fuck fuck! AAH! Nnnm! Yes, yes! Cum on me...! I want it!"
+    e "操操操操!{b}啊!{/b}嗯!是的,是的!射给我......!我想要!"
+
+# game/script.rpy:16433
+translate schinese shower_419328ec:
+
+    # e "Ahh!" with ssshake
+    e "啊!" with ssshake
+
+# game/script.rpy:16435
+translate schinese shower_70c3945b:
+
+    # e "Nnmmmh... hahhh...\nWell, I'm glad you enjoyed~"
+    e "嗯......哈......\n嗯,我很高兴你喜欢~"
+
+# game/script.rpy:16440
+translate schinese shower_95bce66a:
+
+    # e "Well, then if you don't mind..."
+    e "嗯,如果你不介意的话......"
+
+# game/script.rpy:16444
+translate schinese shower_84f7f06b_1:
+
+    # au "O-Oh, [name]..."
+    au "哦-噢,[name]......"
+
+# game/script.rpy:16445
+translate schinese shower_5d143cff_1:
+
+    # au "Well, since you're already here, we should make sure you're clean. Come here, [name]..."
+    au "嗯,既然你都来了,我们得帮你清洁.过来,[name]......"
+
+# game/script.rpy:16447
+translate schinese shower_fcbaf5c2_1:
+
+    # au "There you go... nice and clean..."
+    au "好了......帅气又干净......"
+
+# game/script.rpy:16450
+translate schinese shower_759d2683_1:
+
+    # au "But what I really need to clean... is your dirty cock..."
+    au "但我真正需要清洁的......是你肮脏的肉棒......"
+
+# game/script.rpy:16452
+translate schinese shower_e97cf1df_1:
+
+    # au "This is just a cleaning, nothing too sexual... so I won't use my hands..."
+    au "这只是清洁,和性无关......所以我不会用我的手......"
+
+# game/script.rpy:16453
+translate schinese shower_9ee88bff_1:
+
+    # au "Instead, I'll use my body..."
+    au "相反,我会用我的身体......"
+
+# game/script.rpy:16455
+translate schinese shower_fb534148_1:
+
+    # au "Nnnhm... here... you'll be so clean...!"
+    au "嗯......这里......你会变得特别干净的......!"
+
+# game/script.rpy:16456
+translate schinese shower_4f426f51_1:
+
+    # au "Ahhh... does your cock feel good between my juicy breasts? Nnn..."
+    au "啊......你的肉棒在我饱满的胸部里舒服吗?嗯......"
+
+# game/script.rpy:16457
+translate schinese shower_cd6e768b_1:
+
+    # au "Mmmm... there there, just relax... let me wash you..."
+    au "嗯......还有这里,你放松就好了......让我帮你清洁......"
+
+# game/script.rpy:16460
+translate schinese shower_18cdefaf_1:
+
+    # au "You won't be touching any of those whores now, will you...? Nnnh... be my good boy..."
+    au "现在你不会再去碰那些妓女了,对吧......?嗯......做我的好孩子......"
+
+# game/script.rpy:16461
+translate schinese shower_4b89e7e8_1:
+
+    # au "Ahhh... yes... I love taking care of you, [name]... Mmmm..."
+    au "啊......是的......我喜欢照顾你,[name]......嗯......"
+
+# game/script.rpy:16462
+translate schinese shower_647badde_1:
+
+    # au "Aaah~ Go on... go on...! Release... I know it's inevitable now... just do it...! It will feel so good!"
+    au "啊~继续......继续......!释放出来吧......我知道这是不可避免的......那就做吧......!你会很舒服的!"
+
+# game/script.rpy:16464
+translate schinese shower_d4857067_1:
+
+    # au "Yes, yes- Ah!" with ssshake
+    au "是的,是的-啊!" with ssshake
+
+# game/script.rpy:16466
+translate schinese shower_2df61f26_1:
+
+    # au "Hahhh...! It's okay... nnnm... I can wash it all off..."
+    au "哈......!没事的......嗯......我可以把它们洗掉......"
+
+# game/script.rpy:16475
+translate schinese shower_48bd0775:
+
+    # e "What are you doing here, [name]? I'm using the shower..."
+    e "你在这里做什么,[name]?我在洗澡......"
+
+# game/script.rpy:19019
+translate schinese yourroom_e9b50245:
+
+    # warning "THIS IS AN UNRELEASED PATRON ONLY BUILD. BUGS {u}WILL{/u} OCCUR! IF YOU DON'T KNOW WHAT YOU'RE DOING HERE, TURN BACK."
+    warning "{b}这是一个未公开发布的,仅供赞助者使用的版本.可能{u}存在{/u}BUG!如果你不知道自己在做什么,请返回.{/b}"
+
+# game/script.rpy:19023
+translate schinese yourroom_3381f206:
+
+    # bot "Hello patrons! Welcome to Beta Build 1 of v0.19! This is an unreleased, unfinished, unpolished, buggy version of v0.19! v0.19 is not completed yet!"
+    bot "赞助者们,你们好!欢迎来到v0.19 Beta版!这是v0.19未发布,未完成,未完善,且包含大量错误的版本!v0.19尚未完成!"
+
+# game/script.rpy:19026
+translate schinese yourroom_cff729a7:
+
+    # bot "Have fun! Please provide feedback and remember to report any bugs you find on Runey's discord! Byebye~"
+    bot "祝你玩得开心!请提供反馈,并记得在Runey的Discord上报告你发现的任何bug!再见~"
+
+# game/script.rpy:40355
+translate schinese checkdone_e694f8ad:
+
+    # r "Maria's story is not done, more will be added to her in v0.20!"
+    r "玛丽亚的故事还未结束,她的更多内容会在v0.20中增加!"
+
+# game/script.rpy:40367
+translate schinese checkdone_b7d056f1:
+
+    # r "Autumn's story is not done, more will be added to her in v0.20!"
+    r "秋的故事还未结束,她的更多内容会在v0.20中增加!"
+
+translate schinese strings:
+
+    # game/script.rpy:994
+    old "Sleep with Autumn"
+    new "和秋一起睡觉"
+
+    # game/script.rpy:6125
+    old "* I wonder what she's up to? *"
+    new "*我想知道她在忙什么?*"
+

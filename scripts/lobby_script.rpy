@@ -2101,3 +2101,17 @@ translate schinese lobby_bot_talk_a89877e7_1:
 
     # bot "Hello!"
     bot "你好!"
+# TODO: Translation updated at 2025-03-03 00:08
+
+# game/scripts/lobby_script.rpy:342
+translate schinese ellenchilldesk_3340ae1f:
+
+    # c "Ellen is probably at the hot springs."
+    c "艾兰大概是在温泉."
+
+# game/scripts/lobby_script.rpy:348
+translate schinese ellenchilldesk_c5cbb24b:
+
+    # c "Ellen is probably showering right now."
+    c "艾兰现在可能在洗澡."
+

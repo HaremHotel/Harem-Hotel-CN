@@ -34573,3 +34573,1739 @@ translate schinese autumn_save_0a15424c:
 
     # au "Helping the helpless is what we're supposed to do, why is it surprising?"
     au "帮助无助的人是我们应该做的,这有什么好奇怪的呢?"
+# TODO: Translation updated at 2025-03-03 00:08
+
+# game/scripts/autumn_events.rpy:5
+translate schinese aut_sleep_event_ecf18235:
+
+    # "*knock knock knock*"
+    ""
+
+# game/scripts/autumn_events.rpy:7
+translate schinese aut_sleep_event_78b8fe47:
+
+    # c "Oh. There you are."
+    c ""
+
+# game/scripts/autumn_events.rpy:8
+translate schinese aut_sleep_event_6e4b1004:
+
+    # au "Hi [name]..."
+    au ""
+
+# game/scripts/autumn_events.rpy:9
+translate schinese aut_sleep_event_3fc15ae0:
+
+    # c "Are you okay?"
+    c ""
+
+# game/scripts/autumn_events.rpy:11
+translate schinese aut_sleep_event_1ec768c5:
+
+    # au "I've been through a lot today... I almost quit sainthood."
+    au ""
+
+# game/scripts/autumn_events.rpy:12
+translate schinese aut_sleep_event_4f3072eb:
+
+    # c "Almost? What happened?"
+    c ""
+
+# game/scripts/autumn_events.rpy:13
+translate schinese aut_sleep_event_31eba822:
+
+    # au "I needed answers after what we found in Old Town. It turns they sacrificed an elf to replace my dad's heart..."
+    au ""
+
+# game/scripts/autumn_events.rpy:14
+translate schinese aut_sleep_event_297d93f3:
+
+    # c "What?"
+    c ""
+
+# game/scripts/autumn_events.rpy:15
+translate schinese aut_sleep_event_87c31500:
+
+    # au "He's different now..."
+    au ""
+
+# game/scripts/autumn_events.rpy:16
+translate schinese aut_sleep_event_57697c2e:
+
+    # c "But you didn't quit after all?"
+    c ""
+
+# game/scripts/autumn_events.rpy:18
+translate schinese aut_sleep_event_bc3269e8:
+
+    # au "No... I plan to go back. There's so much I can't explain, and so much I don't understand..."
+    au ""
+
+# game/scripts/autumn_events.rpy:19
+translate schinese aut_sleep_event_5b2b8865:
+
+    # au "I know Gaius is real, I've seen proof. But the church is corrupt and I'm sure of that now."
+    au ""
+
+# game/scripts/autumn_events.rpy:20
+translate schinese aut_sleep_event_092d046d:
+
+    # c "You want to go back, even knowing they're corrupt?"
+    c ""
+
+# game/scripts/autumn_events.rpy:21
+translate schinese aut_sleep_event_5342f5b3:
+
+    # au "The church, the bible, it was all made by humans. But Gaius wasn't. Gaius was here a long time before humans. It's him I truly need to understand."
+    au ""
+
+# game/scripts/autumn_events.rpy:22
+translate schinese aut_sleep_event_6e48b0e1:
+
+    # c "Well, okay. If that's what you think is best."
+    c ""
+
+# game/scripts/autumn_events.rpy:24
+translate schinese aut_sleep_event_5f157007:
+
+    # au "I'm sorry [name], but I have a favor to ask... do you think I could sleep with you tonight?"
+    au ""
+
+# game/scripts/autumn_events.rpy:25
+translate schinese aut_sleep_event_582d4135:
+
+    # c "Oh of course, I was just about to go to bed."
+    c ""
+
+# game/scripts/autumn_events.rpy:27
+translate schinese aut_sleep_event_631185ac:
+
+    # au "Perfect... I'm really tired."
+    au ""
+
+# game/scripts/autumn_events.rpy:30
+translate schinese aut_sleep_event_8baac8d8:
+
+    # au "Mmmn... I feel so safe with you..."
+    au ""
+
+# game/scripts/autumn_events.rpy:31
+translate schinese aut_sleep_event_4e906917:
+
+    # au "Thank you [name]. No matter what happens out there, I know I can always come back."
+    au ""
+
+# game/scripts/autumn_events.rpy:32
+translate schinese aut_sleep_event_888e4335:
+
+    # au "Good night..."
+    au ""
+
+# game/scripts/autumn_events.rpy:33
+translate schinese aut_sleep_event_6d06c2fc:
+
+    # c "Good night, Autumn."
+    c ""
+
+# game/scripts/autumn_events.rpy:38
+translate schinese aut_sleep_event_90b38547:
+
+    # au "Nnnnnm-nnngh! Ahhh..."
+    au ""
+
+# game/scripts/autumn_events.rpy:40
+translate schinese aut_sleep_event_16bd972d:
+
+    # au "Oh, good morning~\nI didn't mean to wake you. Get some more sleep, okay?"
+    au ""
+
+# game/scripts/autumn_events.rpy:66
+translate schinese autumnsleep_77506a9b:
+
+    # au "Mmmn~ Good night..."
+    au ""
+
+# game/scripts/autumn_events.rpy:67
+translate schinese autumnsleep_6d06c2fc:
+
+    # c "Good night, Autumn."
+    c ""
+
+# game/scripts/autumn_events.rpy:70
+translate schinese autumnsleep_90b38547:
+
+    # au "Nnnnnm-nnngh! Ahhh..."
+    au ""
+
+# game/scripts/autumn_events.rpy:72
+translate schinese autumnsleep_16bd972d:
+
+    # au "Oh, good morning~\nI didn't mean to wake you. Get some more sleep, okay?"
+    au ""
+
+# game/scripts/autumn_events.rpy:105
+translate schinese aut_dare_74b234b6:
+
+    # au "WHAT DO YOU KNOW!?" with ssshake
+    au "" with ssshake
+
+# game/scripts/autumn_events.rpy:106
+translate schinese aut_dare_26f55a99:
+
+    # abby "Autumn!? What's the issue? Are you okay?"
+    abby ""
+
+# game/scripts/autumn_events.rpy:108
+translate schinese aut_dare_fdd408d7:
+
+    # au "What do you know about Gaianists harvesting elvish organs?"
+    au ""
+
+# game/scripts/autumn_events.rpy:109
+translate schinese aut_dare_e721f1be:
+
+    # deli "Mind your tone, Autumn! You're a saint, and you're speaking to an Elder!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:110
+translate schinese aut_dare_4ab498c4:
+
+    # au "You WILL answer me! What do you know!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:112
+translate schinese aut_dare_7ef80a8f:
+
+    # deli "SILENCE INITIATE! I MADE YOU SAINT, I CAN VERY WELL STRIP YOU OF THAT TITLE!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:113
+translate schinese aut_dare_4e49a826:
+
+    # au "Over a simple question? Fine! If that's how it is, then I quit!"
+    au ""
+
+# game/scripts/autumn_events.rpy:114
+translate schinese aut_dare_7bbc6589:
+
+    # abby "Woah, woah, woah! Let's all calm down, shall we?"
+    abby ""
+
+# game/scripts/autumn_events.rpy:115
+translate schinese aut_dare_645ccb92:
+
+    # abby "Let's just take a moment to-"
+    abby ""
+
+# game/scripts/autumn_events.rpy:117
+translate schinese aut_dare_4495eb94:
+
+    # au "I want NOTHING to do with a church that would steal organs from slaves! And for what?"
+    au ""
+
+# game/scripts/autumn_events.rpy:118
+translate schinese aut_dare_b9bc4f76:
+
+    # deli "Autumn...!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:119
+translate schinese aut_dare_adabcf7b:
+
+    # au "False promises, lies, greed, envy! Gaius would be SICK if he knew how you all have corrupted the church!"
+    au ""
+
+# game/scripts/autumn_events.rpy:120
+translate schinese aut_dare_0786500a:
+
+    # deli "Is that so? Tell me then, Autumn! What would he think about SAVING YOUR FATHER'S LIFE!?"
+    deli ""
+
+# game/scripts/autumn_events.rpy:122
+translate schinese aut_dare_7e1dce0e:
+
+    # au "Wh-What?"
+    au ""
+
+# game/scripts/autumn_events.rpy:123
+translate schinese aut_dare_cd795058:
+
+    # abby "Elder..."
+    abby ""
+
+# game/scripts/autumn_events.rpy:125
+translate schinese aut_dare_09f94d4f:
+
+    # deli "Your very own father had a heart transplant, Autumn! Yes, we sacrificed an elf to save YOUR father! Now you tell me, WAS IT WORTH IT?"
+    deli ""
+
+# game/scripts/autumn_events.rpy:126
+translate schinese aut_dare_e15ad473:
+
+    # au "I..."
+    au ""
+
+# game/scripts/autumn_events.rpy:127
+translate schinese aut_dare_f7332657:
+
+    # deli "He was going to die! Do you hear me? DIE!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:129
+translate schinese aut_dare_41dc4ead:
+
+    # deli "What would you have us do!? Would have let your father die? IS THAT WHAT GAIUS WOULD WANT??"
+    deli ""
+
+# game/scripts/autumn_events.rpy:130
+translate schinese aut_dare_e020675b:
+
+    # au "You-"
+    au ""
+
+# game/scripts/autumn_events.rpy:132
+translate schinese aut_dare_5d428902:
+
+    # deli "-SHUT UP! You have work to do, and questioning your god will do NO ONE any good. YOU. KNOW. NOTHING!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:134
+translate schinese aut_dare_f153aa4f:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:136
+translate schinese aut_dare_5e697813:
+
+    # au "...You knew...?"
+    au ""
+
+# game/scripts/autumn_events.rpy:137
+translate schinese aut_dare_42e99ce0:
+
+    # abby "...Yes, Autumn. Of course I was aware..."
+    abby ""
+
+# game/scripts/autumn_events.rpy:139
+translate schinese aut_dare_7384cf89:
+
+    # abby "Your father is very important to us, and it's what he wanted."
+    abby ""
+
+# game/scripts/autumn_events.rpy:140
+translate schinese aut_dare_d603ae44:
+
+    # abby "Listen... he could live to be over 200 years old with the work that we're doing. We're saving lives! We're improving humanity! It's still in the early stages, but..."
+    abby ""
+
+# game/scripts/autumn_events.rpy:141
+translate schinese aut_dare_7d90e3a5:
+
+    # abby "Well, once the technology is sufficient, all of humanity will benefit from our work!"
+    abby ""
+
+# game/scripts/autumn_events.rpy:142
+translate schinese aut_dare_bde30107:
+
+    # au "...At what cost?"
+    au ""
+
+# game/scripts/autumn_events.rpy:143
+translate schinese aut_dare_aceeb802:
+
+    # deli "Oh Autumn... do you also mourn the chicken? The cow? Do you weep when we extract milk from its teet!?"
+    deli ""
+
+# game/scripts/autumn_events.rpy:144
+translate schinese aut_dare_892760ee:
+
+    # au "That's not the same! Elves are-"
+    au ""
+
+# game/scripts/autumn_events.rpy:145
+translate schinese aut_dare_7459428a:
+
+    # deli "-OUR PROPERTY! They are animals, and we will treat them as such. As ordained by GAIUS!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:147
+translate schinese aut_dare_e9efdade:
+
+    # au "...{w}..."
+    au ""
+
+# game/scripts/autumn_events.rpy:149
+translate schinese aut_dare_25dab037:
+
+    # au "...Where is my father?"
+    au ""
+
+# game/scripts/autumn_events.rpy:150
+translate schinese aut_dare_ae3daf21:
+
+    # deli "Busy."
+    deli ""
+
+# game/scripts/autumn_events.rpy:152
+translate schinese aut_dare_90bba95e:
+
+    # au "Then I'll get answers myself."
+    au ""
+
+# game/scripts/autumn_events.rpy:154
+translate schinese aut_dare_f49895cb:
+
+    # deli "{size=-5}{i}Damn brat...{/i}{/size}"
+    deli ""
+
+# game/scripts/autumn_events.rpy:155
+translate schinese aut_dare_36ff216e:
+
+    # deli "CEPHERUS 5:9! WALK AMONGST THE HUNGRY, THE NEEDY, {u}THE DYING{/u}, AND ASK {u}THEM{/u} IF SILKEN BEDS WOULD SOOTHE THEIR SUFFERING!"
+    deli ""
+
+# game/scripts/autumn_events.rpy:156
+translate schinese aut_dare_f153aa4f_1:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:157
+translate schinese aut_dare_247a5540:
+
+    # au "Now you shall carry the flame. Do you feel it's warmth as it's light sustains you? {u}Or do its ashes whisper of another?{/u}"
+    au ""
+
+# game/scripts/autumn_events.rpy:158
+translate schinese aut_dare_92fc47f5:
+
+    # au "...Cepherus 4:13."
+    au ""
+
+# game/scripts/autumn_events.rpy:160
+translate schinese aut_dare_a20cefa7:
+
+    # "..."
+    ""
+
+# game/scripts/autumn_events.rpy:162
+translate schinese aut_dare_0ae22ea7:
+
+    # deli "That damn brat is going to be an issue, I just know it."
+    deli ""
+
+# game/scripts/autumn_events.rpy:163
+translate schinese aut_dare_78d33ad8:
+
+    # abby "But her heart is in the right place, Elder. She's just confused... we've all been there before."
+    abby ""
+
+# game/scripts/autumn_events.rpy:165
+translate schinese aut_dare_848b97c8:
+
+    # "*ring... ring...*"
+    ""
+
+# game/scripts/autumn_events.rpy:166
+translate schinese aut_dare_257c8ebe:
+
+    # au "Father, we need to talk. Where are you?"
+    au ""
+
+# game/scripts/autumn_events.rpy:167
+translate schinese aut_dare_95e1cc73:
+
+    # chancellor "Are you okay, dear? I'm driving to a meeting right now-"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:168
+translate schinese aut_dare_cdd3367d:
+
+    # au "-Where?"
+    au ""
+
+# game/scripts/autumn_events.rpy:169
+translate schinese aut_dare_129d71de:
+
+    # chancellor "Caliber Castle, but-"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:170
+translate schinese aut_dare_f093b6d5:
+
+    # "*beep*"
+    ""
+
+# game/scripts/autumn_events.rpy:171
+translate schinese aut_dare_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/scripts/autumn_events.rpy:173
+translate schinese aut_dare_4f0f8bab:
+
+    # au "FATHER!"
+    au ""
+
+# game/scripts/autumn_events.rpy:174
+translate schinese aut_dare_e0484797:
+
+    # chancellor "What? How did you get in here?"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:176
+translate schinese aut_dare_c5b8aa6a:
+
+    # au "What did you do!? What do you know!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:177
+translate schinese aut_dare_0676da27:
+
+    # au "They're harvesting elves like they're animals! You're supposed to be fighting against that! Tell me what happened!"
+    au ""
+
+# game/scripts/autumn_events.rpy:178
+translate schinese aut_dare_bce357e0:
+
+    # chancellor "Autumn, lower your voice. Please! Don't you know where you are!?"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:179
+translate schinese aut_dare_3bf939d7:
+
+    # au "I don't care, you don't have any right to-!"
+    au ""
+
+# game/scripts/autumn_events.rpy:180
+translate schinese aut_dare_38ede44c:
+
+    # q "-Ah. This must be Saint Corpus..."
+    q ""
+
+# game/scripts/autumn_events.rpy:182
+translate schinese aut_dare_1749cdcd:
+
+    # au "!!!"
+    au ""
+
+# game/scripts/autumn_events.rpy:183
+translate schinese aut_dare_d6d03290:
+
+    # au "G-Grand Arbiter...! I didn't-..."
+    au ""
+
+# game/scripts/autumn_events.rpy:185
+translate schinese aut_dare_2f181745:
+
+    # arbiter "...What is the meaning of this... interruption?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:186
+translate schinese aut_dare_40ce48f6:
+
+    # "(The Grand Arbiter's voice is worn and labored, as if his tongue was made of stone.)"
+    ""
+
+# game/scripts/autumn_events.rpy:187
+translate schinese aut_dare_5883f1e8:
+
+    # chancellor "Forgive her, Grand Arbiter, she often speaks without thinking first..."
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:188
+translate schinese aut_dare_8d585573:
+
+    # arbiter "Nngh... come closer."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:190
+translate schinese aut_dare_28509e08:
+
+    # au "Please forgive me Grand Arbiter, I was unaware you were visiting Syl'anar..."
+    au ""
+
+# game/scripts/autumn_events.rpy:191
+translate schinese aut_dare_bbeccc48:
+
+    # au "This is a personal matter, your holiness. Pardon me."
+    au ""
+
+# game/scripts/autumn_events.rpy:192
+translate schinese aut_dare_025cea72:
+
+    # arbiter "Speak, child, what is so important that you... felt it necessary to interrupt my conversation. I will hear you."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:193
+translate schinese aut_dare_f91a8520:
+
+    # au "...You are very kind, your holiness, but-"
+    au ""
+
+# game/scripts/autumn_events.rpy:195
+translate schinese aut_dare_6c6e6870:
+
+    # arbiter "{b}SPEAK!{/b}" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:196
+translate schinese aut_dare_09813f50:
+
+    # au "!"
+    au ""
+
+# game/scripts/autumn_events.rpy:197
+translate schinese aut_dare_397c0d19:
+
+    # arbiter "Come closer... I can't hear you."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:198
+translate schinese aut_dare_b4fb23e6:
+
+    # au "...Yes, your holiness..."
+    au ""
+
+# game/scripts/autumn_events.rpy:199
+translate schinese aut_dare_5568bfb1:
+
+    # au "(I've never met the Grand Arbiter before... I've only seen him on TV. He's much more intimidating in real life...)"
+    au ""
+
+# game/scripts/autumn_events.rpy:201
+translate schinese aut_dare_090eeb4f:
+
+    # chancellor "{i}Autumn, this had better be an emergency.{/i}"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:202
+translate schinese aut_dare_34ac7234:
+
+    # au "{i}Father... your hair? Did you dye it?{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:204
+translate schinese aut_dare_b9295f14:
+
+    # chancellor "{i}Of course not...{/i}"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:205
+translate schinese aut_dare_4c389d59:
+
+    # arbiter "Autumn..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:206
+translate schinese aut_dare_0229717b:
+
+    # au "Y-Yes?"
+    au ""
+
+# game/scripts/autumn_events.rpy:208
+translate schinese aut_dare_fa9411ef:
+
+    # arbiter "Why... are you here?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:209
+translate schinese aut_dare_8c4242a7:
+
+    # au "{i}(His eyes truly are golden...){/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:210
+translate schinese aut_dare_9cb16eb6:
+
+    # au "*ahem*...\nWell, an Elder informed me that my father had received a heart transplant..."
+    au ""
+
+# game/scripts/autumn_events.rpy:211
+translate schinese aut_dare_2540aafd:
+
+    # arbiter "Go on..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:212
+translate schinese aut_dare_10c52b7d:
+
+    # au "So it's true..."
+    au ""
+
+# game/scripts/autumn_events.rpy:214
+translate schinese aut_dare_e492194d:
+
+    # chancellor "That's what you came here for? This could have been discussed over text, Autumn!"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:215
+translate schinese aut_dare_f143b3d0:
+
+    # au "I needed to know why! Why didn't you tell me? Why did you sacrifice an elf? Isn't there a better way?"
+    au ""
+
+# game/scripts/autumn_events.rpy:216
+translate schinese aut_dare_0e15a7b9:
+
+    # chancellor "Autumn!!"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:218
+translate schinese aut_dare_63bc8c8c:
+
+    # arbiter "WHAT!? An Elder told you about the sacrifice? WHO!?" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:219
+translate schinese aut_dare_fa551077:
+
+    # au "S-Sorry?"
+    au ""
+
+# game/scripts/autumn_events.rpy:220
+translate schinese aut_dare_e6f62f24:
+
+    # arbiter "This information... was to be kept private! This... is a dereliction of duty! TELL ME HER NAME!!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:221
+translate schinese aut_dare_b89ef794:
+
+    # au "{i}The important part is...-{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:222
+translate schinese aut_dare_a7122a16:
+
+    # arbiter "{b}SPEAK!!{/b}" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:223
+translate schinese aut_dare_f033e762:
+
+    # au "D-Delilah, your holiness..."
+    au ""
+
+# game/scripts/autumn_events.rpy:224
+translate schinese aut_dare_c2101614:
+
+    # arbiter "..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:226
+translate schinese aut_dare_2e674460:
+
+    # arbiter "Nnnnngh..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:227
+translate schinese aut_dare_02fc92b2:
+
+    # arbiter "Saint Corpus... does it concern you that an elf was sacrificed for your father's life?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:228
+translate schinese aut_dare_cdad0d5b:
+
+    # au "Yes... I... I think it's wrong."
+    au ""
+
+# game/scripts/autumn_events.rpy:229
+translate schinese aut_dare_3ee2f479:
+
+    # chancellor "What?"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:231
+translate schinese aut_dare_6fb463bc:
+
+    # arbiter "Autumn... you are the spitting image of your mother when she was young... However... I do hope you are more attentive in your studies."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:232
+translate schinese aut_dare_3c401bef:
+
+    # au "O-Of course."
+    au ""
+
+# game/scripts/autumn_events.rpy:233
+translate schinese aut_dare_28f5489c:
+
+    # arbiter "Delilah will be dealt with... but I need your word that you will not tell another soul."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:234
+translate schinese aut_dare_053c2b98:
+
+    # au "Y-Yes, Grand Arbiter..."
+    au ""
+
+# game/scripts/autumn_events.rpy:236
+translate schinese aut_dare_f808b158:
+
+    # arbiter "Now tell me... would you have preferred I let your father - the holy chancellor - die?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:237
+translate schinese aut_dare_e1025639:
+
+    # au "Of course not... but, sacrifice is wrong. Couldn't you have gotten a heart from a donor?"
+    au ""
+
+# game/scripts/autumn_events.rpy:238
+translate schinese aut_dare_1e6257a8:
+
+    # arbiter "No."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:239
+translate schinese aut_dare_bf3184bd:
+
+    # au "Because elvish organs last longer... I get it, but that doesn't make it right."
+    au ""
+
+# game/scripts/autumn_events.rpy:241
+translate schinese aut_dare_76f81681:
+
+    # arbiter "And... how did you come to that conclusion?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:242
+translate schinese aut_dare_05f550b7:
+
+    # au "It's obvious, isn't it? You want my father to serve you for hundreds of years."
+    au ""
+
+# game/scripts/autumn_events.rpy:243
+translate schinese aut_dare_2e88f166:
+
+    # arbiter "That's not what I'm asking... Why is it wrong, Autumn?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:244
+translate schinese aut_dare_43dc58a0:
+
+    # au "Human sacrifice is strictly prohibitted in the-"
+    au ""
+
+# game/scripts/autumn_events.rpy:245
+translate schinese aut_dare_24cd1e2d:
+
+    # arbiter "{u}Human{/u} sacrifice..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:246
+translate schinese aut_dare_df71afdf:
+
+    # au "Yes, but-"
+    au ""
+
+# game/scripts/autumn_events.rpy:247
+translate schinese aut_dare_f1200119:
+
+    # arbiter "-Would you wish death upon me, Autumn?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:248
+translate schinese aut_dare_ca36031e:
+
+    # au "Wh-What? Of course not, your holiness!"
+    au ""
+
+# game/scripts/autumn_events.rpy:250
+translate schinese aut_dare_1a030cc4:
+
+    # arbiter "...Have you forgotten my age?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:251
+translate schinese aut_dare_bff5ad50:
+
+    # au "Um, no... it's..."
+    au ""
+
+# game/scripts/autumn_events.rpy:252
+translate schinese aut_dare_1f65bc02:
+
+    # arbiter "167."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:253
+translate schinese aut_dare_fcfd3767:
+
+    # arbiter "No matter how you look at it... I am more elf than man."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:254
+translate schinese aut_dare_3c370766:
+
+    # au "Wh-What!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:255
+translate schinese aut_dare_b21ac05f:
+
+    # arbiter "My body; disfigured. But I am more alive now than I was a hundred years ago."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:256
+translate schinese aut_dare_64b99fd7:
+
+    # arbiter "Elvish blood flows through these veins, Autumn. Cancer no longer has effect upon me. My sight; better than even yours..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:257
+translate schinese aut_dare_92c2769c:
+
+    # au "You... you can't! That can't be true! You're Gaius' chosen, you-"
+    au ""
+
+# game/scripts/autumn_events.rpy:260
+translate schinese aut_dare_bcf8cfb9:
+
+    # arbiter "SILENCE!" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:262
+translate schinese aut_dare_682c440c:
+
+    # arbiter "Gaius... is dead."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:263
+translate schinese aut_dare_13b44473:
+
+    # arbiter "He died over 100,000 years ago! *cough, cough*! \n...He has no ability to support humanity..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:264
+translate schinese aut_dare_404bce7c:
+
+    # arbiter "That privilege has been passed down - Arbiter to Arbiter - for generations. Only remnants remain of his once great power."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:265
+translate schinese aut_dare_35c57792:
+
+    # arbiter "It has been left to {u}me{/u} to oversee the progress of humanity... and we will be better because of it."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:267
+translate schinese aut_dare_3e0034bb:
+
+    # au "But-!"
+    au ""
+
+# game/scripts/autumn_events.rpy:268
+translate schinese aut_dare_bf7e8ddc:
+
+    # arbiter "DO NOT INTERRUPT ME!" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:270
+translate schinese aut_dare_f153aa4f_2:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:271
+translate schinese aut_dare_b87a143c:
+
+    # arbiter "I am only trusting you with this because of your royal bloodline. We are on the cusp of something truly great, Saint Corpus. Your father is proof."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:273
+translate schinese aut_dare_17e7b551:
+
+    # arbiter "Elves are a gift to humanity... Are you not grateful? Would you not want to live for hundreds of years?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:274
+translate schinese aut_dare_f153aa4f_3:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:275
+translate schinese aut_dare_214c9d8a:
+
+    # au "Not like this... It's wrong. It's evil."
+    au ""
+
+# game/scripts/autumn_events.rpy:277
+translate schinese aut_dare_42ca0f68:
+
+    # arbiter "WHAT!?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:278
+translate schinese aut_dare_b23d2ccc:
+
+    # arbiter "Come again!? WHAT DID YOU SAY!?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:279
+translate schinese aut_dare_78482932:
+
+    # au "This is not what Gaius would want..."
+    au ""
+
+# game/scripts/autumn_events.rpy:281
+translate schinese aut_dare_31f81222:
+
+    # arbiter "I - LUCIUS CORNELIUS - AM THE NEW GAIUS!" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:283
+translate schinese aut_dare_8b9a41bc:
+
+    # arbiter "GAIUS' WILL IS MY WILL! HIS POWER; MINE! HIS PEOPLE; MINE! I ALONE DECIDE WHAT IS EVIL!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:285
+translate schinese aut_dare_35700a11:
+
+    # au "You are not my god! You're a pretender!"
+    au ""
+
+# game/scripts/autumn_events.rpy:286
+translate schinese aut_dare_de1b84be:
+
+    # arbiter "I am leading us to greatness beyond your comprehension! You are ignorant, child! You know nothing!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:287
+translate schinese aut_dare_17369ec7:
+
+    # au "I got my answers. The church is corrupt, and you're the reason."
+    au ""
+
+# game/scripts/autumn_events.rpy:288
+translate schinese aut_dare_1cafaebb:
+
+    # au "I quit!"
+    au ""
+
+# game/scripts/autumn_events.rpy:289
+translate schinese aut_dare_42ca0f68_1:
+
+    # arbiter "WHAT!?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:290
+translate schinese aut_dare_82a09044:
+
+    # chancellor "Autumn!"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:292
+translate schinese aut_dare_4aee28d6:
+
+    # arbiter "Stop! *cough, cough*! Stop right there!!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:293
+translate schinese aut_dare_628eea27:
+
+    # chancellor "Autumn! What has gotten into you? This is your Grand Arbiter!"
+    chancellor ""
+
+# game/scripts/autumn_events.rpy:294
+translate schinese aut_dare_4e6d2cae:
+
+    # arbiter "She knows too much! Stop her!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:295
+translate schinese aut_dare_66b5d5a6:
+
+    # au "I QUIT!!"
+    au ""
+
+# game/scripts/autumn_events.rpy:296
+translate schinese aut_dare_0821d3ad:
+
+    # arbiter "STOP RIGHT THERE! YOU CANNOT- *cough, cough, COUGH*!!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:298
+translate schinese aut_dare_cc0151dd:
+
+    # arbiter "{i}Damn it all...{/i}"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:300
+translate schinese aut_dare_39715ba4:
+
+    # arbiter "{b}HOLD!!!!!{/b}" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:305
+translate schinese aut_dare_d42763f8:
+
+    # au "You don't control me."
+    au ""
+
+# game/scripts/autumn_events.rpy:308
+translate schinese aut_dare_1749cdcd_1:
+
+    # au "!!!"
+    au ""
+
+# game/scripts/autumn_events.rpy:309
+translate schinese aut_dare_565b1b10:
+
+    # au "{i}(What's happening...!? I can't move!){/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:311
+translate schinese aut_dare_e919518c:
+
+    # arbiter "You... damned child... how dare you?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:312
+translate schinese aut_dare_34895858:
+
+    # arbiter "Nnngh...! Do you feel it? ...Huh? His power..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:314
+translate schinese aut_dare_6fbbe231:
+
+    # arbiter "Questioning me now, are you? ...Ngh..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:315
+translate schinese aut_dare_c9da7161:
+
+    # arbiter "I understand... you are confused. There is... so much you don't know."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:316
+translate schinese aut_dare_8f79e945:
+
+    # au "{i}(I can't... speak! No matter how hard I try...!){/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:318
+translate schinese aut_dare_a92086aa:
+
+    # arbiter "Do you believe now, Autumn? Nngh... This is but a taste of His power."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:319
+translate schinese aut_dare_0d7d674f:
+
+    # arbiter "The power, I alone, have inherited. His will, through mine."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:321
+translate schinese aut_dare_8899b206:
+
+    # arbiter "I am no God, Autumn, I never claimed to be. But I am... his chosen."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:322
+translate schinese aut_dare_a9933c3d:
+
+    # arbiter "{b}AND YOU WILL OBEY!!{/b}" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:324
+translate schinese aut_dare_c0c82b3a:
+
+    # arbiter "*cough, cough*! Nnngh...!\nI am trying to help... ALL OF US. More often than not, great deeds come at great cost."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:325
+translate schinese aut_dare_42fefb53:
+
+    # arbiter "The world... is not yet ready. But soon..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:327
+translate schinese aut_dare_f911b926:
+
+    # arbiter "Soon, we will all be better, as Gaius intended!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:328
+translate schinese aut_dare_bb12b681:
+
+    # au "{i}(How is he doing this!? How? How!?){/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:329
+translate schinese aut_dare_437990c0:
+
+    # arbiter "I expected more from you, Autumn..."
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:331
+translate schinese aut_dare_bd997d00:
+
+    # au "{i}(I am a disciple of Liberty, Paragon of Freedom! You cannot hold me!!){/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:333
+translate schinese aut_dare_f56d2d76:
+
+    # lib "{i}Did you call?{/i}"
+    lib ""
+
+# game/scripts/autumn_events.rpy:337
+translate schinese aut_dare_239f9cdd:
+
+    # au "What!? Who-!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:339
+translate schinese aut_dare_e9efdade_1:
+
+    # au "...{w}..."
+    au ""
+
+# game/scripts/autumn_events.rpy:341
+translate schinese aut_dare_fc00bbe3:
+
+    # au "...What happened to me?"
+    au ""
+
+# game/scripts/autumn_events.rpy:342
+translate schinese aut_dare_1a31aa41:
+
+    # lib "Those broken chains are not just for show, Autumn. Say the word, and you will be free."
+    lib ""
+
+# game/scripts/autumn_events.rpy:344
+translate schinese aut_dare_5fe69aab:
+
+    # au "Liberty..."
+    au ""
+
+# game/scripts/autumn_events.rpy:346
+translate schinese aut_dare_f153aa4f_4:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:347
+translate schinese aut_dare_5cf76a8e:
+
+    # au "Free me."
+    au ""
+
+# game/scripts/autumn_events.rpy:349
+translate schinese aut_dare_d1b4feb0:
+
+    # lib "..."
+    lib ""
+
+# game/scripts/autumn_events.rpy:353
+translate schinese aut_dare_a5d10e3b:
+
+    # lib "*snap*"
+    lib ""
+
+# game/scripts/autumn_events.rpy:357
+translate schinese aut_dare_4b12f64b:
+
+    # arbiter "I expect you to-"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:359
+translate schinese aut_dare_915f887b:
+
+    # arbiter "!!!" with ssshake
+    arbiter "" with ssshake
+
+# game/scripts/autumn_events.rpy:360
+translate schinese aut_dare_b8a6aecd:
+
+    # au "You. Do not. Control me."
+    au ""
+
+# game/scripts/autumn_events.rpy:361
+translate schinese aut_dare_b34e13a6:
+
+    # arbiter "What!? What did you...!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:363
+translate schinese aut_dare_cf7fe3ab:
+
+    # arbiter "How dare you...! You called her, didn't you!? HOW DARE YOU USE THE PARAGONS AGAINST ME!?"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:365
+translate schinese aut_dare_8857bdba:
+
+    # arbiter "Autumn! AUTUMN!! *cough, cough*!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:366
+translate schinese aut_dare_061a5794:
+
+    # arbiter "Autumn, there is great potential in you! Do not waste it!"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:368
+translate schinese aut_dare_f22eada8:
+
+    # arbiter "{b}AUTUUUUUMN!!!{/b}"
+    arbiter ""
+
+# game/scripts/autumn_events.rpy:369
+translate schinese aut_dare_54be8fa7:
+
+    # "...{w}...{w}..."
+    ""
+
+# game/scripts/autumn_events.rpy:372
+translate schinese aut_dare_e9efdade_2:
+
+    # au "...{w}..."
+    au ""
+
+# game/scripts/autumn_events.rpy:374
+translate schinese aut_dare_e5b24ad4:
+
+    # au "...{w}\n*sigh*{w}\n..."
+    au ""
+
+# game/scripts/autumn_events.rpy:375
+translate schinese aut_dare_86c52edc:
+
+    # au "...No God of mine would allow this."
+    au ""
+
+# game/scripts/autumn_events.rpy:376
+translate schinese aut_dare_f153aa4f_5:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:377
+translate schinese aut_dare_e0043b37:
+
+    # au "But he's right... there's so much I don't understand. I have so many questions..."
+    au ""
+
+# game/scripts/autumn_events.rpy:379
+translate schinese aut_dare_f937b71c:
+
+    # au "Have you always been with me, Liberty?"
+    au ""
+
+# game/scripts/autumn_events.rpy:380
+translate schinese aut_dare_db62051d:
+
+    # lib "No. I live within the soul stone you received when you became an initiate."
+    lib ""
+
+# game/scripts/autumn_events.rpy:381
+translate schinese aut_dare_83dfa839:
+
+    # au "But you were at Gaius' grave."
+    au ""
+
+# game/scripts/autumn_events.rpy:382
+translate schinese aut_dare_84c2e070:
+
+    # lib "Yes. My soul stone was fractured so I may serve my disciples wherever they may be."
+    lib ""
+
+# game/scripts/autumn_events.rpy:383
+translate schinese aut_dare_b7d83501:
+
+    # au "Then... your soul was fractured too?"
+    au ""
+
+# game/scripts/autumn_events.rpy:384
+translate schinese aut_dare_001ec49b:
+
+    # lib "In a way, yes. To my perspective, today was the first time we met."
+    lib ""
+
+# game/scripts/autumn_events.rpy:386
+translate schinese aut_dare_168620c2:
+
+    # au "Oh..."
+    au ""
+
+# game/scripts/autumn_events.rpy:387
+translate schinese aut_dare_c1f5afa8:
+
+    # au "Liberty, why couldn't I move?"
+    au ""
+
+# game/scripts/autumn_events.rpy:388
+translate schinese aut_dare_079fc333:
+
+    # lib "Gaius."
+    lib ""
+
+# game/scripts/autumn_events.rpy:389
+translate schinese aut_dare_125d4932:
+
+    # au "Then how did you stop him?"
+    au ""
+
+# game/scripts/autumn_events.rpy:390
+translate schinese aut_dare_23448dec:
+
+    # lib "I dispelled the holding curse. It is my speciality."
+    lib ""
+
+# game/scripts/autumn_events.rpy:391
+translate schinese aut_dare_ee84cca5:
+
+    # au "Then... are you saying you stopped Gaius?"
+    au ""
+
+# game/scripts/autumn_events.rpy:392
+translate schinese aut_dare_3c64f9e7:
+
+    # lib "No. Lucius used Gaius' to stop you."
+    lib ""
+
+# game/scripts/autumn_events.rpy:393
+translate schinese aut_dare_22f6a821:
+
+    # au "How is it possible for a human to use Gaius' power?"
+    au ""
+
+# game/scripts/autumn_events.rpy:394
+translate schinese aut_dare_3ed3735c:
+
+    # lib "It is impossible."
+    lib ""
+
+# game/scripts/autumn_events.rpy:395
+translate schinese aut_dare_7168eefd:
+
+    # au "Then... because he's mostly elvish?"
+    au ""
+
+# game/scripts/autumn_events.rpy:396
+translate schinese aut_dare_545fcfe7:
+
+    # lib "No, Autumn. The question does not make sense. {u}He used Gaius.{/u}"
+    lib ""
+
+# game/scripts/autumn_events.rpy:398
+translate schinese aut_dare_fd66f0e6:
+
+    # au "What are you saying?"
+    au ""
+
+# game/scripts/autumn_events.rpy:399
+translate schinese aut_dare_809f983a:
+
+    # lib "Autumn, what do you believe Gaius is?"
+    lib ""
+
+# game/scripts/autumn_events.rpy:400
+translate schinese aut_dare_660c665e:
+
+    # au "Gaius is God."
+    au ""
+
+# game/scripts/autumn_events.rpy:401
+translate schinese aut_dare_d944cac9:
+
+    # lib "Gaius is the subject of your worship, yes."
+    lib ""
+
+# game/scripts/autumn_events.rpy:402
+translate schinese aut_dare_2f5415bd:
+
+    # au "Why are you speaking so cryptically? Can you just- ugh... can you help me?"
+    au ""
+
+# game/scripts/autumn_events.rpy:403
+translate schinese aut_dare_5a2e0df6:
+
+    # lib "Due to the size of this soul stone, my responses are limited. Yes, I can help."
+    lib ""
+
+# game/scripts/autumn_events.rpy:404
+translate schinese aut_dare_99a2d7ca:
+
+    # au "Okay... how did he use Gaius?"
+    au ""
+
+# game/scripts/autumn_events.rpy:405
+translate schinese aut_dare_e49c7d42:
+
+    # lib "Gaius is everything. However, Gaius is highly concentrated in Gaiusite."
+    lib ""
+
+# game/scripts/autumn_events.rpy:406
+translate schinese aut_dare_05ec1984:
+
+    # au "What are you talking about?"
+    au ""
+
+# game/scripts/autumn_events.rpy:407
+translate schinese aut_dare_f634ec38:
+
+    # lib "Gaiusite is what you may refer to as blue crystals."
+    lib ""
+
+# game/scripts/autumn_events.rpy:409
+translate schinese aut_dare_cfff805c:
+
+    # au "His staff..."
+    au ""
+
+# game/scripts/autumn_events.rpy:411
+translate schinese aut_dare_c4ddbf5c:
+
+    # au "Why is it blue then? If a pink crystal has a soul inside, why are blue crystals different?"
+    au ""
+
+# game/scripts/autumn_events.rpy:412
+translate schinese aut_dare_f4298cea:
+
+    # lib "You seem to be under the impression that Gaius was a person. This is incorrect."
+    lib ""
+
+# game/scripts/autumn_events.rpy:414
+translate schinese aut_dare_21e02423:
+
+    # au "What? Then what was he?"
+    au ""
+
+# game/scripts/autumn_events.rpy:415
+translate schinese aut_dare_b19f6325:
+
+    # lib "The correct verbage is; what is it? Present tense."
+    lib ""
+
+# game/scripts/autumn_events.rpy:416
+translate schinese aut_dare_325773ee:
+
+    # au "He's not dead...?\nOkay, then what is it? What is Gaius??"
+    au ""
+
+# game/scripts/autumn_events.rpy:417
+translate schinese aut_dare_cd3845c0:
+
+    # lib "Gaius is everything."
+    lib ""
+
+# game/scripts/autumn_events.rpy:419
+translate schinese aut_dare_7955757e:
+
+    # au "Rgh! Liberty... \nWhat happened when Gaius died? He has a grave, he must have died!"
+    au ""
+
+# game/scripts/autumn_events.rpy:420
+translate schinese aut_dare_6acaa25e:
+
+    # lib "I was not alive during this so-called death. I do not know."
+    lib ""
+
+# game/scripts/autumn_events.rpy:421
+translate schinese aut_dare_416c727a:
+
+    # au "Okay, what can you tell me?"
+    au ""
+
+# game/scripts/autumn_events.rpy:422
+translate schinese aut_dare_6c5736a4:
+
+    # lib "Gaius has diminished grately within the past 100,000 years."
+    lib ""
+
+# game/scripts/autumn_events.rpy:423
+translate schinese aut_dare_25a90938:
+
+    # au "You talk about him like he's a resource. Like he's... oil or something."
+    au ""
+
+# game/scripts/autumn_events.rpy:424
+translate schinese aut_dare_1c7c64b2:
+
+    # lib "Correct."
+    lib ""
+
+# game/scripts/autumn_events.rpy:425
+translate schinese aut_dare_f28a2203:
+
+    # au "I don't understand! Gaius is a god!"
+    au ""
+
+# game/scripts/autumn_events.rpy:426
+translate schinese aut_dare_43fd72d4:
+
+    # lib "Only through study and practice does one truly understand Gaius."
+    lib ""
+
+# game/scripts/autumn_events.rpy:427
+translate schinese aut_dare_8696c947:
+
+    # au "But... a resource? That's not what the bible says."
+    au ""
+
+# game/scripts/autumn_events.rpy:428
+translate schinese aut_dare_e0693eed:
+
+    # lib "The bible was written by humans. Gaius does not have the ability to write."
+    lib ""
+
+# game/scripts/autumn_events.rpy:429
+translate schinese aut_dare_1ab005ca:
+
+    # au "How can a god not be able to write!? The bible refers to him as a man, Liberty!"
+    au ""
+
+# game/scripts/autumn_events.rpy:430
+translate schinese aut_dare_b241bf3b:
+
+    # lib "The bible was written by humans."
+    lib ""
+
+# game/scripts/autumn_events.rpy:432
+translate schinese aut_dare_c5e717b9:
+
+    # au "*sigh*... I don't understand..."
+    au ""
+
+# game/scripts/autumn_events.rpy:434
+translate schinese aut_dare_94d019a6_1:
+
+    # "...{w}..."
+    ""
+
+# game/scripts/autumn_events.rpy:437
+translate schinese aut_dare_79cf9414:
+
+    # c "Autumn! There you are. Did you go to church?"
+    c ""
+
+# game/scripts/autumn_events.rpy:438
+translate schinese aut_dare_85eeb4bf:
+
+    # au "Yeah..."
+    au ""
+
+# game/scripts/autumn_events.rpy:439
+translate schinese aut_dare_79484fd2:
+
+    # c "...Are you okay?"
+    c ""
+
+# game/scripts/autumn_events.rpy:440
+translate schinese aut_dare_eb80875f:
+
+    # au "I don't know..."
+    au ""
+
+# game/scripts/autumn_events.rpy:441
+translate schinese aut_dare_e43a12a6:
+
+    # au "Let's talk tonight, okay? I just need time to think."
+    au ""
+
+# game/scripts/autumn_events.rpy:442
+translate schinese aut_dare_d28bed7b:
+
+    # c "Oh, okay. Sure, I'll see you tonight..."
+    c ""
+
+# game/scripts/autumn_events.rpy:449
+translate schinese aut_dare_4cbaade1:
+
+    # c "I hope she's okay..."
+    c ""
+
+# game/scripts/autumn_events.rpy:2133
+translate schinese aut_capcafe_talk_ec272428:
+
+    # au "It belongs to the grant arbiter. He usually always has them on but he's required by Gaius to send the rings out during orientation in order to test one's soul and ensure they are pure of heart before they are allowed to continue. It's supposed to help prevent corruption, and so far it has seemed to work."
+    au ""
+
+# game/scripts/autumn_events.rpy:2134
+translate schinese aut_capcafe_talk_0ec21d4e:
+
+    # c "Why does the grant arbiter always wear them?"
+    c ""
+
+# game/scripts/autumn_events.rpy:2139
+translate schinese aut_capcafe_talk_f34f9a59:
+
+    # au "Well I suppose that's why the grant arbiter is a special man."
+    au ""
+
+# game/scripts/autumn_events.rpy:2304
+translate schinese aut_capcafe_talk_c4b054e5:
+
+    # au "The crystals are too, yeah. Those pink ones remind me of the kind on the grant arbiter's ring, but I've never noticed that these glowed before."
+    au ""
+
+# game/scripts/autumn_events.rpy:2660
+translate schinese aut_orient_7a0c35d3:
+
+    # abby "I agree, we should inform the grant arbiter."
+    abby ""
+
+# game/scripts/autumn_events.rpy:2766
+translate schinese aut_orient_fa1095b2:
+
+    # lily "For the final step of your orientation you will commune with the angel inside the grant arbiter's 7th ring."
+    lily ""
+
+# game/scripts/autumn_events.rpy:2768
+translate schinese aut_orient_9bbfb9c2:
+
+    # ha "I thought only the current grant arbiter had access to those rings. Why is it here?"
+    ha ""
+
+# game/scripts/autumn_events.rpy:2952
+translate schinese aut_orient_a468b36e:
+
+    # lily "Only when the grant arbiter requests it, and I have no doubt he will after what you've just told us."
+    lily ""
+
+# game/scripts/autumn_events.rpy:2957
+translate schinese aut_orient_a85b6c51:
+
+    # lily "No, the saints do not vote. We argue our case in front of the grant arbiter, and the grant arbiter makes a decision."
+    lily ""
+
+# game/scripts/autumn_events.rpy:3758
+translate schinese aut_church_93a1aa36:
+
+    # bis "What was I to do with this information? Not knowing how to correct our course, I explained our Seer's visions to the other Bishops in Syl'anar. We agreed that the grant arbiter must be informed."
+    bis ""
+
+# game/scripts/autumn_events.rpy:3759
+translate schinese aut_church_0c70c276:
+
+    # bis "Last week, the grant arbiter agreed to launch a campaign in Syl'anar within the upcoming years, and wants each church to bolster our spiritual defense. Which is why I've asked for a moment of your times... the First Church of Caliber is in need of a third Saint."
+    bis ""
+
+# game/scripts/autumn_events.rpy:5225
+translate schinese aut_oldhouse_3173c6fc:
+
+    # au "You're probably not too aware of the terminology... a bishop is four ranks below the grant arbiter, but he has never controlled a church. He's mostly a political activist that advocates for the beliefs of Gaius. He's on the side that argues all intelligent life should be given the same rights."
+    au ""
+
+# game/scripts/autumn_events.rpy:5226
+translate schinese aut_oldhouse_9bd8d226:
+
+    # au "I don't think the grant arbiter likes him too much actually... the grant arbiter doesn't like elves at all..."
+    au ""
+
+# game/scripts/autumn_events.rpy:5483
+translate schinese aut_oldhouse_ce8ab3b2:
+
+    # gran "Those nobles were appointed by the grant arbiter, who was appointed by Gaius himself. It's proof God loves you, child."
+    gran ""
+
