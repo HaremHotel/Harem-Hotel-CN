@@ -51513,1653 +51513,1653 @@ translate schinese love_nia_7_5d46bc2c:
 translate schinese ellenspatalk_83fc7771:
 
     # e "Hello [name]. Lovely day for a visit to the hot springs, isn't it?"
-    e ""
+    e "你好[name].今天天气真不错,很适合泡温泉,不是吗?"
 
 # game/scripts/side_char_events.rpy:3488
 translate schinese moonspatalk_b0bd364a:
 
     # moon "Hmm? What are you doing here, [name]? You're wearing your work clothes..."
-    moon ""
+    moon "嗯?你在这里做什么,[name]?你还穿着你的工作服呢......"
 
 # game/scripts/side_char_events.rpy:7097
 translate schinese ellen_fshow_6ab43649:
 
     # e "*sigh*... Another slow day..."
-    e ""
+    e "*叹气*......今天又是没生意的一天......"
 
 # game/scripts/side_char_events.rpy:7098
 translate schinese ellen_fshow_b7d8712c:
 
     # e "Why couldn't he have built this place somewhere that was actually inhabited...?"
-    e ""
+    e "为什么他就不能把这个地方建在那些真的有人住的地方......?"
 
 # game/scripts/side_char_events.rpy:7100
 translate schinese ellen_fshow_b6aa9141:
 
     # e "At least I have you girls to keep me company."
-    e ""
+    e "至少还有你们这些女孩陪着我."
 
 # game/scripts/side_char_events.rpy:7101
 translate schinese ellen_fshow_82091822:
 
     # k "..."
-    k ""
+    k "......"
 
 # game/scripts/side_char_events.rpy:7102
 translate schinese ellen_fshow_e612037c:
 
     # m "..."
-    m ""
+    m "......"
 
 # game/scripts/side_char_events.rpy:7103
 translate schinese ellen_fshow_1429c7ce:
 
     # e "Right..."
-    e ""
+    e "对......"
 
 # game/scripts/side_char_events.rpy:7105
 translate schinese ellen_fshow_27e8b731:
 
     # a "-Not only was he a tour guide, he had a ho in every city! They all got an STD or two."
-    a ""
+    a "-他不但是个导游,而且在每个城市里都有妓女!而且她们都得了一两种性病."
 
 # game/scripts/side_char_events.rpy:7106
 translate schinese ellen_fshow_9e9cce60:
 
     # l "Humans are strange..."
-    l ""
+    l "人类真奇怪......"
 
 # game/scripts/side_char_events.rpy:7108
 translate schinese ellen_fshow_fe729114:
 
     # e "{i}(I miss being young... I could have had friends, but no, I wasted my youth chasing after a man twice my age...){/i}"
-    e ""
+    e "{i}(我怀念年轻的时候......我本可以拥有朋友,但我没有,我浪费了我的青春去追逐一个年龄比我大一倍的男人......){/i}"
 
 # game/scripts/side_char_events.rpy:7110
 translate schinese ellen_fshow_3b453406:
 
     # e "{i}(Wait, three times my age? Ugh... how did I imagine that ending up? He wasn't even rich...){/i}"
-    e ""
+    e "{i}(等等,好像是大两倍?呃......我怎么会想到结局会是这样?他甚至都并不富有......){/i}"
 
 # game/scripts/side_char_events.rpy:7111
 translate schinese ellen_fshow_f950c963:
 
     # e "{i}(I wish I had fun when I was young. I wish I could have bought a new dress every month to show off. I wish I would have taken more vacations...){/i}"
-    e ""
+    e "{i}(我希望我年轻的时候能玩得开心点.我希望我每个月都能买件新衣服来炫耀.我希望我能拥有更多的假期......){/i}"
 
 # game/scripts/side_char_events.rpy:7112
 translate schinese ellen_fshow_71cacb71:
 
     # e "{i}(What do I have all this money for if I can't spoil myself anymore? You work all your life making money, and by the time you have it...){/i}"
-    e ""
+    e "{i}(如果我不能再好好善待自己,那有这么多钱又有何用?你一辈子都在赚钱,但当你有了钱的时候......){/i}"
 
 # game/scripts/side_char_events.rpy:7114
 translate schinese ellen_fshow_287a04b5:
 
     # e "{i}(Hmmm...){/i}"
-    e ""
+    e "{i}(嗯......){/i}"
 
 # game/scripts/side_char_events.rpy:7116
 translate schinese ellen_fshow_e6a7f7ed:
 
     # e "Ladies, ladies! I have a special announcement!"
-    e ""
+    e "小姐们!我有个特别的消息要宣布!"
 
 # game/scripts/side_char_events.rpy:7117
 translate schinese ellen_fshow_32fb53c2:
 
     # a "Hm?"
-    a ""
+    a "嗯?"
 
 # game/scripts/side_char_events.rpy:7118
 translate schinese ellen_fshow_f21ab90f:
 
     # e "[name] just informed me of a spectacular event happening today! A fashion show!"
-    e ""
+    e "[name]刚刚告诉我,今天有一场盛大的活动!时装秀!"
 
 # game/scripts/side_char_events.rpy:7119
 translate schinese ellen_fshow_9fad45bc:
 
     # m "*gasp*!"
-    m ""
+    m "*惊叹*!"
 
 # game/scripts/side_char_events.rpy:7120
 translate schinese ellen_fshow_77e439c8:
 
     # e "That's right! Each of you will be given $100 to buy whatever you would like at the mall!"
-    e ""
+    e "没错!你们每个人都将得到100$,可以去商场里买任何你们想买的东西!"
 
 # game/scripts/side_char_events.rpy:7121
 translate schinese ellen_fshow_4f51d1dd:
 
     # k "Not interested."
-    k ""
+    k "我没兴趣."
 
 # game/scripts/side_char_events.rpy:7122
 translate schinese ellen_fshow_bd4094b4:
 
     # e "And the winner gets a pizza!"
-    e ""
+    e "获胜者可以获得一份披萨!"
 
 # game/scripts/side_char_events.rpy:7123
 translate schinese ellen_fshow_17c53c0b:
 
     # k "I'm in."
-    k ""
+    k "我参加."
 
 # game/scripts/side_char_events.rpy:7125
 translate schinese ellen_fshow_f728158c:
 
     # m "So we just have to pick out the best dress? That's easy. I'll win this for sure... And I get free clothes out of this?"
-    m ""
+    m "所以我们只需要挑一件最好的衣服?那很简单.我肯定会赢的......我还能得到一件免费的衣服?"
 
 # game/scripts/side_char_events.rpy:7126
 translate schinese ellen_fshow_b6d4d284:
 
     # e "That's right. [name] will be the judge, of course. So pick something to truly wow him."
-    e ""
+    e "没错.当然,裁判是[name].所以,挑点可以真正让他惊叹的东西吧."
 
 # game/scripts/side_char_events.rpy:7127
 translate schinese ellen_fshow_474a1598:
 
     # l "I will need someone to go with me..."
-    l ""
+    l "我得有人和我一起出去......"
 
 # game/scripts/side_char_events.rpy:7128
 translate schinese ellen_fshow_d41749b6:
 
     # k "Same. I don't really have a good sense of style..."
-    k ""
+    k "我也是.我不是很懂时尚......"
 
 # game/scripts/side_char_events.rpy:7129
 translate schinese ellen_fshow_277bd6d2:
 
     # e "That's fine. Maria can help Kali, and Ashley can help Lin. You have a two hour deadline starting from right now."
-    e ""
+    e "没关系的.玛丽亚可以帮凯莉,阿什莉可以帮林.从现在开始,你们有两个小时的期限."
 
 # game/scripts/side_char_events.rpy:7130
 translate schinese ellen_fshow_1c0dc093:
 
     # m "Okay! What are we waiting for? Let's go!"
-    m ""
+    m "好的!那我们还等什么呢?我们走吧!"
 
 # game/scripts/side_char_events.rpy:7132
 translate schinese ellen_fshow_5b51b60e:
 
     # "After Ellen hands out the money, Kali drives them all to the mall, where they enjoy a frivolous spending spree."
-    ""
+    "艾兰发完钱后,凯莉开车载着她们去了商场,在那里,她们可以尽情挥霍."
 
 # game/scripts/side_char_events.rpy:7133
 translate schinese ellen_fshow_0036241e:
 
     # "Two and a half hours later... they arrive back at the hotel."
-    ""
+    "两个半小时后......她们回到了酒店."
 
 # game/scripts/side_char_events.rpy:7135
 translate schinese ellen_fshow_2af0a17b:
 
     # a "We're back~\nSorry we're late. We-"
-    a ""
+    a "我们回来了~\n对不起,我们迟到了.我们-"
 
 # game/scripts/side_char_events.rpy:7137
 translate schinese ellen_fshow_fa250801:
 
     # a "Oh!"
-    a ""
+    a "噢!"
 
 # game/scripts/side_char_events.rpy:7139
 translate schinese ellen_fshow_2c378014:
 
     # e "Welcome back! Don't worry, I only just found the carpet.\nWhere are the others?"
-    e ""
+    e "欢迎回来!别担心,我也才刚刚找到地毯.\n其他人呢?"
 
 # game/scripts/side_char_events.rpy:7140
 translate schinese ellen_fshow_aebf3640:
 
     # a "They're bringing everything in. Where is [name]?"
-    a ""
+    a "她们在把东西拿进来.[name]呢?"
 
 # game/scripts/side_char_events.rpy:7141
 translate schinese ellen_fshow_89f025c8:
 
     # e "After you're all ready I'll call him down. Come on, hurry! Change!"
-    e ""
+    e "等你们都准备好了,我就叫他下来.来吧,快点!把衣服换了!"
 
 # game/scripts/side_char_events.rpy:7142
 translate schinese ellen_fshow_ce97fa3c:
 
     # a "Hehe~ okay okay!"
-    a ""
+    a "呵呵~行行行!"
 
 # game/scripts/side_char_events.rpy:7144
 translate schinese ellen_fshow_94d019a6:
 
     # "...{w}..."
-    ""
+    "......{w}......"
 
 # game/scripts/side_char_events.rpy:7145
 translate schinese ellen_fshow_d1205fa1:
 
     # e "[name]! Come here!"
-    e ""
+    e "[name]!过来这里!"
 
 # game/scripts/side_char_events.rpy:7147
 translate schinese ellen_fshow_191870bf:
 
     # c "Hey-\n-Uh... what's going on?"
-    c ""
+    c "嘿-\n-呃......发生什么事了?"
 
 # game/scripts/side_char_events.rpy:7148
 translate schinese ellen_fshow_e97432ce:
 
     # e "The girls have a little surprise for you. It's a fashion show! And you're the judge."
-    e ""
+    e "姑娘们要给你一个小惊喜.这是一场时装秀!而你是评委."
 
 # game/scripts/side_char_events.rpy:7149
 translate schinese ellen_fshow_17164397:
 
     # c "You set up a fashion show for me? Haha, that's sweet, Ellen."
-    c ""
+    c "你给我办了一场时装秀?哈哈,你真甜蜜,艾兰."
 
 # game/scripts/side_char_events.rpy:7150
 translate schinese ellen_fshow_a57c22fc:
 
     # e "Well I was bored, and...\nAh, forget it. Just enjoy!"
-    e ""
+    e "嗯,我有点无聊,而且......\n啊,算了吧.好好享受就是了!"
 
 # game/scripts/side_char_events.rpy:7153
 translate schinese ellen_fshow_f09c8454:
 
     # e "Starting with Lin!"
-    e ""
+    e "先从林开始!"
 
 # game/scripts/side_char_events.rpy:7155
 translate schinese ellen_fshow_03d9fa59:
 
     # l "Hello..."
-    l ""
+    l "你好......"
 
 # game/scripts/side_char_events.rpy:7156
 translate schinese ellen_fshow_8bc8a09e:
 
     # e "We have a beautiful dress indeed. Show it off, darling!"
-    e ""
+    e "真是件漂亮的裙子.展示一下吧,亲爱的!"
 
 # game/scripts/side_char_events.rpy:7157
 translate schinese ellen_fshow_c6c955e3:
 
     # l "Okay..."
-    l ""
+    l "好的......"
 
 # game/scripts/side_char_events.rpy:7159
 translate schinese ellen_fshow_f1ab61d5:
 
     # e "Wow, just look at that confidence!"
-    e ""
+    e "哇哦,看看这自信的样子!"
 
 # game/scripts/side_char_events.rpy:7160
 translate schinese ellen_fshow_13418418:
 
     # l "Ehh, heheh."
-    l ""
+    l "呃,呵呵呵."
 
 # game/scripts/side_char_events.rpy:7163
 translate schinese ellen_fshow_5a4b1b9b:
 
     # e "She's turning heads, breaking hearts, and possibly even the bank with that look!"
-    e ""
+    e "她这造型能让人频频回头,俘获芳心,甚至钱包都会为之一空!"
 
 # game/scripts/side_char_events.rpy:7165
 translate schinese ellen_fshow_ee863cf3:
 
     # e "This one says, {i}'I'm bold, I'm beautiful, and I'm going to win!'{/i}"
-    e ""
+    e "就像在说,{i}'我勇敢,我美丽,我必将胜利!'{/i}"
 
 # game/scripts/side_char_events.rpy:7168
 translate schinese ellen_fshow_ee97caf6:
 
     # l "Do you like it, [linoname]?"
-    l ""
+    l "你喜欢吗,[linoname]?"
 
 # game/scripts/side_char_events.rpy:7169
 translate schinese ellen_fshow_225d06b4:
 
     # e "All judgements will be made at the end of the show!"
-    e ""
+    e "评选将在全部展出结束后进行!"
 
 # game/scripts/side_char_events.rpy:7170
 translate schinese ellen_fshow_70569e30:
 
     # l "Aw, okay..."
-    l ""
+    l "啊,好吧......"
 
 # game/scripts/side_char_events.rpy:7173
 translate schinese ellen_fshow_ebfdf613:
 
     # e "Next we have Kali!"
-    e ""
+    e "下一个,是凯莉!"
 
 # game/scripts/side_char_events.rpy:7175
 translate schinese ellen_fshow_58374b8d:
 
     # k "Uhh, what's up."
-    k ""
+    k "呃,怎么了."
 
 # game/scripts/side_char_events.rpy:7176
 translate schinese ellen_fshow_9c7a3973:
 
     # e "An elegant take on her classic bunny suit! Let's see what you got!"
-    e ""
+    e "经典兔女郎的优雅演绎!让我们看看你的本事!"
 
 # game/scripts/side_char_events.rpy:7178
 translate schinese ellen_fshow_ac0ec2f3:
 
     # k "So like, am I supposed to do some poses, or...?"
-    k ""
+    k "所以,我得摆pose,还是......?"
 
 # game/scripts/side_char_events.rpy:7179
 translate schinese ellen_fshow_f59f59b6:
 
     # e "Is it hot in here, or is it just that outfit! If confidence were currency, she'd be the richest woman alive! Even without her father's help..."
-    e ""
+    e "是这里太热,还是这身衣服太性感?如果自信是货币,那她就是世界上最富有的女人!即使没有她父亲的帮助......"
 
 # game/scripts/side_char_events.rpy:7180
 translate schinese ellen_fshow_0cf7660a:
 
     # k "That's bullshit, but I'll take it."
-    k ""
+    k "你在胡扯什么呢,但我接受你的赞美."
 
 # game/scripts/side_char_events.rpy:7184
 translate schinese ellen_fshow_9d04221d:
 
     # e "This one says, {i}'Out with the old, in with the new!'{/i} A stellar example of pure beauty!"
-    e ""
+    e "就像在说,{i}'就对不起,新的不来!'{/i},是纯美的典范!"
 
 # game/scripts/side_char_events.rpy:7187
 translate schinese ellen_fshow_6493ea32:
 
     # k "I'm here for the pizza."
-    k ""
+    k "我是来拿披萨的."
 
 # game/scripts/side_char_events.rpy:7188
 translate schinese ellen_fshow_204db686:
 
     # e "Who knows? You might just get it!"
-    e ""
+    e "谁知道呢?说不定你就成功了!"
 
 # game/scripts/side_char_events.rpy:7191
 translate schinese ellen_fshow_0d5fc698:
 
     # e "Up next is Maria! Mariaaaaa~!"
-    e ""
+    e "下一个是玛丽亚!玛丽亚~!"
 
 # game/scripts/side_char_events.rpy:7193
 translate schinese ellen_fshow_28d88cd4:
 
     # m "Hiiii~"
-    m ""
+    m "嗨~"
 
 # game/scripts/side_char_events.rpy:7194
 translate schinese ellen_fshow_087cc4a0:
 
     # e "Just look at that class!"
-    e ""
+    e "看看,多么优雅!"
 
 # game/scripts/side_char_events.rpy:7196
 translate schinese ellen_fshow_a4041279:
 
     # e "That outfit? Stunning. That attitude? Dangerous! The vibe? Absolutely undefeated!"
-    e ""
+    e "衣服?极具魅力.态度?危险气息!气场?绝对不败!"
 
 # game/scripts/side_char_events.rpy:7197
 translate schinese ellen_fshow_eabe43fb:
 
     # m "You know it~"
-    m ""
+    m "你很识货嘛~"
 
 # game/scripts/side_char_events.rpy:7201
 translate schinese ellen_fshow_2d9f4874:
 
     # e "She didn't just come to compete, she came to conquer!"
-    e ""
+    e "她不是来比赛的,她是来征服的!"
 
 # game/scripts/side_char_events.rpy:7202
 translate schinese ellen_fshow_117ea793:
 
     # m "And I shall~"
-    m ""
+    m "而我也将征服你们~"
 
 # game/scripts/side_char_events.rpy:7207
 translate schinese ellen_fshow_67778ab3:
 
     # e "Last but certainly not least, Ashley!"
-    e ""
+    e "最后但绝非最次的,阿什莉!"
 
 # game/scripts/side_char_events.rpy:7209
 translate schinese ellen_fshow_afa25770:
 
     # a "Hey! That's not fair, you know I'm sensitive to light! Turn down your flash, Ellen!"
-    a ""
+    a "嘿!这不公平,你知道我对光很敏感的!把闪光灯关了,艾兰!"
 
 # game/scripts/side_char_events.rpy:7210
 translate schinese ellen_fshow_491bc5f8:
 
     # e "{i}Sorry, sorry.{/i}"
-    e ""
+    e "{i}对不起,对不起.{/i}"
 
 # game/scripts/side_char_events.rpy:7212
 translate schinese ellen_fshow_74ca83eb:
 
     # e "The look is so powerful, I think the wifi just went out!"
-    e ""
+    e "如此强大的外表,好像把wifi都切断了!"
 
 # game/scripts/side_char_events.rpy:7213
 translate schinese ellen_fshow_846fb823:
 
     # a "WOMAN! TURN THE LIGHT DOWN!"
-    a ""
+    a "{b}女人!把灯关了!{/b}"
 
 # game/scripts/side_char_events.rpy:7217
 translate schinese ellen_fshow_76f894b3:
 
     # e "She didn't just come to play, she came to leave us all speechless! And it's working!"
-    e ""
+    e "她不只是来玩玩而已,她是来让我们美得说不出话的!而她确实成功了!"
 
 # game/scripts/side_char_events.rpy:7218
 translate schinese ellen_fshow_7a15581d:
 
     # a "{i}{size=-5}This is bullshit...{/size}{/i}"
-    a ""
+    a "{i}{size=-5}一通胡扯......{/size}{/i}"
 
 # game/scripts/side_char_events.rpy:7222
 translate schinese ellen_fshow_0897cd7c:
 
     # e "And the winner is...?"
-    e ""
+    e "获胜者是......?"
 
 # game/scripts/side_char_events.rpy:7224
 translate schinese ellen_fshow_d13ff4d9:
 
     # a "NO! Bullshit!" with ssshake
-    a "" with ssshake
+    a "不!胡扯!" with ssshake
 
 # game/scripts/side_char_events.rpy:7225
 translate schinese ellen_fshow_771356a3:
 
     # e "*gasp*! Ashley!"
-    e ""
+    e "*惊叹*!阿什莉!"
 
 # game/scripts/side_char_events.rpy:7227
 translate schinese ellen_fshow_a32b7443:
 
     # a "LOOK AT ME!"
-    a ""
+    a "{b}看看我!{/b}"
 
 # game/scripts/side_char_events.rpy:7228
 translate schinese ellen_fshow_3979b02a:
 
     # k "Come on..."
-    k ""
+    k "拜托......"
 
 # game/scripts/side_char_events.rpy:7229
 translate schinese ellen_fshow_be172880:
 
     # m "That's not fair, Ashley!"
-    m ""
+    m "那不公平,阿什莉!"
 
 # game/scripts/side_char_events.rpy:7233
 translate schinese ellen_fshow_74930c7c:
 
     # a "THIS LIGHT ISN'T FAIR!"
-    a ""
+    a "{b}闪光灯也不公平!{/b}"
 
 # game/scripts/side_char_events.rpy:7235
 translate schinese ellen_fshow_b812fd11:
 
     # m "This is a fashion show, not a cabaret!"
-    m ""
+    m "这是时装秀,不是夜总会!"
 
 # game/scripts/side_char_events.rpy:7236
 translate schinese ellen_fshow_acf12748:
 
     # a "I'm just making things even!"
-    a ""
+    a "我只是想公平竞争!"
 
 # game/scripts/side_char_events.rpy:7237
 translate schinese ellen_fshow_ffe0c16e:
 
     # m "If I knew we were allowed to undress, I totally would have won!"
-    m ""
+    m "要是我知道我们可以把衣服脱了,那赢的人肯定是我!"
 
 # game/scripts/side_char_events.rpy:7238
 translate schinese ellen_fshow_05c1e2e0:
 
     # k "Hold on, what makes you so sure of that?"
-    k ""
+    k "等等,你凭什么这么肯定?"
 
 # game/scripts/side_char_events.rpy:7240
 translate schinese ellen_fshow_364e1ca7:
 
     # m "Hmph, do I even have to explain it?"
-    m ""
+    m "哼,我还需要解释吗?"
 
 # game/scripts/side_char_events.rpy:7241
 translate schinese ellen_fshow_27c9332f:
 
     # k "I have bigger boobs than you."
-    k ""
+    k "我的奶子比你的大."
 
 # game/scripts/side_char_events.rpy:7243
 translate schinese ellen_fshow_e612037c_1:
 
     # m "..."
-    m ""
+    m "......"
 
 # game/scripts/side_char_events.rpy:7245
 translate schinese ellen_fshow_7d8c53f1:
 
     # m "...Why don't we just let [name] decide."
-    m ""
+    m "......为什么不让[name]决定呢."
 
 # game/scripts/side_char_events.rpy:7246
 translate schinese ellen_fshow_5dd070ef:
 
     # k "Mhm..."
-    k ""
+    k "嗯......"
 
 # game/scripts/side_char_events.rpy:7248
 translate schinese ellen_fshow_b346aac0:
 
     # m "So, who won?"
-    m ""
+    m "所以,谁赢了?"
 
 # game/scripts/side_char_events.rpy:7249
 translate schinese ellen_fshow_ac4d343c:
 
     # a "Was it meee~?"
-    a ""
+    a "是我吗~?"
 
 # game/scripts/side_char_events.rpy:7250
 translate schinese ellen_fshow_69a108ba:
 
     # e "And the winner is...!"
-    e ""
+    e "获胜者是......!"
 
 # game/scripts/side_char_events.rpy:7254
 translate schinese ellen_fshow_d07e816d:
 
     # l "*gasp*! Really [linoname]!? I won!?"
-    l ""
+    l "*惊叹*!真的吗,[linoname]!?我赢了!?"
 
 # game/scripts/side_char_events.rpy:7256
 translate schinese ellen_fshow_755a2933:
 
     # m "*sigh*..."
-    m ""
+    m "*叹气*......"
 
 # game/scripts/side_char_events.rpy:7257
 translate schinese ellen_fshow_3d7c177f:
 
     # a "Nngh..."
-    a ""
+    a "呃......"
 
 # game/scripts/side_char_events.rpy:7258
 translate schinese ellen_fshow_5361ba96:
 
     # k "Grats."
-    k ""
+    k "恭喜."
 
 # game/scripts/side_char_events.rpy:7262
 translate schinese ellen_fshow_0d79dafc:
 
     # a "*gasp*! No way! Really!?"
-    a ""
+    a "*惊叹*!不可能!真的吗!?"
 
 # game/scripts/side_char_events.rpy:7264
 translate schinese ellen_fshow_bd1eafaf:
 
     # m "Ugh... cheater."
-    m ""
+    m "呃......作弊."
 
 # game/scripts/side_char_events.rpy:7265
 translate schinese ellen_fshow_2b68a14f:
 
     # l "Congratulations, Ashley."
-    l ""
+    l "恭喜你,阿什莉."
 
 # game/scripts/side_char_events.rpy:7266
 translate schinese ellen_fshow_5361ba96_1:
 
     # k "Grats."
-    k ""
+    k "恭喜."
 
 # game/scripts/side_char_events.rpy:7270
 translate schinese ellen_fshow_9bf080c4:
 
     # m "YES! I still got it~"
-    m ""
+    m "{b}是的!{/b}还是我赢了~"
 
 # game/scripts/side_char_events.rpy:7272
 translate schinese ellen_fshow_40c50bdd:
 
     # a "Bullshit..."
-    a ""
+    a "胡扯......"
 
 # game/scripts/side_char_events.rpy:7273
 translate schinese ellen_fshow_2ee82b2a:
 
     # l "Congratulations, Maria."
-    l ""
+    l "恭喜你,玛丽亚."
 
 # game/scripts/side_char_events.rpy:7274
 translate schinese ellen_fshow_a16a9a81:
 
     # k "Grats..."
-    k ""
+    k "恭喜......"
 
 # game/scripts/side_char_events.rpy:7278
 translate schinese ellen_fshow_ebd71502:
 
     # k "Oh shit! Really?"
-    k ""
+    k "噢操!真的吗?"
 
 # game/scripts/side_char_events.rpy:7280
 translate schinese ellen_fshow_40c50bdd_1:
 
     # a "Bullshit..."
-    a ""
+    a "胡扯......"
 
 # game/scripts/side_char_events.rpy:7281
 translate schinese ellen_fshow_7af68945:
 
     # m "Bullshit."
-    m ""
+    m "胡扯."
 
 # game/scripts/side_char_events.rpy:7282
 translate schinese ellen_fshow_39404ba6:
 
     # l "Congratulations, Kali."
-    l ""
+    l "恭喜你,凯莉."
 
 # game/scripts/side_char_events.rpy:7286
 translate schinese ellen_fshow_9ff3cd72:
 
     # l "*gasp*! Yaaay!"
-    l ""
+    l "*惊叹*!耶!"
 
 # game/scripts/side_char_events.rpy:7287
 translate schinese ellen_fshow_c639cd94:
 
     # m "WHAT!? That's bullshit! I put way more effort into it than they did!"
-    m ""
+    m "{b}什么!?{/b}胡扯!我付出的努力比她们多得多!"
 
 # game/scripts/side_char_events.rpy:7288
 translate schinese ellen_fshow_f31506d7:
 
     # a "I showed you my pussy for nothing!?"
-    a ""
+    a "我给你看了小穴,结果什么都不是!?"
 
 # game/scripts/side_char_events.rpy:7289
 translate schinese ellen_fshow_2aee0ac0:
 
     # k "Does that mean we all get pizza? Hell yeah."
-    k ""
+    k "这是不是意味着我们都能有披萨?太他妈帮了."
 
 # game/scripts/side_char_events.rpy:7290
 translate schinese ellen_fshow_b8254305:
 
     # e "Thank you for coming, everyone! Rewards will be handed out accordingly."
-    e ""
+    e "谢谢你们各位的参加!奖励将相应发放."
 
 # game/scripts/side_char_events.rpy:7292
 translate schinese ellen_fshow_df4b45fc:
 
     # e "And thank you as well, [name]. You were a wonderful judge."
-    e ""
+    e "还有,也谢谢你,[name].你是个很棒的裁判."
 
 # game/scripts/side_char_events.rpy:7293
 translate schinese ellen_fshow_1e142ae0:
 
     # c "Thanks for setting everything up, it was a nice surprise."
-    c ""
+    c "谢谢你安排的一切,这真是个惊喜."
 
 # game/scripts/side_char_events.rpy:7294
 translate schinese ellen_fshow_d23d26e9:
 
     # a "Wait- I thought this was [name]'s idea!"
-    a ""
+    a "等等-我以为这是[name]的主意!"
 
 # game/scripts/side_char_events.rpy:7295
 translate schinese ellen_fshow_f5f09cae:
 
     # m "Hold on..."
-    m ""
+    m "等等......"
 
 # game/scripts/side_char_events.rpy:7297
 translate schinese ellen_fshow_85086653:
 
     # e "Eh, heh... I was bored...! I wanted you all to have some fun. And you got nice outfits out of it!"
-    e ""
+    e "呃,呵呵......我有点无聊......!我希望你们都能玩的开心.而且你们还能穿上漂亮的衣服!"
 
 # game/scripts/side_char_events.rpy:7298
 translate schinese ellen_fshow_f0880be8:
 
     # k "You mean, {u}you{/u} paid for our stuff?"
-    k ""
+    k "你是说,是{u}你{/u}给我们的衣服付钱的?"
 
 # game/scripts/side_char_events.rpy:7299
 translate schinese ellen_fshow_871575f3:
 
     # e "I wasn't going to use the hotel's funds..."
-    e ""
+    e "我可不会用酒店的资金......"
 
 # game/scripts/side_char_events.rpy:7300
 translate schinese ellen_fshow_2e871017:
 
     # l "That's so kind of you, Ellen! Thank you."
-    l ""
+    l "你人真好,艾兰!谢谢你."
 
 # game/scripts/side_char_events.rpy:7301
 translate schinese ellen_fshow_e975bd50:
 
     # k "Yeah, thanks."
-    k ""
+    k "是啊,谢谢."
 
 # game/scripts/side_char_events.rpy:7302
 translate schinese ellen_fshow_1954f71a:
 
     # a "I still haven't forgiven you yet..."
-    a ""
+    a "我还没原谅你呢......"
 
 # game/scripts/side_char_events.rpy:7303
 translate schinese ellen_fshow_b044f05e:
 
     # e "Well, how about I order that pizza now? I'll get enough for everyone."
-    e ""
+    e "嗯,我现在订披萨怎么样?我的钱够给所有人都买一份."
 
 # game/scripts/side_char_events.rpy:7304
 translate schinese ellen_fshow_c21679bd:
 
     # k "Hell yeah!"
-    k ""
+    k "太他妈棒了!"
 
 # game/scripts/side_char_events.rpy:7305
 translate schinese ellen_fshow_65db46f9:
 
     # c "Don't worry, I got this one."
-    c ""
+    c "别担心,这个我来."
 
 # game/scripts/side_char_events.rpy:7308
 translate schinese ellen_fshow_1d781cf3:
 
     # "You spent $20 on pizza."
-    ""
+    "你花了20$买披萨."
 
 # game/scripts/side_char_events.rpy:7843
 translate schinese lucy_sigma_7fde0a9d:
 
     # lu "*gasp*! Oh my god!"
-    lu ""
+    lu "*惊叹*!哦我天!"
 
 # game/scripts/side_char_events.rpy:7844
 translate schinese lucy_sigma_2b1456e4:
 
     # k "Hm?"
-    k ""
+    k "嗯?"
 
 # game/scripts/side_char_events.rpy:7845
 translate schinese lucy_sigma_b37d0a5f:
 
     # lu "He actually did it... no way."
-    lu ""
+    lu "他真的那么做了......这不可能."
 
 # game/scripts/side_char_events.rpy:7846
 translate schinese lucy_sigma_93334484:
 
     # k "What?"
-    k ""
+    k "什么?"
 
 # game/scripts/side_char_events.rpy:7847
 translate schinese lucy_sigma_b38724bc:
 
     # lu "I can't believe it!"
-    lu ""
+    lu "我不敢相信!"
 
 # game/scripts/side_char_events.rpy:7848
 translate schinese lucy_sigma_809f4b2b:
 
     # k "WHAT LUCY? WHAT!?"
-    k ""
+    k "{b}怎么了露西?发生什么事了!?{/b}"
 
 # game/scripts/side_char_events.rpy:7850
 translate schinese lucy_sigma_899c4461:
 
     # lu "Do you remember Jordan? That rich bald guy."
-    lu ""
+    lu "你还记得乔丹吗?那个有钱的光头."
 
 # game/scripts/side_char_events.rpy:7851
 translate schinese lucy_sigma_3e429689:
 
     # k "Uhhh, the one that tried to take us out on a date? At the same time..."
-    k ""
+    k "呃,那个想带我们去约会的?还是同时......"
 
 # game/scripts/side_char_events.rpy:7852
 translate schinese lucy_sigma_105591f8:
 
     # lu "Yes! I met him again on the yacht a while back. He started a podcast!"
-    lu ""
+    lu "是的!不久前我在游艇上又遇到了他.他开了个播客!"
 
 # game/scripts/side_char_events.rpy:7854
 translate schinese lucy_sigma_596aac0b:
 
     # k "Ugh. Why do you even care? I wish I could forget about him..."
-    k ""
+    k "呃.你关心这个干什么?我希望我能忘了他......"
 
 # game/scripts/side_char_events.rpy:7855
 translate schinese lucy_sigma_3a6a75f2:
 
     # lu "Well he invited me on the first episode, but I didn't think it was actually going to go anywhere. Look!"
-    lu ""
+    lu "嗯,他邀请我参加了第一集,但我不觉得那会有什么进展.看!"
 
 # game/scripts/side_char_events.rpy:7856
 translate schinese lucy_sigma_da9cbe1a:
 
     # k "Do I have to..."
-    k ""
+    k "我真的有必要看吗......"
 
 # game/scripts/side_char_events.rpy:7857
 translate schinese lucy_sigma_25c74ac7:
 
     # lu "Yes!"
-    lu ""
+    lu "是的!"
 
 # game/scripts/side_char_events.rpy:7858
 translate schinese lucy_sigma_cb2a8bcd:
 
     # k "*sigh*... fine."
-    k ""
+    k "*叹气*......行吧."
 
 # game/scripts/side_char_events.rpy:7860
 translate schinese lucy_sigma_7f2586c4:
 
     # jor "WHAT'S UP! Welcome back to the Sigma Signal, where the weak get filtered out and only the strongest minds survive. We don't just motivate, we dominate."
-    jor ""
+    jor "{b}大家好!{/b}欢迎回到西格玛信号,在这里,弱者会被过滤掉,只有最强的头脑才能生存下来.我们不只是激励,我们更是主导."
 
 # game/scripts/side_char_events.rpy:7862
 translate schinese lucy_sigma_8c93a441:
 
     # jor "Camera 2!\nI'm your host Jordan, and I'm bald by choice."
-    jor ""
+    jor "2号摄像机!\n我是你们的主持人乔丹,我是自愿秃头的."
 
 # game/scripts/side_char_events.rpy:7864
 translate schinese lucy_sigma_ef7967a6:
 
     # jor "Camera 3!"
-    jor ""
+    jor "3号摄像机!"
 
 # game/scripts/side_char_events.rpy:7865
 translate schinese lucy_sigma_a20cefa7:
 
     # "..."
-    ""
+    "......"
 
 # game/scripts/side_char_events.rpy:7866
 translate schinese lucy_sigma_f0cd0bbb:
 
     # jor "Charlie!" with ssshake
-    jor "" with ssshake
+    jor "查理!" with ssshake
 
 # game/scripts/side_char_events.rpy:7867
 translate schinese lucy_sigma_8b768689:
 
     # char "Huh?"
-    char ""
+    char "嗯?"
 
 # game/scripts/side_char_events.rpy:7869
 translate schinese lucy_sigma_27ad5c14:
 
     # char "Oh!\nI'm Charlie. Yacht owner."
-    char ""
+    char "噢!\n我是查理,游艇的主人."
 
 # game/scripts/side_char_events.rpy:7870
 translate schinese lucy_sigma_e3269cd4:
 
     # jor "{i}Fucking dumbass.{/i}"
-    jor ""
+    jor "{i}该死的蠢货.{/i}"
 
 # game/scripts/side_char_events.rpy:7872
 translate schinese lucy_sigma_165f1578:
 
     # jor "Today we'll be tackling females."
-    jor ""
+    jor "今天我们要讨论的是女性."
 
 # game/scripts/side_char_events.rpy:7873
 translate schinese lucy_sigma_0b3f93f5:
 
     # jor "Not physically, obviously. They would die if we did."
-    jor ""
+    jor "显然,我们说的不是身体.如果我们这样做,她们赢不了一点."
 
 # game/scripts/side_char_events.rpy:7874
 translate schinese lucy_sigma_bf33627e:
 
     # jor "We'll be telling YOU how you can pull bitches and wreck as much puss as you can handle. Sounds easy, right? Wrong. Most of you can't even handle a single woman, and that makes you fucking weak."
-    jor ""
+    jor "我们将告诉{b}你{/b}如何泡妞,征服大量小妞.听起来很简单,是吧?错.你们中的大多数人连一个女人都搞不定,真是弱爆了."
 
 # game/scripts/side_char_events.rpy:7876
 translate schinese lucy_sigma_4b47d0ea:
 
     # char "Hehh, I couldn't even begin to list my body count. Definitely in the triple digits though."
-    char ""
+    char "呵呵,我泡过的妞简直罄竹难书.不过绝对有三位数."
 
 # game/scripts/side_char_events.rpy:7878
 translate schinese lucy_sigma_cf370f39:
 
     # jor "And mine is even higher. We're professionals you can trust."
-    jor ""
+    jor "我的更多.我们是你值得信任的专家."
 
 # game/scripts/side_char_events.rpy:7879
 translate schinese lucy_sigma_9a8e40cd:
 
     # jor "You see, females are basic. Their instincts drive them to find a mate with the highest status and largest hoard of resources. In today's world that means money and fame."
-    jor ""
+    jor "你看,雌性很简单.她们的本能驱使她们寻找地位最高,资源最多的配偶.在当今世界,这意味着金钱和名誉."
 
 # game/scripts/side_char_events.rpy:7881
 translate schinese lucy_sigma_57529158:
 
     # jor "These glasses? $10k."
-    jor ""
+    jor "那些玻璃杯?10,000$."
 
 # game/scripts/side_char_events.rpy:7883
 translate schinese lucy_sigma_0b3543f1:
 
     # jor "This watch? $40k."
-    jor ""
+    jor "这块手表?40,000$."
 
 # game/scripts/side_char_events.rpy:7885
 translate schinese lucy_sigma_20cd41d8:
 
     # jor "Females will literally drop to their knees at the mere sight of these things. It shows them that you can provide!"
-    jor ""
+    jor "雌性只要看到这些东西,就会对你俯首称臣.这让她们看到了你的能力!"
 
 # game/scripts/side_char_events.rpy:7886
 translate schinese lucy_sigma_edb7d2d9:
 
     # jor "But can you afford this lifestyle? NO! Of course not. You're a weak beta femboy jerking off to anime tits, when you could be out there CONQUERING!"
-    jor ""
+    jor "但你负担得起这种生活方式吗?{b}不能!{/b}当然不能.你只是个对着纸片人奶子打胶的娘娘腔罢了.你本可以去{b}征服{/b}世界!"
 
 # game/scripts/side_char_events.rpy:7887
 translate schinese lucy_sigma_6da1a467:
 
     # jor "We go over this extensively in our new course, available to you for only $1,000 a month."
-    jor ""
+    jor "在我们的新课程中,我们将详细介绍如何做到这一点,你只需每月支付1,000$."
 
 # game/scripts/side_char_events.rpy:7888
 translate schinese lucy_sigma_62aa55a6:
 
     # jor "You might say {i}'Jordan, $1,000 is too expensive.'{/i}\nWRONG! You're fucking WRONG! It's an investment into your future. But I'll give you one tip for free."
-    jor ""
+    jor "你可能会说,{i}'乔丹,1,000$太贵了.'{/i}\n{b}错!{/b}你他妈{b}错{/b}了!这是对你未来的投资.但我可以免费给你一个建议."
 
 # game/scripts/side_char_events.rpy:7890
 translate schinese lucy_sigma_35d75f8e:
 
     # jor "Sit like a fucking man!"
-    jor ""
+    jor "坐得像个他妈的男人一样!"
 
 # game/scripts/side_char_events.rpy:7892
 translate schinese lucy_sigma_37a70ec4:
 
     # jor "No hunching over like a weak beta pussy, show them your frame! Dominate every space you're in!"
-    jor ""
+    jor "不要像个弱不禁风的小娘们一样驼背,让她们看看你的架势!主宰你所在的每一个空间!"
 
 # game/scripts/side_char_events.rpy:7894
 translate schinese lucy_sigma_2b87aa41:
 
     # jor "Treat yourself like the king you are! And don't tell me shit about {i}'Oh, I gotta pay taxes Jordan, I can't afford your course.'{/i}"
-    jor ""
+    jor "像个国王一样对待自己!还有别跟我扯什么{i}'噢,乔丹,我得交税,我上不起你的课.'{/i}"
 
 # game/scripts/side_char_events.rpy:7896
 translate schinese lucy_sigma_859ec074:
 
     # jor "BULLSHIT! Taxes were made up by the ruling class to keep betas like you from achieving your goals."
-    jor ""
+    jor "{b}都是胡说八道!{/b}税收是统治阶级为了阻止想你这样的弱者实现自己目标而制定的."
 
 # game/scripts/side_char_events.rpy:7898
 translate schinese lucy_sigma_efc71fd7:
 
     # char "I stopped paying mine years ago. They haven't caught me yet!"
-    char ""
+    char "我几年前就不交税了.他们还没抓到我!"
 
 # game/scripts/side_char_events.rpy:7899
 translate schinese lucy_sigma_a2b22d4a:
 
     # jor "Precisely!"
-    jor ""
+    jor "正是如此!"
 
 # game/scripts/side_char_events.rpy:7901
 translate schinese lucy_sigma_a20dd581:
 
     # char "So uhh, Jordan, we got in a bit of a controversy for our last podcast. Any comment?"
-    char ""
+    char "所以,呃,乔丹,我们上一次的播客引起了一些争议.你有什么回应吗?"
 
 # game/scripts/side_char_events.rpy:7903
 translate schinese lucy_sigma_b26d8f46:
 
     # jor "I did not rape her. It was consensual."
-    jor ""
+    jor "我每月强奸她.我们是自愿的."
 
 # game/scripts/side_char_events.rpy:7904
 translate schinese lucy_sigma_65d5ef41:
 
     # char "No, the other one."
-    char ""
+    char "不,我是说另一个."
 
 # game/scripts/side_char_events.rpy:7906
 translate schinese lucy_sigma_9e2d3cfd:
 
     # jor "What the fuck are you talking about, Charlie?"
-    jor ""
+    jor "你他妈在说什么,查理?"
 
 # game/scripts/side_char_events.rpy:7908
 translate schinese lucy_sigma_bad8458e:
 
     # char "Everyone's calling you gay, man."
-    char ""
+    char "大家都说你是基佬,哥们."
 
 # game/scripts/side_char_events.rpy:7909
 translate schinese lucy_sigma_0fb54038:
 
     # jor "That's bullshit. I'm not gay."
-    jor ""
+    jor "胡扯,我不是基佬."
 
 # game/scripts/side_char_events.rpy:7910
 translate schinese lucy_sigma_43a30a00:
 
     # char "Well you told everyone you fucked a dude."
-    char ""
+    char "但是你告诉所有人你操了个男的."
 
 # game/scripts/side_char_events.rpy:7912
 translate schinese lucy_sigma_92d7eaf8:
 
     # jor "Okay, literally what is more manly than dominating another man? I made my point very clear."
-    jor ""
+    jor "好吧,你看,还有什么比支配另一个男人更有男子气概的事情了?我已经说的很清楚了."
 
 # game/scripts/side_char_events.rpy:7913
 translate schinese lucy_sigma_791c551c:
 
     # char "It's still a bit gay."
-    char ""
+    char "那还是有点基."
 
 # game/scripts/side_char_events.rpy:7914
 translate schinese lucy_sigma_4ed80fc2:
 
     # jor "It's not gay! It's liter- I'm-"
-    jor ""
+    jor "那不是基!那是-我-"
 
 # game/scripts/side_char_events.rpy:7916
 translate schinese lucy_sigma_2c9b770c:
 
     # jor "LISTEN. Females are weak, they're easy. If you want a challenge, try fucking a dude who thinks they're a chick. THAT'S hard."
-    jor ""
+    jor "{b}听着.{/b}雌性很弱,很容易上手.如果你想挑战,试试和一个自以为是小妞的男人上床.{b}那{/b}才叫难."
 
 # game/scripts/side_char_events.rpy:7918
 translate schinese lucy_sigma_5fda6f37:
 
     # jor "At the end of the day, a bitch is a bitch. Especially if you make him one.\nCommand. Conquer. Dominate."
-    jor ""
+    jor "说到底,婊子就是婊子.尤其是当你让他成为婊子的时候.\n命令.征服.统治."
 
 # game/scripts/side_char_events.rpy:7920
 translate schinese lucy_sigma_6aa20e3c:
 
     # char "Yeah, I've seen some pretty trans girls. They're alright. Some of them even look better than the natural ones these days."
-    char ""
+    char "是啊,我见过一些很漂亮的变性人.她们还挺不错,有些甚至比那些天然的都漂亮."
 
 # game/scripts/side_char_events.rpy:7921
 translate schinese lucy_sigma_9d5e2bce:
 
     # jor "Precisely. It's not gay."
-    jor ""
+    jor "正是如此.这并不是基."
 
 # game/scripts/side_char_events.rpy:7922
 translate schinese lucy_sigma_66686486:
 
     # char "I mean, it's still a bit gay."
-    char ""
+    char "我是说,还是有点基."
 
 # game/scripts/side_char_events.rpy:7924
 translate schinese lucy_sigma_4fe6fc75:
 
     # jor "Moving on."
-    jor ""
+    jor "别说这个了."
 
 # game/scripts/side_char_events.rpy:7925
 translate schinese lucy_sigma_b40d38f8:
 
     # jor "I see many of you own a slave, or are thinking about buying one. I can tell you that without a shred of doubt, that is the most beta thing you can do."
-    jor ""
+    jor "我看到你们很多人都拥有奴隶,或者正在考虑买一个.我可以毫无疑问地告诉你,这是最糟糕的事情."
 
 # game/scripts/side_char_events.rpy:7926
 translate schinese lucy_sigma_d75cfaf7:
 
     # jor "Females are easy. Female slaves? You might as well just kill yourself! You're eliminating your masculinity! You might as well fuck a pig."
-    jor ""
+    jor "雌性很简单.女奴?你还不如自杀算了!你的阳刚之气正在消失!你还不如去操头猪."
 
 # game/scripts/side_char_events.rpy:7928
 translate schinese lucy_sigma_f6b771d1:
 
     # char "You don't own a single elf? I own a few just for maintenance on my yacht."
-    char ""
+    char "你一个精灵都没有?我有几个,只是为了维护我的游艇."
 
 # game/scripts/side_char_events.rpy:7929
 translate schinese lucy_sigma_a4465222:
 
     # jor "No Charlie, that's pussy shit! Buying a few for your business is one thing, but it's not real pussy."
-    jor ""
+    jor "不,查理,那是娘娘腔才会做的事情!为自己的生意买几个那是另一个事情,并不是真正的娘娘腔."
 
 # game/scripts/side_char_events.rpy:7930
 translate schinese lucy_sigma_e71d238d:
 
     # char "True, true, okay."
-    char ""
+    char "确实,确实,好吧."
 
 # game/scripts/side_char_events.rpy:7932
 translate schinese lucy_sigma_7ad1ac80:
 
     # jor "Sell your slaves, buy our course. You'll thank us later when you get some premium pussy."
-    jor ""
+    jor "卖掉你的奴隶,买我们的课程.等你泡到了极品小妞,你会来感谢我们的."
 
 # game/scripts/side_char_events.rpy:7934
 translate schinese lucy_sigma_850e71d6:
 
     # char "Wait hold on, not even dark elf pussy counts?"
-    char ""
+    char "等等,暗精灵也不算吗?"
 
 # game/scripts/side_char_events.rpy:7935
 translate schinese lucy_sigma_dccd2040:
 
     # jor "NO! You idiot!"
-    jor ""
+    jor "{b}当然不算!{/b}你个傻瓜!"
 
 # game/scripts/side_char_events.rpy:7936
 translate schinese lucy_sigma_173b21f5:
 
     # char "Dude, you've never fucked an elf have you? Don't knock it 'til you try it. Dark elf pussies are fat."
-    char ""
+    char "哥们,你没操过精灵吧?没试过就别在那乱喷了,暗精灵的小穴是真的肥美."
 
 # game/scripts/side_char_events.rpy:7938
 translate schinese lucy_sigma_4dbdc23c:
 
     # char "Shit... and drow pussy? Like navigating a hot, wet, messy cave. That shit feels {i}gooooood...{/i}"
-    char ""
+    char "操......还有卓尔的小穴?就像在一个又湿又热又乱的洞穴里穿梭.那玩意感觉{i}好极了......{/i}"
 
 # game/scripts/side_char_events.rpy:7940
 translate schinese lucy_sigma_eaed4339:
 
     # char "And don't even get me started on-!"
-    char ""
+    char "还有更别提-!"
 
 # game/scripts/side_char_events.rpy:7941
 translate schinese lucy_sigma_34b673ba:
 
     # jor "SHUT THE FUCK UP, CHARLIE!" with ssshake
-    jor "" with ssshake
+    jor "{b}他妈地闭嘴,查理!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:7943
 translate schinese lucy_sigma_5e631982:
 
     # char "Sorry."
-    char ""
+    char "对不起."
 
 # game/scripts/side_char_events.rpy:7945
 translate schinese lucy_sigma_c6e9e93a:
 
     # jor "Moving on!\nWe'd like to introduce you to our sponsor."
-    jor ""
+    jor "我们继续!\n我们要像你们介绍我们的赞助商."
 
 # game/scripts/side_char_events.rpy:7946
 translate schinese lucy_sigma_b800b0c6:
 
     # jor "On the journey to becoming the ultimate man, working out is a requirement. You can't be a man if you look like a beta bitch, can you?"
-    jor ""
+    jor "在成为终极男人的道路上,锻炼是一项必要的条件.如果你看起来像个娘娘腔,你就成为不了男人,不是吗?"
 
 # game/scripts/side_char_events.rpy:7948
 translate schinese lucy_sigma_3e1dcb56:
 
     # jor "Man Juice is the ultimate non-GMO organic only suppliment that will change your life. It's high in protein, creatine, and beta blockers. Because why would you want to be a beta?"
-    jor ""
+    jor "猛男精华是一种非转基因的终极有机补充剂,它将改变你的生活.它富含蛋白质,肌酸和β受体阻断剂.因为你为什么想成为一个贝塔级别的弱者呢?"
 
 # game/scripts/side_char_events.rpy:7949
 translate schinese lucy_sigma_a947051b:
 
     # jor "I use it every day, and I'm fucking ripped. You can be too. Click the link in the description below to buys yours today."
-    jor ""
+    jor "我每天都在用它,而我现在强得离谱.你也可以.点击下方简介中的链接,今天就订购吧."
 
 # game/scripts/side_char_events.rpy:7951
 translate schinese lucy_sigma_e023c9f1:
 
     # jor "Moving on.\nWe're starting a new segment of the show where we answer calls from our most loyal watchers. We'll answer any questions you have and help you become the man you were destined to be."
-    jor ""
+    jor "我们继续.\n我们将开始一个新的节目环节,回答最忠实观众的来电.我们将回答你的任何问题,助你沉稳给命中注定的男人."
 
 # game/scripts/side_char_events.rpy:7953
 translate schinese lucy_sigma_f621fa8c:
 
     # jor "Caller number 1, you're on the air."
-    jor ""
+    jor "1号来电者,你已接入直播."
 
 # game/scripts/side_char_events.rpy:7954
 translate schinese lucy_sigma_66dff6af:
 
     # call1 "Hello?"
-    call1 ""
+    call1 "你好?"
 
 # game/scripts/side_char_events.rpy:7955
 translate schinese lucy_sigma_ae80531c:
 
     # jor "We can hear you, you sound like a bitch. Why did you call?"
-    jor ""
+    jor "我们可以听到你,你听起来像个娘娘腔.为什么你要来电?"
 
 # game/scripts/side_char_events.rpy:7956
 translate schinese lucy_sigma_a780e3fd:
 
     # call1 "W-Well, I'm having girl problems..."
-    call1 ""
+    call1 "呃-嗯,我有个女孩方面的问题......"
 
 # game/scripts/side_char_events.rpy:7957
 translate schinese lucy_sigma_a73df953:
 
     # jor "Wrong! You don't have girl problems, girls are the problem. How old are you?"
-    jor ""
+    jor "错误!你没有女孩方面的问题,女孩才是问题.你多大了?"
 
 # game/scripts/side_char_events.rpy:7958
 translate schinese lucy_sigma_72ebd633:
 
     # call1 "Uhh, 13..."
-    call1 ""
+    call1 "呃,13......"
 
 # game/scripts/side_char_events.rpy:7959
 translate schinese lucy_sigma_1159a476:
 
     # jor "Next caller."
-    jor ""
+    jor "下一个来电者."
 
 # game/scripts/side_char_events.rpy:7960
 translate schinese lucy_sigma_169b75cb:
 
     # jor "Caller number 2, you're on the air."
-    jor ""
+    jor "2号来电者,你已接入直播."
 
 # game/scripts/side_char_events.rpy:7961
 translate schinese lucy_sigma_fa7d5205:
 
     # call2 "Hello Jordan! I'm a big fan!"
-    call2 ""
+    call2 "你好乔丹!我是你的大粉丝!"
 
 # game/scripts/side_char_events.rpy:7962
 translate schinese lucy_sigma_4140754b:
 
     # jor "You sound like a bitch too. How old are you?"
-    jor ""
+    jor "你听起来也像是个娘娘腔.你多大了?"
 
 # game/scripts/side_char_events.rpy:7963
 translate schinese lucy_sigma_831d9359:
 
     # call2 "Uh, 15?"
-    call2 ""
+    call2 "呃,15?"
 
 # game/scripts/side_char_events.rpy:7964
 translate schinese lucy_sigma_1159a476_1:
 
     # jor "Next caller."
-    jor ""
+    jor "下一个来电者."
 
 # game/scripts/side_char_events.rpy:7966
 translate schinese lucy_sigma_7d87a11d:
 
     # char "Bro, our audience is mostly kids. We're gonna be here all day if you keep skipping them."
-    char ""
+    char "哥们,我们的观众大多是孩子.如果你一直跳过他们,我们会在这里呆上一天的."
 
 # game/scripts/side_char_events.rpy:7968
 translate schinese lucy_sigma_029f6bca:
 
     # jor "Don't call if you're under 18, that is a legal liability. This podcast is for adults only."
-    jor ""
+    jor "如果你未满18,请勿不打电话,这是法律规定的.本播客仅供成年人收听."
 
 # game/scripts/side_char_events.rpy:7970
 translate schinese lucy_sigma_1be92634:
 
     # jor "Caller number 3, you're on the air. Fuck off if you're a kid."
-    jor ""
+    jor "3号来电者,你已接入直播.你要是也是个孩子那就给我滚远点."
 
 # game/scripts/side_char_events.rpy:7971
 translate schinese lucy_sigma_bed92584:
 
     # call3 "Hi, I have a few issues with this bitch, and I need some advice on how to deal with them."
-    call3 ""
+    call3 "嗨,我和这个婊子有一些问题,我需要一些建议来解决这些问题."
 
 # game/scripts/side_char_events.rpy:7972
 translate schinese lucy_sigma_82ca1415:
 
     # jor "You sound like a kid. What the fuck is going on?"
-    jor ""
+    jor "你听起来像个孩子.这他妈发生什么事情了?"
 
 # game/scripts/side_char_events.rpy:7973
 translate schinese lucy_sigma_a628ab7a:
 
     # call3 "No, I'm just a woman. The bitch is you."
-    call3 ""
+    call3 "不,我只是个女人.我说的婊子是你."
 
 # game/scripts/side_char_events.rpy:7975
 translate schinese lucy_sigma_d86781c5:
 
     # jor "Who the fuck let this slut on? Hold on, you sound familiar..."
-    jor ""
+    jor "谁他妈让这只母狗上来的?等等,你听起来很耳熟......"
 
 # game/scripts/side_char_events.rpy:7977
 translate schinese lucy_sigma_bf32c147:
 
     # van "I don't know, maybe because you dated me in highschool?"
-    van ""
+    van "我不知道,也许是因为你在高中的时候和我约过会?"
 
 # game/scripts/side_char_events.rpy:7978
 translate schinese lucy_sigma_91333e82:
 
     # van "By the way, I was the only one in highschool..."
-    van ""
+    van "顺便一说,你在高中的时候也只和我约过会......"
 
 # game/scripts/side_char_events.rpy:7979
 translate schinese lucy_sigma_fba43337:
 
     # jor "Vanessa!?"
-    jor ""
+    jor "瓦妮莎!?"
 
 # game/scripts/side_char_events.rpy:7980
 translate schinese lucy_sigma_6e44bbed:
 
     # van "Bingo!\nWelcome to the Violet Ends podcast, where we tackle the idiocy plaguing our nation."
-    van ""
+    van "答对了!\n欢迎来到紫罗兰之终播客,我们将在这里讨论困扰我们国家的白痴问题."
 
 # game/scripts/side_char_events.rpy:7981
 translate schinese lucy_sigma_325d4273:
 
     # van "So how many highschoolers have you took on dates this year? Break any records?"
-    van ""
+    van "所以你今年约了几个高中生?打破记录了吗?"
 
 # game/scripts/side_char_events.rpy:7982
 translate schinese lucy_sigma_79c9f2c9:
 
     # jor "Oh fuck off. I didn't force you into anything."
-    jor ""
+    jor "噢,滚啊.我可没逼你做什么."
 
 # game/scripts/side_char_events.rpy:7983
 translate schinese lucy_sigma_a9e88350:
 
     # van "Yeah, mistakes were made... who knew you would turn out to be such a dick? Or do you only suck them these days?"
-    van ""
+    van "是啊,木已成舟......谁知道你会变成这样一个混蛋?还是说你现在都已经开始给男的口交了?"
 
 # game/scripts/side_char_events.rpy:7984
 translate schinese lucy_sigma_ab65a34a:
 
     # jor "I'M NOT GAY!" with ssshake
-    jor "" with ssshake
+    jor "{b}我不是基佬!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:7985
 translate schinese lucy_sigma_49d05ec2:
 
     # van "Hey, no judgements here. I think it's pretty cool that you're so open to new things."
-    van ""
+    van "嘿,无意批判.只是我觉得,你如此乐于接受新事物,确实很酷."
 
 # game/scripts/side_char_events.rpy:7987
 translate schinese lucy_sigma_68555d95:
 
     # jor "Get her off the fucking line. We don't talk to females."
-    jor ""
+    jor "把她的电话他妈给我挂了.我们不和女的聊天."
 
 # game/scripts/side_char_events.rpy:7988
 translate schinese lucy_sigma_d3bbe313:
 
     # van "Aww, what's the matter? I thought you embraced confrontation?"
-    van ""
+    van "啊,怎么了?我以为你喜欢对抗呢?"
 
 # game/scripts/side_char_events.rpy:7989
 translate schinese lucy_sigma_60f9fab7:
 
     # jor "I do! I'd like to see you here in person. You wouldn't last 10 seconds in a fight against me."
-    jor ""
+    jor "我确实喜欢!我想要见到你本人.你跟我打,连10秒都撑不住."
 
 # game/scripts/side_char_events.rpy:7991
 translate schinese lucy_sigma_d04e6746:
 
     # van "Ooh, what a big man. He can beat up women! Would you like a trophy?"
-    van ""
+    van "噢,真是个大丈夫啊.他能打女人!你想要个奖杯吗?"
 
 # game/scripts/side_char_events.rpy:7992
 translate schinese lucy_sigma_ede32f47:
 
     # jor "I don't beat women, that was a lie started by bitches like you to take me down! Though I easily could if I wanted to."
-    jor ""
+    jor "我不打女人,那双像你这样的贱人为了打到我而编造的谎言!不过,如果我想的话,我还是能轻易做到的."
 
 # game/scripts/side_char_events.rpy:7993
 translate schinese lucy_sigma_4b11f2ec:
 
     # van "Wow, I think that was the first time I've ever heard you say the word 'woman'. You've really expanded your vocabulary!"
-    van ""
+    van "哇哦,这是我第一次听到你说'女人"这个词.你的词汇量可真大!
 
 # game/scripts/side_char_events.rpy:7995
 translate schinese lucy_sigma_91d7180b:
 
     # jor "This is the problem with modern females. They're too masculine."
-    jor ""
+    jor "这就是现代雌性的问题所在.他们太男性化了."
 
 # game/scripts/side_char_events.rpy:7996
 translate schinese lucy_sigma_fcf678d6:
 
     # jor "Instead of getting on their knees and sucking your cock on request, they talk back! They've become whores in our modern society!"
-    jor ""
+    jor "她们不会按照你的要求跪下来给你口角,而是顶嘴!在我们的现代社会,她们早就成为妓女了!"
 
 # game/scripts/side_char_events.rpy:7998
 translate schinese lucy_sigma_0788946a:
 
     # char "Wait, I'm confused. Do we want them to be whores or not?"
-    char ""
+    char "等等,我糊涂了.我们到底要不要让她们当妓女?"
 
 # game/scripts/side_char_events.rpy:7999
 translate schinese lucy_sigma_48a55a9a:
 
     # jor "Don't talk while I'm talking, Charlie!"
-    jor ""
+    jor "我说话的时候别插嘴,查理!"
 
 # game/scripts/side_char_events.rpy:8001
 translate schinese lucy_sigma_5e631982_1:
 
     # char "Sorry."
-    char ""
+    char "对不起."
 
 # game/scripts/side_char_events.rpy:8002
 translate schinese lucy_sigma_066b3c25:
 
     # van "The only whores here are you two. You can't even count how many men and women you've fucked!"
-    van ""
+    van "这里的妓只有你们两个.你们甚至都数不清和多少男女上过床!"
 
 # game/scripts/side_char_events.rpy:8004
 translate schinese lucy_sigma_7b8dd2ae:
 
     # jor "It's different. We're men, we conquer."
-    jor ""
+    jor "那不一样.我们是男人,我们征服."
 
 # game/scripts/side_char_events.rpy:8005
 translate schinese lucy_sigma_79054f09:
 
     # van "Conquer a new hairline, buddy. We all know you're not bald by choice."
-    van ""
+    van "还是征服一个新发际线吧,哥们.我们都知道你不是自愿秃头的."
 
 # game/scripts/side_char_events.rpy:8007
 translate schinese lucy_sigma_dcd286bd:
 
     # jor "{b}GET HER OFF THE LINE! GET HER OFF THE LINE!{/b}" with ssshake
-    jor "" with ssshake
+    jor "{b}把她挂了!把她挂了!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:8008
 translate schinese lucy_sigma_cfc0ca2e:
 
     # jor "FUCK THIS DUMB CUNT, I HOPE SHE GETS RAPED! NEVER CALL ME AGAIN!! STUPID BITCH!"
-    jor ""
+    jor "{b}操他妈的傻逼婊子,我希望她被强奸!别再打电话给我了!!傻逼婊子!{/b}"
 
 # game/scripts/side_char_events.rpy:8009
 translate schinese lucy_sigma_a62fd5b3:
 
     # jor "YOU NEVER SHOULD HAVE DUMPED ME! I'LL MAKE YOUR LIFE A LIVING HELL!"
-    jor ""
+    jor "{b}你就不该甩了我!我要让你生不如死!{/b}"
 
 # game/scripts/side_char_events.rpy:8011
 translate schinese lucy_sigma_d4e85632:
 
     # char "Bro... are you crying?"
-    char ""
+    char "哥们......你在哭吗?"
 
 # game/scripts/side_char_events.rpy:8012
 translate schinese lucy_sigma_492eb227:
 
     # jor "No Charlie, you fucking dumbass!"
-    jor ""
+    jor "不,查理,你他妈个傻逼!"
 
 # game/scripts/side_char_events.rpy:8014
 translate schinese lucy_sigma_2640f11e:
 
     # jor "I don't cry. Men never cry. To cry is to act, and I don't believe in acting."
-    jor ""
+    jor "我没哭.男人从不会哭.哭是再演戏,而我不相信演戏."
 
 # game/scripts/side_char_events.rpy:8015
 translate schinese lucy_sigma_a1ea6a61:
 
     # jor "Did I have tears coming out of my eyes? Yes. But it's not crying. My eyes leaked as I conquered."
-    jor ""
+    jor "你有看到我的眼泪流出来吗?有.但那不是哭,我的眼睛随着我的征服而流泪."
 
 # game/scripts/side_char_events.rpy:8016
 translate schinese lucy_sigma_eaa15c88:
 
     # char "Dude, that's... that's crying."
-    char ""
+    char "哥们,那......那就是哭."
 
 # game/scripts/side_char_events.rpy:8018
 translate schinese lucy_sigma_8c2b7b73:
 
     # jor "*ahem*...\nBe the man you were destined to be. Stop being a beta bitch today. Buy our course now."
-    jor ""
+    jor "*咳嗽*......\n成为你注定中的男人.从今天开始,别再做个弱鸡娘娘腔.现在就买我们的课程."
 
 # game/scripts/side_char_events.rpy:8020
 translate schinese lucy_sigma_bb49d87e:
 
     # jor "That's all for today. Peace out bitches!"
-    jor ""
+    jor "今天到此为止,再见,婊子们!"
 
 # game/scripts/side_char_events.rpy:8021
 translate schinese lucy_sigma_d5270c5f:
 
     # char "{size=-5}{i}Ohhh... I'm starting to have regrets...{/i}{/size}"
-    char ""
+    char "{size=-5}{i}噢......我开始有点后悔了......{/i}{/size}"
 
 # game/scripts/side_char_events.rpy:8025
 translate schinese lucy_sigma_c15cc7d6:
 
     # lu "..."
-    lu ""
+    lu "......"
 
 # game/scripts/side_char_events.rpy:8026
 translate schinese lucy_sigma_82091822:
 
     # k "..."
-    k ""
+    k "......"
 
 # game/scripts/side_char_events.rpy:8028
 translate schinese lucy_sigma_7af0b4af:
 
     # k "Dude."
-    k ""
+    k "伙计."
 
 # game/scripts/side_char_events.rpy:8029
 translate schinese lucy_sigma_c15cc7d6_1:
 
     # lu "..."
-    lu ""
+    lu "......"
 
 # game/scripts/side_char_events.rpy:8030
 translate schinese lucy_sigma_24f46eae:
 
     # k "You almost went on there!?"
-    k ""
+    k "你差点还去参加了!?"
 
 # game/scripts/side_char_events.rpy:8031
 translate schinese lucy_sigma_2aefcc1a:
 
     # lu "I didn't know he was like that! I mean, he was hitting on me at the yacht..."
-    lu ""
+    lu "我不知道他是那样的!我是说,他在游艇上还在和我调情......"
 
 # game/scripts/side_char_events.rpy:8032
 translate schinese lucy_sigma_45b183a7:
 
     # k "How could you not see how much of a cunt he is!?"
-    k ""
+    k "你怎么就看不出来他有多贱!?"
 
 # game/scripts/side_char_events.rpy:8033
 translate schinese lucy_sigma_a4f10506:
 
     # lu "Stop making me feel bad!"
-    lu ""
+    lu "别再让我难受了!"
 
 # game/scripts/side_char_events.rpy:8034
 translate schinese lucy_sigma_e7710137:
 
     # k "I want my 5 minutes back, Lucy!"
-    k ""
+    k "我浪费了整整5分钟,露西!"
 
 # game/scripts/side_char_events.rpy:8035
 translate schinese lucy_sigma_fe89b595:
 
     # lu "I'm sorry...!"
-    lu ""
+    lu "对不起......!"
 
 # game/scripts/side_char_events.rpy:8037
 translate schinese lucy_sigma_db241e0a:
 
     # k "...I need to give [name] a hug..."
-    k ""
+    k "......我需要给[name]一个拥抱......"
 
 # game/scripts/side_char_events.rpy:8038
 translate schinese lucy_sigma_2c3836cc:
 
     # lu "Huh? Why?"
-    lu ""
+    lu "嗯?为什么?"
 
 # game/scripts/side_char_events.rpy:8039
 translate schinese lucy_sigma_c8314966:
 
     # k "To remind myself that good men do exist. They should be cherished..."
-    k ""
+    k "提醒我世界上还是有好男人的.我们应该珍惜他们......"
 
 # game/scripts/side_char_events.rpy:8040
 translate schinese lucy_sigma_dd8d1217:
 
     # lu "Oh... I think I'll join you..."
-    lu ""
+    lu "噢......我想我会加入你......"
 
 translate schinese strings:
 
     # game/scripts/side_char_events.rpy:7251
     old "Lin!"
-    new ""
+    new "林!"
 
     # game/scripts/side_char_events.rpy:7251
     old "Ashley!"
-    new ""
+    new "阿什莉!"
 
     # game/scripts/side_char_events.rpy:7251
     old "Maria!"
-    new ""
+    new "玛丽亚!"
 
     # game/scripts/side_char_events.rpy:7251
     old "Kali!"
-    new ""
+    new "凯莉!"
 
     # game/scripts/side_char_events.rpy:7251
     old "Everyone wins today."
-    new ""
+    new "今天所有人都是赢家."
 
