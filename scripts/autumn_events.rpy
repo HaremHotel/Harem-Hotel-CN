@@ -6291,7 +6291,7 @@ translate schinese gaius_tree_talk_7f8cc93b:
 translate schinese gaius_tree_talk_fb6f4a82:
 
     # "After a full rest, you awake still in the air with a few hours left until you land.\nYou notice Autumn - who appears to have been awake for some time now - fiddling her hands with an anxious look on her face."
-    "经过充分休息后,你醒来了,发现自己还在天上,离着陆还有几个小时.\n你注意到秋天似乎已经醒了一段时间,她摆弄着双手,脸上露出焦虑的表情."
+    "经过充分休息后,你醒来了,发现自己还在天上,离着陆还有几个小时.\n你注意到秋似乎已经醒了一段时间,她摆弄着双手,脸上露出焦虑的表情."
 
 # game/scripts/autumn_events.rpy:1535
 translate schinese gaius_tree_talk_0df5a7c1:
@@ -9471,7 +9471,7 @@ translate schinese aut_lore_e84f8c6a:
 translate schinese aut_lore_4b21944c:
 
     # c "Autumn wants to learn more about elves. I thought you might have some insight."
-    c "秋天想更多地了解精灵.我想你可能会有些见解."
+    c "秋想更多地了解精灵.我想你可能会有些见解."
 
 # game/scripts/autumn_events.rpy:2272
 translate schinese aut_lore_0a982186:
@@ -16755,7 +16755,7 @@ translate schinese aut_oldhouse_eab4d95a:
 translate schinese aut_oldhouse_b7745d2e:
 
     # gran "Now me, I don't like all of that smog and sickness, I prefer to stay where the air is fresh and the ground is fertile, but we all have our happy places, and I knew it was time for Autumn to move on just like her mother did all those years ago."
-    gran "至于我,我不喜欢那里的雾霾和疾病,我更喜欢呆在空气清新,土地肥沃的地方,但我们每个人都有自己获得快乐的地方,我知道是时候让秋天像她母亲多年前那样继续前进了."
+    gran "至于我,我不喜欢那里的雾霾和疾病,我更喜欢呆在空气清新,土地肥沃的地方,但我们每个人都有自己获得快乐的地方,我知道是时候让秋像她母亲多年前那样继续前进了."
 
 # game/scripts/autumn_events.rpy:4396
 translate schinese aut_oldhouse_aa0cbaaa:
@@ -34759,13 +34759,13 @@ translate schinese aut_dare_26f55a99:
 translate schinese aut_dare_fdd408d7:
 
     # au "What do you know about Gaianists harvesting elvish organs?"
-    au "你知道盖乌斯教教徒们摘取了多少精灵的器官吗?"
+    au "你知道盖乌斯教的教徒们摘取了多少精灵的器官吗?"
 
 # game/scripts/autumn_events.rpy:109
 translate schinese aut_dare_e721f1be:
 
     # deli "Mind your tone, Autumn! You're a saint, and you're speaking to an Elder!"
-    deli "注意你的语气,秋!你是圣徒,你在和长老说话!"
+    deli "注意你的语气,秋!你是圣徒,你是在和长老说话!"
 
 # game/scripts/autumn_events.rpy:110
 translate schinese aut_dare_4ab498c4:
@@ -34777,7 +34777,7 @@ translate schinese aut_dare_4ab498c4:
 translate schinese aut_dare_7ef80a8f:
 
     # deli "SILENCE INITIATE! I MADE YOU SAINT, I CAN VERY WELL STRIP YOU OF THAT TITLE!"
-    deli "{b}肃静,门徒!是我让你成为圣徒,我也完全可以剥夺你的称号!{/b}"
+    deli "{b}肃静,门徒!是我让你成为圣徒的,我也完全可以剥夺你的称号!{/b}"
 
 # game/scripts/autumn_events.rpy:113
 translate schinese aut_dare_4e49a826:
@@ -34867,7 +34867,7 @@ translate schinese aut_dare_e020675b:
 translate schinese aut_dare_5d428902:
 
     # deli "-SHUT UP! You have work to do, and questioning your god will do NO ONE any good. YOU. KNOW. NOTHING!"
-    deli "{b}-闭嘴!{/b}你还有事情要做,质疑你的神对谁都{b}没有{/b}好处.{b}你.一.无.所.知{/b}"
+    deli "{b}-闭嘴!{/b}你还有事情要做,质疑你的神对谁都{b}没有{/b}好处.{b}你.一.无.所.知.{/b}"
 
 # game/scripts/autumn_events.rpy:134
 translate schinese aut_dare_f153aa4f:
@@ -34897,7 +34897,7 @@ translate schinese aut_dare_7384cf89:
 translate schinese aut_dare_d603ae44:
 
     # abby "Listen... he could live to be over 200 years old with the work that we're doing. We're saving lives! We're improving humanity! It's still in the early stages, but..."
-    abby "听着......通过我们的工作,他可以活到两百多谁.我们在拯救生命!我们在改善人道!虽然还处于早期阶段,但是......"
+    abby "听着......通过我们的工作,他可以活到两百多岁.我们在拯救生命!我们在改善人道!虽然还处于早期阶段,但是......"
 
 # game/scripts/autumn_events.rpy:141
 translate schinese aut_dare_7d90e3a5:
@@ -35071,7 +35071,7 @@ translate schinese aut_dare_0676da27:
 translate schinese aut_dare_bce357e0:
 
     # chancellor "Autumn, lower your voice. Please! Don't you know where you are!?"
-    chancellor "秋天,小点声.求你了!你不知道你在哪儿吗?"
+    chancellor "秋,小点声.求你了!你不知道你在哪儿吗?"
 
 # game/scripts/autumn_events.rpy:179
 translate schinese aut_dare_3bf939d7:
@@ -35437,7 +35437,7 @@ translate schinese aut_dare_1f65bc02:
 translate schinese aut_dare_fcfd3767:
 
     # arbiter "No matter how you look at it... I am more elf than man."
-    arbiter "无论你怎么看......比起人类,我比更像是精灵."
+    arbiter "无论你怎么看......比起人类,我更像是精灵."
 
 # game/scripts/autumn_events.rpy:254
 translate schinese aut_dare_3c370766:
@@ -35455,7 +35455,7 @@ translate schinese aut_dare_b21ac05f:
 translate schinese aut_dare_64b99fd7:
 
     # arbiter "Elvish blood flows through these veins, Autumn. Cancer no longer has effect upon me. My sight; better than even yours..."
-    arbiter "我的血管里流淌着精灵的血液,秋天.癌症对我不再有影响,我的视力甚至比你更好......"
+    arbiter "我的血管里流淌着精灵的血液,秋.癌症对我不再有影响,我的视力甚至比你更好......"
 
 # game/scripts/autumn_events.rpy:257
 translate schinese aut_dare_92c2769c:
@@ -35587,7 +35587,7 @@ translate schinese aut_dare_17369ec7:
 translate schinese aut_dare_1cafaebb:
 
     # au "I quit!"
-    au "我要退教!"
+    au "我不干了!"
 
 # game/scripts/autumn_events.rpy:289
 translate schinese aut_dare_42ca0f68_1:
@@ -35623,7 +35623,7 @@ translate schinese aut_dare_4e6d2cae:
 translate schinese aut_dare_66b5d5a6:
 
     # au "I QUIT!!"
-    au "{b}我要退教!!{/b}"
+    au "{b}我不干了!!{/b}"
 
 # game/scripts/autumn_events.rpy:296
 translate schinese aut_dare_0821d3ad:
@@ -35695,7 +35695,7 @@ translate schinese aut_dare_8f79e945:
 translate schinese aut_dare_a92086aa:
 
     # arbiter "Do you believe now, Autumn? Nngh... This is but a taste of His power."
-    arbiter "你现在相信了吗,秋天?呃......这不过是祂的力量的一部分."
+    arbiter "你现在相信了吗,秋?呃......这不过是祂的力量的一部分."
 
 # game/scripts/autumn_events.rpy:319
 translate schinese aut_dare_0d7d674f:
@@ -35719,7 +35719,7 @@ translate schinese aut_dare_a9933c3d:
 translate schinese aut_dare_c0c82b3a:
 
     # arbiter "*cough, cough*! Nnngh...!\nI am trying to help... ALL OF US. More often than not, great deeds come at great cost."
-    arbiter "*咳嗽,咳嗽*!呃......!\n我在努力帮助......{b}我们所有人{/b}大多数时候,伟大的行为需要付出巨大的代价."
+    arbiter "*咳嗽,咳嗽*!呃......!\n我在努力帮助......{b}我们所有人.{/b}大多数时候,伟大的行为需要付出巨大的代价."
 
 # game/scripts/autumn_events.rpy:325
 translate schinese aut_dare_42fefb53:
@@ -35827,7 +35827,7 @@ translate schinese aut_dare_915f887b:
 translate schinese aut_dare_b8a6aecd:
 
     # au "You. Do not. Control me."
-    au "你.不.能.控.制.我."
+    au "你.无.法.控.制.我."
 
 # game/scripts/autumn_events.rpy:361
 translate schinese aut_dare_b34e13a6:

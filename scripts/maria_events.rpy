@@ -45876,7 +45876,7 @@ translate schinese mar_roofdate_fece65d1:
 translate schinese mar_roofdate_8b5b66a9:
 
     # host "That's okay, we have some seating available at the bar for you. Is that fine?"
-    host "没关系,我们吧台还有几把椅子没人做.可以吗?"
+    host "没关系,我们吧台还有几把椅子没人坐.可以吗?"
 
 # game/scripts/maria_events.rpy:44
 translate schinese mar_roofdate_c48dc32f_1:
@@ -45918,7 +45918,7 @@ translate schinese mar_roofdate_f08067fe:
 translate schinese mar_roofdate_a9979b06:
 
     # host "Here you are. Enjoy!"
-    host "这是你们的酒水.请慢用!"
+    host "就是这里.请好好享受吧!"
 
 # game/scripts/maria_events.rpy:53
 translate schinese mar_roofdate_40c25a62:
@@ -45960,7 +45960,7 @@ translate schinese mar_roofdate_de39a651:
 translate schinese mar_roofdate_bb30fddf:
 
     # c "Hold on, were you looking?"
-    c "等等,那你也在看?"
+    c "等等,所以你在看?"
 
 # game/scripts/maria_events.rpy:64
 translate schinese mar_roofdate_4223cc0d:
@@ -46164,7 +46164,7 @@ translate schinese mar_roofdate_98cf6b15:
 translate schinese mar_roofdate_0aef2173:
 
     # m "...*sigh*.\nLiving two lives sounds exciting, until you actually have to..."
-    m "......*叹气*.\n同时过两种生活听起来很令人兴奋,知道你真的不得不去过两种生活......"
+    m "......*叹气*.\n同时过两种生活听起来很令人兴奋,直到你真的不得不去过两种生活......"
 
 # game/scripts/maria_events.rpy:108
 translate schinese mar_roofdate_072471a3:
@@ -46806,7 +46806,7 @@ translate schinese mar_roofdate_97c406a9:
 translate schinese mar_roofdate_e2e4f5c0:
 
     # c "You don't know when to quit, do you?"
-    c "你就说不知道见好就收,是吧?"
+    c "你就是不知道见好就收,是吧?"
 
 # game/scripts/maria_events.rpy:283
 translate schinese mar_roofdate_6c092da4:
@@ -47034,7 +47034,7 @@ translate schinese mar_roofdate_f9ba03aa:
 translate schinese mar_roofdate_7e2ed116:
 
     # m "...{w=1}You with me?"
-    m "......{w=1}我们一起?"
+    m "......{w=1}我们上?"
 
 # game/scripts/maria_events.rpy:342
 translate schinese mar_roofdate_c02b2861:

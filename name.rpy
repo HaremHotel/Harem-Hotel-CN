@@ -403,3 +403,6 @@ translate schinese strings:
 
     old "Hostess"
     new "女主人"
+
+    old "Big Man"
+    new "大家伙"

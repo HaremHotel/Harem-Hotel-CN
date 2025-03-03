@@ -29193,7 +29193,7 @@ translate schinese kate8_de3a51c1:
 translate schinese kate8_2e9f4953:
 
     # a "I don't get it... I'd trade you in a heartbeat if I could."
-    a "我不理解......如果我可以的话,我会立刻和你交換的."
+    a "我不理解......如果我可以的话,我会立刻和你交换的."
 
 # game/scripts/side_char_events.rpy:7994
 translate schinese kate8_dcf02c96:
@@ -29457,7 +29457,7 @@ translate schinese kate7_d0ae06d2:
 translate schinese kate7_428f44a6:
 
     # kate "Yes! Ice feathers are a type of hoarfrost, which typically form on vertical tree branches in wild angles. It almost gives off the appearance of a bird's wing, thus the name."
-    kate "是的!雾凇是一种霜,通常形成在垂直的枝条上,以一种狂野的角度生长.它看起来很像鸟的翅膀,因此得名.(实际上就是雾凇)"
+    kate "是的!冰羽是一种霜,通常形成在垂直的枝条上,以一种狂野的角度生长.它看起来很像鸟的翅膀,因此得名.(实际上就是雾凇)"
 
 # game/scripts/side_char_events.rpy:8060
 translate schinese kate7_5bf246e2:
@@ -29565,7 +29565,7 @@ translate schinese kate7_6c962fd2:
 translate schinese kate7_7a63fccb:
 
     # kate "More people should really switch to tea. I had a cousin who died years ago from drinking nothing but energy drinks. He only had two to three cans a day, but it was enough to kill him after just a few years. They should really put warning labels on those things..."
-    kate "应该让更多的人都来喝茶.我有一个堂兄,几年前因为只喝能量饮料死了.他每天只喝两三罐,但是喝了几年的量足以杀死他.他们应该在这些东西上贴上警告的......(这不是开玩笑,大量饮用能量饮料可能会导致胰腺炎)"
+    kate "应该让更多的人都来喝茶.我有一个堂兄,几年前因为只喝能量饮料死了.他每天只喝两三罐,但是喝了几年的量足以杀死他.他们应该在这些东西上贴上警告的......"
 
 # game/scripts/side_char_events.rpy:8092
 translate schinese kate7_cce044ad:
@@ -39939,7 +39939,7 @@ translate schinese vanessa5_a3679089:
 translate schinese vanessa5_291771f6:
 
     # van "I see. This country has a bad reputation for not prioritizing the health of its citizens. Profits over people, as they prove time and time again."
-    van "我懂了.这个国家因为没有优先考虑到民众的健康安全而臭名昭著.利润高于人们,他们一次又一次地证明了这一点."
+    van "我懂了.这个国家因为没有优先考虑到民众的健康安全而臭名昭著.利润高于人民,他们一次又一次地证明了这一点."
 
 # game/scripts/side_char_events.rpy:10912
 translate schinese vanessa5_70e7b8aa:
@@ -39957,7 +39957,7 @@ translate schinese vanessa5_359960e5:
 translate schinese vanessa5_a98bf1ed:
 
     # van "I agree. Throughout history we can see that power is rarely given to those without wealth, influence, or religious power. There are very few examples in history to pull from where a nation's people held the power regardless of status. Is this something you think could work?"
-    van "我同意.纵观历史,我们可以看到,权力很少被赋予那些没有财富,影响力或者教权的人.历史上很少有例子是一个国家无论其人民地位如何,权力都由人民掌控着.你觉得这可行吗?"
+    van "我同意.纵观历史,我们可以看到,权力很少被赋予那些没有财富,影响力或者宗教权力的人.历史上很少有一个国家的人民不分地位高低而掌握权力的例子.你觉得这可行吗?"
 
 # game/scripts/side_char_events.rpy:10915
 translate schinese vanessa5_bdc648aa:
@@ -39981,7 +39981,7 @@ translate schinese vanessa5_638f821d:
 translate schinese vanessa5_d00aa086:
 
     # van "I'd like to agree with you, but unfortunately some do see people as resources."
-    van "我很想同意你,但是很不幸的是,有些人确实把它看成是一种资产."
+    van "我很赞同你的观点,但是很不幸的是,有些人确实把人当成了一种资源."
 
 # game/scripts/side_char_events.rpy:10919
 translate schinese vanessa5_96bf08b2:
@@ -39993,7 +39993,7 @@ translate schinese vanessa5_96bf08b2:
 translate schinese vanessa5_7baf82ca:
 
     # nia "Hypothetically speaking."
-    nia "假设."
+    nia "只是假设."
 
 # game/scripts/side_char_events.rpy:10922
 translate schinese vanessa5_ab4b5210:
@@ -40035,7 +40035,7 @@ translate schinese vanessa5_811ccc51:
 translate schinese vanessa5_007f841c:
 
     # nia "We beat them."
-    nia "我们狠狠的打他们."
+    nia "我们狠狠地打他们."
 
 # game/scripts/side_char_events.rpy:10931
 translate schinese vanessa5_e2cd2476:
@@ -42033,7 +42033,7 @@ translate schinese vanessa4_cont_45476a66:
 translate schinese vanessa4_cont_7428c74e:
 
     # van "I mean, I don't want to get in the way of you and Kali, but from what I understand... you don't really tie yourself down like that, do you?"
-    van "我的意思是,我不想再你和凯莉之间横插一脚,但据我所知......你们并不怎么束缚自己,对吧?"
+    van "我的意思是,我不想在你和凯莉之间横插一脚,但据我所知......你们并不怎么束缚自己,对吧?"
 
 # game/scripts/side_char_events.rpy:11484
 translate schinese vanessa4_cont_865cc1b8:
@@ -42357,7 +42357,7 @@ translate schinese vanessa3_8458eaff:
 translate schinese vanessa3_16958238:
 
     # van "I was thinking we could go on a bit of a date! Well, we'll see how it turns out, but yeah! Let's spend some time together."
-    van "我想我们可以去约会一下!好吧,我们会看看情况如何的,但是我们确实得约会一下了!我们在一起待一会吧."
+    van "我想我们可以去约个会!好吧,得看看情况会怎么发展,但没错!让我们一起度过一段美好时光吧."
 
 # game/scripts/side_char_events.rpy:11584
 translate schinese vanessa3_3ee54bc7:
@@ -42417,7 +42417,7 @@ translate schinese vanessa3cont_a820100d:
 translate schinese vanessa3cont_b111669c:
 
     # van "I mean, what could be {i}more{/i} romantic than trying to change the world together! I don't know... I thought it could be fun."
-    van "我觉得,还有什么能比一起改变世界{i}更{/i}浪漫的呢?我不知道......我觉得这会很有趣的."
+    van "我觉得,还有什么能比一起改变世界{i}更{/i}浪漫的呢?我不知道......我只是觉得这会很有趣."
 
 # game/scripts/side_char_events.rpy:11603
 translate schinese vanessa3cont_65e3afc6:
@@ -42429,7 +42429,7 @@ translate schinese vanessa3cont_65e3afc6:
 translate schinese vanessa3cont_9dcc6eed:
 
     # van "You don't mind, right? I can take you back home if you want."
-    van "你不介意吧?如果你想要的话我可以带你回家."
+    van "你不介意吧?如果你想的话我可以带你回家."
 
 # game/scripts/side_char_events.rpy:11605
 translate schinese vanessa3cont_2d56cfb6:
@@ -42465,7 +42465,7 @@ translate schinese vanessa3cont_42a4202b:
 translate schinese vanessa3cont_4072f686:
 
     # c "What did you get me in to..."
-    c "为什么你要把我扯进来......"
+    c "你都把我扯进什么来了......"
 
 # game/scripts/side_char_events.rpy:11613
 translate schinese vanessa3cont_bf32bdae:
@@ -42489,7 +42489,7 @@ translate schinese vanessa3cont_8a657149:
 translate schinese vanessa3cont_d80594d2:
 
     # van "We're protesting a public hanging of an elf last week for laundering $10,000,000 without a trial."
-    van "我们抗议上周有个精灵因为洗钱10,000,000$未经审判就被公开绞死."
+    van "我们正在抗议上周未经审判就因洗钱10,000,000$而被公开处决的一名精灵."
 
 # game/scripts/side_char_events.rpy:11618
 translate schinese vanessa3cont_0a46b5b6:
@@ -42501,7 +42501,7 @@ translate schinese vanessa3cont_0a46b5b6:
 translate schinese vanessa3cont_dc7e78e2:
 
     # van "That's the first question any sane person should be asking! Instead it's all {i}'What evil deed were they plotting with all that money'{/i} or some bullshit."
-    van "这是任何理智的人第一个会问的问题!然而,他们只会说{i}'他们用了这么多钱策划了什么什么恶行'{/i}之类的屁话."
+    van "这是任何正常人都应该问的第一个问题!而不是{i}'他们用那些钱在密谋什么坏事'{/i}之类的屁话."
 
 # game/scripts/side_char_events.rpy:11620
 translate schinese vanessa3cont_2b5073f6:
@@ -42519,13 +42519,13 @@ translate schinese vanessa3cont_0fd94ce7:
 translate schinese vanessa3cont_668ceeb8:
 
     # van "That was until the emails were leaked! The company was caught red handed planning a very detailed fabrication. But here's the kicker... there was still no trial! The people who laundered $10,000,000 are still out there, unpunished!"
-    van "直到那条电子邮件被泄露出来!那个公司被当场抓到正在进行一次非常详细的捏造活动.但关键是......依然没有审判!那个洗了10,000,000$的人依然在逍遥法外!"
+    van "直到那条电子邮件被泄露出来!那个公司被当场抓获,他们策划了一次非常详细的捏造活动.但问题是......依然没有审判!那个洗了10,000,000$的人依然在逍遥法外,没有受到任何惩罚!"
 
 # game/scripts/side_char_events.rpy:11624
 translate schinese vanessa3cont_37a7866d:
 
     # van "That's why we're all here, to tell them they can't get away with this. That there will be no peace without justice!"
-    van "这就是为什么我们来到了这里,我们要告诉他们他们是没法逃脱惩罚的.没有正义就没有和平!"
+    van "这就是为什么我们来到了这里,我们要告诉他们,他们是没法逃脱惩罚的.没有正义就没有和平!"
 
 # game/scripts/side_char_events.rpy:11626
 translate schinese vanessa3cont_67b3d7ed:
@@ -51657,13 +51657,13 @@ translate schinese ellen_fshow_f728158c:
 translate schinese ellen_fshow_b6d4d284:
 
     # e "That's right. [name] will be the judge, of course. So pick something to truly wow him."
-    e "没错.当然,裁判是[name].所以,挑点可以真正让他惊叹的东西吧."
+    e "没错.当然,裁判是[name].所以,挑点真正可以让他惊叹的东西吧."
 
 # game/scripts/side_char_events.rpy:7127
 translate schinese ellen_fshow_474a1598:
 
     # l "I will need someone to go with me..."
-    l "我得有人和我一起出去......"
+    l "我得有人和我一起去......"
 
 # game/scripts/side_char_events.rpy:7128
 translate schinese ellen_fshow_d41749b6:
@@ -51753,7 +51753,7 @@ translate schinese ellen_fshow_191870bf:
 translate schinese ellen_fshow_e97432ce:
 
     # e "The girls have a little surprise for you. It's a fashion show! And you're the judge."
-    e "姑娘们要给你一个小惊喜.这是一场时装秀!而你是评委."
+    e "姑娘们要给你一个小惊喜.一场时装秀!而你是评委."
 
 # game/scripts/side_char_events.rpy:7149
 translate schinese ellen_fshow_17164397:
@@ -51825,7 +51825,7 @@ translate schinese ellen_fshow_ee97caf6:
 translate schinese ellen_fshow_225d06b4:
 
     # e "All judgements will be made at the end of the show!"
-    e "评选将在全部展出结束后进行!"
+    e "评选将在展出全部结束后进行!"
 
 # game/scripts/side_char_events.rpy:7170
 translate schinese ellen_fshow_70569e30:
@@ -51872,8 +51872,7 @@ translate schinese ellen_fshow_0cf7660a:
 # game/scripts/side_char_events.rpy:7184
 translate schinese ellen_fshow_9d04221d:
 
-    # e "This one says, {i}'Out with the old, in with the new!'{/i} A stellar example of pure beauty!"
-    e "就像在说,{i}'就对不起,新的不来!'{/i},是纯美的典范!"
+    # e "This one says, {i}'Out with the old, in with the new!'{/i} A stellar example of pure beauty!"旧的不去就对不起,新的不来!'{/i},是纯美的典范!"
 
 # game/scripts/side_char_events.rpy:7187
 translate schinese ellen_fshow_6493ea32:
@@ -51993,7 +51992,7 @@ translate schinese ellen_fshow_771356a3:
 translate schinese ellen_fshow_a32b7443:
 
     # a "LOOK AT ME!"
-    a "{b}看看我!{/b}"
+    a "{b}看着我!{/b}"
 
 # game/scripts/side_char_events.rpy:7228
 translate schinese ellen_fshow_3979b02a:
@@ -52203,7 +52202,7 @@ translate schinese ellen_fshow_f31506d7:
 translate schinese ellen_fshow_2aee0ac0:
 
     # k "Does that mean we all get pizza? Hell yeah."
-    k "这是不是意味着我们都能有披萨?太他妈帮了."
+    k "这是不是意味着我们都能有披萨?太他妈棒了."
 
 # game/scripts/side_char_events.rpy:7290
 translate schinese ellen_fshow_b8254305:
@@ -52359,7 +52358,7 @@ translate schinese lucy_sigma_596aac0b:
 translate schinese lucy_sigma_3a6a75f2:
 
     # lu "Well he invited me on the first episode, but I didn't think it was actually going to go anywhere. Look!"
-    lu "嗯,他邀请我参加了第一集,但我不觉得那会有什么进展.看!"
+    lu "嗯,他邀请我参加了第一集,但我不觉得那会有什么进展就拒绝了.看!"
 
 # game/scripts/side_char_events.rpy:7856
 translate schinese lucy_sigma_da9cbe1a:
@@ -52383,7 +52382,7 @@ translate schinese lucy_sigma_cb2a8bcd:
 translate schinese lucy_sigma_7f2586c4:
 
     # jor "WHAT'S UP! Welcome back to the Sigma Signal, where the weak get filtered out and only the strongest minds survive. We don't just motivate, we dominate."
-    jor "{b}大家好!{/b}欢迎回到西格玛信号,在这里,弱者会被过滤掉,只有最强的头脑才能生存下来.我们不只是激励,我们更是主导."
+    jor "{b}大家好!{/b}欢迎回到西格玛信号,在这里,弱者会被过滤掉,只有最强的心智才能生存下来.我们不只是激励,我们更是主导."
 
 # game/scripts/side_char_events.rpy:7862
 translate schinese lucy_sigma_8c93a441:
@@ -52467,7 +52466,7 @@ translate schinese lucy_sigma_9a8e40cd:
 translate schinese lucy_sigma_57529158:
 
     # jor "These glasses? $10k."
-    jor "那些玻璃杯?10,000$."
+    jor "这副眼镜?10,000$."
 
 # game/scripts/side_char_events.rpy:7883
 translate schinese lucy_sigma_0b3543f1:
@@ -52545,7 +52544,7 @@ translate schinese lucy_sigma_a20dd581:
 translate schinese lucy_sigma_b26d8f46:
 
     # jor "I did not rape her. It was consensual."
-    jor "我每月强奸她.我们是自愿的."
+    jor "我没有强奸她.我们是自愿的."
 
 # game/scripts/side_char_events.rpy:7904
 translate schinese lucy_sigma_65d5ef41:
@@ -52599,7 +52598,7 @@ translate schinese lucy_sigma_4ed80fc2:
 translate schinese lucy_sigma_2c9b770c:
 
     # jor "LISTEN. Females are weak, they're easy. If you want a challenge, try fucking a dude who thinks they're a chick. THAT'S hard."
-    jor "{b}听着.{/b}雌性很弱,很容易上手.如果你想挑战,试试和一个自以为是小妞的男人上床.{b}那{/b}才叫难."
+    jor "{b}听着.{/b}雌性很弱,很容易上手.如果你想挑战,试试和一个觉得自己是个小妞的男人上床.{b}那{/b}才叫难."
 
 # game/scripts/side_char_events.rpy:7918
 translate schinese lucy_sigma_5fda6f37:
@@ -52713,7 +52712,7 @@ translate schinese lucy_sigma_5e631982:
 translate schinese lucy_sigma_c6e9e93a:
 
     # jor "Moving on!\nWe'd like to introduce you to our sponsor."
-    jor "我们继续!\n我们要像你们介绍我们的赞助商."
+    jor "我们继续!\n我们要向你们介绍我们的赞助商."
 
 # game/scripts/side_char_events.rpy:7946
 translate schinese lucy_sigma_b800b0c6:
@@ -52737,7 +52736,7 @@ translate schinese lucy_sigma_a947051b:
 translate schinese lucy_sigma_e023c9f1:
 
     # jor "Moving on.\nWe're starting a new segment of the show where we answer calls from our most loyal watchers. We'll answer any questions you have and help you become the man you were destined to be."
-    jor "我们继续.\n我们将开始一个新的节目环节,回答最忠实观众的来电.我们将回答你的任何问题,助你沉稳给命中注定的男人."
+    jor "我们继续.\n我们将开始一个新的节目环节,回答最忠实观众的来电.我们将回答你的任何问题,助你成为命中注定的男人."
 
 # game/scripts/side_char_events.rpy:7953
 translate schinese lucy_sigma_f621fa8c:
@@ -52821,7 +52820,7 @@ translate schinese lucy_sigma_7d87a11d:
 translate schinese lucy_sigma_029f6bca:
 
     # jor "Don't call if you're under 18, that is a legal liability. This podcast is for adults only."
-    jor "如果你未满18,请勿不打电话,这是法律规定的.本播客仅供成年人收听."
+    jor "如果你未满18,请勿拨打电话,这是法律规定的.本播客仅供成年人收听."
 
 # game/scripts/side_char_events.rpy:7970
 translate schinese lucy_sigma_1be92634:
@@ -52839,7 +52838,7 @@ translate schinese lucy_sigma_bed92584:
 translate schinese lucy_sigma_82ca1415:
 
     # jor "You sound like a kid. What the fuck is going on?"
-    jor "你听起来像个孩子.这他妈发生什么事情了?"
+    jor "你听起来就像个孩子.这他妈发生什么事情了?"
 
 # game/scripts/side_char_events.rpy:7973
 translate schinese lucy_sigma_a628ab7a:
@@ -52935,13 +52934,13 @@ translate schinese lucy_sigma_d04e6746:
 translate schinese lucy_sigma_ede32f47:
 
     # jor "I don't beat women, that was a lie started by bitches like you to take me down! Though I easily could if I wanted to."
-    jor "我不打女人,那双像你这样的贱人为了打到我而编造的谎言!不过,如果我想的话,我还是能轻易做到的."
+    jor "我不打女人,那是像你这样的贱人为了打倒我而编造的谎言!不过,如果我想的话,我还是能轻易做到的."
 
 # game/scripts/side_char_events.rpy:7993
 translate schinese lucy_sigma_4b11f2ec:
 
     # van "Wow, I think that was the first time I've ever heard you say the word 'woman'. You've really expanded your vocabulary!"
-    van "哇哦,这是我第一次听到你说'女人"这个词.你的词汇量可真大!
+    van "哇哦,这是我第一次听到你说'女人'这个词.你的词汇量可真多!"
 
 # game/scripts/side_char_events.rpy:7995
 translate schinese lucy_sigma_91d7180b:
@@ -52953,7 +52952,7 @@ translate schinese lucy_sigma_91d7180b:
 translate schinese lucy_sigma_fcf678d6:
 
     # jor "Instead of getting on their knees and sucking your cock on request, they talk back! They've become whores in our modern society!"
-    jor "她们不会按照你的要求跪下来给你口角,而是顶嘴!在我们的现代社会,她们早就成为妓女了!"
+    jor "她们不会按照你的要求跪下来给你口交,而是顶嘴!在我们的现代社会,她们早就成为妓女了!"
 
 # game/scripts/side_char_events.rpy:7998
 translate schinese lucy_sigma_0788946a:
@@ -53025,7 +53024,7 @@ translate schinese lucy_sigma_492eb227:
 translate schinese lucy_sigma_2640f11e:
 
     # jor "I don't cry. Men never cry. To cry is to act, and I don't believe in acting."
-    jor "我没哭.男人从不会哭.哭是再演戏,而我不相信演戏."
+    jor "我没哭.男人从不会哭.哭是在表演,而我不相信表演."
 
 # game/scripts/side_char_events.rpy:8015
 translate schinese lucy_sigma_a1ea6a61:
@@ -53043,7 +53042,7 @@ translate schinese lucy_sigma_eaa15c88:
 translate schinese lucy_sigma_8c2b7b73:
 
     # jor "*ahem*...\nBe the man you were destined to be. Stop being a beta bitch today. Buy our course now."
-    jor "*咳嗽*......\n成为你注定中的男人.从今天开始,别再做个弱鸡娘娘腔.现在就买我们的课程."
+    jor "*咳嗽*......\n成为你命中注定的男人.从今天开始,别再做个弱鸡娘娘腔.现在就买我们的课程."
 
 # game/scripts/side_char_events.rpy:8020
 translate schinese lucy_sigma_bb49d87e:

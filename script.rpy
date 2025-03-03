@@ -102130,10 +102130,6 @@ translate schinese strings:
     old "Dante, the Flagellant"
     new "苦修者但丁"
 
-    # game/script.rpy:210
-    old "Big Man"
-    new "大人物"
-
     # game/script.rpy:738
     old "{color=#8C8C8C}Set Felicity & Emma as the alarm{/color}"
     new "{color=#8C8C8C}将菲丽希蒂和艾玛设为闹钟{/color}"
