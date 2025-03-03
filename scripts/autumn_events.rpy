@@ -5337,7 +5337,7 @@ translate schinese aut_capcafe_talk_83de29d6:
 translate schinese aut_capcafe_talk_17d000a7:
 
     # au "The crystals are too, yeah. Those pink ones remind me of the kind on the pope's ring, but I've never noticed that these glowed before."
-    au "是的,水晶也是.那些粉红色的水晶让我想起了教皇戒指上的那种,但我以前从没注意到那些水晶会发光."
+    au "是的,水晶也是.那些粉色水晶让我想起了教皇戒指上的那种,但我以前从没注意到那些水晶会发光."
 
 # game/scripts/autumn_events.rpy:1315
 translate schinese aut_capcafe_talk_0ec49606:
@@ -5841,7 +5841,7 @@ translate schinese gaius_tree_talk_9e6cdfdd:
 translate schinese gaius_tree_talk_e226c492:
 
     # q "There was once a time when your people called us Cherubim, but now I am only known as Liberty, Paragon of Freedom."
-    q "曾几何时,你们的人民称呼我们为智天使,但是现在我只被称为,自由圣者."
+    q "曾几何时,你们的人民称呼我们为智天使,但是现在我被称为,解放,自由圣者."
 
 # game/scripts/autumn_events.rpy:1440
 translate schinese gaius_tree_talk_2271edf0:
@@ -6441,7 +6441,7 @@ translate schinese gaius_tree_talk_9dc6374c:
 translate schinese gaius_tree_talk_be1430ab:
 
     # au "Liberty, the Paragon of Freedom."
-    au "自由,自由圣者."
+    au "解放,自由圣者."
 
 # game/scripts/autumn_events.rpy:1567
 translate schinese gaius_tree_talk_3128c0ef:
@@ -34579,1733 +34579,1733 @@ translate schinese autumn_save_0a15424c:
 translate schinese aut_sleep_event_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*敲敲敲*"
 
 # game/scripts/autumn_events.rpy:7
 translate schinese aut_sleep_event_78b8fe47:
 
     # c "Oh. There you are."
-    c ""
+    c "噢,是你啊."
 
 # game/scripts/autumn_events.rpy:8
 translate schinese aut_sleep_event_6e4b1004:
 
     # au "Hi [name]..."
-    au ""
+    au "你好,[name]......"
 
 # game/scripts/autumn_events.rpy:9
 translate schinese aut_sleep_event_3fc15ae0:
 
     # c "Are you okay?"
-    c ""
+    c "你还好吗?"
 
 # game/scripts/autumn_events.rpy:11
 translate schinese aut_sleep_event_1ec768c5:
 
     # au "I've been through a lot today... I almost quit sainthood."
-    au ""
+    au "我今天经历了很多......我都差点要放弃信仰了."
 
 # game/scripts/autumn_events.rpy:12
 translate schinese aut_sleep_event_4f3072eb:
 
     # c "Almost? What happened?"
-    c ""
+    c "差点?发生什么事了?"
 
 # game/scripts/autumn_events.rpy:13
 translate schinese aut_sleep_event_31eba822:
 
     # au "I needed answers after what we found in Old Town. It turns they sacrificed an elf to replace my dad's heart..."
-    au ""
+    au "在发现老城区那些事情之后,我需要一个答案.原来,他们牺牲了一个精灵,来给我爸爸替换心脏."
 
 # game/scripts/autumn_events.rpy:14
 translate schinese aut_sleep_event_297d93f3:
 
     # c "What?"
-    c ""
+    c "什么?"
 
 # game/scripts/autumn_events.rpy:15
 translate schinese aut_sleep_event_87c31500:
 
     # au "He's different now..."
-    au ""
+    au "他现在不一样了....."
 
 # game/scripts/autumn_events.rpy:16
 translate schinese aut_sleep_event_57697c2e:
 
     # c "But you didn't quit after all?"
-    c ""
+    c "但是你最终还是没有放弃?"
 
 # game/scripts/autumn_events.rpy:18
 translate schinese aut_sleep_event_bc3269e8:
 
     # au "No... I plan to go back. There's so much I can't explain, and so much I don't understand..."
-    au ""
+    au "没有......我打算回去.有太多我无法解释的事情,太多我不明白的事情......"
 
 # game/scripts/autumn_events.rpy:19
 translate schinese aut_sleep_event_5b2b8865:
 
     # au "I know Gaius is real, I've seen proof. But the church is corrupt and I'm sure of that now."
-    au ""
+    au "我知道盖乌斯的真实存在的,我见过证据.但教会已经被腐化了,我现在确信无疑."
 
 # game/scripts/autumn_events.rpy:20
 translate schinese aut_sleep_event_092d046d:
 
     # c "You want to go back, even knowing they're corrupt?"
-    c ""
+    c "你想回去,即使你知道他们已经堕落了?"
 
 # game/scripts/autumn_events.rpy:21
 translate schinese aut_sleep_event_5342f5b3:
 
     # au "The church, the bible, it was all made by humans. But Gaius wasn't. Gaius was here a long time before humans. It's him I truly need to understand."
-    au ""
+    au "教会,圣典,这些都是人类创造的产物.但盖乌斯不是,盖乌斯比人类更早来到这里.我真正需要了解的是他."
 
 # game/scripts/autumn_events.rpy:22
 translate schinese aut_sleep_event_6e48b0e1:
 
     # c "Well, okay. If that's what you think is best."
-    c ""
+    c "嗯,好吧.如果你觉得这样最好的话."
 
 # game/scripts/autumn_events.rpy:24
 translate schinese aut_sleep_event_5f157007:
 
     # au "I'm sorry [name], but I have a favor to ask... do you think I could sleep with you tonight?"
-    au ""
+    au "对不起,[name],但我有一个请求......我今晚可以和你一起睡吗?"
 
 # game/scripts/autumn_events.rpy:25
 translate schinese aut_sleep_event_582d4135:
 
     # c "Oh of course, I was just about to go to bed."
-    c ""
+    c "噢,当然了,我刚刚好要上床."
 
 # game/scripts/autumn_events.rpy:27
 translate schinese aut_sleep_event_631185ac:
 
     # au "Perfect... I'm really tired."
-    au ""
+    au "完美......我真的很累了."
 
 # game/scripts/autumn_events.rpy:30
 translate schinese aut_sleep_event_8baac8d8:
 
     # au "Mmmn... I feel so safe with you..."
-    au ""
+    au "嗯......和你在一起,我觉得很安全......"
 
 # game/scripts/autumn_events.rpy:31
 translate schinese aut_sleep_event_4e906917:
 
     # au "Thank you [name]. No matter what happens out there, I know I can always come back."
-    au ""
+    au "谢谢你,[name].无论外面发生什么事情,我知道我总是可以回到这里."
 
 # game/scripts/autumn_events.rpy:32
 translate schinese aut_sleep_event_888e4335:
 
     # au "Good night..."
-    au ""
+    au "晚安......"
 
 # game/scripts/autumn_events.rpy:33
 translate schinese aut_sleep_event_6d06c2fc:
 
     # c "Good night, Autumn."
-    c ""
+    c "晚安,秋."
 
 # game/scripts/autumn_events.rpy:38
 translate schinese aut_sleep_event_90b38547:
 
     # au "Nnnnnm-nnngh! Ahhh..."
-    au ""
+    au "嗯-呃!啊......"
 
 # game/scripts/autumn_events.rpy:40
 translate schinese aut_sleep_event_16bd972d:
 
     # au "Oh, good morning~\nI didn't mean to wake you. Get some more sleep, okay?"
-    au ""
+    au "噢,早上好~\n我不是有意吵醒你的.多睡会,好吗?"
 
 # game/scripts/autumn_events.rpy:66
 translate schinese autumnsleep_77506a9b:
 
     # au "Mmmn~ Good night..."
-    au ""
+    au "嗯~晚安......"
 
 # game/scripts/autumn_events.rpy:67
 translate schinese autumnsleep_6d06c2fc:
 
     # c "Good night, Autumn."
-    c ""
+    c "晚安,秋."
 
 # game/scripts/autumn_events.rpy:70
 translate schinese autumnsleep_90b38547:
 
     # au "Nnnnnm-nnngh! Ahhh..."
-    au ""
+    au "嗯-呃!啊......"
 
 # game/scripts/autumn_events.rpy:72
 translate schinese autumnsleep_16bd972d:
 
     # au "Oh, good morning~\nI didn't mean to wake you. Get some more sleep, okay?"
-    au ""
+    au "噢,早上好~\n我不是有意吵醒你的.多睡会,好吗?"
 
 # game/scripts/autumn_events.rpy:105
 translate schinese aut_dare_74b234b6:
 
     # au "WHAT DO YOU KNOW!?" with ssshake
-    au "" with ssshake
+    au "{b}你都知道些什么!?{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:106
 translate schinese aut_dare_26f55a99:
 
     # abby "Autumn!? What's the issue? Are you okay?"
-    abby ""
+    abby "秋!?发生什么事了?你还好吗?"
 
 # game/scripts/autumn_events.rpy:108
 translate schinese aut_dare_fdd408d7:
 
     # au "What do you know about Gaianists harvesting elvish organs?"
-    au ""
+    au "你知道盖乌斯教教徒们摘取了多少精灵的器官吗?"
 
 # game/scripts/autumn_events.rpy:109
 translate schinese aut_dare_e721f1be:
 
     # deli "Mind your tone, Autumn! You're a saint, and you're speaking to an Elder!"
-    deli ""
+    deli "注意你的语气,秋!你是圣徒,你在和长老说话!"
 
 # game/scripts/autumn_events.rpy:110
 translate schinese aut_dare_4ab498c4:
 
     # au "You WILL answer me! What do you know!?"
-    au ""
+    au "你{b}必须{/b}回答我!你都知道些什么!?"
 
 # game/scripts/autumn_events.rpy:112
 translate schinese aut_dare_7ef80a8f:
 
     # deli "SILENCE INITIATE! I MADE YOU SAINT, I CAN VERY WELL STRIP YOU OF THAT TITLE!"
-    deli ""
+    deli "{b}肃静,门徒!是我让你成为圣徒,我也完全可以剥夺你的称号!{/b}"
 
 # game/scripts/autumn_events.rpy:113
 translate schinese aut_dare_4e49a826:
 
     # au "Over a simple question? Fine! If that's how it is, then I quit!"
-    au ""
+    au "就为了一个简单的问题?好吧!如果是这样,那我不干了!"
 
 # game/scripts/autumn_events.rpy:114
 translate schinese aut_dare_7bbc6589:
 
     # abby "Woah, woah, woah! Let's all calm down, shall we?"
-    abby ""
+    abby "喔,喔,喔!我们冷静点,好吗?"
 
 # game/scripts/autumn_events.rpy:115
 translate schinese aut_dare_645ccb92:
 
     # abby "Let's just take a moment to-"
-    abby ""
+    abby "我们花点时间去-"
 
 # game/scripts/autumn_events.rpy:117
 translate schinese aut_dare_4495eb94:
 
     # au "I want NOTHING to do with a church that would steal organs from slaves! And for what?"
-    au ""
+    au "我不想和一个偷窃奴隶器官的教会有{b}任何{/b}瓜葛!这是为了什么?"
 
 # game/scripts/autumn_events.rpy:118
 translate schinese aut_dare_b9bc4f76:
 
     # deli "Autumn...!"
-    deli ""
+    deli "秋......!"
 
 # game/scripts/autumn_events.rpy:119
 translate schinese aut_dare_adabcf7b:
 
     # au "False promises, lies, greed, envy! Gaius would be SICK if he knew how you all have corrupted the church!"
-    au ""
+    au "信口开河,弄虚作假,利欲熏心,鼠肚鸡肠!如果盖乌斯知道你们是如何败坏教会的,他一定会感到{b}恶心{/b}至极!"
 
 # game/scripts/autumn_events.rpy:120
 translate schinese aut_dare_0786500a:
 
     # deli "Is that so? Tell me then, Autumn! What would he think about SAVING YOUR FATHER'S LIFE!?"
-    deli ""
+    deli "是吗?那告诉我,秋!他对{b}救你父亲的命{/b}会怎么想!?"
 
 # game/scripts/autumn_events.rpy:122
 translate schinese aut_dare_7e1dce0e:
 
     # au "Wh-What?"
-    au ""
+    au "什-什么?"
 
 # game/scripts/autumn_events.rpy:123
 translate schinese aut_dare_cd795058:
 
     # abby "Elder..."
-    abby ""
+    abby "长老......"
 
 # game/scripts/autumn_events.rpy:125
 translate schinese aut_dare_09f94d4f:
 
     # deli "Your very own father had a heart transplant, Autumn! Yes, we sacrificed an elf to save YOUR father! Now you tell me, WAS IT WORTH IT?"
-    deli ""
+    deli "你的亲生父亲做了心脏移植手术,秋!是的,我们献祭了一个精灵来救{b}你{/b}的父亲!现在你告诉我,{b}这值得吗?{/b}"
 
 # game/scripts/autumn_events.rpy:126
 translate schinese aut_dare_e15ad473:
 
     # au "I..."
-    au ""
+    au "我......"
 
 # game/scripts/autumn_events.rpy:127
 translate schinese aut_dare_f7332657:
 
     # deli "He was going to die! Do you hear me? DIE!"
-    deli ""
+    deli "他当时都要死了!你听见我说的了吗?{b}死!{/b}"
 
 # game/scripts/autumn_events.rpy:129
 translate schinese aut_dare_41dc4ead:
 
     # deli "What would you have us do!? Would have let your father die? IS THAT WHAT GAIUS WOULD WANT??"
-    deli ""
+    deli "你会让我们怎么做!?让你父亲去死吗?{b}难道这就是盖乌斯想要的吗?{/b}"
 
 # game/scripts/autumn_events.rpy:130
 translate schinese aut_dare_e020675b:
 
     # au "You-"
-    au ""
+    au "你-"
 
 # game/scripts/autumn_events.rpy:132
 translate schinese aut_dare_5d428902:
 
     # deli "-SHUT UP! You have work to do, and questioning your god will do NO ONE any good. YOU. KNOW. NOTHING!"
-    deli ""
+    deli "{b}-闭嘴!{/b}你还有事情要做,质疑你的神对谁都{b}没有{/b}好处.{b}你.一.无.所.知{/b}"
 
 # game/scripts/autumn_events.rpy:134
 translate schinese aut_dare_f153aa4f:
 
     # au "..."
-    au ""
+    au "......"
 
 # game/scripts/autumn_events.rpy:136
 translate schinese aut_dare_5e697813:
 
     # au "...You knew...?"
-    au ""
+    au "......你之前就知道了......?"
 
 # game/scripts/autumn_events.rpy:137
 translate schinese aut_dare_42e99ce0:
 
     # abby "...Yes, Autumn. Of course I was aware..."
-    abby ""
+    abby "......是的,秋.我当然知道......"
 
 # game/scripts/autumn_events.rpy:139
 translate schinese aut_dare_7384cf89:
 
     # abby "Your father is very important to us, and it's what he wanted."
-    abby ""
+    abby "你父亲对我们来说很重要,而且那也是他想要的."
 
 # game/scripts/autumn_events.rpy:140
 translate schinese aut_dare_d603ae44:
 
     # abby "Listen... he could live to be over 200 years old with the work that we're doing. We're saving lives! We're improving humanity! It's still in the early stages, but..."
-    abby ""
+    abby "听着......通过我们的工作,他可以活到两百多谁.我们在拯救生命!我们在改善人道!虽然还处于早期阶段,但是......"
 
 # game/scripts/autumn_events.rpy:141
 translate schinese aut_dare_7d90e3a5:
 
     # abby "Well, once the technology is sufficient, all of humanity will benefit from our work!"
-    abby ""
+    abby "好吧,一旦技术成熟,全人类都将从我们的工作中受益!"
 
 # game/scripts/autumn_events.rpy:142
 translate schinese aut_dare_bde30107:
 
     # au "...At what cost?"
-    au ""
+    au "......那代价是什么?"
 
 # game/scripts/autumn_events.rpy:143
 translate schinese aut_dare_aceeb802:
 
     # deli "Oh Autumn... do you also mourn the chicken? The cow? Do you weep when we extract milk from its teet!?"
-    deli ""
+    deli "噢,秋......你也为鸡哀悼吗?牛呢?当我们从它的乳头榨取牛奶时,你会哭泣吗?"
 
 # game/scripts/autumn_events.rpy:144
 translate schinese aut_dare_892760ee:
 
     # au "That's not the same! Elves are-"
-    au ""
+    au "那不一样!精灵们是-"
 
 # game/scripts/autumn_events.rpy:145
 translate schinese aut_dare_7459428a:
 
     # deli "-OUR PROPERTY! They are animals, and we will treat them as such. As ordained by GAIUS!"
-    deli ""
+    deli "{b}-我们的财产!{/b}他们是动物,我们要像对待动物一样对待他们.这是{b}盖乌斯{/b}的命令!"
 
 # game/scripts/autumn_events.rpy:147
 translate schinese aut_dare_e9efdade:
 
     # au "...{w}..."
-    au ""
+    au "......{w}......"
 
 # game/scripts/autumn_events.rpy:149
 translate schinese aut_dare_25dab037:
 
     # au "...Where is my father?"
-    au ""
+    au "......我父亲呢?"
 
 # game/scripts/autumn_events.rpy:150
 translate schinese aut_dare_ae3daf21:
 
     # deli "Busy."
-    deli ""
+    deli "在忙."
 
 # game/scripts/autumn_events.rpy:152
 translate schinese aut_dare_90bba95e:
 
     # au "Then I'll get answers myself."
-    au ""
+    au "那我会自己去找到答案."
 
 # game/scripts/autumn_events.rpy:154
 translate schinese aut_dare_f49895cb:
 
     # deli "{size=-5}{i}Damn brat...{/i}{/size}"
-    deli ""
+    deli "{size=-5}{i}乳臭未干的臭小鬼......{/i}{/size}"
 
 # game/scripts/autumn_events.rpy:155
 translate schinese aut_dare_36ff216e:
 
     # deli "CEPHERUS 5:9! WALK AMONGST THE HUNGRY, THE NEEDY, {u}THE DYING{/u}, AND ASK {u}THEM{/u} IF SILKEN BEDS WOULD SOOTHE THEIR SUFFERING!"
-    deli ""
+    deli "{b}塞弗勒斯书5:9!与那饥饿的人,困苦的人,{u}将死的人{/u}同行,问{u}他们{/u},丝绸的床可消解他们的苦难吗!"
 
 # game/scripts/autumn_events.rpy:156
 translate schinese aut_dare_f153aa4f_1:
 
     # au "..."
-    au ""
+    au "......"
 
 # game/scripts/autumn_events.rpy:157
 translate schinese aut_dare_247a5540:
 
     # au "Now you shall carry the flame. Do you feel it's warmth as it's light sustains you? {u}Or do its ashes whisper of another?{/u}"
-    au ""
+    au "现在你将持着火.受它的光照时,你是得暖呢?{u}或是它的灰,低声言语别人呢?{/u}"
 
 # game/scripts/autumn_events.rpy:158
 translate schinese aut_dare_92fc47f5:
 
     # au "...Cepherus 4:13."
-    au ""
+    au "......塞弗勒斯书4:13."
 
 # game/scripts/autumn_events.rpy:160
 translate schinese aut_dare_a20cefa7:
 
     # "..."
-    ""
+    "......"
 
 # game/scripts/autumn_events.rpy:162
 translate schinese aut_dare_0ae22ea7:
 
     # deli "That damn brat is going to be an issue, I just know it."
-    deli ""
+    deli "我就知道,那个该死的臭小鬼肯定是个麻烦."
 
 # game/scripts/autumn_events.rpy:163
 translate schinese aut_dare_78d33ad8:
 
     # abby "But her heart is in the right place, Elder. She's just confused... we've all been there before."
-    abby ""
+    abby "但她的心是好的,长老.她只是困惑......我们都曾经历过这种事情."
 
 # game/scripts/autumn_events.rpy:165
 translate schinese aut_dare_848b97c8:
 
     # "*ring... ring...*"
-    ""
+    "*铃......铃......*"
 
 # game/scripts/autumn_events.rpy:166
 translate schinese aut_dare_257c8ebe:
 
     # au "Father, we need to talk. Where are you?"
-    au ""
+    au "父亲,我们需要谈谈.你在哪?"
 
 # game/scripts/autumn_events.rpy:167
 translate schinese aut_dare_95e1cc73:
 
     # chancellor "Are you okay, dear? I'm driving to a meeting right now-"
-    chancellor ""
+    chancellor "你还好吗,亲爱的?我现在在开车去开会的路上-"
 
 # game/scripts/autumn_events.rpy:168
 translate schinese aut_dare_cdd3367d:
 
     # au "-Where?"
-    au ""
+    au "-在哪?"
 
 # game/scripts/autumn_events.rpy:169
 translate schinese aut_dare_129d71de:
 
     # chancellor "Caliber Castle, but-"
-    chancellor ""
+    chancellor "楷利泊堡,但是-"
 
 # game/scripts/autumn_events.rpy:170
 translate schinese aut_dare_f093b6d5:
 
     # "*beep*"
-    ""
+    "*哔*"
 
 # game/scripts/autumn_events.rpy:171
 translate schinese aut_dare_94d019a6:
 
     # "...{w}..."
-    ""
+    "......{w}......"
 
 # game/scripts/autumn_events.rpy:173
 translate schinese aut_dare_4f0f8bab:
 
     # au "FATHER!"
-    au ""
+    au "{b}父亲!{/b}"
 
 # game/scripts/autumn_events.rpy:174
 translate schinese aut_dare_e0484797:
 
     # chancellor "What? How did you get in here?"
-    chancellor ""
+    chancellor "什么?你怎么进来的?"
 
 # game/scripts/autumn_events.rpy:176
 translate schinese aut_dare_c5b8aa6a:
 
     # au "What did you do!? What do you know!?"
-    au ""
+    au "你都做了些什么!?你都知道些什么!?"
 
 # game/scripts/autumn_events.rpy:177
 translate schinese aut_dare_0676da27:
 
     # au "They're harvesting elves like they're animals! You're supposed to be fighting against that! Tell me what happened!"
-    au ""
+    au "他们把精灵当动物一样收割!你应该反对他们的!告诉我发生了什么!"
 
 # game/scripts/autumn_events.rpy:178
 translate schinese aut_dare_bce357e0:
 
     # chancellor "Autumn, lower your voice. Please! Don't you know where you are!?"
-    chancellor ""
+    chancellor "秋天,小点声.求你了!你不知道你在哪儿吗?"
 
 # game/scripts/autumn_events.rpy:179
 translate schinese aut_dare_3bf939d7:
 
     # au "I don't care, you don't have any right to-!"
-    au ""
+    au "我不管,你无权-!"
 
 # game/scripts/autumn_events.rpy:180
 translate schinese aut_dare_38ede44c:
 
     # q "-Ah. This must be Saint Corpus..."
-    q ""
+    q "-啊.这一定是圣科普斯......"
 
 # game/scripts/autumn_events.rpy:182
 translate schinese aut_dare_1749cdcd:
 
     # au "!!!"
-    au ""
+    au "!!!"
 
 # game/scripts/autumn_events.rpy:183
 translate schinese aut_dare_d6d03290:
 
     # au "G-Grand Arbiter...! I didn't-..."
-    au ""
+    au "大-大仲裁者......!我不是-......"
 
 # game/scripts/autumn_events.rpy:185
 translate schinese aut_dare_2f181745:
 
     # arbiter "...What is the meaning of this... interruption?"
-    arbiter ""
+    arbiter "......这番打断......是有什么事情?"
 
 # game/scripts/autumn_events.rpy:186
 translate schinese aut_dare_40ce48f6:
 
     # "(The Grand Arbiter's voice is worn and labored, as if his tongue was made of stone.)"
-    ""
+    "(大仲裁者的声音疲惫而费力,仿佛他的舌头是石头做的.)"
 
 # game/scripts/autumn_events.rpy:187
 translate schinese aut_dare_5883f1e8:
 
     # chancellor "Forgive her, Grand Arbiter, she often speaks without thinking first..."
-    chancellor ""
+    chancellor "请原谅她,大仲裁者,她经常说话不经大脑."
 
 # game/scripts/autumn_events.rpy:188
 translate schinese aut_dare_8d585573:
 
     # arbiter "Nngh... come closer."
-    arbiter ""
+    arbiter "嗯......靠近点."
 
 # game/scripts/autumn_events.rpy:190
 translate schinese aut_dare_28509e08:
 
     # au "Please forgive me Grand Arbiter, I was unaware you were visiting Syl'anar..."
-    au ""
+    au "请原谅我,大仲裁者,我不知道您来西尔阿纳尔了......"
 
 # game/scripts/autumn_events.rpy:191
 translate schinese aut_dare_bbeccc48:
 
     # au "This is a personal matter, your holiness. Pardon me."
-    au ""
+    au "这是私事,霓下.请您原谅."
 
 # game/scripts/autumn_events.rpy:192
 translate schinese aut_dare_025cea72:
 
     # arbiter "Speak, child, what is so important that you... felt it necessary to interrupt my conversation. I will hear you."
-    arbiter ""
+    arbiter "说吧,孩子,什么事这么重要,让你......觉得有必要打断我的谈话.我会听你说的."
 
 # game/scripts/autumn_events.rpy:193
 translate schinese aut_dare_f91a8520:
 
     # au "...You are very kind, your holiness, but-"
-    au ""
+    au "......霓下,您真是太好了,但是-"
 
 # game/scripts/autumn_events.rpy:195
 translate schinese aut_dare_6c6e6870:
 
     # arbiter "{b}SPEAK!{/b}" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}说!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:196
 translate schinese aut_dare_09813f50:
 
     # au "!"
-    au ""
+    au "!"
 
 # game/scripts/autumn_events.rpy:197
 translate schinese aut_dare_397c0d19:
 
     # arbiter "Come closer... I can't hear you."
-    arbiter ""
+    arbiter "靠近点......我听不见你说什么."
 
 # game/scripts/autumn_events.rpy:198
 translate schinese aut_dare_b4fb23e6:
 
     # au "...Yes, your holiness..."
-    au ""
+    au "......是的,霓下......"
 
 # game/scripts/autumn_events.rpy:199
 translate schinese aut_dare_5568bfb1:
 
     # au "(I've never met the Grand Arbiter before... I've only seen him on TV. He's much more intimidating in real life...)"
-    au ""
+    au "(我从未见过大仲裁者......我只在电视上见过他.现实生活中的他更令人生畏......)"
 
 # game/scripts/autumn_events.rpy:201
 translate schinese aut_dare_090eeb4f:
 
     # chancellor "{i}Autumn, this had better be an emergency.{/i}"
-    chancellor ""
+    chancellor "{i}秋,这最好是紧急情况.{/i}"
 
 # game/scripts/autumn_events.rpy:202
 translate schinese aut_dare_34ac7234:
 
     # au "{i}Father... your hair? Did you dye it?{/i}"
-    au ""
+    au "{i}父亲......你的头发?你染发了吗?{/i}"
 
 # game/scripts/autumn_events.rpy:204
 translate schinese aut_dare_b9295f14:
 
     # chancellor "{i}Of course not...{/i}"
-    chancellor ""
+    chancellor "{i}当然没有......{/i}"
 
 # game/scripts/autumn_events.rpy:205
 translate schinese aut_dare_4c389d59:
 
     # arbiter "Autumn..."
-    arbiter ""
+    arbiter "秋......"
 
 # game/scripts/autumn_events.rpy:206
 translate schinese aut_dare_0229717b:
 
     # au "Y-Yes?"
-    au ""
+    au "是-是的?"
 
 # game/scripts/autumn_events.rpy:208
 translate schinese aut_dare_fa9411ef:
 
     # arbiter "Why... are you here?"
-    arbiter ""
+    arbiter "你......为何而来?"
 
 # game/scripts/autumn_events.rpy:209
 translate schinese aut_dare_8c4242a7:
 
     # au "{i}(His eyes truly are golden...){/i}"
-    au ""
+    au "{i}(他的眼睛真的是金的......){/i}"
 
 # game/scripts/autumn_events.rpy:210
 translate schinese aut_dare_9cb16eb6:
 
     # au "*ahem*...\nWell, an Elder informed me that my father had received a heart transplant..."
-    au ""
+    au "*咳嗽*......\n嗯,一位长老告诉我,我父亲接受了心脏移植手术......"
 
 # game/scripts/autumn_events.rpy:211
 translate schinese aut_dare_2540aafd:
 
     # arbiter "Go on..."
-    arbiter ""
+    arbiter "继续......"
 
 # game/scripts/autumn_events.rpy:212
 translate schinese aut_dare_10c52b7d:
 
     # au "So it's true..."
-    au ""
+    au "所以那是真的......"
 
 # game/scripts/autumn_events.rpy:214
 translate schinese aut_dare_e492194d:
 
     # chancellor "That's what you came here for? This could have been discussed over text, Autumn!"
-    chancellor ""
+    chancellor "这就是你来这里的目的?你本来可以发短信给我的,秋!"
 
 # game/scripts/autumn_events.rpy:215
 translate schinese aut_dare_f143b3d0:
 
     # au "I needed to know why! Why didn't you tell me? Why did you sacrifice an elf? Isn't there a better way?"
-    au ""
+    au "我想知道为什么!你为什么不告诉我?你为什么要牺牲精灵?难道没有更好的办法吗?"
 
 # game/scripts/autumn_events.rpy:216
 translate schinese aut_dare_0e15a7b9:
 
     # chancellor "Autumn!!"
-    chancellor ""
+    chancellor "秋!!"
 
 # game/scripts/autumn_events.rpy:218
 translate schinese aut_dare_63bc8c8c:
 
     # arbiter "WHAT!? An Elder told you about the sacrifice? WHO!?" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}什么!?{/b}有位长老告诉你有关献祭的事情?{b}谁!?{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:219
 translate schinese aut_dare_fa551077:
 
     # au "S-Sorry?"
-    au ""
+    au "对-对不起?"
 
 # game/scripts/autumn_events.rpy:220
 translate schinese aut_dare_e6f62f24:
 
     # arbiter "This information... was to be kept private! This... is a dereliction of duty! TELL ME HER NAME!!"
-    arbiter ""
+    arbiter "这些信息......是要保密的!这......这是失职!{b}告诉我她的名字!!{/b}"
 
 # game/scripts/autumn_events.rpy:221
 translate schinese aut_dare_b89ef794:
 
     # au "{i}The important part is...-{/i}"
-    au ""
+    au "{i}更重要的部分是......-{/i}"
 
 # game/scripts/autumn_events.rpy:222
 translate schinese aut_dare_a7122a16:
 
     # arbiter "{b}SPEAK!!{/b}" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}说!!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:223
 translate schinese aut_dare_f033e762:
 
     # au "D-Delilah, your holiness..."
-    au ""
+    au "黛-黛利拉,霓下......"
 
 # game/scripts/autumn_events.rpy:224
 translate schinese aut_dare_c2101614:
 
     # arbiter "..."
-    arbiter ""
+    arbiter "......"
 
 # game/scripts/autumn_events.rpy:226
 translate schinese aut_dare_2e674460:
 
     # arbiter "Nnnnngh..."
-    arbiter ""
+    arbiter "呃......"
 
 # game/scripts/autumn_events.rpy:227
 translate schinese aut_dare_02fc92b2:
 
     # arbiter "Saint Corpus... does it concern you that an elf was sacrificed for your father's life?"
-    arbiter ""
+    arbiter "圣科普斯......一个精灵为了你父亲的生命而被献祭,你对此很关心吗?"
 
 # game/scripts/autumn_events.rpy:228
 translate schinese aut_dare_cdad0d5b:
 
     # au "Yes... I... I think it's wrong."
-    au ""
+    au "是的......我......我觉得这不正确."
 
 # game/scripts/autumn_events.rpy:229
 translate schinese aut_dare_3ee2f479:
 
     # chancellor "What?"
-    chancellor ""
+    chancellor "什么?"
 
 # game/scripts/autumn_events.rpy:231
 translate schinese aut_dare_6fb463bc:
 
     # arbiter "Autumn... you are the spitting image of your mother when she was young... However... I do hope you are more attentive in your studies."
-    arbiter ""
+    arbiter "秋......你和你母亲年轻时简直一模一样......不过......我希望你能更用心地学习."
 
 # game/scripts/autumn_events.rpy:232
 translate schinese aut_dare_3c401bef:
 
     # au "O-Of course."
-    au ""
+    au "当-当然."
 
 # game/scripts/autumn_events.rpy:233
 translate schinese aut_dare_28f5489c:
 
     # arbiter "Delilah will be dealt with... but I need your word that you will not tell another soul."
-    arbiter ""
+    arbiter "黛利拉会被处理的......但我需要你保证,你不会告诉其他人."
 
 # game/scripts/autumn_events.rpy:234
 translate schinese aut_dare_053c2b98:
 
     # au "Y-Yes, Grand Arbiter..."
-    au ""
+    au "是-是的,大仲裁者......"
 
 # game/scripts/autumn_events.rpy:236
 translate schinese aut_dare_f808b158:
 
     # arbiter "Now tell me... would you have preferred I let your father - the holy chancellor - die?"
-    arbiter ""
+    arbiter "现在告诉我......你是否希望我让你的父亲,神圣的议长,死去？"
 
 # game/scripts/autumn_events.rpy:237
 translate schinese aut_dare_e1025639:
 
     # au "Of course not... but, sacrifice is wrong. Couldn't you have gotten a heart from a donor?"
-    au ""
+    au "当然不是......但是,牺牲是错误的.您就不能从器官捐赠者那里得到一颗心脏吗?"
 
 # game/scripts/autumn_events.rpy:238
 translate schinese aut_dare_1e6257a8:
 
     # arbiter "No."
-    arbiter ""
+    arbiter "不能."
 
 # game/scripts/autumn_events.rpy:239
 translate schinese aut_dare_bf3184bd:
 
     # au "Because elvish organs last longer... I get it, but that doesn't make it right."
-    au ""
+    au "因为精灵的器官寿命更长......我明白,但这并不代表就是对的."
 
 # game/scripts/autumn_events.rpy:241
 translate schinese aut_dare_76f81681:
 
     # arbiter "And... how did you come to that conclusion?"
-    arbiter ""
+    arbiter "那......你是怎么得出这个结论的?"
 
 # game/scripts/autumn_events.rpy:242
 translate schinese aut_dare_05f550b7:
 
     # au "It's obvious, isn't it? You want my father to serve you for hundreds of years."
-    au ""
+    au "很明显,不是吗?您想让我父亲继续为您效力几百年."
 
 # game/scripts/autumn_events.rpy:243
 translate schinese aut_dare_2e88f166:
 
     # arbiter "That's not what I'm asking... Why is it wrong, Autumn?"
-    arbiter ""
+    arbiter "那不是我想问的问题......为什么那是错误的,秋?"
 
 # game/scripts/autumn_events.rpy:244
 translate schinese aut_dare_43dc58a0:
 
     # au "Human sacrifice is strictly prohibitted in the-"
-    au ""
+    au "人祭在圣典里是被严格禁止-"
 
 # game/scripts/autumn_events.rpy:245
 translate schinese aut_dare_24cd1e2d:
 
     # arbiter "{u}Human{/u} sacrifice..."
-    arbiter ""
+    arbiter "{u}人{/u}祭......"
 
 # game/scripts/autumn_events.rpy:246
 translate schinese aut_dare_df71afdf:
 
     # au "Yes, but-"
-    au ""
+    au "是的,但是-"
 
 # game/scripts/autumn_events.rpy:247
 translate schinese aut_dare_f1200119:
 
     # arbiter "-Would you wish death upon me, Autumn?"
-    arbiter ""
+    arbiter "-你希望我死吗,秋?"
 
 # game/scripts/autumn_events.rpy:248
 translate schinese aut_dare_ca36031e:
 
     # au "Wh-What? Of course not, your holiness!"
-    au ""
+    au "什-什么?当然不希望,霓下!"
 
 # game/scripts/autumn_events.rpy:250
 translate schinese aut_dare_1a030cc4:
 
     # arbiter "...Have you forgotten my age?"
-    arbiter ""
+    arbiter "......你忘记我的年龄了吗?"
 
 # game/scripts/autumn_events.rpy:251
 translate schinese aut_dare_bff5ad50:
 
     # au "Um, no... it's..."
-    au ""
+    au "呃,没有......是......"
 
 # game/scripts/autumn_events.rpy:252
 translate schinese aut_dare_1f65bc02:
 
     # arbiter "167."
-    arbiter ""
+    arbiter "167."
 
 # game/scripts/autumn_events.rpy:253
 translate schinese aut_dare_fcfd3767:
 
     # arbiter "No matter how you look at it... I am more elf than man."
-    arbiter ""
+    arbiter "无论你怎么看......比起人类,我比更像是精灵."
 
 # game/scripts/autumn_events.rpy:254
 translate schinese aut_dare_3c370766:
 
     # au "Wh-What!?"
-    au ""
+    au "什-什么!?"
 
 # game/scripts/autumn_events.rpy:255
 translate schinese aut_dare_b21ac05f:
 
     # arbiter "My body; disfigured. But I am more alive now than I was a hundred years ago."
-    arbiter ""
+    arbiter "我的肉体变得丑陋了.但我现在比一百年前更有活力."
 
 # game/scripts/autumn_events.rpy:256
 translate schinese aut_dare_64b99fd7:
 
     # arbiter "Elvish blood flows through these veins, Autumn. Cancer no longer has effect upon me. My sight; better than even yours..."
-    arbiter ""
+    arbiter "我的血管里流淌着精灵的血液,秋天.癌症对我不再有影响,我的视力甚至比你更好......"
 
 # game/scripts/autumn_events.rpy:257
 translate schinese aut_dare_92c2769c:
 
     # au "You... you can't! That can't be true! You're Gaius' chosen, you-"
-    au ""
+    au "你......你不能!这不是真的!你是被盖乌斯所选的人,你-"
 
 # game/scripts/autumn_events.rpy:260
 translate schinese aut_dare_bcf8cfb9:
 
     # arbiter "SILENCE!" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}肃静!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:262
 translate schinese aut_dare_682c440c:
 
     # arbiter "Gaius... is dead."
-    arbiter ""
+    arbiter "盖乌斯......已经死了."
 
 # game/scripts/autumn_events.rpy:263
 translate schinese aut_dare_13b44473:
 
     # arbiter "He died over 100,000 years ago! *cough, cough*! \n...He has no ability to support humanity..."
-    arbiter ""
+    arbiter "他十万年前就死了!*咳嗽,咳嗽*!\n......他已经没有能力再去支持人类了......"
 
 # game/scripts/autumn_events.rpy:264
 translate schinese aut_dare_404bce7c:
 
     # arbiter "That privilege has been passed down - Arbiter to Arbiter - for generations. Only remnants remain of his once great power."
-    arbiter ""
+    arbiter "这一特权世代相传,由上一位仲裁者传给下一位仲裁者.他曾经拥有的强大力量只剩下残余."
 
 # game/scripts/autumn_events.rpy:265
 translate schinese aut_dare_35c57792:
 
     # arbiter "It has been left to {u}me{/u} to oversee the progress of humanity... and we will be better because of it."
-    arbiter ""
+    arbiter "{u}我{/u}被托付来监督人类的进程......我们会因此变得更好."
 
 # game/scripts/autumn_events.rpy:267
 translate schinese aut_dare_3e0034bb:
 
     # au "But-!"
-    au ""
+    au "但是-!"
 
 # game/scripts/autumn_events.rpy:268
 translate schinese aut_dare_bf7e8ddc:
 
     # arbiter "DO NOT INTERRUPT ME!" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}不要打断我!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:270
 translate schinese aut_dare_f153aa4f_2:
 
     # au "..."
-    au ""
+    au "......"
 
 # game/scripts/autumn_events.rpy:271
 translate schinese aut_dare_b87a143c:
 
     # arbiter "I am only trusting you with this because of your royal bloodline. We are on the cusp of something truly great, Saint Corpus. Your father is proof."
-    arbiter ""
+    arbiter "我信任你是因为你的皇室血统.我们即将迎来真正伟大的时刻,圣科普斯.你父亲就是证明."
 
 # game/scripts/autumn_events.rpy:273
 translate schinese aut_dare_17e7b551:
 
     # arbiter "Elves are a gift to humanity... Are you not grateful? Would you not want to live for hundreds of years?"
-    arbiter ""
+    arbiter "精灵是给予人类的礼物......你难道不感激吗?你难道不想活上几百年吗?"
 
 # game/scripts/autumn_events.rpy:274
 translate schinese aut_dare_f153aa4f_3:
 
     # au "..."
-    au ""
+    au "......"
 
 # game/scripts/autumn_events.rpy:275
 translate schinese aut_dare_214c9d8a:
 
     # au "Not like this... It's wrong. It's evil."
-    au ""
+    au "不想像这样......这是错误的.这是邪恶的."
 
 # game/scripts/autumn_events.rpy:277
 translate schinese aut_dare_42ca0f68:
 
     # arbiter "WHAT!?"
-    arbiter ""
+    arbiter "{b}什么!?{/b}"
 
 # game/scripts/autumn_events.rpy:278
 translate schinese aut_dare_b23d2ccc:
 
     # arbiter "Come again!? WHAT DID YOU SAY!?"
-    arbiter ""
+    arbiter "过来!?{b}你刚才说什么!?{/b}"
 
 # game/scripts/autumn_events.rpy:279
 translate schinese aut_dare_78482932:
 
     # au "This is not what Gaius would want..."
-    au ""
+    au "这不是盖乌斯想要的......"
 
 # game/scripts/autumn_events.rpy:281
 translate schinese aut_dare_31f81222:
 
     # arbiter "I - LUCIUS CORNELIUS - AM THE NEW GAIUS!" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}我,卢修斯·科尼利厄斯,就是新的盖乌斯!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:283
 translate schinese aut_dare_8b9a41bc:
 
     # arbiter "GAIUS' WILL IS MY WILL! HIS POWER; MINE! HIS PEOPLE; MINE! I ALONE DECIDE WHAT IS EVIL!"
-    arbiter ""
+    arbiter "{b}盖乌斯的意志,就是我的意志!他的力量,就是我的力量!他的子民,就是我的子民!只有我才能决定什么是邪恶的!{/b}"
 
 # game/scripts/autumn_events.rpy:285
 translate schinese aut_dare_35700a11:
 
     # au "You are not my god! You're a pretender!"
-    au ""
+    au "你不是我的神!你是个冒充者!"
 
 # game/scripts/autumn_events.rpy:286
 translate schinese aut_dare_de1b84be:
 
     # arbiter "I am leading us to greatness beyond your comprehension! You are ignorant, child! You know nothing!"
-    arbiter ""
+    arbiter "我正在带领我们走向你无法理解的伟大!你太无知了,孩子!你什么都不懂!"
 
 # game/scripts/autumn_events.rpy:287
 translate schinese aut_dare_17369ec7:
 
     # au "I got my answers. The church is corrupt, and you're the reason."
-    au ""
+    au "我已经得到了答案.教会已经堕落,而你是罪魁祸首."
 
 # game/scripts/autumn_events.rpy:288
 translate schinese aut_dare_1cafaebb:
 
     # au "I quit!"
-    au ""
+    au "我要退教!"
 
 # game/scripts/autumn_events.rpy:289
 translate schinese aut_dare_42ca0f68_1:
 
     # arbiter "WHAT!?"
-    arbiter ""
+    arbiter "{b}什么!?{/b}"
 
 # game/scripts/autumn_events.rpy:290
 translate schinese aut_dare_82a09044:
 
     # chancellor "Autumn!"
-    chancellor ""
+    chancellor "秋!"
 
 # game/scripts/autumn_events.rpy:292
 translate schinese aut_dare_4aee28d6:
 
     # arbiter "Stop! *cough, cough*! Stop right there!!"
-    arbiter ""
+    arbiter "停!*咳嗽,咳嗽*!停下!!"
 
 # game/scripts/autumn_events.rpy:293
 translate schinese aut_dare_628eea27:
 
     # chancellor "Autumn! What has gotten into you? This is your Grand Arbiter!"
-    chancellor ""
+    chancellor "秋!你怎么了?这可是你的大仲裁者!"
 
 # game/scripts/autumn_events.rpy:294
 translate schinese aut_dare_4e6d2cae:
 
     # arbiter "She knows too much! Stop her!"
-    arbiter ""
+    arbiter "她知道的太多了!阻止她!"
 
 # game/scripts/autumn_events.rpy:295
 translate schinese aut_dare_66b5d5a6:
 
     # au "I QUIT!!"
-    au ""
+    au "{b}我要退教!!{/b}"
 
 # game/scripts/autumn_events.rpy:296
 translate schinese aut_dare_0821d3ad:
 
     # arbiter "STOP RIGHT THERE! YOU CANNOT- *cough, cough, COUGH*!!"
-    arbiter ""
+    arbiter "{b}立刻停下!你不能-{/b}-*咳嗽,咳嗽,{b}咳嗽{/b}*!!"
 
 # game/scripts/autumn_events.rpy:298
 translate schinese aut_dare_cc0151dd:
 
     # arbiter "{i}Damn it all...{/i}"
-    arbiter ""
+    arbiter "{i}该死的......{/i}"
 
 # game/scripts/autumn_events.rpy:300
 translate schinese aut_dare_39715ba4:
 
     # arbiter "{b}HOLD!!!!!{/b}" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}停下!!!!!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:305
 translate schinese aut_dare_d42763f8:
 
     # au "You don't control me."
-    au ""
+    au "你不能控制我."
 
 # game/scripts/autumn_events.rpy:308
 translate schinese aut_dare_1749cdcd_1:
 
     # au "!!!"
-    au ""
+    au "!!!"
 
 # game/scripts/autumn_events.rpy:309
 translate schinese aut_dare_565b1b10:
 
     # au "{i}(What's happening...!? I can't move!){/i}"
-    au ""
+    au "{i}(发生什么事了......!?我动不了!){/i}"
 
 # game/scripts/autumn_events.rpy:311
 translate schinese aut_dare_e919518c:
 
     # arbiter "You... damned child... how dare you?"
-    arbiter ""
+    arbiter "你这......该死的孩子......你怎么敢?"
 
 # game/scripts/autumn_events.rpy:312
 translate schinese aut_dare_34895858:
 
     # arbiter "Nnngh...! Do you feel it? ...Huh? His power..."
-    arbiter ""
+    arbiter "呃......!你感觉到了吗?......嗯?他的力量......"
 
 # game/scripts/autumn_events.rpy:314
 translate schinese aut_dare_6fbbe231:
 
     # arbiter "Questioning me now, are you? ...Ngh..."
-    arbiter ""
+    arbiter "现在,你要来质问我吗?......呃......"
 
 # game/scripts/autumn_events.rpy:315
 translate schinese aut_dare_c9da7161:
 
     # arbiter "I understand... you are confused. There is... so much you don't know."
-    arbiter ""
+    arbiter "我明白......你很困惑.你......还有很多不明白的东西."
 
 # game/scripts/autumn_events.rpy:316
 translate schinese aut_dare_8f79e945:
 
     # au "{i}(I can't... speak! No matter how hard I try...!){/i}"
-    au ""
+    au "{i}(我没法......说话!无论我怎么努力.....!{/i})"
 
 # game/scripts/autumn_events.rpy:318
 translate schinese aut_dare_a92086aa:
 
     # arbiter "Do you believe now, Autumn? Nngh... This is but a taste of His power."
-    arbiter ""
+    arbiter "你现在相信了吗,秋天?呃......这不过是祂的力量的一部分."
 
 # game/scripts/autumn_events.rpy:319
 translate schinese aut_dare_0d7d674f:
 
     # arbiter "The power, I alone, have inherited. His will, through mine."
-    arbiter ""
+    arbiter "只有我,继承了这股力量.他的意志,就是我的意志."
 
 # game/scripts/autumn_events.rpy:321
 translate schinese aut_dare_8899b206:
 
     # arbiter "I am no God, Autumn, I never claimed to be. But I am... his chosen."
-    arbiter ""
+    arbiter "我不是神,秋,我从来没有声称自己是.但我是......他选择的人."
 
 # game/scripts/autumn_events.rpy:322
 translate schinese aut_dare_a9933c3d:
 
     # arbiter "{b}AND YOU WILL OBEY!!{/b}" with ssshake
-    arbiter "" with ssshake
+    arbiter "{b}而你应该服从!!{/b}" with ssshake
 
 # game/scripts/autumn_events.rpy:324
 translate schinese aut_dare_c0c82b3a:
 
     # arbiter "*cough, cough*! Nnngh...!\nI am trying to help... ALL OF US. More often than not, great deeds come at great cost."
-    arbiter ""
+    arbiter "*咳嗽,咳嗽*!呃......!\n我在努力帮助......{b}我们所有人{/b}大多数时候,伟大的行为需要付出巨大的代价."
 
 # game/scripts/autumn_events.rpy:325
 translate schinese aut_dare_42fefb53:
 
     # arbiter "The world... is not yet ready. But soon..."
-    arbiter ""
+    arbiter "这个世界......还没准备完毕.但是,很快......"
 
 # game/scripts/autumn_events.rpy:327
 translate schinese aut_dare_f911b926:
 
     # arbiter "Soon, we will all be better, as Gaius intended!"
-    arbiter ""
+    arbiter "很快,我们都会变得更好,正如盖乌斯所期望的那样!"
 
 # game/scripts/autumn_events.rpy:328
 translate schinese aut_dare_bb12b681:
 
     # au "{i}(How is he doing this!? How? How!?){/i}"
-    au ""
+    au "{i}(他到底是怎么做到的!?怎么?到底怎么!?){/i}"
 
 # game/scripts/autumn_events.rpy:329
 translate schinese aut_dare_437990c0:
 
     # arbiter "I expected more from you, Autumn..."
-    arbiter ""
+    arbiter "我本对你的期望很高,秋."
 
 # game/scripts/autumn_events.rpy:331
 translate schinese aut_dare_bd997d00:
 
     # au "{i}(I am a disciple of Liberty, Paragon of Freedom! You cannot hold me!!){/i}"
-    au ""
+    au "{i}(我是解放,自由圣者的门徒!你不能控制我!!){/i}"
 
 # game/scripts/autumn_events.rpy:333
 translate schinese aut_dare_f56d2d76:
 
     # lib "{i}Did you call?{/i}"
-    lib ""
+    lib "{i}你在呼唤我吗?{/i}"
 
 # game/scripts/autumn_events.rpy:337
 translate schinese aut_dare_239f9cdd:
 
     # au "What!? Who-!?"
-    au ""
+    au "什么!?谁-!?"
 
 # game/scripts/autumn_events.rpy:339
 translate schinese aut_dare_e9efdade_1:
 
     # au "...{w}..."
-    au ""
+    au "......{w}......"
 
 # game/scripts/autumn_events.rpy:341
 translate schinese aut_dare_fc00bbe3:
 
     # au "...What happened to me?"
-    au ""
+    au "......我发生什么事了?"
 
 # game/scripts/autumn_events.rpy:342
 translate schinese aut_dare_1a31aa41:
 
     # lib "Those broken chains are not just for show, Autumn. Say the word, and you will be free."
-    lib ""
+    lib "秋,那些残破的枷锁并不只是摆设.只要你说出来,你就会获得自由."
 
 # game/scripts/autumn_events.rpy:344
 translate schinese aut_dare_5fe69aab:
 
     # au "Liberty..."
-    au ""
+    au "解放......"
 
 # game/scripts/autumn_events.rpy:346
 translate schinese aut_dare_f153aa4f_4:
 
     # au "..."
-    au ""
+    au "......"
 
 # game/scripts/autumn_events.rpy:347
 translate schinese aut_dare_5cf76a8e:
 
     # au "Free me."
-    au ""
+    au "让我自由."
 
 # game/scripts/autumn_events.rpy:349
 translate schinese aut_dare_d1b4feb0:
 
     # lib "..."
-    lib ""
+    lib "......"
 
 # game/scripts/autumn_events.rpy:353
 translate schinese aut_dare_a5d10e3b:
 
     # lib "*snap*"
-    lib ""
+    lib "*咔嚓*"
 
 # game/scripts/autumn_events.rpy:357
 translate schinese aut_dare_4b12f64b:
 
     # arbiter "I expect you to-"
-    arbiter ""
+    arbiter "我本对你-"
 
 # game/scripts/autumn_events.rpy:359
 translate schinese aut_dare_915f887b:
 
     # arbiter "!!!" with ssshake
-    arbiter "" with ssshake
+    arbiter "!!!" with ssshake
 
 # game/scripts/autumn_events.rpy:360
 translate schinese aut_dare_b8a6aecd:
 
     # au "You. Do not. Control me."
-    au ""
+    au "你.不.能.控.制.我."
 
 # game/scripts/autumn_events.rpy:361
 translate schinese aut_dare_b34e13a6:
 
     # arbiter "What!? What did you...!"
-    arbiter ""
+    arbiter "什么!?你怎么......!"
 
 # game/scripts/autumn_events.rpy:363
 translate schinese aut_dare_cf7fe3ab:
 
     # arbiter "How dare you...! You called her, didn't you!? HOW DARE YOU USE THE PARAGONS AGAINST ME!?"
-    arbiter ""
+    arbiter "你怎么敢......!你呼唤了她,是吧!?{b}你怎么敢用圣者来对抗我!?{/b}"
 
 # game/scripts/autumn_events.rpy:365
 translate schinese aut_dare_8857bdba:
 
     # arbiter "Autumn! AUTUMN!! *cough, cough*!"
-    arbiter ""
+    arbiter "秋!{b}秋!!{/b}*咳嗽,咳嗽*!"
 
 # game/scripts/autumn_events.rpy:366
 translate schinese aut_dare_061a5794:
 
     # arbiter "Autumn, there is great potential in you! Do not waste it!"
-    arbiter ""
+    arbiter "秋,你有巨大的潜力!不要浪费它!"
 
 # game/scripts/autumn_events.rpy:368
 translate schinese aut_dare_f22eada8:
 
     # arbiter "{b}AUTUUUUUMN!!!{/b}"
-    arbiter ""
+    arbiter "{b}秋!!!{/b}"
 
 # game/scripts/autumn_events.rpy:369
 translate schinese aut_dare_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "......{w}......{w}......"
 
 # game/scripts/autumn_events.rpy:372
 translate schinese aut_dare_e9efdade_2:
 
     # au "...{w}..."
-    au ""
+    au "......{w}......"
 
 # game/scripts/autumn_events.rpy:374
 translate schinese aut_dare_e5b24ad4:
 
     # au "...{w}\n*sigh*{w}\n..."
-    au ""
+    au "......{w}\n*叹气*{w}\n......"
 
 # game/scripts/autumn_events.rpy:375
 translate schinese aut_dare_86c52edc:
 
     # au "...No God of mine would allow this."
-    au ""
+    au "......我的神绝对不会允许这种事情."
 
 # game/scripts/autumn_events.rpy:376
 translate schinese aut_dare_f153aa4f_5:
 
     # au "..."
-    au ""
+    au "......"
 
 # game/scripts/autumn_events.rpy:377
 translate schinese aut_dare_e0043b37:
 
     # au "But he's right... there's so much I don't understand. I have so many questions..."
-    au ""
+    au "但他是对的......我有太多不明白的地方.我有很多疑问......"
 
 # game/scripts/autumn_events.rpy:379
 translate schinese aut_dare_f937b71c:
 
     # au "Have you always been with me, Liberty?"
-    au ""
+    au "你一直都和我同在吗,解放?"
 
 # game/scripts/autumn_events.rpy:380
 translate schinese aut_dare_db62051d:
 
     # lib "No. I live within the soul stone you received when you became an initiate."
-    lib ""
+    lib "不.我就住在你成为门徒时得到的灵魂石里."
 
 # game/scripts/autumn_events.rpy:381
 translate schinese aut_dare_83dfa839:
 
     # au "But you were at Gaius' grave."
-    au ""
+    au "但你当时在盖乌斯的墓前."
 
 # game/scripts/autumn_events.rpy:382
 translate schinese aut_dare_84c2e070:
 
     # lib "Yes. My soul stone was fractured so I may serve my disciples wherever they may be."
-    lib ""
+    lib "是的.我的灵魂石破碎了,所以无论我的门徒们在哪里,我都可以为他们服务."
 
 # game/scripts/autumn_events.rpy:383
 translate schinese aut_dare_b7d83501:
 
     # au "Then... your soul was fractured too?"
-    au ""
+    au "那么......你的灵魂也破碎了吗?"
 
 # game/scripts/autumn_events.rpy:384
 translate schinese aut_dare_001ec49b:
 
     # lib "In a way, yes. To my perspective, today was the first time we met."
-    lib ""
+    lib "从某种意义上说,是的.对我来说,今天是我们第一次见面."
 
 # game/scripts/autumn_events.rpy:386
 translate schinese aut_dare_168620c2:
 
     # au "Oh..."
-    au ""
+    au "噢......"
 
 # game/scripts/autumn_events.rpy:387
 translate schinese aut_dare_c1f5afa8:
 
     # au "Liberty, why couldn't I move?"
-    au ""
+    au "解放,为什么我不能移动?"
 
 # game/scripts/autumn_events.rpy:388
 translate schinese aut_dare_079fc333:
 
     # lib "Gaius."
-    lib ""
+    lib "盖乌斯."
 
 # game/scripts/autumn_events.rpy:389
 translate schinese aut_dare_125d4932:
 
     # au "Then how did you stop him?"
-    au ""
+    au "那你是怎么阻止他的?"
 
 # game/scripts/autumn_events.rpy:390
 translate schinese aut_dare_23448dec:
 
     # lib "I dispelled the holding curse. It is my speciality."
-    lib ""
+    lib "我驱散了让你停止的诅咒,这是我的专长."
 
 # game/scripts/autumn_events.rpy:391
 translate schinese aut_dare_ee84cca5:
 
     # au "Then... are you saying you stopped Gaius?"
-    au ""
+    au "那......你是说你在阻止盖乌斯?"
 
 # game/scripts/autumn_events.rpy:392
 translate schinese aut_dare_3c64f9e7:
 
     # lib "No. Lucius used Gaius' to stop you."
-    lib ""
+    lib "不,是卢修斯利用了盖乌斯来阻止你."
 
 # game/scripts/autumn_events.rpy:393
 translate schinese aut_dare_22f6a821:
 
     # au "How is it possible for a human to use Gaius' power?"
-    au ""
+    au "人类怎么可能使用盖乌斯的能力?"
 
 # game/scripts/autumn_events.rpy:394
 translate schinese aut_dare_3ed3735c:
 
     # lib "It is impossible."
-    lib ""
+    lib "因为那确实不可能."
 
 # game/scripts/autumn_events.rpy:395
 translate schinese aut_dare_7168eefd:
 
     # au "Then... because he's mostly elvish?"
-    au ""
+    au "那......是因为他身上大部分器官都来源于精灵?"
 
 # game/scripts/autumn_events.rpy:396
 translate schinese aut_dare_545fcfe7:
 
     # lib "No, Autumn. The question does not make sense. {u}He used Gaius.{/u}"
-    lib ""
+    lib "不,秋.这个问题没有意义.{u}他利用了盖乌斯.{/u}"
 
 # game/scripts/autumn_events.rpy:398
 translate schinese aut_dare_fd66f0e6:
 
     # au "What are you saying?"
-    au ""
+    au "你这是什么意思?"
 
 # game/scripts/autumn_events.rpy:399
 translate schinese aut_dare_809f983a:
 
     # lib "Autumn, what do you believe Gaius is?"
-    lib ""
+    lib "秋,你觉得盖乌斯是什么?"
 
 # game/scripts/autumn_events.rpy:400
 translate schinese aut_dare_660c665e:
 
     # au "Gaius is God."
-    au ""
+    au "盖乌斯是神."
 
 # game/scripts/autumn_events.rpy:401
 translate schinese aut_dare_d944cac9:
 
     # lib "Gaius is the subject of your worship, yes."
-    lib ""
+    lib "盖乌斯是你崇拜的对象,没错."
 
 # game/scripts/autumn_events.rpy:402
 translate schinese aut_dare_2f5415bd:
 
     # au "Why are you speaking so cryptically? Can you just- ugh... can you help me?"
-    au ""
+    au "你为什么说得这么隐晦?你能-呃......你能帮帮我吗?"
 
 # game/scripts/autumn_events.rpy:403
 translate schinese aut_dare_5a2e0df6:
 
     # lib "Due to the size of this soul stone, my responses are limited. Yes, I can help."
-    lib ""
+    lib "鉴于这个灵魂石的体积,我的回复有限.是的,我可以帮你."
 
 # game/scripts/autumn_events.rpy:404
 translate schinese aut_dare_99a2d7ca:
 
     # au "Okay... how did he use Gaius?"
-    au ""
+    au "好的......那他是怎么利用盖乌斯的?"
 
 # game/scripts/autumn_events.rpy:405
 translate schinese aut_dare_e49c7d42:
 
     # lib "Gaius is everything. However, Gaius is highly concentrated in Gaiusite."
-    lib ""
+    lib "盖乌斯就是一切.然而,盖乌斯高度集中在盖乌斯石中."
 
 # game/scripts/autumn_events.rpy:406
 translate schinese aut_dare_05ec1984:
 
     # au "What are you talking about?"
-    au ""
+    au "你在说什么?"
 
 # game/scripts/autumn_events.rpy:407
 translate schinese aut_dare_f634ec38:
 
     # lib "Gaiusite is what you may refer to as blue crystals."
-    lib ""
+    lib "盖乌斯石就是你们常说的蓝色水晶."
 
 # game/scripts/autumn_events.rpy:409
 translate schinese aut_dare_cfff805c:
 
     # au "His staff..."
-    au ""
+    au "他的法杖......"
 
 # game/scripts/autumn_events.rpy:411
 translate schinese aut_dare_c4ddbf5c:
 
     # au "Why is it blue then? If a pink crystal has a soul inside, why are blue crystals different?"
-    au ""
+    au "那它为什么是蓝色的?如果粉色水晶里面有灵魂,为什么蓝色水晶就不一样呢?"
 
 # game/scripts/autumn_events.rpy:412
 translate schinese aut_dare_f4298cea:
 
     # lib "You seem to be under the impression that Gaius was a person. This is incorrect."
-    lib ""
+    lib "你似乎认为盖乌斯曾经是一个人.这是不正确的."
 
 # game/scripts/autumn_events.rpy:414
 translate schinese aut_dare_21e02423:
 
     # au "What? Then what was he?"
-    au ""
+    au "什么?那他曾经是什么?"
 
 # game/scripts/autumn_events.rpy:415
 translate schinese aut_dare_b19f6325:
 
     # lib "The correct verbage is; what is it? Present tense."
-    lib ""
+    lib "正确的措辞是,他现在是什么?"
 
 # game/scripts/autumn_events.rpy:416
 translate schinese aut_dare_325773ee:
 
     # au "He's not dead...?\nOkay, then what is it? What is Gaius??"
-    au ""
+    au "他没有死......?\n好吧,那它是什么?盖乌斯是什么??"
 
 # game/scripts/autumn_events.rpy:417
 translate schinese aut_dare_cd3845c0:
 
     # lib "Gaius is everything."
-    lib ""
+    lib "盖乌斯是一切."
 
 # game/scripts/autumn_events.rpy:419
 translate schinese aut_dare_7955757e:
 
     # au "Rgh! Liberty... \nWhat happened when Gaius died? He has a grave, he must have died!"
-    au ""
+    au "呃!解放......\n那盖乌斯死的时候发生了什么?他有个坟墓,他一定是死了!"
 
 # game/scripts/autumn_events.rpy:420
 translate schinese aut_dare_6acaa25e:
 
     # lib "I was not alive during this so-called death. I do not know."
-    lib ""
+    lib "在那场所谓的死亡中,我并不在世.所以我不知道."
 
 # game/scripts/autumn_events.rpy:421
 translate schinese aut_dare_416c727a:
 
     # au "Okay, what can you tell me?"
-    au ""
+    au "好吧,那你能告诉我什么?"
 
 # game/scripts/autumn_events.rpy:422
 translate schinese aut_dare_6c5736a4:
 
     # lib "Gaius has diminished grately within the past 100,000 years."
-    lib ""
+    lib "在过去的10万年里,盖乌斯的数量在急剧减少."
 
 # game/scripts/autumn_events.rpy:423
 translate schinese aut_dare_25a90938:
 
     # au "You talk about him like he's a resource. Like he's... oil or something."
-    au ""
+    au "你把他说得像资源一样.好像他是......石油什么的."
 
 # game/scripts/autumn_events.rpy:424
 translate schinese aut_dare_1c7c64b2:
 
     # lib "Correct."
-    lib ""
+    lib "正确."
 
 # game/scripts/autumn_events.rpy:425
 translate schinese aut_dare_f28a2203:
 
     # au "I don't understand! Gaius is a god!"
-    au ""
+    au "我不理解!盖乌斯可是神啊!"
 
 # game/scripts/autumn_events.rpy:426
 translate schinese aut_dare_43fd72d4:
 
     # lib "Only through study and practice does one truly understand Gaius."
-    lib ""
+    lib "只有通过学习和实践,才能真正理解盖乌斯."
 
 # game/scripts/autumn_events.rpy:427
 translate schinese aut_dare_8696c947:
 
     # au "But... a resource? That's not what the bible says."
-    au ""
+    au "但是......资源?圣典可不是这么说的."
 
 # game/scripts/autumn_events.rpy:428
 translate schinese aut_dare_e0693eed:
 
     # lib "The bible was written by humans. Gaius does not have the ability to write."
-    lib ""
+    lib "圣典是由人类所著的.盖乌斯并没有书写能力."
 
 # game/scripts/autumn_events.rpy:429
 translate schinese aut_dare_1ab005ca:
 
     # au "How can a god not be able to write!? The bible refers to him as a man, Liberty!"
-    au ""
+    au "神怎么会不会写字?圣典说他是个人,解放!"
 
 # game/scripts/autumn_events.rpy:430
 translate schinese aut_dare_b241bf3b:
 
     # lib "The bible was written by humans."
-    lib ""
+    lib "圣典是由人类所著的."
 
 # game/scripts/autumn_events.rpy:432
 translate schinese aut_dare_c5e717b9:
 
     # au "*sigh*... I don't understand..."
-    au ""
+    au "*叹气*......我不理解......"
 
 # game/scripts/autumn_events.rpy:434
 translate schinese aut_dare_94d019a6_1:
 
     # "...{w}..."
-    ""
+    "......{w}......"
 
 # game/scripts/autumn_events.rpy:437
 translate schinese aut_dare_79cf9414:
 
     # c "Autumn! There you are. Did you go to church?"
-    c ""
+    c "秋!你在这啊.你去教会了吗?"
 
 # game/scripts/autumn_events.rpy:438
 translate schinese aut_dare_85eeb4bf:
 
     # au "Yeah..."
-    au ""
+    au "是的......"
 
 # game/scripts/autumn_events.rpy:439
 translate schinese aut_dare_79484fd2:
 
     # c "...Are you okay?"
-    c ""
+    c "......你还好吗?"
 
 # game/scripts/autumn_events.rpy:440
 translate schinese aut_dare_eb80875f:
 
     # au "I don't know..."
-    au ""
+    au "我不知道......"
 
 # game/scripts/autumn_events.rpy:441
 translate schinese aut_dare_e43a12a6:
 
     # au "Let's talk tonight, okay? I just need time to think."
-    au ""
+    au "我们今晚谈谈,可以吗?我需要好好想想."
 
 # game/scripts/autumn_events.rpy:442
 translate schinese aut_dare_d28bed7b:
 
     # c "Oh, okay. Sure, I'll see you tonight..."
-    c ""
+    c "哦,好的.当然可以,我今晚去见你......"
 
 # game/scripts/autumn_events.rpy:449
 translate schinese aut_dare_4cbaade1:
 
     # c "I hope she's okay..."
-    c ""
+    c "我希望他还好......"
 
 # game/scripts/autumn_events.rpy:2133
 translate schinese aut_capcafe_talk_ec272428:
 
     # au "It belongs to the grant arbiter. He usually always has them on but he's required by Gaius to send the rings out during orientation in order to test one's soul and ensure they are pure of heart before they are allowed to continue. It's supposed to help prevent corruption, and so far it has seemed to work."
-    au ""
+    au "它属于大仲裁者.他通常总是戴着戒指,但是盖乌斯要求他在迎新的时候把戒指送出去,以便测试一个人的灵魂,确保他们心灵纯洁,然后才允许他们继续训练.这应该是为了防止堕落,目前看来这确实很有效."
 
 # game/scripts/autumn_events.rpy:2134
 translate schinese aut_capcafe_talk_0ec21d4e:
 
     # c "Why does the grant arbiter always wear them?"
-    c ""
+    c "为什么大仲裁者总是戴着它们?"
 
 # game/scripts/autumn_events.rpy:2139
 translate schinese aut_capcafe_talk_f34f9a59:
 
     # au "Well I suppose that's why the grant arbiter is a special man."
-    au ""
+    au "嗯,我想这就是为什么大仲裁者是个特别的人."
 
 # game/scripts/autumn_events.rpy:2304
 translate schinese aut_capcafe_talk_c4b054e5:
 
     # au "The crystals are too, yeah. Those pink ones remind me of the kind on the grant arbiter's ring, but I've never noticed that these glowed before."
-    au ""
+    au "是的,水晶也是.那些粉色水晶让我想起了大仲裁者戒指上的那种,但我以前从没注意到那些水晶会发光."
 
 # game/scripts/autumn_events.rpy:2660
 translate schinese aut_orient_7a0c35d3:
 
     # abby "I agree, we should inform the grant arbiter."
-    abby ""
+    abby "我同意,我们应该通知大仲裁者."
 
 # game/scripts/autumn_events.rpy:2766
 translate schinese aut_orient_fa1095b2:
 
     # lily "For the final step of your orientation you will commune with the angel inside the grant arbiter's 7th ring."
-    lily ""
+    lily "作为迎新会的最后一步,你们将与大仲裁者第七枚戒指里的天使交流."
 
 # game/scripts/autumn_events.rpy:2768
 translate schinese aut_orient_9bbfb9c2:
 
     # ha "I thought only the current grant arbiter had access to those rings. Why is it here?"
-    ha ""
+    ha "我以为只有现任大仲裁者可以接触到这些戒指.为什么会在这里?"
 
 # game/scripts/autumn_events.rpy:2952
 translate schinese aut_orient_a468b36e:
 
     # lily "Only when the grant arbiter requests it, and I have no doubt he will after what you've just told us."
-    lily ""
+    lily "只有当大仲裁者提出要求时才会,在你们告诉我们那些事情之后,我毫不怀疑他会那么做."
 
 # game/scripts/autumn_events.rpy:2957
 translate schinese aut_orient_a85b6c51:
 
     # lily "No, the saints do not vote. We argue our case in front of the grant arbiter, and the grant arbiter makes a decision."
-    lily ""
+    lily "不,圣徒不投票.我们在大仲裁者面前陈述自己的理由,然后由大仲裁者做出决定."
 
 # game/scripts/autumn_events.rpy:3758
 translate schinese aut_church_93a1aa36:
 
     # bis "What was I to do with this information? Not knowing how to correct our course, I explained our Seer's visions to the other Bishops in Syl'anar. We agreed that the grant arbiter must be informed."
-    bis ""
+    bis "我该如何处理这些信息?我不知道该如何纠正我们的方向,便向西尔阿纳尔的其他主教解释了我们先知的所见.我们一致认为必须通知大仲裁者."
 
 # game/scripts/autumn_events.rpy:3759
 translate schinese aut_church_0c70c276:
 
     # bis "Last week, the grant arbiter agreed to launch a campaign in Syl'anar within the upcoming years, and wants each church to bolster our spiritual defense. Which is why I've asked for a moment of your times... the First Church of Caliber is in need of a third Saint."
-    bis ""
+    bis "上周,大仲裁者同意在未来几年内在西尔阿纳尔发起一场运动,他希望每个教堂都能增强我们的精神防线.这就是为什么我请求你们抽出一点时间......楷利泊市第一教堂需要第三位圣徒."
 
 # game/scripts/autumn_events.rpy:5225
 translate schinese aut_oldhouse_3173c6fc:
 
     # au "You're probably not too aware of the terminology... a bishop is four ranks below the grant arbiter, but he has never controlled a church. He's mostly a political activist that advocates for the beliefs of Gaius. He's on the side that argues all intelligent life should be given the same rights."
-    au ""
+    au "你可能不太了解这些术语......主教比大仲裁者低四个级别,但他并没有管理着任何一座教堂.他更像是一个宣扬盖乌斯教的政治活动家,主张所有的智慧生命都应该享有同等权利."
 
 # game/scripts/autumn_events.rpy:5226
 translate schinese aut_oldhouse_9bd8d226:
 
     # au "I don't think the grant arbiter likes him too much actually... the grant arbiter doesn't like elves at all..."
-    au ""
+    au "事实上,我觉得大仲裁者并不喜欢他......大仲裁者很厌恶精灵......"
 
 # game/scripts/autumn_events.rpy:5483
 translate schinese aut_oldhouse_ce8ab3b2:
 
     # gran "Those nobles were appointed by the grant arbiter, who was appointed by Gaius himself. It's proof God loves you, child."
-    gran ""
+    gran "那些贵族是由大仲裁者任命的,而大仲裁者是由盖乌斯亲自任命的.这是神爱你的证明,孩子."
 

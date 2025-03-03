@@ -98209,7 +98209,7 @@ translate schinese strings:
 
     # game/script.rpy:244
     old "Liberty, Paragon of Freedom"
-    new "自由-自由圣者"
+    new "解放,自由圣者"
 
     # game/script.rpy:245
     old "Elf Prostitute"
