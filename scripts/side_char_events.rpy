@@ -51872,7 +51872,9 @@ translate schinese ellen_fshow_0cf7660a:
 # game/scripts/side_char_events.rpy:7184
 translate schinese ellen_fshow_9d04221d:
 
-    # e "This one says, {i}'Out with the old, in with the new!'{/i} A stellar example of pure beauty!"旧的不去就对不起,新的不来!'{/i},是纯美的典范!"
+    # e "This one says, {i}'Out with the old, in with the new!'{/i} A stellar example of pure beauty!"
+    
+    e "这就像在说,{i}'旧的不去,新的不来!'{/i},是纯美的典范!"
 
 # game/scripts/side_char_events.rpy:7187
 translate schinese ellen_fshow_6493ea32:
