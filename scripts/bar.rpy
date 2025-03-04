@@ -12609,7 +12609,7 @@ translate schinese moon_gaming_4ff11e64:
 translate schinese moon_gaming_4ada5e49:
 
     # em "Hey, is that you behind me?"
-    em "嘿,你在我后面吗?"
+    em "嘿,我后面的是你吗?"
 
 # game/scripts/bar.rpy:4962
 translate schinese moon_gaming_a6489e48:
@@ -12657,7 +12657,7 @@ translate schinese moon_gaming_e1fbdae1:
 translate schinese moon_gaming_0b34eaca:
 
     # moon "No, no! I'm going to lose now!"
-    moon "不,不!我现在要输了!"
+    moon "不,不!我要输了!"
 
 # game/scripts/bar.rpy:4970
 translate schinese moon_gaming_e46950a4:
@@ -12699,7 +12699,7 @@ translate schinese moon_gaming_c6de263c:
 translate schinese moon_gaming_bae9ea80:
 
     # k "Alright, you ready Emma?"
-    k "好了,你准备好了吗艾玛?"
+    k "好了,你准备好了吗,艾玛?"
 
 # game/scripts/bar.rpy:4979
 translate schinese moon_gaming_019b4c4c:
@@ -12753,7 +12753,7 @@ translate schinese moon_gaming_5a924c52:
 translate schinese moon_gaming_b5ba248b:
 
     # em "Rrgh, it was some loser named elfsimp69. What did I do to them!?"
-    em "呃,是某个叫'精灵舔狗69'(elfsimp69)的人.我对他们做了什么!?"
+    em "呃,是某个叫elfsimp69的屌丝.我也没对他做什么啊!?"
 
 # game/scripts/bar.rpy:4989
 translate schinese moon_gaming_6a6f7e3a:
@@ -12771,31 +12771,31 @@ translate schinese moon_gaming_6d3e6692:
 translate schinese moon_gaming_1a8bc263:
 
     # em "*gasp*! I hit them!"
-    em "*惊叹*!我打到他们了!"
+    em "*惊叹*!我打到他了!"
 
 # game/scripts/bar.rpy:4993
 translate schinese moon_gaming_79f3b471:
 
     # moon "Grats, but..."
-    moon "恭喜你,但是......"
+    moon "恭喜,但是......"
 
 # game/scripts/bar.rpy:4995
 translate schinese moon_gaming_31f162dd:
 
     # em "HEYYY!" with ssshake
-    em "嘿!" with ssshake
+    em "{b}嘿!{/b}" with ssshake
 
 # game/scripts/bar.rpy:4996
 translate schinese moon_gaming_706874cc:
 
     # moon "Sorry! I'm taking my revenge on Kali! You were just in the way..."
-    moon "对不起!我要向凯莉复仇!你挡我路了......"
+    moon "对不起!我要向凯莉复仇!而你刚好挡在我的路上......"
 
 # game/scripts/bar.rpy:4997
 translate schinese moon_gaming_e30f3c76:
 
     # em "I fought hard for that spot, you just made an enemy for life!"
-    em "我为了这个位置奋斗了多久,你刚刚结下了一个终生的敌人!"
+    em "我花了多少努力才得到这个位置,而你却树下了一位终身的敌人!"
 
 # game/scripts/bar.rpy:4998
 translate schinese moon_gaming_1649c35f:
@@ -12813,7 +12813,7 @@ translate schinese moon_gaming_dc1525cf:
 translate schinese moon_gaming_3f3ba847:
 
     # k "Is that you throwing shit at me, Moon?"
-    k "是你在给我丢东西吗,文?"
+    k "是你在朝我丢东西吗,文?"
 
 # game/scripts/bar.rpy:5001
 translate schinese moon_gaming_35e9498f:
@@ -12825,13 +12825,13 @@ translate schinese moon_gaming_35e9498f:
 translate schinese moon_gaming_316ca057:
 
     # k "How did you catch up so fast?"
-    k "你怎么这么快赶上来的?"
+    k "你怎么这么快就赶上来的?"
 
 # game/scripts/bar.rpy:5003
 translate schinese moon_gaming_047a4963:
 
     # moon "Guess I got lucky with boosts."
-    moon "大概是因为我运气好吃了几个喷射吧."
+    moon "大概是因为我运气好,吃了几个喷射吧."
 
 # game/scripts/bar.rpy:5004
 translate schinese moon_gaming_875d9782:
@@ -12843,25 +12843,25 @@ translate schinese moon_gaming_875d9782:
 translate schinese moon_gaming_b3af4c51:
 
     # k "Please, be my guest."
-    k "请吧."
+    k "请便."
 
 # game/scripts/bar.rpy:5006
 translate schinese moon_gaming_4a8e0e1c:
 
     # moon "Tsk, you sure are keeping your defenses up, Kali."
-    moon "啧,你真的一直在防着啊,凯莉."
+    moon "啧,你的防守还真是严密啊,凯莉."
 
 # game/scripts/bar.rpy:5007
 translate schinese moon_gaming_0017e8dd:
 
     # k "I'm not letting you take my spot..."
-    k "我不会让你夺走我的位置的......"
+    k "我可不会让你夺走我的位置......"
 
 # game/scripts/bar.rpy:5008
 translate schinese moon_gaming_0c10a859:
 
     # moon "We'll see about that! I just need a lucky item and you'll lose!"
-    moon "走着瞧!我只需要运气好点拿个道具你就输了!"
+    moon "走着瞧吧!我只需要走运拿个好点的道具,你就输了!"
 
 # game/scripts/bar.rpy:5009
 translate schinese moon_gaming_573a1f59:
@@ -12873,13 +12873,13 @@ translate schinese moon_gaming_573a1f59:
 translate schinese moon_gaming_bc54c8f0:
 
     # em "Ah! Why am I small!? Where did my items go!?" with ssshake
-    em "啊!为什么我变小了!?我的道具呢!?" with ssshake
+    em "啊!我怎么变小了!?我的道具呢!?" with ssshake
 
 # game/scripts/bar.rpy:5012
 translate schinese moon_gaming_3af74c76:
 
     # k "Ergh, great... we all lost our items."
-    k "呃,好吧......我们的道具都没了."
+    k "呃,太好了......我们的道具都没了."
 
 # game/scripts/bar.rpy:5013
 translate schinese moon_gaming_ac18e2f9:
@@ -12909,7 +12909,7 @@ translate schinese moon_gaming_4984c9d6:
 translate schinese moon_gaming_964126bb:
 
     # moon "Finally! And it looks like your defenses are gone, Kali!"
-    moon "终于!看起来你的防御失效了,凯莉!"
+    moon "终于!看起来你的防御已经失效了,凯莉!"
 
 # game/scripts/bar.rpy:5019
 translate schinese moon_gaming_a1a4920d:
@@ -12921,7 +12921,7 @@ translate schinese moon_gaming_a1a4920d:
 translate schinese moon_gaming_a157fdc3:
 
     # em "Hey! I'm in third! I think I see you, Moon."
-    em "嘿!我第三了!我想我看见你了,文."
+    em "嘿!我第三了!我好像看见你了,文."
 
 # game/scripts/bar.rpy:5021
 translate schinese moon_gaming_504acd39:
@@ -12933,7 +12933,7 @@ translate schinese moon_gaming_504acd39:
 translate schinese moon_gaming_216c5af6:
 
     # em "What if I want it?"
-    em "如果我要呢?"
+    em "如果我就想搞你呢?"
 
 # game/scripts/bar.rpy:5023
 translate schinese moon_gaming_37bb860e:
@@ -12951,7 +12951,7 @@ translate schinese moon_gaming_5c9a5f6d:
 translate schinese moon_gaming_88e054e1:
 
     # k "Aagh! FUCK! NO!!!" with ssshake
-    k "啊!操!不!!!" with ssshake
+    k "啊!{b}操!不!!!{/b}" with ssshake
 
 # game/scripts/bar.rpy:5026
 translate schinese moon_gaming_54628e74:
@@ -12987,7 +12987,7 @@ translate schinese moon_gaming_83037c61:
 translate schinese moon_gaming_122d1d4b:
 
     # moon "Oh yeah? What do you have?"
-    moon "噢真的吗?你有什么?"
+    moon "噢,真的吗?你有什么?"
 
 # game/scripts/bar.rpy:5032
 translate schinese moon_gaming_f5239a04:
@@ -12999,7 +12999,7 @@ translate schinese moon_gaming_f5239a04:
 translate schinese moon_gaming_747a3830:
 
     # em "Wha- hey! Why can't I throw them at you? Am I eating them!? That doesn't help!"
-    em "什-嘿!为什么我不能把它丢向你?我是在吃它们吗!?这完全没用啊!"
+    em "什-嘿!为什么我不能丢给你?我在吃吗!?这完全没用啊!"
 
 # game/scripts/bar.rpy:5034
 translate schinese moon_gaming_469a88b8:
@@ -13011,7 +13011,7 @@ translate schinese moon_gaming_469a88b8:
 translate schinese moon_gaming_a06b55c7:
 
     # game "PLAYER 2 WINS!"
-    game "玩家2获胜!"
+    game "{b}玩家2获胜!{/b}"
 
 # game/scripts/bar.rpy:5037
 translate schinese moon_gaming_21f6a513:
@@ -13023,7 +13023,7 @@ translate schinese moon_gaming_21f6a513:
 translate schinese moon_gaming_4b80909e:
 
     # k "*sigh*... good game..."
-    k "*叹气*......gg......"
+    k "*叹气*......GG......"
 
 # game/scripts/bar.rpy:5040
 translate schinese moon_gaming_140926b0:
