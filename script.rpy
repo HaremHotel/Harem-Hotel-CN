@@ -45273,7 +45273,7 @@ translate schinese bot_con_question_dc9d420f:
 translate schinese bot_con_question_627e81e0:
 
     # moon "Not quite like you, but close! I have a little guy at home I named Junior, but he can't even turn on... You're much more impressive!\nIf your foot ever falls off, or you lose a finger, just let me know! I can put it back on for you."
-    moon "不是很像,但很接近了!我家里有一个叫尤尼奥尔(原文Junior,意为初级的)的小男孩,但是他都没法开机......你更令人印象深刻!\n如果你的脚松了,或者你的手指掉了,告诉我就行!我可以把它们接回去."
+    moon "不是很像,但很接近了!我家里有一个叫朱尼尔的小家伙,但是他都没法开机......你更令人印象深刻!\n如果你的脚松了,或者你的手指掉了,告诉我就行!我可以把它们接回去."
 
 # game/script.rpy:21890
 translate schinese bot_con_question_4ee1d265:

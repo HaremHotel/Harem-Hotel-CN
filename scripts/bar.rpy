@@ -13041,49 +13041,49 @@ translate schinese moon_gaming_d0d84585:
 translate schinese moon_gaming_a35eb8c2:
 
     # moon "So eager to lose to me, hm? Heh, don't worry. You're pretty good for a beginner actually!"
-    moon "这么想输给我,嗯?呵呵,别担心.实际上你作为新手已经很强了!"
+    moon "这么想输给我,嗯?呵呵,别担心.作为新手,你已经很不错了!"
 
 # game/scripts/bar.rpy:5043
 translate schinese moon_gaming_e26da559:
 
     # k "Yeah, good job Emma."
-    k "是的,干得好艾玛."
+    k "是啊,干得好,艾玛."
 
 # game/scripts/bar.rpy:5044
 translate schinese moon_gaming_553b5360:
 
     # em "Thanks. I should practice a bit more though..."
-    em "谢谢.但是我应该多加练习......"
+    em "谢谢.不过我还是得多加练习......"
 
 # game/scripts/bar.rpy:5045
 translate schinese moon_gaming_dbf1f32f:
 
     # k "I can teach you the basic sometime if you'd like, and a few tips n' tricks as well. The rest is up to you though."
-    k "如果你想的话我可以教你一下基础操作,还有一些建议和技巧.不过剩下的就师傅领进门,修行看个人了."
+    k "如果你愿意,我可以教你一些基本知识,还有一些小技巧.剩下的就靠你自己了."
 
 # game/scripts/bar.rpy:5046
 translate schinese moon_gaming_69b45b1d:
 
     # em "That would be awesome, thanks Kali!"
-    em "那太棒了,谢谢你凯莉!"
+    em "那太棒了,谢谢你,凯莉!"
 
 # game/scripts/bar.rpy:5051
 translate schinese moon_gaming_939e1d6d:
 
     # level "Moon enjoys her time at the hotel more!"
-    level "文更喜欢她在酒店里的时光了!"
+    level "文更享受她在酒店里的时光了!"
 
 # game/scripts/bar.rpy:5059
 translate schinese moon_dorm_b7b84f7f:
 
     # "You drive to the mystery location... after heading south for 15 minutes you arrive at what appears to be a public housing unit for the community college next door."
-    "你驱车去了那个神秘地点......向南行驶15分钟后,你到达了社区学院(一种提供两年大学通识教育和技术培训的学校)隔壁的公共住房单元."
+    "你驱车前往了那个神秘地点......向南行驶15分钟后,你到达了一栋似乎是隔壁社区学院(一种提供两年大学通识教育和技术培训的学校)的公共住房单元."
 
 # game/scripts/bar.rpy:5060
 translate schinese moon_dorm_c836f8e9:
 
     # "Not sure where to go next, you text Moon..."
-    "你不知道要去哪里,就发了条短信给文......"
+    "你不知道接下来要去哪里,就给文发了条短信......"
 
 # game/scripts/bar.rpy:5061
 translate schinese moon_dorm_db6d3b75:
@@ -13101,7 +13101,7 @@ translate schinese moon_dorm_c7b9c948:
 translate schinese moon_dorm_3e51c26e:
 
     # c "You said now, didn't you?"
-    c "你说要现在,不是吗?"
+    c "你说现在,不是吗?"
 
 # game/scripts/bar.rpy:5064
 translate schinese moon_dorm_6991efa7:
@@ -13119,19 +13119,19 @@ translate schinese moon_dorm_54be8fa7:
 translate schinese moon_dorm_10731390:
 
     # moon "Room 524, east wing. Don't knock too loud."
-    moon "东侧的524号房.敲门不要敲太大声."
+    moon "东侧524号.敲门不要敲太大声."
 
 # game/scripts/bar.rpy:5067
 translate schinese moon_dorm_daf1e33a:
 
     # c "{i}(This is where she lives? East wing... room 524... okay.){/i}"
-    c "{i}(这是她住的地方吗?东侧......524号房......好的.){/i}"
+    c "{i}(这就是她住的地方吗?东侧......524号......行.){/i}"
 
 # game/scripts/bar.rpy:5068
 translate schinese moon_dorm_ed76a37e:
 
     # "After finding room 524, you knock three times. But just before you can finish the last knock, Moon opens the door, grabs your arm, and rushes you passed the kitchen into her room."
-    "找到524号房间后,你敲了三次门.但就在你敲完最后一次门之前,文打开了门,抓住你的胳膊,抓着你冲过厨房进入她的房间里."
+    "找到524号房间后,你敲了三次门.但就在你敲完最后一次门之前,文打开了门,抓住你的胳膊,穿过厨房,把你拉进了她的房间."
 
 # game/scripts/bar.rpy:5070
 translate schinese moon_dorm_35b82d8c:
@@ -13143,43 +13143,43 @@ translate schinese moon_dorm_35b82d8c:
 translate schinese moon_dorm_33c354c2:
 
     # c "What's with the rush?"
-    c "为什么冲这么快?"
+    c "怎么冲得这么着急?"
 
 # game/scripts/bar.rpy:5073
 translate schinese moon_dorm_f4d57304:
 
     # moon "Oh, I just didn't want my roommate hearing you... she's sleeping."
-    moon "噢,我只是不想要我的室友听到你......她在睡觉."
+    moon "噢,我只是不想让我的室友听见......她在睡觉."
 
 # game/scripts/bar.rpy:5074
 translate schinese moon_dorm_c89d67c5:
 
     # c "Well you have a nice place. Very clean."
-    c "嗯,你这地方不错.很干净啊."
+    c "嗯,你这地方真不错.很干净啊."
 
 # game/scripts/bar.rpy:5076
 translate schinese moon_dorm_e50b1c79:
 
     # moon "Thanks! Been living here for a few years now."
-    moon "谢谢!我在这已经住了几年了."
+    moon "谢谢!我已经在这住了好几年了."
 
 # game/scripts/bar.rpy:5077
 translate schinese moon_dorm_589654e5:
 
     # c "To be honest, It's a little weird for me to not see you in your work uniform."
-    c "说实在的,对我来说看见你没穿工作服有点怪怪的."
+    c "说实在的,对我来说,没看见你穿工作服,有点怪怪的."
 
 # game/scripts/bar.rpy:5078
 translate schinese moon_dorm_40bbc59c:
 
     # moon "And you're still wearing the same thing as ever, I see."
-    moon "而你却还穿着一样的衣服,我懂了."
+    moon "而你却还是老样子,我懂了."
 
 # game/scripts/bar.rpy:5079
 translate schinese moon_dorm_1af2a742:
 
     # c "You even kept the hair pin..."
-    c "你甚至还留着发夹......"
+    c "你甚至还留着那个发夹......"
 
 # game/scripts/bar.rpy:5081
 translate schinese moon_dorm_4984c9d6:
@@ -13203,7 +13203,7 @@ translate schinese moon_dorm_8dda2683:
 translate schinese moon_dorm_9121a1f9:
 
     # c "So, did you need help with anything?"
-    c "所以,你需要帮忙吗?"
+    c "所以,有什么需要帮忙的吗?"
 
 # game/scripts/bar.rpy:5087
 translate schinese moon_dorm_9ff7bb75:
@@ -13215,25 +13215,25 @@ translate schinese moon_dorm_9ff7bb75:
 translate schinese moon_dorm_868230b0:
 
     # moon "...Got too angry at that stupid game...{w}\nI can call you over whenever I want, right?"
-    moon "......玩那些傻逼游戏给我玩上火了......{w}\n我什么时候想打给你都行,对吧?"
+    moon "......玩那些傻逼游戏给我玩上火了......{w}\n我可以随时打电话给你,对吧?"
 
 # game/scripts/bar.rpy:5092
 translate schinese moon_dorm_6a400715:
 
     # moon "I didn't think you would."
-    moon "我也觉得你不会的."
+    moon "我也不觉得你会有问题."
 
 # game/scripts/bar.rpy:5094
 translate schinese moon_dorm_6bd06bf3:
 
     # moon "*sigh*, you can't fit me into your busy schedule from time to time?"
-    moon "*叹气*,你就不能在你繁忙的日程安排里抽出时间安排一下我吗?"
+    moon "*叹气*,你就不能时不时地把我塞进你那繁忙的日程表吗?"
 
 # game/scripts/bar.rpy:5095
 translate schinese moon_dorm_5fe2b739:
 
     # c "It really depends on the day."
-    c "那真的得看那天情况如何."
+    c "那真的得看当天情况如何."
 
 # game/scripts/bar.rpy:5096
 translate schinese moon_dorm_7e63ec25:
@@ -13251,19 +13251,19 @@ translate schinese moon_dorm_37f98624:
 translate schinese moon_dorm_de1697b7:
 
     # c "Uh, what's up with the sound proofing?"
-    c "呃,这里隔音效果如何?"
+    c "呃,这些隔音板是怎么回事?"
 
 # game/scripts/bar.rpy:5101
 translate schinese moon_dorm_0ecfe7f1:
 
     # moon "Oh... um... heh, funny story."
-    moon "噢......嗯......呵呵,有趣的故事."
+    moon "噢......嗯......呵呵,说来好笑."
 
 # game/scripts/bar.rpy:5102
 translate schinese moon_dorm_856e068a:
 
     # moon "Sometimes I get a little... too angry when playing... my roommate hates it when I get loud..."
-    moon "有时候我有点......玩游戏太生气了......我室友很讨厌我大声叫喊......"
+    moon "有时候我有点玩得......太上头了......我室友很讨厌我大喊大叫......"
 
 # game/scripts/bar.rpy:5103
 translate schinese moon_dorm_d851fbe6:
@@ -13275,13 +13275,13 @@ translate schinese moon_dorm_d851fbe6:
 translate schinese moon_dorm_67085aac:
 
     # moon "Yep!{w} \n{size=-10}{i}It may also be covering a few holes...\nThese are really cheap walls...{/i}{/size}"
-    moon "是的!{w}\n{size=-10}{i}不过上面可能有几个洞......\n这些墙真的很便宜......{/i}{/size}"
+    moon "是的!{w}\n{size=-10}{i}而且还能遮住几个洞......\n这些墙真的很豆腐渣......{/i}{/size}"
 
 # game/scripts/bar.rpy:5106
 translate schinese moon_dorm_39a43d58:
 
     # c "I think I know someone you might like."
-    c "我想我知道你可能会喜欢谁了."
+    c "我想我认识一个你可能会喜欢的人."
 
 # game/scripts/bar.rpy:5107
 translate schinese moon_dorm_e5c59d4d:
@@ -13293,7 +13293,7 @@ translate schinese moon_dorm_e5c59d4d:
 translate schinese moon_dorm_f9926702:
 
     # c "Kali, she lives at my hotel. She's on her computer all day."
-    c "凯莉,她住在我的酒店里.她整天在搞她的电脑."
+    c "凯莉,她住在我的酒店里,整天都在抱着电脑."
 
 # game/scripts/bar.rpy:5109
 translate schinese moon_dorm_28c6458f:
@@ -13305,13 +13305,13 @@ translate schinese moon_dorm_28c6458f:
 translate schinese moon_dorm_915c077b:
 
     # c "She's... choosy with her beverages. Prefers soda."
-    c "她......她对饮料很挑剔.她更喜欢苏打水."
+    c "她......对饮料很挑剔.她更喜欢汽水."
 
 # game/scripts/bar.rpy:5112
 translate schinese moon_dorm_25c7eaa7:
 
     # moon "Ohhh, well if she wants something sugary, there's plenty of options! Tell her to drop by some day, I'll show her my skills!"
-    moon "噢,嗯,如果她想要一些含糖的东西的话,我这里有很多选择!告诉她哪天来找我,我让她看看我的本事!"
+    moon "噢,嗯,如果她想喝甜的,我这里有很多选择!改天叫她过来,我给她露一手!"
 
 # game/scripts/bar.rpy:5113
 translate schinese moon_dorm_d522c5e0:
@@ -13329,13 +13329,13 @@ translate schinese moon_dorm_556bf10c:
 translate schinese moon_dorm_366c2711:
 
     # moon "Oh, Junior?"
-    moon "噢,尤尼奥尔?(原文Junior,意为初级的)"
+    moon "噢,朱尼尔?"
 
 # game/scripts/bar.rpy:5118
 translate schinese moon_dorm_ae721fa6:
 
     # moon "One of my first completed projects! It was a team effort to be honest with you, but I got to keep him!"
-    moon "这是我最早完成的项目之一!说实话,这是一整个团队努力的结果,但是我留下了他!"
+    moon "我最早完成的项目之一!老实说,这是整个团队努力的结果,但我还是留住了他!"
 
 # game/scripts/bar.rpy:5119
 translate schinese moon_dorm_89e22d18:
@@ -13347,7 +13347,7 @@ translate schinese moon_dorm_89e22d18:
 translate schinese moon_dorm_e864e211:
 
     # moon "Yeah, he will walk around and wave at you, but he doesn't have any AI or anything. I'm just an engineer."
-    moon "是的,他会走来走去,或者向你挥手,但是他没有任何AI在里面.毕竟我只是个工程师."
+    moon "是的,他会走来走去,或者向你挥手,但是他没有任何AI.毕竟我只是个工程师."
 
 # game/scripts/bar.rpy:5122
 translate schinese moon_dorm_2fae629c:
@@ -13359,19 +13359,19 @@ translate schinese moon_dorm_2fae629c:
 translate schinese moon_dorm_8bcbcbca:
 
     # moon "Not anymore, I've moved on to, um... - what's the expression... - greener pastures!"
-    moon "没有了,我转到,嗯......-应该怎么说来着......-更好的东西上了!"
+    moon "现在不是了,我已经转向了,嗯......-应该怎么说来着......-更广阔的天地!"
 
 # game/scripts/bar.rpy:5124
 translate schinese moon_dorm_e037f495:
 
     # moon "I study architecture, buildings and bridges."
-    moon "我在研究建筑设计,土木工程和桥梁工程."
+    moon "我现在在研究建筑,建造和桥梁."
 
 # game/scripts/bar.rpy:5125
 translate schinese moon_dorm_98855229:
 
     # moon "Want to know a secret? The future looks bright, literally! The next generation of buildings will be techno-fied."
-    moon "想知道个秘密吗?真的,前途很光明的!下一代的建筑将是科技化的."
+    moon "想知道个秘密吗?真的,未来一片光明!下一代建筑将实现技术化."
 
 # game/scripts/bar.rpy:5126
 translate schinese moon_dorm_55b48736:
@@ -13383,19 +13383,19 @@ translate schinese moon_dorm_55b48736:
 translate schinese moon_dorm_be9bf2b4:
 
     # moon "Because I'm working on them! Maybe not... directly, but we aren't studying last generation's architecture, that's for sure!"
-    moon "因为我在研究它们啊!也许并不是很......直接,但是我们不是在研究上一代的建筑,这是肯定的!"
+    moon "因为我在研究它们啊!也许并不是......直接研究,但可以肯定的是,我们不是在研究上一代的建筑!"
 
 # game/scripts/bar.rpy:5128
 translate schinese moon_dorm_d05a85f5:
 
     # moon "Imagine entire cities with two levels! Skyscrapers with ads two miles high, like a big TV on each side!"
-    moon "想象一下,整个城市分成两层!摩天大楼里的广告有两英尺高,就像大电视一样!"
+    moon "想象一下,整个城市分成两层!摩天大楼的广告有两英尺高,就像两边装着大电视一样!"
 
 # game/scripts/bar.rpy:5129
 translate schinese moon_dorm_aecc6613:
 
     # c "So you're going to be the reason no one gets any sleep?"
-    c "所以你会成为人们没法睡觉的原因?"
+    c "所以你会成为人们夜不能寐的罪魁祸首?"
 
 # game/scripts/bar.rpy:5130
 translate schinese moon_dorm_cec1207c:
@@ -13407,37 +13407,37 @@ translate schinese moon_dorm_cec1207c:
 translate schinese moon_dorm_78a4c7a9:
 
     # moon "You must understand, more people are congregating in cities each day, there will even be a need for living spaces on top of and under major bridges. Like a house/bridge hybrid."
-    moon "你得明白,随着每天都会有更多的人涌入城市,甚至会有人需要在桥梁底部和顶部生活.就像是房子和桥梁的混合体."
+    moon "你得明白,每天有越来越多的人涌入城市,我们甚至需要在桥顶和桥下建造居住空间.就像是房子和桥梁的混合体."
 
 # game/scripts/bar.rpy:5133
 translate schinese moon_dorm_5ea157d5:
 
     # c "You're really trying to cram as many people in one spot as you can, aren't you?"
-    c "你真的很想把尽可能多的人塞进一个地方里,对吧?"
+    c "你真的很想把尽可能多的人塞进一个地方里,是吗?"
 
 # game/scripts/bar.rpy:5134
 translate schinese moon_dorm_a6268835:
 
     # moon "I guess if there's a demand, someone will be there to supply it."
-    moon "我想,只要有需求,那就会有人来供给."
+    moon "我想,只要有需求,那就会有供给."
 
 # game/scripts/bar.rpy:5136
 translate schinese moon_dorm_0936d363:
 
     # moon "That someone will be me! I want to be designing entire cities from the ground up!"
-    moon "那个人就是我!我想从头开始设计整个城市!"
+    moon "那个供给的人就是我!我想从头开始设计整个城市!"
 
 # game/scripts/bar.rpy:5137
 translate schinese moon_dorm_79c8c50e:
 
     # c "That's a very ambitious dream."
-    c "这是一个非常雄心勃勃的梦想."
+    c "野心挺大啊."
 
 # game/scripts/bar.rpy:5138
 translate schinese moon_dorm_0a54e98a:
 
     # moon "There's more than enough space in Syl'anar, and with the recent push for human children from the government, there will be more than enough demand too!"
-    moon "西尔阿纳尔的空间绰绰有余,加上最近政府对人类儿童福祉的推动,也会带来更多的需求的!"
+    moon "西尔阿纳尔的空间绰绰有余,而且随着政府最近对人类儿童生育政策的推动,需求也会越来越大!"
 
 # game/scripts/bar.rpy:5139
 translate schinese moon_dorm_d6f29a72:
@@ -13449,31 +13449,31 @@ translate schinese moon_dorm_d6f29a72:
 translate schinese moon_dorm_6498292d:
 
     # moon "I would very much like to mimic the scenery I grew up with. In a way, there were towers around me too. Stone towers, with wooden bridges connecting each for safe travel."
-    moon "我很想模仿我成长过程中所遇到的风景.某种程度上来说,我的周围也充满摩天大楼.它们是石制的塔楼,每座塔楼之间有木桥连接,以便安全出行."
+    moon "我很想模仿我成长过程中所遇到的风景.某种程度上来说,我成长的环境也充满摩天大楼.它们是石制的塔楼,每座塔楼之间有可以安全通行的木桥连接."
 
 # game/scripts/bar.rpy:5141
 translate schinese moon_dorm_2c9ea994:
 
     # moon "My dream is to have each tower connected to the other at the top! You would never have to touch the ground if you really wanted to."
-    moon "我的梦想是让每座摩天大楼的顶部和另一座连接起来!如果你真的想的话,你甚至可以永远不接触到地表."
+    moon "我的梦想是让每座摩天大楼的楼顶互相连接起来!如果你真的想的话,你甚至永远都不需要接触地面."
 
 # game/scripts/bar.rpy:5142
 translate schinese moon_dorm_bb9dbecd:
 
     # moon "Greenery too! There are many trees native to my country that can withstand the heavy winds at high altitudes, it should help make cities a little livelier!"
-    moon "绿化也是!我的国家有很多原生的树木,可以抵御高海拔地区的大风,它应该有助于让城市变得更有生气!"
+    moon "绿化也是!我的祖国有很多原生的树木,可以抵御高海拔地区的大风,它应该能让城市变得更有活力!"
 
 # game/scripts/bar.rpy:5143
 translate schinese moon_dorm_7f580a28:
 
     # c "That's impressive, I hope to see it one day."
-    c "那太惊人了,我希望有一天我可以看到它."
+    c "真了不起,我希望有一天能看到它."
 
 # game/scripts/bar.rpy:5145
 translate schinese moon_dorm_b4fcef56:
 
     # moon "Heh, me too... people in my field don't actually expect to see their work completed."
-    moon "呵呵,我也是......我这个领域的人一般是没法看到他们的杰作完成的."
+    moon "呵呵,我也是......干我这行的人其实并不指望能看到自己的工作完成的."
 
 # game/scripts/bar.rpy:5146
 translate schinese moon_dorm_5cd8af09:
@@ -13485,25 +13485,25 @@ translate schinese moon_dorm_5cd8af09:
 translate schinese moon_dorm_56856ac0:
 
     # moon "In theory we should be able to build and support a metropolis in thirty years, especially with the push for human children. But it's more of the fact that this has never been done before..."
-    moon "理论上,我们应该可以在30年内建造并支持一个大都市,尤其是在新生的人类儿童的推动下.但是更大的问题是,实际上,这种事情以前从来没有发生过......"
+    moon "理论上,我们应该能够在30年内建造并支持一个大都市,尤其是在人类儿童生育政策的推动下.但问题在于,以前从未有人做到这一点......"
 
 # game/scripts/bar.rpy:5149
 translate schinese moon_dorm_9d83f950:
 
     # moon "It would take dozens of architects, engineers, and designers to even start planning and likely years after that just to ensure the blueprints are perfect. Every nut and bolt... So we keep our expectations in check."
-    moon "甚至还要花几十个建筑师,工程师和设计师来开始规划,之后可能还需要好几年的时间来确保蓝图的完美.即使是每一个螺母和螺栓......所以我们要保持我们的期望."
+    moon "即使现在开始规划,也需要数十名建筑师,工程师和设计师,之后可能还需要数年时间才能确保蓝图中每一个螺母和螺栓都完美无缺.因此,我们需要控制自己的期望值."
 
 # game/scripts/bar.rpy:5150
 translate schinese moon_dorm_bbdedd0b:
 
     # c "Wow, what about space? Any projects up there?"
-    c "喔,那太空呢?有计划吗?"
+    c "哇哦,那太空呢?你有什么计划吗?"
 
 # game/scripts/bar.rpy:5151
 translate schinese moon_dorm_3b86563e:
 
     # moon "Are you kidding? No way! That's way out of my field."
-    moon "你在开玩笑吗?不可能的!这已经超出了我的领域."
+    moon "你在开玩笑吗?不可能的!这已经超出了我的能力范围了."
 
 # game/scripts/bar.rpy:5153
 translate schinese moon_dorm_25ac70fd:
@@ -13515,37 +13515,37 @@ translate schinese moon_dorm_25ac70fd:
 translate schinese moon_dorm_946b3b9e:
 
     # moon "Yeah, but it's not my passion to tell you the truth. I like to think of myself as an architect!"
-    moon "是的,但是还是把真相告诉你把,这并不是我的激情所在.我喜欢把自己当成建筑师!"
+    moon "是的,但说实话,这不是我的爱好.我喜欢把自己当成一名建筑师!"
 
 # game/scripts/bar.rpy:5155
 translate schinese moon_dorm_5153b017:
 
     # moon "When I joined, I wasn't really sure what I wanted to do... typical freshman story..."
-    moon "我加入大学的时候完全不确定自己想做什么......典型的新生故事......"
+    moon "我刚上大学的时候,并不确定自己想做什么......典型的新生故事......"
 
 # game/scripts/bar.rpy:5156
 translate schinese moon_dorm_ecc41ada:
 
     # c "You haven't quit though? You must still enjoy it."
-    c "但是你没有放弃?你一定还是很享受的吧."
+    c "但是你却没有放弃?你一定还乐在其中吧."
 
 # game/scripts/bar.rpy:5157
 translate schinese moon_dorm_69f876aa:
 
     # moon "Yeah! I have always liked the idea of making medicines! It was something my father did! Each time I would scratch myself on the harsh foliage, he would mix bees wax, mint, lavender, melaleuca and a few other spices to make a home made healing salve!"
-    moon "是的!我一直喜欢制作药品!这也是我爸爸所做的事情!每次我因为抓到锋利的树叶弄伤自己的时候,他都会把蜂蜡,薄荷,薰衣草,白头翁,还有其他的草药混合起来,制成自制的治疗药膏!"
+    moon "是的!我一直都很喜欢制药!这也是我爸爸所做的事情!每次我被锋利的树叶刮伤的时候,他都会把蜂蜡,薄荷,薰衣草,白千层,还有其他的草药混合起来,制成自制的治疗药膏!"
 
 # game/scripts/bar.rpy:5158
 translate schinese moon_dorm_db33a1f3:
 
     # c "Wow, he was very resourceful."
-    c "哇哦,他很有办法呢."
+    c "哇哦,他真是足智多谋."
 
 # game/scripts/bar.rpy:5159
 translate schinese moon_dorm_7d5115b0:
 
     # moon "You bet! His way of doing things was very primative though, what I'm doing is real science!"
-    moon "你说得对!不过他的方式很原始,而我则是真正的科学!"
+    moon "你说得对!不过他的方式很原始,而我做的才是真正的科学!"
 
 # game/scripts/bar.rpy:5161
 translate schinese moon_dorm_8c546c48:
@@ -13557,19 +13557,19 @@ translate schinese moon_dorm_8c546c48:
 translate schinese moon_dorm_6d202f34:
 
     # moon "Vaccination! When they inject your arm with healing juice to prevent you from gaining a sickness."
-    moon "疫苗!就是那种他们给你手臂注射的那种药物,以防止你生病."
+    moon "疫苗!就是那种他们给你手臂注射的以防止你生病的液体."
 
 # game/scripts/bar.rpy:5164
 translate schinese moon_dorm_6405c78c:
 
     # c "I think I understand."
-    c "我想我理解了."
+    c "我知道你在说什么."
 
 # game/scripts/bar.rpy:5165
 translate schinese moon_dorm_e0f2fd9b:
 
     # moon "Mhm! It's pretty fun, we get to peer into the microscopic universe. Maybe I'll show you what a protein looks like some day?"
-    moon "嗯!它真的很有趣,它让我们可以窥探宇宙的微观层面.也许有一天我可以让你看看蛋白质到底长什么样子?"
+    moon "嗯!它真的很有趣,它让我们可以窥探微观世界.许哪天我会让你看看蛋白质长什么样?"
 
 # game/scripts/bar.rpy:5166
 translate schinese moon_dorm_a89a0d91:
@@ -13581,19 +13581,19 @@ translate schinese moon_dorm_a89a0d91:
 translate schinese moon_dorm_4ed77576:
 
     # c "Did you ever think you would be where you are now? In a society or just surrounded by all of this technology?"
-    c "你以前有没有想过你现在会出现在这里?有没有想过自己真的会融入社会,甚至被这些科技所环绕?"
+    c "你有没有想过你现在会在这里?身处社会之中,被这些科技所包围?"
 
 # game/scripts/bar.rpy:5169
 translate schinese moon_dorm_608f72da:
 
     # moon "Definitely not, it's a dream come true!"
-    moon "当然没有,但是这也是我的梦想!"
+    moon "绝对没有,这简直是梦想成真!"
 
 # game/scripts/bar.rpy:5171
 translate schinese moon_dorm_3528e1b5:
 
     # moon "Not for my father though, it was his worst nightmare..."
-    moon "不过不是我爸爸的,这对他来说是最可怕的噩梦......"
+    moon "不过对我爸爸来说不是,这是他最可怕的噩梦......"
 
 # game/scripts/bar.rpy:5172
 translate schinese moon_dorm_d0ae06d2:

@@ -8487,13 +8487,13 @@ translate schinese aut_three_c6d8c12c:
 translate schinese aut_three_0a7c359a:
 
     # au "What are these orc things that keep coming up? It was nowhere to be seen in the earlier parts of this book, it's as if they suddenly appear out of nowhere..."
-    au "这些不断出现的兽人是什么东西?在本书的前半部分根本看不到他们,就像突然凭空出现一样......"
+    au "这些不断出现的兽人是什么东西?在这本书的前半部分根本看不到有关他们的记载,就好像是突然凭空出现的一样......"
 
 # game/scripts/autumn_events.rpy:2028
 translate schinese aut_three_94deb6cc:
 
     # au "Giant ships of metal, explosion magic, and from the sky as a shooting star... total devastation, everything turned to dust... but where did they come from? Hm, I wonder if orc is the elvish word for demon, or maybe I'm just trying to make things make sense to me."
-    au "金属巨舰,爆炸魔法,天坠流星......毁灭降临,尘埃落定......但他们从何而来?嗯,我在想兽人是不是精灵语中恶魔的意思,我只是想让逻辑更清晰一些."
+    au "金属巨舰,爆炸魔法,天坠流星......毁灭降临,尘埃落定......但他们从何而来?嗯,我在想兽人是不是精灵语中恶魔的意思,我只是想让自己觉得合理一些."
 
 # game/scripts/autumn_events.rpy:2029
 translate schinese aut_three_e154c902:
