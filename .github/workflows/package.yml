@@ -16,9 +16,8 @@ jobs:
 
       - name: Create ZIP Archive
         run: |
-          mkdir schinese
-          rsync -av --exclude='.vscode' --exclude='.github' --exclude='*.rpy' ./ schinese/
-          zip -r schinese.zip schinese
+          rsync -av --exclude='.vscode' --exclude='.github' --exclude='.git' --exclude='*.rpy' ./ schinese/
+          zip -r schinese.zip schinese/
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
