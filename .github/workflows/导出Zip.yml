@@ -1,0 +1,27 @@
+name: 导出Zip
+
+on:
+  push:
+    branches:
+      - main  # 触发打包的分支
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 导入
+        uses: actions/checkout@v3
+
+      - name: 打包
+        run: |
+          mkdir schinese
+          rsync -av --exclude=".vscode" --exclude="*.rpy" --exclude="*.github" ./ schinese/
+          zip -r schinese.zip schinese
+
+      - name: 导出
+        uses: actions/upload-artifact@v3
+        with:
+          name: schinese
+          path: schinese.zip
