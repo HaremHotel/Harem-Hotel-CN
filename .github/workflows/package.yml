@@ -1,0 +1,27 @@
+name: 导出ZIP
+
+on:
+  push:
+    branches:
+      - main  # 你可以修改为你的主分支名称
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create ZIP Archive
+        run: |
+          mkdir schinese
+          rsync -av --exclude='.vscode' --exclude='.github' --exclude='*.rpy' ./ schinese/
+          zip -r schinese.zip schinese
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: schinese
+          path: schinese.zip
