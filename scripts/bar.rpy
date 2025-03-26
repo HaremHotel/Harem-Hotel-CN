@@ -13569,7 +13569,7 @@ translate schinese moon_dorm_6405c78c:
 translate schinese moon_dorm_e0f2fd9b:
 
     # moon "Mhm! It's pretty fun, we get to peer into the microscopic universe. Maybe I'll show you what a protein looks like some day?"
-    moon "嗯!它真的很有趣,它让我们可以窥探微观世界.许哪天我会让你看看蛋白质长什么样?"
+    moon "嗯!它真的很有趣,它让我们可以窥探微观世界.或许哪天我会让你看看蛋白质长什么样?"
 
 # game/scripts/bar.rpy:5166
 translate schinese moon_dorm_a89a0d91:
@@ -13581,19 +13581,19 @@ translate schinese moon_dorm_a89a0d91:
 translate schinese moon_dorm_4ed77576:
 
     # c "Did you ever think you would be where you are now? In a society or just surrounded by all of this technology?"
-    c "你有没有想过你现在会在这里?身处社会之中,被这些科技所包围?"
+    c "你之前有没有想过,你现在会在这里?身处于社会之中,被这些科技所包围?"
 
 # game/scripts/bar.rpy:5169
 translate schinese moon_dorm_608f72da:
 
     # moon "Definitely not, it's a dream come true!"
-    moon "绝对没有,这简直是梦想成真!"
+    moon "绝对没有,这对我来说简直是梦想成真!"
 
 # game/scripts/bar.rpy:5171
 translate schinese moon_dorm_3528e1b5:
 
     # moon "Not for my father though, it was his worst nightmare..."
-    moon "不过对我爸爸来说不是,这是他最可怕的噩梦......"
+    moon "不过对我爸爸来说可不是,这是他最可怕的噩梦......"
 
 # game/scripts/bar.rpy:5172
 translate schinese moon_dorm_d0ae06d2:
@@ -13605,31 +13605,31 @@ translate schinese moon_dorm_d0ae06d2:
 translate schinese moon_dorm_cd7d2135:
 
     # moon "They left all of this behind when my parents decided to 'return to the ancient way of life'. My father said it was all too much, wanted a simpler life."
-    moon "我父母决定'回归古老的生活方式',把这些东西都抛掷脑后了.我爸爸说这些东西实在是太多了,他想要更简单的生活."
+    moon "我父母决定抛弃这些洞穴,'回归古老的生活方式'.我爸爸说这些东西实在是太多了,他想要更简单的生活."
 
 # game/scripts/bar.rpy:5174
 translate schinese moon_dorm_34ac060c:
 
     # c "He willingly made his life worse?"
-    c "他心甘情愿让自己的生活变得更糟糕吗?"
+    c "他甘愿让自己的生活变得更糟?"
 
 # game/scripts/bar.rpy:5176
 translate schinese moon_dorm_b42bb5c0:
 
     # moon "Guess that's all subjective! We never paid taxes, I bet you can't say the same."
-    moon "那都是主观臆断!我们都不用交税,你也不能这么说."
+    moon "我想这都是个人看法吧!而且你也不能完全那么说,我们都不用交税呢."
 
 # game/scripts/bar.rpy:5177
 translate schinese moon_dorm_14dd6c94:
 
     # c "You don't even sound upset that's how you were raised."
-    c "你听起来并没有因为你成长的环境而不高兴啊."
+    c "听起来,你并没有因为你成长的环境而沮丧."
 
 # game/scripts/bar.rpy:5178
 translate schinese moon_dorm_2584a6ef:
 
     # moon "Why should I be? I had a great upbringing! I was loved, well fed, and learned something new all the time. Still to this day, I reflect on those times and come to understand what I learned helps me today."
-    moon "为什么我要?我有一个很好的成长环境!我被爱着,被喂养着,而且一直在学习新的东西.直到今天,我依然在怀念那些时光,并领悟到我那时候所学到的东西对我今天的帮助."
+    moon "为什么我要沮丧呢?我的成长环境可好了!我备受关爱,衣食无忧,而且总是能学到新东西.时至今日,我仍会回想那段时光,并领悟到我那时候所学到的东西对我今天的帮助."
 
 # game/scripts/bar.rpy:5179
 translate schinese moon_dorm_23cbf4bf:
@@ -13641,31 +13641,31 @@ translate schinese moon_dorm_23cbf4bf:
 translate schinese moon_dorm_d533ad6f:
 
     # moon "It would have been a totally different story if I had stayed though, I knew that life wasn't for me."
-    moon "如果我留下来的话,故事就完全不一样了,我知道那种生活并不适合我."
+    moon "不过,如果我留下去的话,那就另算了,我知道那种生活并不适合我."
 
 # game/scripts/bar.rpy:5181
 translate schinese moon_dorm_535329d9:
 
     # c "You said it made his life worse when you left though?"
-    c "你是说你离开后他的生活变得更糟了?"
+    c "你是说你离开后,他的生活变得更糟了?"
 
 # game/scripts/bar.rpy:5183
 translate schinese moon_dorm_61058d50:
 
     # moon "He really did want to keep me away from technology, society, everything. He believed everything we needed was already around us, and he showed me that through his teachings."
-    moon "他确实很想让我远离科技,社会和其他的一切东西.他相信我们所需要的一切都已经在我们身边,他通过他的教诲向我传达了这一点."
+    moon "他确实很想让我远离科技,社会和其他的一切东西.他想让我明白,我们所需要的一切都已经在我们身边了."
 
 # game/scripts/bar.rpy:5184
 translate schinese moon_dorm_29df8326:
 
     # moon "And he was correct, but what he failed to understand is... we have the ability to change things, make them better."
-    moon "他是对的,但是他没有理解的是......我们有能力改变这些东西,让它们变得更好."
+    moon "他说的没错,但他不明白......我们有能力改变现状,让它们变得更好."
 
 # game/scripts/bar.rpy:5185
 translate schinese moon_dorm_4d620097:
 
     # moon "The medicines of today are just alterations of the medicines of yesterday. My father was already doing the one thing he tried to get away from. Those healing salves, the dinner he cooked for me... that never grew off the tree like that. {i}He made them better.{/i}"
-    moon "今天的药物是在昨天的药物上做出的改动.我爸爸已经做过那些他试图摆脱的事情了.无论是那些治疗用的药膏还是他给我做的晚餐......它们都不是树上长出来的.{i}是他让它们变得更好.{/i}"
+    moon "今天的药物就是昨天的药物改进后的结果.我爸爸已经在做那些他试图逃避的事情了.无论是那些治疗用的药膏,还是他给我做的晚餐......它们都不是树上凭空长出来的.{i}是他让它们变得更好.{/i}"
 
 # game/scripts/bar.rpy:5187
 translate schinese moon_dorm_2b189c1b:
@@ -13677,7 +13677,7 @@ translate schinese moon_dorm_2b189c1b:
 translate schinese moon_dorm_91e092ab:
 
     # c "That's an interesting way of looking at it, I see where you got your inspiration from."
-    c "这么看问题确实有趣,我知道你的灵感是来自哪里了."
+    c "你的想法很有趣,我知道你的灵感来自哪里了."
 
 # game/scripts/bar.rpy:5189
 translate schinese moon_dorm_b9cb54da:
@@ -13701,19 +13701,19 @@ translate schinese moon_dorm_d19f855d:
 translate schinese moon_dorm_1e3a082d:
 
     # moon "...So... {w}I wasn't entirely truthful when I told you I was just bored..."
-    moon "......所以......{w}我告诉你我只是无聊的时候,我没有把话全说出来......"
+    moon "......所以......{w}我之前跟你说我只是无聊的时候,我并没有完全说实话......"
 
 # game/scripts/bar.rpy:5194
 translate schinese moon_dorm_498da023:
 
     # moon "I was watching videos earlier...{w} with... {w}my hand between my legs..."
-    moon "我之前在看视频......{w}还......{w}还把手放在两腿中间了......"
+    moon "我之前在看视频......{w}还......{w}还把手放在两腿中间......"
 
 # game/scripts/bar.rpy:5195
 translate schinese moon_dorm_81334995:
 
     # moon "I... couldn't get a certain thought out of my head..."
-    moon "我......没法摆脱那个想法......"
+    moon "我......脑子里的那个念头一直挥之不去......"
 
 # game/scripts/bar.rpy:5196
 translate schinese moon_dorm_1cef78cf:

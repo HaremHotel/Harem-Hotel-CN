@@ -47308,3 +47308,695 @@ translate schinese strings:
     old "Mock"
     new "嘲弄"
 
+# TODO: Translation updated at 2025-03-26 23:38
+
+# game/scripts/maria_events.rpy:9
+translate schinese mar_breakfast_791829af:
+
+    # m "Ya know... it was really a shame you didn't join us at the beach. We had a lot of fun. And I would have {i}looooved{/i} to see you in a swimsuit!"
+    m ""
+
+# game/scripts/maria_events.rpy:10
+translate schinese mar_breakfast_f7ebc4db:
+
+    # e "You know I'm a busy woman. Someone has to keep the hotel running."
+    e ""
+
+# game/scripts/maria_events.rpy:11
+translate schinese mar_breakfast_e5ad49e1:
+
+    # m "Oh c'mon, nobody ever comes by anyway. You live here just like the rest of us, but you barely go out!"
+    m ""
+
+# game/scripts/maria_events.rpy:12
+translate schinese mar_breakfast_b9147e5a:
+
+    # e "I prefer it here. I've lived here longer than anyone... almost as long as I can remember, actually."
+    e ""
+
+# game/scripts/maria_events.rpy:13
+translate schinese mar_breakfast_184f268e:
+
+    # m "Damn... I wouldn't have thought you were a recluse. With a body like that, you could be a model."
+    m ""
+
+# game/scripts/maria_events.rpy:14
+translate schinese mar_breakfast_eb5d12ac:
+
+    # e "Oh stop..."
+    e ""
+
+# game/scripts/maria_events.rpy:15
+translate schinese mar_breakfast_d7a08719:
+
+    # m "I'm serious!"
+    m ""
+
+# game/scripts/maria_events.rpy:17
+translate schinese mar_breakfast_eee25f10:
+
+    # m "Hey... I haven't met anyone else with pink eyes before. Did your parents have them as well?"
+    m ""
+
+# game/scripts/maria_events.rpy:18
+translate schinese mar_breakfast_e3d986f2:
+
+    # e "Oh, well, yes of course."
+    e ""
+
+# game/scripts/maria_events.rpy:19
+translate schinese mar_breakfast_8ca8ba60:
+
+    # m "That's all I get? C'mon... is it like a genetic mutation or something?"
+    m ""
+
+# game/scripts/maria_events.rpy:21
+translate schinese mar_breakfast_f4daa46d:
+
+    # e "You can easily search that online, Maria. It's not something I like to discuss."
+    e ""
+
+# game/scripts/maria_events.rpy:22
+translate schinese mar_breakfast_ba17f58e:
+
+    # m "The last time I searched something up that was weird about my body, it said I had cancer... I'd rather avoid the anxiety this time."
+    m ""
+
+# game/scripts/maria_events.rpy:23
+translate schinese mar_breakfast_d54c922f:
+
+    # e "...Pink eyes are inherited from a dark elvish ancestor. It's a dominant gene, so once one ancestor has it, it's pretty much guaranteed their children will."
+    e ""
+
+# game/scripts/maria_events.rpy:25
+translate schinese mar_breakfast_b12e925a:
+
+    # m "I have an elvish ancestor...? I had no idea."
+    m ""
+
+# game/scripts/maria_events.rpy:26
+translate schinese mar_breakfast_1c3e069e:
+
+    # e "Couldn't you have asked your mother about this?"
+    e ""
+
+# game/scripts/maria_events.rpy:27
+translate schinese mar_breakfast_6cedb4c9:
+
+    # m "Well...\nWait, dark elves have purple eyes though. Why are ours pink?"
+    m ""
+
+# game/scripts/maria_events.rpy:28
+translate schinese mar_breakfast_d2b4f018:
+
+    # e "I don't know... it's very rare to see a human with perfect dark elf eyes. Ashley is the exception."
+    e ""
+
+# game/scripts/maria_events.rpy:30
+translate schinese mar_breakfast_0218437c:
+
+    # m "I've always been self-conscious about them... My ex hated them, said it reminded him too much of elves."
+    m ""
+
+# game/scripts/maria_events.rpy:31
+translate schinese mar_breakfast_510db0b3:
+
+    # e "Oh Maria, your eyes are beautiful! Don't let a man like that make you feel bad."
+    e ""
+
+# game/scripts/maria_events.rpy:32
+translate schinese mar_breakfast_98c6141c:
+
+    # m "Thank you..."
+    m ""
+
+# game/scripts/maria_events.rpy:34
+translate schinese mar_breakfast_8e115758:
+
+    # c "Good morning."
+    c ""
+
+# game/scripts/maria_events.rpy:35
+translate schinese mar_breakfast_dbf8e00a:
+
+    # m "Oh hey [name]! Are you hungry? Join us!"
+    m ""
+
+# game/scripts/maria_events.rpy:36
+translate schinese mar_breakfast_7890ee2c:
+
+    # l "Good morning [linoname]. I can make you some breakfast if you would like."
+    l ""
+
+# game/scripts/maria_events.rpy:37
+translate schinese mar_breakfast_6840457f:
+
+    # c "Sure, thanks."
+    c ""
+
+# game/scripts/maria_events.rpy:39
+translate schinese mar_breakfast_bddc1dde:
+
+    # m "So I have to ask... have you two fucked yet?"
+    m ""
+
+# game/scripts/maria_events.rpy:40
+translate schinese mar_breakfast_b4c206a8:
+
+    # e "Excuse me! You absolutely did not have to ask that! We're eating!"
+    e ""
+
+# game/scripts/maria_events.rpy:41
+translate schinese mar_breakfast_bd44cceb:
+
+    # m "Come on, she's a grade A milf, you must have!"
+    m ""
+
+# game/scripts/maria_events.rpy:42
+translate schinese mar_breakfast_b0e0fde4:
+
+    # e "I am {u}not{/u} a mother!"
+    e ""
+
+# game/scripts/maria_events.rpy:44
+translate schinese mar_breakfast_c264c0da:
+
+    # m "There's still time~"
+    m ""
+
+# game/scripts/maria_events.rpy:45
+translate schinese mar_breakfast_da031af5:
+
+    # e "I am not interested in having children, Maria."
+    e ""
+
+# game/scripts/maria_events.rpy:46
+translate schinese mar_breakfast_72213cde:
+
+    # m "Perfect, you'll keep that body for a long time then."
+    m ""
+
+# game/scripts/maria_events.rpy:47
+translate schinese mar_breakfast_2fecbfee:
+
+    # m "In fact... you should start camgirling. You could be a millionaire! I'll even let you join mine if you want~"
+    m ""
+
+# game/scripts/maria_events.rpy:48
+translate schinese mar_breakfast_5908d35b:
+
+    # e "Hold on... that's how you make your money? You're a camgirl?"
+    e ""
+
+# game/scripts/maria_events.rpy:49
+translate schinese mar_breakfast_38fbee9d:
+
+    # m "Hey, I have to make a living somehow. I put myself through college, you know? No one else could help me."
+    m ""
+
+# game/scripts/maria_events.rpy:50
+translate schinese mar_breakfast_25dcee5a:
+
+    # e "That's great for you, but I'm not interested."
+    e ""
+
+# game/scripts/maria_events.rpy:51
+translate schinese mar_breakfast_d176e67f:
+
+    # m "You're both really hot! If I could just get you two on a stream with me..."
+    m ""
+
+# game/scripts/maria_events.rpy:52
+translate schinese mar_breakfast_c8b7d39e:
+
+    # e "No!"
+    e ""
+
+# game/scripts/maria_events.rpy:53
+translate schinese mar_breakfast_d0753d8a:
+
+    # m "Fine... but let me know if you change your mind."
+    m ""
+
+# game/scripts/maria_events.rpy:54
+translate schinese mar_breakfast_dbfde05b:
+
+    # e "I won't!"
+    e ""
+
+# game/scripts/maria_events.rpy:56
+translate schinese mar_breakfast_4f5c55ac:
+
+    # l "Enjoy [linoname]! Let me know if you would like anything else."
+    l ""
+
+# game/scripts/maria_events.rpy:57
+translate schinese mar_breakfast_e897fbb0:
+
+    # c "Thank you."
+    c ""
+
+# game/scripts/maria_events.rpy:59
+translate schinese mar_breakfast_ebfa3a63:
+
+    # k "Hey, could I get some of that?"
+    k ""
+
+# game/scripts/maria_events.rpy:60
+translate schinese mar_breakfast_a114f3f8:
+
+    # l "Of course."
+    l ""
+
+# game/scripts/maria_events.rpy:61
+translate schinese mar_breakfast_13a0c3bc:
+
+    # m "Oh, hey Kali!\nCome take a seat."
+    m ""
+
+# game/scripts/maria_events.rpy:62
+translate schinese mar_breakfast_bb5a5260:
+
+    # k "Nah, I'm just gonna eat in my room."
+    k ""
+
+# game/scripts/maria_events.rpy:63
+translate schinese mar_breakfast_4ad64b15:
+
+    # m "Dude, come on... is this whole hotel full of recluses? Sit!"
+    m ""
+
+# game/scripts/maria_events.rpy:64
+translate schinese mar_breakfast_1b3de00c:
+
+    # c "Come on Kali, join us."
+    c ""
+
+# game/scripts/maria_events.rpy:65
+translate schinese mar_breakfast_bf319687:
+
+    # k "Well, okay."
+    k ""
+
+# game/scripts/maria_events.rpy:67
+translate schinese mar_breakfast_0f6b214d:
+
+    # m "Y'know... you're pretty hot too. You could be a camgirl."
+    m ""
+
+# game/scripts/maria_events.rpy:68
+translate schinese mar_breakfast_c4a3acc1:
+
+    # k "...What did I just walk into?"
+    k ""
+
+# game/scripts/maria_events.rpy:69
+translate schinese mar_breakfast_fd8a0c6b:
+
+    # e "Apparently Maria is a camgirl."
+    e ""
+
+# game/scripts/maria_events.rpy:70
+translate schinese mar_breakfast_64dfb6ad:
+
+    # m "C'mon, you got the boobs for it. Want to join a stream with me?"
+    m ""
+
+# game/scripts/maria_events.rpy:71
+translate schinese mar_breakfast_16fc5979:
+
+    # k "Are you always this horny?"
+    k ""
+
+# game/scripts/maria_events.rpy:72
+translate schinese mar_breakfast_8cb62253:
+
+    # m "Yes."
+    m ""
+
+# game/scripts/maria_events.rpy:73
+translate schinese mar_breakfast_052c8685:
+
+    # k "I don't need anyone recognizing me..."
+    k ""
+
+# game/scripts/maria_events.rpy:74
+translate schinese mar_breakfast_0a48bdd3:
+
+    # m "You could wear a mask!"
+    m ""
+
+# game/scripts/maria_events.rpy:76
+translate schinese mar_breakfast_3228421b:
+
+    # m "Wait... I always did think you looked familiar. Do I know you from somewhere?"
+    m ""
+
+# game/scripts/maria_events.rpy:77
+translate schinese mar_breakfast_8112935f:
+
+    # k "What? No."
+    k ""
+
+# game/scripts/maria_events.rpy:78
+translate schinese mar_breakfast_44f7da31:
+
+    # m "Are you sure? You're not like, famous or anything?"
+    m ""
+
+# game/scripts/maria_events.rpy:79
+translate schinese mar_breakfast_05b6f504:
+
+    # c "She barely leaves her room, Maria, she's not famous."
+    c ""
+
+# game/scripts/maria_events.rpy:80
+translate schinese mar_breakfast_371fee5e:
+
+    # m "Hmmm, okay..."
+    m ""
+
+# game/scripts/maria_events.rpy:82
+translate schinese mar_breakfast_2b1e5a7c:
+
+    # m "So, do you have any shitty ex boyfriends? Or girlfriends...?"
+    m ""
+
+# game/scripts/maria_events.rpy:83
+translate schinese mar_breakfast_664461fc:
+
+    # k "Yeah, I guess."
+    k ""
+
+# game/scripts/maria_events.rpy:84
+translate schinese mar_breakfast_36ceaf3c:
+
+    # m "Spill the tea! What happened?"
+    m ""
+
+# game/scripts/maria_events.rpy:85
+translate schinese mar_breakfast_7538c0a6:
+
+    # k "Well, honestly I think he was more interested in my father than me."
+    k ""
+
+# game/scripts/maria_events.rpy:87
+translate schinese mar_breakfast_8b2d3a72:
+
+    # m "What!?"
+    m ""
+
+# game/scripts/maria_events.rpy:88
+translate schinese mar_breakfast_b6089b0b:
+
+    # k "Yeah... it was weird. Anytime he came over, he would always talk to my father more than me."
+    k ""
+
+# game/scripts/maria_events.rpy:89
+translate schinese mar_breakfast_f9d4adea:
+
+    # m "...Was he gay, or something?"
+    m ""
+
+# game/scripts/maria_events.rpy:90
+translate schinese mar_breakfast_6bf6f278:
+
+    # k "No, nothing like that."
+    k ""
+
+# game/scripts/maria_events.rpy:91
+translate schinese mar_breakfast_b126d4e7:
+
+    # m "Then what? That's so weird!"
+    m ""
+
+# game/scripts/maria_events.rpy:92
+translate schinese mar_breakfast_8985fe90:
+
+    # k "I don't really want to get into it..."
+    k ""
+
+# game/scripts/maria_events.rpy:94
+translate schinese mar_breakfast_e2070c8e:
+
+    # m "That sucks. Mine cheated on me, and was only interested in my body..."
+    m ""
+
+# game/scripts/maria_events.rpy:95
+translate schinese mar_breakfast_2a0a08b3:
+
+    # k "If anyone treated me like that, I would just pepper spray them."
+    k ""
+
+# game/scripts/maria_events.rpy:96
+translate schinese mar_breakfast_444db7d9:
+
+    # m "...Wouldn't you be afraid to lose them after that? I mean, love is love..."
+    m ""
+
+# game/scripts/maria_events.rpy:97
+translate schinese mar_breakfast_672d8cb9:
+
+    # k "What? No. I wouldn't want to be with someone like that in the first place. Did you really stick around after he cheated on you?"
+    k ""
+
+# game/scripts/maria_events.rpy:98
+translate schinese mar_breakfast_38f23edc:
+
+    # m "No, that was the last straw..."
+    m ""
+
+# game/scripts/maria_events.rpy:99
+translate schinese mar_breakfast_b3c742d6:
+
+    # m "I need to be loved to be happy, and... sometimes anything is better than nothing."
+    m ""
+
+# game/scripts/maria_events.rpy:100
+translate schinese mar_breakfast_bb81bd01:
+
+    # k "Dude, that's crazy. You can't be a relationship like that... didn't your parents love you?"
+    k ""
+
+# game/scripts/maria_events.rpy:101
+translate schinese mar_breakfast_10e88e5e:
+
+    # m "...It's hard to say."
+    m ""
+
+# game/scripts/maria_events.rpy:102
+translate schinese mar_breakfast_8d5c1b7f:
+
+    # m "I don't know what I want in a relationship, I just want love. It's part of the reason I got into being a camgirl."
+    m ""
+
+# game/scripts/maria_events.rpy:103
+translate schinese mar_breakfast_25d337fd:
+
+    # k "You know they don't actually love you, right?"
+    k ""
+
+# game/scripts/maria_events.rpy:104
+translate schinese mar_breakfast_7e578986:
+
+    # m "Some of them do..."
+    m ""
+
+# game/scripts/maria_events.rpy:105
+translate schinese mar_breakfast_9b7f7b6e:
+
+    # k "And that doesn't make you feel like an object...?"
+    k ""
+
+# game/scripts/maria_events.rpy:107
+translate schinese mar_breakfast_22ee3b6d:
+
+    # m "I don't know...! Can we change the subject?"
+    m ""
+
+# game/scripts/maria_events.rpy:108
+translate schinese mar_breakfast_81b66e28:
+
+    # k "Oh. Sure, sorry."
+    k ""
+
+# game/scripts/maria_events.rpy:110
+translate schinese mar_breakfast_b687c6dd:
+
+    # l "Here you are. Enjoy!"
+    l ""
+
+# game/scripts/maria_events.rpy:111
+translate schinese mar_breakfast_81dea93e:
+
+    # k "Oh, thank you."
+    k ""
+
+# game/scripts/maria_events.rpy:112
+translate schinese mar_breakfast_fb9db078:
+
+    # m "...?"
+    m ""
+
+# game/scripts/maria_events.rpy:114
+translate schinese mar_breakfast_4dec1220:
+
+    # m "*gasp*! I knew it!"
+    m ""
+
+# game/scripts/maria_events.rpy:115
+translate schinese mar_breakfast_6daa0f7f:
+
+    # k "Huh?"
+    k ""
+
+# game/scripts/maria_events.rpy:116
+translate schinese mar_breakfast_c21b5df2:
+
+    # m "You're Kali Trenero! You're Julius' daughter!"
+    m ""
+
+# game/scripts/maria_events.rpy:118
+translate schinese mar_breakfast_d3464e78:
+
+    # k "Nnnnooooo...?"
+    k ""
+
+# game/scripts/maria_events.rpy:119
+translate schinese mar_breakfast_6ee84440:
+
+    # m "Oh my god, Kali! If you wanted to keep it a secret, you shouldn't have brought the company mug with you! Haha!"
+    m ""
+
+# game/scripts/maria_events.rpy:120
+translate schinese mar_breakfast_9dab7cdd:
+
+    # m "{u}That's{/u} why your ex was so interested in your father! It all makes sense now!"
+    m ""
+
+# game/scripts/maria_events.rpy:121
+translate schinese mar_breakfast_d004d7bf:
+
+    # k "Uhh..."
+    k ""
+
+# game/scripts/maria_events.rpy:122
+translate schinese mar_breakfast_dae6e53a:
+
+    # m "Hey, can I have a million syls? It would really help."
+    m ""
+
+# game/scripts/maria_events.rpy:124
+translate schinese mar_breakfast_135d1499:
+
+    # k "I'm gonna go eat in my room. Bye."
+    k ""
+
+# game/scripts/maria_events.rpy:125
+translate schinese mar_breakfast_47755777:
+
+    # m "Wait! Don't go! I was just kidding!"
+    m ""
+
+# game/scripts/maria_events.rpy:126
+translate schinese mar_breakfast_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/maria_events.rpy:128
+translate schinese mar_breakfast_ed896ea5:
+
+    # m "Do you think I offended her...?"
+    m ""
+
+# game/scripts/maria_events.rpy:129
+translate schinese mar_breakfast_15ad642e:
+
+    # e "Probably. She doesn't like her father very much."
+    e ""
+
+# game/scripts/maria_events.rpy:130
+translate schinese mar_breakfast_5c5bcb4e:
+
+    # c "He kicked her out of the house and forced her to live here. The cheapest hotel he could find in the area..."
+    c ""
+
+# game/scripts/maria_events.rpy:131
+translate schinese mar_breakfast_7cdeeee0:
+
+    # m "I didn't know that...! I should go say sorry."
+    m ""
+
+# game/scripts/maria_events.rpy:132
+translate schinese mar_breakfast_b0c337a4:
+
+    # e "Let her eat first."
+    e ""
+
+# game/scripts/maria_events.rpy:133
+translate schinese mar_breakfast_728f48b0:
+
+    # m "Okay...\nOh, I know! I'll give her a gift. She likes gifts, right? I don't want to ruin our relationship this early!"
+    m ""
+
+# game/scripts/maria_events.rpy:134
+translate schinese mar_breakfast_e92daca0:
+
+    # c "That could be nice."
+    c ""
+
+# game/scripts/maria_events.rpy:136
+translate schinese mar_breakfast_291bf2c0:
+
+    # m "Okay! I'll start looking for something immediately!"
+    m ""
+
+# game/scripts/maria_events.rpy:138
+translate schinese mar_breakfast_d48a4553:
+
+    # m "But what does she like? What does she need..."
+    m ""
+
+# game/scripts/maria_events.rpy:139
+translate schinese mar_breakfast_5df86dc6:
+
+    # m "Her sense of style is atrocious..."
+    m ""
+
+# game/scripts/maria_events.rpy:141
+translate schinese mar_breakfast_e06e74f7:
+
+    # m "I've got an idea! [name], I'll let you know when it's ready. Will you help me gift it to her?"
+    m ""
+
+# game/scripts/maria_events.rpy:142
+translate schinese mar_breakfast_c48dc32f:
+
+    # c "Sure."
+    c ""
+
+# game/scripts/maria_events.rpy:143
+translate schinese mar_breakfast_ebb3ab30:
+
+    # m "Perfect!"
+    m ""
+
+# game/scripts/maria_events.rpy:145
+translate schinese mar_breakfast_10f44278:
+
+    # m "Thanks for breakfast everyone, I'll finish this upstairs. Byebye!"
+    m ""
+
+# game/scripts/maria_events.rpy:146
+translate schinese mar_breakfast_a4c90328:
+
+    # c "See you."
+    c ""
+
+# game/scripts/maria_events.rpy:305
+translate schinese mar_roofdate_844306cd:
+
+    # c "Hey, what are your plans with Cornwall's blackmail?"
+    c ""
+

@@ -3815,3 +3815,19 @@ translate schinese strings:
     old "Elder Delilah harshly reeducates a group of elves as Autumn and Hazel are promoted to the role of Initiates and expected to fill the void Saint Lily left by using the same harsh methods to reeducate elves. Though one familiar elf decides to rebel by shocking Hazel and running away."
     new "当秋和榛被提拔为门徒后,黛拉利长老严厉地再教育了一群精灵,并期望她们两个使用同样的方法去再教育精灵,以填补圣莉莉留下的空白.然而一个精灵却选择反抗,反过来电击了榛,并逃跑了."
 
+# TODO: Translation updated at 2025-03-26 23:38
+
+translate schinese strings:
+
+    # game/scripts/screens.rpy:9170
+    old "[botname] invites you and Kali to the dungeon for a fun time."
+    new "[botname!t]邀请你和凯莉去地牢里度过了一段愉快的时光."
+
+    # game/scripts/screens.rpy:9188
+    old "[botname]'s story in v0.17"
+    new "v0.17中[botname!t]的故事"
+
+    # game/scripts/screens.rpy:9217
+    old "[botname]'s story in v0.16"
+    new "v0.16中[botname!t]的故事"
+

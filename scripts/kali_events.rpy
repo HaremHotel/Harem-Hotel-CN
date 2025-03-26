@@ -50308,3 +50308,173 @@ translate schinese strings:
     old "Bend you over and fuck your ass."
     new "趴下,我要操你的屁股."
 
+# TODO: Translation updated at 2025-03-26 23:38
+
+# game/scripts/kali_events.rpy:12
+translate schinese kali_corpus_coffee_5597595a:
+
+    # k "A table for three, please."
+    k "三个人,谢谢."
+
+# game/scripts/kali_events.rpy:13
+translate schinese kali_corpus_coffee_81b80c5c:
+
+    # kang "It's a really nice cafe."
+    kang "这个咖啡馆真不错."
+
+# game/scripts/kali_events.rpy:14
+translate schinese kali_corpus_coffee_96864555:
+
+    # bae "I told you."
+    bae "我告诉过你了吧."
+
+# game/scripts/kali_events.rpy:15
+translate schinese kali_corpus_coffee_184baea1:
+
+    # waitress "Right this way, please."
+    waitress "这边请."
+
+# game/scripts/kali_events.rpy:17
+translate schinese kali_corpus_coffee_8c563e3e:
+
+    # k "*sigh*..."
+    k "*叹气*......"
+
+# game/scripts/kali_events.rpy:18
+translate schinese kali_corpus_coffee_d1f2cc3f:
+
+    # bae "Don't stress so much! It's not a big deal, it's just a meeting."
+    bae "压力别太大了!这没什么大不了的,只是开个会而已."
+
+# game/scripts/kali_events.rpy:19
+translate schinese kali_corpus_coffee_6f39ecc3:
+
+    # kang "He's your dad, why are you nervous?"
+    kang "他是你爸,你紧张什么?"
+
+# game/scripts/kali_events.rpy:20
+translate schinese kali_corpus_coffee_ec2d8465:
+
+    # k "He never calls... so I know it's going to be bullshit. I already have enough to deal with."
+    k "他从来没打电话给我......所以我知道肯定是通篇胡扯.要我处理的事情已经够多了."
+
+# game/scripts/kali_events.rpy:22
+translate schinese kali_corpus_coffee_e142ea2d:
+
+    # waitress "Just give me a sign when you're ready."
+    waitress "准备好了就给我个信号."
+
+# game/scripts/kali_events.rpy:23
+translate schinese kali_corpus_coffee_dfba945c:
+
+    # k "Thanks..."
+    k "谢谢......"
+
+# game/scripts/kali_events.rpy:24
+translate schinese kali_corpus_coffee_c9f4a0ae:
+
+    # kang "We'll let you know! Thank you!"
+    kang "我们会让你知道的!谢谢!"
+
+# game/scripts/kali_events.rpy:26
+translate schinese kali_corpus_coffee_448a298e:
+
+    # bae "What's wrong, Kali...? You don't like your new job?"
+    bae "怎么了,凯莉......?你不喜欢你的新工作吗?"
+
+# game/scripts/kali_events.rpy:27
+translate schinese kali_corpus_coffee_c1eb2b59:
+
+    # k "It's not exactly what I signed up for..."
+    k "我做这份工作不是为了干这种事情的......"
+
+# game/scripts/kali_events.rpy:28
+translate schinese kali_corpus_coffee_cea18b4c:
+
+    # bae "We're not exactly thrilled about it either."
+    bae "我们也不是满意."
+
+# game/scripts/kali_events.rpy:30
+translate schinese kali_corpus_coffee_10c68c40:
+
+    # kang "{i}Bae...!{/i}"
+    kang "{i}裴......!{/i}"
+
+# game/scripts/kali_events.rpy:31
+translate schinese kali_corpus_coffee_e57f3132:
+
+    # k "No, I get it."
+    k "不,我明白她的意思."
+
+# game/scripts/kali_events.rpy:32
+translate schinese kali_corpus_coffee_d540aecb:
+
+    # bae "Our last manager gets randomly transferred, then you show up. His boss didn't even get a chance to promote any of us. The CEO himself cherry-picked his daughter for that position..."
+    bae "我们上一任经理毫无来由地被调走后,你就来了.他的上司甚至没有给我们任何人升职的机会,而是CEO亲自挑选了他的女儿来担任这个职位......"
+
+# game/scripts/kali_events.rpy:33
+translate schinese kali_corpus_coffee_33f00188:
+
+    # bae "How old are you? Are you even my elder?"
+    bae "你多大了?你有我大吗?"
+
+# game/scripts/kali_events.rpy:35
+translate schinese kali_corpus_coffee_bd0bbe75:
+
+    # kang "I'm sorry for my sister! Please don't answer that question. We're happy to work for you!"
+    kang "我为我妹妹说的话道歉!请不要回答那个问题.我们很高兴能为你工作!"
+
+# game/scripts/kali_events.rpy:37
+translate schinese kali_corpus_coffee_4f996160:
+
+    # k "Like I said, I get it.."
+    k "我已经说过了,我明白她的意思......"
+
+# game/scripts/kali_events.rpy:38
+translate schinese kali_corpus_coffee_19548517:
+
+    # bae "And that's why I can respect her..."
+    bae "这就是为什么我尊重她......"
+
+# game/scripts/kali_events.rpy:157
+translate schinese kali_videocall_520bf7c8:
+
+    # k "Oh wow...\nYou're really photogenic. You should start sending nudes."
+    k "哦,哇哦......\n你真的很上镜啊.你真得开始发裸照了."
+
+# game/scripts/kali_events.rpy:404
+translate schinese kali_work_aff2be21:
+
+    # kang "IT'S AN HONOR TO MEET YOU, SIR! MY NAME IS SEO-YEON KANG, AND THIS IS MY SISTER, BAE!!" with ssshake
+    kang "{b}很荣幸见到你,先生!我叫姜修延,这是我的妹妹,裴!!" with ssshake
+
+# game/scripts/kali_events.rpy:405
+translate schinese kali_work_451cc495:
+
+    # bae "Hellooo~"
+    bae "你好~"
+
+# game/scripts/kali_events.rpy:407
+translate schinese kali_work_f69c78f8:
+
+    # bae "Can I get your autograph?"
+    bae "能给我签个名吗?"
+
+# game/scripts/kali_events.rpy:411
+translate schinese kali_work_f0576aa0:
+
+    # bae "Of course! Hello, Kali! It's nice to finally meet you!"
+    bae "当然了!你好,凯莉!很高兴终于见到你了!"
+
+# game/scripts/kali_events.rpy:455
+translate schinese kali_work_e108a155:
+
+    # bae "Is everything okay...?"
+    bae "一切都还好吗......?"
+
+# game/scripts/kali_events.rpy:461
+translate schinese kali_work_49981e5f:
+
+    # bae "That might be a bit tough, but... yeah I'll start working on calibrating the sensors."
+    bae "这可能有点困难,不过......行吧,我现在就开始校准传感器."
+

@@ -107002,3 +107002,499 @@ translate schinese strings:
     old "* I wonder what she's up to? *"
     new "*我想知道她在忙什么?*"
 
+# TODO: Translation updated at 2025-03-26 23:38
+
+# game/script.rpy:6667
+translate schinese lobby_91ffb935:
+
+    # c "Hmm... I should check the lobby in the morning."
+    c ""
+
+# game/script.rpy:11325
+translate schinese explore_brothel5_3b5eb577:
+
+    # bbun "Haha, not at all! Suits don't expose their secrets here. Even when he gets drunk, he's way too hammered to string together a coherent sentence. But that guy doesn't know that~"
+    bbun ""
+
+# game/script.rpy:12709
+translate schinese explore_cafe3_21646906:
+
+    # c "You want to give me money to protect you?"
+    c ""
+
+# game/script.rpy:13278
+translate schinese explore_slums5_233be885:
+
+    # c "{i}(What did I stumble in to...){/i}"
+    c ""
+
+# game/script.rpy:13279
+translate schinese explore_slums5_85f16f9e:
+
+    # preach "Brothers and sisters, the path to salvation is paved with SACRIFICE!"
+    preach ""
+
+# game/script.rpy:13280
+translate schinese explore_slums5_5d7dcf92:
+
+    # preach "Gaius does not measure your wealth, but your willingness to give! It is those who surrender their worldly possessions, those who embrace true humility, who will know Him!"
+    preach ""
+
+# game/script.rpy:13281
+translate schinese explore_slums5_7214cfe2:
+
+    # c "Oh..."
+    c ""
+
+# game/script.rpy:13283
+translate schinese explore_slums5_ce35a492:
+
+    # preach "Behold! HOLY WATER!\nBlessed by divine hands! Purified by sacred rites! It is not just water, it is a miracle in a cup!"
+    preach ""
+
+# game/script.rpy:13284
+translate schinese explore_slums5_25e40c46:
+
+    # preach "A single drop ingested will result in a day of luck! Drink the whole thing, and ALL of your ailments will disappear! It only requires faith!"
+    preach ""
+
+# game/script.rpy:13285
+translate schinese explore_slums5_06996ed2:
+
+    # c "{i}Not interested.{/i}"
+    c ""
+
+# game/script.rpy:13287
+translate schinese explore_slums5_484323d9:
+
+    # q "Not curious to see how many suckers buy into it? Heh... it happens more than you'd think."
+    q ""
+
+# game/script.rpy:13290
+translate schinese explore_slums5_5de08eef:
+
+    # q "They're not really selling holy water, they're selling faith. Some folks needs that around here - something to believe in."
+    q ""
+
+# game/script.rpy:13293
+translate schinese explore_slums5_5de08eef_1:
+
+    # q "They're not really selling holy water, they're selling faith. Some folks needs that around here - something to believe in."
+    q ""
+
+# game/script.rpy:13294
+translate schinese explore_slums5_a0c417c8:
+
+    # preach "The church does not sell these gifts, no...! We merely ask for a humble offering in return! Just 5 syls for one! 25 for a pack of 6!"
+    preach ""
+
+# game/script.rpy:13296
+translate schinese explore_slums5_733d7c42:
+
+    # q "I'd feel bad for 'em... but they're doin' it to themselves."
+    q ""
+
+# game/script.rpy:13297
+translate schinese explore_slums5_3e4c0f24:
+
+    # q "And honestly, if it makes them happy, maybe they are doing a good thing. Ya know?"
+    q ""
+
+# game/script.rpy:13298
+translate schinese explore_slums5_19532b64:
+
+    # c "Uh, sure, I guess."
+    c ""
+
+# game/script.rpy:13300
+translate schinese explore_slums5_1042a6bb:
+
+    # q "There's not much down here that gives people hope. It almost makes me wish I believed..."
+    q ""
+
+# game/script.rpy:13301
+translate schinese explore_slums5_b4765e68:
+
+    # preach "Faith demands sacrifice! Would you deny yourself salvation? Would you spit in the face of the divine gift offered to you?"
+    preach ""
+
+# game/script.rpy:13302
+translate schinese explore_slums5_71eb6c10:
+
+    # preach "After all, what is 5 syls compared to salvation? Is your devotion so weak that you cannot part with what little you have!?"
+    preach ""
+
+# game/script.rpy:13303
+translate schinese explore_slums5_18ea48a2:
+
+    # man "I'll take a pack!"
+    man ""
+
+# game/script.rpy:13304
+translate schinese explore_slums5_e6e7ea47:
+
+    # woman "One for me, please!"
+    woman ""
+
+# game/script.rpy:13306
+translate schinese explore_slums5_24108ba8:
+
+    # woman "Bullshit! I saw those bottles being delivered from Nero this morning! He's a fraud!" with ssshake
+    woman "" with ssshake
+
+# game/script.rpy:13308
+translate schinese explore_slums5_3571d9ae:
+
+    # preach "SILENCE INTERLOPER!"
+    preach ""
+
+# game/script.rpy:13309
+translate schinese explore_slums5_4f2261b8:
+
+    # woman "It's a scam! Just buy yourself some water at the store, it's the same thing!"
+    woman ""
+
+# game/script.rpy:13310
+translate schinese explore_slums5_ac462eea:
+
+    # preach "Not only are you helping YOURSELF by purchasing this holy water, you are directly supporting the church! Which is a blessing of its own!"
+    preach ""
+
+# game/script.rpy:13312
+translate schinese explore_slums5_95a1812f:
+
+    # q "Gaius' blessings upon you."
+    q ""
+
+# game/script.rpy:13313
+translate schinese explore_slums5_d106b204:
+
+    # man "Thank you..."
+    man ""
+
+# game/script.rpy:13314
+translate schinese explore_slums5_446661f4:
+
+    # woman "Stop! They're selling you lies!"
+    woman ""
+
+# game/script.rpy:13316
+translate schinese explore_slums5_11c0937d:
+
+    # preach "THE POWER OF GAIUS KNOWS NO BOUNDS! HE ONLY ASKS FOR YOUR HUMBLE DONATION!" with ssshake
+    preach "" with ssshake
+
+# game/script.rpy:13317
+translate schinese explore_slums5_74a85397:
+
+    # woman "What god has ever been strapped for cash? If he's so powerful, ask HIM for a donation!"
+    woman ""
+
+# game/script.rpy:13319
+translate schinese explore_slums5_a2c37bec:
+
+    # preach "{i}Why aren't you stopping her!? Do your job!{/i}"
+    preach ""
+
+# game/script.rpy:13320
+translate schinese explore_slums5_d38c241b:
+
+    # chief "..."
+    chief ""
+
+# game/script.rpy:13322
+translate schinese explore_slums5_6087ff07:
+
+    # chief "Come on... you're causing a disturbance..."
+    chief ""
+
+# game/script.rpy:13323
+translate schinese explore_slums5_1e0214d8:
+
+    # woman "Hey! HEY! What are you doing!? Tell me what law I broke! You can't do this!"
+    woman ""
+
+# game/script.rpy:13324
+translate schinese explore_slums5_c2201759:
+
+    # polm "Resist, and you will be arrested."
+    polm ""
+
+# game/script.rpy:13325
+translate schinese explore_slums5_d4fdc8bc:
+
+    # woman "Fuck you!"
+    woman ""
+
+# game/script.rpy:13327
+translate schinese explore_slums5_e86f3288:
+
+    # preach "The pagan has been banished! Have no fear, Gaius be with you. I only hope she finds Him one day."
+    preach ""
+
+# game/script.rpy:13328
+translate schinese explore_slums5_2a6a4f9c:
+
+    # man "And she's a liar, too!"
+    man ""
+
+# game/script.rpy:13330
+translate schinese explore_slums5_dc6a18b4:
+
+    # man "The holy water works! I bought some last week and found $20 on the street just yesterday."
+    man ""
+
+# game/script.rpy:13331
+translate schinese explore_slums5_a35effd2:
+
+    # preach "A profit! A blessing, and then some!"
+    preach ""
+
+# game/script.rpy:13333
+translate schinese explore_slums5_467aebcd:
+
+    # preach "Gaius rewards those who sacrifice! Do so now, while we still have stock!"
+    preach ""
+
+# game/script.rpy:13334
+translate schinese explore_slums5_dc2981a0:
+
+    # man "I'll take three!"
+    man ""
+
+# game/script.rpy:13335
+translate schinese explore_slums5_98f5b407:
+
+    # man "A pack for me!"
+    man ""
+
+# game/script.rpy:13337
+translate schinese explore_slums5_1e665559:
+
+    # c "Hmm..."
+    c ""
+
+# game/script.rpy:13339
+translate schinese explore_slums5_8de21df2:
+
+    # c "{i}(Yep, there's the bottles. From Nero, just like she said...){/i}"
+    c ""
+
+# game/script.rpy:13343
+translate schinese explore_slums5_c3437326:
+
+    # c "{i}(This isn't right... everyone should know the truth.){/i}"
+    c ""
+
+# game/script.rpy:13345
+translate schinese explore_slums5_37c06697:
+
+    # preach "Very good, very good! You are all truly blessed!\n-Hey, you there, what are you doing?"
+    preach ""
+
+# game/script.rpy:13347
+translate schinese explore_slums5_d65492f3:
+
+    # c "Is this your holy water?"
+    c ""
+
+# game/script.rpy:13348
+translate schinese explore_slums5_b59ef49a:
+
+    # "*The crowd gasps*" with ssshake
+    "" with ssshake
+
+# game/script.rpy:13349
+translate schinese explore_slums5_6434b8c5:
+
+    # preach "What are you doing!? Get out of here! POLICE!"
+    preach ""
+
+# game/script.rpy:13350
+translate schinese explore_slums5_66cda462:
+
+    # man "Fucking scam..."
+    man ""
+
+# game/script.rpy:13351
+translate schinese explore_slums5_62198bbe:
+
+    # man "This is bullshit!"
+    man ""
+
+# game/script.rpy:13353
+translate schinese explore_slums5_02a53de4:
+
+    # preach "WHERE THE WATER IS FROM IS IRRELEVANT! IT IS THE BLESSING THAT MATTERS! I HAVE BLESSED EACH AND EVERY-"
+    preach ""
+
+# game/script.rpy:13354
+translate schinese explore_slums5_6de394da:
+
+    # woman "Forget it!"
+    woman ""
+
+# game/script.rpy:13355
+translate schinese explore_slums5_c5d0cb4c:
+
+    # man "I have better things to do..."
+    man ""
+
+# game/script.rpy:13357
+translate schinese explore_slums5_267b57d4:
+
+    # q "Hahah... I like you, kid. Finally someone with the balls."
+    q ""
+
+# game/script.rpy:13358
+translate schinese explore_slums5_4c197a30:
+
+    # preach "You'll regret that! Police! POLICE!!"
+    preach ""
+
+# game/script.rpy:13359
+translate schinese explore_slums5_a04f2bdc:
+
+    # q "Now get outta here before the cops show up."
+    q ""
+
+# game/script.rpy:13360
+translate schinese explore_slums5_611b79eb:
+
+    # preach "POLICE!!!" with ssshake
+    preach "" with ssshake
+
+# game/script.rpy:13367
+translate schinese explore_slums5_cbec947f:
+
+    # c "{i}(It's none of my business... let them believe.){/i}"
+    c ""
+
+# game/script.rpy:13369
+translate schinese explore_slums5_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:13372
+translate schinese explore_slums5_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:13374
+translate schinese explore_slums5_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:13376
+translate schinese explore_slums5_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:19029
+translate schinese yourroom_7d2acdb0:
+
+    # c "...What is [botname] up to?"
+    c ""
+
+# game/script.rpy:19097
+translate schinese yourroom_1c028b8e:
+
+    # bot "Hello patrons! Welcome to Beta Build 2 of v0.19! This is an unreleased, unfinished, unpolished, buggy version of v0.19! v0.19 is not completed yet!"
+    bot ""
+
+# game/script.rpy:19098
+translate schinese yourroom_444eb009:
+
+    # bot "This update added many repeatable sex events for characters who hang out in the hot springs!"
+    bot ""
+
+# game/script.rpy:19099
+translate schinese yourroom_ef14a7e3:
+
+    # bot "Ellen: Saturday Noons. | Moon: Sunday Noons. | Jin: Monday and Tuesday Mornings. | Vanessa and Nala: Monday, Wednesday, Friday Noons."
+    bot ""
+
+# game/script.rpy:20151
+translate schinese yourroomcontinued_b48d12db:
+
+    # "*ring ring, ring ring*"
+    ""
+
+# game/script.rpy:20152
+translate schinese yourroomcontinued_98ba7ce2_2:
+
+    # c "Hello?"
+    c ""
+
+# game/script.rpy:20153
+translate schinese yourroomcontinued_37e77c02:
+
+    # van "Heyyy! You wanna fuck?"
+    van ""
+
+# game/script.rpy:20154
+translate schinese yourroomcontinued_239616a5:
+
+    # c "Hm? Are you serious?"
+    c ""
+
+# game/script.rpy:20155
+translate schinese yourroomcontinued_545259af:
+
+    # van "Yeah, seriously serious. I'll text you the address, come over!"
+    van ""
+
+# game/script.rpy:20156
+translate schinese yourroomcontinued_f093b6d5:
+
+    # "*beep*"
+    ""
+
+# game/script.rpy:20159
+translate schinese yourroomcontinued_b5124fac:
+
+    # c "Alright, I'll head over right now."
+    c ""
+
+# game/script.rpy:20162
+translate schinese yourroomcontinued_5272fdac:
+
+    # c "Hm. I guess I'll head out when I'm in the mood."
+    c ""
+
+# game/script.rpy:26284
+translate schinese checkdone_6c49e75f:
+
+    # r "[botname]'s story is not done, more will be added to her in v0.20!"
+    r ""
+
+translate schinese strings:
+
+    # game/script.rpy:13288
+    old "I'm not an idiot."
+    new ""
+
+    # game/script.rpy:13288
+    old "It's none of my business."
+    new ""
+
+    # game/script.rpy:13340
+    old "Expose the scam."
+    new ""
+
+    # game/script.rpy:13340
+    old "Walk away."
+    new ""
+
+    # game/script.rpy:15608
+    old "Visit Vanessa"
+    new ""
+
+    # game/script.rpy:20157
+    old "Head over"
+    new ""
+

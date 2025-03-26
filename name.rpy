@@ -350,8 +350,8 @@ translate schinese strings:
     old "Seo-Yeon Kang"
     new "姜修延"
 
-    old "Seo-Yeon Jang"
-    new "张秀妍"
+    old "Seo-Yeon Bae"
+    new "裴秀妍"
 
     old "Policeman 2"
     new "2号警察"
@@ -406,3 +406,27 @@ translate schinese strings:
 
     old "Big Man"
     new "大家伙"
+
+    old "Simulation 1"
+    new "1号模拟体"
+    
+    old "Simulation 2"
+    new "2号模拟体"
+
+    old "Simulation 3"
+    new "3号模拟体"
+
+    old "Simulation 4"
+    new "4号模拟体"
+
+    old "Simulation 5"
+    new "5号模拟体"
+
+    old "Simulation 6"
+    new "6号模拟体"
+
+    old "Preacher"
+    new "传教士"
+
+    old "Waitress"
+    new "女服务员"

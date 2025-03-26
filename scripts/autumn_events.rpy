@@ -36309,3 +36309,11 @@ translate schinese aut_oldhouse_ce8ab3b2:
     # gran "Those nobles were appointed by the grant arbiter, who was appointed by Gaius himself. It's proof God loves you, child."
     gran "那些贵族是由大仲裁者任命的,而大仲裁者是由盖乌斯亲自任命的.这是神爱你的证明,孩子."
 
+# TODO: Translation updated at 2025-03-26 23:38
+
+# game/scripts/autumn_events.rpy:13
+translate schinese aut_sleep_event_16413cbf:
+
+    # au "I needed answers after what we found in Old Town. It turns out they sacrificed an elf to replace my dad's heart..."
+    au "在我们发现老城区那些事情之后,我需要一个答案.原来,他们牺牲了一个精灵,来给我爸爸替换心脏."
+
