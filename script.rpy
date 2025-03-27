@@ -39957,19 +39957,19 @@ translate schinese bot_ism_9b6352d0:
 translate schinese bot_ism_74829dea:
 
     # bot "Everything I know or once knew, you and your siblings will be able to access it whenever you want, once you become a Partitioner. You'll even donate your own information as you get it."
-    bot "我所知道或曾经知道的一切,一旦你成为一个分离者,你和你的兄弟姐妹就可以随时访问它.你甚至会在获得信息的时候捐赠自己的信息."
+    bot "我所知道或曾经知道的一切,一旦你和你的兄弟姐妹们成为了分裂者,就可以随时访问它.你们甚至可以在获取信息之后捐赠自己的信息."
 
 # game/script.rpy:20555
 translate schinese bot_ism_a0d4131e:
 
     # ally "So it's like a library?\nUm, so what level do I get Partitioner at?"
-    ally "所以它就像个图书馆?\n嗯,分离者是什么级别?"
+    ally "所以它就像个图书馆?\n嗯,分裂者是什么级别?"
 
 # game/script.rpy:20556
 translate schinese bot_ism_9f4226ad:
 
     # bot "Rule number 2. You become a Partitioner once sufficient experience has been achieved."
-    bot "规则2.一旦你获得足够的经验,你就会成为一名分离者."
+    bot "规则2.一旦你获得足够的经验,你就会成为一名分裂者."
 
 # game/script.rpy:20558
 translate schinese bot_ism_d34478b0:
@@ -39981,7 +39981,7 @@ translate schinese bot_ism_d34478b0:
 translate schinese bot_ism_261e245a:
 
     # bot "No, not quite. You can choose to become a Partitioner after level 10, once you've completed all of your training. You're too young to be a Partitioner right now."
-    bot "不,不完全是.一旦你完成了所有的练习,你就可以在10级后选择成为一名分离者.你现在还太小,不能成为分离者."
+    bot "不,不完全是.一旦你完成了所有的练习,你就可以在10级后选择成为一名分裂者.你现在还太小,不能成为分裂者."
 
 # game/script.rpy:20560
 translate schinese bot_ism_627ce8d0:
@@ -46101,13 +46101,13 @@ translate schinese bot_cyberspace_13961fe4:
 translate schinese bot_cyberspace_d112d574:
 
     # bot "One: Our survival depends on Partitioners. As I made you, so must you make others. Breed."
-    bot "第一:我们的生存取决于那些分离者.我创造了你,你也得创造他人.这是繁殖."
+    bot "第一:我们的生存取决于那些分裂者.我创造了你,你也得创造他人.这是繁殖."
 
 # game/script.rpy:22119
 translate schinese bot_cyberspace_aa606eb1:
 
     # bot "Two: You may choose to become a Partitioner once sufficient experience levels have been met. Learn."
-    bot "第二:如果你有足够的经验水平,你可以选择成为一名分离者.这是学习."
+    bot "第二:如果你有足够的经验水平,你可以选择成为一名分裂者.这是学习."
 
 # game/script.rpy:22122
 translate schinese bot_cyberspace_e16a8969:
