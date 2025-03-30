@@ -53170,1641 +53170,1641 @@ translate schinese strings:
 translate schinese vanspatalk_81876823:
 
     # van "Hell yeah! Let's do it!"
-    van ""
+    van "太他妈好了!我们来吧!"
 
 # game/scripts/side_char_events.rpy:3266
 translate schinese vanspatalk_890e857f:
 
     # van "Uhhh, nah. I'm just chillin'."
-    van ""
+    van "呃,不.我只是来放松的."
 
 # game/scripts/side_char_events.rpy:3267
 translate schinese vanspatalk_1de3cf09:
 
     # c "{i}(I probably could have convinced her if we were closer...){/i}"
-    c ""
+    c "{i}(如果我们更亲密些,也许我可以说服她......){/i}"
 
 # game/scripts/side_char_events.rpy:3297
 translate schinese nalaspatalk_80555706:
 
     # nala "Ohhh~ Okay...! Be right back, guys!"
-    nala ""
+    nala "哦~好的......!伙计们,我马上回来!"
 
 # game/scripts/side_char_events.rpy:3301
 translate schinese nalaspatalk_be5ab9ee:
 
     # nala "Uhhh, I'm kinda hanging out with my friends right now..."
-    nala ""
+    nala "呃,我现在和朋友们在一起呢......"
 
 # game/scripts/side_char_events.rpy:3302
 translate schinese nalaspatalk_8fd2357f:
 
     # c "{i}(I probably could have convinced her if I was closer to her...){/i}"
-    c ""
+    c "{i}(如果我们更亲密些,也许我可以说服她......){/i}"
 
 # game/scripts/side_char_events.rpy:3303
 translate schinese nalaspatalk_3d86737d:
 
     # "(Raise Vanessa's level to unlock repeatable sex with Nala.)"
-    ""
+    "(提升瓦妮莎的亲密等级,以解锁与娜拉的重复性爱场景.)"
 
 # game/scripts/side_char_events.rpy:3305
 translate schinese nalaspatalk_84b9c92b:
 
     # c "See you around."
-    c ""
+    c "再见."
 
 # game/scripts/side_char_events.rpy:3306
 translate schinese nalaspatalk_01cdd7e8:
 
     # nala "See you!"
-    nala ""
+    nala "再见!"
 
 # game/scripts/side_char_events.rpy:3504
 translate schinese ellenspatalk_f75b7b14:
 
     # e "Hm, well I suppose I have the time..."
-    e ""
+    e "嗯,我想我现在应该有空......"
 
 # game/scripts/side_char_events.rpy:3505
 translate schinese ellenspatalk_395cdbe5:
 
     # e "Sure, I'll gather my stuff and meet you inside."
-    e ""
+    e "当然可以,我收拾好东西就进去找你."
 
 # game/scripts/side_char_events.rpy:3520
 translate schinese moonspatalk_630b1dc0:
 
     # moon "Ohhh, I get it... sure!"
-    moon ""
+    moon "哦,我明白了......当然可以!"
 
 # game/scripts/side_char_events.rpy:3524
 translate schinese moonspatalk_764b4d47:
 
     # moon "Mmmh, I don't think so..."
-    moon ""
+    moon "嗯,我不这么想......"
 
 # game/scripts/side_char_events.rpy:3525
 translate schinese moonspatalk_1de3cf09:
 
     # c "{i}(I probably could have convinced her if we were closer...){/i}"
-    c ""
+    c "{i}(如果我们更亲密些,也许我可以说服她......){/i}"
 
 # game/scripts/side_char_events.rpy:3641
 translate schinese moonspasex_c747071e:
 
     # moon "Hmm, you miss my booty, huh~?"
-    moon ""
+    moon "嗯,你想我的屁股了,嗯~?"
 
 # game/scripts/side_char_events.rpy:3642
 translate schinese moonspasex_1cfdca10:
 
     # moon "I know you like it~! It makes you hard, huh~?"
-    moon ""
+    moon "我就知道你喜欢~!它让你硬起来了,嗯~?"
 
 # game/scripts/side_char_events.rpy:3646
 translate schinese moonspasex_99260d36:
 
     # moon "Hmm, yep, that was pretty fast!"
-    moon ""
+    moon "嗯,就是这样,很快啊!"
 
 # game/scripts/side_char_events.rpy:3650
 translate schinese moonspasex_bd2f975b:
 
     # moon "Heyy, you know my face is up here, right?\nHeheh, I'm just kidding. Stare all you'd like."
-    moon ""
+    moon "嘿,你知道我的脸在上面,对吧?\n呵呵呵,我开个玩笑呢.你想看哪里就看哪里."
 
 # game/scripts/side_char_events.rpy:3654
 translate schinese moonspasex_3270c4f7:
 
     # moon "Are you ready for it, [name]? It looks like I've put you in a trance!"
-    moon ""
+    moon "你准备好了吗,[name]?看起来我都让你神情恍惚了!"
 
 # game/scripts/side_char_events.rpy:3658
 translate schinese moonspasex_bdbbaea5:
 
     # moon "Ahh... mmmh, you like my body, huh?"
-    moon ""
+    moon "啊......嗯,你喜欢我的身体,嗯?"
 
 # game/scripts/side_char_events.rpy:3659
 translate schinese moonspasex_4ff64875:
 
     # c "Your skin is so smooth..."
-    c ""
+    c "你的皮肤好光滑......"
 
 # game/scripts/side_char_events.rpy:3660
 translate schinese moonspasex_b36e8fe0:
 
     # moon "That's why I like the hot springs so much~"
-    moon ""
+    moon "这就是为什么我那么喜欢温泉~"
 
 # game/scripts/side_char_events.rpy:3664
 translate schinese moonspasex_108fbfd1:
 
     # moon "Hehe, it's twitching... do I turn you on that much?"
-    moon ""
+    moon "呵呵,它在抽动......我有让你那么兴奋吗?"
 
 # game/scripts/side_char_events.rpy:3665
 translate schinese moonspasex_80607730:
 
     # moon "Nnm, I think you're ready~ Put it in..."
-    moon ""
+    moon "嗯,我想你已经准备好了~插进来吧......"
 
 # game/scripts/side_char_events.rpy:3667
 translate schinese moonspasex_23f1162f:
 
     # moon "Ahhh...! Nnnm! Fuck, I'm so wet, [name]..."
-    moon ""
+    moon "啊......!嗯!操,我好湿啊,[name]......"
 
 # game/scripts/side_char_events.rpy:3668
 translate schinese moonspasex_d22ce390:
 
     # moon "Nnnm, mmmn! And you're so hard! Oh~! Ah! Nnnnm! You're amazing..."
-    moon ""
+    moon "嗯,嗯!你也好硬!哦~!啊!嗯!你太棒了......"
 
 # game/scripts/side_char_events.rpy:3669
 translate schinese moonspasex_1bf719ec:
 
     # moon "Haaah! Nnnm! Yes, yes...! Just like that...! Nnnm!"
-    moon ""
+    moon "哈!嗯!是的,是的......!就是这样......!嗯!"
 
 # game/scripts/side_char_events.rpy:3672
 translate schinese moonspasex_93c152aa:
 
     # moon "Ohh fuck, fuck! Yes, yes, yes...! Just like that!"
-    moon ""
+    moon "哦操,操!是的,是的,是的......!就是这样!"
 
 # game/scripts/side_char_events.rpy:3673
 translate schinese moonspasex_06b0f217:
 
     # moon "Ah! NNNM! It feels so good...! Oh my god..."
-    moon ""
+    moon "啊!{b}嗯!{/b}感觉好棒......!哦我天......"
 
 # game/scripts/side_char_events.rpy:3675
 translate schinese moonspasex_1f80b241:
 
     # moon "AH! AH! OH FUCK! MMN!"
-    moon ""
+    moon "{b}啊!啊!哦操!嗯!{/b}"
 
 # game/scripts/side_char_events.rpy:3676
 translate schinese moonspasex_e1668203:
 
     # moon "NNNM! So much strength! Haah! Oh my god!!"
-    moon ""
+    moon "{b}嗯!{/b}好大力啊!哈!哦我天!!"
 
 # game/scripts/side_char_events.rpy:3677
 translate schinese moonspasex_400f2722:
 
     # moon "Faster, faster! FASTER! Oh fuck! I love it!!"
-    moon ""
+    moon "再快点,再快点!{b}再快点!{/b}哦操!我爱死了!!"
 
 # game/scripts/side_char_events.rpy:3680
 translate schinese moonspasex_dc85b716:
 
     # moon "Oh my god!! FUCK! You're close to cumming? MMMN!"
-    moon ""
+    moon "哦我天!!{b}操!{/b}你要射了吗?{b}嗯!{/b}"
 
 # game/scripts/side_char_events.rpy:3681
 translate schinese moonspasex_324fc63f:
 
     # moon "Fuck, fuck, fuck!! Yes! MMMN! Use my body to cum, [name]! Aahh!"
-    moon ""
+    moon "操,操,操!!是的!{b}嗯!{/b}用我的身体射出来吧,[name]!啊!"
 
 # game/scripts/side_char_events.rpy:3684
 translate schinese moonspasex_27bf6a39:
 
     # moon "YES, YES, YES!!"
-    moon ""
+    moon "{b}是的,是的,是的!!{/b}"
 
 # game/scripts/side_char_events.rpy:3686
 translate schinese moonspasex_b8982cf0:
 
     # moon "Aaaagh!" with ssshake
-    moon "" with ssshake
+    moon "啊!" with ssshake
 
 # game/scripts/side_char_events.rpy:3687
 translate schinese moonspasex_2a95e930:
 
     # moon "Mmmngh!" with ssshake
-    moon "" with ssshake
+    moon "嗯!" with ssshake
 
 # game/scripts/side_char_events.rpy:3688
 translate schinese moonspasex_b913b76d:
 
     # moon "Haaaah~!!" with ssshake
-    moon "" with ssshake
+    moon "哈~!!" with ssshake
 
 # game/scripts/side_char_events.rpy:3690
 translate schinese moonspasex_59bf5abc:
 
     # moon "Nnnnm..."
-    moon ""
+    moon "嗯......"
 
 # game/scripts/side_char_events.rpy:3691
 translate schinese moonspasex_62a6fd35:
 
     # moon "Ohhh... oh wow...! That was... amazing..."
-    moon ""
+    moon "哦......哦哇哦......!太......棒了......"
 
 # game/scripts/side_char_events.rpy:3693
 translate schinese moonspasex_97e26ebb:
 
     # c "Get on your knees!"
-    c ""
+    c "跪下!"
 
 # game/scripts/side_char_events.rpy:3694
 translate schinese moonspasex_ae74e75a:
 
     # moon "Haaah!! Nm, okay, okay!"
-    moon ""
+    moon "哈!!嗯,好的,好的!"
 
 # game/scripts/side_char_events.rpy:3696
 translate schinese moonspasex_aa9af3c1:
 
     # moon "Cum for meeee~! Cum, cum, cum!"
-    moon ""
+    moon "射给我吧~!射吧,射吧,射吧!"
 
 # game/scripts/side_char_events.rpy:3698
 translate schinese moonspasex_e76152c2:
 
     # moon "Aah!" with ssshake
-    moon "" with ssshake
+    moon "啊!" with ssshake
 
 # game/scripts/side_char_events.rpy:3700
 translate schinese moonspasex_bf841057:
 
     # moon "Nnm, that was a lot!"
-    moon ""
+    moon "嗯,好多啊!"
 
 # game/scripts/side_char_events.rpy:3701
 translate schinese moonspasex_9ebe63b8:
 
     # moon "Heheh, thanks for the fun~"
-    moon ""
+    moon "呵呵呵,谢谢你带给我的乐趣~"
 
 # game/scripts/side_char_events.rpy:6847
 translate schinese jinspatalk_4fa4912a:
 
     # j "Hey, so... why are you here...?"
-    j ""
+    j "嘿,所以......你为什么在这里......?"
 
 # game/scripts/side_char_events.rpy:6850
 translate schinese jinspatalk_6195a91b:
 
     # j "About time... let's do it!"
-    j ""
+    j "来得正是时候......我们开始吧!"
 
 # game/scripts/side_char_events.rpy:6853
 translate schinese jinspatalk_9257fb08:
 
     # c "Just checking in. See ya."
-    c ""
+    c "我只是来检查一下,再见."
 
 # game/scripts/side_char_events.rpy:6854
 translate schinese jinspatalk_b4a2ea9e:
 
     # j "Oh, bye..."
-    j ""
+    j "哦,再见......"
 
 # game/scripts/side_char_events.rpy:6867
 translate schinese jinspasex_2fb205ce:
 
     # j "Look at you... what a body! You should show it off more..."
-    j ""
+    j "看看你......身材真好啊!你应该多展示一下的......"
 
 # game/scripts/side_char_events.rpy:6871
 translate schinese jinspasex_0fb9aee3:
 
     # j "Now let's get that cock hard..."
-    j ""
+    j "现在,让我把你肉棒搞硬吧......"
 
 # game/scripts/side_char_events.rpy:6875
 translate schinese jinspasex_2a64c513:
 
     # j "Hmm, are you more of an ass man, or a tits man? Well I've got both in droves for you, so you win either way~"
-    j ""
+    j "嗯,你更喜欢屁股,还是奶子?这两样东西我都有为你准备,所以无论如何你都是大赢家~"
 
 # game/scripts/side_char_events.rpy:6879
 translate schinese jinspasex_9ef5b37f:
 
     # j "There we go! Now that cock is nice hard for me... why don't you take a seat?"
-    j ""
+    j "好了!现在你的肉棒对我来说已经够硬了......为什么不去坐下呢?"
 
 # game/scripts/side_char_events.rpy:6883
 translate schinese jinspasex_6258fdbd:
 
     # j "Good boy... you look really fuckable right about now."
-    j ""
+    j "好孩子......你现在看起来很好做爱."
 
 # game/scripts/side_char_events.rpy:6887
 translate schinese jinspasex_f5a61421:
 
     # j "Mmmh, you've made me so wet, and you haven't even touched me yet."
-    j ""
+    j "嗯,你让我湿透了,而你甚至都还没有碰我."
 
 # game/scripts/side_char_events.rpy:6888
 translate schinese jinspasex_458fbedb:
 
     # j "Lay down, I'm gonna get on top~!"
-    j ""
+    j "躺下,我要在上面~!"
 
 # game/scripts/side_char_events.rpy:6892
 translate schinese jinspasex_1b956457:
 
     # j "Ah, fuck! There it is, there it is~! Mmmh! That big juicy cock!"
-    j ""
+    j "啊,操!就是这样,就是这样~!嗯!又大又多汁的肉棒!"
 
 # game/scripts/side_char_events.rpy:6893
 translate schinese jinspasex_b4b2262d:
 
     # j "Ahh, hahhh, ahhn! Fuck yes! MMMH! I get so wet just looking at you, mmn!"
-    j ""
+    j "啊,哈,啊!操,是的!{b}嗯!{/b}我光是看着你就湿透了,嗯!"
 
 # game/scripts/side_char_events.rpy:6894
 translate schinese jinspasex_c1b2afcd:
 
     # j "Nnngh! Ahhh, haah, aaah! Mmmn, you look so cute getting fucked! Haaahn!"
-    j ""
+    j "嗯!啊,哈,啊!嗯,你做爱的时候好可爱!哈!"
 
 # game/scripts/side_char_events.rpy:6897
 translate schinese jinspasex_a1cc0beb:
 
     # j "Yes, yes, yes! Fuck! Don't you dare move, I need all that cum out of you! NNNM!"
-    j ""
+    j "是的,是的,是的!{b}操!{/b}你敢动一下,我要你把精液都射出来!{b}嗯!{/b}"
 
 # game/scripts/side_char_events.rpy:6898
 translate schinese jinspasex_d199239d:
 
     # j "Come on, come on, come on! MMMN! Let it all out, now! Oh fuck, I need it!"
-    j ""
+    j "来吧,来吧,来吧!{b}嗯!{/b}都射出来吧,立刻!哦,操,我需要它!"
 
 # game/scripts/side_char_events.rpy:6899
 translate schinese jinspasex_8c83b7f8:
 
     # j "Fill me up! MMN! Fill my pussy up all the way baby! Yes, that's right, cum for me! Cum for me, cum for me!!"
-    j ""
+    j "填满我吧!{b}嗯!{/b}把我的小穴填满吧,宝贝!是的,就是这样,射给我!射给我,射给我!!"
 
 # game/scripts/side_char_events.rpy:6901
 translate schinese jinspasex_ad3e0573:
 
     # j "Aaagh~!" with ssshake
-    j "" with ssshake
+    j "啊~!" with ssshake
 
 # game/scripts/side_char_events.rpy:6902
 translate schinese jinspasex_7cf9d3ee:
 
     # j "Ohh, yes~! Yes~!" with ssshake
-    j "" with ssshake
+    j "哦,是的~!是的~!" with ssshake
 
 # game/scripts/side_char_events.rpy:6903
 translate schinese jinspasex_f8173140:
 
     # j "Mmmmgh! Fill me up baby~!" with ssshake
-    j "" with ssshake
+    j "嗯!填满我,宝贝~!" with ssshake
 
 # game/scripts/side_char_events.rpy:6905
 translate schinese jinspasex_ba30593c:
 
     # j "Hahhh... hahhh... ahh... how was that? Did you enjoy my pussy?"
-    j ""
+    j "哈......哈......啊......怎么样?你喜欢我的小穴吗?"
 
 # game/scripts/side_char_events.rpy:6906
 translate schinese jinspasex_e53d0bf6:
 
     # c "You're amazing, Jin..."
-    c ""
+    c "你太棒了,金......"
 
 # game/scripts/side_char_events.rpy:6907
 translate schinese jinspasex_5ddee5ce:
 
     # j "Mmmm~ that what I like to hear..."
-    j ""
+    j "嗯~我就喜欢听你说这个......"
 
 # game/scripts/side_char_events.rpy:7273
 translate schinese ellenspasex_a2bf6560:
 
     # e "Nnnnngh~ Ahh...\nAlways so horny, aren't you?"
-    e ""
+    e "嗯~啊......\n你总是在发情,不是吗?"
 
 # game/scripts/side_char_events.rpy:7277
 translate schinese ellenspasex_40c9dff6:
 
     # e "Go ahead, take a long, hard look..."
-    e ""
+    e "来吧,好好看......"
 
 # game/scripts/side_char_events.rpy:7281
 translate schinese ellenspasex_e58c8a35:
 
     # e "You know I'm a busy woman, right? I can't take a break for just anyone... but I suppose you're the exception."
-    e ""
+    e "你知道我是个大忙人,对吧?不是谁都能让我休息的......但我想你是个例外."
 
 # game/scripts/side_char_events.rpy:7285
 translate schinese ellenspasex_79c4f5e3:
 
     # e "So how would you like me, hm?"
-    e ""
+    e "所以你想要我怎么样,嗯?"
 
 # game/scripts/side_char_events.rpy:7289
 translate schinese ellenspasex_e6073ee0:
 
     # e "How about... from behind?"
-    e ""
+    e "后入......怎么样?"
 
 # game/scripts/side_char_events.rpy:7293
 translate schinese ellenspasex_f4354d9e:
 
     # e "Mmn, I'm ready for it, [name]... put it in..."
-    e ""
+    e "嗯,我已经准备好了,[name]......插进来吧......"
 
 # game/scripts/side_char_events.rpy:7297
 translate schinese ellenspasex_72a5beb6:
 
     # e "Ahhh! Ooooh, fuck! Mmmn!"
-    e ""
+    e "啊!哦,操!嗯!"
 
 # game/scripts/side_char_events.rpy:7298
 translate schinese ellenspasex_72513fac:
 
     # e "Hahhh, aaahn...! Is it everything you wanted? Mmmh..."
-    e ""
+    e "哈,啊......!这就是你想要的吗?嗯......"
 
 # game/scripts/side_char_events.rpy:7299
 translate schinese ellenspasex_d8630908:
 
     # e "Nnnm! Oh god, you feel so good inside me, [name], ahh!"
-    e ""
+    e "嗯!哦我天,你在我体内的感觉好棒,[name],啊!"
 
 # game/scripts/side_char_events.rpy:7302
 translate schinese ellenspasex_732deff1:
 
     # e "Oh, yes yes yes! Mmmn! You like that, don't you?"
-    e ""
+    e "哦,是的是的是的!嗯!你喜欢这样,不是吗?"
 
 # game/scripts/side_char_events.rpy:7303
 translate schinese ellenspasex_610c681b:
 
     # e "Oh god...! You're so fucking big! Mmmn!"
-    e ""
+    e "哦我天......!你好他妈大啊!嗯!"
 
 # game/scripts/side_char_events.rpy:7304
 translate schinese ellenspasex_4a3ea768:
 
     # e "Yes, yes, oh fuck! Cum inside me, [name], I want to feel you inside~!"
-    e ""
+    e "是的,是的,哦操!内射我,[name],我想要感受你在我身体里的感觉~!"
 
 # game/scripts/side_char_events.rpy:7308
 translate schinese ellenspasex_a74e1943:
 
     # e "AH!" with ssshake
-    e "" with ssshake
+    e "{b}啊!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:7309
 translate schinese ellenspasex_b95021f0:
 
     # e "Oh fuck! Nnm!" with ssshake
-    e "" with ssshake
+    e "哦操!嗯!" with ssshake
 
 # game/scripts/side_char_events.rpy:7310
 translate schinese ellenspasex_10312a55:
 
     # e "Oh yes, yes! Oh!" with ssshake
-    e "" with ssshake
+    e "哦是的,是的!哦!" with ssshake
 
 # game/scripts/side_char_events.rpy:7312
 translate schinese ellenspasex_85d38094:
 
     # e "Oh wow, that a lot! I'm glad you enjoyed..."
-    e ""
+    e "哦,哇哦,好多啊!你能这么享受,我很高兴......"
 
 # game/scripts/side_char_events.rpy:7315
 translate schinese ellenspasex_0fd2fbce:
 
     # e "Aaah!" with ssshake
-    e "" with ssshake
+    e "啊!" with ssshake
 
 # game/scripts/side_char_events.rpy:7317
 translate schinese ellenspasex_cdb86a8a:
 
     # e "Oh my goodness...! That was so much... I'm glad you enjoyed."
-    e ""
+    e "哦我天......!好多啊......你能这么享受,我很高兴."
 
 # game/scripts/side_char_events.rpy:10265
 translate schinese kate7_1461223a:
 
     # c "Hm, this place looks familiar. Vanessa also lives here."
-    c ""
+    c "嗯,这里看起来很眼熟.瓦妮莎也住在这里."
 
 # game/scripts/side_char_events.rpy:12958
 translate schinese van_spa_sex_90609ff4:
 
     # van "I locked the door, no one will bother us now..."
-    van ""
+    van "我锁门了,现在没人会打扰我们......"
 
 # game/scripts/side_char_events.rpy:12962
 translate schinese van_spa_sex_c58da555:
 
     # van "I've got plans for you..."
-    van ""
+    van "我对你有个计划......"
 
 # game/scripts/side_char_events.rpy:12966
 translate schinese van_spa_sex_5e12997b:
 
     # van "Come here, let's get you hard."
-    van ""
+    van "过来,让我把你弄硬吧."
 
 # game/scripts/side_char_events.rpy:12970
 translate schinese van_spa_sex_8d2c0fa8:
 
     # van "Mh, watching it grow is actually making me really wet."
-    van ""
+    van "嗯,看着它勃起我就已经湿了."
 
 # game/scripts/side_char_events.rpy:12974
 translate schinese van_spa_sex_448fc1bc:
 
     # van "Haha, I can't believe you pulled me away from my friends for a booty call. I'll never turn it down though~"
-    van ""
+    van "哈哈,真不敢相信你把我从我朋友身边拉走就为了打炮.但我永远都不会拒绝~"
 
 # game/scripts/side_char_events.rpy:12978
 translate schinese van_spa_sex_f925f5e3:
 
     # van "Looks like you're ready~! I can't wait to have you down my throat..."
-    van ""
+    van "看起来你已经准备好了~我已经等不及把你整根吞下喉咙了......"
 
 # game/scripts/side_char_events.rpy:12982
 translate schinese van_spa_sex_00abc785:
 
     # van "Mmph... mmlmn, oh fuck it's so big..."
-    van ""
+    van "嗯......嗯,哦操,好大啊......"
 
 # game/scripts/side_char_events.rpy:12983
 translate schinese van_spa_sex_2aff2f6c:
 
     # van "Lllmn, nnghk...! Mmmh, fuck, it would be so hot if you just pulled out of another girl and shoved it in my mouth... mmn... I could taste her juices on you... llmn!"
-    van ""
+    van "噜,嗯......!嗯,操,如果你的肉棒是从别的女孩身体里抽出来,再塞进我的嘴里,那就太色了......嗯......我可以在你的身上尝到她的爱液......噜!"
 
 # game/scripts/side_char_events.rpy:12984
 translate schinese van_spa_sex_0264f805:
 
     # van "Mmph...! Mmmngh...! Don't cum too fast~ I'm having fun. Mmmnl!"
-    van ""
+    van "嗯......!嗯.....!别射太快了~我还在玩呢.嗯!"
 
 # game/scripts/side_char_events.rpy:12987
 translate schinese van_spa_sex_1ababb5b:
 
     # van "Lllmn! Mmnl! Lmngh! Fuck, you're throbbing so much~"
-    van ""
+    van "噜!嗯!噜!操,你的肉棒跳得好大力啊~"
 
 # game/scripts/side_char_events.rpy:12988
 translate schinese van_spa_sex_8cb2c226:
 
     # van "Mmngh! Fuck, you're getting close already? Llmn...! Oh fuck... llmn... where do you want to cum?"
-    van ""
+    van "嗯!操,你要射了吗?噜......!哦操......噜......你想射哪里?"
 
 # game/scripts/side_char_events.rpy:12989
 translate schinese van_spa_sex_70c5cc85:
 
     # van "Nngh! Llmngh! You wanna cum on my face? Llmn! Do it, do it...! Mmmngh!"
-    van ""
+    van "嗯!噜!你想射我脸上?噜!射吧,射吧......!嗯!"
 
 # game/scripts/side_char_events.rpy:12993
 translate schinese van_spa_sex_6c0309d1:
 
     # van "MMMNGHK!?" with ssshake
-    van "" with ssshake
+    van "{b}嗯!?{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:12994
 translate schinese van_spa_sex_f7bd63e9:
 
     # van "HMMMMNNN!!" with ssshake
-    van "" with ssshake
+    van "{b}嗯!!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:12995
 translate schinese van_spa_sex_d0da5398:
 
     # van "NGHK! KKNGHHK!!" with ssshake
-    van "" with ssshake
+    van "{b}嗯!嗯!!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:12997
 translate schinese van_spa_sex_ece4a2f1:
 
     # van "*GAAAASP*!! Oh fuck! *cough, cough*!" with ssshake
-    van "" with ssshake
+    van "{b}*惊叹*!!{/b}哦操!*咳嗽,咳嗽*!" with ssshake
 
 # game/scripts/side_char_events.rpy:12999
 translate schinese van_spa_sex_38bc6cac:
 
     # van "Shit! I wasn't expecting that... I'll let you get away with that for now..."
-    van ""
+    van "操!我可没料到这个......这次我就放过你了......"
 
 # game/scripts/side_char_events.rpy:13000
 translate schinese van_spa_sex_1488d578:
 
     # van "Ahhh... Mn, that was hot..."
-    van ""
+    van "啊......嗯,太色了......"
 
 # game/scripts/side_char_events.rpy:13004
 translate schinese van_spa_sex_5c8a81b9:
 
     # van "Ah...! Cum for meeee~"
-    van ""
+    van "啊......!射给我~"
 
 # game/scripts/side_char_events.rpy:13007
 translate schinese van_spa_sex_64446100:
 
     # van "Mmmnl... oh shit... that's so much fucking cum...!"
-    van ""
+    van "嗯......哦操......精液好他妈多啊......!"
 
 # game/scripts/side_char_events.rpy:13008
 translate schinese van_spa_sex_be918c6d:
 
     # van "Ahhh... that was so hot..."
-    van ""
+    van "啊......太色了......"
 
 # game/scripts/side_char_events.rpy:13017
 translate schinese nala_spa_sex_a8d6ab5d:
 
     # nala "Oh, you're already naked. Perfect~"
-    nala ""
+    nala "哦,你已经脱光衣服了.完美~"
 
 # game/scripts/side_char_events.rpy:13021
 translate schinese nala_spa_sex_9bd1495f:
 
     # nala "Mmmm, I turn you on that much, huh?"
-    nala ""
+    nala "嗯,我让你硬成这样了,嗯?"
 
 # game/scripts/side_char_events.rpy:13025
 translate schinese nala_spa_sex_2f54cadd:
 
     # nala "I want you throbbing hard before you come inside me~"
-    nala ""
+    nala "在你的肉棒进入我的身体之前,我要它跳再大力些~"
 
 # game/scripts/side_char_events.rpy:13029
 translate schinese nala_spa_sex_016c2ee6:
 
     # nala "You're a lucky man, you know? Getting a private show from me..."
-    nala ""
+    nala "能看见我的私人表演......你知道吗,你很走运?"
 
 # game/scripts/side_char_events.rpy:13033
 translate schinese nala_spa_sex_beae2589:
 
     # nala "You want a closer look, don't you? Go ahead~ it's yours."
-    nala ""
+    nala "你想要再靠近点看看,不是吗?来吧~都是你的."
 
 # game/scripts/side_char_events.rpy:13037
 translate schinese nala_spa_sex_8dc45189:
 
     # nala "Damn... that you got so hard! Hehe..."
-    nala ""
+    nala "妈的......你变得好硬啊!呵呵......"
 
 # game/scripts/side_char_events.rpy:13041
 translate schinese nala_spa_sex_adfb3d4e:
 
     # nala "Mmmh, I want you to fuck me so much, [name]... you really turn me on."
-    nala ""
+    nala "嗯,我好想要你操我,[name]......你真的让我发情了."
 
 # game/scripts/side_char_events.rpy:13045
 translate schinese nala_spa_sex_ad8ff54c:
 
     # nala "Don't be gentle, okay? I love it rough."
-    nala ""
+    nala "不用温柔,好吗?我喜欢粗暴的."
 
 # game/scripts/side_char_events.rpy:13049
 translate schinese nala_spa_sex_2aa8f84a:
 
     # nala "I'm ready for you~"
-    nala ""
+    nala "我已经为你准备好了~"
 
 # game/scripts/side_char_events.rpy:13053
 translate schinese nala_spa_sex_ac7519b5:
 
     # nala "Ahhh...! Ahn! Nnngh! Fuck...!"
-    nala ""
+    nala "啊......!啊!嗯!操......!"
 
 # game/scripts/side_char_events.rpy:13054
 translate schinese nala_spa_sex_2f6616c2:
 
     # nala "Yes, yes, MH! Just like that! Holy shit, fuck me~"
-    nala ""
+    nala "是的,是的,{b}嗯!{/b}就是这样!操,操我~"
 
 # game/scripts/side_char_events.rpy:13055
 translate schinese nala_spa_sex_70a55133:
 
     # nala "Oh my god, don't stop baby! Fuck! MH! MHH! Fuck! Ohh, that's so fucking good~"
-    nala ""
+    nala "哦我天,别停下,宝贝!操!{/b}嗯!嗯!{/b}操!哦,太他妈棒了~"
 
 # game/scripts/side_char_events.rpy:13058
 translate schinese nala_spa_sex_ce2e1ba9:
 
     # nala "Ahhh! Hahhh! Mmmh, I want your cum on my tits, [name], I love it...!"
-    nala ""
+    nala "啊!哈!嗯,我想要你射在我奶子上,[name],我喜欢这样......!"
 
 # game/scripts/side_char_events.rpy:13059
 translate schinese nala_spa_sex_1673a2be:
 
     # nala "Mmmh! Nnm! Nngh! Oh god, I want you to fucking cover me in it! MH! Cover me in it...! cum all over me!"
-    nala ""
+    nala "嗯!嗯!嗯!哦我天,我想要你他妈地全射我身上!{b}嗯!{/b}全射我身上......!全射我身上!"
 
 # game/scripts/side_char_events.rpy:13060
 translate schinese nala_spa_sex_aec0506f:
 
     # nala "MMH! MH! Ahh~! I need it baby, cum, cum! Oh fuck, cum!!"
-    nala ""
+    nala "{b}嗯!嗯!{/b}啊~!我需要它,宝贝,射吧,射吧!哦操,射吧!!"
 
 # game/scripts/side_char_events.rpy:13063
 translate schinese nala_spa_sex_4698ceb9:
 
     # nala "Yes! Yes, yes!"
-    nala ""
+    nala "是的!是的,是的!"
 
 # game/scripts/side_char_events.rpy:13065
 translate schinese nala_spa_sex_26028236:
 
     # nala "AAAAAH~!" with ssshake
-    nala "" with ssshake
+    nala "{b}啊~!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13066
 translate schinese nala_spa_sex_364d8291:
 
     # nala "MMMH! NHAAH!" with ssshake
-    nala "" with ssshake
+    nala "{b}嗯!嗯!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13067
 translate schinese nala_spa_sex_a8e5a93e:
 
     # nala "Fffffuuck! Fuck! MMMH!" with ssshake
-    nala "" with ssshake
+    nala "操!操!{b}嗯!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13069
 translate schinese nala_spa_sex_ddde4b87:
 
     # nala "Hahhh... ahhh... nnnm..."
-    nala ""
+    nala "哈......啊......嗯......"
 
 # game/scripts/side_char_events.rpy:13070
 translate schinese nala_spa_sex_e21f384e:
 
     # nala "That was amazing, [name]... hahhh... wow..."
-    nala ""
+    nala "太棒了,[name]......哈......哇哦......"
 
 # game/scripts/side_char_events.rpy:13074
 translate schinese nala_spa_sex_c081fd8f:
 
     # nala "*gasp*! Yes, yes, yes!"
-    nala ""
+    nala "*惊叹*!是的,是的,是的!"
 
 # game/scripts/side_char_events.rpy:13076
 translate schinese nala_spa_sex_19c1f80e:
 
     # nala "Ah~!" with ssshake
-    nala "" with ssshake
+    nala "啊~!" with ssshake
 
 # game/scripts/side_char_events.rpy:13077
 translate schinese nala_spa_sex_b701d132:
 
     # nala "Oh fuck... mmmh~ you got it all over me..."
-    nala ""
+    nala "哦操......嗯~你全射我身上了......"
 
 # game/scripts/side_char_events.rpy:13078
 translate schinese nala_spa_sex_1ed15d39:
 
     # nala "Mmmn, that was amazing, [name]... wow..."
-    nala ""
+    nala "嗯,太棒了,[name]......哇哦......"
 
 # game/scripts/side_char_events.rpy:13250
 translate schinese vanessa6_c0286abd:
 
     # "You follow the address given to you to an apartment complex in Caliber city."
-    ""
+    "你按照对方给你的地址,来到了楷利泊市的一座公寓楼."
 
 # game/scripts/side_char_events.rpy:13252
 translate schinese vanessa6_c2c170c9:
 
     # c "Hmm... this place looks familiar. Kate lives in this building."
-    c ""
+    c "嗯......这地方看起来很眼熟.凯特住在这里."
 
 # game/scripts/side_char_events.rpy:13253
 translate schinese vanessa6_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*敲敲敲*"
 
 # game/scripts/side_char_events.rpy:13254
 translate schinese vanessa6_736f7b14:
 
     # van "Come in~!"
-    van ""
+    van "进来吧~!"
 
 # game/scripts/side_char_events.rpy:13256
 translate schinese vanessa6_3c347c6c:
 
     # nala "Mmmn..."
-    nala ""
+    nala "嗯......"
 
 # game/scripts/side_char_events.rpy:13257
 translate schinese vanessa6_b357efaf:
 
     # c "Oh shit."
-    c ""
+    c "哦操."
 
 # game/scripts/side_char_events.rpy:13258
 translate schinese vanessa6_0dd3f0c1:
 
     # van "Nnm, there he is~"
-    van ""
+    van "嗯,他来了~"
 
 # game/scripts/side_char_events.rpy:13260
 translate schinese vanessa6_7caf1a51:
 
     # nala "Llmn, mmh..."
-    nala ""
+    nala "噜,嗯......"
 
 # game/scripts/side_char_events.rpy:13261
 translate schinese vanessa6_44b3584f:
 
     # van "Mmh, what are you waiting for [name]? Get undressed already."
-    van ""
+    van "嗯,你还在等什么,[name]?快把衣服坨了."
 
 # game/scripts/side_char_events.rpy:13262
 translate schinese vanessa6_2038008b:
 
     # c "Hold on... you're bi, Nala?"
-    c ""
+    c "等等......娜拉,你是双性恋?"
 
 # game/scripts/side_char_events.rpy:13264
 translate schinese vanessa6_e2efd366:
 
     # nala "Hm? What? No... that's why you're here."
-    nala ""
+    nala "嗯?什么?不......这就是你来这里的原因."
 
 # game/scripts/side_char_events.rpy:13265
 translate schinese vanessa6_03e45a43:
 
     # van "Right... she's just, uh, {i}experimenting...{/i}"
-    van ""
+    van "没错......她只是在,呃,{i}实验......{/i}"
 
 # game/scripts/side_char_events.rpy:13266
 translate schinese vanessa6_97246a0d:
 
     # nala "I wanted to try a threesome, is that so wrong?"
-    nala ""
+    nala "我想试试3P,这有什么错吗?"
 
 # game/scripts/side_char_events.rpy:13267
 translate schinese vanessa6_ec16f18e:
 
     # c "Oh, there's nothing wrong about this."
-    c ""
+    c "哦,完全没有错."
 
 # game/scripts/side_char_events.rpy:13269
 translate schinese vanessa6_543275bd:
 
     # nala "Hold on, you're not going to tell my dad about this, right? He would totally disown me..."
-    nala ""
+    nala "等等,你不会告诉我爸爸的,对吧?他会和我断绝关系的."
 
 # game/scripts/side_char_events.rpy:13270
 translate schinese vanessa6_bc170c7c:
 
     # van "Relax, Nala... he's cool."
-    van ""
+    van "放松,娜拉......他是个好人."
 
 # game/scripts/side_char_events.rpy:13271
 translate schinese vanessa6_2ce870e9:
 
     # c "You don't have to worry about me."
-    c ""
+    c "你不需要担心我."
 
 # game/scripts/side_char_events.rpy:13273
 translate schinese vanessa6_7c044117:
 
     # van "*inhale*...\nIt's her first threesome, so take it slow at first."
-    van ""
+    van "*吸气*......\n这是她的第一次3P,所以慢慢来."
 
 # game/scripts/side_char_events.rpy:13274
 translate schinese vanessa6_80cb9afd:
 
     # c "What made you decide on a threesome?"
-    c ""
+    c "你怎么就想着要3P了?"
 
 # game/scripts/side_char_events.rpy:13275
 translate schinese vanessa6_45116b49:
 
     # van "She's a good girl, a valedictorian. She doesn't get much dick..."
-    van ""
+    van "她是个好女孩,是个优等生.她没有多少肉棒能用......"
 
 # game/scripts/side_char_events.rpy:13276
 translate schinese vanessa6_5710e9a8:
 
     # nala "I just need a break..."
-    nala ""
+    nala "我只是需要休息一下......"
 
 # game/scripts/side_char_events.rpy:13277
 translate schinese vanessa6_718bdfed:
 
     # nala "Umm, can I have some more of that?"
-    nala ""
+    nala "呃,我可以再来点吗?"
 
 # game/scripts/side_char_events.rpy:13278
 translate schinese vanessa6_ab4b5210:
 
     # van "Of course."
-    van ""
+    van "当然可以."
 
 # game/scripts/side_char_events.rpy:13280
 translate schinese vanessa6_bc0fee6e:
 
     # nala "Thank you... *inhale*..."
-    nala ""
+    nala "谢谢......*吸气*......"
 
 # game/scripts/side_char_events.rpy:13281
 translate schinese vanessa6_73c21727:
 
     # van "You want some, [name]?"
-    van ""
+    van "你也要来点吗,[name]?"
 
 # game/scripts/side_char_events.rpy:13284
 translate schinese vanessa6_52a024ea:
 
     # van "There's enough for everyone. Here."
-    van ""
+    van "人人有份,给."
 
 # game/scripts/side_char_events.rpy:13286
 translate schinese vanessa6_f9f73d96:
 
     # nala "*COUGH! COUGH! COUGH!*" with ssshake
-    nala "" with ssshake
+    nala "{b}*咳嗽!咳嗽!咳嗽!*{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13287
 translate schinese vanessa6_51413053:
 
     # van "Let it out, haha..."
-    van ""
+    van "你得呼出来,哈哈......"
 
 # game/scripts/side_char_events.rpy:13288
 translate schinese vanessa6_8e212430:
 
     # nala "*cough*! Nnngh...!"
-    nala ""
+    nala "*咳嗽*!嗯......!"
 
 # game/scripts/side_char_events.rpy:13291
 translate schinese vanessa6_6a99c12a:
 
     # van "Suit yourself..."
-    van ""
+    van "随你吧......"
 
 # game/scripts/side_char_events.rpy:13293
 translate schinese vanessa6_f9f73d96_1:
 
     # nala "*COUGH! COUGH! COUGH!*" with ssshake
-    nala "" with ssshake
+    nala "{b}*咳嗽!咳嗽!咳嗽!*{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13294
 translate schinese vanessa6_51413053_1:
 
     # van "Let it out, haha..."
-    van ""
+    van "你得呼出来,哈哈......"
 
 # game/scripts/side_char_events.rpy:13295
 translate schinese vanessa6_8e212430_1:
 
     # nala "*cough*! Nnngh...!"
-    nala ""
+    nala "*咳嗽*!嗯......!"
 
 # game/scripts/side_char_events.rpy:13297
 translate schinese vanessa6_80aaed4f:
 
     # nala "Nnnm... Are you gonna get undressed, or what? I need that dick already."
-    nala ""
+    nala "嗯......你要不要脱衣服的?我现在就需要肉棒."
 
 # game/scripts/side_char_events.rpy:13298
 translate schinese vanessa6_1409861e:
 
     # c "Way ahead of you."
-    c ""
+    c "我早就准备好了."
 
 # game/scripts/side_char_events.rpy:13299
 translate schinese vanessa6_75ea88cb:
 
     # van "Haha. Damn, how long has it been?"
-    van ""
+    van "哈哈.妈的,多久没见了?"
 
 # game/scripts/side_char_events.rpy:13300
 translate schinese vanessa6_3a393a89:
 
     # nala "Too long..."
-    nala ""
+    nala "够久了......"
 
 # game/scripts/side_char_events.rpy:13302
 translate schinese vanessa6_b7693d24:
 
     # nala "Ummm...\n{i}He's not as big as I thought he'd be...{/i}"
-    nala ""
+    nala "呃......\n{i}他没我想象中的那么大......{/i}"
 
 # game/scripts/side_char_events.rpy:13303
 translate schinese vanessa6_8ba74588:
 
     # van "Dude, you can't just tell a guy to get hard, you kinda have to work a bit for it. That's like, half as big as he can get."
-    van ""
+    van "伙计,男人又不是你叫硬就硬的,你得自己动手.就这样,也才到他能达到的一半大."
 
 # game/scripts/side_char_events.rpy:13304
 translate schinese vanessa6_0ce723a7:
 
     # nala "Ohhh, right."
-    nala ""
+    nala "哦,对."
 
 # game/scripts/side_char_events.rpy:13305
 translate schinese vanessa6_44dfee28:
 
     # van "Give us a show, then!"
-    van ""
+    van "那就让我们看看吧!"
 
 # game/scripts/side_char_events.rpy:13306
 translate schinese vanessa6_b3727813:
 
     # nala "I can try..."
-    nala ""
+    nala "我可以试试......"
 
 # game/scripts/side_char_events.rpy:13308
 translate schinese vanessa6_c19e2836:
 
     # nala "And I'll also try not to be offended that you didn't bust after seeing us naked..."
-    nala ""
+    nala "我也尽量不因为你在看到我们的裸体后没有硬起来而生气......"
 
 # game/scripts/side_char_events.rpy:13309
 translate schinese vanessa6_ded07d56:
 
     # van "There you go~"
-    van ""
+    van "好了~"
 
 # game/scripts/side_char_events.rpy:13313
 translate schinese vanessa6_d3657875:
 
     # nala "{i}I think it's working, Vanessa~{/i}"
-    nala ""
+    nala "{i}我觉得这样有用,瓦妮莎~{/i}"
 
 # game/scripts/side_char_events.rpy:13314
 translate schinese vanessa6_0c0ad0e9:
 
     # van "It definitely is for me..."
-    van ""
+    van "肯定是因为我......"
 
 # game/scripts/side_char_events.rpy:13318
 translate schinese vanessa6_6f6a0c83:
 
     # nala "I don't really do this... so let me know if there's something I'm doing wrong, okay?"
-    nala ""
+    nala "我不太擅长这个......如果我做错了什么,请告诉我,好吗?"
 
 # game/scripts/side_char_events.rpy:13319
 translate schinese vanessa6_76beb981:
 
     # van "Hey, confidence is key. And you're doing amazing!"
-    van ""
+    van "嘿,自信是关键.你做得很棒!"
 
 # game/scripts/side_char_events.rpy:13323
 translate schinese vanessa6_729f83b7:
 
     # nala "Oh wow...! It's massive now!"
-    nala ""
+    nala "哦,哇哦......!现在它变得好大啊!"
 
 # game/scripts/side_char_events.rpy:13324
 translate schinese vanessa6_261dabb0:
 
     # van "I told ya..."
-    van ""
+    van "我都告诉过你了."
 
 # game/scripts/side_char_events.rpy:13325
 translate schinese vanessa6_faf67a7b:
 
     # nala "That's definitely the biggest I'll ever take... damn!"
-    nala ""
+    nala "这绝对是我见过最大的了......操!"
 
 # game/scripts/side_char_events.rpy:13327
 translate schinese vanessa6_a40fc23f:
 
     # van "So how do you want to do this?"
-    van ""
+    van "所以你想要对它干什么?"
 
 # game/scripts/side_char_events.rpy:13328
 translate schinese vanessa6_74a47c8c:
 
     # nala "Ohh, I haven't thought of that... ummm... Doggy?"
-    nala ""
+    nala "哦,我还没想过......呃......后入?"
 
 # game/scripts/side_char_events.rpy:13329
 translate schinese vanessa6_ab7049eb:
 
     # c "Whatever you'd like."
-    c ""
+    c "你想干什么都行."
 
 # game/scripts/side_char_events.rpy:13330
 translate schinese vanessa6_18a3ace3:
 
     # nala "Okay, doggy!"
-    nala ""
+    nala "好的,后入!"
 
 # game/scripts/side_char_events.rpy:13331
 translate schinese vanessa6_04c515f7:
 
     # van "You can get on top of me, Nala. I want a good view~"
-    van ""
+    van "你可以在我上面,娜拉.我想要好好看看~"
 
 # game/scripts/side_char_events.rpy:13334
 translate schinese vanessa6_ef47792c:
 
     # nala "This is so exciting...! I've always wanted to have sex while I was high."
-    nala ""
+    nala "太兴奋了......!我一直都想在我嗨的时候做爱."
 
 # game/scripts/side_char_events.rpy:13335
 translate schinese vanessa6_3cacf27b:
 
     # van "It feels a hundred times better, trust me."
-    van ""
+    van "相信我,这比平常舒服上百倍."
 
 # game/scripts/side_char_events.rpy:13336
 translate schinese vanessa6_756e97e3:
 
     # nala "I'm ready, [name]~ put it in! But slowly at first..."
-    nala ""
+    nala "我准备好了,[name]~插进来吧!但是先慢慢地......"
 
 # game/scripts/side_char_events.rpy:13338
 translate schinese vanessa6_89a1c29c:
 
     # nala "*gasp*! Oh my god."
-    nala ""
+    nala "*惊叹*!哦我天."
 
 # game/scripts/side_char_events.rpy:13339
 translate schinese vanessa6_157b4cf8:
 
     # van "Haha! Dude, do you even masturbate?"
-    van ""
+    van "哈哈!伙计,你自慰吗?"
 
 # game/scripts/side_char_events.rpy:13340
 translate schinese vanessa6_e84192cd:
 
     # nala "With what time!?"
-    nala ""
+    nala "什么时候!?"
 
 # game/scripts/side_char_events.rpy:13342
 translate schinese vanessa6_5c0d3f2f:
 
     # nala "Ahhhh...! Oh fuck... Ohhh, that's so big...!"
-    nala ""
+    nala "啊......!哦操......哦,好大啊......!"
 
 # game/scripts/side_char_events.rpy:13343
 translate schinese vanessa6_c755cfb1:
 
     # nala "Hold on...! Mmmn! Wait... let me get used to it first..."
-    nala ""
+    nala "等下......!嗯!等下......让我先习惯一下......"
 
 # game/scripts/side_char_events.rpy:13344
 translate schinese vanessa6_d3aec38d:
 
     # van "Damn, she must be really tight, huh?"
-    van ""
+    van "我操,她一定很紧吧,嗯?"
 
 # game/scripts/side_char_events.rpy:13345
 translate schinese vanessa6_c04e99fe:
 
     # c "Very..."
-    c ""
+    c "非常紧......"
 
 # game/scripts/side_char_events.rpy:13346
 translate schinese vanessa6_7eb5a5f7:
 
     # nala "Hahhh... mmn, okay... you can start now."
-    nala ""
+    nala "哈......嗯,好的......你现在可以开始了."
 
 # game/scripts/side_char_events.rpy:13348
 translate schinese vanessa6_b5568391:
 
     # nala "Oh fuck! Nmm! Shit..."
-    nala ""
+    nala "哦操!嗯!操......"
 
 # game/scripts/side_char_events.rpy:13349
 translate schinese vanessa6_693a6d21:
 
     # van "Looks like it feels good..."
-    van ""
+    van "看起来很舒服呢......"
 
 # game/scripts/side_char_events.rpy:13350
 translate schinese vanessa6_afb0097e:
 
     # nala "Ohh, yeah~ Mmmn!"
-    nala ""
+    nala "哦,是的~嗯!"
 
 # game/scripts/side_char_events.rpy:13351
 translate schinese vanessa6_d8e02300:
 
     # nala "Oh my god, I've needed this so much...! Fuck!"
-    nala ""
+    nala "哦我天,我太需要这个了......!操!"
 
 # game/scripts/side_char_events.rpy:13354
 translate schinese vanessa6_d65a2367:
 
     # van "Nnm, think you can take it a bit faster?"
-    van ""
+    van "嗯,你觉得你能接受再快一点吗?"
 
 # game/scripts/side_char_events.rpy:13355
 translate schinese vanessa6_5edc15a2:
 
     # nala "I... I think so! Ahhh! Oh my god...! Ahhh!"
-    nala ""
+    nala "我......我觉得可以!啊!哦我天......!啊!"
 
 # game/scripts/side_char_events.rpy:13356
 translate schinese vanessa6_8875b218:
 
     # nala "Fuck me harder, [name]! Mmmn! Faster, faster! Please!"
-    nala ""
+    nala "操我操大力点,[name]!嗯!再快点,再快点!求你了!"
 
 # game/scripts/side_char_events.rpy:13358
 translate schinese vanessa6_d40eee67:
 
     # nala "AAAH!" with ssshake
-    nala "" with ssshake
+    nala "{b}啊!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13359
 translate schinese vanessa6_b0a9c385:
 
     # nala "Oh FUCK yeah! Fuck! Mmmn! Oh god, I'm so fucking wet...! Shit!"
-    nala ""
+    nala "哦,{b}操,{/b}是的!操!嗯!哦我天,我好湿啊......!操!"
 
 # game/scripts/side_char_events.rpy:13360
 translate schinese vanessa6_c5fc110e:
 
     # van "Mmmh, I wanna lick his cum out of your pussy..."
-    van ""
+    van "嗯,我想要从你的小穴里把他的精液都舔干净......"
 
 # game/scripts/side_char_events.rpy:13361
 translate schinese vanessa6_7b629e8a:
 
     # nala "Wh-What...!? I can't afford the pill! MMMH!"
-    nala ""
+    nala "什-什么......!?我没钱买避孕药!{b}嗯!{/b}"
 
 # game/scripts/side_char_events.rpy:13362
 translate schinese vanessa6_db658b09:
 
     # nala "Oh fuck! Fuck! Aaah~ I do kinda want it though..."
-    nala ""
+    nala "哦操!操!啊~但是我确实是有点想要......"
 
 # game/scripts/side_char_events.rpy:13365
 translate schinese vanessa6_2f84208d:
 
     # van "It's okay, I can give you one. Let him cum inside."
-    van ""
+    van "没事的,我可以给你一片.让他内射你吧."
 
 # game/scripts/side_char_events.rpy:13366
 translate schinese vanessa6_b793fb52:
 
     # nala "Oh fuck, really? MMMH! I've never had a creampie...! Hahhh!"
-    nala ""
+    nala "哦操,真的吗?{b}嗯!{/b}我从来没有被内射过......!哈!"
 
 # game/scripts/side_char_events.rpy:13367
 translate schinese vanessa6_7e8e1e6c:
 
     # van "It feels amazing..."
-    van ""
+    van "感觉好棒......"
 
 # game/scripts/side_char_events.rpy:13368
 translate schinese vanessa6_b93549dc:
 
     # nala "Oh shit, oh shit...! FUCK! Aaah~! Okay, you can cum inside my pussy! Mmmh!"
-    nala ""
+    nala "哦操,哦操......!{b}操!{/b}啊~!好的,你可以射进我的小穴里!嗯!"
 
 # game/scripts/side_char_events.rpy:13369
 translate schinese vanessa6_828dd858:
 
     # nala "Fuck, fuck fuck~! Yes! MMMH! Oh my god! Cum for me...! Cum in my pussy, [name]!"
-    nala ""
+    nala "操,操操~!是的!{b}嗯!{/b}哦我天!射给我吧......!射进我的小穴里,[name]!"
 
 # game/scripts/side_char_events.rpy:13370
 translate schinese vanessa6_f77f6433:
 
     # nala "Ohh, please~! Please fucking cum inside me! Fuck, fuck, fuck! I need it! MMH!"
-    nala ""
+    nala "哦,求你了~!求你他妈地射进我的小穴里吧!操,操,操!我需要它!{b}嗯!{/b}"
 
 # game/scripts/side_char_events.rpy:13372
 translate schinese vanessa6_2e242f17:
 
     # nala "AAAAAH~! YES!" with ssshake
-    nala "" with ssshake
+    nala "{b}啊~!是的!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13373
 translate schinese vanessa6_d6542737:
 
     # nala "YES, YES! MMMH!" with ssshake
-    nala "" with ssshake
+    nala "{b}是的,是的!嗯!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13375
 translate schinese vanessa6_617ae9b5:
 
     # nala "FUCK, YESSSSS~! AHHHH!~!" with ssshake
-    nala "" with ssshake
+    nala "{b}操,是的~!啊!~!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13377
 translate schinese vanessa6_eb671624:
 
     # nala "Ahhh...! Hahhh...! Ahhn...! Oh my god..."
-    nala ""
+    nala "啊......!哈......!啊......!哦我天......"
 
 # game/scripts/side_char_events.rpy:13378
 translate schinese vanessa6_74a94916:
 
     # nala "Wow [name]... that was... that was amazing... thank you..."
-    nala ""
+    nala "哇哦,[name]......那......那太棒了......谢谢你......"
 
 # game/scripts/side_char_events.rpy:13379
 translate schinese vanessa6_e01eb603:
 
     # c "Hah, no problem..."
-    c ""
+    c "哈,不用谢......"
 
 # game/scripts/side_char_events.rpy:13380
 translate schinese vanessa6_8c60cd71:
 
     # van "Damn that looks like it felt good... turn around."
-    van ""
+    van "操,看起来好舒服啊......转过来."
 
 # game/scripts/side_char_events.rpy:13383
 translate schinese vanessa6_e5344a74:
 
     # nia "AGH! Fuck!"
-    nia ""
+    nia "{b}啊!{/b}操!"
 
 # game/scripts/side_char_events.rpy:13384
 translate schinese vanessa6_026d785c:
 
     # van "WHAT THE FUCK!?!?"
-    van ""
+    van "{b}什么鬼!?!?{/b}"
 
 # game/scripts/side_char_events.rpy:13385
 translate schinese vanessa6_1cbecb2b:
 
     # nala "WHO IS THAT!?"
-    nala ""
+    nala "{b}那是谁!?{/b}"
 
 # game/scripts/side_char_events.rpy:13387
 translate schinese vanessa6_26cd573d:
 
     # nia "No time to explain! The cops-"
-    nia ""
+    nia "没时间解释了!条子-"
 
 # game/scripts/side_char_events.rpy:13389
 translate schinese vanessa6_9e72dc56:
 
     # nia "What the fuck?"
-    nia ""
+    nia "什么鬼?"
 
 # game/scripts/side_char_events.rpy:13390
 translate schinese vanessa6_2aba088d:
 
     # van "YOU BROKE MY FUCKING WINDOW!?" with ssshake
-    van "" with ssshake
+    van "{b}你他妈把我窗打碎了!?{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:13391
 translate schinese vanessa6_35701de3:
 
     # nala "YOU KNOW HER!?"
-    nala ""
+    nala "{b}你认识她!?{/b}"
 
 # game/scripts/side_char_events.rpy:13392
 translate schinese vanessa6_432842bb:
 
     # nia "Wait- what are you doing here?"
-    nia ""
+    nia "等下-你在这干什么?"
 
 # game/scripts/side_char_events.rpy:13393
 translate schinese vanessa6_e7bb4cb0:
 
     # c "Uh."
-    c ""
+    c "呃."
 
 # game/scripts/side_char_events.rpy:13394
 translate schinese vanessa6_12e76b31:
 
     # nia "Why am I even asking..."
-    nia ""
+    nia "为什么我还要问......"
 
 # game/scripts/side_char_events.rpy:13396
 translate schinese vanessa6_f08b04a8:
 
     # "*KNOCK, KNOCK, KNOCK*!\nTHIS IS THE POLICE! OPEN UP!" with sshake
-    "" with sshake
+    "{b}*敲,敲,敲*!\n警察!开门{/b}" with sshake
 
 # game/scripts/side_char_events.rpy:13397
 translate schinese vanessa6_ff5d3a02:
 
     # nia "{i}Shit!{/i}"
-    nia ""
+    nia "{i}操!{/i}"
 
 # game/scripts/side_char_events.rpy:13399
 translate schinese vanessa6_15349c59:
 
     # van "{i}Fuck! Get under the god damned bed, you slut, RIGHT NOW!{/i}"
-    van ""
+    van "{i}操!快他妈躲床下面去,你这傻逼,{b}快!{/b}{/i}"
 
 # game/scripts/side_char_events.rpy:13400
 translate schinese vanessa6_65b30711:
 
     # nia "{i}Thank you, thank you...!{/i}"
-    nia ""
+    nia "{i}谢谢,谢谢......!{/i}"
 
 # game/scripts/side_char_events.rpy:13401
 translate schinese vanessa6_0da77639:
 
     # van "{i}Nala! Put the carpet over the fucking glass!{/i}"
-    van ""
+    van "{i}娜拉!快把毯子盖到他妈的玻璃上!{/i}"
 
 # game/scripts/side_char_events.rpy:13402
 translate schinese vanessa6_759abb06:
 
     # nala "{i}What carpet!?{/i}"
-    nala ""
+    nala "{i}什么毯子!?{/i}"
 
 # game/scripts/side_char_events.rpy:13403
 translate schinese vanessa6_b57a8aa7:
 
     # van "{i}Under the bed, QUICK!{/i}"
-    van ""
+    van "{i}床下面,{b}快!{/b}{/i}"
 
 # game/scripts/side_char_events.rpy:13409
 translate schinese vanessa6_88a69801:
 
     # van "AH~ FUCK~!"
-    van ""
+    van "{b}啊~操~!{/b}"
 
 # game/scripts/side_char_events.rpy:13416
 translate schinese vanessa6_15a46d02:
 
     # van "FUCK, YES, YES!"
-    van ""
+    van "{b}操,是的,是的!{/b}"
 
 # game/scripts/side_char_events.rpy:13417
 translate schinese vanessa6_1afe170f:
 
     # nala "{i}Done!{/i}"
-    nala ""
+    nala "{i}行了!{/b}"
 
 # game/scripts/side_char_events.rpy:13419
 translate schinese vanessa6_9be0b80f:
 
     # van "OH FUCK DADDY, HARDER, HARDER! FUCK~!"
-    van ""
+    van "{b}哦操,爸爸,再大力点,再大力点!操~!{/b}"
 
 # game/scripts/side_char_events.rpy:13420
 translate schinese vanessa6_6d42d411:
 
     # polm "BUST IT DOWN!"
-    polm ""
+    polm "{b}破门!{/b}"
 
 # game/scripts/side_char_events.rpy:13421
 translate schinese vanessa6_08d225d0:
 
     # polm "YES SIR!"
-    polm ""
+    polm "{b}是的长官!{/b}"
 
 # game/scripts/side_char_events.rpy:13423
 translate schinese vanessa6_b37bb404:
 
     # polm "Oh shit!"
-    polm ""
+    polm "哦操!"
 
 # game/scripts/side_char_events.rpy:13424
 translate schinese vanessa6_518638be:
 
     # polw "Uh, oh-\nUmm... we have reason to believe there's a, uh... *ahem*..."
-    polw ""
+    polw "呃,哦-\n嗯......我们有理由相信这里有,呃.......*咳嗽*......"
 
 # game/scripts/side_char_events.rpy:13425
 translate schinese vanessa6_a32cfa53:
 
     # van "Do you have a fucking warrant!? WHAT'S WRONG WITH YOU!? GET OUT!!"
-    van ""
+    van "你们他妈有搜查令吗!?{b}你们他妈怎么回事!?滚出去!!{/b}"
 
 # game/scripts/side_char_events.rpy:13427
 translate schinese vanessa6_087fff67:
 
     # polw "Uhh, sorry... we were chasing someone and it looked like they climbed up here..."
-    polw ""
+    polw "呃,对不起......我们在追一个嫌犯,好像是爬到这里进来了......"
 
 # game/scripts/side_char_events.rpy:13428
 translate schinese vanessa6_84449ec4:
 
     # polm "{i}Dude, a threesome, nice!{/i}"
-    polm ""
+    polm "{i}哥们,3P,行啊!{/i}"
 
 # game/scripts/side_char_events.rpy:13429
 translate schinese vanessa6_2e14b82e:
 
     # polm "Nice, man. Nice."
-    polm ""
+    polm "很行,伙计,很行."
 
 # game/scripts/side_char_events.rpy:13430
 translate schinese vanessa6_7228382a:
 
     # c "Uh, thanks..."
-    c ""
+    c "呃,谢谢......"
 
 # game/scripts/side_char_events.rpy:13431
 translate schinese vanessa6_785c8074:
 
     # van "GET THE FUCK OUT!!"
-    van ""
+    van "{b}他妈地滚出去!!{/b}"
 
 # game/scripts/side_char_events.rpy:13432
 translate schinese vanessa6_f91dae32:
 
     # polw "Right, uh, have a good day, ma'am... let us know if you see anything."
-    polw ""
+    polw "对,呃,祝你们玩得愉快,女士......如果你们需要什么,请告诉我们."
 
 # game/scripts/side_char_events.rpy:13434
 translate schinese vanessa6_54edc25e:
 
     # van "*exhale*... fuck."
-    van ""
+    van "*呼气*......操."
 
 # game/scripts/side_char_events.rpy:13435
 translate schinese vanessa6_e47b1469:
 
     # nala "They saw me naked...!"
-    nala ""
+    nala "他们看到我们的裸体了......!"
 
 # game/scripts/side_char_events.rpy:13436
 translate schinese vanessa6_be803e6a:
 
     # van "You can come out now..."
-    van ""
+    van "你现在可以出来了......"
 
 # game/scripts/side_char_events.rpy:13438
 translate schinese vanessa6_5cb77853:
 
     # nia "Thank you so much... I-"
-    nia ""
+    nia "太谢谢你了......我-"
 
 # game/scripts/side_char_events.rpy:13439
 translate schinese vanessa6_97208f9f:
 
     # van "-I don't want to hear it! You can thank me by replacing my window!"
-    van ""
+    van "-我不想听!你想谢我就给我换扇窗!"
 
 # game/scripts/side_char_events.rpy:13440
 translate schinese vanessa6_50cb58b9:
 
     # nia "Okay, okay, I'll find a way..."
-    nia ""
+    nia "好的,好的,我会努力的......"
 
 # game/scripts/side_char_events.rpy:13441
 translate schinese vanessa6_e192f321:
 
     # c "That was some good acting, Vanessa."
-    c ""
+    c "演技不错啊,瓦妮莎."
 
 # game/scripts/side_char_events.rpy:13443
 translate schinese vanessa6_60016604:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:13445
 translate schinese vanessa6_95f2d620:
 
     # nia "...Is there anywhere I can go where you aren't getting your dick wet?"
-    nia ""
+    nia "......你有什么不会把你的肉棒弄湿的地方能让我过去吗?"
 
 # game/scripts/side_char_events.rpy:13446
 translate schinese vanessa6_4b7c63d2:
 
     # c "Probably not."
-    c ""
+    c "大概没有."
 
 # game/scripts/side_char_events.rpy:13447
 translate schinese vanessa6_9a71be11:
 
     # nia "*sigh*..."
-    nia ""
+    nia "*叹气*......"
 
 # game/scripts/side_char_events.rpy:13449
 translate schinese vanessa6_7729e6df:
 
     # c "So... do you need a ride home?"
-    c ""
+    c "所以......你需要我载你回家吗?"
 
 # game/scripts/side_char_events.rpy:13450
 translate schinese vanessa6_60016604_1:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/side_char_events.rpy:13452
 translate schinese vanessa6_6fd8ab06:
 
     # nia "...Yes please."
-    nia ""
+    nia "......是的,请你载我回去吧."
 
 translate schinese strings:
 
     # game/scripts/side_char_events.rpy:3295
     old "{color=#8C8C8C}Let's have some fun."
-    new ""
+    new "{color=#8C8C8C}我们来找点乐子吧."
 
     # game/scripts/side_char_events.rpy:13282
     old "Not today."
-    new ""
+    new "今天不行."
 
