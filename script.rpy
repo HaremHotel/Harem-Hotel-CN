@@ -19269,7 +19269,7 @@ translate schinese explore_brothel2_467af3e6:
 translate schinese explore_brothel2_3ec4d480:
 
     # c "Try lifting your head up, give the dildo a better path down your throat."
-    c "试着抬起你的头,这样假阳具进入你喉咙的路径会更方便点."
+    c "试着把头抬起来,这样假阳具才能更好地进入你的喉咙."
 
 # game/script.rpy:11274
 translate schinese explore_brothel2_07208adb:
@@ -106972,7 +106972,7 @@ translate schinese yourroom_e9b50245:
 translate schinese yourroom_3381f206:
 
     # bot "Hello patrons! Welcome to Beta Build 1 of v0.19! This is an unreleased, unfinished, unpolished, buggy version of v0.19! v0.19 is not completed yet!"
-    bot "赞助者们,你们好!欢迎来到v0.19 Beta版!这是v0.19未发布,未完成,未完善,且包含大量错误的版本!v0.19尚未完成!"
+    bot "赞助者们,你们好!欢迎来到v0.19 Beta 1版!这是v0.19未发布,未完成,未完善,且包含大量错误的版本!v0.19尚未完成!"
 
 # game/script.rpy:19026
 translate schinese yourroom_cff729a7:
@@ -107008,493 +107008,493 @@ translate schinese strings:
 translate schinese lobby_91ffb935:
 
     # c "Hmm... I should check the lobby in the morning."
-    c ""
+    c "嗯......我应该早上来大厅看看."
 
 # game/script.rpy:11325
 translate schinese explore_brothel5_3b5eb577:
 
     # bbun "Haha, not at all! Suits don't expose their secrets here. Even when he gets drunk, he's way too hammered to string together a coherent sentence. But that guy doesn't know that~"
-    bbun ""
+    bbun "哈哈,完全不知道!那些西装男可不会在这里泄露秘密.即使喝醉了,他们也只会醉得话都说不清楚.但是那家伙并不知道这种事情~"
 
 # game/script.rpy:12709
 translate schinese explore_cafe3_21646906:
 
     # c "You want to give me money to protect you?"
-    c ""
+    c "你想给我钱来保护你?"
 
 # game/script.rpy:13278
 translate schinese explore_slums5_233be885:
 
     # c "{i}(What did I stumble in to...){/i}"
-    c ""
+    c "{i}(我是怎么掺和进来的......){/i}"
 
 # game/script.rpy:13279
 translate schinese explore_slums5_85f16f9e:
 
     # preach "Brothers and sisters, the path to salvation is paved with SACRIFICE!"
-    preach ""
+    preach "兄弟们,姐妹们,救赎的大道是由{b}牺牲{/b}所铺就的!"
 
 # game/script.rpy:13280
 translate schinese explore_slums5_5d7dcf92:
 
     # preach "Gaius does not measure your wealth, but your willingness to give! It is those who surrender their worldly possessions, those who embrace true humility, who will know Him!"
-    preach ""
+    preach "盖乌斯衡量的不是你的财富,而是你付出的意愿!那些交出世俗财产的人,那些真正谦卑的人,才能知晓祂!"
 
 # game/script.rpy:13281
 translate schinese explore_slums5_7214cfe2:
 
     # c "Oh..."
-    c ""
+    c "哦......"
 
 # game/script.rpy:13283
 translate schinese explore_slums5_ce35a492:
 
     # preach "Behold! HOLY WATER!\nBlessed by divine hands! Purified by sacred rites! It is not just water, it is a miracle in a cup!"
-    preach ""
+    preach "请看吧!{b}圣水!{/b}\n受赐福于神圣之手!受净化于神圣仪式!这不仅是水,而是杯中的奇迹!"
 
 # game/script.rpy:13284
 translate schinese explore_slums5_25e40c46:
 
     # preach "A single drop ingested will result in a day of luck! Drink the whole thing, and ALL of your ailments will disappear! It only requires faith!"
-    preach ""
+    preach "只需喝下一滴,就能带来一天的好运!全部喝下,你的所有病痛都会消失!而你只需要保持信念!"
 
 # game/script.rpy:13285
 translate schinese explore_slums5_06996ed2:
 
     # c "{i}Not interested.{/i}"
-    c ""
+    c "{i}不感兴趣.{/i}"
 
 # game/script.rpy:13287
 translate schinese explore_slums5_484323d9:
 
     # q "Not curious to see how many suckers buy into it? Heh... it happens more than you'd think."
-    q ""
+    q "你不好奇有多少傻瓜会买账吗?呵呵......比你想象的还要多."
 
 # game/script.rpy:13290
 translate schinese explore_slums5_5de08eef:
 
     # q "They're not really selling holy water, they're selling faith. Some folks needs that around here - something to believe in."
-    q ""
+    q "他们卖的不是圣水,而是信仰.有些这里的人需要这种东西,即对某种东西的信仰."
 
 # game/script.rpy:13293
 translate schinese explore_slums5_5de08eef_1:
 
     # q "They're not really selling holy water, they're selling faith. Some folks needs that around here - something to believe in."
-    q ""
+    q "他们卖的不是圣水,而是信仰.有些这里的人需要这种东西,即对某种东西的信仰."
 
 # game/script.rpy:13294
 translate schinese explore_slums5_a0c417c8:
 
     # preach "The church does not sell these gifts, no...! We merely ask for a humble offering in return! Just 5 syls for one! 25 for a pack of 6!"
-    preach ""
+    preach "教会不会售卖这些礼物,不会......!我们只希望得到一些微薄的回报!一份只需要5西尔元!一包6份,25西尔元!"
 
 # game/script.rpy:13296
 translate schinese explore_slums5_733d7c42:
 
     # q "I'd feel bad for 'em... but they're doin' it to themselves."
-    q ""
+    q "我为他们感到难过......但他们完全是自作自受."
 
 # game/script.rpy:13297
 translate schinese explore_slums5_3e4c0f24:
 
     # q "And honestly, if it makes them happy, maybe they are doing a good thing. Ya know?"
-    q ""
+    q "说实在的,如果这能让他们开心起来,也许他们也算是在做好事了.你知道不?"
 
 # game/script.rpy:13298
 translate schinese explore_slums5_19532b64:
 
     # c "Uh, sure, I guess."
-    c ""
+    c "呃,应该,大概."
 
 # game/script.rpy:13300
 translate schinese explore_slums5_1042a6bb:
 
     # q "There's not much down here that gives people hope. It almost makes me wish I believed..."
-    q ""
+    q "这里没有什么能给人带来希望,我甚至希望我自己也能拥有信仰."
 
 # game/script.rpy:13301
 translate schinese explore_slums5_b4765e68:
 
     # preach "Faith demands sacrifice! Would you deny yourself salvation? Would you spit in the face of the divine gift offered to you?"
-    preach ""
+    preach "信仰需要牺牲!你会拒绝自己的救赎吗?你会唾弃献给你的圣礼吗?"
 
 # game/script.rpy:13302
 translate schinese explore_slums5_71eb6c10:
 
     # preach "After all, what is 5 syls compared to salvation? Is your devotion so weak that you cannot part with what little you have!?"
-    preach ""
+    preach "毕竟,与救赎相比,5西尔元又算得了什么呢?难道你的奉献精神如此微弱,以至于连对你来说如此微不足道的一点都无法割舍吗!?"
 
 # game/script.rpy:13303
 translate schinese explore_slums5_18ea48a2:
 
     # man "I'll take a pack!"
-    man ""
+    man "我要一包!"
 
 # game/script.rpy:13304
 translate schinese explore_slums5_e6e7ea47:
 
     # woman "One for me, please!"
-    woman ""
+    woman "请给我来一份!"
 
 # game/script.rpy:13306
 translate schinese explore_slums5_24108ba8:
 
     # woman "Bullshit! I saw those bottles being delivered from Nero this morning! He's a fraud!" with ssshake
-    woman "" with ssshake
+    woman "全都是胡扯!我今天早上就见到尼禄公司把那几瓶水送过来了!他是个骗子!" with ssshake
 
 # game/script.rpy:13308
 translate schinese explore_slums5_3571d9ae:
 
     # preach "SILENCE INTERLOPER!"
-    preach ""
+    preach "{b}闭嘴,闯入者!{/b}"
 
 # game/script.rpy:13309
 translate schinese explore_slums5_4f2261b8:
 
     # woman "It's a scam! Just buy yourself some water at the store, it's the same thing!"
-    woman ""
+    woman "这是个骗局!你们自己去商店里买点水喝不就得了,都是一样的!"
 
 # game/script.rpy:13310
 translate schinese explore_slums5_ac462eea:
 
     # preach "Not only are you helping YOURSELF by purchasing this holy water, you are directly supporting the church! Which is a blessing of its own!"
-    preach ""
+    preach "购买圣水不仅是对{b}你们自己{/b}的帮助,也是对教会的直接支持!这本身就是一种祝福!"
 
 # game/script.rpy:13312
 translate schinese explore_slums5_95a1812f:
 
     # q "Gaius' blessings upon you."
-    q ""
+    q "盖乌斯保佑你们."
 
 # game/script.rpy:13313
 translate schinese explore_slums5_d106b204:
 
     # man "Thank you..."
-    man ""
+    man "谢谢......"
 
 # game/script.rpy:13314
 translate schinese explore_slums5_446661f4:
 
     # woman "Stop! They're selling you lies!"
-    woman ""
+    woman "停下!他们只是在像你们出售谎言!"
 
 # game/script.rpy:13316
 translate schinese explore_slums5_11c0937d:
 
     # preach "THE POWER OF GAIUS KNOWS NO BOUNDS! HE ONLY ASKS FOR YOUR HUMBLE DONATION!" with ssshake
-    preach "" with ssshake
+    preach "{b}盖乌斯的力量无边无际!他只需要你的微薄捐赠!{/b}" with ssshake
 
 # game/script.rpy:13317
 translate schinese explore_slums5_74a85397:
 
     # woman "What god has ever been strapped for cash? If he's so powerful, ask HIM for a donation!"
-    woman ""
+    woman "哪位神灵会手头拮据?如果他有这么大的神力,那你们怎么不请{b}他{/b}捐点钱!"
 
 # game/script.rpy:13319
 translate schinese explore_slums5_a2c37bec:
 
     # preach "{i}Why aren't you stopping her!? Do your job!{/i}"
-    preach ""
+    preach "{i}你怎么不阻止她!?做好你的分内工作!{/u}"
 
 # game/script.rpy:13320
 translate schinese explore_slums5_d38c241b:
 
     # chief "..."
-    chief ""
+    chief "....."
 
 # game/script.rpy:13322
 translate schinese explore_slums5_6087ff07:
 
     # chief "Come on... you're causing a disturbance..."
-    chief ""
+    chief "来吧......你引起了骚动......"
 
 # game/script.rpy:13323
 translate schinese explore_slums5_1e0214d8:
 
     # woman "Hey! HEY! What are you doing!? Tell me what law I broke! You can't do this!"
-    woman ""
+    woman "嘿!{b}嘿!{/b}你在干什么!?告诉我,我违反了哪条法律!你不能这么做!"
 
 # game/script.rpy:13324
 translate schinese explore_slums5_c2201759:
 
     # polm "Resist, and you will be arrested."
-    polm ""
+    polm "抗拒从严."
 
 # game/script.rpy:13325
 translate schinese explore_slums5_d4fdc8bc:
 
     # woman "Fuck you!"
-    woman ""
+    woman "操你妈的!"
 
 # game/script.rpy:13327
 translate schinese explore_slums5_e86f3288:
 
     # preach "The pagan has been banished! Have no fear, Gaius be with you. I only hope she finds Him one day."
-    preach ""
+    preach "异教徒已经被驱逐了!别害怕,盖乌斯与你们同在.我只希望有一天她能发现祂的伟大."
 
 # game/script.rpy:13328
 translate schinese explore_slums5_2a6a4f9c:
 
     # man "And she's a liar, too!"
-    man ""
+    man "她还是个骗子!"
 
 # game/script.rpy:13330
 translate schinese explore_slums5_dc6a18b4:
 
     # man "The holy water works! I bought some last week and found $20 on the street just yesterday."
-    man ""
+    man "圣水真的有用!我上周买了一些圣水,昨天我就在街上捡到了20$."
 
 # game/script.rpy:13331
 translate schinese explore_slums5_a35effd2:
 
     # preach "A profit! A blessing, and then some!"
-    preach ""
+    preach "这就是收益!祝福,以及更多!"
 
 # game/script.rpy:13333
 translate schinese explore_slums5_467aebcd:
 
     # preach "Gaius rewards those who sacrifice! Do so now, while we still have stock!"
-    preach ""
+    preach "盖乌斯会奖励那些牺牲者的!趁现在还有存货,赶快行动吧!"
 
 # game/script.rpy:13334
 translate schinese explore_slums5_dc2981a0:
 
     # man "I'll take three!"
-    man ""
+    man "我要来三份!"
 
 # game/script.rpy:13335
 translate schinese explore_slums5_98f5b407:
 
     # man "A pack for me!"
-    man ""
+    man "我要来一包!"
 
 # game/script.rpy:13337
 translate schinese explore_slums5_1e665559:
 
     # c "Hmm..."
-    c ""
+    c "嗯......"
 
 # game/script.rpy:13339
 translate schinese explore_slums5_8de21df2:
 
     # c "{i}(Yep, there's the bottles. From Nero, just like she said...){/i}"
-    c ""
+    c "{i}(对,就是那些牌子.尼禄公司的,就像她说的那样......){/i}"
 
 # game/script.rpy:13343
 translate schinese explore_slums5_c3437326:
 
     # c "{i}(This isn't right... everyone should know the truth.){/i}"
-    c ""
+    c "{i}(这是不对的......每个人都应该知道真相.){/i}"
 
 # game/script.rpy:13345
 translate schinese explore_slums5_37c06697:
 
     # preach "Very good, very good! You are all truly blessed!\n-Hey, you there, what are you doing?"
-    preach ""
+    preach "很好,很好!你们都被祝福了!\n-嘿,那里那个人,你在干什么?"
 
 # game/script.rpy:13347
 translate schinese explore_slums5_d65492f3:
 
     # c "Is this your holy water?"
-    c ""
+    c "这是你的圣水吗?"
 
 # game/script.rpy:13348
 translate schinese explore_slums5_b59ef49a:
 
     # "*The crowd gasps*" with ssshake
-    "" with ssshake
+    "*人群惊叹*" with ssshake
 
 # game/script.rpy:13349
 translate schinese explore_slums5_6434b8c5:
 
     # preach "What are you doing!? Get out of here! POLICE!"
-    preach ""
+    preach "你在干什么!?滚出去!{b}警察!{/b}"
 
 # game/script.rpy:13350
 translate schinese explore_slums5_66cda462:
 
     # man "Fucking scam..."
-    man ""
+    man "去他妈的骗局......"
 
 # game/script.rpy:13351
 translate schinese explore_slums5_62198bbe:
 
     # man "This is bullshit!"
-    man ""
+    man "这都是胡扯!"
 
 # game/script.rpy:13353
 translate schinese explore_slums5_02a53de4:
 
     # preach "WHERE THE WATER IS FROM IS IRRELEVANT! IT IS THE BLESSING THAT MATTERS! I HAVE BLESSED EACH AND EVERY-"
-    preach ""
+    preach "{b}水从哪里来的不重要!重要的是祝福!我祝福所有人-{/b}"
 
 # game/script.rpy:13354
 translate schinese explore_slums5_6de394da:
 
     # woman "Forget it!"
-    woman ""
+    woman "忘了吧!"
 
 # game/script.rpy:13355
 translate schinese explore_slums5_c5d0cb4c:
 
     # man "I have better things to do..."
-    man ""
+    man "我还有更好的事情要做......"
 
 # game/script.rpy:13357
 translate schinese explore_slums5_267b57d4:
 
     # q "Hahah... I like you, kid. Finally someone with the balls."
-    q ""
+    q "哈哈哈......我喜欢你,孩子.终于有个有胆子的人了."
 
 # game/script.rpy:13358
 translate schinese explore_slums5_4c197a30:
 
     # preach "You'll regret that! Police! POLICE!!"
-    preach ""
+    preach "你会后悔的!警察!{b}警察!!{/b}"
 
 # game/script.rpy:13359
 translate schinese explore_slums5_a04f2bdc:
 
     # q "Now get outta here before the cops show up."
-    q ""
+    q "在警察来之前赶快走吧."
 
 # game/script.rpy:13360
 translate schinese explore_slums5_611b79eb:
 
     # preach "POLICE!!!" with ssshake
-    preach "" with ssshake
+    preach "{b}警察!!!{/b}" with ssshake
 
 # game/script.rpy:13367
 translate schinese explore_slums5_cbec947f:
 
     # c "{i}(It's none of my business... let them believe.){/i}"
-    c ""
+    c "{i}(这不关我事......他们愿意信就信吧.){/i}"
 
 # game/script.rpy:13369
 translate schinese explore_slums5_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:13372
 translate schinese explore_slums5_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:13374
 translate schinese explore_slums5_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:13376
 translate schinese explore_slums5_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:19029
 translate schinese yourroom_7d2acdb0:
 
     # c "...What is [botname] up to?"
-    c ""
+    c "......[botname!t]在干什么?"
 
 # game/script.rpy:19097
 translate schinese yourroom_1c028b8e:
 
     # bot "Hello patrons! Welcome to Beta Build 2 of v0.19! This is an unreleased, unfinished, unpolished, buggy version of v0.19! v0.19 is not completed yet!"
-    bot ""
+    bot "赞助者们,你们好!欢迎来到v0.19 Beta 2版!这是v0.19未发布,未完成,未完善,且包含大量错误的版本!v0.19尚未完成!"
 
 # game/script.rpy:19098
 translate schinese yourroom_444eb009:
 
     # bot "This update added many repeatable sex events for characters who hang out in the hot springs!"
-    bot ""
+    bot "这次更新添加了和在温泉中游玩的角色们的许多可重复的性爱场景!"
 
 # game/script.rpy:19099
 translate schinese yourroom_ef14a7e3:
 
     # bot "Ellen: Saturday Noons. | Moon: Sunday Noons. | Jin: Monday and Tuesday Mornings. | Vanessa and Nala: Monday, Wednesday, Friday Noons."
-    bot ""
+    bot "艾兰:周六中午. | 文:周日中午. | 金:周一和周二中午 | 瓦妮莎和娜拉:周一,周三,周五中午."
 
 # game/script.rpy:20151
 translate schinese yourroomcontinued_b48d12db:
 
     # "*ring ring, ring ring*"
-    ""
+    "*铃铃,铃铃*"
 
 # game/script.rpy:20152
 translate schinese yourroomcontinued_98ba7ce2_2:
 
     # c "Hello?"
-    c ""
+    c "你好?"
 
 # game/script.rpy:20153
 translate schinese yourroomcontinued_37e77c02:
 
     # van "Heyyy! You wanna fuck?"
-    van ""
+    van "嘿!想做爱吗?"
 
 # game/script.rpy:20154
 translate schinese yourroomcontinued_239616a5:
 
     # c "Hm? Are you serious?"
-    c ""
+    c "嗯?你认真的吗?"
 
 # game/script.rpy:20155
 translate schinese yourroomcontinued_545259af:
 
     # van "Yeah, seriously serious. I'll text you the address, come over!"
-    van ""
+    van "是啊,非常认真.我把地址发给你,过来吧!"
 
 # game/script.rpy:20156
 translate schinese yourroomcontinued_f093b6d5:
 
     # "*beep*"
-    ""
+    "*哔*"
 
 # game/script.rpy:20159
 translate schinese yourroomcontinued_b5124fac:
 
     # c "Alright, I'll head over right now."
-    c ""
+    c "好吧,我现在就过去."
 
 # game/script.rpy:20162
 translate schinese yourroomcontinued_5272fdac:
 
     # c "Hm. I guess I'll head out when I'm in the mood."
-    c ""
+    c "嗯.我想等我有兴致的时候去吧."
 
 # game/script.rpy:26284
 translate schinese checkdone_6c49e75f:
 
     # r "[botname]'s story is not done, more will be added to her in v0.20!"
-    r ""
+    r "[botname!t]秋的故事还未结束,她的更多内容会在v0.20中增加!"
 
 translate schinese strings:
 
     # game/script.rpy:13288
     old "I'm not an idiot."
-    new ""
+    new "我不是傻瓜."
 
     # game/script.rpy:13288
     old "It's none of my business."
-    new ""
+    new "这不关我事."
 
     # game/script.rpy:13340
     old "Expose the scam."
-    new ""
+    new "揭露骗局."
 
     # game/script.rpy:13340
     old "Walk away."
-    new ""
+    new "走开."
 
     # game/script.rpy:15608
     old "Visit Vanessa"
-    new ""
+    new "拜访瓦妮莎"
 
     # game/script.rpy:20157
     old "Head over"
-    new ""
+    new "前往"
 

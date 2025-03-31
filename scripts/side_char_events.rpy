@@ -54544,7 +54544,7 @@ translate schinese vanessa6_1cbecb2b:
 translate schinese vanessa6_26cd573d:
 
     # nia "No time to explain! The cops-"
-    nia "没时间解释了!条子-"
+    nia "没时间解释了!警察-"
 
 # game/scripts/side_char_events.rpy:13389
 translate schinese vanessa6_9e72dc56:

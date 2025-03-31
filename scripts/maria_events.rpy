@@ -47314,689 +47314,689 @@ translate schinese strings:
 translate schinese mar_breakfast_791829af:
 
     # m "Ya know... it was really a shame you didn't join us at the beach. We had a lot of fun. And I would have {i}looooved{/i} to see you in a swimsuit!"
-    m ""
+    m "你知道吗......你没有和我们一起去海滩,真的很遗憾.我们玩得很开心,而且我也{i}很想{/i}看你穿泳装的样子呢!"
 
 # game/scripts/maria_events.rpy:10
 translate schinese mar_breakfast_f7ebc4db:
 
     # e "You know I'm a busy woman. Someone has to keep the hotel running."
-    e ""
+    e "你知道我是个大忙人,总得有人来维持酒店的运转."
 
 # game/scripts/maria_events.rpy:11
 translate schinese mar_breakfast_e5ad49e1:
 
     # m "Oh c'mon, nobody ever comes by anyway. You live here just like the rest of us, but you barely go out!"
-    m ""
+    m "得了吧,反正也没人来.你和我们一样住在这里,却很少出门!"
 
 # game/scripts/maria_events.rpy:12
 translate schinese mar_breakfast_b9147e5a:
 
     # e "I prefer it here. I've lived here longer than anyone... almost as long as I can remember, actually."
-    e ""
+    e "我更喜欢这里.我住在这里的时间比任何人都长......实际上,几乎从我记事起,我就住在这里了."
 
 # game/scripts/maria_events.rpy:13
 translate schinese mar_breakfast_184f268e:
 
     # m "Damn... I wouldn't have thought you were a recluse. With a body like that, you could be a model."
-    m ""
+    m "妈的......我都没想到你是个隐士.你有这样的身材都可以去当模特了."
 
 # game/scripts/maria_events.rpy:14
 translate schinese mar_breakfast_eb5d12ac:
 
     # e "Oh stop..."
-    e ""
+    e "哦,停下......"
 
 # game/scripts/maria_events.rpy:15
 translate schinese mar_breakfast_d7a08719:
 
     # m "I'm serious!"
-    m ""
+    m "我认真的!"
 
 # game/scripts/maria_events.rpy:17
 translate schinese mar_breakfast_eee25f10:
 
     # m "Hey... I haven't met anyone else with pink eyes before. Did your parents have them as well?"
-    m ""
+    m "嘿......我还没见过其他有粉色眼睛的人呢.你的父母也有吗?"
 
 # game/scripts/maria_events.rpy:18
 translate schinese mar_breakfast_e3d986f2:
 
     # e "Oh, well, yes of course."
-    e ""
+    e "哦,嗯,当然了."
 
 # game/scripts/maria_events.rpy:19
 translate schinese mar_breakfast_8ca8ba60:
 
     # m "That's all I get? C'mon... is it like a genetic mutation or something?"
-    m ""
+    m "我就只能知道这些?拜托......是基因突变还是怎么了?"
 
 # game/scripts/maria_events.rpy:21
 translate schinese mar_breakfast_f4daa46d:
 
     # e "You can easily search that online, Maria. It's not something I like to discuss."
-    e ""
+    e "你很容易就能在网上搜到原因,玛丽亚.这不是我喜欢讨论的问题."
 
 # game/scripts/maria_events.rpy:22
 translate schinese mar_breakfast_ba17f58e:
 
     # m "The last time I searched something up that was weird about my body, it said I had cancer... I'd rather avoid the anxiety this time."
-    m ""
+    m "上次我身体有些怪事的时候,我搜了一下,结果上面说我得了癌症......这次我还是别自寻烦恼了."
 
 # game/scripts/maria_events.rpy:23
 translate schinese mar_breakfast_d54c922f:
 
     # e "...Pink eyes are inherited from a dark elvish ancestor. It's a dominant gene, so once one ancestor has it, it's pretty much guaranteed their children will."
-    e ""
+    e "......粉色眼睛是从黑精灵祖先那里遗传来的.它是一种显性性状,所以一旦某个祖先拥有这种基因,他们的后代也几乎一定会遗传."
 
 # game/scripts/maria_events.rpy:25
 translate schinese mar_breakfast_b12e925a:
 
     # m "I have an elvish ancestor...? I had no idea."
-    m ""
+    m "我有个精灵祖先......?我都不知道."
 
 # game/scripts/maria_events.rpy:26
 translate schinese mar_breakfast_1c3e069e:
 
     # e "Couldn't you have asked your mother about this?"
-    e ""
+    e "你没问过你妈妈吗?"
 
 # game/scripts/maria_events.rpy:27
 translate schinese mar_breakfast_6cedb4c9:
 
     # m "Well...\nWait, dark elves have purple eyes though. Why are ours pink?"
-    m ""
+    m "嗯......\n等下,但是暗精灵的眼睛是紫色的吧.为什么我们的是粉色的?"
 
 # game/scripts/maria_events.rpy:28
 translate schinese mar_breakfast_d2b4f018:
 
     # e "I don't know... it's very rare to see a human with perfect dark elf eyes. Ashley is the exception."
-    e ""
+    e "我不知道......拥有完美的暗精灵眼睛的人类非常罕见.阿什莉是个例外."
 
 # game/scripts/maria_events.rpy:30
 translate schinese mar_breakfast_0218437c:
 
     # m "I've always been self-conscious about them... My ex hated them, said it reminded him too much of elves."
-    m ""
+    m "我一直都对它们很自卑......我的前男友讨厌它们,说它们太像精灵了."
 
 # game/scripts/maria_events.rpy:31
 translate schinese mar_breakfast_510db0b3:
 
     # e "Oh Maria, your eyes are beautiful! Don't let a man like that make you feel bad."
-    e ""
+    e "哦玛丽亚,你的眼睛很美!别让那样的男人让你难过."
 
 # game/scripts/maria_events.rpy:32
 translate schinese mar_breakfast_98c6141c:
 
     # m "Thank you..."
-    m ""
+    m "谢谢你......"
 
 # game/scripts/maria_events.rpy:34
 translate schinese mar_breakfast_8e115758:
 
     # c "Good morning."
-    c ""
+    c "早上好."
 
 # game/scripts/maria_events.rpy:35
 translate schinese mar_breakfast_dbf8e00a:
 
     # m "Oh hey [name]! Are you hungry? Join us!"
-    m ""
+    m "哦,嘿,[name]!你饿了么?加入我们吧!"
 
 # game/scripts/maria_events.rpy:36
 translate schinese mar_breakfast_7890ee2c:
 
     # l "Good morning [linoname]. I can make you some breakfast if you would like."
-    l ""
+    l "早上好,[linoname].如果你想要的话,我可以给你做点早餐."
 
 # game/scripts/maria_events.rpy:37
 translate schinese mar_breakfast_6840457f:
 
     # c "Sure, thanks."
-    c ""
+    c "好的,谢谢."
 
 # game/scripts/maria_events.rpy:39
 translate schinese mar_breakfast_bddc1dde:
 
     # m "So I have to ask... have you two fucked yet?"
-    m ""
+    m "所以我得问问......你们做过爱了吗?"
 
 # game/scripts/maria_events.rpy:40
 translate schinese mar_breakfast_b4c206a8:
 
     # e "Excuse me! You absolutely did not have to ask that! We're eating!"
-    e ""
+    e "不好意思!你完全没必要问这个的!我们在吃饭呢!"
 
 # game/scripts/maria_events.rpy:41
 translate schinese mar_breakfast_bd44cceb:
 
     # m "Come on, she's a grade A milf, you must have!"
-    m ""
+    m "拜托,她可是个的绝色辣妈,你们一定做过了!"
 
 # game/scripts/maria_events.rpy:42
 translate schinese mar_breakfast_b0e0fde4:
 
     # e "I am {u}not{/u} a mother!"
-    e ""
+    e "我{u}不是{/u}个妈妈!"
 
 # game/scripts/maria_events.rpy:44
 translate schinese mar_breakfast_c264c0da:
 
     # m "There's still time~"
-    m ""
+    m "还来得及嘛~"
 
 # game/scripts/maria_events.rpy:45
 translate schinese mar_breakfast_da031af5:
 
     # e "I am not interested in having children, Maria."
-    e ""
+    e "我不想要孩子,玛丽亚."
 
 # game/scripts/maria_events.rpy:46
 translate schinese mar_breakfast_72213cde:
 
     # m "Perfect, you'll keep that body for a long time then."
-    m ""
+    m "太好了,那你的身材就能保持很久了."
 
 # game/scripts/maria_events.rpy:47
 translate schinese mar_breakfast_2fecbfee:
 
     # m "In fact... you should start camgirling. You could be a millionaire! I'll even let you join mine if you want~"
-    m ""
+    m "实际上......你可以去做黄播.你会成为百万富翁的.如果你愿意,我甚至可以让你加入玩我的团队."
 
 # game/scripts/maria_events.rpy:48
 translate schinese mar_breakfast_5908d35b:
 
     # e "Hold on... that's how you make your money? You're a camgirl?"
-    e ""
+    e "等下......你就是这么赚钱的?你是个黄播?"
 
 # game/scripts/maria_events.rpy:49
 translate schinese mar_breakfast_38fbee9d:
 
     # m "Hey, I have to make a living somehow. I put myself through college, you know? No one else could help me."
-    m ""
+    m "嘿,我总得谋生吧.你知道我是自己供自己上大学的吗?没人能帮我."
 
 # game/scripts/maria_events.rpy:50
 translate schinese mar_breakfast_25dcee5a:
 
     # e "That's great for you, but I'm not interested."
-    e ""
+    e "对你来说很好,但我不感兴趣."
 
 # game/scripts/maria_events.rpy:51
 translate schinese mar_breakfast_d176e67f:
 
     # m "You're both really hot! If I could just get you two on a stream with me..."
-    m ""
+    m "你们俩都很性感啊!如果我能让你们俩和我一起直播......"
 
 # game/scripts/maria_events.rpy:52
 translate schinese mar_breakfast_c8b7d39e:
 
     # e "No!"
-    e ""
+    e "不行!"
 
 # game/scripts/maria_events.rpy:53
 translate schinese mar_breakfast_d0753d8a:
 
     # m "Fine... but let me know if you change your mind."
-    m ""
+    m "行吧......但是如果你改变主意了,请告诉我."
 
 # game/scripts/maria_events.rpy:54
 translate schinese mar_breakfast_dbfde05b:
 
     # e "I won't!"
-    e ""
+    e "我不会的!"
 
 # game/scripts/maria_events.rpy:56
 translate schinese mar_breakfast_4f5c55ac:
 
     # l "Enjoy [linoname]! Let me know if you would like anything else."
-    l ""
+    l "请享用,[linoname]!如果你还需要别的,请告诉我."
 
 # game/scripts/maria_events.rpy:57
 translate schinese mar_breakfast_e897fbb0:
 
     # c "Thank you."
-    c ""
+    c "谢谢."
 
 # game/scripts/maria_events.rpy:59
 translate schinese mar_breakfast_ebfa3a63:
 
     # k "Hey, could I get some of that?"
-    k ""
+    k "嘿,我能来点吗?"
 
 # game/scripts/maria_events.rpy:60
 translate schinese mar_breakfast_a114f3f8:
 
     # l "Of course."
-    l ""
+    l "当然可以."
 
 # game/scripts/maria_events.rpy:61
 translate schinese mar_breakfast_13a0c3bc:
 
     # m "Oh, hey Kali!\nCome take a seat."
-    m ""
+    m "哦,嘿,凯莉!\n过来坐坐."
 
 # game/scripts/maria_events.rpy:62
 translate schinese mar_breakfast_bb5a5260:
 
     # k "Nah, I'm just gonna eat in my room."
-    k ""
+    k "不了,我就回房里吃了."
 
 # game/scripts/maria_events.rpy:63
 translate schinese mar_breakfast_4ad64b15:
 
     # m "Dude, come on... is this whole hotel full of recluses? Sit!"
-    m ""
+    m "伙计,来嘛......这座酒店里怎么都是隐士?坐!"
 
 # game/scripts/maria_events.rpy:64
 translate schinese mar_breakfast_1b3de00c:
 
     # c "Come on Kali, join us."
-    c ""
+    c "来吧凯莉,加入我们."
 
 # game/scripts/maria_events.rpy:65
 translate schinese mar_breakfast_bf319687:
 
     # k "Well, okay."
-    k ""
+    k "嗯,好吧."
 
 # game/scripts/maria_events.rpy:67
 translate schinese mar_breakfast_0f6b214d:
 
     # m "Y'know... you're pretty hot too. You could be a camgirl."
-    m ""
+    m "你知道吗......你也很性感.你可以做黄播."
 
 # game/scripts/maria_events.rpy:68
 translate schinese mar_breakfast_c4a3acc1:
 
     # k "...What did I just walk into?"
-    k ""
+    k "......我卷入了什么事情?"
 
 # game/scripts/maria_events.rpy:69
 translate schinese mar_breakfast_fd8a0c6b:
 
     # e "Apparently Maria is a camgirl."
-    e ""
+    e "很显然,玛丽亚是个黄播."
 
 # game/scripts/maria_events.rpy:70
 translate schinese mar_breakfast_64dfb6ad:
 
     # m "C'mon, you got the boobs for it. Want to join a stream with me?"
-    m ""
+    m "来吧,你的奶子太适合了.想和我一起直播吗?"
 
 # game/scripts/maria_events.rpy:71
 translate schinese mar_breakfast_16fc5979:
 
     # k "Are you always this horny?"
-    k ""
+    k "你总是这么饥渴吗?"
 
 # game/scripts/maria_events.rpy:72
 translate schinese mar_breakfast_8cb62253:
 
     # m "Yes."
-    m ""
+    m "是的."
 
 # game/scripts/maria_events.rpy:73
 translate schinese mar_breakfast_052c8685:
 
     # k "I don't need anyone recognizing me..."
-    k ""
+    k "我不想让别人认出我......"
 
 # game/scripts/maria_events.rpy:74
 translate schinese mar_breakfast_0a48bdd3:
 
     # m "You could wear a mask!"
-    m ""
+    m "你可以戴面具的!"
 
 # game/scripts/maria_events.rpy:76
 translate schinese mar_breakfast_3228421b:
 
     # m "Wait... I always did think you looked familiar. Do I know you from somewhere?"
-    m ""
+    m "等下......我总觉得你很眼熟.我是不是在哪里见过你?"
 
 # game/scripts/maria_events.rpy:77
 translate schinese mar_breakfast_8112935f:
 
     # k "What? No."
-    k ""
+    k "什么?没有."
 
 # game/scripts/maria_events.rpy:78
 translate schinese mar_breakfast_44f7da31:
 
     # m "Are you sure? You're not like, famous or anything?"
-    m ""
+    m "你确定吗?你不会很有名吗?"
 
 # game/scripts/maria_events.rpy:79
 translate schinese mar_breakfast_05b6f504:
 
     # c "She barely leaves her room, Maria, she's not famous."
-    c ""
+    c "她都几乎不出房门的,玛丽亚,她并不出名."
 
 # game/scripts/maria_events.rpy:80
 translate schinese mar_breakfast_371fee5e:
 
     # m "Hmmm, okay..."
-    m ""
+    m "嗯,好吧......"
 
 # game/scripts/maria_events.rpy:82
 translate schinese mar_breakfast_2b1e5a7c:
 
     # m "So, do you have any shitty ex boyfriends? Or girlfriends...?"
-    m ""
+    m "所以,你有什么糟糕的前男友吗?还是前女友......?"
 
 # game/scripts/maria_events.rpy:83
 translate schinese mar_breakfast_664461fc:
 
     # k "Yeah, I guess."
-    k ""
+    k "大概吧."
 
 # game/scripts/maria_events.rpy:84
 translate schinese mar_breakfast_36ceaf3c:
 
     # m "Spill the tea! What happened?"
-    m ""
+    m "说吧!怎么了?"
 
 # game/scripts/maria_events.rpy:85
 translate schinese mar_breakfast_7538c0a6:
 
     # k "Well, honestly I think he was more interested in my father than me."
-    k ""
+    k "嗯,老实说,我觉得他对我父亲比对我更感兴趣."
 
 # game/scripts/maria_events.rpy:87
 translate schinese mar_breakfast_8b2d3a72:
 
     # m "What!?"
-    m ""
+    m "什么!?"
 
 # game/scripts/maria_events.rpy:88
 translate schinese mar_breakfast_b6089b0b:
 
     # k "Yeah... it was weird. Anytime he came over, he would always talk to my father more than me."
-    k ""
+    k "对......很奇怪.他每次过来的时候,跟我父亲聊的比跟我聊的还多."
 
 # game/scripts/maria_events.rpy:89
 translate schinese mar_breakfast_f9d4adea:
 
     # m "...Was he gay, or something?"
-    m ""
+    m "......他是同性恋还是什么吗?"
 
 # game/scripts/maria_events.rpy:90
 translate schinese mar_breakfast_6bf6f278:
 
     # k "No, nothing like that."
-    k ""
+    k "不,不是那样的."
 
 # game/scripts/maria_events.rpy:91
 translate schinese mar_breakfast_b126d4e7:
 
     # m "Then what? That's so weird!"
-    m ""
+    m "那是什么?这太奇怪了!"
 
 # game/scripts/maria_events.rpy:92
 translate schinese mar_breakfast_8985fe90:
 
     # k "I don't really want to get into it..."
-    k ""
+    k "我真的不想谈这个......"
 
 # game/scripts/maria_events.rpy:94
 translate schinese mar_breakfast_e2070c8e:
 
     # m "That sucks. Mine cheated on me, and was only interested in my body..."
-    m ""
+    m "那太糟糕了.我的男朋友出轨了,他只对我的身体感兴趣......"
 
 # game/scripts/maria_events.rpy:95
 translate schinese mar_breakfast_2a0a08b3:
 
     # k "If anyone treated me like that, I would just pepper spray them."
-    k ""
+    k "要是有人那样对我,我会直接用胡椒喷雾喷他."
 
 # game/scripts/maria_events.rpy:96
 translate schinese mar_breakfast_444db7d9:
 
     # m "...Wouldn't you be afraid to lose them after that? I mean, love is love..."
-    m ""
+    m "......难道你不害怕失去他吗?我是说,爱就是爱......"
 
 # game/scripts/maria_events.rpy:97
 translate schinese mar_breakfast_672d8cb9:
 
     # k "What? No. I wouldn't want to be with someone like that in the first place. Did you really stick around after he cheated on you?"
-    k ""
+    k "什么?不.我一开始就不想和那样的人在一起.他出轨后真的嗨在你身边吗?"
 
 # game/scripts/maria_events.rpy:98
 translate schinese mar_breakfast_38f23edc:
 
     # m "No, that was the last straw..."
-    m ""
+    m "不,那只是最后一根稻草......"
 
 # game/scripts/maria_events.rpy:99
 translate schinese mar_breakfast_b3c742d6:
 
     # m "I need to be loved to be happy, and... sometimes anything is better than nothing."
-    m ""
+    m "我需要被爱才能快乐,而且......有时候,有总比没有好."
 
 # game/scripts/maria_events.rpy:100
 translate schinese mar_breakfast_bb81bd01:
 
     # k "Dude, that's crazy. You can't be a relationship like that... didn't your parents love you?"
-    k ""
+    k "伙计,那太疯狂了.你不能这样谈恋爱......你的父母不爱你吗?"
 
 # game/scripts/maria_events.rpy:101
 translate schinese mar_breakfast_10e88e5e:
 
     # m "...It's hard to say."
-    m ""
+    m "......很难说."
 
 # game/scripts/maria_events.rpy:102
 translate schinese mar_breakfast_8d5c1b7f:
 
     # m "I don't know what I want in a relationship, I just want love. It's part of the reason I got into being a camgirl."
-    m ""
+    m "我不知道在一段恋爱里我到底想要什么,我只是想要爱.这也是我成为黄播的部分原因."
 
 # game/scripts/maria_events.rpy:103
 translate schinese mar_breakfast_25d337fd:
 
     # k "You know they don't actually love you, right?"
-    k ""
+    k "你知道他们并不是真的爱你,对吧?"
 
 # game/scripts/maria_events.rpy:104
 translate schinese mar_breakfast_7e578986:
 
     # m "Some of them do..."
-    m ""
+    m "有些是......"
 
 # game/scripts/maria_events.rpy:105
 translate schinese mar_breakfast_9b7f7b6e:
 
     # k "And that doesn't make you feel like an object...?"
-    k ""
+    k "这样不会让你觉得自己只是件物品吗......?"
 
 # game/scripts/maria_events.rpy:107
 translate schinese mar_breakfast_22ee3b6d:
 
     # m "I don't know...! Can we change the subject?"
-    m ""
+    m "我不知道......!我们可以换个话题吗?"
 
 # game/scripts/maria_events.rpy:108
 translate schinese mar_breakfast_81b66e28:
 
     # k "Oh. Sure, sorry."
-    k ""
+    k "哦.当然可以,对不起."
 
 # game/scripts/maria_events.rpy:110
 translate schinese mar_breakfast_b687c6dd:
 
     # l "Here you are. Enjoy!"
-    l ""
+    l "这是给你的.请享用!"
 
 # game/scripts/maria_events.rpy:111
 translate schinese mar_breakfast_81dea93e:
 
     # k "Oh, thank you."
-    k ""
+    k "哦,谢谢."
 
 # game/scripts/maria_events.rpy:112
 translate schinese mar_breakfast_fb9db078:
 
     # m "...?"
-    m ""
+    m "......?"
 
 # game/scripts/maria_events.rpy:114
 translate schinese mar_breakfast_4dec1220:
 
     # m "*gasp*! I knew it!"
-    m ""
+    m "*惊叹*!我知道了!"
 
 # game/scripts/maria_events.rpy:115
 translate schinese mar_breakfast_6daa0f7f:
 
     # k "Huh?"
-    k ""
+    k "嗯?"
 
 # game/scripts/maria_events.rpy:116
 translate schinese mar_breakfast_c21b5df2:
 
     # m "You're Kali Trenero! You're Julius' daughter!"
-    m ""
+    m "你是凯莉·特内罗!你是朱丽叶斯的女儿！"
 
 # game/scripts/maria_events.rpy:118
 translate schinese mar_breakfast_d3464e78:
 
     # k "Nnnnooooo...?"
-    k ""
+    k "不是......?"
 
 # game/scripts/maria_events.rpy:119
 translate schinese mar_breakfast_6ee84440:
 
     # m "Oh my god, Kali! If you wanted to keep it a secret, you shouldn't have brought the company mug with you! Haha!"
-    m ""
+    m "哦我天,凯莉!如果你想要保守秘密,你就不应该把公司的马克杯带过来!哈哈!"
 
 # game/scripts/maria_events.rpy:120
 translate schinese mar_breakfast_9dab7cdd:
 
     # m "{u}That's{/u} why your ex was so interested in your father! It all makes sense now!"
-    m ""
+    m "{u}难怪{/u}你的前男友对你的父亲那么感兴趣!都解释的通了!"
 
 # game/scripts/maria_events.rpy:121
 translate schinese mar_breakfast_d004d7bf:
 
     # k "Uhh..."
-    k ""
+    k "呃......"
 
 # game/scripts/maria_events.rpy:122
 translate schinese mar_breakfast_dae6e53a:
 
     # m "Hey, can I have a million syls? It would really help."
-    m ""
+    m "嘿,能给我一百万西尔元吗?能帮我大忙的."
 
 # game/scripts/maria_events.rpy:124
 translate schinese mar_breakfast_135d1499:
 
     # k "I'm gonna go eat in my room. Bye."
-    k ""
+    k "我要回房间里吃饭了.再见."
 
 # game/scripts/maria_events.rpy:125
 translate schinese mar_breakfast_47755777:
 
     # m "Wait! Don't go! I was just kidding!"
-    m ""
+    m "等下!别走!我只是在开玩笑!"
 
 # game/scripts/maria_events.rpy:126
 translate schinese mar_breakfast_82091822:
 
     # k "..."
-    k ""
+    k "......"
 
 # game/scripts/maria_events.rpy:128
 translate schinese mar_breakfast_ed896ea5:
 
     # m "Do you think I offended her...?"
-    m ""
+    m "你们觉得我是不是冒犯她了......?"
 
 # game/scripts/maria_events.rpy:129
 translate schinese mar_breakfast_15ad642e:
 
     # e "Probably. She doesn't like her father very much."
-    e ""
+    e "大概吧.她不是很喜欢她父亲."
 
 # game/scripts/maria_events.rpy:130
 translate schinese mar_breakfast_5c5bcb4e:
 
     # c "He kicked her out of the house and forced her to live here. The cheapest hotel he could find in the area..."
-    c ""
+    c "他把她赶出家门,强迫她住在这里.这里是他在这一片地区里能找到的最便宜的旅馆......"
 
 # game/scripts/maria_events.rpy:131
 translate schinese mar_breakfast_7cdeeee0:
 
     # m "I didn't know that...! I should go say sorry."
-    m ""
+    m "我不知道啊......!我得去道歉."
 
 # game/scripts/maria_events.rpy:132
 translate schinese mar_breakfast_b0c337a4:
 
     # e "Let her eat first."
-    e ""
+    e "先让她吃完吧."
 
 # game/scripts/maria_events.rpy:133
 translate schinese mar_breakfast_728f48b0:
 
     # m "Okay...\nOh, I know! I'll give her a gift. She likes gifts, right? I don't want to ruin our relationship this early!"
-    m ""
+    m "好吧......\n哦,我知道了!我回送她一份礼物的,她喜欢礼物,对吧?我不想这么早就破坏我们的关系!"
 
 # game/scripts/maria_events.rpy:134
 translate schinese mar_breakfast_e92daca0:
 
     # c "That could be nice."
-    c ""
+    c "那很好啊."
 
 # game/scripts/maria_events.rpy:136
 translate schinese mar_breakfast_291bf2c0:
 
     # m "Okay! I'll start looking for something immediately!"
-    m ""
+    m "好的!我现在就去找东西!"
 
 # game/scripts/maria_events.rpy:138
 translate schinese mar_breakfast_d48a4553:
 
     # m "But what does she like? What does she need..."
-    m ""
+    m "但是她喜欢什么?她需要什么......"
 
 # game/scripts/maria_events.rpy:139
 translate schinese mar_breakfast_5df86dc6:
 
     # m "Her sense of style is atrocious..."
-    m ""
+    m "她的时尚感太差了......"
 
 # game/scripts/maria_events.rpy:141
 translate schinese mar_breakfast_e06e74f7:
 
     # m "I've got an idea! [name], I'll let you know when it's ready. Will you help me gift it to her?"
-    m ""
+    m "我有个主意了![name],我准备好了就告诉你.你愿意帮我送给她吗?"
 
 # game/scripts/maria_events.rpy:142
 translate schinese mar_breakfast_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "当然可以."
 
 # game/scripts/maria_events.rpy:143
 translate schinese mar_breakfast_ebb3ab30:
 
     # m "Perfect!"
-    m ""
+    m "太好了!"
 
 # game/scripts/maria_events.rpy:145
 translate schinese mar_breakfast_10f44278:
 
     # m "Thanks for breakfast everyone, I'll finish this upstairs. Byebye!"
-    m ""
+    m "谢谢大家陪我吃早餐,我拿去楼上吃完吧.再见!"
 
 # game/scripts/maria_events.rpy:146
 translate schinese mar_breakfast_a4c90328:
 
     # c "See you."
-    c ""
+    c "再见."
 
 # game/scripts/maria_events.rpy:305
 translate schinese mar_roofdate_844306cd:
 
     # c "Hey, what are your plans with Cornwall's blackmail?"
-    c ""
+    c "嘿,你对勒索康沃尔有什么计划吗?"
 
