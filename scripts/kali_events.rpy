@@ -37587,7 +37587,7 @@ translate schinese kdad_72d92b81:
 translate schinese kdad_a2764415:
 
     # lu "Good, take it out, get over here already..."
-    lu "很好,把它掏出来,然后国来......"
+    lu "很好,掏出来,然后快点过来......"
 
 # game/scripts/kali_events.rpy:10890
 translate schinese kdad_ca691d23:

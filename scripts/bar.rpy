@@ -13605,7 +13605,7 @@ translate schinese moon_dorm_d0ae06d2:
 translate schinese moon_dorm_cd7d2135:
 
     # moon "They left all of this behind when my parents decided to 'return to the ancient way of life'. My father said it was all too much, wanted a simpler life."
-    moon "我父母决定抛弃这些洞穴,'回归古老的生活方式'.我爸爸说这些东西实在是太多了,他想要更简单的生活."
+    moon "我父母决定抛下这一切,'回归古老的生活方式'.我爸爸说这些东西实在是太多了,他想要过更简单的生活."
 
 # game/scripts/bar.rpy:5174
 translate schinese moon_dorm_34ac060c:
@@ -13617,19 +13617,19 @@ translate schinese moon_dorm_34ac060c:
 translate schinese moon_dorm_b42bb5c0:
 
     # moon "Guess that's all subjective! We never paid taxes, I bet you can't say the same."
-    moon "我想这都是个人看法吧!而且你也不能完全那么说,我们都不用交税呢."
+    moon "我觉得这都是个人看法吧!而且也不能完全那么说,毕竟我们都没交过税呢."
 
 # game/scripts/bar.rpy:5177
 translate schinese moon_dorm_14dd6c94:
 
     # c "You don't even sound upset that's how you were raised."
-    c "听起来,你并没有因为你成长的环境而沮丧."
+    c "听起来你并没有因为你的成长环境而沮丧."
 
 # game/scripts/bar.rpy:5178
 translate schinese moon_dorm_2584a6ef:
 
     # moon "Why should I be? I had a great upbringing! I was loved, well fed, and learned something new all the time. Still to this day, I reflect on those times and come to understand what I learned helps me today."
-    moon "为什么我要沮丧呢?我的成长环境可好了!我备受关爱,衣食无忧,而且总是能学到新东西.时至今日,我仍会回想那段时光,并领悟到我那时候所学到的东西对我今天的帮助."
+    moon "为什么我要沮丧呢?我的成长环境可好了!我备受关爱,衣食无忧,而且总是能学到新东西.时至今日,我仍会回想那段时光,明白我所学到的东西对我今天的帮助."
 
 # game/scripts/bar.rpy:5179
 translate schinese moon_dorm_23cbf4bf:
@@ -13641,31 +13641,31 @@ translate schinese moon_dorm_23cbf4bf:
 translate schinese moon_dorm_d533ad6f:
 
     # moon "It would have been a totally different story if I had stayed though, I knew that life wasn't for me."
-    moon "不过,如果我留下去的话,那就另算了,我知道那种生活并不适合我."
+    moon "不过,如果我留下来,那就另算了,我知道那种生活并不适合我."
 
 # game/scripts/bar.rpy:5181
 translate schinese moon_dorm_535329d9:
 
     # c "You said it made his life worse when you left though?"
-    c "你是说你离开后,他的生活变得更糟了?"
+    c "你是说,你的离开让他的生活变得更糟了?"
 
 # game/scripts/bar.rpy:5183
 translate schinese moon_dorm_61058d50:
 
     # moon "He really did want to keep me away from technology, society, everything. He believed everything we needed was already around us, and he showed me that through his teachings."
-    moon "他确实很想让我远离科技,社会和其他的一切东西.他想让我明白,我们所需要的一切都已经在我们身边了."
+    moon "他确实很想让我远离科技,社会和一切其他东西.他相信,而且试图教导我,我们所需要的一切都已经在我们身边了."
 
 # game/scripts/bar.rpy:5184
 translate schinese moon_dorm_29df8326:
 
     # moon "And he was correct, but what he failed to understand is... we have the ability to change things, make them better."
-    moon "他说的没错,但他不明白......我们有能力改变现状,让它们变得更好."
+    moon "他说的没错,但他不明白的是......我们有能力改变现状,让它们变得更好."
 
 # game/scripts/bar.rpy:5185
 translate schinese moon_dorm_4d620097:
 
     # moon "The medicines of today are just alterations of the medicines of yesterday. My father was already doing the one thing he tried to get away from. Those healing salves, the dinner he cooked for me... that never grew off the tree like that. {i}He made them better.{/i}"
-    moon "今天的药物就是昨天的药物改进后的结果.我爸爸已经在做那些他试图逃避的事情了.无论是那些治疗用的药膏,还是他给我做的晚餐......它们都不是树上凭空长出来的.{i}是他让它们变得更好.{/i}"
+    moon "今天的药就是昨天的药的改进,我爸爸已经做过那些他试图逃避的事情了.无论是那些治疗用的药膏,还是他给我做的晚餐......都不是从树上凭空长出来的.{i}他已经让它们变得更好了.{/i}"
 
 # game/scripts/bar.rpy:5187
 translate schinese moon_dorm_2b189c1b:
@@ -13737,7 +13737,7 @@ translate schinese moon_dorm_4984c9d6_2:
 translate schinese moon_dorm_2ba2b123:
 
     # moon "I do not want you to think I'm after only one thing or another... {w}\nBut..."
-    moon "我不想让你认为我只会做一件事......{w}\n但是......"
+    moon "我不想让你以为我只是为了某件事才接近你......{w}\n但是......"
 
 # game/scripts/bar.rpy:5204
 translate schinese moon_dorm_dbc96652:
@@ -13749,13 +13749,13 @@ translate schinese moon_dorm_dbc96652:
 translate schinese moon_dorm_4aa15cdd:
 
     # moon "Suddenly, the thought crossed my mind... {w}we've done worse, right?"
-    moon "突然之间,我的脑海里闪过了一个念头......{w}我们都做更糟糕的事情了,对吧?"
+    moon "突然之间,我的脑海里闪过了一个念头......{w}我们都做过更糟糕的事情了,对吧?"
 
 # game/scripts/bar.rpy:5208
 translate schinese moon_dorm_7d1dabd6:
 
     # moon "So I called you..."
-    moon "所以我打电话叫了你......"
+    moon "所以我打电话给你......"
 
 # game/scripts/bar.rpy:5209
 translate schinese moon_dorm_c568f585:
@@ -13773,13 +13773,13 @@ translate schinese moon_dorm_fe410df0:
 translate schinese moon_dorm_e999cbd7:
 
     # moon "I finished before I called you... I did not want to make a stupid decision."
-    moon "我在打电话给你之前就已经完事了......我不想做一个愚蠢的决定."
+    moon "我在打电话给你之前就已经完事了......我不想做愚蠢的决定."
 
 # game/scripts/bar.rpy:5214
 translate schinese moon_dorm_60523be5:
 
     # moon "Still... the thought stained my mind. I could not get it out..."
-    moon "但是......那个想法还是在我头脑里.我没法摆脱它......"
+    moon "但是......那个念头还是在我头脑里挥之不去.我没法摆脱它......"
 
 # game/scripts/bar.rpy:5215
 translate schinese moon_dorm_0ce97c90:
@@ -13803,7 +13803,7 @@ translate schinese moon_dorm_bec974f9:
 translate schinese moon_dorm_e995a244:
 
     # c "You don't have to ask twice."
-    c "你都没必要问."
+    c "你用不着再问一次."
 
 # game/scripts/bar.rpy:5221
 translate schinese moon_dorm_cc01b18a:
@@ -13815,7 +13815,7 @@ translate schinese moon_dorm_cc01b18a:
 translate schinese moon_dorm_35b2237f:
 
     # moon "Hmmm... it's bigger up close..."
-    moon "嗯......这么近看起来更大了......"
+    moon "嗯......靠近看更大了......"
 
 # game/scripts/bar.rpy:5224
 translate schinese moon_dorm_f3bd666d:
@@ -13827,13 +13827,13 @@ translate schinese moon_dorm_f3bd666d:
 translate schinese moon_dorm_c3a7a74c:
 
     # moon "But don't raise your expecations too high..."
-    moon "但是别太期待了......"
+    moon "但是也不要期望过高......"
 
 # game/scripts/bar.rpy:5227
 translate schinese moon_dorm_1d7d7018:
 
     # moon "I... can feel you throbbing against my cheek... you're so hot..."
-    moon "我......可以感觉到你在我脸颊上的跳动......你好热......"
+    moon "我......可以感觉到你在我脸颊上跳动......你好热......"
 
 # game/scripts/bar.rpy:5229
 translate schinese moon_dorm_8f0cd903:
@@ -13845,13 +13845,13 @@ translate schinese moon_dorm_8f0cd903:
 translate schinese moon_dorm_fa4c0924:
 
     # moon "Mmln... you're getting harder...\nI think it's working..."
-    moon "嗯噜......你变得更硬了......\n我想这是有用的......"
+    moon "嗯噜......你变得更硬了......\n我觉得这很有效......"
 
 # game/scripts/bar.rpy:5234
 translate schinese moon_dorm_063a6058:
 
     # moon "Mmlnlmmmn... how is this? Do you like my tongue?"
-    moon "嗯噜嗯......这个怎么样?你喜欢我的舌头吗?"
+    moon "嗯噜嗯......这样怎么样?你喜欢我的舌头吗?"
 
 # game/scripts/bar.rpy:5235
 translate schinese moon_dorm_714923b5:
@@ -13863,7 +13863,7 @@ translate schinese moon_dorm_714923b5:
 translate schinese moon_dorm_a23da6d4:
 
     # moon "I think I know something you'll like more..."
-    moon "我觉得我知道你更喜欢什么东西......"
+    moon "我想我知道你更喜欢什么东西......"
 
 # game/scripts/bar.rpy:5238
 translate schinese moon_dorm_0660ef29:
@@ -13893,25 +13893,25 @@ translate schinese moon_dorm_5180beb4:
 translate schinese moon_dorm_62cea0fd:
 
     # c "You could do with a little more practice..."
-    c "你可以练习一下......"
+    c "你可以多练习一下......"
 
 # game/scripts/bar.rpy:5247
 translate schinese moon_dorm_6f703720:
 
     # moon "Was that a challenge...?"
-    moon "这是在挑战我吗......?"
+    moon "这是个挑战吗......?"
 
 # game/scripts/bar.rpy:5248
 translate schinese moon_dorm_6abc2302:
 
     # moon "I'm very competitive! You won't know what hit you before long...! Let me get a better angle..."
-    moon "我可是很有能力!过不了多久你就知道你面前的到底是谁了......!让我换个更好的角度......"
+    moon "我可是很好胜的!过不了多久,你就知道我的厉害了......!让我换个更好的角度......"
 
 # game/scripts/bar.rpy:5250
 translate schinese moon_dorm_e8be2a98:
 
     # moon "Mmmmn! Hnnn...! How's this? Feel any better? Nnnh...!"
-    moon "嗯!嗯......!这个怎么样?感觉舒服多了吗?嗯......!"
+    moon "嗯!嗯......!这样怎么样?更舒服吗?嗯......!"
 
 # game/scripts/bar.rpy:5251
 translate schinese moon_dorm_b63df24d:
@@ -13929,7 +13929,7 @@ translate schinese moon_dorm_30faa807:
 translate schinese moon_dorm_8aa86653:
 
     # moon "Mmmngh! Nnngh...! [name], your cock is delicious...! Hnngh! Nnnmm...! It's everything I fantasize about..."
-    moon "嗯!嗯......![name],你的肉棒好好吃......!嗯!嗯......!这就是我所幻想的事情......"
+    moon "嗯!嗯......![name],你的肉棒好好吃......!嗯!嗯......!这就是我幻想的一切......"
 
 # game/scripts/bar.rpy:5256
 translate schinese moon_dorm_ba73a962:
@@ -13941,7 +13941,7 @@ translate schinese moon_dorm_ba73a962:
 translate schinese moon_dorm_f025a78a:
 
     # moon "Mmmn! Mmmn! Cum on my face, [name]...! Ahhh...! I want to see your hot cum on me...! Mmmngh!"
-    moon "嗯!嗯!射在我的脸上吧,[name]......!嗯!我想要看见你那热热的精液射在我的脸上......!嗯!"
+    moon "嗯!嗯!射在我的脸上吧,[name]......!嗯!我想看你把滚烫的精液射在我身上......!嗯!"
 
 # game/scripts/bar.rpy:5261
 translate schinese moon_dorm_778f5ee6:
@@ -13965,7 +13965,7 @@ translate schinese moon_dorm_29ecec0c:
 translate schinese moon_dorm_6d15ca15:
 
     # moon "*cough*! *cough*! You could have warned me...! Nnnngh..."
-    moon "*咳嗽*!*咳嗽*!你应该警告我的......!嗯......"
+    moon "*咳嗽*!*咳嗽*!你应该先警告我的......!嗯......"
 
 # game/scripts/bar.rpy:5267
 translate schinese moon_dorm_c9cf94d7:
@@ -13977,7 +13977,7 @@ translate schinese moon_dorm_c9cf94d7:
 translate schinese moon_dorm_89875f83:
 
     # moon "That was... really fun."
-    moon "那还......挺好玩的."
+    moon "那还......挺有趣的."
 
 # game/scripts/bar.rpy:5272
 translate schinese moon_dorm_328f57b9:
@@ -14001,13 +14001,13 @@ translate schinese moon_dorm_fff1153c:
 translate schinese moon_dorm_28c6e358:
 
     # moon "That was... really fun!"
-    moon "那还......挺好玩的!"
+    moon "那还......挺有趣的!"
 
 # game/scripts/bar.rpy:5279
 translate schinese moon_dorm_34d66f6e:
 
     # moon "How did I do? Great right! Even for my first time!"
-    moon "我做的怎么样?很棒对吧!即使是这是我的第一次!"
+    moon "我做得怎么样?很棒,对吧!即使是我的第一次!"
 
 # game/scripts/bar.rpy:5280
 translate schinese moon_dorm_ce737bda:
@@ -14025,25 +14025,25 @@ translate schinese moon_dorm_14d98a4f:
 translate schinese moon_dorm_5e3b8cd8:
 
     # moon "Umm... you're probably pretty tired now, right? It's already pretty late..."
-    moon "嗯......你现在很累了,对吧?现在也很晚了......"
+    moon "嗯......你现在应该很累了,对吧?现在也已经很晚了......"
 
 # game/scripts/bar.rpy:5283
 translate schinese moon_dorm_c624cb20:
 
     # moon "If you want... you could sleep here for the night..."
-    moon "如果你想要的话......你今晚可以在这睡觉......"
+    moon "如果你愿意......你可以在这过夜......"
 
 # game/scripts/bar.rpy:5284
 translate schinese moon_dorm_5634653d:
 
     # c "Sure, I think I'll do that."
-    c "当然了,我想我会那么做的."
+    c "当然了,我会的."
 
 # game/scripts/bar.rpy:5315
 translate schinese moon_dorm_b9249e79:
 
     # "After a lovely night, Moon rushes you out before the day starts. Not before she pecks you on the cheek though."
-    "一个美好的夜晚过后,文催促你在天亮前离开.不过不是在她亲完你的脸之前."
+    "在度过一个美好的夜晚后,文催促你在天亮前离开.不过,在此之前,她先在你脸上啄了一口."
 
 # game/scripts/bar.rpy:5317
 translate schinese moon_dorm_a100f75e:
@@ -14061,31 +14061,31 @@ translate schinese moonmarbj_41343e6a:
 translate schinese moonmarbj_ab2010ca:
 
     # c "Hey bartender, have you seen Moon?"
-    c "嘿调酒师,你看见文了吗?"
+    c "嘿,调酒师,你看见文了吗?"
 
 # game/scripts/bar.rpy:5331
 translate schinese moonmarbj_921bf1c4:
 
     # bart "Over there."
-    bart "在那里."
+    bart "在那."
 
 # game/scripts/bar.rpy:5333
 translate schinese moonmarbj_aa569f27:
 
     # m "...and lonely, mostly... When I was young I would rely on my smarts to get attention. It's always been a problem for me..."
-    m "......还有孤独,主要是......我年轻的时候,我会依靠我的聪明才智来获得关注.这对我来说一直都是个问题......"
+    m "......还有孤独,主要是......小时候,我会靠我的聪明才智来吸引别人的注意.这对我来说一直都是个问题......"
 
 # game/scripts/bar.rpy:5335
 translate schinese moonmarbj_3edfcc6c:
 
     # moon "My father was very rough on me, I never had a strong motherly presence, so I kind of understand... I sometimes wish I had someone to hold me more. I can't imagine what it's like to grow up with no parents at all..."
-    moon "我爸爸对我很严格,而且我也从来没有有过一个强势的妈妈,所以我多多少少有点理解......我有时候希望能有个人可以来多抱抱我.我没法想象在完全没有父母的情况下长大会是什么样子的......"
+    moon "我爸爸对我很眼里,而且我也从来没有感受过母爱,所以我多多少少能理解......有时候,我也希望能能有个人来多抱抱我.我无法想象没有父母陪伴长大会是什么样子......"
 
 # game/scripts/bar.rpy:5336
 translate schinese moonmarbj_da4dd66b:
 
     # moon "But any way you look at it, your desire for attention made you a very smart person, so there's a strong sri-,"
-    moon "但是无论你怎么看待这件事,你对他人注意的渴望让你成为一个非常聪明的人,所以你还是有一线喜旺-,"
+    moon "但无论你怎么看,你对关注的渴望让你成为了一个非常聪明的人,所以你还是有一线喜旺-,"
 
 # game/scripts/bar.rpy:5338
 translate schinese moonmarbj_9e78c8a9:
@@ -14109,13 +14109,13 @@ translate schinese moonmarbj_040bfcdb:
 translate schinese moonmarbj_c59b56a9:
 
     # m "Yeah, I mean... you're right..."
-    m "是的,我是说......你是对的......"
+    m "是啊,我是说......你是对的......"
 
 # game/scripts/bar.rpy:5345
 translate schinese moonmarbj_02562c09:
 
     # moon "Just like me! Not many people would think growing up in a jungle would be good for your health, but it's made me so resilient!"
-    moon "就像我一样!没有几个人会认为在丛林里长大对健康会有什么好处,但是就是它才让我变得如此坚强!"
+    moon "就像我一样!没有多少人会认为在丛林中长大对健康有益,但它却让我变得如此坚强!"
 
 # game/scripts/bar.rpy:5346
 translate schinese moonmarbj_d3107ef6:
@@ -14127,7 +14127,7 @@ translate schinese moonmarbj_d3107ef6:
 translate schinese moonmarbj_ae794acd:
 
     # moon "Just look on the bright side, okay? There's no point in dwelling on the bad. It already happened... now you're smarter as a result!"
-    moon "看看好的那一面,好吗?纠结于那些坏事是没有意义的,因为它已经发生了......现在你会因此变得更聪明!"
+    moon "往好的方面想,好吗?事已至此,没有必要纠结于那些坏事......现在你也因此变得更聪明了!"
 
 # game/scripts/bar.rpy:5350
 translate schinese moonmarbj_c34b6c3b:
@@ -14145,13 +14145,13 @@ translate schinese moonmarbj_bb403ad7:
 translate schinese moonmarbj_d386f5ad:
 
     # moon "I'm just trying to give you confidence...!"
-    moon "我只是想给你点自信心......!"
+    moon "我只是想给你点自信......!"
 
 # game/scripts/bar.rpy:5354
 translate schinese moonmarbj_4bffbbe9:
 
     # m "It's working..."
-    m "那确实有用......"
+    m "确实有用......"
 
 # game/scripts/bar.rpy:5356
 translate schinese moonmarbj_6045c813:
@@ -14163,13 +14163,13 @@ translate schinese moonmarbj_6045c813:
 translate schinese moonmarbj_86e2bc48:
 
     # c "Hey you two."
-    c "嘿你们两个."
+    c "嘿,你们两个."
 
 # game/scripts/bar.rpy:5359
 translate schinese moonmarbj_86dac188:
 
     # m "Oh, hey [name]!"
-    m "噢,嘿[name]!"
+    m "噢,嘿,[name]!"
 
 # game/scripts/bar.rpy:5360
 translate schinese moonmarbj_1e89fde5:
@@ -14181,43 +14181,43 @@ translate schinese moonmarbj_1e89fde5:
 translate schinese moonmarbj_29905314:
 
     # m "Come to join us for a drink?"
-    m "想来加入我们喝一杯吗?"
+    m "来和我们一起喝一杯吗?"
 
 # game/scripts/bar.rpy:5364
 translate schinese moonmarbj_0988a85e:
 
     # m "Or me, since I'm drinking alone apparently..."
-    m "或者说是我,毕竟很显然只有我在喝酒......"
+    m "或者说和我,毕竟,很显然,只有我在喝酒......"
 
 # game/scripts/bar.rpy:5365
 translate schinese moonmarbj_1d15c3fb:
 
     # moon "It would just go to waste on me... and I don't even think I'm allowed to drink on the job..."
-    moon "它在我身上就是浪费......而且我不认为我可以在工作的时候喝酒......"
+    moon "让我喝就是浪费酒了......而且我觉得我不能在工作时喝酒......"
 
 # game/scripts/bar.rpy:5367
 translate schinese moonmarbj_b891c885:
 
     # m "Oh well, guess I'm drinking alone..."
-    m "噢那好吧,那我就自己喝了......"
+    m "噢,那好吧,那我就自己喝了......"
 
 # game/scripts/bar.rpy:5368
 translate schinese moonmarbj_294b8f18:
 
     # m "Sure would be fun to see you drunk though, for a change... It must be possible."
-    m "虽然看到你喝醉了一定很有趣......而且那是一定有可能的."
+    m "不过,如果能看到你喝醉,一定很有意思......而且肯定是有可能的."
 
 # game/scripts/bar.rpy:5369
 translate schinese moonmarbj_27475bbf:
 
     # moon "Sure, I am human after all."
-    moon "那肯定,我毕竟还是个人类."
+    moon "那肯定,说到底我还是人类."
 
 # game/scripts/bar.rpy:5371
 translate schinese moonmarbj_d7dbd324:
 
     # m "You know what? Enough is enough! I've seen you drink like crazy, and you never get drunk! Tonight is the night!"
-    m "你知道吗?够了!我见过你疯狂地喝酒,但是我从来没见过你喝醉过!今晚就是个好机会!"
+    m "你知道吗?够了!我见过你狂饮,但是我从来没见过你喝醉过!今晚就是个好机会!"
 
 # game/scripts/bar.rpy:5372
 translate schinese moonmarbj_3c873be0:
@@ -14229,7 +14229,7 @@ translate schinese moonmarbj_3c873be0:
 translate schinese moonmarbj_0deb1d00:
 
     # m "Don't you worry! I've been practicing my mixology skills... I made something special for {i}you{/i}..."
-    m "别担心!我一直在练习我的调酒技巧......我给{i}你{/i}准备了点特别的东西......"
+    m "别担心!我一直在练习调酒技巧......我给{i}你{/i}准备了点特别的东西......"
 
 # game/scripts/bar.rpy:5375
 translate schinese moonmarbj_8c70a1a5:
@@ -14241,13 +14241,13 @@ translate schinese moonmarbj_8c70a1a5:
 translate schinese moonmarbj_fb66d701:
 
     # bart "Okay!"
-    bart "好的!"
+    bart "好嘞!"
 
 # game/scripts/bar.rpy:5378
 translate schinese moonmarbj_5c9d48b3:
 
     # m "We're gonna get so fucked up!"
-    m "我们要大搞一通了!"
+    m "我们会酩汀大醉的!"
 
 # game/scripts/bar.rpy:5380
 translate schinese moonmarbj_21b966f7:
@@ -14259,7 +14259,7 @@ translate schinese moonmarbj_21b966f7:
 translate schinese moonmarbj_909152d6:
 
     # moon "I-... Is it safe...? I've never seen it served to customers..."
-    moon "这-......这安全吗......?我之前从来没见过它提供给顾客过......"
+    moon "这-......这安全吗......?我好像没见过有客人喝这个......"
 
 # game/scripts/bar.rpy:5382
 translate schinese moonmarbj_40072b17:
@@ -14277,13 +14277,13 @@ translate schinese moonmarbj_812bfb84:
 translate schinese moonmarbj_a4d6a9a1:
 
     # c "Yeah, go ahead."
-    c "可以,去吧."
+    c "可以,喝吧."
 
 # game/scripts/bar.rpy:5385
 translate schinese moonmarbj_da9b4df0:
 
     # moon "S-Sure, why not... it's been so long!"
-    moon "好-好的,为什么不呢......已经这么久了!"
+    moon "好-好的,为什么不呢......好久没喝了!"
 
 # game/scripts/bar.rpy:5387
 translate schinese moonmarbj_01e23d1f:
@@ -14295,7 +14295,7 @@ translate schinese moonmarbj_01e23d1f:
 translate schinese moonmarbj_a3f326a7:
 
     # m "Daaaamn!"
-    m "操了!"
+    m "我操了!"
 
 # game/scripts/bar.rpy:5389
 translate schinese moonmarbj_58653d50:
@@ -14319,25 +14319,25 @@ translate schinese moonmarbj_094192d3:
 translate schinese moonmarbj_8365e4c1:
 
     # moon "Ooogh, I feel like I just drank... spicy gasoline...!"
-    moon "哦,我感觉我好像喝了......辣味的汽油......!"
+    moon "哦,我感觉我好像喝了一杯......辣味的汽油......!"
 
 # game/scripts/bar.rpy:5395
 translate schinese moonmarbj_c872e0cc:
 
     # moon "Here... Egh, try some..."
-    moon "这里......呃,试一点吧......"
+    moon "给......呃,试一点吧......"
 
 # game/scripts/bar.rpy:5396
 translate schinese moonmarbj_b3762817:
 
     # m "Go ahead... if you dare!"
-    m "去吧......只要你敢的话!"
+    m "去吧......你敢的话!"
 
 # game/scripts/bar.rpy:5398
 translate schinese moonmarbj_8537b737:
 
     # c "Are you going to have any?"
-    c "你喝吗?"
+    c "你自己喝吗?"
 
 # game/scripts/bar.rpy:5399
 translate schinese moonmarbj_e3074847:
@@ -14385,13 +14385,13 @@ translate schinese moonmarbj_8750edcd:
 translate schinese moonmarbj_0e14a918:
 
     # moon "BLEGHK! No, not at all...!" with ssshake
-    moon "呜!不,一点也不......!" with ssshake
+    moon "{b}呜!{/b}不,一点也不......!" with ssshake
 
 # game/scripts/bar.rpy:5411
 translate schinese moonmarbj_5c7288db:
 
     # moon "But I can't get, um- {i}hammered{/i}? Without a lot of it, so... ehhhhhhhhhh..."
-    moon "但是如果我不喝多的话,我就没法,嗯-{i}喝个烂醉{/i}?所以......嗯......"
+    moon "但是如果我不喝多的话,我就没法,嗯-{i}喝个烂醉{/i}?所以......呃呃呃......"
 
 # game/scripts/bar.rpy:5412
 translate schinese moonmarbj_9624c1aa:
@@ -14403,13 +14403,13 @@ translate schinese moonmarbj_9624c1aa:
 translate schinese moonmarbj_0c77e1eb:
 
     # m "Come on, it's not so bad... It's only 95 percent alcohol..."
-    m "来吧,没那么糟糕......里面只有95%%的酒精......"
+    m "来吧,没那么糟糕......酒精含量只有95%%......"
 
 # game/scripts/bar.rpy:5415
 translate schinese moonmarbj_64be9e7b:
 
     # moon "Eghk! Holy shit...! Can you even legally sell this? *cough*"
-    moon "呃!我了个大操......!这玩意能合法出售吗?*咳嗽*!"
+    moon "呃!我操......!这玩意能合法出售吗?*咳嗽*!"
 
 # game/scripts/bar.rpy:5416
 translate schinese moonmarbj_612503dc:
@@ -14421,13 +14421,13 @@ translate schinese moonmarbj_612503dc:
 translate schinese moonmarbj_b35fe0b7:
 
     # moon "*GULP*! *GULP*! *GULP*! *GULP*!" with ssshake
-    moon "*咕噜*!*咕噜*!*咕噜*!*咕噜*!" with ssshake
+    moon "{b}*咕噜*!*咕噜*!*咕噜*!*咕噜*!{/b}" with ssshake
 
 # game/scripts/bar.rpy:5420
 translate schinese moonmarbj_078caf64:
 
     # moon "Hooshi syo- *hic* shtrongk..." with ssshake
-    moon "我了革大草,好-*打嗝*好烈的就......" with ssshake
+    moon "我了革大草,好-*打嗝*豪烈的就......" with ssshake
 
 # game/scripts/bar.rpy:5421
 translate schinese moonmarbj_fdad4fef:
@@ -14457,19 +14457,19 @@ translate schinese moonmarbj_f177e462:
 translate schinese moonmarbj_6e1bb30d:
 
     # m "Not so tough now, are you? Heheh."
-    m "你还好,对吧?呵呵呵."
+    m "你现在没那么坚强了吧?呵呵呵."
 
 # game/scripts/bar.rpy:5427
 translate schinese moonmarbj_0752b1fe:
 
     # moon "My tummy feels like it's on fire..."
-    moon "我的肚子感觉像着火一样......"
+    moon "我的肚子好像在着火......"
 
 # game/scripts/bar.rpy:5428
 translate schinese moonmarbj_ca2c3b20:
 
     # m "That means it's working..."
-    m "那说明有效果了......"
+    m "这说明它在起作用......"
 
 # game/scripts/bar.rpy:5430
 translate schinese moonmarbj_a2302f95:
@@ -14487,31 +14487,31 @@ translate schinese moonmarbj_1aad05b1:
 translate schinese moonmarbj_45a98564:
 
     # moon "I've never had something this- *hic*... strong before..."
-    moon "我之前从来没喝过这么-*打嗝*......烈的东西......"
+    moon "我从来没喝过这么-*打嗝*......烈的......"
 
 # game/scripts/bar.rpy:5434
 translate schinese moonmarbj_06d01854:
 
     # moon "Nnngh, can we go somewhere quieter...? All this music is making my head pound..."
-    moon "嗯,我们能不能去个更安静点的地方......?这里的音乐让我的头砰砰直跳......"
+    moon "嗯,我们能不能去个更安静点的地方......?这里的音乐让我的头都大了......"
 
 # game/scripts/bar.rpy:5435
 translate schinese moonmarbj_4bb1e53f:
 
     # m "Awww, quitting already?"
-    m "啊,打算退出了?"
+    m "啊,这就要退出了?"
 
 # game/scripts/bar.rpy:5436
 translate schinese moonmarbj_1ea25d2f:
 
     # moon "No way, n-nothing can take me oooooooouugh... out..."
-    moon "不可能,什-什么都不能把我扯~......出去......"
+    moon "不可能,什-什么都放不不不......倒我......"
 
 # game/scripts/bar.rpy:5437
 translate schinese moonmarbj_97f9f58a:
 
     # m "Mhm, okay... sure let's go."
-    m "嗯,好吧......我们走吧."
+    m "嗯,好吧......我们走."
 
 # game/scripts/bar.rpy:5438
 translate schinese moonmarbj_0cea0e5d:
@@ -14535,7 +14535,7 @@ translate schinese moonmarbj_cd4d2ed6:
 translate schinese moonmarbj_add9353b:
 
     # moon "Ohh, the hot springs...? That's nice..."
-    moon "哦,温泉啊......?那太棒了......"
+    moon "哦,温泉啊......?太棒了......"
 
 # game/scripts/bar.rpy:5448
 translate schinese moonmarbj_9ce06e99:
@@ -14547,25 +14547,25 @@ translate schinese moonmarbj_9ce06e99:
 translate schinese moonmarbj_cbd47132:
 
     # moon "Wha- did you just take your top off!?"
-    moon "什-你是不是把你的上衣脱掉了!?"
+    moon "什-你刚把上衣脱了!?"
 
 # game/scripts/bar.rpy:5451
 translate schinese moonmarbj_c295c526:
 
     # m "I'm getting comfortable...!"
-    m "我这样很舒服......!"
+    m "这样很舒服......!"
 
 # game/scripts/bar.rpy:5452
 translate schinese moonmarbj_14c5550d:
 
     # m "And it's not like the customers are coming here, come on!"
-    m "而且,顾客也不会来这里,来吧!"
+    m "而且,客人们也不会来这里的,来吧!"
 
 # game/scripts/bar.rpy:5454
 translate schinese moonmarbj_74242015:
 
     # m "Mmmmmmmngh! That feels so good..."
-    m "嗯!感觉好舒服......"
+    m "嗯!好舒服......"
 
 # game/scripts/bar.rpy:5455
 translate schinese moonmarbj_1a131396:
@@ -14583,13 +14583,13 @@ translate schinese moonmarbj_51f56bd3:
 translate schinese moonmarbj_5278d04c:
 
     # m "Gettin' nuuuuuuuude~..."
-    m "给我全脱了~......"
+    m "脱光了~......"
 
 # game/scripts/bar.rpy:5460
 translate schinese moonmarbj_6054c4c2:
 
     # m "Come on, you're getting in with me!"
-    m "来吧,你和我一起进来!"
+    m "来吧,和我一起进来!"
 
 # game/scripts/bar.rpy:5461
 translate schinese moonmarbj_31520427:
@@ -14619,25 +14619,25 @@ translate schinese moonmarbj_e7d3d140:
 translate schinese moonmarbj_6f7c4713:
 
     # moon "Why are we gehhk- *hic*! ...Why are we getting naked?"
-    moon "为什么我们要-*打嗝*!......为什么我们要裸着?"
+    moon "为什么我们邀-*打嗝*!......为什么我们要裸着?"
 
 # game/scripts/bar.rpy:5467
 translate schinese moonmarbj_ddf2805b:
 
     # m "It's fun! Shhhhhh!"
-    m "因为很好玩!唰!"
+    m "因为很好玩!嘘!"
 
 # game/scripts/bar.rpy:5469
 translate schinese moonmarbj_2f7e54e1:
 
     # m "Aaaah... it feels so nice when you're drunk too..."
-    m "啊......你喝醉的时候也会感觉很好的......"
+    m "啊......喝醉的感觉也很棒......"
 
 # game/scripts/bar.rpy:5471
 translate schinese moonmarbj_fdfee004:
 
     # m "C'mon sourpuss, what are you waiting for?"
-    m "来吧,别哭着脸了,你还在等什么?"
+    m "来吧,别苦着脸了,你还在等什么?"
 
 # game/scripts/bar.rpy:5472
 translate schinese moonmarbj_80128404:

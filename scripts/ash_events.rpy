@@ -26835,7 +26835,7 @@ translate schinese ashsorry_2db675d3:
 translate schinese ashsorry_4df13291:
 
     # a "So... I need to make sure I can leave [name] by himself and he'll still be happy! Even without me here."
-    a "所以......我需要确保,在我离开的时候,[name]依然会很开洗!即使我不在这里."
+    a "所以......我需要确保,即使我离开了,[name]一个人也能过得开心!即使没有我在身边."
 
 # game/scripts/ash_events.rpy:7412
 translate schinese ashsorry_bef2e848:

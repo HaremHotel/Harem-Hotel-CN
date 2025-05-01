@@ -69269,7 +69269,7 @@ translate schinese botspring_22aef01d:
 translate schinese botspring_ead327f5:
 
     # bot "More than anyone! But... you're still new to me."
-    bot "我信任你躲过任何人!但是......你对我来说依然是新认识的人."
+    bot "我比谁都信任你!但是......你对我来说依然是个刚刚认识的人."
 
 # game/script.rpy:29384
 translate schinese botspring_4c338906:
