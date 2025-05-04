@@ -14649,7 +14649,7 @@ translate schinese moonmarbj_80128404:
 translate schinese moonmarbj_e76018a1:
 
     # m "You're not chickening out now, are you...?"
-    m "你不是在退缩,对吧......?"
+    m "你不会这就怕了吧......?"
 
 # game/scripts/bar.rpy:5474
 translate schinese moonmarbj_0717fd8d:
@@ -14661,7 +14661,7 @@ translate schinese moonmarbj_0717fd8d:
 translate schinese moonmarbj_571755a8:
 
     # "*SPLASH*!" with ssshake
-    "*哗*!" with ssshake
+    "{b}*哗*!{/b}" with ssshake
 
 # game/scripts/bar.rpy:5478
 translate schinese moonmarbj_d90a28ce:
@@ -14679,19 +14679,19 @@ translate schinese moonmarbj_7562dda1:
 translate schinese moonmarbj_735627e0:
 
     # m "Damn... looks like you have to let your clothes dry anyway!"
-    m "妈的......看起来你无论如何都得弄干你的衣服了!"
+    m "我操......看起来无论如何,你都得把衣服晾干了!"
 
 # game/scripts/bar.rpy:5482
 translate schinese moonmarbj_d515f2bd:
 
     # moon "Fine... you leave me with no choice..."
-    moon "好吧......你让我别无选择......"
+    moon "好吧......是你让我别无选择的......"
 
 # game/scripts/bar.rpy:5484
 translate schinese moonmarbj_91194f0d:
 
     # m "Trust me babe, the water feels amazing on your skin..."
-    m "相信我宝贝,这里的水会让你的皮肤感觉很好的......"
+    m "相信我,宝贝,这里的水会让你的皮肤很舒服的......"
 
 # game/scripts/bar.rpy:5485
 translate schinese moonmarbj_bfbcb850:
@@ -14703,7 +14703,7 @@ translate schinese moonmarbj_bfbcb850:
 translate schinese moonmarbj_d1623484:
 
     # m "But you're so cuuuute~"
-    m "但是你真的好可爱~"
+    m "但是你确实很可爱~"
 
 # game/scripts/bar.rpy:5488
 translate schinese moonmarbj_e2c9d193:
@@ -14715,7 +14715,7 @@ translate schinese moonmarbj_e2c9d193:
 translate schinese moonmarbj_fe345868:
 
     # m "Great, huh?"
-    m "很不错吧,嗯?"
+    m "不错吧,嗯?"
 
 # game/scripts/bar.rpy:5491
 translate schinese moonmarbj_3e85a18f:
@@ -14745,7 +14745,7 @@ translate schinese moonmarbj_12295b26:
 translate schinese moonmarbj_8e25b7f4:
 
     # c "You two looked like you were having fun."
-    c "你们两个看起来很开心啊."
+    c "你们两看起来很开心啊."
 
 # game/scripts/bar.rpy:5498
 translate schinese moonmarbj_7e8e2631:
@@ -14757,37 +14757,37 @@ translate schinese moonmarbj_7e8e2631:
 translate schinese moonmarbj_bd9268e0:
 
     # m "Could be having more though..."
-    m "不过还可以更开心......"
+    m "不过,还可以更开心......"
 
 # game/scripts/bar.rpy:5501
 translate schinese moonmarbj_951fae67:
 
     # moon "Ehehehe... no..."
-    moon "呵呵呵......别......"
+    moon "呃呵呵呵......别......"
 
 # game/scripts/bar.rpy:5503
 translate schinese moonmarbj_b132dfd2:
 
     # m "*sigh*, to this day I still can't figure out why you decided to hire such a boring person..."
-    m "*叹气*,直到今天我还是想不通,你为什么要雇佣这么一个无聊的人......"
+    m "*叹气*,时至今日,我还是想不通,你为什么要雇这么一个无聊的人......"
 
 # game/scripts/bar.rpy:5504
 translate schinese moonmarbj_9b454b62:
 
     # moon "*gasp*! I am not boring! What part of growing up isolated in a jungle is {i}boring{/i}!?"
-    moon "*惊叹*!我才不无聊!在丛林里与世隔绝地成长中哪一部分是{i}无聊{/i}的!?"
+    moon "*惊叹*!我才不无聊!在与世隔绝的丛林中成长哪一部分是{i}无聊{/i}的!?"
 
 # game/scripts/bar.rpy:5506
 translate schinese moonmarbj_4653d798:
 
     # m "*yawwwn*... I'd be more interested if you told me a monkey fucked you..."
-    m "*哈欠*......你要是告诉我有只猴子把你上了,那我才更感兴趣......"
+    m "*哈欠*......你要是告诉我有只猴子把你上了,那我才感兴趣......"
 
 # game/scripts/bar.rpy:5507
 translate schinese moonmarbj_fa88ff6a:
 
     # moon "Agh, gross... you're too horny!"
-    moon "啊,恶心......你太色情了!"
+    moon "啊,恶心......你太好色了!"
 
 # game/scripts/bar.rpy:5509
 translate schinese moonmarbj_5fba4ebe:
@@ -14799,13 +14799,13 @@ translate schinese moonmarbj_5fba4ebe:
 translate schinese moonmarbj_56f36352:
 
     # moon "That's not true! I've done things..."
-    moon "那不是真的!我做过一些事情......"
+    moon "那不是真的!我做过很多事情......"
 
 # game/scripts/bar.rpy:5511
 translate schinese moonmarbj_d74c09b9:
 
     # m "Oh yeah? Like what..."
-    m "哦是吗?比如什么......"
+    m "哦,是吗?比如什么......"
 
 # game/scripts/bar.rpy:5513
 translate schinese moonmarbj_0432c510:
@@ -14829,7 +14829,7 @@ translate schinese moonmarbj_31a6c3f2:
 translate schinese moonmarbj_0723360d:
 
     # moon "Well, he spanked me until... my ass was red..."
-    moon "嗯,他打我的屁股......直到我的屁股变红了......"
+    moon "嗯,他一直打到......我的屁股都红了......"
 
 # game/scripts/bar.rpy:5518
 translate schinese moonmarbj_7fb90130:
@@ -14847,13 +14847,13 @@ translate schinese moonmarbj_67ccd5a3:
 translate schinese moonmarbj_ac0aab65:
 
     # m "I love being spanked... I love it when my ass gets red..."
-    m "我喜欢被打屁股......我喜欢我的屁股变红......"
+    m "我喜欢被打屁股......我喜欢屁股被打红......"
 
 # game/scripts/bar.rpy:5521
 translate schinese moonmarbj_76587e2f:
 
     # m "You would just cry after one slap..."
-    m "而你被打一巴掌就会哭......"
+    m "而你一巴掌下去就哭了......"
 
 # game/scripts/bar.rpy:5522
 translate schinese moonmarbj_60c388b0:
@@ -14865,7 +14865,7 @@ translate schinese moonmarbj_60c388b0:
 translate schinese moonmarbj_cca51ec4:
 
     # m "Show me!"
-    m "让我看看!"
+    m "那就证明给我看!"
 
 # game/scripts/bar.rpy:5525
 translate schinese moonmarbj_f498d30b:
@@ -14877,7 +14877,7 @@ translate schinese moonmarbj_f498d30b:
 translate schinese moonmarbj_0985f31a:
 
     # m "Show me, pleeeeease?"
-    m "让我看看,请?"
+    m "证明给我看,请?"
 
 # game/scripts/bar.rpy:5528
 translate schinese moonmarbj_f9316dab:
@@ -14889,13 +14889,13 @@ translate schinese moonmarbj_f9316dab:
 translate schinese moonmarbj_314cca20:
 
     # m "Really? Do it! Bend over, I wanna see your ass!"
-    m "真的吗?做吧!趴下,我要看看你的屁股!"
+    m "真的吗?来吧!趴下,我要看看你的屁股!"
 
 # game/scripts/bar.rpy:5531
 translate schinese moonmarbj_423557a4:
 
     # moon "Sit down, horny girl!"
-    moon "坐下,你个饥渴的女孩!"
+    moon "坐下,小骚货!"
 
 # game/scripts/bar.rpy:5533
 translate schinese moonmarbj_aa915b2d:
@@ -14907,7 +14907,7 @@ translate schinese moonmarbj_aa915b2d:
 translate schinese moonmarbj_a07d606e:
 
     # moon "It's nothing to me...! I could last way longer than you!"
-    moon "这对我来说没什么......!我可以比你坚持得更久!"
+    moon "这对我来说不算什么......!我可以比你坚持得更久!"
 
 # game/scripts/bar.rpy:5535
 translate schinese moonmarbj_f50edce0:
@@ -14925,13 +14925,13 @@ translate schinese moonmarbj_caf680d2:
 translate schinese moonmarbj_4b28d3f7:
 
     # moon "{i}Can you believe her? She thinks I'm boring! It's not true!{/i}"
-    moon "{i}你相信她吗?她觉得我很无聊!那不是真的!{/i}"
+    moon "{i}你能相信她吗?她觉得我很无聊!那不是真的!{/i}"
 
 # game/scripts/bar.rpy:5540
 translate schinese moonmarbj_fe648b6b:
 
     # m "Mmmmmmmn...!"
-    m "嗯......!"
+    m "嗯~......!"
 
 # game/scripts/bar.rpy:5544
 translate schinese moonmarbj_61a74dc8:
@@ -14961,7 +14961,7 @@ translate schinese moonmarbj_2b486236:
 translate schinese moonmarbj_632e4811:
 
     # m "I see him going real soft..."
-    m "我看见他真的很轻柔......"
+    m "我看见他真的很温柔......"
 
 # game/scripts/bar.rpy:5555
 translate schinese moonmarbj_dc809df8:
@@ -14985,7 +14985,7 @@ translate schinese moonmarbj_0e50e2df:
 translate schinese moonmarbj_80822c93:
 
     # moon "NNGH!" with sshake
-    moon "嗯!" with sshake
+    moon "{b}嗯!{/b}" with sshake
 
 # game/scripts/bar.rpy:5561
 translate schinese moonmarbj_87f18afa:
@@ -15027,7 +15027,7 @@ translate schinese moonmarbj_859f914b:
 translate schinese moonmarbj_8cfcc47e:
 
     # m "I think she's almost ready for you..."
-    m "我觉得她已经为你准备好了......"
+    m "我想她已经准备好迎接你了......"
 
 # game/scripts/bar.rpy:5573
 translate schinese moonmarbj_a75937c2:
@@ -15075,7 +15075,7 @@ translate schinese moonmarbj_13465a60:
 translate schinese moonmarbj_80ab1dfc:
 
     # moon "Did you... put another finger in...?"
-    moon "你......是不是把另一个手指放进来了......?"
+    moon "你......是不是把另一根手指插进来了......?"
 
 # game/scripts/bar.rpy:5585
 translate schinese moonmarbj_d36c2f36:
@@ -15087,13 +15087,13 @@ translate schinese moonmarbj_d36c2f36:
 translate schinese moonmarbj_4998ce0a:
 
     # moon "Mmmmmgh...!"
-    moon "嗯......!"
+    moon "嗯~......!"
 
 # game/scripts/bar.rpy:5588
 translate schinese moonmarbj_561df4b8:
 
     # m "You like it when I stretch your ass, don't you...?"
-    m "你喜欢我弄你的屁股,对吧......?"
+    m "你喜欢我玩弄你的屁股,对吧......?"
 
 # game/scripts/bar.rpy:5589
 translate schinese moonmarbj_f8babd87:
@@ -15105,7 +15105,7 @@ translate schinese moonmarbj_f8babd87:
 translate schinese moonmarbj_ca681c0c:
 
     # moon "Mmmmmngh!"
-    moon "嗯!"
+    moon "嗯~!"
 
 # game/scripts/bar.rpy:5592
 translate schinese moonmarbj_17c39fe2:
@@ -15117,19 +15117,19 @@ translate schinese moonmarbj_17c39fe2:
 translate schinese moonmarbj_49c8bd58:
 
     # m "You would love for a big, meaty cock to fill you up, wouldn't you...?"
-    m "你会喜欢一个有大又粗的肉棒来填满你的的,对吧......?"
+    m "你很想让一根又大又粗的鸡巴把你填满,是不是......?"
 
 # game/scripts/bar.rpy:5594
 translate schinese moonmarbj_0ec00733:
 
     # moon "Mmmmmn...!"
-    moon "嗯......!"
+    moon "嗯~......!"
 
 # game/scripts/bar.rpy:5595
 translate schinese moonmarbj_e4090a5b:
 
     # m "To stretch you... paint your insides with hot cum...?"
-    m "玩弄你......用热热的精液填满你的内部......?"
+    m "玩弄你......用滚烫的精液填满你......?"
 
 # game/scripts/bar.rpy:5596
 translate schinese moonmarbj_bf94e1ec:
@@ -15153,7 +15153,7 @@ translate schinese moonmarbj_9d5e78dd:
 translate schinese moonmarbj_2b47c302:
 
     # m "That should be enough..."
-    m "应该可以了......"
+    m "这样就够了......"
 
 # game/scripts/bar.rpy:5601
 translate schinese moonmarbj_ac8ac204:
@@ -15189,7 +15189,7 @@ translate schinese moonmarbj_c48dc32f:
 translate schinese moonmarbj_239ea740:
 
     # "You, Moon and Maria drukenly stumble towards your room..."
-    "你,文还有玛丽亚摇摇晃晃地走向了你的房间......"
+    "你,文还有玛丽亚踉踉跄跄地走向了你的房间......"
 
 # game/scripts/bar.rpy:5611
 translate schinese moonmarbj_60955b5d:
@@ -15213,7 +15213,7 @@ translate schinese moonmarbj_6ea884d6:
 translate schinese moonmarbj_b285bea1:
 
     # moon "Fuck my ass... put it in..."
-    moon "操我的屁股......把它放进来......"
+    moon "操我的屁股......把它插进来......"
 
 # game/scripts/bar.rpy:5617
 translate schinese moonmarbj_182f7ea2:
@@ -15243,7 +15243,7 @@ translate schinese moonmarbj_9c34e215:
 translate schinese moonmarbj_083fe0d4:
 
     # m "Doesn't it feel amazing, stretching your ass like that...?"
-    m "感觉不是很棒吗,那样玩弄你的屁股......?"
+    m "被这样玩弄屁股,感觉是不是很棒......?"
 
 # game/scripts/bar.rpy:5624
 translate schinese moonmarbj_cfc69322:
@@ -15255,19 +15255,19 @@ translate schinese moonmarbj_cfc69322:
 translate schinese moonmarbj_937c04eb:
 
     # m "Mmm! Yes! Split that bitch in half!"
-    m "嗯!是的!把那个婊子操成两半吧!"
+    m "嗯!是的!把那个骚货操成两半吧!"
 
 # game/scripts/bar.rpy:5626
 translate schinese moonmarbj_7039a362:
 
     # moon "Agh...! Ahh...! It feels... so much bigger in there than... than my... Mmmmn! Fuuuck!"
-    moon "啊......!啊......!感觉......更大了......比在我的......嗯!操!"
+    moon "啊......!啊......!感觉......比在我的小穴......变得更大了......嗯!操!"
 
 # game/scripts/bar.rpy:5627
 translate schinese moonmarbj_8ff45aad:
 
     # moon "Start... start moving...! Hnnnngh...!"
-    moon "开始......开始动起来吧......!嗯......!"
+    moon "开始......开始动吧......!嗯......!"
 
 # game/scripts/bar.rpy:5629
 translate schinese moonmarbj_93edb3a4:
@@ -15279,13 +15279,13 @@ translate schinese moonmarbj_93edb3a4:
 translate schinese moonmarbj_00e51a33:
 
     # m "That's it, girl... take that giant cock up your ass! Mmm!"
-    m "好了,女孩......把那个大肉棒放你屁股上把!嗯!"
+    m "就是这样,女孩......把那根大肉棒插进你屁股里!嗯!"
 
 # game/scripts/bar.rpy:5631
 translate schinese moonmarbj_afc7102d:
 
     # moon "Nnnngh! You're- Agh!... rubbing yourself so close to me...! MMMM!"
-    moon "嗯!你-啊!......在离我这么近的地方抚摸自己......!嗯!"
+    moon "嗯!你-啊!......在离我这么近的地方抚摸自己......!{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:5632
 translate schinese moonmarbj_b50b8038:
@@ -15297,7 +15297,7 @@ translate schinese moonmarbj_b50b8038:
 translate schinese moonmarbj_a50d01b0:
 
     # m "You should focus on yourself though... Mmm... how's that cock feel...?"
-    m "不过你应该专注在你自己身上......嗯......肉棒感觉如何啊......?"
+    m "不过你应该把注意力放在自己身上......嗯......肉棒感觉如何啊......?"
 
 # game/scripts/bar.rpy:5634
 translate schinese moonmarbj_ffb508f4:
@@ -15309,7 +15309,7 @@ translate schinese moonmarbj_ffb508f4:
 translate schinese moonmarbj_66941a1d:
 
     # m "Mmmmm, just what you were hoping for?"
-    m "嗯,这就是你期待的吗?"
+    m "嗯,这就是你想要的吗?"
 
 # game/scripts/bar.rpy:5636
 translate schinese moonmarbj_208d38fe:
@@ -15327,7 +15327,7 @@ translate schinese moonmarbj_c5c1d956:
 translate schinese moonmarbj_aa7a1fdb:
 
     # m "Fucking fill this anal slut! Fuck her!"
-    m "他妈的把这个菊穴骚货填满吧!操她!"
+    m "把这个菊穴骚货他妈地填满吧!操她!"
 
 # game/scripts/bar.rpy:5641
 translate schinese moonmarbj_eaa9eccd:
@@ -15345,7 +15345,7 @@ translate schinese moonmarbj_2e11c46d:
 translate schinese moonmarbj_5675d23b:
 
     # m "Yes...! Make this bitch cum! Fuck!"
-    m "是的......!让这个婊子去吧!妈的!"
+    m "是的......!让这个婊子高潮吧!操的!"
 
 # game/scripts/bar.rpy:5645
 translate schinese moonmarbj_d8236100:
@@ -15363,19 +15363,19 @@ translate schinese moonmarbj_45722ac7:
 translate schinese moonmarbj_237e90c3:
 
     # moon "AAAAAAAAAAAAAAGH! [linoname]!!!" with sshake
-    moon "啊啊啊啊啊![linoname]!!!" with sshake
+    moon "{b}啊啊啊啊啊![linoname]!!!{/b}" with sshake
 
 # game/scripts/bar.rpy:5652
 translate schinese moonmarbj_dff2e52a:
 
     # moon "AAAAAAAAAAAAAAGH! [name]!!!" with sshake
-    moon "啊啊啊啊啊![name]!!!" with sshake
+    moon "{b}啊啊啊啊啊![name]!!!{/b}" with sshake
 
 # game/scripts/bar.rpy:5654
 translate schinese moonmarbj_384e281a:
 
     # m "FUCK! MMMMMMNNN! Fuuuck...!" with ssshake
-    m "操!嗯!操......!" with ssshake
+    m "{b}操!嗯!{/b}操......!" with ssshake
 
 # game/scripts/bar.rpy:5655
 translate schinese moonmarbj_6bf0033c:
@@ -15399,13 +15399,13 @@ translate schinese moonmarbj_73429bf9:
 translate schinese moonmarbj_43cd0365:
 
     # m "Maybe you aren't so boring after all..."
-    m "也许你并不无聊......"
+    m "也许你并没有那么无聊......"
 
 # game/scripts/bar.rpy:5661
 translate schinese moonmarbj_e1d4c59a:
 
     # moon "Hahhh... Nnnngh... I told you... I don't lose...! Ahhh..."
-    moon "哈......嗯......我都告诉你了......我才没输......!啊......"
+    moon "哈......嗯......我都告诉你了......我不会输的......!啊......"
 
 # game/scripts/bar.rpy:5663
 translate schinese moonmarbj_d179a6f2:
@@ -15435,7 +15435,7 @@ translate schinese moonmarbj_cefd44fb:
 translate schinese moonmarbj_070491af:
 
     # moon "URGHHHH! Back to work...! Goodbye everyone..."
-    moon "呃!要回去工作了......!再见各位......"
+    moon "{b}呃!{/b}要回去工作了......!再见各位......"
 
 # game/scripts/bar.rpy:5672
 translate schinese moonmarbj_799af532:
@@ -15471,7 +15471,7 @@ translate schinese moonmarbj_889a0e1a:
 translate schinese moonmarbj_28955434:
 
     # m "Goodnight [name]..."
-    m "晚安[name]......"
+    m "晚安,[name]......"
 
 # game/scripts/bar.rpy:5680
 translate schinese moonmarbj_8f16e46a:
@@ -15513,7 +15513,7 @@ translate schinese moondate_fc2357e2:
 translate schinese moondate_853e6a9c:
 
     # c "{i}(That's a powerful glare...){/i}"
-    c "{i}(好重的目光......){/i}"
+    c "{i}(好有力的目光......){/i}"
 
 # game/scripts/bar.rpy:5710
 translate schinese moondate_9f1a8d54:
@@ -15531,7 +15531,7 @@ translate schinese moondate_a1244888:
 translate schinese moondate_58d569ea:
 
     # c "Why aren't you working? Is there a reason you're dressed up?"
-    c "为什么你没在工作?你为什么打扮得这么漂亮?"
+    c "你怎么没在工作?怎么打扮得这么漂亮?"
 
 # game/scripts/bar.rpy:5715
 translate schinese moondate_07b50b7b:
@@ -15555,31 +15555,31 @@ translate schinese moondate_3029cdfa:
 translate schinese moondate_57fdd0c9:
 
     # moon "I-If I called you, you would have known, idiot! It was for the best!"
-    moon "如-如果我打给你,你就会知道的,笨蛋!这么做是最好的!"
+    moon "如-如果我打给你,你就会知道的,笨蛋!这样最好!"
 
 # game/scripts/bar.rpy:5719
 translate schinese moondate_0c9596cb:
 
     # c "Okay, but why are you upset?"
-    c "好吧,但是为什么你看起来不高兴?"
+    c "好吧,但是为什么你不高兴?"
 
 # game/scripts/bar.rpy:5721
 translate schinese moondate_3342c491:
 
     # moon "Because I'm not sure about you..."
-    moon "因为我不确定你的意思......"
+    moon "因为我对你不太确定......"
 
 # game/scripts/bar.rpy:5723
 translate schinese moondate_7ab38679:
 
     # moon "I know you have a thing with Maria, and maybe others too. I don't know what to make of that, but I will question you. You also slept with me before any proper dates, so I'm here to make up for that!"
-    moon "我知道你和玛丽亚有关系,也许还有其他人.我不知道我要怎么理解,但是我会问问你的.而且你是在和我约会前就和我上床了,所以我是来弥补这件事的!"
+    moon "我知道你和玛丽亚有一腿,也许还有其他人.虽然我不太清楚该怎么理解这一切,但我肯定会问你清楚.你还没正式约会就和我上床了,所以我是来补上的!"
 
 # game/scripts/bar.rpy:5725
 translate schinese moondate_f2c2531b:
 
     # moon "...So come with me on a date, now. I won't let you get away without one."
-    moon "......所以跟我去约会吧,现在.我不会让你走的."
+    moon "......所以现在跟我去约会吧,不然我不会放你走的."
 
 # game/scripts/bar.rpy:5726
 translate schinese moondate_8d4c7382:
@@ -15615,19 +15615,19 @@ translate schinese moondate_37859f0c:
 translate schinese moondate_fc4c6365:
 
     # moon "Tadaaaa~ what do you think!? I had to reserve a table three days in advance!"
-    moon "嗒哒~你觉得如何!?我不得不提前三天才预定到了桌子!"
+    moon "嗒哒~你觉得如何!?我可是提前三天才预定到了桌子!"
 
 # game/scripts/bar.rpy:5736
 translate schinese moondate_02de81b7:
 
     # c "It's amazing. I wasn't expecting somewhere so fancy."
-    c "这太棒了.我从来没想过会是这么高级的地方."
+    c "这太棒了,我没想到会是这么高档的地方."
 
 # game/scripts/bar.rpy:5738
 translate schinese moondate_848baffb:
 
     # moon "I'm glad you think so! It's my favorite restaurant in all of Syl'anar! But you haven't tried amazing until you've had their burgers!"
-    moon "我很高兴你这么认为!这是我在整个西尔阿纳尔最喜欢的餐厅!但是你得尝尝它们的汉堡才,那才是真正令人惊奇的东西!"
+    moon "我很高兴你这么想!这是我在整个西尔阿纳尔最喜欢的餐厅!如果你没试过他们的汉堡,那你就没吃过真正好吃的东西!"
 
 # game/scripts/bar.rpy:5739
 translate schinese moondate_a9f43bbe:
@@ -15645,7 +15645,7 @@ translate schinese moondate_5d019abf:
 translate schinese moondate_5895c7ab:
 
     # moon "Are you cheating on Maria!?" with ssshake
-    moon "你是在欺骗玛丽亚吗!?" with ssshake
+    moon "你对玛丽亚不忠吗!?" with ssshake
 
 # game/scripts/bar.rpy:5743
 translate schinese moondate_f30d15f9:
@@ -15657,13 +15657,13 @@ translate schinese moondate_f30d15f9:
 translate schinese moondate_ef4e39c2:
 
     # moon "I don't like cheaters! You need to be committed to the person you love!"
-    moon "我不喜欢骗子!你需要对你所爱之人做出承诺!"
+    moon "我不喜欢渣男!你需要对你爱的人全心全意!"
 
 # game/scripts/bar.rpy:5745
 translate schinese moondate_71b2ae7a:
 
     # c "Relax, I'm not cheating on her with you..."
-    c "放松点,我没欺骗她......"
+    c "放松点,我没对她不忠......"
 
 # game/scripts/bar.rpy:5746
 translate schinese moondate_9151da15:
@@ -15675,25 +15675,25 @@ translate schinese moondate_9151da15:
 translate schinese moondate_f541d8fc:
 
     # moon "Oh, really? I didn't know that was common here. Apologies!"
-    moon "哦,真的吗?我不知道那种东西在这里是很正常的.我向你道歉!"
+    moon "哦,真的吗?我不知道这种东西在这里很常见.我向你道歉!"
 
 # game/scripts/bar.rpy:5750
 translate schinese moondate_19a7afb0:
 
     # moon "Where is the waiter? I'm starving..."
-    moon "侍者呢?我快饿死了......"
+    moon "服务员呢?我快饿死了......"
 
 # game/scripts/bar.rpy:5751
 translate schinese moondate_0a7572e3:
 
     # c "You took that better than I thought you would."
-    c "你接受得比我想象中的要好."
+    c "你的反应比我想象的要好."
 
 # game/scripts/bar.rpy:5753
 translate schinese moondate_fe156999:
 
     # moon "Oh really? Harems are tradition where I come from, so it's nothing new to me."
-    moon "哦,真的吗?在我的家乡,后宫是那里的传统,所以这对我来说并不新鲜."
+    moon "哦,真的吗?后宫在我的家乡也是一种传统,所以这对我来说并不新鲜."
 
 # game/scripts/bar.rpy:5754
 translate schinese moondate_f246a941:
@@ -15705,43 +15705,43 @@ translate schinese moondate_f246a941:
 translate schinese moondate_3fbf6875:
 
     # moon "No, hahah! You need to be kind of rich to own a harem."
-    moon "没有,哈哈哈!你得有点钱才可以拥有一个后宫."
+    moon "没有,哈哈哈!你得是个富人,才能拥有后宫."
 
 # game/scripts/bar.rpy:5757
 translate schinese moondate_fa007c8a:
 
     # moon "After all, no one finds monkey hunting to be an attractive skill..."
-    moon "毕竟,没人会认为抓猴子是一项有魅力的技能的......"
+    moon "毕竟,没有人会觉得猎猴是一项有吸引力的技能......"
 
 # game/scripts/bar.rpy:5759
 translate schinese moondate_9197ccc4:
 
     # c "Did you really hunt monkeys?"
-    c "你真的捕猎猴子吗?"
+    c "你真的猎过猴吗?"
 
 # game/scripts/bar.rpy:5760
 translate schinese moondate_6e24819e:
 
     # moon "Don't believe me? Of course I did!"
-    moon "不相信我?我当然有了!"
+    moon "不相信我?我当然有过了!"
 
 # game/scripts/bar.rpy:5761
 translate schinese moondate_a0f3cc15:
 
     # moon "I didn't like killing them, but you have to survive in times like one I grew up in. They were always a last resort anyway, and quite rare to catch."
-    moon "我不喜欢杀它们,但是在我长大的那个时间,你必须活下来.反正它们也是我们最后的手段,而且它们很难抓得到."
+    moon "我不喜欢杀它们,但在我成长的那个时代,你必须活下来.抓它们也是我们最后的手段,而且也很难抓得到."
 
 # game/scripts/bar.rpy:5763
 translate schinese moondate_12338c72:
 
     # moon "I mostly ate turkey. Fruits and vegetables were on the menu as well, I just like to tell people I ate monkeys because it creeps them out!"
-    moon "我主要是吃火鸡.还有水果和蔬菜,我只是喜欢告诉别人我吃过猴子,因为这样会吓他们一大跳!"
+    moon "我主要是吃火鸡,还有水果和蔬菜.我只是喜欢告诉别人我吃过猴子,因为这样会吓他们一大跳!"
 
 # game/scripts/bar.rpy:5765
 translate schinese moondate_5b889971:
 
     # moon "A lovely conversation to have over dinner, isn't it?"
-    moon "晚餐前可爱的对话,不是吗?"
+    moon "晚餐前一次愉快的对话,不是吗?"
 
 # game/scripts/bar.rpy:5766
 translate schinese moondate_a1f0da02:
@@ -15753,7 +15753,7 @@ translate schinese moondate_a1f0da02:
 translate schinese moondate_4e3d7195:
 
     # c "So, you seem fine with harems?"
-    c "所以,你对后宫没问题?"
+    c "所以,你对后宫没意见?"
 
 # game/scripts/bar.rpy:5768
 translate schinese moondate_bd70e2b6:
@@ -15771,19 +15771,19 @@ translate schinese moondate_f5f7c27d:
 translate schinese moondate_5f97f928:
 
     # moon "There's my reasoning, I'm sure you can agree, haha!"
-    moon "这就是我的原因,我相信你会同意的,哈哈!"
+    moon "这就是我的理由,我相信你会同意的,哈哈!"
 
 # game/scripts/bar.rpy:5773
 translate schinese moondate_2842f7c2:
 
     # waiter "Good day and welcome, I shall be your waiter for today. Do you know what you would like to have tonight? Or would you like to take a look at our menu?"
-    waiter "日安,欢迎你们,我会是你们今天的服务员.你们今晚想吃什么吗?或者你们想看看我们的菜单?"
+    waiter "日安,欢迎光临,我是你们今天的服务员.你们今晚想吃什么吗?或者你们想看看我们的菜单?"
 
 # game/scripts/bar.rpy:5774
 translate schinese moondate_a5057aa4:
 
     # moon "I'll have the Drow Supreme with no tomatoes."
-    moon "我要没有西红柿的卓尔至尊堡."
+    moon "我要卓尔至尊堡,不要西红柿."
 
 # game/scripts/bar.rpy:5779
 translate schinese moondate_6532f100:
@@ -15819,31 +15819,31 @@ translate schinese moondate_a8ddc131:
 translate schinese moondate_d1f7a1e9:
 
     # c "That's a bit of a difficult question... I haven't gotten to know everyone too well yet. At least five, maybe eight."
-    c "这是个有点困难的问题......我还没有和每个人都很熟.至少五个,可能有八个."
+    c "这个问题有点难......我跟有些人还不是很熟.至少五个,也许有八个."
 
 # game/scripts/bar.rpy:5795
 translate schinese moondate_b8ae5227:
 
     # c "That's a bit of a difficult question... I haven't gotten to know all of them too well yet. At least four maybe."
-    c "这是个有点困难的问题......我还没有和每个人都很熟.至少四个吧大概."
+    c "这个问题有点难......我跟有些人还不是很熟.至少四个吧大概."
 
 # game/scripts/bar.rpy:5796
 translate schinese moondate_48974e4d:
 
     # moon "Really? That's a lot! This whole time I thought you were hitting on the other girls, I had no idea you were already in a relationship with them."
-    moon "真的吗?那可太多了!这段时间我一直以为你在搭讪其他女孩,我不知道你已经和她们在一起了."
+    moon "真的吗?那可太多了!我一直以为你在勾引其他女孩,没想到你已经和她们在一起了."
 
 # game/scripts/bar.rpy:5798
 translate schinese moondate_3d4dd72e:
 
     # moon "Although, to be honest... I don't find the idea of being in a harem exciting... I would prefer a one-on-one relationship, I don't think I would like sharing the things I own with so many people."
-    moon "但是,说实在的......我不觉得后宫是一个令人兴奋的想法......我更喜欢一对一的关系,我不觉得我会喜欢和这么多人分享我拥有的东西."
+    moon "但是,说实话......我不觉得在后宫的想法很刺激......我更喜欢一对一的关系,我不喜欢和那么多人分享我的东西."
 
 # game/scripts/bar.rpy:5799
 translate schinese moondate_f79468f3:
 
     # moon "However... I do not think of it as a deal breaker either."
-    moon "但是......我也不觉得这破坏了交易."
+    moon "但是......我也不认为这是一种不能接受的事情."
 
 # game/scripts/bar.rpy:5801
 translate schinese moondate_9c71546d:
@@ -15855,19 +15855,19 @@ translate schinese moondate_9c71546d:
 translate schinese moondate_274bb953:
 
     # moon "Sorry, perhaps we shouldn't talk about such embarassing things over food."
-    moon "对不起,也许我们不应该在吃饭的时候谈论这种令人尴尬的话题."
+    moon "对不起,也许我们不应该在吃饭的时候谈论这种羞耻的话题."
 
 # game/scripts/bar.rpy:5804
 translate schinese moondate_f19a9c13:
 
     # c "I wouldn't be opposed to it, I think you two would look sexy together."
-    c "我不反对,我觉得你们两个在一起会很性感的."
+    c "我不反对,我觉得你们俩在一起会很性感."
 
 # game/scripts/bar.rpy:5806
 translate schinese moondate_1df3298b:
 
     # moon "Speaking hypothetically... I wouldn't be opposed to it either if it was something the head of the harem wanted, but I wouldn't seek it out, she's my friend..."
-    moon "假设一下......如果这是后宫之主需要的东西,我不会反对,但是我不会主动去做的,她是我的朋友......"
+    moon "假设一下......如果这是后宫之主想要的,我也不会反对,但我不会主动去找她,她是我的朋友......"
 
 # game/scripts/bar.rpy:5807
 translate schinese moondate_cb8b9ab8:
@@ -15885,7 +15885,7 @@ translate schinese moondate_14b7a690:
 translate schinese moondate_fc25ae89:
 
     # moon "It's going very well! I'll be graduating soon, my roommate and I have been glued to our books lately. I hope I'll be able to find a good job soon."
-    moon "很好!我很快就要毕业了,我和我的室友最近都扑到书上面了.我希望我很快就可以找到一份好工作."
+    moon "一切顺利!我很快就要毕业了,我和室友最近都扑到书上面了.我希望我能尽快找到一份好工作."
 
 # game/scripts/bar.rpy:5811
 translate schinese moondate_bb64dd94:
@@ -15897,13 +15897,13 @@ translate schinese moondate_bb64dd94:
 translate schinese moondate_fc0598d0:
 
     # moon "Of course not! You don't expect me to be a waitress forever, do you? Being a waitress isn't my final step, I still have a long way to go."
-    moon "当然不是!不过你不会希望我永远当个服务员吧?做服务员不少我的最后一步,我还有很长的路要走."
+    moon "当然不是!你不会指望我当一辈子的服务员吧?当服务员不是我的最终目标,我还有很长的路要走."
 
 # game/scripts/bar.rpy:5813
 translate schinese moondate_f20b08b4:
 
     # c "What is your final step?"
-    c "你的最后一步是什么?"
+    c "你的最终目标是什么?"
 
 # game/scripts/bar.rpy:5815
 translate schinese moondate_1f50ba54:
@@ -15945,19 +15945,19 @@ translate schinese moondate_9873fa6d:
 translate schinese moondate_7df8542e:
 
     # moon "It reminds me of the food my father made me when I was young."
-    moon "它让我想起了我爸爸在我年轻的时候给我做的食物."
+    moon "这让我想起小时候父亲给我做的饭菜."
 
 # game/scripts/bar.rpy:5826
 translate schinese moondate_6901f315:
 
     # c "He made burgers?"
-    c "他做汉堡?"
+    c "他也做汉堡?"
 
 # game/scripts/bar.rpy:5828
 translate schinese moondate_66e561bf:
 
     # moon "No, haha! He didn't make burgers, but he did prepare meals with turkey in them. Most restaurants don't get the flavor right, but this place has it perfect!"
-    moon "不是,哈哈!他不做汉堡,但是他确实做了有火鸡的饭菜.大多数餐馆的味道都不太对,但是这个地方的味道很完美!"
+    moon "不是,哈哈!他不做汉堡,但是他做的饭菜里有火鸡肉.大多数餐厅都做不好火鸡的味道,但是这家做得很完美!"
 
 # game/scripts/bar.rpy:5831
 translate schinese moondate_c74bc53e_1:
@@ -15999,7 +15999,7 @@ translate schinese moondate_08f3e5a0:
 translate schinese moondate_aa0240d0:
 
     # moon "Oh, maybe I can create some new and interesting drinks with my biochemistry skills!"
-    moon "哦,也许我可以用我的生物化学技能制造一些有趣的新型饮料!"
+    moon "哦,也许我可以用我的生物化学技能创造出一些新奇有趣的饮料!"
 
 # game/scripts/bar.rpy:5842
 translate schinese moondate_d9673365:
