@@ -48000,3 +48000,3161 @@ translate schinese mar_roofdate_844306cd:
     # c "Hey, what are your plans with Cornwall's blackmail?"
     c "嘿,你对勒索康沃尔有什么计划吗?"
 
+# TODO: Translation updated at 2025-06-12 01:06
+
+# game/scripts/maria_events.rpy:9185
+translate schinese marty_8c04bda6:
+
+    # m "Hey, let's go back to Fouquet's. I just got a new dress, it's the perfect time."
+    m ""
+
+# game/scripts/maria_events.rpy:9186
+translate schinese marty_137e327a:
+
+    # c "Sure. I'll get dressed."
+    c ""
+
+# game/scripts/maria_events.rpy:9187
+translate schinese marty_d0384031:
+
+    # m "Same, see you soon."
+    m ""
+
+# game/scripts/maria_events.rpy:9189
+translate schinese marty_5130ea0b:
+
+    # m "Hey, let's go back to Fouquet's this evening. You down?"
+    m ""
+
+# game/scripts/maria_events.rpy:9190
+translate schinese marty_fd4f85e6:
+
+    # c "Oh, sure. I'll come back this evening."
+    c ""
+
+# game/scripts/maria_events.rpy:9191
+translate schinese marty_7e109620:
+
+    # m "See you then."
+    m ""
+
+# game/scripts/maria_events.rpy:9194
+translate schinese marty_41fcd37f:
+
+    # "After getting dressed, you wait for Maria in the lobby..."
+    ""
+
+# game/scripts/maria_events.rpy:9196
+translate schinese marty_eb59189e:
+
+    # m "Looks like you're ready."
+    m ""
+
+# game/scripts/maria_events.rpy:9197
+translate schinese marty_4ce77e5e:
+
+    # c "Hm?"
+    c ""
+
+# game/scripts/maria_events.rpy:9199
+translate schinese marty_6b632a5a:
+
+    # c "Wow, you look stunning."
+    c ""
+
+# game/scripts/maria_events.rpy:9200
+translate schinese marty_8d9a280f:
+
+    # m "Really? You think so? It shows off my curves, right?"
+    m ""
+
+# game/scripts/maria_events.rpy:9201
+translate schinese marty_d5968227:
+
+    # c "Of course! I can't keep my eyes off of you. That new dress looks amazing on you."
+    c ""
+
+# game/scripts/maria_events.rpy:9203
+translate schinese marty_d509c79f:
+
+    # m "Thanks... you look great too."
+    m ""
+
+# game/scripts/maria_events.rpy:9204
+translate schinese marty_e65cbd0a:
+
+    # c "...Is everything okay, Maria?"
+    c ""
+
+# game/scripts/maria_events.rpy:9205
+translate schinese marty_222beb83:
+
+    # m "Mhm. Just hungry... Are you ready?"
+    m ""
+
+# game/scripts/maria_events.rpy:9206
+translate schinese marty_0ced9f43:
+
+    # c "Let's hit it."
+    c ""
+
+# game/scripts/maria_events.rpy:9207
+translate schinese marty_a464f5d4:
+
+    # e "Enjoy, you two!"
+    e ""
+
+# game/scripts/maria_events.rpy:9210
+translate schinese marty_01a9e189:
+
+    # durn "Good evening. Welcome back to Fouquet's, do you have a reservation with us?"
+    durn ""
+
+# game/scripts/maria_events.rpy:9211
+translate schinese marty_e69e42b8:
+
+    # c "No."
+    c ""
+
+# game/scripts/maria_events.rpy:9212
+translate schinese marty_0f0d5567:
+
+    # durn "Not to worry, we have a table available for you two. Please, follow me."
+    durn ""
+
+# game/scripts/maria_events.rpy:9214
+translate schinese marty_7f7fade4:
+
+    # durn "Can I get you two started off with something to drink?"
+    durn ""
+
+# game/scripts/maria_events.rpy:9215
+translate schinese marty_3addb671:
+
+    # c "Two cherry cocktails, please."
+    c ""
+
+# game/scripts/maria_events.rpy:9216
+translate schinese marty_793d9bc9:
+
+    # durn "Wonderful. Allow me a moment to get back to you."
+    durn ""
+
+# game/scripts/maria_events.rpy:9219
+translate schinese marty_34503377:
+
+    # m "Thanks for bringing me here."
+    m ""
+
+# game/scripts/maria_events.rpy:9220
+translate schinese marty_b81e6aa2:
+
+    # c "Don't worry, I'll pay for everything this time. I know money must be tight for you."
+    c ""
+
+# game/scripts/maria_events.rpy:9221
+translate schinese marty_fbd42c52:
+
+    # m "Eh, I'm comfortable."
+    m ""
+
+# game/scripts/maria_events.rpy:9222
+translate schinese marty_ed886f31:
+
+    # c "Oh, good."
+    c ""
+
+# game/scripts/maria_events.rpy:9224
+translate schinese marty_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/maria_events.rpy:9225
+translate schinese marty_faf91849:
+
+    # c "...Uh, what are you hungry for today? Same as last time?"
+    c ""
+
+# game/scripts/maria_events.rpy:9227
+translate schinese marty_1b0864b6:
+
+    # m "I guess."
+    m ""
+
+# game/scripts/maria_events.rpy:9228
+translate schinese marty_a07f7428:
+
+    # c "Maria, what's wrong?"
+    c ""
+
+# game/scripts/maria_events.rpy:9229
+translate schinese marty_d3bc8b3d:
+
+    # m "It's nothing..."
+    m ""
+
+# game/scripts/maria_events.rpy:9230
+translate schinese marty_21de6b1f:
+
+    # c "It's definitely something. You can talk to me..."
+    c ""
+
+# game/scripts/maria_events.rpy:9232
+translate schinese marty_6a3080c2:
+
+    # m "*sigh*... You know why I started streaming, right?"
+    m ""
+
+# game/scripts/maria_events.rpy:9233
+translate schinese marty_57666f66:
+
+    # m "It was mostly for the attention. I wanted to feel desired, you know?"
+    m ""
+
+# game/scripts/maria_events.rpy:9234
+translate schinese marty_1c827684:
+
+    # c "I can imagine it was tough growing up without a family."
+    c ""
+
+# game/scripts/maria_events.rpy:9235
+translate schinese marty_c06cf43f:
+
+    # m "Yeah... The money was nice, but... being so alone most of my life, I was mainly after the attention."
+    m ""
+
+# game/scripts/maria_events.rpy:9236
+translate schinese marty_c86bebd4:
+
+    # m "I don't even think I know what love feels like, [name]... I keep chasing it, but... I don't know if I ever got it in return..."
+    m ""
+
+# game/scripts/maria_events.rpy:9237
+translate schinese marty_3a3a8a5c:
+
+    # m "Do you know what that's like? Having no foundation to fall on when things get bad... no support... no one to explain things to you when you're young..."
+    m ""
+
+# game/scripts/maria_events.rpy:9240
+translate schinese marty_7f1562f2:
+
+    # m "Do you?"
+    m ""
+
+# game/scripts/maria_events.rpy:9241
+translate schinese marty_c1df93a3:
+
+    # c "I do, more than you know."
+    c ""
+
+# game/scripts/maria_events.rpy:9242
+translate schinese marty_45b425de:
+
+    # m "*sigh*... you know how lonely it can get, then."
+    m ""
+
+# game/scripts/maria_events.rpy:9244
+translate schinese marty_6f7a2b8f:
+
+    # m "But you don't understand, do you? Not truly... you can't unless you were in my shoes."
+    m ""
+
+# game/scripts/maria_events.rpy:9245
+translate schinese marty_e5d3a788:
+
+    # m "It's lonely... it's scary."
+    m ""
+
+# game/scripts/maria_events.rpy:9246
+translate schinese marty_9f560358:
+
+    # m "I see others calling their family and wonder what it must feel like... I can't imagine how some of them get so annoyed at their parents when it's obvious they love them."
+    m ""
+
+# game/scripts/maria_events.rpy:9247
+translate schinese marty_575c01d6:
+
+    # m "Without that kind of foundation in my life, it feels like... I don't know... like I could die at any moment."
+    m ""
+
+# game/scripts/maria_events.rpy:9249
+translate schinese marty_50a112f5:
+
+    # m "I mean, honestly, who in this world would move heaven and earth to help me? I have no one...!"
+    m ""
+
+# game/scripts/maria_events.rpy:9250
+translate schinese marty_6949ec3f:
+
+    # c "You have me."
+    c ""
+
+# game/scripts/maria_events.rpy:9252
+translate schinese marty_c1158e04:
+
+    # m "Hmph... it's not the same. Our relationship is conditional. We're one bad fight away from me being alone again..."
+    m ""
+
+# game/scripts/maria_events.rpy:9253
+translate schinese marty_b34826c6:
+
+    # m "When I was streaming, I would have thousands of people praising me. Thousands of people to talk to that would never turn me away. Without that, what am I going to do when I'm in trouble?"
+    m ""
+
+# game/scripts/maria_events.rpy:9254
+translate schinese marty_be650def:
+
+    # c "If that's what you're worried about, you have nothing to be afraid of with me."
+    c ""
+
+# game/scripts/maria_events.rpy:9255
+translate schinese marty_3112b290:
+
+    # m "As if I haven't heard that before..."
+    m ""
+
+# game/scripts/maria_events.rpy:9257
+translate schinese marty_4096c7e5:
+
+    # m "...When I was younger, maybe 15 or 16... still in the orphanage... I would join a lot of online chat communities, and that really helped for a while. I was pretty popular in some of them."
+    m ""
+
+# game/scripts/maria_events.rpy:9258
+translate schinese marty_ae6e469d:
+
+    # m "Looking back on it... those guys were creeps. They only wanted one thing, and they didn't care how old I was. Probably made it better for some of them..."
+    m ""
+
+# game/scripts/maria_events.rpy:9259
+translate schinese marty_8d1cd2e9:
+
+    # c "That sucks... and now you don't have any of that."
+    c ""
+
+# game/scripts/maria_events.rpy:9260
+translate schinese marty_7e394852:
+
+    # m "Not even the others from the orphanage..."
+    m ""
+
+# game/scripts/maria_events.rpy:9262
+translate schinese marty_f33613c5:
+
+    # m "Oh yeah... there was this one girl... her name was Hana... she was like a sister to me. She was the only one I got along with at the orphanage."
+    m ""
+
+# game/scripts/maria_events.rpy:9263
+translate schinese marty_def8a8ac:
+
+    # m "We talked every day, played dolls together, learned how to put on makeup together, and we even got our first childhood boyfriends around the same time."
+    m ""
+
+# game/scripts/maria_events.rpy:9264
+translate schinese marty_357e02c9:
+
+    # m "But... she was adopted, and I was alone again..."
+    m ""
+
+# game/scripts/maria_events.rpy:9265
+translate schinese marty_16a12861:
+
+    # m "My best friend and sister for so many years, just ripped away from me. I didn't get over it for months... we weren't even allowed any contact."
+    m ""
+
+# game/scripts/maria_events.rpy:9266
+translate schinese marty_9089b758:
+
+    # c "Maybe we could find her now?"
+    c ""
+
+# game/scripts/maria_events.rpy:9267
+translate schinese marty_167a2c1b:
+
+    # m "It's been like a decade since I saw her... she probably doesn't even remember me anymore."
+    m ""
+
+# game/scripts/maria_events.rpy:9269
+translate schinese marty_0eae22f3:
+
+    # durn "Your drinks...\nAre we ready to order?"
+    durn ""
+
+# game/scripts/maria_events.rpy:9270
+translate schinese marty_68756659:
+
+    # c "We need some time."
+    c ""
+
+# game/scripts/maria_events.rpy:9271
+translate schinese marty_27e562b4:
+
+    # durn "Of course, sir. Call me when you're ready."
+    durn ""
+
+# game/scripts/maria_events.rpy:9273
+translate schinese marty_c5157626:
+
+    # m "*gulp*\n*gulp*\n*gulp*" with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:9275
+translate schinese marty_e7c15a9d:
+
+    # m "Ahhh..."
+    m ""
+
+# game/scripts/maria_events.rpy:9276
+translate schinese marty_095870a2:
+
+    # c "Damn..."
+    c ""
+
+# game/scripts/maria_events.rpy:9277
+translate schinese marty_e1e1ca37:
+
+    # c "I'm sure Hana remembers you, Maria. If you were as close as you say, you don't forget something like that."
+    c ""
+
+# game/scripts/maria_events.rpy:9278
+translate schinese marty_68fddd31:
+
+    # m "Yeah... maybe."
+    m ""
+
+# game/scripts/maria_events.rpy:9281
+translate schinese marty_70ced626:
+
+    # m "I actually planned to kidnap her to {i}save{/i} her from her adoptive parents."
+    m ""
+
+# game/scripts/maria_events.rpy:9282
+translate schinese marty_634f2aff:
+
+    # m "I should have been happy for her, it was what we all wanted. But I guess we just thought we'd be adopted together."
+    m ""
+
+# game/scripts/maria_events.rpy:9283
+translate schinese marty_ffe8f799:
+
+    # c "Damn... I can imagine it feels like a she died."
+    c ""
+
+# game/scripts/maria_events.rpy:9284
+translate schinese marty_4a8f0259:
+
+    # m "Exactly... Eventually I got over it though... and I was determined to be adopted."
+    m ""
+
+# game/scripts/maria_events.rpy:9287
+translate schinese marty_63c6393d:
+
+    # m "I was the first kid to greet every single family that came in. I put on a ton of makeup and tried to act all cute for them, but it never worked... Probably because I looked like a clown."
+    m ""
+
+# game/scripts/maria_events.rpy:9288
+translate schinese marty_b257fdf0:
+
+    # m "I thought there must be something wrong with me. Years went by and all of my friends were adopted, except for me..."
+    m ""
+
+# game/scripts/maria_events.rpy:9289
+translate schinese marty_cd1059c9:
+
+    # m "I started to hate my eyes because of it. I couldn't see any other reason. Honestly, I... I still can't. I was the only one there with pink eyes."
+    m ""
+
+# game/scripts/maria_events.rpy:9290
+translate schinese marty_10b3034b:
+
+    # m "So I made sure to be the smartest kid there. I got so good at math, grammar, science... I even learned how to dance, sing and play the piano a bit."
+    m ""
+
+# game/scripts/maria_events.rpy:9291
+translate schinese marty_ba33117f:
+
+    # c "Wow, that's amazing, Maria."
+    c ""
+
+# game/scripts/maria_events.rpy:9292
+translate schinese marty_57656805:
+
+    # m "Still, no one wanted me... It can really make someone feel worthless, you know...?"
+    m ""
+
+# game/scripts/maria_events.rpy:9293
+translate schinese marty_052bcee6:
+
+    # c "But you're not, you're really talented. Life just isn't fair."
+    c ""
+
+# game/scripts/maria_events.rpy:9296
+translate schinese marty_7e7f246d:
+
+    # m "Yeah..."
+    m ""
+
+# game/scripts/maria_events.rpy:9297
+translate schinese marty_901b22c6:
+
+    # c "It sounds like you excelled in school and college, you made a lot of money too. You're a completely self-made woman, and you should take pride in that."
+    c ""
+
+# game/scripts/maria_events.rpy:9298
+translate schinese marty_f3749239:
+
+    # m "None of that matters without a family. I'd trade it all for a family..."
+    m ""
+
+# game/scripts/maria_events.rpy:9299
+translate schinese marty_592385c4:
+
+    # m "College in another thing entirely... I wasn't allowed to return to the orphanage once I completed high school, so I was forced to join a community college."
+    m ""
+
+# game/scripts/maria_events.rpy:9300
+translate schinese marty_e7361d47:
+
+    # m "It's free for the first two years, and they even paid you a bit if you were at the top. I even got my own dorm room because I did so well. So it was a pretty good deal."
+    m ""
+
+# game/scripts/maria_events.rpy:9301
+translate schinese marty_790c4968:
+
+    # c "The orphanage just kicked you out? Even though you didn't have a job at the time?"
+    c ""
+
+# game/scripts/maria_events.rpy:9302
+translate schinese marty_9ee5237d:
+
+    # m "Yeah, I mean it makes sense, you can't have adults living with the kids, but it was brutal."
+    m ""
+
+# game/scripts/maria_events.rpy:9305
+translate schinese marty_94cb2568:
+
+    # m "I dated almost any boy that talked to me... It never lasted, but they always made me feel loved, even when it was actually just lust. I was too young to know the difference..."
+    m ""
+
+# game/scripts/maria_events.rpy:9306
+translate schinese marty_0f784131:
+
+    # m "It gave me a lot of confidence, but I was just stuck in this endless cycle of meeting someone new, thinking I love them, and then dumping them so soon after. I was always just a piece of meat to them..."
+    m ""
+
+# game/scripts/maria_events.rpy:9307
+translate schinese marty_7214cfe2:
+
+    # c "Oh..."
+    c ""
+
+# game/scripts/maria_events.rpy:9308
+translate schinese marty_349b0002:
+
+    # m "Every new boyfriend was just {i}definitely{/i} different from the last one. This one {i}loved{/i} me... But no, it was never actually like that."
+    m ""
+
+# game/scripts/maria_events.rpy:9309
+translate schinese marty_73425971:
+
+    # m "So I said fuck it. No more boyfriends... I was confident in my body, but I wasn't emotionally..."
+    m ""
+
+# game/scripts/maria_events.rpy:9310
+translate schinese marty_7ecd1e7d:
+
+    # m "I was popular online in the past, so I figured... I might as well earn some money with my body if that's all anyone sees me for."
+    m ""
+
+# game/scripts/maria_events.rpy:9311
+translate schinese marty_5dbcd7ef:
+
+    # m "{i}Thousands of people said they loved me... but it still wasn't enough.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:9313
+translate schinese marty_a37163fc:
+
+    # m "I'll never be {i}the one{/i} to someone. I just wasn't born that way."
+    m ""
+
+# game/scripts/maria_events.rpy:9316
+translate schinese marty_b1c43f1c:
+
+    # m "I don't know what we are, but I know I'm not your {i}the one...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:9317
+translate schinese marty_605a68cc:
+
+    # m "I'll never get married. I'll never have kids... I'll never feel loved..."
+    m ""
+
+# game/scripts/maria_events.rpy:9318
+translate schinese marty_58debb97:
+
+    # c "I don't make you feel loved?"
+    c ""
+
+# game/scripts/maria_events.rpy:9321
+translate schinese marty_9a2b32da:
+
+    # m "I just think we rushed into things... we never built that foundation. It's just... sex."
+    m ""
+
+# game/scripts/maria_events.rpy:9322
+translate schinese marty_45ac7f2e:
+
+    # m "We're not that close... you don't really know me, and I don't really know you."
+    m ""
+
+# game/scripts/maria_events.rpy:9323
+translate schinese marty_a3858729:
+
+    # m "I mean, why are we even together? Because we have sex? Am I only in this relationship because I don't want to be alone?"
+    m ""
+
+# game/scripts/maria_events.rpy:9324
+translate schinese marty_521527dc:
+
+    # m "I don't want that... I want to love and be loved. I want my person... I need somewhere I can always go back to when things get hard..."
+    m ""
+
+# game/scripts/maria_events.rpy:9325
+translate schinese marty_ee5ec30e:
+
+    # m "And lust is fine, you know? I'm not saying I hate having sex with you. But that stuff will always fade with time. What's left after that?"
+    m ""
+
+# game/scripts/maria_events.rpy:9327
+translate schinese marty_410b7919:
+
+    # m "I think I want to break up, [name]..."
+    m ""
+
+# game/scripts/maria_events.rpy:9329
+translate schinese marty_abdf71fa:
+
+    # m "I mean this when I say it's me, not you."
+    m ""
+
+# game/scripts/maria_events.rpy:9330
+translate schinese marty_9e22324f:
+
+    # m "All my life I've felt like an object, and I just keep falling into the same traps over and over again..."
+    m ""
+
+# game/scripts/maria_events.rpy:9331
+translate schinese marty_16b56501:
+
+    # m "I still really like you, but for now, I just need space to figure things out..."
+    m ""
+
+# game/scripts/maria_events.rpy:9333
+translate schinese marty_858e1c9e:
+
+    # m "I don't know what I'll be doing tomorrow, let alone where I'll be in five years. I don't have a job, I don't have school... I don't know who I am or what I want to do..."
+    m ""
+
+# game/scripts/maria_events.rpy:9334
+translate schinese marty_e27e9d14:
+
+    # m "I just... ugh... I just need time to figure things out..."
+    m ""
+
+# game/scripts/maria_events.rpy:9339
+translate schinese marty_fa421492:
+
+    # m "It is... I'm depressed. I don't know what to do..."
+    m ""
+
+# game/scripts/maria_events.rpy:9343
+translate schinese marty_0f43a549:
+
+    # m "Thank you [name]... maybe you're on of the good ones and I'll really regret this later..."
+    m ""
+
+# game/scripts/maria_events.rpy:9344
+translate schinese marty_e3b6e09e:
+
+    # m "I still have some money, but if the offer still stands, I would love to keep living in the hotel for now..."
+    m ""
+
+# game/scripts/maria_events.rpy:9345
+translate schinese marty_55fed8cd:
+
+    # c "Of course. There will always be a room available for you, even if I have to build one."
+    c ""
+
+# game/scripts/maria_events.rpy:9347
+translate schinese marty_53050515:
+
+    # m "That's so sweet... thank you."
+    m ""
+
+# game/scripts/maria_events.rpy:9354
+translate schinese marty_69f802d2:
+
+    # m "Have you not been listening to anything I've been saying??"
+    m ""
+
+# game/scripts/maria_events.rpy:9355
+translate schinese marty_0980ac61:
+
+    # m "You're trying to keep me, like an object! I can't live like this!"
+    m ""
+
+# game/scripts/maria_events.rpy:9356
+translate schinese marty_4363851e:
+
+    # c "I know things are tough right now, but-"
+    c ""
+
+# game/scripts/maria_events.rpy:9357
+translate schinese marty_ad2974bf:
+
+    # m "No! If you loved me, you'd let me go. If it's meant to be, that's how we'll know...!"
+    m ""
+
+# game/scripts/maria_events.rpy:9358
+translate schinese marty_c9997a1d:
+
+    # m "I can't, [name]... I can't stay with you right now."
+    m ""
+
+# game/scripts/maria_events.rpy:9363
+translate schinese marty_1bb29343:
+
+    # m "I'm sorry for ruining our date... I didn't plan for any of this... I thought dressing pretty and going on a date would fix things, but..."
+    m ""
+
+# game/scripts/maria_events.rpy:9364
+translate schinese marty_dc912f9a:
+
+    # c "It's okay, I think you just need time and space to heal, and you never really got that before."
+    c ""
+
+# game/scripts/maria_events.rpy:9365
+translate schinese marty_cb084330:
+
+    # m "Exactly..."
+    m ""
+
+# game/scripts/maria_events.rpy:9366
+translate schinese marty_7e2cde88:
+
+    # c "Come on, let's take you home so you can rest."
+    c ""
+
+# game/scripts/maria_events.rpy:9367
+translate schinese marty_98c6141c:
+
+    # m "Thank you..."
+    m ""
+
+# game/scripts/maria_events.rpy:9369
+translate schinese marty_71528288:
+
+    # "After paying for your drinks, you and Maria hop in the car, and you begin your long, silent, drive back."
+    ""
+
+# game/scripts/maria_events.rpy:9370
+translate schinese marty_77383e9a:
+
+    # "During the walk back to Maria's room, she looks at her feet the entire time. Once you reach her room, she tilts her head up, and looks at you as if she's going to say something."
+    ""
+
+# game/scripts/maria_events.rpy:11179
+translate schinese manal_4bbd3421:
+
+    # m "[name]... I'm ready for you to take my anal virginity~\nBe gentle, okay? Your cock is bigger than most of the toys I use."
+    m ""
+
+# game/scripts/maria_events.rpy:11220
+translate schinese manal_88ffae93:
+
+    # c "I love you too, Maria..."
+    c ""
+
+# game/scripts/maria_events.rpy:11223
+translate schinese manal_2429f873:
+
+    # m "I think I'm done with streaming as well. I don't need their attention, just yours. And it's like you said... Money isn't going to change that."
+    m ""
+
+# game/scripts/maria_events.rpy:11224
+translate schinese manal_abb5f60d:
+
+    # c "You want to quit streaming? Really?"
+    c ""
+
+# game/scripts/maria_events.rpy:11225
+translate schinese manal_f6edd73d:
+
+    # m "Yeah... but don't get it wrong, I'm still going to try to pay for rent! I just want to find another job..."
+    m ""
+
+# game/scripts/maria_events.rpy:11226
+translate schinese manal_a3fe49ba:
+
+    # m "I realized I don't really need it anymore. I have enough money to sit on while I look for a new job."
+    m ""
+
+# game/scripts/maria_events.rpy:11227
+translate schinese manal_5a7306ff:
+
+    # c "If you're sure, it might be for the best. It's getting dangerous for you."
+    c ""
+
+# game/scripts/maria_events.rpy:11228
+translate schinese manal_f9c0a537:
+
+    # m "Yeah...\nIf you don't mind, I need to rest... you fucked me good, haha..."
+    m ""
+
+# game/scripts/maria_events.rpy:11229
+translate schinese manal_54ce9ffd:
+
+    # c "Take it easy."
+    c ""
+
+# game/scripts/maria_events.rpy:11240
+translate schinese marcreep_ad0747a4:
+
+    # e "GET OUT!" with ssshake
+    e "" with ssshake
+
+# game/scripts/maria_events.rpy:11241
+translate schinese marcreep_7313aa19:
+
+    # m "You're so creepy!!"
+    m ""
+
+# game/scripts/maria_events.rpy:11242
+translate schinese marcreep_ca2dde1c:
+
+    # q "But you're so pretty~"
+    q ""
+
+# game/scripts/maria_events.rpy:11243
+translate schinese marcreep_15fe8555:
+
+    # c "What the hell is going on here?"
+    c ""
+
+# game/scripts/maria_events.rpy:11245
+translate schinese marcreep_459dcc89:
+
+    # m "This creepy old guy found my address!"
+    m ""
+
+# game/scripts/maria_events.rpy:11246
+translate schinese marcreep_89733a98:
+
+    # q "I'm a big fan! Heheh... Do you offer private shows? Hehehehhh..."
+    q ""
+
+# game/scripts/maria_events.rpy:11247
+translate schinese marcreep_c6d6fc56:
+
+    # e "Don't make me get my gun!"
+    e ""
+
+# game/scripts/maria_events.rpy:11248
+translate schinese marcreep_9f30ca59:
+
+    # q "I'm not harming no one..."
+    q ""
+
+# game/scripts/maria_events.rpy:11250
+translate schinese marcreep_13898d82:
+
+    # q "Aaagh!"
+    q ""
+
+# game/scripts/maria_events.rpy:11251
+translate schinese marcreep_c5174941:
+
+    # c "Get the FUCK out of here!"
+    c ""
+
+# game/scripts/maria_events.rpy:11252
+translate schinese marcreep_078af721:
+
+    # q "Wh-Why!?"
+    q ""
+
+# game/scripts/maria_events.rpy:11253
+translate schinese marcreep_ed0b7d39:
+
+    # c "You're stalking! I'll fucking shoot you if you ever come back here, do you understand?"
+    c ""
+
+# game/scripts/maria_events.rpy:11254
+translate schinese marcreep_985f7805:
+
+    # q "B-B-But...!"
+    q ""
+
+# game/scripts/maria_events.rpy:11255
+translate schinese marcreep_20db902c:
+
+    # c "Ellen, get the gun..."
+    c ""
+
+# game/scripts/maria_events.rpy:11256
+translate schinese marcreep_cc72b0eb:
+
+    # q "O-O-Okay! Okay! I'll leave! I'm sorry! I'm sorry!"
+    q ""
+
+# game/scripts/maria_events.rpy:11258
+translate schinese marcreep_6f166bc0:
+
+    # m "*exhale*... thank you, [name]..."
+    m ""
+
+# game/scripts/maria_events.rpy:11259
+translate schinese marcreep_aaeaddfd:
+
+    # e "What a creep... I can't believe I have to deal with this."
+    e ""
+
+# game/scripts/maria_events.rpy:11260
+translate schinese marcreep_8c9b957b:
+
+    # q "{size=-6}{i}I love you, Maria...{/i}{/size}"
+    q ""
+
+# game/scripts/maria_events.rpy:11261
+translate schinese marcreep_3a9cbf9b:
+
+    # c "Hey! Leave."
+    c ""
+
+# game/scripts/maria_events.rpy:11263
+translate schinese marcreep_3d0d8898:
+
+    # c "Do you know him?"
+    c ""
+
+# game/scripts/maria_events.rpy:11264
+translate schinese marcreep_066fc39b:
+
+    # m "Yeah... well, kind of..."
+    m ""
+
+# game/scripts/maria_events.rpy:11265
+translate schinese marcreep_0b6d28a1:
+
+    # m "He's my top donator... I recognized him by his profile pic..."
+    m ""
+
+# game/scripts/maria_events.rpy:11267
+translate schinese marcreep_bc9c29c2:
+
+    # m "He uh... he said he would pay me a lot of money to get fucked in the ass..."
+    m ""
+
+# game/scripts/maria_events.rpy:11268
+translate schinese marcreep_1807dcbc:
+
+    # c "He wanted to fuck you?"
+    c ""
+
+# game/scripts/maria_events.rpy:11269
+translate schinese marcreep_f46e11ed:
+
+    # m "No... he just wanted to watch. He didn't care who did it... He was offering $500..."
+    m ""
+
+# game/scripts/maria_events.rpy:11272
+translate schinese marcreep_93251f29:
+
+    # m "What? Why??"
+    m ""
+
+# game/scripts/maria_events.rpy:11273
+translate schinese marcreep_85acdb04:
+
+    # c "$500 is a lot."
+    c ""
+
+# game/scripts/maria_events.rpy:11274
+translate schinese marcreep_dcd9af00:
+
+    # m "I mean, you're right, it's insane, but..."
+    m ""
+
+# game/scripts/maria_events.rpy:11275
+translate schinese marcreep_5bec8148:
+
+    # m "No. No way. I never want to see him again..."
+    m ""
+
+# game/scripts/maria_events.rpy:11277
+translate schinese marcreep_782dc051:
+
+    # c "He found your address... it must have leaked somehow."
+    c ""
+
+# game/scripts/maria_events.rpy:11278
+translate schinese marcreep_35aa28b4:
+
+    # m "I know! It's so freaky...! What am I going to do??"
+    m ""
+
+# game/scripts/maria_events.rpy:11280
+translate schinese marcreep_6980e312:
+
+    # m "How can I feel safe here anymore knowing my address has leaked...?"
+    m ""
+
+# game/scripts/maria_events.rpy:11281
+translate schinese marcreep_dee432f0:
+
+    # m "There are bad people out there... some of them are obssessed... they'll do anything to get me."
+    m ""
+
+# game/scripts/maria_events.rpy:11282
+translate schinese marcreep_1514fc37:
+
+    # c "You don't have to worry about that here. We'll shoot anyone trying to hurt you. Right Ellen?"
+    c ""
+
+# game/scripts/maria_events.rpy:11283
+translate schinese marcreep_6223be36:
+
+    # e "Sure, why not?"
+    e ""
+
+# game/scripts/maria_events.rpy:11284
+translate schinese marcreep_782bacc6:
+
+    # m "Thanks guys...\nBut damn, $500 really is a lot..."
+    m ""
+
+# game/scripts/maria_events.rpy:11285
+translate schinese marcreep_4ce77e5e:
+
+    # c "Hm?"
+    c ""
+
+# game/scripts/maria_events.rpy:11286
+translate schinese marcreep_a6293275:
+
+    # m "It would cover rent for three months... it would be my top donation by far..."
+    m ""
+
+# game/scripts/maria_events.rpy:11287
+translate schinese marcreep_d663affe:
+
+    # c "You're not seriously thinking about doing it, are you?"
+    c ""
+
+# game/scripts/maria_events.rpy:11288
+translate schinese marcreep_1ea0e956:
+
+    # m "No! Definitely not..."
+    m ""
+
+# game/scripts/maria_events.rpy:11289
+translate schinese marcreep_5de64876:
+
+    # m "At least... not in front of him."
+    m ""
+
+# game/scripts/maria_events.rpy:11290
+translate schinese marcreep_69600bf1:
+
+    # c "Maria..."
+    c ""
+
+# game/scripts/maria_events.rpy:11291
+translate schinese marcreep_f4f20dba:
+
+    # m "It's a lot of money... I really need it. And I don't mind anal sex with you! It could work out."
+    m ""
+
+# game/scripts/maria_events.rpy:11292
+translate schinese marcreep_5b2c5c48:
+
+    # c "You don't need that money... you're fine without it. And wouldn't it just encourage him to come back?"
+    c ""
+
+# game/scripts/maria_events.rpy:11293
+translate schinese marcreep_de7a7345:
+
+    # m "Not if you have a gun. You'll protect me, right? I'm safe... so if I just DM him and go live... maybe he'll still donate."
+    m ""
+
+# game/scripts/maria_events.rpy:11294
+translate schinese marcreep_e88216a9:
+
+    # m "Could you, um... come talk to me in my room, please?"
+    m ""
+
+# game/scripts/maria_events.rpy:11295
+translate schinese marcreep_63ea9cf4:
+
+    # c "Sure..."
+    c ""
+
+# game/scripts/maria_events.rpy:11298
+translate schinese marcreep_9385ff03:
+
+    # m "Ssssooo... how about it? I've been thinking of asking you soon anyway, so it works out."
+    m ""
+
+# game/scripts/maria_events.rpy:11299
+translate schinese marcreep_04b8ad26:
+
+    # c "Are you really willing to sell your anal virginity?"
+    c ""
+
+# game/scripts/maria_events.rpy:11301
+translate schinese marcreep_73cdb17f:
+
+    # m "It's $500! Are you really turning down anal sex with me!?"
+    m ""
+
+# game/scripts/maria_events.rpy:11302
+translate schinese marcreep_5991ce17:
+
+    # c "I didn't say that..."
+    c ""
+
+# game/scripts/maria_events.rpy:11303
+translate schinese marcreep_479b7f78:
+
+    # m "It's not like I'm giving it to someone I don't care about. I mean, I WANT to do it! And I get $500 on top of that? Why not!"
+    m ""
+
+# game/scripts/maria_events.rpy:11304
+translate schinese marcreep_944adb1d:
+
+    # c "Still, Maria..."
+    c ""
+
+# game/scripts/maria_events.rpy:11305
+translate schinese marcreep_aecb6073:
+
+    # m "What? What are you possibly worried about? I need the money, and I was going to ask you anyway!"
+    m ""
+
+# game/scripts/maria_events.rpy:11306
+translate schinese marcreep_9383a9e1:
+
+    # c "It's okay, Maria... I'm here for you. You'll never have to worry about rent here again."
+    c ""
+
+# game/scripts/maria_events.rpy:11308
+translate schinese marcreep_d45d72e7:
+
+    # m "Wh-What...?"
+    m ""
+
+# game/scripts/maria_events.rpy:11309
+translate schinese marcreep_703429ff:
+
+    # c "You could live here as long as you want, you don't need that money. You shouldn't do something just because you need the money."
+    c ""
+
+# game/scripts/maria_events.rpy:11310
+translate schinese marcreep_294881cd:
+
+    # m "Are you serious...?"
+    m ""
+
+# game/scripts/maria_events.rpy:11311
+translate schinese marcreep_27c76706:
+
+    # c "Of course. I want you here forever."
+    c ""
+
+# game/scripts/maria_events.rpy:11313
+translate schinese marcreep_c933b2c1:
+
+    # m "Really...? That's so sweet... thank you..."
+    m ""
+
+# game/scripts/maria_events.rpy:11314
+translate schinese marcreep_eb0ba92e:
+
+    # m "No one's ever made me feel like that before... *sniff*... I didn't know how much I needed it..."
+    m ""
+
+# game/scripts/maria_events.rpy:11315
+translate schinese marcreep_f30a914d:
+
+    # c "You're safe here, I don't want you to have any worries."
+    c ""
+
+# game/scripts/maria_events.rpy:11316
+translate schinese marcreep_12aa9d31:
+
+    # m "*sniff*... I love you, [name]..."
+    m ""
+
+# game/scripts/maria_events.rpy:11317
+translate schinese marcreep_3fb82961:
+
+    # m "*exhale*... if I didn't want you to fuck me before, I certainly do now..."
+    m ""
+
+# game/scripts/maria_events.rpy:11319
+translate schinese marcreep_5ba6e0e1:
+
+    # m "I want you... but without the stream, without the money. Just you and me..."
+    m ""
+
+# game/scripts/maria_events.rpy:11320
+translate schinese marcreep_9f46320d:
+
+    # m "Would you like that...?"
+    m ""
+
+# game/scripts/maria_events.rpy:11323
+translate schinese marcreep_75fce7af:
+
+    # m "Really? You really want to?"
+    m ""
+
+# game/scripts/maria_events.rpy:11324
+translate schinese marcreep_a7e909dd:
+
+    # c "If it's for the right reasons, of course."
+    c ""
+
+# game/scripts/maria_events.rpy:11325
+translate schinese marcreep_779c3f29:
+
+    # m "Yes! That's perfect..."
+    m ""
+
+# game/scripts/maria_events.rpy:11330
+translate schinese marcreep_e544f2d0:
+
+    # m "Oh, I understand... I'm still a little freaked out too..."
+    m ""
+
+# game/scripts/maria_events.rpy:11332
+translate schinese marcreep_6442cabb:
+
+    # m "But thank you, [name]... You're really the best..."
+    m ""
+
+# game/scripts/maria_events.rpy:11333
+translate schinese marcreep_a0de6bea:
+
+    # m "*exhale*... I need to rest a bit. Don't be surprised if I don't answer the door, I'm just recovering..."
+    m ""
+
+# game/scripts/maria_events.rpy:11334
+translate schinese marcreep_a5833b8a:
+
+    # c "I understand. Take some time to yourself."
+    c ""
+
+# game/scripts/maria_events.rpy:11335
+translate schinese marcreep_f6d0d672:
+
+    # m "I'll see you know, [name]..."
+    m ""
+
+# game/scripts/maria_events.rpy:11336
+translate schinese marcreep_a4c90328:
+
+    # c "See you."
+    c ""
+
+# game/scripts/maria_events.rpy:11344
+translate schinese marlspring_47f2e690:
+
+    # l "So how are you liking the hotel, Maria? I hope it's clean enough..."
+    l ""
+
+# game/scripts/maria_events.rpy:11345
+translate schinese marlspring_54800ad1:
+
+    # m "Oh, it's great! You won't believe the shit I got into recently!"
+    m ""
+
+# game/scripts/maria_events.rpy:11346
+translate schinese marlspring_e8055a72:
+
+    # l "Oh, like what?"
+    l ""
+
+# game/scripts/maria_events.rpy:11347
+translate schinese marlspring_4116595e:
+
+    # m "Well, [name] punched my ex in the face over dinner! Isn't that crazy?"
+    m ""
+
+# game/scripts/maria_events.rpy:11348
+translate schinese marlspring_7a13442c:
+
+    # l "Wow... was he protecting you?"
+    l ""
+
+# game/scripts/maria_events.rpy:11349
+translate schinese marlspring_0c0a2e43:
+
+    # m "Yeah, sorta.\nAnd you're doing great, Lin, don't worry! You'll get no complaints from me."
+    m ""
+
+# game/scripts/maria_events.rpy:11350
+translate schinese marlspring_1470a376:
+
+    # l "Thanks... sometimes I worry that I miss a spot at night while I'm trying to sleep..."
+    l ""
+
+# game/scripts/maria_events.rpy:11352
+translate schinese marlspring_11b9ede8:
+
+    # m "I see that you're wearing the swimsuit I bought for you... how do you like it?"
+    m ""
+
+# game/scripts/maria_events.rpy:11356
+translate schinese marlspring_aa71c9a2:
+
+    # m "You too huh? [name] has his ways, heheh!"
+    m ""
+
+# game/scripts/maria_events.rpy:11357
+translate schinese marlspring_aa3bbb9c:
+
+    # l "Hehe, yeah..."
+    l ""
+
+# game/scripts/maria_events.rpy:11359
+translate schinese marlspring_3de227a5:
+
+    # m "Oh, that's new~ what else is news?"
+    m ""
+
+# game/scripts/maria_events.rpy:11360
+translate schinese marlspring_1cf321a4:
+
+    # l "I dunno~"
+    l ""
+
+# game/scripts/maria_events.rpy:11363
+translate schinese marlspring_6f4615c7:
+
+    # m "Mhm... I think you like the way you feel in it."
+    m ""
+
+# game/scripts/maria_events.rpy:11364
+translate schinese marlspring_5ce1a1c2:
+
+    # l "Nnnnooo~"
+    l ""
+
+# game/scripts/maria_events.rpy:11366
+translate schinese marlspring_39fe3865:
+
+    # m "So... Lin, have you done anal yet?"
+    m ""
+
+# game/scripts/maria_events.rpy:11376
+translate schinese marlspring_16e0f1c5:
+
+    # m "Hmmm... Maybe I should try it out sometime."
+    m ""
+
+# game/scripts/maria_events.rpy:11378
+translate schinese marlspring_0575a771:
+
+    # l "Well... no... Nothing's supposed to go in there..."
+    l ""
+
+# game/scripts/maria_events.rpy:11383
+translate schinese marlspring_1a963791:
+
+    # m "Don't think about it like that... it's a totally different feeling. I think you'd like it."
+    m ""
+
+# game/scripts/maria_events.rpy:11384
+translate schinese marlspring_927e6b80:
+
+    # l "Hehe, I don't know..."
+    l ""
+
+# game/scripts/maria_events.rpy:11386
+translate schinese marlspring_a3e24469:
+
+    # c "*splash*\nHey, what's up?" with ssshake
+    c "" with ssshake
+
+# game/scripts/maria_events.rpy:11387
+translate schinese marlspring_5c7732dd:
+
+    # l "[name]...! H-Hi...!"
+    l ""
+
+# game/scripts/maria_events.rpy:11388
+translate schinese marlspring_c880abdb:
+
+    # m "Oh hey [name]! Come to relax? Lin and I were just getting to know each other."
+    m ""
+
+# game/scripts/maria_events.rpy:11389
+translate schinese marlspring_d9023a87:
+
+    # l "Y-Yeah..."
+    l ""
+
+# game/scripts/maria_events.rpy:11392
+translate schinese marlspring_b70e99c7:
+
+    # m "And what about his cock, have you sucked it yet?"
+    m ""
+
+# game/scripts/maria_events.rpy:11395
+translate schinese marlspring_8a48d75b:
+
+    # l "Oh, yes! It feels so big in your mouth, doesn't it?"
+    l ""
+
+# game/scripts/maria_events.rpy:11396
+translate schinese marlspring_fd126321:
+
+    # m "It kind of hurts my jaw... But I love sucking his cock! It's really my favorite."
+    m ""
+
+# game/scripts/maria_events.rpy:11401
+translate schinese marlspring_52f00dad:
+
+    # l "N-No..."
+    l ""
+
+# game/scripts/maria_events.rpy:11402
+translate schinese marlspring_086e5b90:
+
+    # m "That's a shame... Men love blowjobs the most. And to be honest, it's my favorite too... It feels like he's putting me in my place..."
+    m ""
+
+# game/scripts/maria_events.rpy:11403
+translate schinese marlspring_be89d3cd:
+
+    # l "O-Oh, you really like it, huh?"
+    l ""
+
+# game/scripts/maria_events.rpy:11405
+translate schinese marlspring_9825ca18:
+
+    # l "I- I see..."
+    l ""
+
+# game/scripts/maria_events.rpy:11406
+translate schinese marlspring_42d07288:
+
+    # m "Heheh..."
+    m ""
+
+# game/scripts/maria_events.rpy:11408
+translate schinese marlspring_30b9a0e8:
+
+    # m "Anyway~ what are you really doing here, [name]? You wouldn't happen to be snooping on a conversation between girls, are you?"
+    m ""
+
+# game/scripts/maria_events.rpy:11409
+translate schinese marlspring_b40d1a45:
+
+    # c "Certainly not."
+    c ""
+
+# game/scripts/maria_events.rpy:11410
+translate schinese marlspring_07cb5a76:
+
+    # m "Mhmmm..."
+    m ""
+
+# game/scripts/maria_events.rpy:11411
+translate schinese marlspring_92430534:
+
+    # m "Sometimes us girls like to talk about our boyfriends. Like what we've done in bed. Just to compare, you know?"
+    m ""
+
+# game/scripts/maria_events.rpy:11417
+translate schinese marlspring_e19aeff7:
+
+    # m "Yeah... looks like I Have some catching up to do, hm?"
+    m ""
+
+# game/scripts/maria_events.rpy:11418
+translate schinese marlspring_9fce2e9a:
+
+    # l "Oh! [linoname], did you know she used to be a cheerleader? And she graduated top of her class! She's so smart!"
+    l ""
+
+# game/scripts/maria_events.rpy:11419
+translate schinese marlspring_7fc11fa5:
+
+    # m "It's not something I like to brag about..."
+    m ""
+
+# game/scripts/maria_events.rpy:11420
+translate schinese marlspring_7091da30:
+
+    # c "As smart as she is sexy."
+    c ""
+
+# game/scripts/maria_events.rpy:11421
+translate schinese marlspring_81ac1bd1:
+
+    # m "You get me..."
+    m ""
+
+# game/scripts/maria_events.rpy:11423
+translate schinese marlspring_482b1407:
+
+    # l "What are your parents like? They must be very rich, right?"
+    l ""
+
+# game/scripts/maria_events.rpy:11425
+translate schinese marlspring_792f7953:
+
+    # l "I never really knew mine, and you turned out so smart and rich! You must have had good parents, right?"
+    l ""
+
+# game/scripts/maria_events.rpy:11426
+translate schinese marlspring_7cb011ef:
+
+    # m "I'm comfortable, but I wouldn't say I'm rich... I'm still living here, after all..."
+    m ""
+
+# game/scripts/maria_events.rpy:11427
+translate schinese marlspring_40a65b40:
+
+    # l "I remember that my mother was a botanist. She tried creating new and better crops! And you?"
+    l ""
+
+# game/scripts/maria_events.rpy:11428
+translate schinese marlspring_511f3625:
+
+    # m "Uh, well..."
+    m ""
+
+# game/scripts/maria_events.rpy:11430
+translate schinese marlspring_807a9235:
+
+    # l "What's wrong, Maria?"
+    l ""
+
+# game/scripts/maria_events.rpy:11431
+translate schinese marlspring_6a2c48ff:
+
+    # m "I never knew actually knew my parents..."
+    m ""
+
+# game/scripts/maria_events.rpy:11432
+translate schinese marlspring_ca12f035:
+
+    # l "Oh... what happened?"
+    l ""
+
+# game/scripts/maria_events.rpy:11433
+translate schinese marlspring_fec4d135:
+
+    # m "I'm an orphan, Lin."
+    m ""
+
+# game/scripts/maria_events.rpy:11434
+translate schinese marlspring_7b9aa3ec:
+
+    # l "What!? Really!? I'm so sorry, Maria!"
+    l ""
+
+# game/scripts/maria_events.rpy:11435
+translate schinese marlspring_18a3de16:
+
+    # c "I didn't know, I'm sorry."
+    c ""
+
+# game/scripts/maria_events.rpy:11436
+translate schinese marlspring_ae66f2b1:
+
+    # m "Stop... I don't need your pity. I just don't like to talk about it."
+    m ""
+
+# game/scripts/maria_events.rpy:11437
+translate schinese marlspring_d1532232:
+
+    # l "Why not? Maybe you could meet them now that you're an adult."
+    l ""
+
+# game/scripts/maria_events.rpy:11438
+translate schinese marlspring_fc4ede85:
+
+    # m "That's exactly why... as far as I know, my parents are dead. But, like, what if they aren't? What if that's worse...?"
+    m ""
+
+# game/scripts/maria_events.rpy:11439
+translate schinese marlspring_6dabcfbe:
+
+    # m "All I know is that I arrived at the foster home when I was just seven months old... So like, what if they just didn't want me?"
+    m ""
+
+# game/scripts/maria_events.rpy:11440
+translate schinese marlspring_2af89a1d:
+
+    # m "Maybe I was too much to handle...? I don't know..."
+    m ""
+
+# game/scripts/maria_events.rpy:11441
+translate schinese marlspring_bc53c67b:
+
+    # l "No, Maria... That can't be it. I'm sure your parents loved you."
+    l ""
+
+# game/scripts/maria_events.rpy:11442
+translate schinese marlspring_92b5cfac:
+
+    # m "I just want to forget it. I've done well for myself, I've never needed them."
+    m ""
+
+# game/scripts/maria_events.rpy:11443
+translate schinese marlspring_8eac410d:
+
+    # l "I understand..."
+    l ""
+
+# game/scripts/maria_events.rpy:11445
+translate schinese marlspring_6bdea7b8:
+
+    # l "How about we change the subject? Any siblings? I had just one, Jinny. She's my older sister."
+    l ""
+
+# game/scripts/maria_events.rpy:11446
+translate schinese marlspring_3adedc0b:
+
+    # m "Just the other kids at my foster home..."
+    m ""
+
+# game/scripts/maria_events.rpy:11448
+translate schinese marlspring_323a4e7d:
+
+    # l "O-Oh, um..."
+    l ""
+
+# game/scripts/maria_events.rpy:11449
+translate schinese marlspring_d917ce4b:
+
+    # l "O-Okay! What do you do for work? I'm a maid... you know that already. [name] is that manager, so..."
+    l ""
+
+# game/scripts/maria_events.rpy:11450
+translate schinese marlspring_66f91b57:
+
+    # m "I'm a camgirl, I stream."
+    m ""
+
+# game/scripts/maria_events.rpy:11451
+translate schinese marlspring_9c3c5a63:
+
+    # l "Oh? What's that? What's a streaming?"
+    l ""
+
+# game/scripts/maria_events.rpy:11453
+translate schinese marlspring_2e32976f:
+
+    # m "You wouldn't understand... it's a computer thing."
+    m ""
+
+# game/scripts/maria_events.rpy:11454
+translate schinese marlspring_c06c610c:
+
+    # l "But I like computers... they're so interesting!"
+    l ""
+
+# game/scripts/maria_events.rpy:11455
+translate schinese marlspring_533424aa:
+
+    # m "...Streaming is when a lot of people are watching you record yourself live."
+    m ""
+
+# game/scripts/maria_events.rpy:11456
+translate schinese marlspring_e03426e6:
+
+    # l "Oh, I see! Can I join you?"
+    l ""
+
+# game/scripts/maria_events.rpy:11458
+translate schinese marlspring_df4b4c3f:
+
+    # m "Haha! You want to join? I don't think you'd like it..."
+    m ""
+
+# game/scripts/maria_events.rpy:11459
+translate schinese marlspring_c0808d62:
+
+    # l "But it sounds so cool! Why wouldn't I like it?"
+    l ""
+
+# game/scripts/maria_events.rpy:11460
+translate schinese marlspring_8a1552fc:
+
+    # m "Because I record myself naked, Lin..."
+    m ""
+
+# game/scripts/maria_events.rpy:11462
+translate schinese marlspring_3f9c5e59:
+
+    # l "N-Naked...? You let people see your body for free?"
+    l ""
+
+# game/scripts/maria_events.rpy:11463
+translate schinese marlspring_07b8b304:
+
+    # m "No, I make money from it. Quite a lot, actually."
+    m ""
+
+# game/scripts/maria_events.rpy:11464
+translate schinese marlspring_23bd007d:
+
+    # l "And all you have to do is... be naked? Humans have it so easy..."
+    l ""
+
+# game/scripts/maria_events.rpy:11465
+translate schinese marlspring_807513bd:
+
+    # m "There's more to it than that, but that's the gist."
+    m ""
+
+# game/scripts/maria_events.rpy:11467
+translate schinese marlspring_4852b853:
+
+    # l "Oh... I want to see though! It sounds interesting."
+    l ""
+
+# game/scripts/maria_events.rpy:11468
+translate schinese marlspring_ca0c2322:
+
+    # m "Maybe I can arrange that... what do you think, [name]?"
+    m ""
+
+# game/scripts/maria_events.rpy:11469
+translate schinese marlspring_2e587393:
+
+    # c "It could be fun... We'll see."
+    c ""
+
+# game/scripts/maria_events.rpy:11470
+translate schinese marlspring_e95aad05:
+
+    # l "Heheh... I just want to watch my friend work!"
+    l ""
+
+# game/scripts/maria_events.rpy:11471
+translate schinese marlspring_2a2bf53f:
+
+    # m "Sure, sure."
+    m ""
+
+# game/scripts/maria_events.rpy:11473
+translate schinese marlspring_b514efff:
+
+    # m "Alright guys, I'm starting to get light headed... I should head out."
+    m ""
+
+# game/scripts/maria_events.rpy:11474
+translate schinese marlspring_29cdbb6f:
+
+    # l "Aww, okay. Yeah, I should go too... Thanks for talking to me!"
+    l ""
+
+# game/scripts/maria_events.rpy:11475
+translate schinese marlspring_d73ca727:
+
+    # m "Yeah, sure! It's nice to have friends here."
+    m ""
+
+# game/scripts/maria_events.rpy:11476
+translate schinese marlspring_4ae5a794:
+
+    # c "See you guys."
+    c ""
+
+# game/scripts/maria_events.rpy:11691
+translate schinese marellen_78718629:
+
+    # m "You're going to invite Ellen to the hot springs. She'll accept of course... I could only imagine she'd like a break from work, and I can only assume she'd love to get to know you more..."
+    m ""
+
+# game/scripts/maria_events.rpy:11692
+translate schinese marellen_61b67b05:
+
+    # m "But here's the catch, you're going to inform her that you've decided it's going to be nude only."
+    m ""
+
+# game/scripts/maria_events.rpy:11759
+translate schinese marellen_9f81cf75:
+
+    # c "Wow, you look great."
+    c ""
+
+# game/scripts/maria_events.rpy:11760
+translate schinese marellen_03d874f7:
+
+    # e "You, um, *ahem*, you too..."
+    e ""
+
+# game/scripts/maria_events.rpy:11762
+translate schinese marellen_98ddb6ee:
+
+    # e "Don't judge me... this was a gift from your grandfather... I was young... It looks much smaller on me now..."
+    e ""
+
+# game/scripts/maria_events.rpy:11763
+translate schinese marellen_c4390090:
+
+    # e "I guess I just never really used this place much after he died..."
+    e ""
+
+# game/scripts/maria_events.rpy:11764
+translate schinese marellen_f5eebd4d:
+
+    # c "You should. You deserve a break. Relax a little."
+    c ""
+
+# game/scripts/maria_events.rpy:11765
+translate schinese marellen_763cf5b5:
+
+    # e "Thank you... I just might."
+    e ""
+
+# game/scripts/maria_events.rpy:11767
+translate schinese marellen_8982b1eb:
+
+    # e "Phew... it's extra hot today, isn't it...?"
+    e ""
+
+# game/scripts/maria_events.rpy:11768
+translate schinese marellen_a1f0da02:
+
+    # c "Yeah..."
+    c ""
+
+# game/scripts/maria_events.rpy:11769
+translate schinese marellen_3c36e9bd:
+
+    # e "It's good to clean out the pores, you know?"
+    e ""
+
+# game/scripts/maria_events.rpy:11772
+translate schinese marellen_55e0fd1a:
+
+    # e "Well, I suppose that's normal... I'm not wearing much..."
+    e ""
+
+# game/scripts/maria_events.rpy:11773
+translate schinese marellen_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/maria_events.rpy:11775
+translate schinese marellen_72a33094:
+
+    # e "..."
+    e ""
+
+# game/scripts/maria_events.rpy:11776
+translate schinese marellen_a1b73614:
+
+    # e "{i}You and your grandfather are more alike than I thought...{/i}"
+    e ""
+
+# game/scripts/maria_events.rpy:11778
+translate schinese marellen_6006dc14:
+
+    # e "Oh, *ahem*... Sorry, I didn't mean to stare... It's... just been a while, is all."
+    e ""
+
+# game/scripts/maria_events.rpy:11779
+translate schinese marellen_24366554:
+
+    # c "I understand."
+    c ""
+
+# game/scripts/maria_events.rpy:11780
+translate schinese marellen_2c049a5f:
+
+    # c "You must have really loved my grandfather. Were you guys married, or something?"
+    c ""
+
+# game/scripts/maria_events.rpy:11781
+translate schinese marellen_5f8a3244:
+
+    # e "Oh, no... never married.\nI had Lin's role when I first started. For years it was purely platonic between your grandfather and I. One day I caught feelings, and... the rest is history."
+    e ""
+
+# game/scripts/maria_events.rpy:11782
+translate schinese marellen_a917946b:
+
+    # c "Why didn't he just buy an elf?"
+    c ""
+
+# game/scripts/maria_events.rpy:11783
+translate schinese marellen_d5bb168a:
+
+    # e "He never had the opportunity to make a profit on this hotel. So he hired me, the daughter of a family friend, to work here for free to {i}build character...{/i}"
+    e ""
+
+# game/scripts/maria_events.rpy:11784
+translate schinese marellen_12aa6362:
+
+    # e "It was years before I actually started getting paid..."
+    e ""
+
+# game/scripts/maria_events.rpy:11786
+translate schinese marellen_f6614d99:
+
+    # e "He was much older than me, though... we didn't do it as often as I would have liked, but he still wanted me to be pretty."
+    e ""
+
+# game/scripts/maria_events.rpy:11787
+translate schinese marellen_00e263b7:
+
+    # e "I don't regret anything, but never let someone close to you date someone so much older than them..."
+    e ""
+
+# game/scripts/maria_events.rpy:11789
+translate schinese marellen_c1a5bcce:
+
+    # e "I grew up in a very strict and religious house, so he was pretty much the first man I had ever interacted with. I was very naive..."
+    e ""
+
+# game/scripts/maria_events.rpy:11790
+translate schinese marellen_a00f7111:
+
+    # c "He was your first love, I understand."
+    c ""
+
+# game/scripts/maria_events.rpy:11792
+translate schinese marellen_c4b0e7d5:
+
+    # e "Yes... and now I'm doomed to spend the rest of my days waiting for menopause to strike..."
+    e ""
+
+# game/scripts/maria_events.rpy:11793
+translate schinese marellen_62728dbb:
+
+    # e "He was my one true love. It's hard to move on..."
+    e ""
+
+# game/scripts/maria_events.rpy:11794
+translate schinese marellen_3010686c:
+
+    # c "But you weren't married, so... you're not exclusive?"
+    c ""
+
+# game/scripts/maria_events.rpy:11796
+translate schinese marellen_10559f72:
+
+    # e "I'm not a widow, no, but we were certainly exclusive..."
+    e ""
+
+# game/scripts/maria_events.rpy:11798
+translate schinese marellen_8f6e9100:
+
+    # m "Hey guyyyyys~~~"
+    m ""
+
+# game/scripts/maria_events.rpy:11800
+translate schinese marellen_ee0f9226:
+
+    # m "What's up?"
+    m ""
+
+# game/scripts/maria_events.rpy:11802
+translate schinese marellen_08ffc58c:
+
+    # m "*gasp*! Ellen! Did you get him hard!?\n{i}(All according to plan...){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:11803
+translate schinese marellen_324ad464:
+
+    # e "Well, not on purpose...!"
+    e ""
+
+# game/scripts/maria_events.rpy:11804
+translate schinese marellen_cea1e89f:
+
+    # m "Elln, you're such a harlot! I can't believe you're teasing him like that!"
+    m ""
+
+# game/scripts/maria_events.rpy:11805
+translate schinese marellen_f8273ca8:
+
+    # m "As a woman, it's your responsibility to take care of him~ Especially if you're the cause."
+    m ""
+
+# game/scripts/maria_events.rpy:11807
+translate schinese marellen_09ddcc4b:
+
+    # e "He's a man, he has ways of taking care of it himself..."
+    e ""
+
+# game/scripts/maria_events.rpy:11808
+translate schinese marellen_62829150:
+
+    # m "You're going to let him suffer?? How could you?"
+    m ""
+
+# game/scripts/maria_events.rpy:11809
+translate schinese marellen_efbd3b23:
+
+    # m "Ellen, there's no other way. You'll just have to fuck him!"
+    m ""
+
+# game/scripts/maria_events.rpy:11811
+translate schinese marellen_83787f78:
+
+    # e "What? No... he doesn't want that... right, [name]?"
+    e ""
+
+# game/scripts/maria_events.rpy:11814
+translate schinese marellen_3f6fd3c5:
+
+    # e "What? You would?"
+    e ""
+
+# game/scripts/maria_events.rpy:11815
+translate schinese marellen_392b9bcc:
+
+    # m "Yes! Yes! He wants to fuck your pussy HARD!"
+    m ""
+
+# game/scripts/maria_events.rpy:11816
+translate schinese marellen_2ce36ecb:
+
+    # c "If you're comfortable with it..."
+    c ""
+
+# game/scripts/maria_events.rpy:11817
+translate schinese marellen_5ad3ee77:
+
+    # e "Oh, well... I... I don't know...! I didn't think you really found me that attractive."
+    e ""
+
+# game/scripts/maria_events.rpy:11818
+translate schinese marellen_46e629ba:
+
+    # m "You're SO hot!!"
+    m ""
+
+# game/scripts/maria_events.rpy:11820
+translate schinese marellen_5203e281:
+
+    # e "Well then... I guess I have no choice, do I?"
+    e ""
+
+# game/scripts/maria_events.rpy:11821
+translate schinese marellen_c1b322db:
+
+    # e "As long as you don't cum inside me... I'll allow it..."
+    e ""
+
+# game/scripts/maria_events.rpy:11822
+translate schinese marellen_a4307858:
+
+    # m "Perfect! Yes! He'll do it! Just get on your knees already~!"
+    m ""
+
+# game/scripts/maria_events.rpy:11825
+translate schinese marellen_394d4a66:
+
+    # e "This place looks as good as any..."
+    e ""
+
+# game/scripts/maria_events.rpy:11826
+translate schinese marellen_d3e04d57:
+
+    # m "Heheheh! Ahh, you're killing it, Ellen!"
+    m ""
+
+# game/scripts/maria_events.rpy:11827
+translate schinese marellen_1814b530:
+
+    # e "Yes, yes... whenever you're ready, [name]..."
+    e ""
+
+# game/scripts/maria_events.rpy:11829
+translate schinese marellen_b451dfec:
+
+    # e "Oh! Well... aren't you excited?"
+    e ""
+
+# game/scripts/maria_events.rpy:11830
+translate schinese marellen_dbefcb80:
+
+    # e "Start slow, okay? It's been a while..."
+    e ""
+
+# game/scripts/maria_events.rpy:11831
+translate schinese marellen_7ea747df:
+
+    # m "Oh, yes~!"
+    m ""
+
+# game/scripts/maria_events.rpy:11833
+translate schinese marellen_c0594ce2:
+
+    # e "Ahh! Ohhh... that's, ehm! Mmmh! Yes... keep going, just like that..."
+    e ""
+
+# game/scripts/maria_events.rpy:11834
+translate schinese marellen_8b3e308e:
+
+    # m "Mmm! You're fucking her so good, [name]!"
+    m ""
+
+# game/scripts/maria_events.rpy:11835
+translate schinese marellen_20ab9ad0:
+
+    # e "Ahh... Maria, please... Mh!"
+    e ""
+
+# game/scripts/maria_events.rpy:11836
+translate schinese marellen_66858254:
+
+    # m "Having fun? Heheh."
+    m ""
+
+# game/scripts/maria_events.rpy:11837
+translate schinese marellen_96608e68:
+
+    # e "Ahhh! Mmh, Well, yes...! Mmh! I'm enjoying it very much...!"
+    e ""
+
+# game/scripts/maria_events.rpy:11838
+translate schinese marellen_b5720c01:
+
+    # e "Ah... it's been such a long time... Mmmh!"
+    e ""
+
+# game/scripts/maria_events.rpy:11841
+translate schinese marellen_379c62ca:
+
+    # e "Ahhh...! Yes...! MMH! Keep going...! Mh! Just don't cum inside, okay? Ahhh...!"
+    e ""
+
+# game/scripts/maria_events.rpy:11842
+translate schinese marellen_75e1b286:
+
+    # m "Mmmh, I would love to see her covered in your cum..."
+    m ""
+
+# game/scripts/maria_events.rpy:11843
+translate schinese marellen_2b0ec5ed:
+
+    # e "Yes... mmh! Yes, that's right..."
+    e ""
+
+# game/scripts/maria_events.rpy:11844
+translate schinese marellen_14e5c0d6:
+
+    # m "Hmmm? Maybe she's a secret cum slut..."
+    m ""
+
+# game/scripts/maria_events.rpy:11845
+translate schinese marellen_40b1f2b3:
+
+    # e "Ahhh! Yes... Mmh! Cum for me... cum whenever you'd like... ahh!"
+    e ""
+
+# game/scripts/maria_events.rpy:11846
+translate schinese marellen_415c3870:
+
+    # m "Do it [name], do it! Cum all over her!"
+    m ""
+
+# game/scripts/maria_events.rpy:11847
+translate schinese marellen_5f5fd672:
+
+    # e "Yes, mh! Yes, I'm ready for it! Ah!"
+    e ""
+
+# game/scripts/maria_events.rpy:11850
+translate schinese marellen_684a5573:
+
+    # e "Ahh! Ohhh... Oh wow... that was quite the load...!"
+    e ""
+
+# game/scripts/maria_events.rpy:11851
+translate schinese marellen_aa27c468:
+
+    # m "Ah~ wow! Look at her ass~! Mh!"
+    m ""
+
+# game/scripts/maria_events.rpy:11852
+translate schinese marellen_6975c6d7:
+
+    # e "Maria, what are you doing back there...?"
+    e ""
+
+# game/scripts/maria_events.rpy:11853
+translate schinese marellen_9ade73dd:
+
+    # m "Just enjoying the view..."
+    m ""
+
+# game/scripts/maria_events.rpy:11855
+translate schinese marellen_75177d6c:
+
+    # e "*ahem*... Well, I'm glad you were able to relax..."
+    e ""
+
+# game/scripts/maria_events.rpy:11858
+translate schinese marellen_66ec3756:
+
+    # e "Oh my... I can't believe I actually just did that... What has gotten into me?"
+    e ""
+
+# game/scripts/maria_events.rpy:11859
+translate schinese marellen_7cc0afae:
+
+    # e "I suppose I should get back to work... I can't leave the hotel unmanned for long!"
+    e ""
+
+# game/scripts/maria_events.rpy:11860
+translate schinese marellen_7d9f0aaa:
+
+    # m "Aww, what? Already?"
+    m ""
+
+# game/scripts/maria_events.rpy:11861
+translate schinese marellen_712a92db:
+
+    # e "Yes, *ahem*, yes... have a good day, you two!"
+    e ""
+
+# game/scripts/maria_events.rpy:11862
+translate schinese marellen_926d6688:
+
+    # c "Have a good one."
+    c ""
+
+# game/scripts/maria_events.rpy:11863
+translate schinese marellen_0e094ec4:
+
+    # m "Bye..."
+    m ""
+
+# game/scripts/maria_events.rpy:11865
+translate schinese marellen_68de7bc2:
+
+    # m "{i}Oh my god! You actually fucked her! That was amazing!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:11866
+translate schinese marellen_425df300:
+
+    # m "I was hoping {i}something{/i} would happen, but I didn't expect that! And you came all over her ass, too!"
+    m ""
+
+# game/scripts/maria_events.rpy:11867
+translate schinese marellen_0725f535:
+
+    # m "We have to team up more often! We could do a lot of bad together~ Heheh!"
+    m ""
+
+# game/scripts/maria_events.rpy:11868
+translate schinese marellen_a2817ad4:
+
+    # c "Sounds like a great deal to me."
+    c ""
+
+# game/scripts/maria_events.rpy:11869
+translate schinese marellen_e3ca28b0:
+
+    # m "Heheh! Alright! Maybe I could convince Lin to have a threesome, hm? I'll talk to her next!"
+    m ""
+
+# game/scripts/maria_events.rpy:11871
+translate schinese marellen_9dd7929d:
+
+    # m "But I'm always available too... and you know where I live, so, I'll leave that up to you..."
+    m ""
+
+# game/scripts/maria_events.rpy:11872
+translate schinese marellen_80445a06:
+
+    # c "I might pay you a visit soon."
+    c ""
+
+# game/scripts/maria_events.rpy:11873
+translate schinese marellen_1cba441d:
+
+    # m "Mmmh..."
+    m ""
+
+# game/scripts/maria_events.rpy:11875
+translate schinese marellen_5fe6c889:
+
+    # m "But okay! I'll get to planning! See you!"
+    m ""
+
+# game/scripts/maria_events.rpy:11876
+translate schinese marellen_1b3f8b6a:
+
+    # c "Hah, alright. Get to it."
+    c ""
+
+# game/scripts/maria_events.rpy:11886
+translate schinese marellen_73f37f8b:
+
+    # e "Right... exactly... Feel free to help him yourself, Maria."
+    e ""
+
+# game/scripts/maria_events.rpy:11888
+translate schinese marellen_d786cb82:
+
+    # m "...{i}Seriously, dude?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:11889
+translate schinese marellen_ab5a5300:
+
+    # m "*exhale*... nevermind. I'm gonna take a nap..."
+    m ""
+
+# game/scripts/maria_events.rpy:12155
+translate schinese mardate_66ffbeb1:
+
+    # durn "Welcome to Fouquet's, my name is Durn, do you have a reservation with us?"
+    durn ""
+
+# game/scripts/maria_events.rpy:12156
+translate schinese mardate_be439750:
+
+    # c "We do not."
+    c ""
+
+# game/scripts/maria_events.rpy:12157
+translate schinese mardate_8ba6d7b9:
+
+    # durn "Not to worry, we have a table available to you. Right this way..."
+    durn ""
+
+# game/scripts/maria_events.rpy:12159
+translate schinese mardate_7f7fade4:
+
+    # durn "Can I get you two started off with something to drink?"
+    durn ""
+
+# game/scripts/maria_events.rpy:12160
+translate schinese mardate_a68b9eb9:
+
+    # m "A cherry cocktail for me, please."
+    m ""
+
+# game/scripts/maria_events.rpy:12161
+translate schinese mardate_3453293a:
+
+    # c "Make that two."
+    c ""
+
+# game/scripts/maria_events.rpy:12162
+translate schinese mardate_793d9bc9:
+
+    # durn "Wonderful. Allow me a moment to get back to you."
+    durn ""
+
+# game/scripts/maria_events.rpy:12164
+translate schinese mardate_64328bde:
+
+    # m "It's pretty busy today, huh? Lucky we got a seat."
+    m ""
+
+# game/scripts/maria_events.rpy:12165
+translate schinese mardate_c8f94bd2:
+
+    # c "You chose well."
+    c ""
+
+# game/scripts/maria_events.rpy:12166
+translate schinese mardate_079f912c:
+
+    # m "The steak and salad here is the best! You have to try it."
+    m ""
+
+# game/scripts/maria_events.rpy:12168
+translate schinese mardate_5f353e70:
+
+    # m "And the atmosphere, it's so nice. You get a really good view of Caliber from here."
+    m ""
+
+# game/scripts/maria_events.rpy:12170
+translate schinese mardate_fed20c76:
+
+    # m "So what are you going to get? I already know my order~"
+    m ""
+
+# game/scripts/maria_events.rpy:12171
+translate schinese mardate_b3a1b14f:
+
+    # c "I think I'll go with your recommendation."
+    c ""
+
+# game/scripts/maria_events.rpy:12172
+translate schinese mardate_6acf6c57:
+
+    # m "Copycat..."
+    m ""
+
+# game/scripts/maria_events.rpy:12173
+translate schinese mardate_4068798c:
+
+    # m "You can buy anything you want, don't feel bad just because I'm paying. Streaming has its benefits, you know?"
+    m ""
+
+# game/scripts/maria_events.rpy:12174
+translate schinese mardate_3be8ec0c:
+
+    # c "How did you get into streaming anyway?"
+    c ""
+
+# game/scripts/maria_events.rpy:12176
+translate schinese mardate_a04b6faa:
+
+    # m "Oh that? Well... I was pretty popular with all the guys in college. Not that entertained them, but I could have..."
+    m ""
+
+# game/scripts/maria_events.rpy:12178
+translate schinese mardate_4d25b6f9:
+
+    # m "I was the head cheerleader of our football team. The attention was nice, but the crowd was... not great."
+    m ""
+
+# game/scripts/maria_events.rpy:12179
+translate schinese mardate_2d8d5a47:
+
+    # m "I needed money, and I was way too busy with college to get a typical job... so... I worked with what I had."
+    m ""
+
+# game/scripts/maria_events.rpy:12180
+translate schinese mardate_f4d63c5d:
+
+    # m "And I hated my roommate at the time, so I needed out..."
+    m ""
+
+# game/scripts/maria_events.rpy:12182
+translate schinese mardate_edacccc7:
+
+    # m "Hey, you don't think I'm easy, do you...?"
+    m ""
+
+# game/scripts/maria_events.rpy:12186
+translate schinese mardate_81c6dcda:
+
+    # m "What? Dude, that was like- the easiest question to answer..."
+    m ""
+
+# game/scripts/maria_events.rpy:12188
+translate schinese mardate_171133a4:
+
+    # m "If you thought I like to get back at all my boyfriends by sucking some hotel manager's dick, you're wrong. My ex was an asshole, it was never going to work out, and... you were kind of cute."
+    m ""
+
+# game/scripts/maria_events.rpy:12189
+translate schinese mardate_db031ce8:
+
+    # m "You were there... I was kind of horny... It was a little spontaneous, sure..."
+    m ""
+
+# game/scripts/maria_events.rpy:12191
+translate schinese mardate_c40029c5:
+
+    # m "I've only had like... 5 boyfriends. Well maybe 6. When I was 8 years old I guess I was {i}kind of{/i} in a relationship with a boy. As much as you can be at 8 anyway..."
+    m ""
+
+# game/scripts/maria_events.rpy:12192
+translate schinese mardate_03090d91:
+
+    # m "But don't judge me!"
+    m ""
+
+# game/scripts/maria_events.rpy:12195
+translate schinese mardate_57bc0625:
+
+    # m "Good... because I'm not. Even if I like to flaunt what I have, that doesn't mean I'm a slut... I won't let just anyone touch me, you know?"
+    m ""
+
+# game/scripts/maria_events.rpy:12196
+translate schinese mardate_36b97602:
+
+    # m "I don't like to get back at all my boyfriends by sucking some hotel manager's dick, you know... haha."
+    m ""
+
+# game/scripts/maria_events.rpy:12198
+translate schinese mardate_f2f59089:
+
+    # m "My ex was an asshole, it was never going to work out, and... you were kind of cute."
+    m ""
+
+# game/scripts/maria_events.rpy:12199
+translate schinese mardate_db031ce8_1:
+
+    # m "You were there... I was kind of horny... It was a little spontaneous, sure..."
+    m ""
+
+# game/scripts/maria_events.rpy:12200
+translate schinese mardate_14651abd:
+
+    # m "But don't judge me, haha!"
+    m ""
+
+# game/scripts/maria_events.rpy:12203
+translate schinese mardate_11f8942e:
+
+    # m "Seriously...?"
+    m ""
+
+# game/scripts/maria_events.rpy:12204
+translate schinese mardate_68d2a62a:
+
+    # m "Look, if you thought I like to get back at all my boyfriends by sucking some hotel manager's dick, you're wrong. My ex was an asshole, it was never going to work out, and... you were kind of cute."
+    m ""
+
+# game/scripts/maria_events.rpy:12205
+translate schinese mardate_db031ce8_2:
+
+    # m "You were there... I was kind of horny... It was a little spontaneous, sure..."
+    m ""
+
+# game/scripts/maria_events.rpy:12206
+translate schinese mardate_fe0736eb_1:
+
+    # m "And who are you calling a slut anyway? You fuck the girls at the hotel like every day!"
+    m ""
+
+# game/scripts/maria_events.rpy:12207
+translate schinese mardate_c40029c5_1:
+
+    # m "I've only had like... 5 boyfriends. Well maybe 6. When I was 8 years old I guess I was {i}kind of{/i} in a relationship with a boy. As much as you can be at 8 anyway..."
+    m ""
+
+# game/scripts/maria_events.rpy:12208
+translate schinese mardate_03090d91_1:
+
+    # m "But don't judge me!"
+    m ""
+
+# game/scripts/maria_events.rpy:12210
+translate schinese mardate_af21caeb:
+
+    # durn "Your drinks... enjoy."
+    durn ""
+
+# game/scripts/maria_events.rpy:12211
+translate schinese mardate_21d7fd4e:
+
+    # m "Oh, thank you!"
+    m ""
+
+# game/scripts/maria_events.rpy:12212
+translate schinese mardate_8bf2db25:
+
+    # durn "Have you decided what you would like to eat?"
+    durn ""
+
+# game/scripts/maria_events.rpy:12213
+translate schinese mardate_fcb55517:
+
+    # m "Two steak and salads, please."
+    m ""
+
+# game/scripts/maria_events.rpy:12214
+translate schinese mardate_e1f675c3:
+
+    # durn "Right away."
+    durn ""
+
+# game/scripts/maria_events.rpy:12218
+translate schinese mardate_ace633fc:
+
+    # m "Now, I hope you're ready for my questions... they're pretty serious..."
+    m ""
+
+# game/scripts/maria_events.rpy:12220
+translate schinese mardate_a3e93910:
+
+    # m "Let's start off with something... light.\nHow do you like your coffee?"
+    m ""
+
+# game/scripts/maria_events.rpy:12232
+translate schinese mardate_070a9d44:
+
+    # m "Oh, really? Okay..."
+    m ""
+
+# game/scripts/maria_events.rpy:12235
+translate schinese mardate_4682d181:
+
+    # m "Next question... what's your favorite food? Like if you could only have one for the rest of your life, what would it be...?"
+    m ""
+
+# game/scripts/maria_events.rpy:12240
+translate schinese mardate_f21ee0fa:
+
+    # m "That makes sense..."
+    m ""
+
+# game/scripts/maria_events.rpy:12246
+translate schinese mardate_7ed3b5bd:
+
+    # m "Good thing we came here then, haha!"
+    m ""
+
+# game/scripts/maria_events.rpy:12257
+translate schinese mardate_fd6aec28:
+
+    # m "Interesting... almost reminds me of Ashley..."
+    m ""
+
+# game/scripts/maria_events.rpy:12258
+translate schinese mardate_7543ea61:
+
+    # c "Huh?"
+    c ""
+
+# game/scripts/maria_events.rpy:12259
+translate schinese mardate_5942526c:
+
+    # m "Nevermind... forget it."
+    m ""
+
+# game/scripts/maria_events.rpy:12263
+translate schinese mardate_f879e3e7:
+
+    # m "Hm, kind of like Kali..."
+    m ""
+
+# game/scripts/maria_events.rpy:12264
+translate schinese mardate_7543ea61_1:
+
+    # c "Huh?"
+    c ""
+
+# game/scripts/maria_events.rpy:12265
+translate schinese mardate_5942526c_1:
+
+    # m "Nevermind... forget it."
+    m ""
+
+# game/scripts/maria_events.rpy:12269
+translate schinese mardate_7b18c26a:
+
+    # m "So, like Lin...?"
+    m ""
+
+# game/scripts/maria_events.rpy:12270
+translate schinese mardate_7543ea61_2:
+
+    # c "Huh?"
+    c ""
+
+# game/scripts/maria_events.rpy:12271
+translate schinese mardate_5942526c_2:
+
+    # m "Nevermind... forget it."
+    m ""
+
+# game/scripts/maria_events.rpy:12273
+translate schinese mardate_ad96a4da:
+
+    # m "Heheh, that's good to know..."
+    m ""
+
+# game/scripts/maria_events.rpy:12277
+translate schinese mardate_6df65e61:
+
+    # m "Okay, next question. I'll be direct this time... what's your type?"
+    m ""
+
+# game/scripts/maria_events.rpy:12298
+translate schinese mardate_1bac63df:
+
+    # m "Oh really? That's surprising... I'd love to see you and Ellen together..."
+    m ""
+
+# game/scripts/maria_events.rpy:12302
+translate schinese mardate_4d1f1c9f:
+
+    # m "That's not what I asked, but... good answer."
+    m ""
+
+# game/scripts/maria_events.rpy:12324
+translate schinese mardate_ea2947e0:
+
+    # m "Alright, and... what's your favorite part of a woman?"
+    m ""
+
+# game/scripts/maria_events.rpy:12331
+translate schinese mardate_c90ed01d:
+
+    # m "I mean, that's cool and all, but... ugh, my ex was into feet..."
+    m ""
+
+# game/scripts/maria_events.rpy:12332
+translate schinese mardate_4bcb453b:
+
+    # c "Oh."
+    c ""
+
+# game/scripts/maria_events.rpy:12333
+translate schinese mardate_0579cc20:
+
+    # m "Yyyyeah..."
+    m ""
+
+# game/scripts/maria_events.rpy:12335
+translate schinese mardate_0086ad33:
+
+    # m "I'd have to agree, haha. Women are pieces of art, aren't they?"
+    m ""
+
+# game/scripts/maria_events.rpy:12337
+translate schinese mardate_af37d647:
+
+    # m "I can see why. Women are pieces of art, aren't they?"
+    m ""
+
+# game/scripts/maria_events.rpy:12339
+translate schinese mardate_7b826ded:
+
+    # m "Interesting... Women are pieces of art, aren't they?"
+    m ""
+
+# game/scripts/maria_events.rpy:12344
+translate schinese mardate_5a6639e0:
+
+    # m "Usually guys say 'ass' or 'boobs', it's... refreshing. Women are pieces of art, aren't they?"
+    m ""
+
+# game/scripts/maria_events.rpy:12347
+translate schinese mardate_58dc7fd8:
+
+    # m "Next question... what's your favorite breast size?"
+    m ""
+
+# game/scripts/maria_events.rpy:12354
+translate schinese mardate_21d889c7:
+
+    # m "You basically just said you like Ashley to my face... while you're on a date with me."
+    m ""
+
+# game/scripts/maria_events.rpy:12355
+translate schinese mardate_8cc9dca2:
+
+    # c "No, I didn't mean that, I just-"
+    c ""
+
+# game/scripts/maria_events.rpy:12356
+translate schinese mardate_bb8b82f4:
+
+    # m "-I can't deflate my boobs for you..."
+    m ""
+
+# game/scripts/maria_events.rpy:12357
+translate schinese mardate_af20abe5:
+
+    # m "I have great boobs, okay?"
+    m ""
+
+# game/scripts/maria_events.rpy:12358
+translate schinese mardate_bd51d070:
+
+    # c "I agree, I just-"
+    c ""
+
+# game/scripts/maria_events.rpy:12359
+translate schinese mardate_44dd6dbf:
+
+    # m "-Ugh, forget it... It's not a big deal."
+    m ""
+
+# game/scripts/maria_events.rpy:12366
+translate schinese mardate_e10da74d:
+
+    # m "Oh, good. I was getting a little worried..."
+    m ""
+
+# game/scripts/maria_events.rpy:12374
+translate schinese mardate_adc16ce5:
+
+    # m "Really? Like, how massive?"
+    m ""
+
+# game/scripts/maria_events.rpy:12375
+translate schinese mardate_f36484fd:
+
+    # c "If they're smaller than her head, they're too small for me."
+    c ""
+
+# game/scripts/maria_events.rpy:12376
+translate schinese mardate_ddab50d4:
+
+    # m "Ergh, men..."
+    m ""
+
+# game/scripts/maria_events.rpy:12380
+translate schinese mardate_cbc94379:
+
+    # m "Oh, really? That's new..."
+    m ""
+
+# game/scripts/maria_events.rpy:12385
+translate schinese mardate_815133f6:
+
+    # c "You have no filter, do you?"
+    c ""
+
+# game/scripts/maria_events.rpy:12386
+translate schinese mardate_30830438:
+
+    # m "I like to get it out of the way ahead of time, you know? Leaves room for fun later..."
+    m ""
+
+# game/scripts/maria_events.rpy:12397
+translate schinese mardate_f7c8a8ca:
+
+    # m "Good... same here."
+    m ""
+
+# game/scripts/maria_events.rpy:12401
+translate schinese mardate_bce4b4bd:
+
+    # c "So you're interested...?"
+    c ""
+
+# game/scripts/maria_events.rpy:12402
+translate schinese mardate_88972483:
+
+    # m "I suppose~"
+    m ""
+
+# game/scripts/maria_events.rpy:12408
+translate schinese mardate_34c1a412:
+
+    # m "-Oh my god!" with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:12410
+translate schinese mardate_0548eec0:
+
+    # m "That's my ex! He's here! And he's with a girl...!? Fuck!"
+    m ""
+
+# game/scripts/maria_events.rpy:12411
+translate schinese mardate_f589f906:
+
+    # m "Oh my god... he sees me! Fuck, fuck! He's coming over here! {i}I want to die...!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:12413
+translate schinese mardate_49f10158:
+
+    # mex "Look who it is..."
+    mex ""
+
+# game/scripts/maria_events.rpy:12415
+translate schinese mardate_12b04bf5:
+
+    # woman "Babe, what are you doing...?"
+    woman ""
+
+# game/scripts/maria_events.rpy:12416
+translate schinese mardate_645b7812:
+
+    # mex "Wasn't this where we went on our first date together? Now you're taking other dudes here, huh? You never change..."
+    mex ""
+
+# game/scripts/maria_events.rpy:12417
+translate schinese mardate_e5f8830a:
+
+    # m "What is that supposed to mean?"
+    m ""
+
+# game/scripts/maria_events.rpy:12418
+translate schinese mardate_476781aa:
+
+    # c "This is your ex, Maria? He looks like a frog..."
+    c ""
+
+# game/scripts/maria_events.rpy:12420
+translate schinese mardate_afe5ffdd:
+
+    # mex "Huh, seriously? This is who you dumped me for? He looks like a dumb bitch."
+    mex ""
+
+# game/scripts/maria_events.rpy:12421
+translate schinese mardate_4a328958:
+
+    # c "Watch it, kid..."
+    c ""
+
+# game/scripts/maria_events.rpy:12422
+translate schinese mardate_96589d98:
+
+    # woman "Babe, this is totally awkward... can we just eat?"
+    woman ""
+
+# game/scripts/maria_events.rpy:12424
+translate schinese mardate_f281a85d:
+
+    # m "Don't worry [name], he's harmless. He's just mad he saw your cum all over my face..."
+    m ""
+
+# game/scripts/maria_events.rpy:12425
+translate schinese mardate_e96e4ce1:
+
+    # mex "I always knew you were a whore..."
+    mex ""
+
+# game/scripts/maria_events.rpy:12427
+translate schinese mardate_e122b3ef:
+
+    # m "[name] owns a hotel... you barely even own a car. I wouldn't be talking if I were you..."
+    m ""
+
+# game/scripts/maria_events.rpy:12428
+translate schinese mardate_c7c822aa:
+
+    # m "Plus he's nice, he cares for me, AND his dick is like twice as big as yours. You do remember it, don't you? I'm sure you saved it so you could jerk off to it later..."
+    m ""
+
+# game/scripts/maria_events.rpy:12429
+translate schinese mardate_3ea54b27:
+
+    # m "How many times did you cum, huh? 5? 10? 100?\nAnd hey lady, aren't you embarrassed to be on a date with a guy dressed up like that...? You can do better."
+    m ""
+
+# game/scripts/maria_events.rpy:12430
+translate schinese mardate_d4ffe333:
+
+    # mex "Dumb bitch...!"
+    mex ""
+
+# game/scripts/maria_events.rpy:12432
+translate schinese mardate_c7a0bafc:
+
+    # c "Watch your mouth."
+    c ""
+
+# game/scripts/maria_events.rpy:12433
+translate schinese mardate_498db941:
+
+    # mex "Or what?"
+    mex ""
+
+# game/scripts/maria_events.rpy:12434
+translate schinese mardate_b49d310d:
+
+    # c "Or you're going to regret it."
+    c ""
+
+# game/scripts/maria_events.rpy:12435
+translate schinese mardate_c0f6eb33:
+
+    # mex "Stay out of it. And leave her now if you don't want to get hurt. From one guy to another, I'm just warning you..."
+    mex ""
+
+# game/scripts/maria_events.rpy:12436
+translate schinese mardate_bdfc1506:
+
+    # c "I didn't ask for your advice."
+    c ""
+
+# game/scripts/maria_events.rpy:12437
+translate schinese mardate_15404811:
+
+    # woman "This is so weird...! Let's just go!"
+    woman ""
+
+# game/scripts/maria_events.rpy:12438
+translate schinese mardate_bf1c0673:
+
+    # mex "We have a dinner to get to, but you better watch that dumb bit-"
+    mex ""
+
+# game/scripts/maria_events.rpy:12441
+translate schinese mardate_bc5175af:
+
+    # woman "Baby!!"
+    woman ""
+
+# game/scripts/maria_events.rpy:12442
+translate schinese mardate_b5b23f73:
+
+    # m "Oh my god!!"
+    m ""
+
+# game/scripts/maria_events.rpy:12444
+translate schinese mardate_bdfcbd8e:
+
+    # woman "Oh my god! Baby, baby! Can you hear me??"
+    woman ""
+
+# game/scripts/maria_events.rpy:12445
+translate schinese mardate_fc087e8e:
+
+    # m "He's out cold...! Holy shit! I can't believe you knocked him out!"
+    m ""
+
+# game/scripts/maria_events.rpy:12446
+translate schinese mardate_1f5e9b72:
+
+    # c "I didn't mean to hit him that hard..."
+    c ""
+
+# game/scripts/maria_events.rpy:12448
+translate schinese mardate_314be290:
+
+    # m "{i}That was kinda hot... nobody has ever hit someone for me before... but you stood up and protected me~{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:12450
+translate schinese mardate_a6498e06:
+
+    # c "Good idea..."
+    c ""
+
+# game/scripts/maria_events.rpy:12452
+translate schinese mardate_3a5c4808:
+
+    # "You leave some money on the table, hopefully enough to cover it, then you rush back to your car, leaving Maria's ex out cold on the ground."
+    ""
+
+# game/scripts/maria_events.rpy:12453
+translate schinese mardate_b8ab757d:
+
+    # "Before you go to the hotel, you grab a quick snack from Juicy Burger, both of you chatting and giggling the whole way there and to the hotel."
+    ""
+
+# game/scripts/maria_events.rpy:12454
+translate schinese mardate_6cdd9f9a:
+
+    # "Before you have a chance to enter the hotel, Maria grabs your arm and kisses you on the cheek."
+    ""
+
+# game/scripts/maria_events.rpy:12456
+translate schinese mardate_264d8525:
+
+    # m "Thanks for taking me out today, [name]..."
+    m ""
+
+# game/scripts/maria_events.rpy:12457
+translate schinese mardate_981cd38a:
+
+    # c "Of course... I really enjoyed my time with you."
+    c ""
+
+# game/scripts/maria_events.rpy:12458
+translate schinese mardate_8cb2cd69:
+
+    # m "Me too..."
+    m ""
+
+# game/scripts/maria_events.rpy:12460
+translate schinese mardate_cd777f2b:
+
+    # m "Soooo... I guess we're a thing now, huh? I mean officially..."
+    m ""
+
+# game/scripts/maria_events.rpy:12461
+translate schinese mardate_f3b4faf9:
+
+    # m "You did hit my ex over me, aftera all. Heheh..."
+    m ""
+
+# game/scripts/maria_events.rpy:12462
+translate schinese mardate_c7fe4d0e:
+
+    # c "I guess so..."
+    c ""
+
+# game/scripts/maria_events.rpy:12463
+translate schinese mardate_ef0af369:
+
+    # m "Cool... I guess I'll see you around then, {i}boyfriend...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:12464
+translate schinese mardate_a6a880e0:
+
+    # c "Until then, {i}girlfriend.{/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:12471
+translate schinese mark_b82601d1:
+
+    # m "Hey [name]~! I figured out what my gift to Kali is going to be... want to hear it?"
+    m ""
+
+# game/scripts/maria_events.rpy:12473
+translate schinese mark_0fa4e791:
+
+    # m "I was thinking of giving Kali one of my old cheerleader uniforms. I cut the skirt very short, heheh!"
+    m ""
+
+translate schinese strings:
+
+    # game/scripts/maria_events.rpy:9238
+    old "I understand you..."
+    new ""
+
+    # game/scripts/maria_events.rpy:9238
+    old "I feel for you."
+    new ""
+
+    # game/scripts/maria_events.rpy:9336
+    old "If that's what you need."
+    new ""
+
+    # game/scripts/maria_events.rpy:9336
+    old "We can work this out together."
+    new ""
+
+    # game/scripts/maria_events.rpy:11270
+    old "Hold on, call him back."
+    new ""
+
+    # game/scripts/maria_events.rpy:11270
+    old "This is serious..."
+    new ""
+
+    # game/scripts/maria_events.rpy:11321
+    old "Let's do it."
+    new ""
+
+    # game/scripts/maria_events.rpy:11688
+    old "We'll see..."
+    new ""
+
+    # game/scripts/maria_events.rpy:11812
+    old "I would love that."
+    new ""
+
+    # game/scripts/maria_events.rpy:11812
+    old "Not at all."
+    new ""
+
+    # game/scripts/maria_events.rpy:12183
+    old "Yes, very."
+    new ""
+
+    # game/scripts/maria_events.rpy:12183
+    old "I mean, a little..."
+    new ""
+
+    # game/scripts/maria_events.rpy:12221
+    old "Blonde"
+    new ""
+

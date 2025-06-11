@@ -65,6 +65,12 @@ translate schinese strings:
     old "Mrs. Cornwall"
     new "康沃尔夫人"
 
+    old "Minister Cornwall"
+    new "康沃尔部长"
+
+    old "Minister Corpus"
+    new "科普斯教长"
+
     old "Mr. Carter"
     new "卡特先生"
 
@@ -430,3 +436,24 @@ translate schinese strings:
 
     old "Waitress"
     new "女服务员"
+
+    old "Maria's Ex-Boyfriend"
+    new "玛丽亚的前男友"
+
+    old "Brown-Haired Woman"
+    new "棕发女性"
+
+    old "Blonde-Haired Woman"
+    new "金发女性"
+
+    old "Reporter"
+    new "记者"
+
+    old "CEO of Juicy Burger"
+    new "多汁汉堡CEO"
+
+    old "Joshua"
+    new "约书亚"
+
+    old "Thug"
+    new "暴徒"

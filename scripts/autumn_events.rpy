@@ -35347,7 +35347,7 @@ translate schinese aut_dare_053c2b98:
 translate schinese aut_dare_f808b158:
 
     # arbiter "Now tell me... would you have preferred I let your father - the holy chancellor - die?"
-    arbiter "现在告诉我......你是否希望我让你的父亲,神圣的议长,死去？"
+    arbiter "现在告诉我......你是否希望我让你的父亲,神圣的议长,死去?"
 
 # game/scripts/autumn_events.rpy:237
 translate schinese aut_dare_e1025639:
@@ -36316,4 +36316,66 @@ translate schinese aut_sleep_event_16413cbf:
 
     # au "I needed answers after what we found in Old Town. It turns out they sacrificed an elf to replace my dad's heart..."
     au "在我们发现老城区那些事情之后,我需要一个答案.原来,他们牺牲了一个精灵,来给我爸爸替换心脏."
+
+# TODO: Translation updated at 2025-06-12 01:06
+
+# game/scripts/autumn_events.rpy:236
+translate schinese aut_dare_3cd91e9d:
+
+    # arbiter "Now tell me... would you have preferred I let your father - the holy minister - die?"
+    arbiter "现在告诉我......你是否希望我让神圣的教长,也就是你的父亲,死去?"
+
+# game/scripts/autumn_events.rpy:3595
+translate schinese aut_church_9ee5b63a:
+
+    # gaian "{i}{size=-5}...I'm not saying it was one of the Minister's daughters, but she had orange hair!{/size}{/i}"
+    gaian "{i}{size=-5}......我不确定那就是教长的女儿,但是她的头发是橙色的!{/size}{/i}"
+
+# game/scripts/autumn_events.rpy:3601
+translate schinese aut_church_1df61147:
+
+    # gaian "{i}{size=-5}I don't know if an elf has a soul. The Minister seems to believe so...{/size}{/i}"
+    gaian "{i}{size=-5}我不确定精灵有没有灵魂.但是教长似乎认为他们有......{/size}{/i}"
+
+# game/scripts/autumn_events.rpy:3605
+translate schinese aut_church_f447601a:
+
+    # gaian "{i}{size=-5}Bah! Minister Corpus should stay out of politics. We've built the best nation the world has ever seen with slaves, why does he want to ruin everything? This is clearly Gaius' path for us.{/size}{/i}"
+    gaian "{i}{size=-5}哇!科普斯教长应该远离政治.我们用奴隶建立了世界上最好的国家,他为什么要毁掉一切?这显然是盖乌斯为我们指明的道路.{/size}{/i}"
+
+# game/scripts/autumn_events.rpy:3762
+translate schinese aut_church_67a71d53:
+
+    # bis "Yes. Being the Minister's daughters, you're already very well known and hold prestige within our church. As I understand it, no other titles have been given to the Minister's daughters. Lily and Abby already agree with this decision."
+    bis "是的.作为教长的女儿,你们在教会里颇有名气.据我所知,教长的女儿还没有其他头衔.莉莉和艾比都已经同意这个决定了."
+
+# game/scripts/autumn_events.rpy:9526
+translate schinese autumn_news_ff271037:
+
+    # news24 "Just in; Minister Corpus will host a 'Unite The People' rally in Caliber City at noon today."
+    news24 "最新消息:今天中午,科普斯教长将在楷利泊市举办'团结人民'集会."
+
+# game/scripts/autumn_events.rpy:9531
+translate schinese autumn_news_c539d5c5:
+
+    # news24 "Back on his feet only days after his second heart attack, Minister Corpus is - in his own words - {i}intent on uniting the Human and Elvish peoples through faith in Gaius.{/i}"
+    news24 "科普斯教长在第二次心脏病发作后仅几天就重新站了起来,他说,{i}打算通过对盖乌斯的信仰来团结人类和精灵.{/i}"
+
+# game/scripts/autumn_events.rpy:9538
+translate schinese autumn_news_06da767f:
+
+    # news24 "Elf Queen Jia is planned to speak at the Minister's rally as well, she promises a lovely surprise."
+    news24 "精灵女王贾也计划在教长的集会上发言,她承诺会给大家一个惊喜."
+
+# game/scripts/autumn_events.rpy:9651
+translate schinese autumn_news_3eff57b0:
+
+    # mcorn "Is something wrong, Minister?"
+    mcorn "出什么事了吗,教长?"
+
+# game/scripts/autumn_events.rpy:9698
+translate schinese autumn_news_e41f6ac2:
+
+    # lily "Very sorry to interrupt... Minister, your presence is requested."
+    lily "不好意思,打扰你们了......教长,您该出席了."
 

@@ -107498,3 +107498,721 @@ translate schinese strings:
     old "Head over"
     new "前往"
 
+# TODO: Translation updated at 2025-06-12 01:06
+
+# game/script.rpy:6664
+translate schinese lobby_0dc8ce52:
+
+    # m "Heyyy [name]! Would you like to go on a date with me? I wanna get to know you a bit better..."
+    m ""
+
+# game/script.rpy:6670
+translate schinese lobby_543fcf4a:
+
+    # c "Are you sure?"
+    c ""
+
+# game/script.rpy:6671
+translate schinese lobby_4bb0324e:
+
+    # m "Yeah, I want to treat you this time."
+    m ""
+
+# game/script.rpy:6672
+translate schinese lobby_bf088d52:
+
+    # m "Now let's get dressed! I'm starving~"
+    m ""
+
+# game/script.rpy:6674
+translate schinese lobby_43efc2ae:
+
+    # "You both get dressed then hop in your car. Maria gives you directions and soon you arrive. She was right, it's very fancy. It's the kind of place that serves premium steak and lobster at marked up prices."
+    ""
+
+# game/script.rpy:6971
+translate schinese floor1menu_ef251cd9:
+
+    # c "Lin is safe at Nia's hideout, she's not here."
+    c ""
+
+# game/script.rpy:8016
+translate schinese kali_door_menu_4c3d0d09:
+
+    # c "I wonder what Kali's up to right now..."
+    c ""
+
+# game/script.rpy:12858
+translate schinese explore_cafe4_f2647185:
+
+    # c "I need a coffee..."
+    c ""
+
+# game/script.rpy:12861
+translate schinese explore_cafe4_7129f837:
+
+    # c "Ah... that was good. I might get another."
+    c ""
+
+# game/script.rpy:12863
+translate schinese explore_cafe4_6f79f700:
+
+    # brownwoman "Wow, this place is kinda nice actually. It gives retro proverty vibes."
+    brownwoman ""
+
+# game/script.rpy:12864
+translate schinese explore_cafe4_73f8c51a:
+
+    # blondewoman "I know right? Chat's going to love it!"
+    blondewoman ""
+
+# game/script.rpy:12865
+translate schinese explore_cafe4_8c8ee630:
+
+    # c "{i}(The hell...?){/i}"
+    c ""
+
+# game/script.rpy:12867
+translate schinese explore_cafe4_36f40128:
+
+    # c "{i}(None of my business...){/i}"
+    c ""
+
+# game/script.rpy:12869
+translate schinese explore_cafe4_924c17f1:
+
+    # ha "Next please."
+    ha ""
+
+# game/script.rpy:12870
+translate schinese explore_cafe4_6b69e2cc:
+
+    # brownwoman "Ugh, there aren't any elves that work here?"
+    brownwoman ""
+
+# game/script.rpy:12871
+translate schinese explore_cafe4_ddafc796:
+
+    # blondewoman "They don't have to know that..."
+    blondewoman ""
+
+# game/script.rpy:12872
+translate schinese explore_cafe4_423c5d88:
+
+    # ha "Uh, hello..."
+    ha ""
+
+# game/script.rpy:12874
+translate schinese explore_cafe4_904dbebf:
+
+    # brownwoman "Hello! One matcha latte, please. A rustic elf-made blend."
+    brownwoman ""
+
+# game/script.rpy:12875
+translate schinese explore_cafe4_5aeb957b:
+
+    # ha "All the coffee here is made by humans. It's kind of our thing..."
+    ha ""
+
+# game/script.rpy:12876
+translate schinese explore_cafe4_f6eb6df5:
+
+    # blondewoman "What? This has to be, like, the only restaurant that hires humans!"
+    blondewoman ""
+
+# game/script.rpy:12877
+translate schinese explore_cafe4_0099aee4:
+
+    # ha "It's a family owned business..."
+    ha ""
+
+# game/script.rpy:12879
+translate schinese explore_cafe4_8679335c:
+
+    # blondewoman "{i}That kind of ruins the narrative...{/i}"
+    blondewoman ""
+
+# game/script.rpy:12880
+translate schinese explore_cafe4_c7080009:
+
+    # brownwoman "{i}Whatever girl, they won't know the difference.{/i}"
+    brownwoman ""
+
+# game/script.rpy:12881
+translate schinese explore_cafe4_b5e0defd:
+
+    # ha "The coffee beans are imported from Syl'tin. They're probably harvested by elves, if that means anything to you..."
+    ha ""
+
+# game/script.rpy:12883
+translate schinese explore_cafe4_1329fe1a:
+
+    # brownwoman "Oh perfect! Yes, we'll have two actually!"
+    brownwoman ""
+
+# game/script.rpy:12884
+translate schinese explore_cafe4_57a00ddf:
+
+    # ha "Okay... you can pay on the screen below you."
+    ha ""
+
+# game/script.rpy:12886
+translate schinese explore_cafe4_e5bd67d8:
+
+    # c "I should probably get going."
+    c ""
+
+# game/script.rpy:12888
+translate schinese explore_cafe4_44c7b2e6:
+
+    # brownwoman "Hey chaaat~! Today we're supporting the elves by purchasing the coffee they worked so hard to make!"
+    brownwoman ""
+
+# game/script.rpy:12889
+translate schinese explore_cafe4_3b36f706:
+
+    # c "{i}(Oh brother...){/i}"
+    c ""
+
+# game/script.rpy:12891
+translate schinese explore_cafe4_253ff431:
+
+    # brownwoman "The slave making our coffee was totally cute! But we're not going to film him to protect his identity..."
+    brownwoman ""
+
+# game/script.rpy:12892
+translate schinese explore_cafe4_8845039a:
+
+    # blondewoman "Yeahhhh, we totally feel bad for them. Like, they didn't ask to be slaves!"
+    blondewoman ""
+
+# game/script.rpy:12894
+translate schinese explore_cafe4_dabef10c:
+
+    # brownwoman "Yeah, like my first job, I was a cashier... #RealStruggles."
+    brownwoman ""
+
+# game/script.rpy:12895
+translate schinese explore_cafe4_19141b34:
+
+    # blondewoman "Next we'll be going to the slums to give away these matcha lattes to starving slaves in need! They'll be so grateful, right chat?"
+    blondewoman ""
+
+# game/script.rpy:12896
+translate schinese explore_cafe4_ca1d4d44:
+
+    # c "!?"
+    c ""
+
+# game/script.rpy:12897
+translate schinese explore_cafe4_8688bc72:
+
+    # brownwoman "We could only afford two though, so keep donating so we can help more!"
+    brownwoman ""
+
+# game/script.rpy:12899
+translate schinese explore_cafe4_d71b92c2:
+
+    # blondewoman "See you there~ *kiss* *kiss*"
+    blondewoman ""
+
+# game/script.rpy:12901
+translate schinese explore_cafe4_63e034d6:
+
+    # c "...\nThose two are going to get robbed...\n...Or worse."
+    c ""
+
+# game/script.rpy:12902
+translate schinese explore_cafe4_8158fa2f:
+
+    # c "*sigh*... It's really none of my business, but they could really get hurt..."
+    c ""
+
+# game/script.rpy:12905
+translate schinese explore_cafe4_d7794afa:
+
+    # c "I'll just... make sure they have backup if they need it."
+    c ""
+
+# game/script.rpy:12908
+translate schinese explore_cafe4_865249f8:
+
+    # blondewoman "It's so trashy here..."
+    blondewoman ""
+
+# game/script.rpy:12909
+translate schinese explore_cafe4_d9a90707:
+
+    # brownwoman "It's giving... gritty aesthetic. Like skater vibes, you know?"
+    brownwoman ""
+
+# game/script.rpy:12910
+translate schinese explore_cafe4_9522db2b:
+
+    # blondewoman "I guess? ...Are you sure we should be here?"
+    blondewoman ""
+
+# game/script.rpy:12911
+translate schinese explore_cafe4_55688e7c:
+
+    # brownwoman "We're streaming, no one can hurt us..."
+    brownwoman ""
+
+# game/script.rpy:12913
+translate schinese explore_cafe4_28ac89b3:
+
+    # c "{i}(I better stay out of sight, otherwise I'm going to look like the crazy one...){/i}"
+    c ""
+
+# game/script.rpy:12914
+translate schinese explore_cafe4_30cc43c2:
+
+    # brownwoman "Hey chat, look! There's a slave!"
+    brownwoman ""
+
+# game/script.rpy:12915
+translate schinese explore_cafe4_a1a27c81:
+
+    # blondewoman "Oh hey! Hey elf! Are you thirsty?"
+    blondewoman ""
+
+# game/script.rpy:12917
+translate schinese explore_cafe4_838fb835:
+
+    # elff "Wh-What!?"
+    elff ""
+
+# game/script.rpy:12918
+translate schinese explore_cafe4_9ae8a744:
+
+    # blondewoman "Take my drink! Here! Take it!" with ssshake
+    blondewoman "" with ssshake
+
+# game/script.rpy:12919
+translate schinese explore_cafe4_0d078d76:
+
+    # brownwoman "It's free! We're trying to do a good thing!" with ssshake
+    brownwoman "" with ssshake
+
+# game/script.rpy:12920
+translate schinese explore_cafe4_b0cb50dc:
+
+    # elff "Umm...!"
+    elff ""
+
+# game/script.rpy:12922
+translate schinese explore_cafe4_7dfd405f:
+
+    # brownwoman "Take a sip!"
+    brownwoman ""
+
+# game/script.rpy:12923
+translate schinese explore_cafe4_9b1685d3:
+
+    # elff "What are you doing...?"
+    elff ""
+
+# game/script.rpy:12924
+translate schinese explore_cafe4_53c75483:
+
+    # brownwoman "Have you ever heard of matcha? Maaaah, chaaaaa?"
+    brownwoman ""
+
+# game/script.rpy:12925
+translate schinese explore_cafe4_96833600:
+
+    # blondewoman "Aren't you starving? We're trying to do a good thing for the community."
+    blondewoman ""
+
+# game/script.rpy:12926
+translate schinese explore_cafe4_fefba010:
+
+    # brownwoman "Hundreds of people are watching. They're so excited for you to taste it!"
+    brownwoman ""
+
+# game/script.rpy:12927
+translate schinese explore_cafe4_115728fb:
+
+    # elff "O-Okay, I guess..."
+    elff ""
+
+# game/script.rpy:12929
+translate schinese explore_cafe4_6c671fd5:
+
+    # elff "Mh..."
+    elff ""
+
+# game/script.rpy:12931
+translate schinese explore_cafe4_dba4f555:
+
+    # elff "It's okay, I guess..."
+    elff ""
+
+# game/script.rpy:12933
+translate schinese explore_cafe4_0fb14634:
+
+    # elff "Wait...! Eww! What's in this!?"
+    elff ""
+
+# game/script.rpy:12935
+translate schinese explore_cafe4_cb941e49:
+
+    # elff "Did you put milk in this!?"
+    elff ""
+
+# game/script.rpy:12936
+translate schinese explore_cafe4_3d59642a:
+
+    # brownwoman "Uh, duh... what do you think a latte is?"
+    brownwoman ""
+
+# game/script.rpy:12937
+translate schinese explore_cafe4_d9ce3aea:
+
+    # elff "ELVES ARE LACTOSE INTOLERANT! There are no cows native to Syl'anar, are you stupid!?"
+    elff ""
+
+# game/script.rpy:12938
+translate schinese explore_cafe4_4d9d92e4:
+
+    # brownwoman "Excuse me?"
+    brownwoman ""
+
+# game/script.rpy:12939
+translate schinese explore_cafe4_e785c713:
+
+    # blondewoman "Ugh, she's so ungrateful..."
+    blondewoman ""
+
+# game/script.rpy:12940
+translate schinese explore_cafe4_879eeb4b:
+
+    # elff "ALL elves are lactose intolerant! Didn't you go to school!?"
+    elff ""
+
+# game/script.rpy:12941
+translate schinese explore_cafe4_5e915a5e:
+
+    # brownwoman "Chat hates you now... The least you could say is thanks."
+    brownwoman ""
+
+# game/script.rpy:12942
+translate schinese explore_cafe4_7620190d:
+
+    # blondewoman "Yeah, aren't you starving or something? Be grateful..."
+    blondewoman ""
+
+# game/script.rpy:12944
+translate schinese explore_cafe4_073f1d32:
+
+    # elff "I'd be grateful if you gave me money instead of poison!"
+    elff ""
+
+# game/script.rpy:12945
+translate schinese explore_cafe4_c666d86c:
+
+    # brownwoman "Uh no thanks... you're kind of a bitch."
+    brownwoman ""
+
+# game/script.rpy:12946
+translate schinese explore_cafe4_7aba651b:
+
+    # c "{i}This is hard to watch...{/i}"
+    c ""
+
+# game/script.rpy:12948
+translate schinese explore_cafe4_b8ca968e:
+
+    # thug "How about you give me some money instead, hm?"
+    thug ""
+
+# game/script.rpy:12949
+translate schinese explore_cafe4_d7c6cd80:
+
+    # blondewoman "Huh!?"
+    blondewoman ""
+
+# game/script.rpy:12950
+translate schinese explore_cafe4_1c16f13d:
+
+    # elff "{i}Goodbye...{/i}"
+    elff ""
+
+# game/script.rpy:12951
+translate schinese explore_cafe4_e8206a7c:
+
+    # brownwoman "H-Hey! Don't try anything funny, I'm recording you!"
+    brownwoman ""
+
+# game/script.rpy:12953
+translate schinese explore_cafe4_2d45123b:
+
+    # thug "Yeah, I don't really give a shit."
+    thug ""
+
+# game/script.rpy:12954
+translate schinese explore_cafe4_919c752c:
+
+    # blondewoman "You're live! Thousands of people are watching you right now! You can't touch us!"
+    blondewoman ""
+
+# game/script.rpy:12955
+translate schinese explore_cafe4_a3c3e5cb:
+
+    # thug "Oh, I'll touch you girls plenty, heheheh."
+    thug ""
+
+# game/script.rpy:12956
+translate schinese explore_cafe4_ce207e68:
+
+    # tog "AAAAAH!" with ssshake
+    tog "" with ssshake
+
+# game/script.rpy:12958
+translate schinese explore_cafe4_ed2b6b56:
+
+    # c "If you're looking for trouble, you found it."
+    c ""
+
+# game/script.rpy:12959
+translate schinese explore_cafe4_437748e3:
+
+    # thug "Eh?"
+    thug ""
+
+# game/script.rpy:12960
+translate schinese explore_cafe4_94e74505:
+
+    # brownwoman "Yes! Beat his ass!"
+    brownwoman ""
+
+# game/script.rpy:12961
+translate schinese explore_cafe4_4014b46c:
+
+    # thug "Get lost. You don't want this."
+    thug ""
+
+# game/script.rpy:12962
+translate schinese explore_cafe4_53558277:
+
+    # c "Oh I do. Big game coming up, and you look like great practice..."
+    c ""
+
+# game/script.rpy:12963
+translate schinese explore_cafe4_7cd5dadf:
+
+    # thug "Are these bitches yours or something?"
+    thug ""
+
+# game/script.rpy:12964
+translate schinese explore_cafe4_3deadd2c:
+
+    # c "No, they're just bitches."
+    c ""
+
+# game/script.rpy:12965
+translate schinese explore_cafe4_d20681c6:
+
+    # blondewoman "Excuse me!?"
+    blondewoman ""
+
+# game/script.rpy:12967
+translate schinese explore_cafe4_07110196:
+
+    # thug "Pfft, it was just a joke. Relax..."
+    thug ""
+
+# game/script.rpy:12968
+translate schinese explore_cafe4_63ea9cf4:
+
+    # c "Sure..."
+    c ""
+
+# game/script.rpy:12970
+translate schinese explore_cafe4_55bf43d0:
+
+    # thug "Stick around! I'd love to tell my friends about you..."
+    thug ""
+
+# game/script.rpy:12971
+translate schinese explore_cafe4_8b728167:
+
+    # c "Eat a rock, bitch."
+    c ""
+
+# game/script.rpy:12973
+translate schinese explore_cafe4_bc7cd3a3:
+
+    # c "Alright, you're safe. Lucky I found a bat nearb-"
+    c ""
+
+# game/script.rpy:12974
+translate schinese explore_cafe4_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:12976
+translate schinese explore_cafe4_9c9d4174:
+
+    # elff "Um, they went that way, if you want to talk to them..."
+    elff ""
+
+# game/script.rpy:12977
+translate schinese explore_cafe4_5a5d37cd:
+
+    # c "Is that the way out of here?"
+    c ""
+
+# game/script.rpy:12978
+translate schinese explore_cafe4_c5215ddd:
+
+    # elff "Yes, that's correct."
+    elff ""
+
+# game/script.rpy:12979
+translate schinese explore_cafe4_4c12dc07:
+
+    # c "Then they're probably fine."
+    c ""
+
+# game/script.rpy:12981
+translate schinese explore_cafe4_5b890185:
+
+    # elff "{i}...They probably would have deserved what was coming to them...{/i}"
+    elff ""
+
+# game/script.rpy:12982
+translate schinese explore_cafe4_3784857a:
+
+    # c "...?"
+    c ""
+
+# game/script.rpy:12983
+translate schinese explore_cafe4_c64d7d8b:
+
+    # elff "Whatever. I'm just tired of it all..."
+    elff ""
+
+# game/script.rpy:12984
+translate schinese explore_cafe4_2afecb37:
+
+    # elff "But, you still did a good thing..."
+    elff ""
+
+# game/script.rpy:12986
+translate schinese explore_cafe4_d19f855d_1:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:12988
+translate schinese explore_cafe4_e1bd2c65:
+
+    # c "All in a day's work, I guess..."
+    c ""
+
+# game/script.rpy:12989
+translate schinese explore_cafe4_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:12992
+translate schinese explore_cafe4_6b82b6fa:
+
+    # c "(Money: [money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:12994
+translate schinese explore_cafe4_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:12996
+translate schinese explore_cafe4_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:13005
+translate schinese explore_cafe4_a6614b52:
+
+    # c "I'm stressed enough as it is. I'm getting out of here."
+    c ""
+
+# game/script.rpy:13007
+translate schinese explore_cafe4_d6b48f27_1:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:13010
+translate schinese explore_cafe4_6b82b6fa_1:
+
+    # c "(Money: [money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:13012
+translate schinese explore_cafe4_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:13014
+translate schinese explore_cafe4_875c529f_1:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:15813
+translate schinese nextfrontdoor_17bb1c65:
+
+    # c "The city is under a lockdown.. best to avoid it for now."
+    c ""
+
+# game/script.rpy:26479
+translate schinese checkdone_713b0896:
+
+    # r "Kali's story is not done, more will be added to her in v0.20!"
+    r ""
+
+translate schinese strings:
+
+    # game/script.rpy:151
+    old "Minister Corpus"
+    new ""
+
+    # game/script.rpy:305
+    old "Brown-Haired Woman"
+    new ""
+
+    # game/script.rpy:306
+    old "Blonde-Haired Woman"
+    new ""
+
+    # game/script.rpy:6665
+    old "No thanks."
+    new ""
+
+    # game/script.rpy:6972
+    old "Continue Lin's story"
+    new ""
+
+    # game/script.rpy:12903
+    old "I'll protect them."
+    new ""
+
+    # game/script.rpy:12903
+    old "It is what it is."
+    new ""
+
+    # game/script.rpy:15805
+    old "{color=#8C8C8C}Explore Caliber City{/color}"
+    new ""
+
+    # game/script.rpy:20175
+    old "You may now continue Lin's story from here or at her door."
+    new ""
+

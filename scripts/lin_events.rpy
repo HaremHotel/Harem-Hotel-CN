@@ -55348,3 +55348,3123 @@ translate schinese lin_newscar_16664c3b:
     # van "{b}FUCK CORNWALL, FUCK TRENERO, FUCK PRESIDENT THORNE, AND FUCK ALL OF YOU WATCHING!{/b}"
     van "{b}操你妈的康沃尔,操你妈的特内罗,操你妈的索恩总统,还有操你妈所有人!{/b}"
 
+# TODO: Translation updated at 2025-06-12 01:06
+
+# game/scripts/lin_events.rpy:6
+translate schinese lin_abduct_94d019a6:
+
+    # "...{w}..."
+    "......{w}......"
+
+# game/scripts/lin_events.rpy:8
+translate schinese lin_abduct_5449d204:
+
+    # jia "..."
+    jia "......"
+
+# game/scripts/lin_events.rpy:9
+translate schinese lin_abduct_d19f855d:
+
+    # c "..."
+    c "......"
+
+# game/scripts/lin_events.rpy:10
+translate schinese lin_abduct_d9574881:
+
+    # c "...Jia... what happened to you?"
+    c "......贾......你怎么了?"
+
+# game/scripts/lin_events.rpy:11
+translate schinese lin_abduct_ca00bbfd:
+
+    # jia "Shut up."
+    jia "闭嘴."
+
+# game/scripts/lin_events.rpy:12
+translate schinese lin_abduct_d19f855d_1:
+
+    # c "..."
+    c "......"
+
+# game/scripts/lin_events.rpy:15
+translate schinese lin_abduct_bd549c4c:
+
+    # c "...If you need help-"
+    c "......如果你需要帮助-"
+
+# game/scripts/lin_events.rpy:16
+translate schinese lin_abduct_b706465c:
+
+    # jia "{u}Now{/u} you want to help me? NOW!? {w=1}\nA bit late for that..."
+    jia "{u}现在{/u}你想到要帮我了?{b}现在!?{/b}{w=1}\n已经太晚了......"
+
+# game/scripts/lin_events.rpy:17
+translate schinese lin_abduct_e292f611:
+
+    # c "I can-"
+    c "我可以-"
+
+# game/scripts/lin_events.rpy:18
+translate schinese lin_abduct_cb937eeb:
+
+    # jia "SHUT UP!\n{w=1}...Keep driving..." with ssshake
+    jia "{b}闭嘴!{/b}\n{w=1}......继续开车......" with ssshake
+
+# game/scripts/lin_events.rpy:20
+translate schinese lin_abduct_76cc4c5c:
+
+    # jia "Just tell me where Lin is, and this will all be over..."
+    jia "告诉我林在哪里,这一切就会结束......"
+
+# game/scripts/lin_events.rpy:21
+translate schinese lin_abduct_c8738177:
+
+    # c "Why? Why are you doing this?"
+    c "为什么?为什么你要这么做?"
+
+# game/scripts/lin_events.rpy:22
+translate schinese lin_abduct_5449d204_1:
+
+    # jia "..."
+    jia "......"
+
+# game/scripts/lin_events.rpy:25
+translate schinese lin_abduct_ea75438e:
+
+    # jia "Why... why...{w=1}\nWhy? Why? Why? Why? WHY?"
+    jia "为什么......为什么.....{w=1}\n为什么?为什么?为什么?{b}为什么?{/b}"
+
+# game/scripts/lin_events.rpy:26
+translate schinese lin_abduct_3a1d093e:
+
+    # jia "Why...!?\n...To be free...!"
+    jia "为什么......!?\n......为了自由......!"
+
+# game/scripts/lin_events.rpy:27
+translate schinese lin_abduct_be059afa:
+
+    # jia "They played with me...\nPlayed with me...\nUsed me... like a toy."
+    jia "他们玩弄我......\n玩弄我......\n利用我......就像我是个玩具."
+
+# game/scripts/lin_events.rpy:28
+translate schinese lin_abduct_bfdb9391:
+
+    # c "Your eye..."
+    c "你的眼睛......."
+
+# game/scripts/lin_events.rpy:31
+translate schinese lin_abduct_51e5f682:
+
+    # jia "But I'm not...! I'm not a toy... I'm The Queen!"
+    jia "但我不是......!我不是玩具......我是女王!"
+
+# game/scripts/lin_events.rpy:32
+translate schinese lin_abduct_51cae8cf:
+
+    # jia "I'm The Queen! They can't control me...! No one can!!"
+    jia "我是女王!他们不能控制我......!没人可以!!"
+
+# game/scripts/lin_events.rpy:33
+translate schinese lin_abduct_37618515:
+
+    # c "Okay, okay... that's fine."
+    c "行吧,行吧......没事的."
+
+# game/scripts/lin_events.rpy:34
+translate schinese lin_abduct_17592c82:
+
+    # "*sirens blare in the distance*"
+    "*远处传来警笛声*"
+
+# game/scripts/lin_events.rpy:37
+translate schinese lin_abduct_0ce137dd:
+
+    # "*Sirens Blare*"
+    "*警笛声*"
+
+# game/scripts/lin_events.rpy:38
+translate schinese lin_abduct_ae4545fd:
+
+    # c "The police..."
+    c "警察......"
+
+# game/scripts/lin_events.rpy:39
+translate schinese lin_abduct_5449d204_2:
+
+    # jia "..."
+    jia "......"
+
+# game/scripts/lin_events.rpy:41
+translate schinese lin_abduct_1e05c05a:
+
+    # jia "Keep driving..."
+    jia "继续开车......"
+
+# game/scripts/lin_events.rpy:42
+translate schinese lin_abduct_d19f855d_2:
+
+    # c "..."
+    c "......"
+
+# game/scripts/lin_events.rpy:45
+translate schinese lin_abduct_e8e0dfa1:
+
+    # "*SIRENS BLARE*"
+    "{b}*警笛声*{/b}"
+
+# game/scripts/lin_events.rpy:48
+translate schinese lin_abduct_408ff60f:
+
+    # "*SIRENS BLARE*, *SIRENS BLARE*, *SIRENS BLARE*"
+    "{b}*警笛声*,*警笛声*,*警笛声*{/b}"
+
+# game/scripts/lin_events.rpy:50
+translate schinese lin_abduct_f9ab99a7:
+
+    # "*SIRENS BLARE*, *Sirens Blare*, *sirens blare...*"
+    "{b}*警笛声*{/b},*警笛声*,*警笛声*......"
+
+# game/scripts/lin_events.rpy:52
+translate schinese lin_abduct_cd5ad84f:
+
+    # jia "...Fucking pigs."
+    jia "......一群死猪警察."
+
+# game/scripts/lin_events.rpy:53
+translate schinese lin_abduct_fbb25ff5:
+
+    # c "*sigh*... where are you making me drive?"
+    c "*叹气*......你要让我开去哪里>"
+
+# game/scripts/lin_events.rpy:54
+translate schinese lin_abduct_63bbcff1:
+
+    # jia "If you won't bring me to Lin, I'll bring Lin to me..."
+    jia "如果你不把林带给我,那我自己会去找林......"
+
+# game/scripts/lin_events.rpy:57
+translate schinese lin_abduct_f13f11c7:
+
+    # jia "Be my guest. You would probably save a lot of lives..."
+    jia "你随意.你或许可以救下无数生命......"
+
+# game/scripts/lin_events.rpy:58
+translate schinese lin_abduct_d19f855d_3:
+
+    # c "..."
+    c "......"
+
+# game/scripts/lin_events.rpy:60
+translate schinese lin_abduct_c511efac:
+
+    # jia "No, I don't want you, I need Lin! She's responsible for this. All of this..."
+    jia "不,我不想要你,我需要林!她得对这负责.对一切事情负责......"
+
+# game/scripts/lin_events.rpy:61
+translate schinese lin_abduct_abed1f7e:
+
+    # c "What does she have to do with any of this?"
+    c "她和这有什么关系?"
+
+# game/scripts/lin_events.rpy:62
+translate schinese lin_abduct_1d9e7586:
+
+    # jia "You were there..."
+    jia "你也在场......"
+
+# game/scripts/lin_events.rpy:64
+translate schinese lin_abduct_a704e022:
+
+    # c "{i}(Shit, that's definitely going to work. She chased the car last time I was kidnapped...){/i}"
+    c "{i}(操,这绝对行得通.上次我被绑架时,她就追过那辆车......){/i}"
+
+# game/scripts/lin_events.rpy:65
+translate schinese lin_abduct_47b2caf4:
+
+    # jia "We'll see."
+    jia "我们走着瞧吧."
+
+# game/scripts/lin_events.rpy:66
+translate schinese lin_abduct_b1759edc:
+
+    # c "She'll probably be happy to get rid of her master..."
+    c "她可能很高兴能摆脱自己的主人......"
+
+# game/scripts/lin_events.rpy:67
+translate schinese lin_abduct_172032c3:
+
+    # jia "I know you two are in love... It's the most powerful connection there is, and I intend to exploit it."
+    jia "我知道你们两个相爱着......这是最强大的关系,而我打算利用它."
+
+# game/scripts/lin_events.rpy:70
+translate schinese lin_abduct_2b0c6db6:
+
+    # c "Do you have a plan? Or are you just on a murder spree?"
+    c "你有计划吗?还是你只是在随意地杀人?"
+
+# game/scripts/lin_events.rpy:71
+translate schinese lin_abduct_9d649dc6:
+
+    # jia "A plan? HAHA! I have a list... And Lin is at the top!"
+    jia "计划?{b}哈哈哈!{/b}我有一个名单......林是第一个!"
+
+# game/scripts/lin_events.rpy:72
+translate schinese lin_abduct_8f9c5563:
+
+    # c "And then what? World peace?"
+    c "然后呢?世界就和平了?"
+
+# game/scripts/lin_events.rpy:73
+translate schinese lin_abduct_6b5f8f53:
+
+    # jia "SHUT UP! You talk too much and drive too slow!" with ssshake
+    jia "{b}闭嘴!{/b}你话太多,开得太慢了!" with ssshake
+
+# game/scripts/lin_events.rpy:74
+translate schinese lin_abduct_2caa249e:
+
+    # c "...You need me if you want Lin. I just want to know what the goal is."
+    c "......如果你想要林,你就需要我.我只是想知道你的目标是什么."
+
+# game/scripts/lin_events.rpy:76
+translate schinese lin_abduct_9266082d:
+
+    # jia "Listen... I don't need you in one piece! It might even give Lin a little encouragement~!"
+    jia "听着......我完全不需要你完好无损!这说不定还能给林一点鼓励呢~!"
+
+# game/scripts/lin_events.rpy:77
+translate schinese lin_abduct_31f9f635:
+
+    # jia "But to be honest, I prefer silence... So shut. The fuck. Up~!"
+    jia "但说实话,我更喜欢沉默的人.......所以,闭.上.他.妈.的.嘴~!"
+
+# game/scripts/lin_events.rpy:79
+translate schinese lin_abduct_2c25454b:
+
+    # jia "Don't worry... be a good slave, and you'll live long enough to see."
+    jia "别担心......当一个好奴隶,你会活着看到一切发生的."
+
+# game/scripts/lin_events.rpy:83
+translate schinese lin_abduct_d5136ce2:
+
+    # k "{i}Lin...! Do you know where [name] is!? He's not picking up!{/i}"
+    k "{i}林......!你知道[name]在哪吗!?他没接电话!{/i}"
+
+# game/scripts/lin_events.rpy:84
+translate schinese lin_abduct_2f4d7033:
+
+    # l "He's not out with anyone?"
+    l "他没和别人出去吗?"
+
+# game/scripts/lin_events.rpy:85
+translate schinese lin_abduct_5461a6a3:
+
+    # k "{i}No!\nThere were gun shots! Two cops came to look for you, and now they're dead! A-And now he's is missing!{/i}"
+    k "{i}没有!\n这里发生了枪击!两个警察在找你,然后他们都死了!然-然后他就失踪了!{/i}"
+
+# game/scripts/lin_events.rpy:86
+translate schinese lin_abduct_905c5efe:
+
+    # l "What!? Y-You don't think he...?"
+    l "什么!?你-你不会觉得他......?"
+
+# game/scripts/lin_events.rpy:87
+translate schinese lin_abduct_149b5391:
+
+    # k "{i}I don't know! I don't know what happened!{/i}"
+    k "{i}我不知道!我不知道发生什么事了!{/i}"
+
+# game/scripts/lin_events.rpy:89
+translate schinese lin_abduct_6b452ca5:
+
+    # l "[botname] must have seen something! Where is she?"
+    l "[botname!t]一定看见发生了什么事情!她在哪?"
+
+# game/scripts/lin_events.rpy:90
+translate schinese lin_abduct_969ab5df:
+
+    # bot "In pursuit!"
+    bot "我在追!"
+
+# game/scripts/lin_events.rpy:92
+translate schinese lin_abduct_491216c6:
+
+    # tog "Aah!" with ssshake
+    tog "啊!" with ssshake
+
+# game/scripts/lin_events.rpy:94
+translate schinese lin_abduct_d1594420:
+
+    # l "[botname]!? Was that you?"
+    l "[botname!t]!?是你吗?"
+
+# game/scripts/lin_events.rpy:95
+translate schinese lin_abduct_28891219:
+
+    # k "How did you-\n-Where are you!?"
+    k "你怎么-\n-你在哪!?"
+
+# game/scripts/lin_events.rpy:98
+translate schinese lin_abduct_1910ca7d:
+
+    # bot "Right behind them!!" with ssshake
+    bot "在他们后面!!" with ssshake
+
+# game/scripts/lin_events.rpy:99
+translate schinese lin_abduct_cc45556c:
+
+    # k "What!?"
+    k "什么!?"
+
+# game/scripts/lin_events.rpy:100
+translate schinese lin_abduct_281d3e9f:
+
+    # bot "I saw everything! It was Jia!"
+    bot "我看见了一切!是贾!"
+
+# game/scripts/lin_events.rpy:101
+translate schinese lin_abduct_9f65fe5a:
+
+    # k "...The elf queen?"
+    k "......精灵女王?"
+
+# game/scripts/lin_events.rpy:103
+translate schinese lin_abduct_c03d5bb2:
+
+    # l "No, no, no! She just murdered innocent people! Why does she want [name]??"
+    l "不,不,不!她刚刚杀死了好几个无辜群众!她想要[name]干什么??"
+
+# game/scripts/lin_events.rpy:104
+translate schinese lin_abduct_483c1b51:
+
+    # bot "She wants you, Lin!"
+    bot "她想要你,林!"
+
+# game/scripts/lin_events.rpy:105
+translate schinese lin_abduct_1813e0ae:
+
+    # l "Me??"
+    l "我??"
+
+# game/scripts/lin_events.rpy:106
+translate schinese lin_abduct_7bae188d:
+
+    # jena "Are you talking about Jia?"
+    jena "你是在说贾吗?"
+
+# game/scripts/lin_events.rpy:107
+translate schinese lin_abduct_9482a485:
+
+    # bot "She's different! Something happened. But I won't let her hurt him!"
+    bot "她变了!肯定发生了什么事情.但我不会让她伤害他的!"
+
+# game/scripts/lin_events.rpy:109
+translate schinese lin_abduct_c954be86:
+
+    # k "Are we talking about the same elf queen??"
+    k "我们说的是一个精灵女王吗??"
+
+# game/scripts/lin_events.rpy:110
+translate schinese lin_abduct_e3fb528d:
+
+    # l "Turn on the news if you don't believe me!"
+    l "你要是不相信我,就看下新闻!"
+
+# game/scripts/lin_events.rpy:111
+translate schinese lin_abduct_03e6c519:
+
+    # k "Uugh, why are you always pissing off people with power, Lin?? I'm tired of having the police here! {i}I have pirated movies on my computer!{/i}"
+    k "呃,为什么你总是会惹到那些大人物,林??我已经厌倦来我们这里的警察了!{i}我电脑上还有盗版电影呢!{/i}"
+
+# game/scripts/lin_events.rpy:112
+translate schinese lin_abduct_e6992892:
+
+    # l "I didn't do anything...!"
+    l "我什么都没有做......!"
+
+# game/scripts/lin_events.rpy:113
+translate schinese lin_abduct_d01e2591:
+
+    # bot "There's an issue though!"
+    bot "但是有个问题!"
+
+# game/scripts/lin_events.rpy:116
+translate schinese lin_abduct_8ac2e51d:
+
+    # bot "If they get on the highway, I'll lose them! I can't run that fast!"
+    bot "要是他们上了高速,我就会跟丢他们!我跑不了那么快!"
+
+# game/scripts/lin_events.rpy:117
+translate schinese lin_abduct_9bc3b670:
+
+    # l "You have to catch them! Now!"
+    l "你得抓住他们!现在!"
+
+# game/scripts/lin_events.rpy:118
+translate schinese lin_abduct_6f82fea7:
+
+    # bot "I'm trying!"
+    bot "我在努力了!"
+
+# game/scripts/lin_events.rpy:120
+translate schinese lin_abduct_49e5e9ff:
+
+    # jena "Lin! What's going on? Did Jia kidnap [name]?"
+    jena "林!发生什么事了?贾绑架了[name]吗?"
+
+# game/scripts/lin_events.rpy:121
+translate schinese lin_abduct_b6ed0ccf:
+
+    # l "Yes! My friend is following them, but they're gonna get away!"
+    l "是的!我的朋友在跟踪他们,但他们要逃走了!"
+
+# game/scripts/lin_events.rpy:123
+translate schinese lin_abduct_b35eb75e:
+
+    # jena "Okay! Just tell me where they are, I'll handle it!"
+    jena "好的!告诉我他们在哪,我可以处理!"
+
+# game/scripts/lin_events.rpy:125
+translate schinese lin_abduct_620b8274:
+
+    # l "[botname]! Where are you?"
+    l "[botname!t]!你在哪?"
+
+# game/scripts/lin_events.rpy:127
+translate schinese lin_abduct_980df51f:
+
+    # l "Wait, how will you find them?"
+    l "等等,你怎么找到他们?"
+
+# game/scripts/lin_events.rpy:128
+translate schinese lin_abduct_5f8f5285:
+
+    # jena "Surveillance is my speciality~\n...And I'm a mechanic, a programmer, and-"
+    jena "监视可是我的专长~\n......我是个机械师,程序员,还是个-"
+
+# game/scripts/lin_events.rpy:130
+translate schinese lin_abduct_ebd293be:
+
+    # bot "We're on some back road between the hotel and highway 95! They're in his car!"
+    bot "我们在旅馆和95号高速公路之间的小路上!他们在他车里!"
+
+# game/scripts/lin_events.rpy:132
+translate schinese lin_abduct_4177f4db:
+
+    # l "They're going to highway 95 from the hotel! Do you know what that means?"
+    l "他们要从酒店去往95号高速公路!你知道这是什么意思吗?"
+
+# game/scripts/lin_events.rpy:133
+translate schinese lin_abduct_02bc55b6:
+
+    # jena "Of course! I'm on it!"
+    jena "当然!我在处理了!"
+
+# game/scripts/lin_events.rpy:135
+translate schinese lin_abduct_b35c716c:
+
+    # k "{i}Okay guys, I gotta go!{/i} LOVE YOU TOO DAD!"
+    k "{i}好了伙计们,我得走了!{/i}{b}我也爱你,爸爸!{/b}"
+
+# game/scripts/lin_events.rpy:136
+translate schinese lin_abduct_6b342fbf:
+
+    # l "What?"
+    l "什么?"
+
+# game/scripts/lin_events.rpy:138
+translate schinese lin_abduct_0983de40:
+
+    # l "Hello? [botname]?? HELLO!?"
+    l "喂?[botname!t]??{b}喂!?{/b}"
+
+# game/scripts/lin_events.rpy:141
+translate schinese lin_abduct_bddfc9cd:
+
+    # polm "ID."
+    polm "身份证."
+
+# game/scripts/lin_events.rpy:142
+translate schinese lin_abduct_498b77fd:
+
+    # k "My name is Kali Trenero... My ID is upstairs..."
+    k "我是凯莉·特内罗......我的身份证在楼上......"
+
+# game/scripts/lin_events.rpy:144
+translate schinese lin_abduct_f2d01c7d:
+
+    # polm "I'll still need to-\n-Wait, you mean like Julius Trenero? From Nero? No way! I'm a huge fan!"
+    polm "我还是需要-\n-等等,你是说和朱丽叶斯·特内罗那样?尼禄公司的?不可能!我是你们的大粉丝!"
+
+# game/scripts/lin_events.rpy:145
+translate schinese lin_abduct_dfba945c:
+
+    # k "Thanks..."
+    k "谢谢......"
+
+# game/scripts/lin_events.rpy:146
+translate schinese lin_abduct_3413a1ea:
+
+    # polm "Seriously, I have all the Nero mugs! Even the limited edition ones! Oh man, the boys in blue mug is my favorite!"
+    polm "说真的,我有所有的尼禄公司的马克杯!甚至还有限量版的!哦,我最喜欢那个蓝衣男孩的杯子了!"
+
+# game/scripts/lin_events.rpy:147
+translate schinese lin_abduct_7aeecd95:
+
+    # k "...Wow... cool..."
+    k "......哇哦......酷......"
+
+# game/scripts/lin_events.rpy:148
+translate schinese lin_abduct_f9a77386:
+
+    # polm "You know, 'cuz I'm a cop."
+    polm "你知道的,因为我是个警察."
+
+# game/scripts/lin_events.rpy:149
+translate schinese lin_abduct_82091822:
+
+    # k "..."
+    k "......"
+
+# game/scripts/lin_events.rpy:151
+translate schinese lin_abduct_96fa62f7:
+
+    # polm "*ahem*... were you witness to the murders?"
+    polm "*咳嗽*......你有见到凶手吗?"
+
+# game/scripts/lin_events.rpy:152
+translate schinese lin_abduct_0f46d204:
+
+    # k "No, I'm just as confused as you are..."
+    k "没有,我和你们一样困惑......"
+
+# game/scripts/lin_events.rpy:154
+translate schinese lin_abduct_04584393:
+
+    # pol "So we have a missing slave, and a separate incident with two dead cops and a missing manager... these are both unrelated to each other but occurred on the same day?"
+    pol "所以,我们有一个失踪的奴隶,还有一起单独的案件,两名警察死亡,一名经理失踪......这两件事互不相干,但却发生在同一天?"
+
+# game/scripts/lin_events.rpy:155
+translate schinese lin_abduct_daac1032:
+
+    # e "No no! The elf ran away a long time ago. They just came to check up on her whereabouts on a bad day, I guess..."
+    e "不,不!那个精灵很久之前就逃走了.我猜,他们只是选了一个糟糕的日子来搜寻她的行踪."
+
+# game/scripts/lin_events.rpy:156
+translate schinese lin_abduct_036874ea:
+
+    # pol "A bad day, hm..."
+    pol "糟糕的日子,嗯......"
+
+# game/scripts/lin_events.rpy:157
+translate schinese lin_abduct_40aa4a27:
+
+    # pol "I'll need access to your security cameras. You have those, right?"
+    pol "我需要看你们的监控.你们有吧?"
+
+# game/scripts/lin_events.rpy:158
+translate schinese lin_abduct_2435f9bb:
+
+    # e "Oh, uh... of course. Please, follow me."
+    e "哦,呃......当然.请跟我来."
+
+# game/scripts/lin_events.rpy:160
+translate schinese lin_abduct_4a6729e0:
+
+    # e "...Oh. We don't seem to have any recordings from the last, uh... entire year!?"
+    e "......哦.我们似乎没有记录,已经有,呃......一整年!?"
+
+# game/scripts/lin_events.rpy:161
+translate schinese lin_abduct_022ac620:
+
+    # e "But I check them every day! How could they be gone?"
+    e "但我每天都有检查啊!怎么就不见了?"
+
+# game/scripts/lin_events.rpy:163
+translate schinese lin_abduct_451495fb:
+
+    # pol "..."
+    pol "......"
+
+# game/scripts/lin_events.rpy:165
+translate schinese lin_abduct_f7202353:
+
+    # pol "Ma'am, this is a very serious matter. There are two dead cops outside! Tampering with evidence is a serious crime!"
+    pol "女士,这是非常严重的问题.两个警察就死在外面了!篡改证据可是重罪!"
+
+# game/scripts/lin_events.rpy:166
+translate schinese lin_abduct_72b4e35e:
+
+    # e "Why would I lie? The manager is missing! He's my friend!"
+    e "我为什么要撒谎?经理不见了!他是我的朋友!"
+
+# game/scripts/lin_events.rpy:167
+translate schinese lin_abduct_79ae943f:
+
+    # pol "Yes well it sounds a lot like Lin's former master is trying to protect her, and you're trying to protect them!"
+    pol "是啊.听起来很像是林的前主人在试图保护她,而你在试图保护他们!"
+
+# game/scripts/lin_events.rpy:168
+translate schinese lin_abduct_b75c110a:
+
+    # pol "Two cops come looking for her, and now they're dead? And her master is missing? We'll have to assume him as the number one suspect."
+    pol "两个警察来找她,然后他们就死了?她的主人还失踪了?我们必须把他当作一号嫌疑人."
+
+# game/scripts/lin_events.rpy:170
+translate schinese lin_abduct_1a291fbc:
+
+    # e "Oh please... this is the only gun we have, and it's mine. Unused..."
+    e "哦,求你们了......这是我们唯一的一把枪,是我的.根本没用过......"
+
+# game/scripts/lin_events.rpy:171
+translate schinese lin_abduct_e2e0d464:
+
+    # pol "HEY! Woah woah! Put that down!"
+    pol "{b}嘿!{/b}喔喔!把枪放下!"
+
+# game/scripts/lin_events.rpy:174
+translate schinese lin_abduct_29ca743c:
+
+    # l "Nh... *sniff*... why does this always happen to us...!?"
+    l "嗯......*抽泣*......为什么这种事情总是发生在我们身上......!?"
+
+# game/scripts/lin_events.rpy:175
+translate schinese lin_abduct_39b3db65:
+
+    # l "*sniff* Ah...! Someone is always getting hurt or taken...! *sniff*! What did we do to deserve this...!?"
+    l "*抽泣*啊......!总是有人受伤,或者遭受苦难......!*抽泣*!我们到底做了什么,要被这样对待......!?"
+
+# game/scripts/lin_events.rpy:177
+translate schinese lin_abduct_af48db84:
+
+    # ghen "..."
+    ghen "......"
+
+# game/scripts/lin_events.rpy:178
+translate schinese lin_abduct_60016604:
+
+    # nia "..."
+    nia "......"
+
+# game/scripts/lin_events.rpy:180
+translate schinese lin_abduct_af48db84_1:
+
+    # ghen "..."
+    ghen "......"
+
+# game/scripts/lin_events.rpy:181
+translate schinese lin_abduct_06e6eccb:
+
+    # l "*sniff*... nh..."
+    l "*抽泣*......呃......"
+
+# game/scripts/lin_events.rpy:182
+translate schinese lin_abduct_691533fa:
+
+    # nia "...I told you."
+    nia "......我告诉过你了."
+
+# game/scripts/lin_events.rpy:183
+translate schinese lin_abduct_af48db84_2:
+
+    # ghen "..."
+    ghen "......"
+
+# game/scripts/lin_events.rpy:185
+translate schinese lin_abduct_bc8cafb0:
+
+    # ghen "Lin... I know this is probably the last thing you want to hear... But that's normal. It ain't nothin' special. Especially for elves like us."
+    ghen "林......我知道这可能是你最不愿意听的话......但是这很正常,并没有什么特别的,尤其是对于向我们这样的精灵来说."
+
+# game/scripts/lin_events.rpy:186
+translate schinese lin_abduct_66e8223b:
+
+    # ghen "This is why we exist... Why we fight!"
+    ghen "这就是我们存在的理由......我们斗争的理由!"
+
+# game/scripts/lin_events.rpy:187
+translate schinese lin_abduct_27a2fe65:
+
+    # ghen "The truth is, you ain't gotta do anything to deserve it. You either fight back, or take it. The choice is up to you."
+    ghen "真相就是,你并不是因为你做了什么而受到这样的对待.你要么反抗,要么接受.选择权在你手上."
+
+# game/scripts/lin_events.rpy:188
+translate schinese lin_abduct_82822a0c:
+
+    # l "..."
+    l "......"
+
+# game/scripts/lin_events.rpy:190
+translate schinese lin_abduct_d883a0cd:
+
+    # ghen "Some of us are just luckier than others. Haven't seen the world for what it really is...\nAnd some of us try so damn hard to forget, that they-..."
+    ghen "我们中的有些人比其他人幸运一些,还没见到这个世界的真面目......\n而我们中的有些人拼命想要忘记这些事情,以至于-......"
+
+# game/scripts/lin_events.rpy:192
+translate schinese lin_abduct_772bf800:
+
+    # ghen "Well, you get it."
+    ghen "嗯,你也知道的."
+
+# game/scripts/lin_events.rpy:193
+translate schinese lin_abduct_380aacc4:
+
+    # l "...It's not normal. It's not supposed to be."
+    l "......这不正常.不应该是这样的."
+
+# game/scripts/lin_events.rpy:194
+translate schinese lin_abduct_93bc1977:
+
+    # ghen "It is, Lin. Just because we walk on two feet don't mean we ain't all animals. We all shit the same."
+    ghen "事实如此,林.我们双足行走,并不意味着我们不是动物.我们都一样糟糕."
+
+# game/scripts/lin_events.rpy:195
+translate schinese lin_abduct_2c096c37:
+
+    # l "So I'm just supposed to accept it? That it'll always happen?"
+    l "所以我就应该接受它吗?一直以来都是这样的吗?"
+
+# game/scripts/lin_events.rpy:197
+translate schinese lin_abduct_73d5534f:
+
+    # ghen "No Lin, you're supposed to make them regret it."
+    ghen "不,林,你需要让他们为此后悔."
+
+# game/scripts/lin_events.rpy:198
+translate schinese lin_abduct_82822a0c_1:
+
+    # l "..."
+    l "......"
+
+# game/scripts/lin_events.rpy:200
+translate schinese lin_abduct_b26984e7:
+
+    # l "No.\nI won't become one of them just because they hurt me. I wouldn't be any better..."
+    l "不.\n我不会因为他们伤害我,就变成他们的一员.那样的我并没有好多少......"
+
+# game/scripts/lin_events.rpy:201
+translate schinese lin_abduct_e95a57ef:
+
+    # nia "Ugh."
+    nia "呃."
+
+# game/scripts/lin_events.rpy:202
+translate schinese lin_abduct_4d3a5be6:
+
+    # ghen "What she's trying to say is... being a pacifist doesn't have to mean you don't fight. It means you keep the peace, even if you have to be a little... persuasive."
+    ghen "她想说的是......和平主义并不意味着你不能战斗.它意味着你要保持和平,即使你必须更有......说服力."
+
+# game/scripts/lin_events.rpy:204
+translate schinese lin_abduct_82822a0c_2:
+
+    # l "..."
+    l "......"
+
+# game/scripts/lin_events.rpy:206
+translate schinese lin_abduct_32f9b4ac:
+
+    # l "You're right..."
+    l "你说得对......"
+
+# game/scripts/lin_events.rpy:208
+translate schinese lin_abduct_4f480445:
+
+    # l "Justice isn't given, it's taken. You {u}have{/u} to fight for peace."
+    l "正义不是施舍来的,是争取来的.和平是{u}抗争{/u}来的."
+
+# game/scripts/lin_events.rpy:210
+translate schinese lin_abduct_62fdd061:
+
+    # l "I used to look up to Jia... I idolized her. The only free elf in Syl'anar..."
+    l "我曾经很崇拜贾......把她视为偶像.西尔阿纳尔唯一自由的精灵......"
+
+# game/scripts/lin_events.rpy:212
+translate schinese lin_abduct_cae905d1:
+
+    # l "How could she do this to me!? She was everything an elf wanted to be! But she's a fucking psycho!"
+    l "她怎么能对我做出这种事情!?她是所有精灵想成为的那个人!但她他妈的就是个神经病!"
+
+# game/scripts/lin_events.rpy:213
+translate schinese lin_abduct_5fd70de4:
+
+    # nia "Woah... I don't think I've ever heard you curse before."
+    nia "喔......我好像没见过你这么骂过人."
+
+# game/scripts/lin_events.rpy:215
+translate schinese lin_abduct_028fd1f1:
+
+    # l "Jena! Did you find them yet?"
+    l "耶拿!你找到他们了吗?"
+
+# game/scripts/lin_events.rpy:217
+translate schinese lin_abduct_8a87595b:
+
+    # jena "I've gottem! They just got on the highway. Your friend made it easy. I like her~"
+    jena "我找到他们了!他们刚刚上高速.你的朋友省了我不少事.我喜欢她~"
+
+# game/scripts/lin_events.rpy:219
+translate schinese lin_abduct_2e43a041:
+
+    # l "Let's go!"
+    l "我们走!"
+
+# game/scripts/lin_events.rpy:220
+translate schinese lin_abduct_2bf0e3b7:
+
+    # nia "Hold on! Where are you going!?"
+    nia "等下!你要去哪里!?"
+
+# game/scripts/lin_events.rpy:221
+translate schinese lin_abduct_00559d47:
+
+    # ghen "You know that's what she wants. It's a trap."
+    ghen "你知道她想要什么.这是个陷阱."
+
+# game/scripts/lin_events.rpy:222
+translate schinese lin_abduct_495ae752:
+
+    # l "I know. That's what I'm counting on."
+    l "我知道.这也是我所指望的."
+
+# game/scripts/lin_events.rpy:223
+translate schinese lin_abduct_b573dc29:
+
+    # nia "What are you talking about!?"
+    nia "你们在说什么!?"
+
+# game/scripts/lin_events.rpy:225
+translate schinese lin_abduct_703beb5f:
+
+    # l "Use me as bait! Then do whatever you have to."
+    l "把我当作诱饵!然后你们该做什么就做什么."
+
+# game/scripts/lin_events.rpy:226
+translate schinese lin_abduct_a42b687e:
+
+    # ghen "Well, that's not actually a bad plan, but..."
+    ghen "好吧,不算个坏主意,但是......"
+
+# game/scripts/lin_events.rpy:227
+translate schinese lin_abduct_1e080ce6:
+
+    # nia "We don't even know where we're going yet. We need to plan first."
+    nia "我们甚至都不知道我们要去哪里.我们需要先计划."
+
+# game/scripts/lin_events.rpy:228
+translate schinese lin_abduct_52f0c018:
+
+    # l "We'll figure it out on the way! Come on!"
+    l "我们在路上计划好就是了!快走!"
+
+# game/scripts/lin_events.rpy:229
+translate schinese lin_abduct_452f0fc8:
+
+    # nia "Let's just talk about things for a moment, the situation is changing too quickly right now."
+    nia "我们还是先谈谈吧,现在的形势变化太快了."
+
+# game/scripts/lin_events.rpy:230
+translate schinese lin_abduct_bc538d3b:
+
+    # l "But-!"
+    l "但是-~"
+
+# game/scripts/lin_events.rpy:232
+translate schinese lin_abduct_c34eff62:
+
+    # bot "HELLO!? Oh! Hello!"
+    bot "{b}喂!?{/b}哦!你们好!"
+
+# game/scripts/lin_events.rpy:233
+translate schinese lin_abduct_a35db2fb:
+
+    # l "[botname]!?"
+    l "[botname!t]!?"
+
+# game/scripts/lin_events.rpy:234
+translate schinese lin_abduct_3b1672fd:
+
+    # jena "WHAT THE FUCK!?" with ssshake
+    jena "{b}什么鬼!?{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:236
+translate schinese lin_abduct_54ed0601:
+
+    # bot "Wow, that took a long time! You guys have great security!"
+    bot "哇,搞了好久!你们的安保真不错!"
+
+# game/scripts/lin_events.rpy:237
+translate schinese lin_abduct_8b37c901:
+
+    # jena "NO ONE SHOULD BE ABLE TO DO THAT!"
+    jena "{b}不应该有人能做到这种事情的!{/b}"
+
+# game/scripts/lin_events.rpy:238
+translate schinese lin_abduct_85ab671b:
+
+    # ghen "You know her, Lin?"
+    ghen "你认识她吗,林?"
+
+# game/scripts/lin_events.rpy:239
+translate schinese lin_abduct_03967242:
+
+    # nia "That's [botname], she's [name]'s friend."
+    nia "她是[botname!t],是[name]的朋友."
+
+# game/scripts/lin_events.rpy:241
+translate schinese lin_abduct_3520e7ad:
+
+    # bot "Soooo... I lost them on the highway. But I noticed the drone is connected to the same address as Lin's phone!"
+    bot "所以......我在高速公路上跟丢了他们.但我注意到,无人机与林的手机连接在同一个地址上!"
+
+# game/scripts/lin_events.rpy:243
+translate schinese lin_abduct_e89839a7:
+
+    # jena "Wait that was you chasing the car!? Holy shit, you're fast!"
+    jena "等会,是你在追那辆车!?我操,你好快啊!"
+
+# game/scripts/lin_events.rpy:244
+translate schinese lin_abduct_db42d1f4:
+
+    # bot "Mhm. Mind if I have visuals from the drone too?"
+    bot "嗯.介意我看一下无人机的视野吗?"
+
+# game/scripts/lin_events.rpy:246
+translate schinese lin_abduct_946d044f:
+
+    # jena "Uh, sure... but how would...?"
+    jena "呃,当然可以.....但是你要怎么做......?"
+
+# game/scripts/lin_events.rpy:247
+translate schinese lin_abduct_da268d6f:
+
+    # bot "Don't worry! I'm in."
+    bot "别担心!我进去了."
+
+# game/scripts/lin_events.rpy:249
+translate schinese lin_abduct_443e07f9:
+
+    # jena "..."
+    jena "......"
+
+# game/scripts/lin_events.rpy:251
+translate schinese lin_abduct_640db9f7:
+
+    # jena "NO ONE SHOULD BE ABLE TO DO THAT! {u}NO ONE{/u}!!!"
+    jena "{b}不可能有人能做到这一切!{u}不可能!!!{/u}{/b}"
+
+# game/scripts/lin_events.rpy:255
+translate schinese lin_abduct_94bd45cf:
+
+    # e "Are you kidding me!? This is rediculous!"
+    e "你在开玩笑吗!?这太荒谬了!"
+
+# game/scripts/lin_events.rpy:256
+translate schinese lin_abduct_42c6840a:
+
+    # em "Ellen!"
+    em "艾兰!"
+
+# game/scripts/lin_events.rpy:257
+translate schinese lin_abduct_0c855105:
+
+    # pol "Relax! You aren't going to prison, we just need to ask you a few questions back at the station."
+    pol "放轻松!你不会进监狱的,我们只需要在警察局里问你几个问题."
+
+# game/scripts/lin_events.rpy:258
+translate schinese lin_abduct_022f8827:
+
+    # k "Dude, WE'RE THE VICTIMS! What are you doing!? Our friend is missing!"
+    k "伙计,{b}我们是受害者{/b}!你们要干什么!?我们的朋友失踪了!"
+
+# game/scripts/lin_events.rpy:259
+translate schinese lin_abduct_ca25ac57:
+
+    # polm "Two dead cops and {i}you're{/i} the victims? Fuck off."
+    polm "两个警察死了,你说{i}你们{/i}是受害者?滚吧."
+
+# game/scripts/lin_events.rpy:261
+translate schinese lin_abduct_ba7db01e:
+
+    # em "She hasn't done anything wrong!"
+    em "她什么都没做错!"
+
+# game/scripts/lin_events.rpy:262
+translate schinese lin_abduct_c2922772:
+
+    # e "Get your hands off me! I can walk by myself!"
+    e "把你的手拿开!我可以自己走!"
+
+# game/scripts/lin_events.rpy:263
+translate schinese lin_abduct_faadc2c4:
+
+    # polm "Go back to your rooms, everyone! This doesn't concern you."
+    polm "大家都回房间里吧!这和你们无关."
+
+# game/scripts/lin_events.rpy:264
+translate schinese lin_abduct_b506d5a1:
+
+    # polm "{i}Call me...{/i}"
+    polm "{i}打电话给我......{/i}"
+
+# game/scripts/lin_events.rpy:266
+translate schinese lin_abduct_8c563e3e:
+
+    # k "*sigh*..."
+    k "*叹气*......"
+
+# game/scripts/lin_events.rpy:267
+translate schinese lin_abduct_f01f79f9:
+
+    # em "Fuck!"
+    em "操!"
+
+# game/scripts/lin_events.rpy:269
+translate schinese lin_abduct_f153aa4f:
+
+    # au "..."
+    au "......"
+
+# game/scripts/lin_events.rpy:270
+translate schinese lin_abduct_bb8e4b4e:
+
+    # a "..."
+    a "......"
+
+# game/scripts/lin_events.rpy:271
+translate schinese lin_abduct_3ec57d49:
+
+    # f "..."
+    f "......"
+
+# game/scripts/lin_events.rpy:272
+translate schinese lin_abduct_694ee097:
+
+    # k "...What... do we do..."
+    k "......我们......要怎么做......"
+
+# game/scripts/lin_events.rpy:273
+translate schinese lin_abduct_90b3746b:
+
+    # em "Hmph..."
+    em "哼......"
+
+# game/scripts/lin_events.rpy:274
+translate schinese lin_abduct_9b8bc7ff:
+
+    # m "[name] is gone... Ellen is gone...!"
+    m "[name]不见了......艾兰也被带走了......!"
+
+# game/scripts/lin_events.rpy:275
+translate schinese lin_abduct_22b07332:
+
+    # f "And where is [botname] anyway!?"
+    f "[botname!t]人呢!?"
+
+# game/scripts/lin_events.rpy:277
+translate schinese lin_abduct_7db05792:
+
+    # au "Does anyone know how to use a gun?"
+    au "有人知道怎么开枪吗?"
+
+# game/scripts/lin_events.rpy:279
+translate schinese lin_abduct_22c3384b:
+
+    # f "What! Why?"
+    f "什么?为什么?"
+
+# game/scripts/lin_events.rpy:280
+translate schinese lin_abduct_c73bd5db:
+
+    # au "We can't lose anyone else."
+    au "我们不能再失去任何人了."
+
+# game/scripts/lin_events.rpy:281
+translate schinese lin_abduct_61d1555a:
+
+    # m "U-Um... I do, but..."
+    m "呃-嗯......我知道,但是......"
+
+# game/scripts/lin_events.rpy:282
+translate schinese lin_abduct_7a2c304e:
+
+    # au "Grab Ellen's, and shoot anyone that steps through that door."
+    au "拿上艾兰的枪,要是有人进来,就开枪."
+
+# game/scripts/lin_events.rpy:284
+translate schinese lin_abduct_d023f2fe:
+
+    # m "I- I can't! If someone takes me next, I- I might not come back...!"
+    m "我-我不能!要是下次带走的是我,我-我就再也回不来了......!"
+
+# game/scripts/lin_events.rpy:286
+translate schinese lin_abduct_5b34cd42:
+
+    # au "We're losing too many people too fast. Wake up Maria! None of us are safe!"
+    au "我们在这么短时间里就失去这么多的人了.醒醒吧,玛丽亚!我们都不安全!"
+
+# game/scripts/lin_events.rpy:288
+translate schinese lin_abduct_e612037c:
+
+    # m "..."
+    m "......"
+
+# game/scripts/lin_events.rpy:289
+translate schinese lin_abduct_5b529d9e:
+
+    # au "This is what you've been training for."
+    au "你的训练就是为了这一刻."
+
+# game/scripts/lin_events.rpy:290
+translate schinese lin_abduct_d2f4360f:
+
+    # m "...*sniff*, you're right. Sorry."
+    m "......*抽泣*,你说得对,对不起."
+
+# game/scripts/lin_events.rpy:292
+translate schinese lin_abduct_412e41ce:
+
+    # au "... ... ..."
+    au "...... ...... ......"
+
+# game/scripts/lin_events.rpy:293
+translate schinese lin_abduct_4e83ef6f:
+
+    # au "...[name] is missing. Thanks to Kali, we know he's fine, but kidnapped by Jia."
+    au "......[name]失踪了.感谢凯莉,我们知道他还安全,但他被贾绑架了."
+
+# game/scripts/lin_events.rpy:294
+translate schinese lin_abduct_eb011a9e:
+
+    # au "[botname] is chasing them, so until we hear back from her, no one goes in or out of this hotel! We stick together."
+    au "[botname!t]正在追踪他们,所以在我们受到她的消息之前,所有人不许出酒店!我们要待在一起."
+
+# game/scripts/lin_events.rpy:295
+translate schinese lin_abduct_ffbfd4ab:
+
+    # f "Is that what happened?"
+    f "是这样吗?"
+
+# game/scripts/lin_events.rpy:296
+translate schinese lin_abduct_3b57cdf6:
+
+    # au "Felicity, Emma, I want you to turn off every light in the hotel and make sure all the doors and windows are locked."
+    au "菲丽希蒂,艾玛,我需要你们把酒店的所有灯光都关掉,然后确保所有的门窗都锁上了."
+
+# game/scripts/lin_events.rpy:297
+translate schinese lin_abduct_23e30ef0:
+
+    # f "Oh okay, sure."
+    f "哦,好的."
+
+# game/scripts/lin_events.rpy:299
+translate schinese lin_abduct_64024f1a:
+
+    # au "As for [botname]'s gun..."
+    au "至于[botname!t]的枪......"
+
+# game/scripts/lin_events.rpy:300
+translate schinese lin_abduct_ca8b50a7:
+
+    # a "It's mine."
+    a "我的了."
+
+# game/scripts/lin_events.rpy:301
+translate schinese lin_abduct_eff8efc7:
+
+    # au "Um, are you sure?"
+    au "呃,你确定吗?"
+
+# game/scripts/lin_events.rpy:303
+translate schinese lin_abduct_7b166b34:
+
+    # bot "{b}HELLO!{/b}" with sshake
+    bot "{b}喂!{/b}" with sshake
+
+# game/scripts/lin_events.rpy:304
+translate schinese lin_abduct_53bbefb0:
+
+    # tog "AAAH!" with ssshake
+    tog "{b}啊!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:306
+translate schinese lin_abduct_7c5b798b:
+
+    # m "PLAY A TUNE OR SOMETHING BEFORE YELLING AT FULL VOLUME! I ALMOST SHOT SOMEONE!"
+    m "{b}在你用最大音量说话前,给个提示好吗!我差点开枪了!{/b}"
+
+# game/scripts/lin_events.rpy:307
+translate schinese lin_abduct_6c772303:
+
+    # bot "Sorry~"
+    bot "对不起~"
+
+# game/scripts/lin_events.rpy:308
+translate schinese lin_abduct_138878d5:
+
+    # a "[botname]! What's going on? Is [name] okay??"
+    a "[botname!t]!发生什么事了?[name]还好吗??"
+
+# game/scripts/lin_events.rpy:310
+translate schinese lin_abduct_b2024250:
+
+    # bot "I wasn't able to keep up, I'm sorry..."
+    bot "我没跟上,抱歉......"
+
+# game/scripts/lin_events.rpy:311
+translate schinese lin_abduct_18f7e16e:
+
+    # a "FUCK!"
+    a "{b}操!{/b}"
+
+# game/scripts/lin_events.rpy:312
+translate schinese lin_abduct_81bbe276:
+
+    # bot "But it's okay! Jena has some cool toys~ I'm still following them. They're almost in Caliber!"
+    bot "但是没事的!耶拿有些很酷的玩具~我还在跟踪他们.他们快到楷利泊了!"
+
+# game/scripts/lin_events.rpy:313
+translate schinese lin_abduct_4481cffb:
+
+    # f "Jena...?"
+    f "耶拿......?"
+
+# game/scripts/lin_events.rpy:314
+translate schinese lin_abduct_9c09e37e:
+
+    # k "Wait why is Jia taking him to the city?"
+    k "等等,贾要带他去城里干什么?"
+
+# game/scripts/lin_events.rpy:316
+translate schinese lin_abduct_5191e017:
+
+    # f "You don't think... it's a public execution!?"
+    f "你不会觉得......这是公开处决吧!?"
+
+# game/scripts/lin_events.rpy:317
+translate schinese lin_abduct_2f103781:
+
+    # bot "No, she just wants to kill Lin."
+    bot "不,她只是想杀了林."
+
+# game/scripts/lin_events.rpy:318
+translate schinese lin_abduct_2d1940ea:
+
+    # f "Oh.{w=1}\nWHAT!?"
+    f "哦.{w=1}\n{b}什么!?{/b}"
+
+# game/scripts/lin_events.rpy:320
+translate schinese lin_abduct_2de2428a:
+
+    # f "We have to do something then! Where is Lin, is she safe?"
+    f "那我们得做些什么!林在哪,她还安全吗?"
+
+# game/scripts/lin_events.rpy:321
+translate schinese lin_abduct_0c523684:
+
+    # k "[name] took her somewhere earlier today, she's okay."
+    k "[name]今天早些时候把她带到某个地方去了,她还安全."
+
+# game/scripts/lin_events.rpy:322
+translate schinese lin_abduct_51300068:
+
+    # f "Holy shit... he saved her life by just a few hours."
+    f "我操......他几小时前就救了她一命."
+
+# game/scripts/lin_events.rpy:323
+translate schinese lin_abduct_77264556:
+
+    # bot "Wait... where is Ellen?"
+    bot "等一下......艾兰了?"
+
+# game/scripts/lin_events.rpy:325
+translate schinese lin_abduct_0aac5627:
+
+    # au "The cops took her..."
+    au "警察把她带走了......"
+
+# game/scripts/lin_events.rpy:326
+translate schinese lin_abduct_82a5cf5a:
+
+    # bot "What!? Even though I deleted all the recordings!?"
+    bot "什么!?即使我把所有录像都删了,他们还是把她带走了!?"
+
+# game/scripts/lin_events.rpy:327
+translate schinese lin_abduct_ec472fb4:
+
+    # k "They took her {u}because{/u} you deleted all the recordings..."
+    k "{u}就是因为{/u}你把录像都删了,所以他们才把她带走的......"
+
+# game/scripts/lin_events.rpy:328
+translate schinese lin_abduct_3e8374e8:
+
+    # f "That was you!? You made her look guilty!"
+    f "是你!?你让她内疚极了!"
+
+# game/scripts/lin_events.rpy:329
+translate schinese lin_abduct_0e0c2b09:
+
+    # bot "What did you want me to do? Let them see us all laughing with Lin? Watching her leave? Then we'd all be in prison!"
+    bot "那你还想要我干什么?让他们看到我们和林有说有笑吗?看到她离开吗?那我们都会进监狱的!"
+
+# game/scripts/lin_events.rpy:330
+translate schinese lin_abduct_70b54b9a:
+
+    # f "Oh..."
+    f "哦......"
+
+# game/scripts/lin_events.rpy:331
+translate schinese lin_abduct_f5a23fa4:
+
+    # au "Good point..."
+    au "说得好......"
+
+# game/scripts/lin_events.rpy:332
+translate schinese lin_abduct_6c54cd10:
+
+    # bot "So are you guys coming or not?"
+    bot "所以你们来吗?"
+
+# game/scripts/lin_events.rpy:334
+translate schinese lin_abduct_33afd7ec:
+
+    # f "Uh..."
+    f "呃......"
+
+# game/scripts/lin_events.rpy:335
+translate schinese lin_abduct_437606c8:
+
+    # k "Coming? Um..."
+    k "来?呃......"
+
+# game/scripts/lin_events.rpy:337
+translate schinese lin_abduct_74844bbd:
+
+    # a "We're going."
+    a "我们走."
+
+# game/scripts/lin_events.rpy:338
+translate schinese lin_abduct_274f68e0:
+
+    # bot "Oh good! You found my gun!"
+    bot "哦,太好了!你找到了我的枪!"
+
+# game/scripts/lin_events.rpy:339
+translate schinese lin_abduct_fac24501:
+
+    # k "Ashley, a psycho murderer just stole our boyfriend! How can we-"
+    k "阿什莉,一个精神病杀手刚刚偷走了我们的男朋友!我们怎么可-"
+
+# game/scripts/lin_events.rpy:341
+translate schinese lin_abduct_30d304e0:
+
+    # a "-[name!u] WOULDN'T SIT AROUND ON HIS FUCKING ASS LIKE A LITTLE BITCH WHILE ONE OF YOU WERE KIDNAPPED!! GET OFF YOUR ASS AND FUCKING DO SOMETHING!!!" with ssshake
+    a "{b}-要是你们有人被绑架了,[name!u]可不会像个懦夫一样在这里坐以待毙!!赶紧他妈地行动起来做点什么!!!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:342
+translate schinese lin_abduct_bb6de141:
+
+    # m "{i}{size=-7}Hehhh... I forgot we had a little pyscho of our own...{/i}{/size}"
+    m "{i}{size=-7}呵呵......我都忘了我们自己也有个小精神病了......{/i}{/size}"
+
+# game/scripts/lin_events.rpy:344
+translate schinese lin_abduct_395e0e9c:
+
+    # k "Well... {w=1}should we carpool?"
+    k "好吧......{w=1}我们拼车?"
+
+# game/scripts/lin_events.rpy:345
+translate schinese lin_abduct_ab70342c:
+
+    # au "We won't all fit in one car."
+    au "一辆车可载不了我们."
+
+# game/scripts/lin_events.rpy:347
+translate schinese lin_abduct_74cef84c:
+
+    # k "I'll drive Ashley and Maria, and you drive the twins?"
+    k "我载阿什莉和玛丽亚,你载双胞胎?"
+
+# game/scripts/lin_events.rpy:349
+translate schinese lin_abduct_f4337d0f:
+
+    # k "I'll drive Ashley and Maria, and you drive the clones?"
+    k "我载阿什莉和玛丽亚,你载克隆人?"
+
+# game/scripts/lin_events.rpy:350
+translate schinese lin_abduct_966f3e42:
+
+    # au "Yeah. Sounds good..."
+    au "可以.听起来不错......"
+
+# game/scripts/lin_events.rpy:351
+translate schinese lin_abduct_0ab8e158:
+
+    # bot "Yay~ I'll give you guys my location!"
+    bot "耶~我给你们我的位置!"
+
+# game/scripts/lin_events.rpy:355
+translate schinese lin_abduct_6c54cd10_1:
+
+    # bot "So are you guys coming or not?"
+    bot "所以你们到底来不来?"
+
+# game/scripts/lin_events.rpy:356
+translate schinese lin_abduct_0e7b2934:
+
+    # l "Of course we're coming!"
+    l "我们当然要去了!"
+
+# game/scripts/lin_events.rpy:357
+translate schinese lin_abduct_7ddf6980:
+
+    # nia "Hold on! We need a plan first!"
+    nia "等一下!我们需要先计划一下!"
+
+# game/scripts/lin_events.rpy:359
+translate schinese lin_abduct_d647691d:
+
+    # ghen "Nia, the thing about plans is, they never go to plan... sometimes you just gotta fight!"
+    ghen "妮娅,计划赶不上变化......有时候,你只能奋力一搏!"
+
+# game/scripts/lin_events.rpy:360
+translate schinese lin_abduct_279dab1f:
+
+    # nia "Maybe in the revolution, things were different. But when it comes to assassinating someone? YOU NEED A PLAN!"
+    nia "也许在革命时期,情况有所不同.但是要暗杀一个人?{b}你需要计划!{/b}"
+
+# game/scripts/lin_events.rpy:362
+translate schinese lin_abduct_3fe3e0af:
+
+    # nia "We don't know the environment, we don't know where they're going, who's going to be there, NOTHING!"
+    nia "我们不知道环境,不知道他们要去哪,也不知道谁会在那里,{b}什么都不知道{/b}!"
+
+# game/scripts/lin_events.rpy:364
+translate schinese lin_abduct_dcae12b1:
+
+    # ghen "HAHAHAH! Sounds FUN!"
+    ghen "{b}哈哈哈哈!听起来{b}更有趣了{/b!"
+
+# game/scripts/lin_events.rpy:366
+translate schinese lin_abduct_baf19692:
+
+    # nia "Oh for fuck's sake."
+    nia "哦,看在上天的份上."
+
+# game/scripts/lin_events.rpy:368
+translate schinese lin_abduct_bb69fd8d:
+
+    # nia "FINE! We're taking your beater though."
+    nia "{b}好吧!{/b}不过,我们要开你那辆老东西."
+
+# game/scripts/lin_events.rpy:369
+translate schinese lin_abduct_541e30c0:
+
+    # ghen "Fine by me, just changed the tires!"
+    ghen "我没问题,刚刚换好轮胎呢!"
+
+# game/scripts/lin_events.rpy:371
+translate schinese lin_abduct_195b5510:
+
+    # l "What's a beater? A car? You have a car!?"
+    l "什么老东西?车吗?你们有车!?"
+
+# game/scripts/lin_events.rpy:372
+translate schinese lin_abduct_bdeb5969:
+
+    # ghen "Of course I do! I got a guy uptown storing it for me. It's not street legal but it works!"
+    ghen "我当然有了!我在城里找了个人帮我保管.虽然不合法,但还能用!"
+
+# game/scripts/lin_events.rpy:374
+translate schinese lin_abduct_7190c34a:
+
+    # bot "Oh, you guys won't need a car. They're coming to you!"
+    bot "哦,你们不需要车.他们朝你们过来了!"
+
+# game/scripts/lin_events.rpy:375
+translate schinese lin_abduct_fbfe389d:
+
+    # nia "What?"
+    nia "什么?"
+
+# game/scripts/lin_events.rpy:376
+translate schinese lin_abduct_8e0b32d7:
+
+    # jena "They're slowing down! They're definitely looking for something downtown."
+    jena "他们慢下来了,肯定是在市中心里找什么."
+
+# game/scripts/lin_events.rpy:377
+translate schinese lin_abduct_b05c94fc:
+
+    # l "They're in the city? We need to hurry then!"
+    l "他们在城里?我们需要快点过去!"
+
+# game/scripts/lin_events.rpy:379
+translate schinese lin_abduct_c5c763d1:
+
+    # nia "*exhale*... Alright, I'll get my stuff..."
+    nia "*呼气*......好吧,我把东西带上......"
+
+# game/scripts/lin_events.rpy:380
+translate schinese lin_abduct_fdd5f2ac:
+
+    # ghen "Heheh, hell yeah."
+    ghen "呵呵呵,太他妈是了."
+
+# game/scripts/lin_events.rpy:381
+translate schinese lin_abduct_87ace40b:
+
+    # jena "I gotchu guys covered!"
+    jena "我给你们掩护!"
+
+# game/scripts/lin_events.rpy:383
+translate schinese lin_abduct_f1b323b4:
+
+    # nia "And Lin... try not to die..."
+    nia "还有,林......别死了......"
+
+# game/scripts/lin_events.rpy:384
+translate schinese lin_abduct_62c7c40a:
+
+    # l "You too, Nia."
+    l "你也是,妮娅."
+
+# game/scripts/lin_events.rpy:385
+translate schinese lin_abduct_7586910b:
+
+    # nia "I mean... it would probably be best if you stayed."
+    nia "我是说......如果你留在这里,可能会更好."
+
+# game/scripts/lin_events.rpy:387
+translate schinese lin_abduct_06d35b12:
+
+    # l "That's not going to happen."
+    l "那绝对不可能."
+
+# game/scripts/lin_events.rpy:388
+translate schinese lin_abduct_ff4d175f:
+
+    # nia "Yeah... I know."
+    nia "是的......我知道."
+
+# game/scripts/lin_events.rpy:391
+translate schinese lin_abduct_bb8e4b4e_1:
+
+    # a "..."
+    a "......"
+
+# game/scripts/lin_events.rpy:392
+translate schinese lin_abduct_e612037c_1:
+
+    # m "..."
+    m "......"
+
+# game/scripts/lin_events.rpy:393
+translate schinese lin_abduct_bb8e4b4e_2:
+
+    # a "..."
+    a "......"
+
+# game/scripts/lin_events.rpy:395
+translate schinese lin_abduct_9373ec30:
+
+    # m "Kali, I've never seen Ashley like this before...! I'm a little scared!"
+    m "凯莉,我从来没见过阿什莉这个样子过......!我有点害怕!"
+
+# game/scripts/lin_events.rpy:396
+translate schinese lin_abduct_ff7ed8fc:
+
+    # k "What do you want me to do??"
+    k "那你想让我干什么??"
+
+# game/scripts/lin_events.rpy:397
+translate schinese lin_abduct_bb8e4b4e_3:
+
+    # a "..."
+    a "......"
+
+# game/scripts/lin_events.rpy:399
+translate schinese lin_abduct_c9123695:
+
+    # m "Aren't you going to scream and yell or something!? Why are you so quiet!? It's creepy!"
+    m "你不应该大叫些什么吗!?为什么你这么安静!?太吓人了!"
+
+# game/scripts/lin_events.rpy:400
+translate schinese lin_abduct_aa30fbca:
+
+    # k "We're all worried about [name]..."
+    k "我们都很担心[name]......"
+
+# game/scripts/lin_events.rpy:401
+translate schinese lin_abduct_0e57903e:
+
+    # m "It's not that... it's something else...!"
+    m "不是那个......是别的......!"
+
+# game/scripts/lin_events.rpy:403
+translate schinese lin_abduct_09b107e0:
+
+    # a "{i}I'm tired of feeling small...{/i}"
+    a "{i}我厌倦了渺小的感觉......{/i}"
+
+# game/scripts/lin_events.rpy:405
+translate schinese lin_abduct_d29d6926:
+
+    # a "SHE THINKS SHE CAN JUST KIDNAP [name!u] AND GET AWAY WITH IT!? SHE THINKS SHE CAN KILL LIN THAT EASY!?" with ssshake
+    a "{b}她以为她随随便便把[name!u]绑了就能逃之夭夭!?她以为那么容易就能杀了林!?{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:406
+translate schinese lin_abduct_691df333:
+
+    # a "I've never met this bitch BUT I WANT HER {b}DEAD!!{/b}"
+    a "我从来没见过那个婊子,{b}但是我要她死!!{/b}"
+
+# game/scripts/lin_events.rpy:407
+translate schinese lin_abduct_4292ff76:
+
+    # k "We might not have to kill her, Ashley!"
+    k "我们可能没必要杀了她,阿什莉!"
+
+# game/scripts/lin_events.rpy:409
+translate schinese lin_abduct_f09083df:
+
+    # a "LISTEN HERE YOU LITTLE SHIT!" with ssshake
+    a "{b}给我听好了你这混蛋!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:410
+translate schinese lin_abduct_d96d2513:
+
+    # a "Jia declared war on us, SO IT'S WAR!"
+    a "贾向我们宣战了,{b}所以这就是战争!{/b}"
+
+# game/scripts/lin_events.rpy:411
+translate schinese lin_abduct_92ab41aa:
+
+    # a "That was Lin's FRIEND! She BETRAYED us! SHE WOULD HAVE KILLED HER ALREADY IF SHE HAD THE CHANCE! I'M NOT TAKING PRISONERS!!"
+    a "她曾经是林的{b}朋友{/b}!她{b}背叛{/b}了我们!{b}如果有机会,她早就把她杀了!我可不留活口!!{/b}"
+
+# game/scripts/lin_events.rpy:412
+translate schinese lin_abduct_07f5e686:
+
+    # k "Okay, fuck!"
+    k "行行行,我操!"
+
+# game/scripts/lin_events.rpy:414
+translate schinese lin_abduct_f0e3bf60:
+
+    # bot "Guys, she stopped! They're getting out!"
+    bot "伙计们,她停下了!他们出来了!"
+
+# game/scripts/lin_events.rpy:415
+translate schinese lin_abduct_b508480c:
+
+    # a "What? Where!? Is he okay!?"
+    a "什么?在哪!?他还好吗!?"
+
+# game/scripts/lin_events.rpy:416
+translate schinese lin_abduct_47844c11:
+
+    # bot "He's fine. They went into some residential building in the middle of downtown..."
+    bot "他还好.他们走进了市中心的一栋居民楼."
+
+# game/scripts/lin_events.rpy:417
+translate schinese lin_abduct_8e76e6d0:
+
+    # k "A residential building? Why is she taking him someone so public? That's the last place I'd go to kill someone..."
+    k "居民楼?她为什么要把他带到这么公共的地方?我要是想杀人,那里是我最不可能去的地方......"
+
+# game/scripts/lin_events.rpy:419
+translate schinese lin_abduct_6d11f8c3:
+
+    # m "It's probably deeper than that..."
+    m "可能不止那样......"
+
+# game/scripts/lin_events.rpy:420
+translate schinese lin_abduct_f306d515:
+
+    # m "She was loved by humans. She was supposed to be the best example of an elf there is..."
+    m "她曾被人类所爱着.她本应该是精灵的最佳模范......"
+
+# game/scripts/lin_events.rpy:422
+translate schinese lin_abduct_762faeba:
+
+    # m "Maybe she thinks she'll win their admiration back if she kills the most wanted elf in the world?"
+    m "也许她认为,只要她杀了世界上最受通缉的精灵,就能重新赢得他们的敬佩?"
+
+# game/scripts/lin_events.rpy:423
+translate schinese lin_abduct_8abca22a:
+
+    # k "Lin is not the most wanted elf in the world... People don't even know if MuteMaid was real or not."
+    k "林可不是这个世界上最受通缉的精灵......人们甚至都不知道沉默女仆到底是不是真的."
+
+# game/scripts/lin_events.rpy:424
+translate schinese lin_abduct_9f09cc3c:
+
+    # m "Then who is? Lin is the only elf in modern history to make a stand like that. They released Archon because of her!"
+    m "那谁是?林是现代历史上唯一一个站出来的.他们就是因为她才把执政官放出来的!"
+
+# game/scripts/lin_events.rpy:425
+translate schinese lin_abduct_92530254:
+
+    # k "...Shit. I don't know."
+    k "......操.我不知道."
+
+# game/scripts/lin_events.rpy:427
+translate schinese lin_abduct_d6f5859f:
+
+    # a "DRIVE FASTER! WE'LL NEVER GET THERE IN TIME!"
+    a "{b}开快点!我们来不及了!{/b}"
+
+# game/scripts/lin_events.rpy:428
+translate schinese lin_abduct_d090cd4b:
+
+    # k "I'm going as fast as I can, Ash, I don't want to run into Autumn! And do you really want to get pulled over for speeding with two guns in the car!?"
+    k "我已经开得最快了,阿什,我可不想撞到秋!而且你真的想因为超速在高速上被拦下吗,车上还放着两把枪呢!"
+
+# game/scripts/lin_events.rpy:429
+translate schinese lin_abduct_0bfd9d92:
+
+    # a "I DON'T CARE! THEY CAN GET SOME TOO!"
+    a "{b}我不管!他们想吃枪子也行!{/b}"
+
+# game/scripts/lin_events.rpy:430
+translate schinese lin_abduct_2e1010dd:
+
+    # k "Fucking hell, Ashley!"
+    k "我了个大操,阿什莉!"
+
+# game/scripts/lin_events.rpy:432
+translate schinese lin_abduct_0d4eaf03:
+
+    # bot "Oh, you can floor it! There aren't any cops in your direction."
+    bot "哦,你地板油!你们的方向上没有警察."
+
+# game/scripts/lin_events.rpy:433
+translate schinese lin_abduct_86a3d62f:
+
+    # k "How do you know?"
+    k "你怎么知道的?"
+
+# game/scripts/lin_events.rpy:434
+translate schinese lin_abduct_d4b2a0bf:
+
+    # bot "Police radio is public. I can track their location with that."
+    bot "警察的通讯碰道是公开的,我通过这个跟踪了他们."
+
+# game/scripts/lin_events.rpy:435
+translate schinese lin_abduct_0d730294:
+
+    # k "Seriously?"
+    k "认真的?"
+
+# game/scripts/lin_events.rpy:437
+translate schinese lin_abduct_7088022a:
+
+    # a "YOU HEARD HER! ALL GAS, NO BREAKS! LET'S FUCKING GOOOOOO!!!"
+    a "{b}你听到她说什么了吧!油门踩死,不要刹车!我们他妈地走吧!!!{/b}"
+
+# game/scripts/lin_events.rpy:438
+translate schinese lin_abduct_583573c9:
+
+    # k "Alright... hang on guys!"
+    k "好吧......坐稳了,伙计们!"
+
+# game/scripts/lin_events.rpy:440
+translate schinese lin_abduct_1ab9927b:
+
+    # m "AAAAH!"
+    m "{b}啊!{/b}"
+
+# game/scripts/lin_events.rpy:443
+translate schinese lin_abduct_0d80540c:
+
+    # ami "Look! He cheated on her, WHILE she was pregnant! Everyone is talking about it!"
+    ami "看!她{b}怀孕的时候{/b}他出轨了!大家都在讨论这件事!"
+
+# game/scripts/lin_events.rpy:444
+translate schinese lin_abduct_c61b9ca1:
+
+    # kim "Hehe! That's so messy~ They were like, the biggest couple on the internet!"
+    kim "呵呵!太混乱了~他们可是互联网上最火的一对呢!"
+
+# game/scripts/lin_events.rpy:445
+translate schinese lin_abduct_87efefbb:
+
+    # ami "Yeah! I could never date a man like that."
+    ami "对啊!我可不会和那样的男人约会."
+
+# game/scripts/lin_events.rpy:447
+translate schinese lin_abduct_1eaf4937:
+
+    # nala "Um, guys...! Look at what's trending!"
+    nala "呃,伙计们......!还是看看热搜吧!"
+
+# game/scripts/lin_events.rpy:448
+translate schinese lin_abduct_be0f274d:
+
+    # kim "What has you so worried?"
+    kim "你怎么这么担心?"
+
+# game/scripts/lin_events.rpy:450
+translate schinese lin_abduct_f7173a17:
+
+    # nala "Isn't that Kali's boyfriend!?"
+    nala "那不是凯莉的男朋友吗!?"
+
+# game/scripts/lin_events.rpy:452
+translate schinese lin_abduct_bafeb548:
+
+    # ami "What the fuck!?" with ssshake
+    ami "什么鬼!?" with ssshake
+
+# game/scripts/lin_events.rpy:453
+translate schinese lin_abduct_84d7b949:
+
+    # kim "Oh my god! Is that Jia too!?"
+    kim "哦我天!那是贾吗!?"
+
+# game/scripts/lin_events.rpy:454
+translate schinese lin_abduct_20ca9de1:
+
+    # ami "They didn't catch her yet!?"
+    ami "他们还没抓到她!?"
+
+# game/scripts/lin_events.rpy:456
+translate schinese lin_abduct_d7c4a483:
+
+    # van "That {i}is{/i} him! What the fuck happened!?"
+    van "那{i}就是{/i}他!他妈的发生什么事了!?"
+
+# game/scripts/lin_events.rpy:457
+translate schinese lin_abduct_5124620f:
+
+    # nala "I- I don't know, this has to be some sort of joke...!"
+    nala "我-我不知道,这肯定是某种玩笑......!"
+
+# game/scripts/lin_events.rpy:459
+translate schinese lin_abduct_1b683816:
+
+    # jia "Ahh~ Look at the city, [name]... isn't she beautiful?"
+    jia "啊~看看这座城市,[name]......不是很美丽吗?"
+
+# game/scripts/lin_events.rpy:461
+translate schinese lin_abduct_07469d5d:
+
+    # jia "And to think! Soon, it will all be gone~!"
+    jia "想想吧!很快,这一切都将不复存在~!"
+
+# game/scripts/lin_events.rpy:463
+translate schinese lin_abduct_45bb0af9:
+
+    # jia "THE GREAT RESET! Just what this country needs!" with ssshake
+    jia "{b}伟大的重置!{/b}这正是这个国家所需要的!" with ssshake
+
+# game/scripts/lin_events.rpy:464
+translate schinese lin_abduct_28802633:
+
+    # jia "...{w}..."
+    jia "......{w}......"
+
+# game/scripts/lin_events.rpy:466
+translate schinese lin_abduct_0dd66a91:
+
+    # jia "{i}{size=-5}Where are you, Lin... Your master needs you~...{/i}{/size}"
+    jia "{i}{size=-5}你在哪,林......你的主人需要你~......{/i}{/size}"
+
+# game/scripts/lin_events.rpy:467
+translate schinese lin_abduct_5a2adcbb:
+
+    # jia "{i}{size=-5}I'm sure you've seen it by now...{/i}{/size}"
+    jia "{i}{size=-5}我肯定你现在已经看到了......{/i}{/size}"
+
+# game/scripts/lin_events.rpy:469
+translate schinese lin_abduct_13afa386:
+
+    # jia "Hmmm~ why don't we give her a little more incentive, huh? Come on, what do you say?"
+    jia "嗯~我们为什么不多给她点奖励呢?来吧,你觉得怎么样?"
+
+# game/scripts/lin_events.rpy:471
+translate schinese lin_abduct_c99dcaf6:
+
+    # jia "Hello world! Far too long have I been a pawn in your stupid little game of subjugation..." with ssshake
+    jia "你好,世界! 我成为你们愚蠢的征服游戏中的一颗棋子已经太久了." with ssshake
+
+# game/scripts/lin_events.rpy:474
+translate schinese lin_abduct_3e688106:
+
+    # jia "But no... more..."
+    jia "但是,再也......不会了......"
+
+# game/scripts/lin_events.rpy:476
+translate schinese lin_abduct_b97cf6d0:
+
+    # jia "I was never your queen. I was a SLAVE! Just like YOU, Syls! A vessel for false hope. It was alllll a lie..."
+    jia "我从来都不是你们的女王.我是个{b}奴隶{/b}!和{b}你们{/b}这些Syls一样!一个虚假希望的容器.一切都是谎言......"
+
+# game/scripts/lin_events.rpy:477
+translate schinese lin_abduct_c3be72f2:
+
+    # jia "But no more! Today, I've broken my chains. Today, I am your savior! I'll bring you {i}real{/i} hope."
+    jia "但是再也不会了!今天,我打破了我的枷锁.今天,我是你们的救世主!我带给你们{i}真正的{/i}希望."
+
+# game/scripts/lin_events.rpy:479
+translate schinese lin_abduct_53e52aac:
+
+    # jia "And it all starts... with you. {w=0.5}Lin's master..."
+    jia "而这一切......从你开始.{w=0.5}林的主人......"
+
+# game/scripts/lin_events.rpy:481
+translate schinese lin_abduct_3db000b6:
+
+    # jia "Oh! Right... what am I saying? I suppose you all know her as MuteMaid..."
+    jia "哦!对了......我在说什么?我想你们都知道了,她就是沉默女仆......"
+
+# game/scripts/lin_events.rpy:483
+translate schinese lin_abduct_23fc1a46:
+
+    # jia "The false idol! The traitor! A charlatan of hope, and a deceiver!"
+    jia "虚伪的偶像!叛徒!希望的骗子!诈骗犯!"
+
+# game/scripts/lin_events.rpy:484
+translate schinese lin_abduct_d6cd1449:
+
+    # jia "She who stands with humans! AGAINST. HER. OWN!"
+    jia "她和人类站在一起!{b}她.反.对.她.自.己!{/b}"
+
+# game/scripts/lin_events.rpy:486
+translate schinese lin_abduct_03c3a6d9:
+
+    # jia "Where are you Liiiiin~? {b}WHERE ARE YOU!?!?{/b}"
+    jia "你的林去哪里了~?{b}你在哪!?!?{/b}"
+
+# game/scripts/lin_events.rpy:487
+translate schinese lin_abduct_8762b964:
+
+    # jia "Or will you abandon him like you did the rest of us? Does his freedom mean less than yours? {b}PRETENDER!{/b}"
+    jia "或者你会抛弃他,就像你抛弃了我们一样?他的自由比不过你的自由吗?{b}冒牌货!{/b}"
+
+# game/scripts/lin_events.rpy:488
+translate schinese lin_abduct_7d3e5ad5:
+
+    # jia "Yes, MuteMaid is real. AND HER NAME IS LIN!\nWhere is she now? Why has she disappeared? Isn't it strange?"
+    jia "是的,沉默女仆是真的.{b}她叫林!{/b}\n她现在在哪里?她为什么消失了?这难道不奇怪吗?"
+
+# game/scripts/lin_events.rpy:489
+translate schinese lin_abduct_f37dfff4:
+
+    # jia "The false idol is HIDING! She is not your queen, she is not your savior. But I WILL be!"
+    jia "那个虚伪的偶像正{b}躲{/b}在什么地方呢!她不是你们的女王,不是你们的救世主.但我{b}会{/b}是!"
+
+# game/scripts/lin_events.rpy:490
+translate schinese lin_abduct_34412b0e:
+
+    # jia "The Alosi will rise again! THAT will be our moment!"
+    jia "Alosi将会再次崛起!{b}那{/b}会是我们的时刻!"
+
+# game/scripts/lin_events.rpy:492
+translate schinese lin_abduct_f1fad942:
+
+    # van "Shit! Now everyone knows!" with ssshake
+    van "操了!现在大家都知道了!" with ssshake
+
+# game/scripts/lin_events.rpy:494
+translate schinese lin_abduct_5b4e1dd9:
+
+    # jes "We're screwed!" with ssshake
+    jes "我们完蛋了!" with ssshake
+
+# game/scripts/lin_events.rpy:496
+translate schinese lin_abduct_42a651c5:
+
+    # rasha "That's Lin!? Holy hell, man! You're fucked!" with ssshake
+    rasha "那是林!?我操,火击!你们完蛋了!" with ssshake
+
+# game/scripts/lin_events.rpy:498
+translate schinese lin_abduct_2cd0630b:
+
+    # felf "I'm dead..." with ssshake
+    felf "我要死了......" with ssshake
+
+# game/scripts/lin_events.rpy:500
+translate schinese lin_abduct_4c42bdd3:
+
+    # josh "Oh, fuck." with ssshake
+    josh "哦操." with ssshake
+
+# game/scripts/lin_events.rpy:502
+translate schinese lin_abduct_c0943a6d:
+
+    # corn "PFFSH!" with ssshake
+    corn "{b}噗!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:504
+translate schinese lin_abduct_b041330a:
+
+    # corn "{b}JIAAAA!!!{/b}" with sshake
+    corn "{b}贾!!!{/b}" with sshake
+
+# game/scripts/lin_events.rpy:509
+translate schinese lin_abduct_beba1300:
+
+    # man "Fucking Lin!? I knew I wasn't dreaming! She's going to ruin this country!"
+    man "操他妈的,林!?我就知道我没在做梦!她要毁了这个国家!"
+
+# game/scripts/lin_events.rpy:510
+translate schinese lin_abduct_5ee73466:
+
+    # kate "Oh no... [name]!"
+    kate "哦不......[name]!"
+
+# game/scripts/lin_events.rpy:512
+translate schinese lin_abduct_53fca3c0:
+
+    # corn "SHUT IT DOWN! WHAT THE FUCK ARE YOU DOING!?"
+    corn "{b}快关掉!你他妈在干什么!?{/b}"
+
+# game/scripts/lin_events.rpy:513
+translate schinese lin_abduct_092d4c2a:
+
+    # archon "Yes sir. The stream has ended."
+    archon "是的,先生.直播已被终止."
+
+# game/scripts/lin_events.rpy:515
+translate schinese lin_abduct_b1d6230a:
+
+    # corn "One problem after another... after another! AFTER A-GOD-DAMN-NOTHER! GOD DAMN IT!!"
+    corn "问题一个接着一个......接着一个!{b}一个,他妈,接着,一个!操他妈的!!{/b}"
+
+# game/scripts/lin_events.rpy:516
+translate schinese lin_abduct_cfe19fc9:
+
+    # q "I warned you this could happen..."
+    q "我很早之前就警告过你会发生这种事情......"
+
+# game/scripts/lin_events.rpy:517
+translate schinese lin_abduct_f8dd086d:
+
+    # corn "Shut up! I don't need your pedantic lecturing!"
+    corn "闭嘴!我不需要你迂腐的说教!"
+
+# game/scripts/lin_events.rpy:519
+translate schinese lin_abduct_5a6ac95b:
+
+    # chancellor "You pushed her too far."
+    chancellor "你把她逼太死了."
+
+# game/scripts/lin_events.rpy:520
+translate schinese lin_abduct_41a5123a:
+
+    # corn "It was YOUR idea to give her the eye! It was YOUR idea to marry her off! This is YOUR responsibility!"
+    corn "把眼睛给她是{b}你的{/b}主意!把她嫁出去也是{b}你的{/b}主意!这都是{b}你的{/b}责任!"
+
+# game/scripts/lin_events.rpy:521
+translate schinese lin_abduct_7403b2b2:
+
+    # chancellor "Neither of which should cause a mental break. Look at me, I'm doing fine."
+    chancellor "这些可不会导致精神崩溃.看看我,我不就过得好好的."
+
+# game/scripts/lin_events.rpy:522
+translate schinese lin_abduct_87ae5ef5:
+
+    # corn "Bah! She was always unstable. Though I never imagined this..."
+    corn "呃!她一直以来都很稳定.我从来都没想过这种事情......"
+
+# game/scripts/lin_events.rpy:524
+translate schinese lin_abduct_f69a7e15:
+
+    # mystwman "More importantly... who are the Alosi?"
+    mystwman "更重要的是......Alosi是谁?"
+
+# game/scripts/lin_events.rpy:525
+translate schinese lin_abduct_d0d04209:
+
+    # corn "Just some ancient term for southern elves... It doesn't matter. She's fucking insane!"
+    corn "只是古代对南方精灵的称呼......无所谓了.她是个疯子!"
+
+# game/scripts/lin_events.rpy:526
+translate schinese lin_abduct_a60087ad:
+
+    # durn "Is... everything okay, sir?"
+    durn "一切......都还好吗,先生?"
+
+# game/scripts/lin_events.rpy:527
+translate schinese lin_abduct_7b51f73e:
+
+    # corn "Fuck off!"
+    corn "滚蛋!"
+
+# game/scripts/lin_events.rpy:528
+translate schinese lin_abduct_9dbf51db:
+
+    # durn "Very well..."
+    durn "好的......"
+
+# game/scripts/lin_events.rpy:530
+translate schinese lin_abduct_4c2cba46:
+
+    # corn "What's more pressing is that we have no way of hiding what happened in Caliber now! That live stream had over two million FUCKING viewers!"
+    corn "更要命的是,我们现在没办法隐瞒在楷利泊发生了什么事!那场直播有{b}他妈{/b}两百多万人观看!"
+
+# game/scripts/lin_events.rpy:531
+translate schinese lin_abduct_7415f4d0:
+
+    # corn "This is going to make headlines in every civilized country on this fucking planet! We're an international laughingstock now! We'll all be lucky if we keep our god damn jobs!"
+    corn "这将成为这个星球上所有文明国家的头条新闻!我们现在成了国际笑柄!我们现在他妈能保住饭碗就不错了!"
+
+# game/scripts/lin_events.rpy:532
+translate schinese lin_abduct_fa54a2a3:
+
+    # mystwman "Relax... it's not that serious. We'll find a way to spin it."
+    mystwman "放松......没那么严重的.我们会想办法解决的."
+
+# game/scripts/lin_events.rpy:534
+translate schinese lin_abduct_0e1c04ad:
+
+    # chancellor "At least we know [name] isn't involved now. My daughter is dating him, you know?"
+    chancellor "至少我们现在知道[name]没有卷入其中.我的女儿在和她约会,你知道吗?"
+
+# game/scripts/lin_events.rpy:535
+translate schinese lin_abduct_2de9feb3:
+
+    # corn "Is he now? And what makes you so sure he isn't!?"
+    corn "他现在也是吗?你这么这么确定他没有卷入其中!?"
+
+# game/scripts/lin_events.rpy:536
+translate schinese lin_abduct_92df22b9:
+
+    # chancellor "Jia went to the hotel, like you said, and Lin wasn't there. That's why this is all happening. The police report was clear, she left months ago."
+    chancellor "就像你说的,贾去了酒店,然后林不在那里.这就是发生这一切的原因.警察的报告说得很虔诚了,她几个月前就离开了."
+
+# game/scripts/lin_events.rpy:537
+translate schinese lin_abduct_4a7e172c:
+
+    # chancellor "I'm just glad my daughter is okay. It's scary to think she was so close to Lin."
+    chancellor "我很高兴我的女儿安好.想一想她和林走得那么近,我就感到后怕."
+
+# game/scripts/lin_events.rpy:539
+translate schinese lin_abduct_47b4631a:
+
+    # jia "{i}We're waiting, Lin... Come out wherever you are~...{/i}"
+    jia "{i}我们在等你呢,林......从你藏身的地方出来吧~......{/i}"
+
+# game/scripts/lin_events.rpy:540
+translate schinese lin_abduct_0cc75ff2:
+
+    # c "Nngh... You've already failed, Jia..."
+    c "呃......你已经失败了,贾......"
+
+# game/scripts/lin_events.rpy:542
+translate schinese lin_abduct_89456436:
+
+    # jia "Hehe, oh you're awake! I was starting to worry I gave you too much..."
+    jia "呵呵,哦,你醒了啊!我都开始担心我是不是有点太过火了......"
+
+# game/scripts/lin_events.rpy:543
+translate schinese lin_abduct_7ba5e88b:
+
+    # c "No one... is coming..."
+    c "没人......会来的......"
+
+# game/scripts/lin_events.rpy:544
+translate schinese lin_abduct_a74ebf5d:
+
+    # jia "So little faith in your pet...\nNo, she'll call any minute. She's a loyal one, isn't she?"
+    jia "怎么对你的小宠物这么没信心啊......\n不,她随时都会来的.她很忠诚,不是吗?"
+
+# game/scripts/lin_events.rpy:546
+translate schinese lin_abduct_6326b54f:
+
+    # c "No one is coming... {w=0.5}...Because I blocked everyone..."
+    c "没人会来的......{w=0.5}......因为我把所有人都拉黑了......"
+
+# game/scripts/lin_events.rpy:547
+translate schinese lin_abduct_b00db777:
+
+    # jia "What?"
+    jia "什么?"
+
+# game/scripts/lin_events.rpy:549
+translate schinese lin_abduct_369d0339:
+
+    # jia "What do you mean you blocked everyone? WHEN!?"
+    jia "你说把所有人拉黑了是什么意思?{b}什么时候!?{/b}"
+
+# game/scripts/lin_events.rpy:550
+translate schinese lin_abduct_336ab4e8:
+
+    # c "In the car...{w=0.5}\nShe'll never call...{w=0.5}\nShe'll never come...{w=1}\nYou lost, {w=0.33}Jia..."
+    c "在车里的时候......{w=0.5}\n她的电话永远也打不进来......{w=0.5}\n她永远也不会过来......{w=1}\n你输了,{w=0.33}贾......"
+
+# game/scripts/lin_events.rpy:551
+translate schinese lin_abduct_c753afc8:
+
+    # c "It's just me and you... until you want to end this."
+    c "只有你和我......直到你结束这一切."
+
+# game/scripts/lin_events.rpy:553
+translate schinese lin_abduct_cbd2f235:
+
+    # jia "Oh, you REALLY want to fucking die, don't you!?"
+    jia "哦,你{b}真的{/b}很想死,对吧!?"
+
+# game/scripts/lin_events.rpy:554
+translate schinese lin_abduct_9dedfb31:
+
+    # jia "Unblock her! NOW!" with ssshake
+    jia "把她的黑名单撤掉!{b}立刻!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:555
+translate schinese lin_abduct_733431c1:
+
+    # c "No..."
+    c "不......"
+
+# game/scripts/lin_events.rpy:557
+translate schinese lin_abduct_2058b96a:
+
+    # jia "Tell me your password, or you start losing toes!"
+    jia "告诉我你的密码,不然你的脚趾头就要少几根了!"
+
+# game/scripts/lin_events.rpy:558
+translate schinese lin_abduct_78e76cc1:
+
+    # c "You think my feet mean more to me than Lin?"
+    c "你觉得,对我来说,我的脚比林更重要吗?"
+
+# game/scripts/lin_events.rpy:559
+translate schinese lin_abduct_d2628039:
+
+    # c "I almost feel sorry for you... 300 years old and you've never been in love..."
+    c "我都开始对你感到有些抱歉了......300多岁了,你从来没有被人爱过......"
+
+# game/scripts/lin_events.rpy:561
+translate schinese lin_abduct_90b4a07c:
+
+    # jia "Shut up! SHUT UP! You're ruining everything!!" with ssshake
+    jia "闭嘴!{b}闭嘴!{/b}你把一切都毁了!!" with ssshake
+
+# game/scripts/lin_events.rpy:562
+translate schinese lin_abduct_5f1056b5:
+
+    # c "Did you really think I'd trade Lin's life for my own?"
+    c "你真的以为我会拿林的命换我的命吗?"
+
+# game/scripts/lin_events.rpy:563
+translate schinese lin_abduct_a075c5c3:
+
+    # jia "She's a SLAVE! She's an ELF! What is wrong with you!?"
+    jia "她是个{b}奴隶{/b}!她是个{b}精灵{/b}!你什么毛病!?"
+
+# game/scripts/lin_events.rpy:565
+translate schinese lin_abduct_ffab3094:
+
+    # jia "If you really want to die so bad, FINE! I don't mind! I can always try again!!"
+    jia "如果你真的那么想死,{b}行{/b}!我不介意!我永远都可以再试一次!!"
+
+# game/scripts/lin_events.rpy:566
+translate schinese lin_abduct_6b3b0005:
+
+    # jia "Lin dies either way, [name]! But you don't have to!"
+    jia "无论如何,林都会死的,[name]!但你没必要死!"
+
+# game/scripts/lin_events.rpy:567
+translate schinese lin_abduct_f016bee4:
+
+    # jia "What would she want? What do you think LIN would want? You want to die a pointless death? FINE!"
+    jia "她想要什么?你觉得{b}林{/b}想要什么?你想要一场没有目的的死亡?{b}行吧!{/b}"
+
+# game/scripts/lin_events.rpy:568
+translate schinese lin_abduct_2f9fda44:
+
+    # c "Give it your best shot, then... I'm not giving up Lin."
+    c "给个痛快吧,然后......我就不放弃林了."
+
+# game/scripts/lin_events.rpy:570
+translate schinese lin_abduct_9cc6cffc:
+
+    # jia "Fuck you! FUCK YOU!! {b}FUCK YOU!!!{/b}"
+    jia "操你妈!{b}操你妈!!操你妈!!!{/b}"
+
+# game/scripts/lin_events.rpy:582
+translate schinese lin_abduct_5e5d7cbd:
+
+    # jia "WHAT!? Who's there? LIN!!"
+    jia "{b}什么!?{/b}谁在那?{b}林!!{/b}"
+
+# game/scripts/lin_events.rpy:583
+translate schinese lin_abduct_698a1605:
+
+    # jia "Don't play games! I'LL FUCKING KILL HIM!"
+    jia "别耍花招了!{b}我他妈会杀了他!{/b}"
+
+# game/scripts/lin_events.rpy:596
+translate schinese lin_abduct_093d9c47:
+
+    # l "Jia..."
+    l "贾......"
+
+# game/scripts/lin_events.rpy:597
+translate schinese lin_abduct_02a411ae:
+
+    # c "Lin!? Run! What are you doing here?"
+    c "林!?快跑!你在这里做什么?"
+
+# game/scripts/lin_events.rpy:598
+translate schinese lin_abduct_1d536c4f:
+
+    # l "No more running..."
+    l "我不想跑了......"
+
+# game/scripts/lin_events.rpy:600
+translate schinese lin_abduct_8718ca9f:
+
+    # jia "Hehe, I don't know how you found me, but-"
+    jia "呵呵,我不知道你怎么找到我的,但是-"
+
+# game/scripts/lin_events.rpy:603
+translate schinese lin_abduct_845de140:
+
+    # jia "You brought friends..."
+    jia "你带了朋友过来......"
+
+# game/scripts/lin_events.rpy:604
+translate schinese lin_abduct_4fa402b1:
+
+    # c "Don't come any closer! Everyone, leave! Now!"
+    c "别靠近!所有人都离开!立刻!"
+
+# game/scripts/lin_events.rpy:606
+translate schinese lin_abduct_71bd8889:
+
+    # l "It's over, Jia."
+    l "已经结束了,贾."
+
+# game/scripts/lin_events.rpy:607
+translate schinese lin_abduct_099ec3b0:
+
+    # jia "Oh, but the fun is just beginning~!"
+    jia "哦,但是好戏才刚刚开始呢~!"
+
+# game/scripts/lin_events.rpy:609
+translate schinese lin_abduct_689e3a52:
+
+    # jia "I can't thank you enough for coming, really..."
+    jia "说真的,你能过来我真是太谢谢你了......"
+
+# game/scripts/lin_events.rpy:610
+translate schinese lin_abduct_3bbd25d4:
+
+    # l "You have nowhere to run! It's over."
+    l "你无处可逃!已经结束了."
+
+# game/scripts/lin_events.rpy:611
+translate schinese lin_abduct_3e23b957:
+
+    # jia "{i}I won't need to run...{/i}"
+    jia "{i}我不需要逃跑......{/i}"
+
+# game/scripts/lin_events.rpy:612
+translate schinese lin_abduct_f780b453:
+
+    # c "Lin! Stop!"
+    c "林!停下!"
+
+# game/scripts/lin_events.rpy:614
+translate schinese lin_abduct_501b3c83:
+
+    # a "Hurt him and you DIE!"
+    a "你要是敢伤害他,那你就去{b}死{/b}吧!"
+
+# game/scripts/lin_events.rpy:616
+translate schinese lin_abduct_80ab92a4:
+
+    # k "You've already lost, Jia. How bad do you want this to get for you?"
+    k "你已经输了,贾.难道你还想让自己变得更不利吗?"
+
+# game/scripts/lin_events.rpy:618
+translate schinese lin_abduct_8d4a3abb:
+
+    # c "What are you doing, Lin!? {b}RUN!!!{/b}" with ssshake
+    c "你在干什么,林!?{b}快跑!!!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:619
+translate schinese lin_abduct_641c9b99:
+
+    # l "Put the gun down, and we'll do everything we can to help you. This is your last chance..."
+    l "把枪放下,我们可以做一切事情来帮助你.这是你最后的机会......"
+
+# game/scripts/lin_events.rpy:621
+translate schinese lin_abduct_bb15b43e:
+
+    # jia "You idiot! I ONLY WANTED {u}YOU{/u}!!" with ssshake
+    jia "你个傻瓜!{b}我想要的只有{u}你{/u}!!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:623
+translate schinese lin_abduct_82822a0c_3:
+
+    # l "..."
+    l "......"
+
+# game/scripts/lin_events.rpy:625
+translate schinese lin_abduct_b04241cf:
+
+    # l "I know."
+    l "我知道."
+
+# game/scripts/lin_events.rpy:628
+translate schinese lin_abduct_36471a93:
+
+    # jia "You-?"
+    jia "你-?"
+
+# game/scripts/lin_events.rpy:630
+translate schinese lin_abduct_efeeeb41:
+
+    # ghen "Bingo."
+    ghen "好了."
+
+# game/scripts/lin_events.rpy:635
+translate schinese lin_abduct_a21d25cd:
+
+    # jia "AAAGH!!!" with sshake
+    jia "{b}啊!!!{/b}" with sshake
+
+# game/scripts/lin_events.rpy:637
+translate schinese lin_abduct_1501e7a0:
+
+    # jia "FUCK! FUUUUCKKK!!!" with ssshake
+    jia "{b}操!操!!!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:641
+translate schinese lin_abduct_71bd8889_1:
+
+    # l "It's over, Jia."
+    l "结束了,贾."
+
+# game/scripts/lin_events.rpy:642
+translate schinese lin_abduct_1ff283c8:
+
+    # jia "RRGH! YOU FUCKING BITCH!"
+    jia "{b}呃!你个该死的婊子!"
+
+# game/scripts/lin_events.rpy:643
+translate schinese lin_abduct_926e809b:
+
+    # a "GIVE ME A REASON, JUST GIVE ME A REASON!"
+    a "{b}给我给理由,给我给理由!{/b}"
+
+# game/scripts/lin_events.rpy:645
+translate schinese lin_abduct_929cb251:
+
+    # l "What's the point... why are you doing this?"
+    l "那有什么意义呢......为什么你要这么做?"
+
+# game/scripts/lin_events.rpy:646
+translate schinese lin_abduct_eacb84d1:
+
+    # jia "FUCK YOU!!!"
+    jia "{b}操你妈!!!{/b}"
+
+# game/scripts/lin_events.rpy:647
+translate schinese lin_abduct_c7e1d690:
+
+    # l "Stop, Jia... you don't have to die."
+    l "停下,贾......你没必要死的."
+
+# game/scripts/lin_events.rpy:649
+translate schinese lin_abduct_bc4319a2:
+
+    # jia "HAHAHAH! You think you've won?"
+    jia "{b}哈哈哈哈!{/b}你以为你赢了?"
+
+# game/scripts/lin_events.rpy:650
+translate schinese lin_abduct_53ae2b18:
+
+    # jia "Just remember! YOU started this!"
+    jia "记住了!是{b}你{/b}先开始的!"
+
+# game/scripts/lin_events.rpy:652
+translate schinese lin_abduct_d40204fd:
+
+    # jia "AAAAAAGH!!!" with sshake
+    jia "{b}啊!!!{/b}" with sshake
+
+# game/scripts/lin_events.rpy:654
+translate schinese lin_abduct_03df91a1:
+
+    # ghen "...And two."
+    ghen "......第二发."
+
+# game/scripts/lin_events.rpy:656
+translate schinese lin_abduct_378165d5:
+
+    # jia "*exhale*... *exhale*...\nYou were supposed to help us, LIN!"
+    jia "*呼气*......*呼气*......\n你本应该帮助我们的,{b}林{/b!"
+
+# game/scripts/lin_events.rpy:657
+translate schinese lin_abduct_5335278c:
+
+    # jia "WHY WOULD YOU SIDE WITH {u}THEM{/u}!?" with ssshake
+    jia "{b}为什么你要和{u}他们{/u}站在一起!?{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:659
+translate schinese lin_abduct_3a7445e7:
+
+    # l "It's really not that complicated."
+    l "这其实并不复杂."
+
+# game/scripts/lin_events.rpy:660
+translate schinese lin_abduct_82430e5e:
+
+    # l "Do you want to die here, or not?"
+    l "你想死在这里吗?"
+
+# game/scripts/lin_events.rpy:662
+translate schinese lin_abduct_b1978d7e:
+
+    # l "*gasp*!"
+    l "*惊叹*!"
+
+# game/scripts/lin_events.rpy:664
+translate schinese lin_abduct_246267f1:
+
+    # jia "Fuck. You."
+    jia "操.你.妈."
+
+# game/scripts/lin_events.rpy:667
+translate schinese lin_abduct_60b70c5f:
+
+    # l "JIA!!"
+    l "{b}贾!!{/b}"
+
+# game/scripts/lin_events.rpy:669
+translate schinese lin_abduct_e5d023ed:
+
+    # l "JI-..."
+    l "{b}贾-......{/b}"
+
+# game/scripts/lin_events.rpy:670
+translate schinese lin_abduct_3cbc04fd:
+
+    # l "...What? She's gone!"
+    l "......什么?她不见了!"
+
+# game/scripts/lin_events.rpy:671
+translate schinese lin_abduct_a3bd7985:
+
+    # m "Gone?"
+    m "不见了?"
+
+# game/scripts/lin_events.rpy:673
+translate schinese lin_abduct_920d1b7b:
+
+    # l "I don't see her anywhere!"
+    l "我没看见她!"
+
+# game/scripts/lin_events.rpy:674
+translate schinese lin_abduct_39b1731e:
+
+    # m "She can't just be {i}gone!{/i}"
+    m "她不可能就这么{i}不见{/i}了!"
+
+# game/scripts/lin_events.rpy:688
+translate schinese lin_abduct_9b51569c:
+
+    # tog "AAAAH!!!!-{w=0.5}{nw}" with sshake
+    tog "{b}啊!!!!-{w=0.5}{nw}{/b}" with sshake
+
+# game/scripts/lin_events.rpy:690
+translate schinese lin_abduct_cb5c2cae:
+
+    # "...{fast}" with ssshake
+    "......{fast}" with ssshake
+
+# game/scripts/lin_events.rpy:691
+translate schinese lin_abduct_0fd4d656:
+
+    # "......"
+    "............"
+
+# game/scripts/lin_events.rpy:692
+translate schinese lin_abduct_278c7e29:
+
+    # "........."
+    ".................."
+
+# game/scripts/lin_events.rpy:698
+translate schinese lin_abduct_17592c82_1:
+
+    # "*sirens blare in the distance*"
+    "*远处传来警笛声*"
+
+# game/scripts/lin_events.rpy:701
+translate schinese lin_abduct_d19f855d_4:
+
+    # c "..."
+    c "......"
+
+# game/scripts/lin_events.rpy:702
+translate schinese lin_abduct_d95517b5:
+
+    # c "..." with ssshake
+    c "......" with ssshake
+
+# game/scripts/lin_events.rpy:703
+translate schinese lin_abduct_39067e0e:
+
+    # c "Nn..." with ssshake
+    c "呃......" with ssshake
+
+# game/scripts/lin_events.rpy:704
+translate schinese lin_abduct_96de5556:
+
+    # c "Nngh...!" with ssshake
+    c "呃......!" with ssshake
+
+# game/scripts/lin_events.rpy:705
+translate schinese lin_abduct_ef7ebd99:
+
+    # l "[name]! [name]!!!"
+    l "[name]![name]!!!"
+
+# game/scripts/lin_events.rpy:707
+translate schinese lin_abduct_6a27b07d:
+
+    # l "[name]! Wake up! Wake up! Please, wake up!!" with ssshake
+    l "[name]!醒醒!醒醒!求你了,快醒醒!!" with ssshake
+
+# game/scripts/lin_events.rpy:708
+translate schinese lin_abduct_81a2ccd4:
+
+    # c "Nnnh... I'm okay, Lin..."
+    c "呃......我没事,林......"
+
+# game/scripts/lin_events.rpy:709
+translate schinese lin_abduct_f04a1022:
+
+    # c "...The others..."
+    c "......其他人......"
+
+# game/scripts/lin_events.rpy:710
+translate schinese lin_abduct_32e50236:
+
+    # l "I can't do it alone, [name]! I need your help!"
+    l "我自己做不了这么多事情,[name]!我需要你的帮助!"
+
+# game/scripts/lin_events.rpy:712
+translate schinese lin_abduct_d548ab1f:
+
+    # nia "{b}GET UP!!!{/b}\nWe don't have time! WE NEED TO GO!!" with ssshake
+    nia "{b}快起来!!!{/b}\n我们没时间了!{b}我们得走了!!{/b}" with ssshake
+
+# game/scripts/lin_events.rpy:713
+translate schinese lin_abduct_1707e625:
+
+    # bot "Nnngh... I can barely move..."
+    bot "呃......我快动不了了......"
+
+# game/scripts/lin_events.rpy:714
+translate schinese lin_abduct_345abc92:
+
+    # l "Ashley? Maria! Wake up!!"
+    l "阿什莉?玛丽亚!醒醒!!"
+
+# game/scripts/lin_events.rpy:723
+translate schinese lin_abduct_a20cefa7:
+
+    # "..."
+    "......"
+
+# game/scripts/lin_events.rpy:724
+translate schinese lin_abduct_b8e1eace:
+
+    # bot "{i}Oh fuck...{/i}"
+    bot "{i}哦操......{/i}"
+
+# game/scripts/lin_events.rpy:726
+translate schinese lin_abduct_6b0d50e6:
+
+    # nia "Fucking hell!"
+    nia "他妈的什么鬼!"
+
+# game/scripts/lin_events.rpy:730
+translate schinese lin_abduct_fbaff97e:
+
+    # moon "Wait, wait! I'm here to help!"
+    moon "等下,等下!我是来帮忙的!"
+
+# game/scripts/lin_events.rpy:731
+translate schinese lin_abduct_c17d4ddd:
+
+    # c "Moon!?"
+    c "文!?"
+
+# game/scripts/lin_events.rpy:732
+translate schinese lin_abduct_11d21111:
+
+    # nia "What the fuck!? The waitress!?"
+    nia "什么鬼!?服务员!?"
+
+# game/scripts/lin_events.rpy:734
+translate schinese lin_abduct_73ddc321:
+
+    # moon "I'll carry the unconscious down the building! The rest of you, get to your cars!"
+    moon "我把昏迷的人带到楼下去!剩下的,上你们的车!"
+
+# game/scripts/lin_events.rpy:736
+translate schinese lin_abduct_86dd82e3:
+
+    # nia "How the HELL did you get a third revolution mecha-tank!?"
+    nia "你{b}他妈{/b}怎么有第三次革命的机械坦克的!?"
+
+# game/scripts/lin_events.rpy:737
+translate schinese lin_abduct_406940f7:
+
+    # moon "I found it!"
+    moon "我找到的!"
+
+# game/scripts/lin_events.rpy:738
+translate schinese lin_abduct_dc247145:
+
+    # nia "WHAT!?"
+    nia "{b}什么!?{/b}"
+
+# game/scripts/lin_events.rpy:739
+translate schinese lin_abduct_d1d4e8f4:
+
+    # moon "I'll tell you later, come on!"
+    moon "以后再告诉你,快点!"
+
+# game/scripts/lin_events.rpy:740
+translate schinese lin_abduct_c4acdbe6:
+
+    # l "We need to go! Now!"
+    l "我们得走了!马上!"
+
+# game/scripts/lin_events.rpy:741
+translate schinese lin_abduct_6b0d50e6_1:
+
+    # nia "Fucking hell!"
+    nia "他妈的什么鬼!"
+
+# game/scripts/lin_events.rpy:743
+translate schinese lin_abduct_a20cefa7_1:
+
+    # "..."
+    "......"
+
+# game/scripts/lin_events.rpy:745
+translate schinese lin_abduct_9e229a97:
+
+    # l "I'm so glad you're safe, [name]..."
+    l "我很高兴你没事,[name]......"
+
+# game/scripts/lin_events.rpy:746
+translate schinese lin_abduct_00bdd3f0:
+
+    # m "Are you sure you're okay? You don't have a concussion, do you?"
+    m "你确定你没事吗?你没有脑震荡吧?"
+
+# game/scripts/lin_events.rpy:747
+translate schinese lin_abduct_91662275:
+
+    # c "I might... I couldn't break my fall..."
+    c "可能有......"
+
+# game/scripts/lin_events.rpy:748
+translate schinese lin_abduct_470d88d9:
+
+    # c "More importantly, how are the others?"
+    c ""
+
+# game/scripts/lin_events.rpy:749
+translate schinese lin_abduct_9aa317ce:
+
+    # a "[botname] is looking after them."
+    a ""
+
+# game/scripts/lin_events.rpy:750
+translate schinese lin_abduct_a22edeca:
+
+    # moon "I'm so sorry I couldn't get there in time... I had no idea where you were!"
+    moon ""
+
+# game/scripts/lin_events.rpy:752
+translate schinese lin_abduct_9ffb2777:
+
+    # nia "Who... the hell... are you?"
+    nia ""
+
+# game/scripts/lin_events.rpy:753
+translate schinese lin_abduct_91749c47:
+
+    # moon "What do you mean? You know me. I'm Moon!"
+    moon ""
+
+# game/scripts/lin_events.rpy:754
+translate schinese lin_abduct_79a90bd4:
+
+    # nia "Who are you... really? No one has a mecha-tank anymore..."
+    nia ""
+
+# game/scripts/lin_events.rpy:755
+translate schinese lin_abduct_987cae64:
+
+    # moon "I just found them in the woods one day. I've been working on it for years. There's actually a lot out there..."
+    moon ""
+
+# game/scripts/lin_events.rpy:757
+translate schinese lin_abduct_04bf1cd6:
+
+    # c "Somebody get Nia some help... she's barely conscious..."
+    c ""
+
+# game/scripts/lin_events.rpy:758
+translate schinese lin_abduct_f645b6bf:
+
+    # nia "You're one to talk..."
+    nia ""
+
+# game/scripts/lin_events.rpy:759
+translate schinese lin_abduct_e5c69076:
+
+    # c "The explosion pushed you off the roof... I don't even know how you're still moving."
+    c ""
+
+# game/scripts/lin_events.rpy:760
+translate schinese lin_abduct_81a2a922:
+
+    # nia "I've had worse."
+    nia ""
+
+# game/scripts/lin_events.rpy:761
+translate schinese lin_abduct_39d484c5:
+
+    # l "Just get some rest, [name]... we'll take care of the hotel for a while."
+    l ""
+
+# game/scripts/lin_events.rpy:762
+translate schinese lin_abduct_c9cb0719:
+
+    # c "Thank you all... for everything..."
+    c ""
+
+# game/scripts/lin_events.rpy:765
+translate schinese lin_abduct_cf278478:
+
+    # c "Wait, where's Ellen?"
+    c ""
+
+# game/scripts/lin_events.rpy:769
+translate schinese lin_abduct_aa433d21:
+
+    # news "BREAKING NEWS: A coordinated terrorist attack has struck the heart of Caliber. The financial core was exclusively targetted."
+    news ""
+
+# game/scripts/lin_events.rpy:771
+translate schinese lin_abduct_961e1bf9:
+
+    # rep "Reports are still coming in, but multiple explosions were heard in Caliber last night. Early estimations suggest dozens of casualties. The city is in ruins."
+    rep ""
+
+# game/scripts/lin_events.rpy:773
+translate schinese lin_abduct_c2d9585a:
+
+    # news24 "No organizations have claimed responsibility for the attacks. However, we do know disgraced former queen of the elves Jia was at the center of it."
+    news24 ""
+
+# game/scripts/lin_events.rpy:775
+translate schinese lin_abduct_5fb0a7f2:
+
+    # juicy "These were not the actions of a lone wolf! This was TERRORISM! An act of war against Syl'anar! She couldn't have done it alone, who else is involved!?"
+    juicy ""
+
+# game/scripts/lin_events.rpy:777
+translate schinese lin_abduct_3bad03a2:
+
+    # rep "BREAKING: Caliber's streets are empty. Transit lines closed. Corpus financial district in lockdown. Stocks plummet to record lows. Country-wide curfew to begin at sundown."
+    rep ""
+
+# game/scripts/lin_events.rpy:779
+translate schinese lin_abduct_d41ebb96:
+
+    # zara "It was Jia? I knew she went crazy, but this...? They'll use it as an excuse, just watch. They've been waiting for something like this..."
+    zara ""
+
+# game/scripts/lin_events.rpy:781
+translate schinese lin_abduct_61c792bd:
+
+    # news "Arrests up by 863 percent overnight. Church increases surveillance in elven wards. New anti-subversion bill introduced."
+    news ""
+
+# game/scripts/lin_events.rpy:783
+translate schinese lin_abduct_b0d099b9:
+
+    # hman "YOU SEE WHAT THEY'RE DOING, RIGHT? WE'RE LOSING OUR FREEDOM! NOW THEY'RE TREATING US {u}ALL{/u} LIKE SLAVES!"
+    hman ""
+
+# game/scripts/lin_events.rpy:785
+translate schinese lin_abduct_f53b5387:
+
+    # polm "We are not declaring war, we are restoring order. These measures are temporary and ensure your safety."
+    polm ""
+
+# game/scripts/lin_events.rpy:787
+translate schinese lin_abduct_0d0b4992:
+
+    # polm "If you are not a terrorist, you have nothing to worry about."
+    polm ""
+
+# game/scripts/lin_events.rpy:801
+translate schinese lin_abduct_45914015:
+
+    # l "Hm, hm, hm, hmmmmm~"
+    l ""
+
+# game/scripts/lin_events.rpy:804
+translate schinese lin_abduct_b1978d7e_1:
+
+    # l "*gasp*!"
+    l ""
+
+# game/scripts/lin_events.rpy:805
+translate schinese lin_abduct_44c4da23:
+
+    # e "Hello, Lin!"
+    e ""
+
+# game/scripts/lin_events.rpy:806
+translate schinese lin_abduct_bfdbd6ce:
+
+    # l "Ellen!"
+    l ""
+
+# game/scripts/lin_events.rpy:808
+translate schinese lin_abduct_d56e7f9a:
+
+    # l "I'm so happy to see you, Ellen!"
+    l ""
+
+# game/scripts/lin_events.rpy:809
+translate schinese lin_abduct_8d9f76cb:
+
+    # e "Aww, thanks Lin! I'm happy to be back."
+    e ""
+
+# game/scripts/lin_events.rpy:811
+translate schinese lin_abduct_f0f8fb78:
+
+    # l "Are you okay? I can't believe they held you in jail for five days..."
+    l ""
+
+# game/scripts/lin_events.rpy:812
+translate schinese lin_abduct_3f59fffe:
+
+    # e "*sigh*... yes, I'm fine. After the terrorist attack in Caliber they really wanted to make sure I wasn't related to it..."
+    e ""
+
+# game/scripts/lin_events.rpy:813
+translate schinese lin_abduct_ae9296bc:
+
+    # c "Bunch of fucking assholes... they recognized me too, and still gave us shit about it."
+    c ""
+
+# game/scripts/lin_events.rpy:814
+translate schinese lin_abduct_4a179b57:
+
+    # l "That's horrible..."
+    l ""
+
+# game/scripts/lin_events.rpy:816
+translate schinese lin_abduct_c9fd855a:
+
+    # e "But Lin, are you sure it's safe to be here? I heard Jia released your real name..."
+    e ""
+
+# game/scripts/lin_events.rpy:817
+translate schinese lin_abduct_15ddad96:
+
+    # e "I mean, aren't you a fugitive? A terrorist? Or something like that...?"
+    e ""
+
+# game/scripts/lin_events.rpy:819
+translate schinese lin_abduct_e5aaab10:
+
+    # l "Yup! But they have bigger worries now."
+    l ""
+
+# game/scripts/lin_events.rpy:820
+translate schinese lin_abduct_1800a0de:
+
+    # c "The police have looked for her here so many times they seem to have given up. Besides, the whole country is under martial law now. They don't have much resources to look for her."
+    c ""
+
+# game/scripts/lin_events.rpy:821
+translate schinese lin_abduct_b87bb62e:
+
+    # l "I'm just glad we're all okay! It could have ended a lot worse for any of us."
+    l ""
+
+# game/scripts/lin_events.rpy:822
+translate schinese lin_abduct_6825db9a:
+
+    # c "Yeah, you're right...\nTake some time to yourself Ellen, as much as you need."
+    c ""
+
+# game/scripts/lin_events.rpy:823
+translate schinese lin_abduct_bae83216:
+
+    # e "Thank you. I miss my bed..."
+    e ""
+
+# game/scripts/lin_events.rpy:830
+translate schinese lin_abduct_c59cedb7:
+
+    # hqueen "Ahh...{w=1.25}\nGood.{w=0.5} Now the real game begins."
+    hqueen ""
+
+# game/scripts/lin_events.rpy:2009
+translate schinese lin_protest_d58d7418:
+
+    # josh "Old me would never have done something this crazy, but I've started to see things differently. My name is Joshua by the way."
+    josh ""
+
+# game/scripts/lin_events.rpy:12237
+translate schinese cornwall_d80e7267:
+
+    # aar "I'm gonna fuck you unconscious."
+    aar ""
+
+translate schinese strings:
+
+    # game/scripts/lin_events.rpy:55
+    old "Or I could drive us both off into a tree."
+    new ""
+
+    # game/scripts/lin_events.rpy:55
+    old "You have me, don't touch Lin."
+    new ""
+
+    # game/scripts/lin_events.rpy:55
+    old "Using me as bait? That'll never work."
+    new ""
+
+    # game/scripts/lin_events.rpy:790
+    old "{size=+50}When fear becomes policy...{/size}"
+    new ""
+
+    # game/scripts/lin_events.rpy:792
+    old "{size=+50}\nWhen fear becomes policy...\nfreedom becomes treason.{/size}"
+    new ""
+
+    # game/scripts/lin_events.rpy:797
+    old "{size=+50}5 days later...{/size}"
+    new ""
+
+    # game/scripts/lin_events.rpy:1273
+    old "Continue to part two, or a take a break? You may continue the story at Lin's door any time."
+    new ""
+
+    # game/scripts/lin_events.rpy:1273
+    old "Take a break"
+    new ""
+

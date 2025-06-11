@@ -50478,3 +50478,1037 @@ translate schinese kali_work_49981e5f:
     # bae "That might be a bit tough, but... yeah I'll start working on calibrating the sensors."
     bae "这可能有点困难,不过......行吧,我现在就开始校准传感器."
 
+# TODO: Translation updated at 2025-06-12 01:06
+
+# game/scripts/kali_events.rpy:29
+translate schinese kali_corpus_coffee_34c630e0:
+
+    # bae "Our last manager gets randomly transferred, then you show up. His boss didn't even get a chance to promote any of us. Nero himself cherry-picked his daughter for that position..."
+    bae ""
+
+# game/scripts/kali_events.rpy:34
+translate schinese kali_corpus_coffee_79c7bdbb:
+
+    # k "Like I said, I get it... I thought I'd have your position."
+    k ""
+
+# game/scripts/kali_events.rpy:35
+translate schinese kali_corpus_coffee_28516596:
+
+    # bae "And that's why I can respect her... she sees the bullshit like the rest of us."
+    bae ""
+
+# game/scripts/kali_events.rpy:36
+translate schinese kali_corpus_coffee_2f59bd18:
+
+    # bae "You know, you have a lot of power in what goes into the elfbot. You don't have to do everything your father says."
+    bae ""
+
+# game/scripts/kali_events.rpy:37
+translate schinese kali_corpus_coffee_98c1d54c:
+
+    # k "It's my job to tell you guys what he tells me to do... I kind of do have to."
+    k ""
+
+# game/scripts/kali_events.rpy:39
+translate schinese kali_corpus_coffee_7a060b75:
+
+    # bae "No, you don't. The AI division of Nero is a company like any other. Your father only bought it a few years ago. Which means you're our new CEO..."
+    bae ""
+
+# game/scripts/kali_events.rpy:40
+translate schinese kali_corpus_coffee_f9de443b:
+
+    # k "Are you serious? My dad never told me anything about transfering a company in my name."
+    k ""
+
+# game/scripts/kali_events.rpy:41
+translate schinese kali_corpus_coffee_c4728808:
+
+    # bae "Well it's still his, you just run it. And I'd much rather follow you than some egomaniac billionaire... no offense."
+    bae ""
+
+# game/scripts/kali_events.rpy:42
+translate schinese kali_corpus_coffee_599790cb:
+
+    # bae "Assuming you actually know what you're doing, and that you're not here purely due to nepotism."
+    bae ""
+
+# game/scripts/kali_events.rpy:44
+translate schinese kali_corpus_coffee_8f8e7362:
+
+    # k "I know what I'm doing. I've been reprograming androids since I was a child."
+    k ""
+
+# game/scripts/kali_events.rpy:45
+translate schinese kali_corpus_coffee_3ffcfd64:
+
+    # bae "The MKs have a completely different operating system. Are you sure those skills will translate?"
+    bae ""
+
+# game/scripts/kali_events.rpy:46
+translate schinese kali_corpus_coffee_3be21ef4:
+
+    # k "They already have, I finished the college course in weeks. I was already better than the entire class combined by the time I joined."
+    k ""
+
+# game/scripts/kali_events.rpy:47
+translate schinese kali_corpus_coffee_91ba83a4:
+
+    # bae "So you join one class, get lucky, and think you can run a whole company? We've all finished college..."
+    bae ""
+
+# game/scripts/kali_events.rpy:48
+translate schinese kali_corpus_coffee_cf7177b3:
+
+    # k "No... you asked if those skills would translate. They have."
+    k ""
+
+# game/scripts/kali_events.rpy:50
+translate schinese kali_corpus_coffee_0f3acbc2:
+
+    # bae "I know... I'm just giving you shit because I'm starting to like you. For some odd reason, I feel like I can trust you."
+    bae ""
+
+# game/scripts/kali_events.rpy:51
+translate schinese kali_corpus_coffee_79ec50e1:
+
+    # kang "Does everyone know what they want?"
+    kang ""
+
+# game/scripts/kali_events.rpy:52
+translate schinese kali_corpus_coffee_5c84e8ff:
+
+    # bae "Just the usual, a caffe latte."
+    bae ""
+
+# game/scripts/kali_events.rpy:54
+translate schinese kali_corpus_coffee_82df024e:
+
+    # kang "And you, Kali?"
+    kang ""
+
+# game/scripts/kali_events.rpy:55
+translate schinese kali_corpus_coffee_4f2e1a75:
+
+    # k "I actually... hate coffee."
+    k ""
+
+# game/scripts/kali_events.rpy:56
+translate schinese kali_corpus_coffee_8724d66f:
+
+    # bae "Huh? Then why'd you let me take you here?"
+    bae ""
+
+# game/scripts/kali_events.rpy:57
+translate schinese kali_corpus_coffee_a4532b28:
+
+    # k "I didn't want to ruin your plans."
+    k ""
+
+# game/scripts/kali_events.rpy:58
+translate schinese kali_corpus_coffee_dc3112e7:
+
+    # bae "Oh! I know, I'll get you a matcha latte."
+    bae ""
+
+# game/scripts/kali_events.rpy:59
+translate schinese kali_corpus_coffee_d612539c:
+
+    # k "I've never had matcha..."
+    k ""
+
+# game/scripts/kali_events.rpy:60
+translate schinese kali_corpus_coffee_9d01ff2f:
+
+    # bae "Oh my god! You'll love it!"
+    bae ""
+
+# game/scripts/kali_events.rpy:62
+translate schinese kali_corpus_coffee_9eacb75e:
+
+    # waitress "What can I get you?"
+    waitress ""
+
+# game/scripts/kali_events.rpy:63
+translate schinese kali_corpus_coffee_fe82a9b1:
+
+    # kang "One caffe latte, one matcha latte, one caffe mocha please!"
+    kang ""
+
+# game/scripts/kali_events.rpy:64
+translate schinese kali_corpus_coffee_b14cfcf9:
+
+    # kang "Oh! And three mystery cookies."
+    kang ""
+
+# game/scripts/kali_events.rpy:65
+translate schinese kali_corpus_coffee_a2a99f3b:
+
+    # waitress "Coming right up."
+    waitress ""
+
+# game/scripts/kali_events.rpy:67
+translate schinese kali_corpus_coffee_b1e9f034:
+
+    # bae "Three cookies?"
+    bae ""
+
+# game/scripts/kali_events.rpy:68
+translate schinese kali_corpus_coffee_c8cd0684:
+
+    # kang "Don't worry, I'll pay."
+    kang ""
+
+# game/scripts/kali_events.rpy:69
+translate schinese kali_corpus_coffee_5b3e52d7:
+
+    # bae "You know I need to watch my weight..."
+    bae ""
+
+# game/scripts/kali_events.rpy:70
+translate schinese kali_corpus_coffee_b781d4d6:
+
+    # kang "We can't pass up mystery cookies!"
+    kang ""
+
+# game/scripts/kali_events.rpy:71
+translate schinese kali_corpus_coffee_9b7eaf20:
+
+    # k "I'll eat your cookie."
+    k ""
+
+# game/scripts/kali_events.rpy:72
+translate schinese kali_corpus_coffee_3811ca48:
+
+    # bae "No, I'll still eat it..."
+    bae ""
+
+# game/scripts/kali_events.rpy:73
+translate schinese kali_corpus_coffee_52d423a7:
+
+    # kang "I knew you wanted a cookie!"
+    kang ""
+
+# game/scripts/kali_events.rpy:74
+translate schinese kali_corpus_coffee_ed8c02a5:
+
+    # "*ring, ring*"
+    ""
+
+# game/scripts/kali_events.rpy:76
+translate schinese kali_corpus_coffee_6a485da9:
+
+    # k "Oh shit...! Guys, it's him...!"
+    k ""
+
+# game/scripts/kali_events.rpy:77
+translate schinese kali_corpus_coffee_f556f6a2:
+
+    # bae "It's about time, he's five minutes late."
+    bae ""
+
+# game/scripts/kali_events.rpy:78
+translate schinese kali_corpus_coffee_ed8c02a5_1:
+
+    # "*ring, ring*"
+    ""
+
+# game/scripts/kali_events.rpy:79
+translate schinese kali_corpus_coffee_39f5a498:
+
+    # kang "What are you waiting for? Pick up!"
+    kang ""
+
+# game/scripts/kali_events.rpy:80
+translate schinese kali_corpus_coffee_d7ffc1b6:
+
+    # k "Uhh, okay...!"
+    k ""
+
+# game/scripts/kali_events.rpy:82
+translate schinese kali_corpus_coffee_139b3c6f:
+
+    # k "*click*...\nHi dad..."
+    k ""
+
+# game/scripts/kali_events.rpy:83
+translate schinese kali_corpus_coffee_f9aa1cbe:
+
+    # kd "Sweetie! Hey, how are ya? Hows the business?"
+    kd ""
+
+# game/scripts/kali_events.rpy:84
+translate schinese kali_corpus_coffee_dd59a219:
+
+    # k "I'm okay... it's doing well."
+    k ""
+
+# game/scripts/kali_events.rpy:85
+translate schinese kali_corpus_coffee_2e384203:
+
+    # kd "Sorry I couldn't be there in person. I'm in The Capitol today on some mayoral business. But I just had to run some things by you."
+    kd ""
+
+# game/scripts/kali_events.rpy:86
+translate schinese kali_corpus_coffee_6c179b6a:
+
+    # k "Locomotion has been completed, and the elfbot can now cook and clean, as well as carry stuff like groceries. Just like you asked."
+    k ""
+
+# game/scripts/kali_events.rpy:87
+translate schinese kali_corpus_coffee_c79b81ee:
+
+    # kd "That's perfect! It will really help target the female demographic!"
+    kd ""
+
+# game/scripts/kali_events.rpy:89
+translate schinese kali_corpus_coffee_d246e45e:
+
+    # k "Dad, that's not- ...ugh, nevermind."
+    k ""
+
+# game/scripts/kali_events.rpy:90
+translate schinese kali_corpus_coffee_8b978863:
+
+    # k "We still need to work on fine motor controls and object recognition."
+    k ""
+
+# game/scripts/kali_events.rpy:92
+translate schinese kali_corpus_coffee_a847a043:
+
+    # bae "Yeah~ we finished {u}cooking{/u} before object recognition, just for you~!"
+    bae ""
+
+# game/scripts/kali_events.rpy:93
+translate schinese kali_corpus_coffee_b740fb6c:
+
+    # kd "That's great! But listen, I called you because I need you to prioritize things better."
+    kd ""
+
+# game/scripts/kali_events.rpy:94
+translate schinese kali_corpus_coffee_3501dcb0:
+
+    # bae "Better than {i}that!?{/i}"
+    bae ""
+
+# game/scripts/kali_events.rpy:95
+translate schinese kali_corpus_coffee_10c68c40_1:
+
+    # kang "{i}Bae...!{/i}"
+    kang ""
+
+# game/scripts/kali_events.rpy:96
+translate schinese kali_corpus_coffee_8cb3ac39:
+
+    # kd "Teach them how to dance!"
+    kd ""
+
+# game/scripts/kali_events.rpy:98
+translate schinese kali_corpus_coffee_ce54c96b:
+
+    # k "Excuse me?"
+    k ""
+
+# game/scripts/kali_events.rpy:99
+translate schinese kali_corpus_coffee_644b2a08:
+
+    # kd "They need to dance, Kali! The competition can't dance without a third party involved. We'll offer dancing native to the system!"
+    kd ""
+
+# game/scripts/kali_events.rpy:100
+translate schinese kali_corpus_coffee_c3ab29c2:
+
+    # k "How is that-! ...Dad... That's going to require advanced machine learning built in to the software. It's a lot more advanced than teaching it how to repeat a task one time."
+    k ""
+
+# game/scripts/kali_events.rpy:101
+translate schinese kali_corpus_coffee_bc58997d:
+
+    # kd "Then that's what we'll do! Have the user buy software to tell the elfbot how to move. It'll sell like crazy! Oh! I'll even see if we can license some music!"
+    kd ""
+
+# game/scripts/kali_events.rpy:103
+translate schinese kali_corpus_coffee_090db742:
+
+    # k "You realize that could be very dangerous, right? Anyone could upload files to tell them how to fight, or shoot a gun! And that's illegal!"
+    k ""
+
+# game/scripts/kali_events.rpy:104
+translate schinese kali_corpus_coffee_1a9d4f25:
+
+    # kd "That's the user's problem, not ours. We'll make them sign some vague end user agreement, that's all! Can I trust you on this, Kali?"
+    kd ""
+
+# game/scripts/kali_events.rpy:105
+translate schinese kali_corpus_coffee_a8584945:
+
+    # k "Urgh... I guess."
+    k ""
+
+# game/scripts/kali_events.rpy:107
+translate schinese kali_corpus_coffee_c5d0e4e9:
+
+    # kd "Oh, and teach them how to play sports. The men will love that! We could even start an advertising campaign in stadiums! Humans vs Elfbots, I can see it now!"
+    kd ""
+
+# game/scripts/kali_events.rpy:108
+translate schinese kali_corpus_coffee_6f5f3f3a:
+
+    # k "Oh, come on... who's going to use that? Do you have any idea how much work that is?"
+    k ""
+
+# game/scripts/kali_events.rpy:109
+translate schinese kali_corpus_coffee_de36a0d3:
+
+    # k "I don't even know anything about sports. None of us do! We're all nerds! How are we supposed to do that?"
+    k ""
+
+# game/scripts/kali_events.rpy:110
+translate schinese kali_corpus_coffee_c04c11d6:
+
+    # kd "Oh! Another idea, honey! They just keep coming! - Teach them how to drive!"
+    kd ""
+
+# game/scripts/kali_events.rpy:112
+translate schinese kali_corpus_coffee_e9154453:
+
+    # k "Drive!? People can buy a self driving car! And ours would be so much worse at it!"
+    k ""
+
+# game/scripts/kali_events.rpy:113
+translate schinese kali_corpus_coffee_be92cd72:
+
+    # kd "Yes, but the competitor's don't know how to drive at all! It will be the competitive edge we need."
+    kd ""
+
+# game/scripts/kali_events.rpy:114
+translate schinese kali_corpus_coffee_62f7d711:
+
+    # k "There's a reason for that, dad! You wouldn't teach a car how to cook!"
+    k ""
+
+# game/scripts/kali_events.rpy:115
+translate schinese kali_corpus_coffee_95f2a588:
+
+    # kd "Hey, now you're giving me ideas! I'll save that one for later."
+    kd ""
+
+# game/scripts/kali_events.rpy:116
+translate schinese kali_corpus_coffee_73186583:
+
+    # k "We haven't even given them an emotional core yet. A personality is one of the biggest selling points! They're just robots right now, we can't work on all this shit yet."
+    k ""
+
+# game/scripts/kali_events.rpy:118
+translate schinese kali_corpus_coffee_8faad861:
+
+    # kd "That's what you have your team for, honey, and we can always buy another floor for you if you're feeling stressed."
+    kd ""
+
+# game/scripts/kali_events.rpy:119
+translate schinese kali_corpus_coffee_5b3dc9ce:
+
+    # k "Okay, why don't you come help us then? What are you even doing?"
+    k ""
+
+# game/scripts/kali_events.rpy:120
+translate schinese kali_corpus_coffee_691b2ad2:
+
+    # kd "I invented the nano chips in those things, haha! I've already done my fair share."
+    kd ""
+
+# game/scripts/kali_events.rpy:121
+translate schinese kali_corpus_coffee_4a14102d:
+
+    # k "Yeah like a hundred years ago! When was the last time you actually sat your ass down and actually WORKED!?"
+    k ""
+
+# game/scripts/kali_events.rpy:122
+translate schinese kali_corpus_coffee_03a8ef30:
+
+    # kd "I've been in meetings all day, and I've responded to about 30 emails. I don't have time for anything else."
+    kd ""
+
+# game/scripts/kali_events.rpy:124
+translate schinese kali_corpus_coffee_1c8bb05b:
+
+    # k "Sitting on your ass all day and talking to people isn't work! Even customer service has a harder job than you do! If you want these damn things to dance, you fucking do it!"
+    k ""
+
+# game/scripts/kali_events.rpy:125
+translate schinese kali_corpus_coffee_ed6e819b:
+
+    # kd "Okay, okay, I can tell that you're stressed, honey. How about I send over some pizza? On me! Will that cheer you up?"
+    kd ""
+
+# game/scripts/kali_events.rpy:127
+translate schinese kali_corpus_coffee_80d5e951:
+
+    # k " *sigh*... god damn it... yes..."
+    k ""
+
+# game/scripts/kali_events.rpy:128
+translate schinese kali_corpus_coffee_5966558f:
+
+    # bae "{i}Oldest trick in the book...{/i}"
+    bae ""
+
+# game/scripts/kali_events.rpy:129
+translate schinese kali_corpus_coffee_58a017a3:
+
+    # kd "Is pepperoni still your favorite?"
+    kd ""
+
+# game/scripts/kali_events.rpy:130
+translate schinese kali_corpus_coffee_e4fc6ab6:
+
+    # k "With four cheeses too please..."
+    k ""
+
+# game/scripts/kali_events.rpy:131
+translate schinese kali_corpus_coffee_0b19d971:
+
+    # kd "You got it! Love you!"
+    kd ""
+
+# game/scripts/kali_events.rpy:132
+translate schinese kali_corpus_coffee_b613a7c4:
+
+    # k "Love you too..."
+    k ""
+
+# game/scripts/kali_events.rpy:134
+translate schinese kali_corpus_coffee_a7695446:
+
+    # k "...Looks like we're teaching them how to dance now..."
+    k ""
+
+# game/scripts/kali_events.rpy:135
+translate schinese kali_corpus_coffee_ef5ddf79:
+
+    # kang "Oh! I played a bit of hockey in highschool. I can work on that!"
+    kang ""
+
+# game/scripts/kali_events.rpy:136
+translate schinese kali_corpus_coffee_f1413126:
+
+    # bae "I used to be really into ballerinas as a kid... maybe I can do something with that."
+    bae ""
+
+# game/scripts/kali_events.rpy:137
+translate schinese kali_corpus_coffee_70dee9fc:
+
+    # k "*sigh*... thanks guys..."
+    k ""
+
+# game/scripts/kali_events.rpy:139
+translate schinese kali_corpus_coffee_c53668aa:
+
+    # waitress "Enjoy, everyone!"
+    waitress ""
+
+# game/scripts/kali_events.rpy:140
+translate schinese kali_corpus_coffee_6654645e:
+
+    # bae "Oh, wonderful."
+    bae ""
+
+# game/scripts/kali_events.rpy:141
+translate schinese kali_corpus_coffee_adf347be:
+
+    # kang "Thank you!"
+    kang ""
+
+# game/scripts/kali_events.rpy:143
+translate schinese kali_corpus_coffee_a9cb2260:
+
+    # k "*sigh*... {i}(I miss you, [name]...){/i}"
+    k ""
+
+# game/scripts/kali_events.rpy:144
+translate schinese kali_corpus_coffee_5295da36:
+
+    # bae "What did you guys get?"
+    bae ""
+
+# game/scripts/kali_events.rpy:146
+translate schinese kali_corpus_coffee_08f38c2e:
+
+    # bae "I got pink with white chocolates."
+    bae ""
+
+# game/scripts/kali_events.rpy:147
+translate schinese kali_corpus_coffee_1bc92fac:
+
+    # kang "Cinnamon roll cookie!"
+    kang ""
+
+# game/scripts/kali_events.rpy:148
+translate schinese kali_corpus_coffee_7546bcf9:
+
+    # k "Uh, I don't know... I think it's a sugar cookie."
+    k ""
+
+# game/scripts/kali_events.rpy:150
+translate schinese kali_corpus_coffee_5845e2ee:
+
+    # k "This is matcha...? It's so green..."
+    k ""
+
+# game/scripts/kali_events.rpy:151
+translate schinese kali_corpus_coffee_81357505:
+
+    # bae "It's made from green tea leaves, but it has this amazing smooth texture! It's kind of addictive."
+    bae ""
+
+# game/scripts/kali_events.rpy:152
+translate schinese kali_corpus_coffee_25f06ade:
+
+    # k "Hmm, okay."
+    k ""
+
+# game/scripts/kali_events.rpy:154
+translate schinese kali_corpus_coffee_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/kali_events.rpy:155
+translate schinese kali_corpus_coffee_1358b9b6:
+
+    # k "......" with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:156
+translate schinese kali_corpus_coffee_68fa7653:
+
+    # k ".........!" with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:158
+translate schinese kali_corpus_coffee_17184906:
+
+    # k "It's actually really good."
+    k ""
+
+# game/scripts/kali_events.rpy:159
+translate schinese kali_corpus_coffee_65de2dfc:
+
+    # bae "Really? You like it? Oh, I knew you would!"
+    bae ""
+
+# game/scripts/kali_events.rpy:160
+translate schinese kali_corpus_coffee_fbebf23e:
+
+    # k "Yeah, surprisingly."
+    k ""
+
+# game/scripts/kali_events.rpy:162
+translate schinese kali_corpus_coffee_0f69964d:
+
+    # k "*sigh*... well it could be worse, I guess. I'm still getting paid to put all this bullshit in."
+    k ""
+
+# game/scripts/kali_events.rpy:163
+translate schinese kali_corpus_coffee_e7452020:
+
+    # bae "That's the spirit."
+    bae ""
+
+# game/scripts/kali_events.rpy:164
+translate schinese kali_corpus_coffee_887b9cd2:
+
+    # kang "Yeah, what's the rush?"
+    kang ""
+
+# game/scripts/kali_events.rpy:165
+translate schinese kali_corpus_coffee_17715721:
+
+    # k "These things could end slavery, you know? They'll be so cheap, and so efficient, that elves wouldn't need to be slaves anymore."
+    k ""
+
+# game/scripts/kali_events.rpy:166
+translate schinese kali_corpus_coffee_c9112cdc:
+
+    # bae "Hahah, you think the elfbot is going to end slavery?"
+    bae ""
+
+# game/scripts/kali_events.rpy:168
+translate schinese kali_corpus_coffee_538e951a:
+
+    # bae "I hate to burst your bubble, but that's never going to happen..."
+    bae ""
+
+# game/scripts/kali_events.rpy:169
+translate schinese kali_corpus_coffee_43aaca74:
+
+    # kang "It's a noble goal, though."
+    kang ""
+
+# game/scripts/kali_events.rpy:170
+translate schinese kali_corpus_coffee_8ecf3206:
+
+    # bae "The market will react to elfbots being released by lowering the price of elves. There will always be some use for them..."
+    bae ""
+
+# game/scripts/kali_events.rpy:171
+translate schinese kali_corpus_coffee_ac872c8e:
+
+    # k "Are you pro-slavery?"
+    k ""
+
+# game/scripts/kali_events.rpy:173
+translate schinese kali_corpus_coffee_e4d8bac9:
+
+    # bae "No, but I'm a realist. You're right that there will be less of a need for elves. This place could run 24/7 at the same costs if they replaced these elves with elfbots..."
+    bae ""
+
+# game/scripts/kali_events.rpy:174
+translate schinese kali_corpus_coffee_31164639:
+
+    # bae "So companies like this will sell their slaves at half the price of an elfbot to people like farmers. The market will simply react accordingly."
+    bae ""
+
+# game/scripts/kali_events.rpy:175
+translate schinese kali_corpus_coffee_7df41598:
+
+    # kang "Bae studied economics in college."
+    kang ""
+
+# game/scripts/kali_events.rpy:176
+translate schinese kali_corpus_coffee_b9b8e3f3:
+
+    # k "Then we'll make sure elfbots are better farmers."
+    k ""
+
+# game/scripts/kali_events.rpy:177
+translate schinese kali_corpus_coffee_e83a40c1:
+
+    # bae "You're really set on this goal of ending slavery, aren't you?"
+    bae ""
+
+# game/scripts/kali_events.rpy:179
+translate schinese kali_corpus_coffee_43881a16:
+
+    # k "It's honestly the main reason I started all of this. I saw an opportunity to help using my skills."
+    k ""
+
+# game/scripts/kali_events.rpy:180
+translate schinese kali_corpus_coffee_12626dc4:
+
+    # bae "I would... lower your expectations a bit."
+    bae ""
+
+# game/scripts/kali_events.rpy:181
+translate schinese kali_corpus_coffee_aad7dd9b:
+
+    # k "Yeah... I'm starting to think this was a mistake..."
+    k ""
+
+# game/scripts/kali_events.rpy:183
+translate schinese kali_corpus_coffee_fa7cc4d6:
+
+    # kang "You're not thinking of quitting already?"
+    kang ""
+
+# game/scripts/kali_events.rpy:184
+translate schinese kali_corpus_coffee_afbf67a4:
+
+    # k "I know some things you guys don't about the project... and if you're really saying it won't end slavery...?"
+    k ""
+
+# game/scripts/kali_events.rpy:185
+translate schinese kali_corpus_coffee_5d1f4d7f:
+
+    # bae "Well, it could certainly help...?"
+    bae ""
+
+# game/scripts/kali_events.rpy:187
+translate schinese kali_corpus_coffee_07da7e8c:
+
+    # k "...Is there anything we can do to push towards abolitionism?"
+    k ""
+
+# game/scripts/kali_events.rpy:188
+translate schinese kali_corpus_coffee_e816644b:
+
+    # bae "H-Hold on... I'm starting to think you're an abolitionist...!"
+    bae ""
+
+# game/scripts/kali_events.rpy:190
+translate schinese kali_corpus_coffee_ebbb9a66:
+
+    # k "Uhh, yeah. Obviously."
+    k ""
+
+# game/scripts/kali_events.rpy:191
+translate schinese kali_corpus_coffee_3ad3a7e8:
+
+    # bae "But you're Nero's daughter!"
+    bae ""
+
+# game/scripts/kali_events.rpy:192
+translate schinese kali_corpus_coffee_cc038c40:
+
+    # k "Yeah..."
+    k ""
+
+# game/scripts/kali_events.rpy:193
+translate schinese kali_corpus_coffee_1670b486:
+
+    # bae "That doesn't make any sense..."
+    bae ""
+
+# game/scripts/kali_events.rpy:194
+translate schinese kali_corpus_coffee_d98bf48c:
+
+    # kang "I have to admit, I'm a bit confused too."
+    kang ""
+
+# game/scripts/kali_events.rpy:195
+translate schinese kali_corpus_coffee_5d8f44cf:
+
+    # k "I don't think there should be slaves, I don't think that's very revolutionary."
+    k ""
+
+# game/scripts/kali_events.rpy:196
+translate schinese kali_corpus_coffee_8164635e:
+
+    # bae "It is, Kali...! I mean, who's going to build the elfbots if we don't have slaves?"
+    bae ""
+
+# game/scripts/kali_events.rpy:197
+translate schinese kali_corpus_coffee_1c1835c3:
+
+    # k "They could still build the elfbots. They would just get paid fairly and be able to negotiate their contract..."
+    k ""
+
+# game/scripts/kali_events.rpy:199
+translate schinese kali_corpus_coffee_b04d08b6:
+
+    # k "I thought you weren't pro-slavery?"
+    k ""
+
+# game/scripts/kali_events.rpy:200
+translate schinese kali_corpus_coffee_652576bd:
+
+    # bae "Well, I'm not... but I didn't expect to work for an abolitionist..."
+    bae ""
+
+# game/scripts/kali_events.rpy:201
+translate schinese kali_corpus_coffee_ad2df53b:
+
+    # kang "They're not all crazy, the news exaggerates things..."
+    kang ""
+
+# game/scripts/kali_events.rpy:202
+translate schinese kali_corpus_coffee_f6700860:
+
+    # bae "Yeah! Exactly... they're not all crazy. Hahah..."
+    bae ""
+
+# game/scripts/kali_events.rpy:203
+translate schinese kali_corpus_coffee_22c719b5:
+
+    # k "Okay..."
+    k ""
+
+# game/scripts/kali_events.rpy:205
+translate schinese kali_corpus_coffee_763d6ae1:
+
+    # bae "Well... how about... the elfbot plays an informercial about supporting elf labor where you can upon first startup?"
+    bae ""
+
+# game/scripts/kali_events.rpy:206
+translate schinese kali_corpus_coffee_9f147626:
+
+    # kang "Or 5 percent of profits could go to supporting the HHI!"
+    kang ""
+
+# game/scripts/kali_events.rpy:207
+translate schinese kali_corpus_coffee_bc0b3e56:
+
+    # bae "5 percent is way too much... Her father would never approve."
+    bae ""
+
+# game/scripts/kali_events.rpy:208
+translate schinese kali_corpus_coffee_1efc1cf5:
+
+    # kang "1 percent then! Anything helps, I'm sure."
+    kang ""
+
+# game/scripts/kali_events.rpy:210
+translate schinese kali_corpus_coffee_3af3a086:
+
+    # k "None of that is actually going to change anything."
+    k ""
+
+# game/scripts/kali_events.rpy:212
+translate schinese kali_corpus_coffee_6c828d6b:
+
+    # k "We have a chance at actually doing something good with the elfbots. We shouldn't be like every other company and chase profits or virtue signal. We need to actually make a difference."
+    k ""
+
+# game/scripts/kali_events.rpy:213
+translate schinese kali_corpus_coffee_7a1c483c:
+
+    # k "It's just like you said, I make all the decisions... so..."
+    k ""
+
+# game/scripts/kali_events.rpy:215
+translate schinese kali_corpus_coffee_a2ab1764:
+
+    # k "I want you two to program something special for me."
+    k ""
+
+# game/scripts/kali_events.rpy:216
+translate schinese kali_corpus_coffee_6d28a38c:
+
+    # bae "Um... sure...?"
+    bae ""
+
+# game/scripts/kali_events.rpy:217
+translate schinese kali_corpus_coffee_9a8a04d2:
+
+    # k "Whenever an elf is threatened, I want the elfbot to defend it. With whatever means it has."
+    k ""
+
+# game/scripts/kali_events.rpy:218
+translate schinese kali_corpus_coffee_37a03789:
+
+    # kang "You mean, instead of defending its owner? It will prioritize any elf it sees??"
+    kang ""
+
+# game/scripts/kali_events.rpy:219
+translate schinese kali_corpus_coffee_5af89574:
+
+    # k "Yeah, exactly."
+    k ""
+
+# game/scripts/kali_events.rpy:221
+translate schinese kali_corpus_coffee_8c393ee8:
+
+    # bae "What if an elf goes crazy?"
+    bae ""
+
+# game/scripts/kali_events.rpy:222
+translate schinese kali_corpus_coffee_d5050ca3:
+
+    # kang "What if it tries to break out of prison?"
+    kang ""
+
+# game/scripts/kali_events.rpy:223
+translate schinese kali_corpus_coffee_fe112889:
+
+    # bae "What if they start abusing the system and start forming gangs?"
+    bae ""
+
+# game/scripts/kali_events.rpy:224
+translate schinese kali_corpus_coffee_bc6d4252:
+
+    # k "Run some simulations, program some common sense into them."
+    k ""
+
+# game/scripts/kali_events.rpy:225
+translate schinese kali_corpus_coffee_4f3a0669:
+
+    # bae "You really want us to use all of our resources on this?"
+    bae ""
+
+# game/scripts/kali_events.rpy:226
+translate schinese kali_corpus_coffee_d3c1b17f:
+
+    # k "I do. The others will focus on what dad wants."
+    k ""
+
+# game/scripts/kali_events.rpy:227
+translate schinese kali_corpus_coffee_eb7717ab:
+
+    # kang "I was kind of getting excited for hockey simulations..."
+    kang ""
+
+# game/scripts/kali_events.rpy:228
+translate schinese kali_corpus_coffee_2188beb1:
+
+    # k "Can I trust you two on this?"
+    k ""
+
+# game/scripts/kali_events.rpy:229
+translate schinese kali_corpus_coffee_474b8b5c:
+
+    # bae "You can... under one condition."
+    bae ""
+
+# game/scripts/kali_events.rpy:230
+translate schinese kali_corpus_coffee_fa71a636:
+
+    # bae "If you sign a contract stating we waive all responsibility to you when shit hits the fan... We are not being held responsible."
+    bae ""
+
+# game/scripts/kali_events.rpy:231
+translate schinese kali_corpus_coffee_d2d5794c:
+
+    # k "That's fine. I'll take all responsibility."
+    k ""
+
+# game/scripts/kali_events.rpy:232
+translate schinese kali_corpus_coffee_05bd41a5:
+
+    # bae "Hm, alright. We'll prioritize it."
+    bae ""
+
+# game/scripts/kali_events.rpy:233
+translate schinese kali_corpus_coffee_7a6beb70:
+
+    # k "Really?"
+    k ""
+
+# game/scripts/kali_events.rpy:234
+translate schinese kali_corpus_coffee_bd4db78e:
+
+    # kang "Sure, it's a noble goal, Kali. I admit that I've often wondered why the richest country in history needs slaves..."
+    kang ""
+
+# game/scripts/kali_events.rpy:235
+translate schinese kali_corpus_coffee_465d0c20:
+
+    # bae "I just hope this works out for us, Kali. It's not just your job on the line..."
+    bae ""
+
+# game/scripts/kali_events.rpy:237
+translate schinese kali_corpus_coffee_5aba911d:
+
+    # k "I know. Thank you for trusting me. If we do this right, the world won't need slaves anymore."
+    k ""
+
+# game/scripts/kali_events.rpy:238
+translate schinese kali_corpus_coffee_45ab4e7d:
+
+    # k "It's our company's core mission: good above all. We won't be an average company, we'll actually make a difference."
+    k ""
+
+# game/scripts/kali_events.rpy:239
+translate schinese kali_corpus_coffee_431dcc76:
+
+    # bae "That's a goal I can get behind."
+    bae ""
+
+# game/scripts/kali_events.rpy:241
+translate schinese kali_corpus_coffee_99e23e6e:
+
+    # kang "Yeah! To our new CEO! Cheers!"
+    kang ""
+
+# game/scripts/kali_events.rpy:243
+translate schinese kali_corpus_coffee_90b37fb4:
+
+    # k "To freedom." with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:244
+translate schinese kali_corpus_coffee_ccc990d1:
+
+    # bae "To retiring early..."
+    bae ""
+
