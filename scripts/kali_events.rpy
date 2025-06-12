@@ -50484,1031 +50484,1031 @@ translate schinese kali_work_49981e5f:
 translate schinese kali_corpus_coffee_34c630e0:
 
     # bae "Our last manager gets randomly transferred, then you show up. His boss didn't even get a chance to promote any of us. Nero himself cherry-picked his daughter for that position..."
-    bae ""
+    bae "我们上一任经理毫无来由地被调走后,你就来了.他的上司甚至没有给我们任何人升职的机会,尼禄亲自挑选了他的女儿来担任这个职位....."
 
 # game/scripts/kali_events.rpy:34
 translate schinese kali_corpus_coffee_79c7bdbb:
 
     # k "Like I said, I get it... I thought I'd have your position."
-    k ""
+    k "我已经说过了,我明白她的意思......我想我知道你的立场了."
 
 # game/scripts/kali_events.rpy:35
 translate schinese kali_corpus_coffee_28516596:
 
     # bae "And that's why I can respect her... she sees the bullshit like the rest of us."
-    bae ""
+    bae "这就是为什么我尊重她......她和我们一样,也看清了那些狗屁玩意."
 
 # game/scripts/kali_events.rpy:36
 translate schinese kali_corpus_coffee_2f59bd18:
 
     # bae "You know, you have a lot of power in what goes into the elfbot. You don't have to do everything your father says."
-    bae ""
+    bae "你知道吗,你有很大的权力能去决定机器精灵的命运.你不必对你父亲言听计从."
 
 # game/scripts/kali_events.rpy:37
 translate schinese kali_corpus_coffee_98c1d54c:
 
     # k "It's my job to tell you guys what he tells me to do... I kind of do have to."
-    k ""
+    k "我的工作就是告诉你们他让我做的事情......我不得不这么做."
 
 # game/scripts/kali_events.rpy:39
 translate schinese kali_corpus_coffee_7a060b75:
 
     # bae "No, you don't. The AI division of Nero is a company like any other. Your father only bought it a few years ago. Which means you're our new CEO..."
-    bae ""
+    bae "不,你不需要.尼禄的人工智能部门本身就是一个公司.你父亲几年前才买下它,也就是说,你才是我们的新CEO."
 
 # game/scripts/kali_events.rpy:40
 translate schinese kali_corpus_coffee_f9de443b:
 
     # k "Are you serious? My dad never told me anything about transfering a company in my name."
-    k ""
+    k "你是认真的吗?我爸从没跟我说过要把公司转到我名下."
 
 # game/scripts/kali_events.rpy:41
 translate schinese kali_corpus_coffee_c4728808:
 
     # bae "Well it's still his, you just run it. And I'd much rather follow you than some egomaniac billionaire... no offense."
-    bae ""
+    bae "嗯,严格来说公司还是他的,你只是代为管理.比起那些自大的亿万富翁,我更愿意追随你......无意冒犯."
 
 # game/scripts/kali_events.rpy:42
 translate schinese kali_corpus_coffee_599790cb:
 
     # bae "Assuming you actually know what you're doing, and that you're not here purely due to nepotism."
-    bae ""
+    bae "假设你真的知道自己在做什么,而且不是纯粹因为裙带关系才来到这里."
 
 # game/scripts/kali_events.rpy:44
 translate schinese kali_corpus_coffee_8f8e7362:
 
     # k "I know what I'm doing. I've been reprograming androids since I was a child."
-    k ""
+    k "我知道我在做什么.我从小时候开始就已经在重新编程那些智能机器人了."
 
 # game/scripts/kali_events.rpy:45
 translate schinese kali_corpus_coffee_3ffcfd64:
 
     # bae "The MKs have a completely different operating system. Are you sure those skills will translate?"
-    bae ""
+    bae "MK的操作系统和我们的完全不同,你确定你的技能可以转化过来吗?"
 
 # game/scripts/kali_events.rpy:46
 translate schinese kali_corpus_coffee_3be21ef4:
 
     # k "They already have, I finished the college course in weeks. I was already better than the entire class combined by the time I joined."
-    k ""
+    k "早就做到了,我在几周内就完成了大学课程.入学时,我的成绩已经比全班同学加起来还要好."
 
 # game/scripts/kali_events.rpy:47
 translate schinese kali_corpus_coffee_91ba83a4:
 
     # bae "So you join one class, get lucky, and think you can run a whole company? We've all finished college..."
-    bae ""
+    bae "你参加了一个班,运气不错,就以为自己能管理整个公司?我们可是都读完了大学."
 
 # game/scripts/kali_events.rpy:48
 translate schinese kali_corpus_coffee_cf7177b3:
 
     # k "No... you asked if those skills would translate. They have."
-    k ""
+    k "不......你问的是那些技能有没有转化.我的回答是,有."
 
 # game/scripts/kali_events.rpy:50
 translate schinese kali_corpus_coffee_0f3acbc2:
 
     # bae "I know... I'm just giving you shit because I'm starting to like you. For some odd reason, I feel like I can trust you."
-    bae ""
+    bae "我知道......我开始喜欢你了,所以才故意刁难你.出于某种奇怪的原因,我觉得我可以信任你."
 
 # game/scripts/kali_events.rpy:51
 translate schinese kali_corpus_coffee_79ec50e1:
 
     # kang "Does everyone know what they want?"
-    kang ""
+    kang "大家都想点什么?"
 
 # game/scripts/kali_events.rpy:52
 translate schinese kali_corpus_coffee_5c84e8ff:
 
     # bae "Just the usual, a caffe latte."
-    bae ""
+    bae "和往常一样,一杯拿铁."
 
 # game/scripts/kali_events.rpy:54
 translate schinese kali_corpus_coffee_82df024e:
 
     # kang "And you, Kali?"
-    kang ""
+    kang "你呢,凯莉?"
 
 # game/scripts/kali_events.rpy:55
 translate schinese kali_corpus_coffee_4f2e1a75:
 
     # k "I actually... hate coffee."
-    k ""
+    k "实际上......我讨厌咖啡."
 
 # game/scripts/kali_events.rpy:56
 translate schinese kali_corpus_coffee_8724d66f:
 
     # bae "Huh? Then why'd you let me take you here?"
-    bae ""
+    bae "嗯?那为什么你让我带你来这里?"
 
 # game/scripts/kali_events.rpy:57
 translate schinese kali_corpus_coffee_a4532b28:
 
     # k "I didn't want to ruin your plans."
-    k ""
+    k "我不想要毁掉你的计划."
 
 # game/scripts/kali_events.rpy:58
 translate schinese kali_corpus_coffee_dc3112e7:
 
     # bae "Oh! I know, I'll get you a matcha latte."
-    bae ""
+    bae "哦!我知道了,我给你点杯拿铁抹茶."
 
 # game/scripts/kali_events.rpy:59
 translate schinese kali_corpus_coffee_d612539c:
 
     # k "I've never had matcha..."
-    k ""
+    k "我没喝过抹茶......"
 
 # game/scripts/kali_events.rpy:60
 translate schinese kali_corpus_coffee_9d01ff2f:
 
     # bae "Oh my god! You'll love it!"
-    bae ""
+    bae "哦我天!你会爱上它的!"
 
 # game/scripts/kali_events.rpy:62
 translate schinese kali_corpus_coffee_9eacb75e:
 
     # waitress "What can I get you?"
-    waitress ""
+    waitress "有什么需要的吗?"
 
 # game/scripts/kali_events.rpy:63
 translate schinese kali_corpus_coffee_fe82a9b1:
 
     # kang "One caffe latte, one matcha latte, one caffe mocha please!"
-    kang ""
+    kang "一杯拿铁,一杯拿铁抹茶,一杯摩卡,谢谢!"
 
 # game/scripts/kali_events.rpy:64
 translate schinese kali_corpus_coffee_b14cfcf9:
 
     # kang "Oh! And three mystery cookies."
-    kang ""
+    kang "哦!还有三块神秘饼干."
 
 # game/scripts/kali_events.rpy:65
 translate schinese kali_corpus_coffee_a2a99f3b:
 
     # waitress "Coming right up."
-    waitress ""
+    waitress "马上就来."
 
 # game/scripts/kali_events.rpy:67
 translate schinese kali_corpus_coffee_b1e9f034:
 
     # bae "Three cookies?"
-    bae ""
+    bae "三块饼干?"
 
 # game/scripts/kali_events.rpy:68
 translate schinese kali_corpus_coffee_c8cd0684:
 
     # kang "Don't worry, I'll pay."
-    kang ""
+    kang "别担心,我付钱."
 
 # game/scripts/kali_events.rpy:69
 translate schinese kali_corpus_coffee_5b3e52d7:
 
     # bae "You know I need to watch my weight..."
-    bae ""
+    bae "你明知道我得管理体重的......"
 
 # game/scripts/kali_events.rpy:70
 translate schinese kali_corpus_coffee_b781d4d6:
 
     # kang "We can't pass up mystery cookies!"
-    kang ""
+    kang "神秘饼干我们可不能错过!"
 
 # game/scripts/kali_events.rpy:71
 translate schinese kali_corpus_coffee_9b7eaf20:
 
     # k "I'll eat your cookie."
-    k ""
+    k "你那份饼干我吃吧."
 
 # game/scripts/kali_events.rpy:72
 translate schinese kali_corpus_coffee_3811ca48:
 
     # bae "No, I'll still eat it..."
-    bae ""
+    bae "不,我自己吃......"
 
 # game/scripts/kali_events.rpy:73
 translate schinese kali_corpus_coffee_52d423a7:
 
     # kang "I knew you wanted a cookie!"
-    kang ""
+    kang "我就知道你想要饼干!"
 
 # game/scripts/kali_events.rpy:74
 translate schinese kali_corpus_coffee_ed8c02a5:
 
     # "*ring, ring*"
-    ""
+    "*铃,铃*"
 
 # game/scripts/kali_events.rpy:76
 translate schinese kali_corpus_coffee_6a485da9:
 
     # k "Oh shit...! Guys, it's him...!"
-    k ""
+    k "哦,操......!伙计们,是他......!"
 
 # game/scripts/kali_events.rpy:77
 translate schinese kali_corpus_coffee_f556f6a2:
 
     # bae "It's about time, he's five minutes late."
-    bae ""
+    bae "是时候了,他已经迟到五分钟了."
 
 # game/scripts/kali_events.rpy:78
 translate schinese kali_corpus_coffee_ed8c02a5_1:
 
     # "*ring, ring*"
-    ""
+    "*铃,铃*"
 
 # game/scripts/kali_events.rpy:79
 translate schinese kali_corpus_coffee_39f5a498:
 
     # kang "What are you waiting for? Pick up!"
-    kang ""
+    kang "你还在等什么?接电话!"
 
 # game/scripts/kali_events.rpy:80
 translate schinese kali_corpus_coffee_d7ffc1b6:
 
     # k "Uhh, okay...!"
-    k ""
+    k "呃,好的......!"
 
 # game/scripts/kali_events.rpy:82
 translate schinese kali_corpus_coffee_139b3c6f:
 
     # k "*click*...\nHi dad..."
-    k ""
+    k "*咔哒*......\n嗨,老爸......"
 
 # game/scripts/kali_events.rpy:83
 translate schinese kali_corpus_coffee_f9aa1cbe:
 
     # kd "Sweetie! Hey, how are ya? Hows the business?"
-    kd ""
+    kd "亲爱的!嘿,你怎么样了?生意怎么样了?"
 
 # game/scripts/kali_events.rpy:84
 translate schinese kali_corpus_coffee_dd59a219:
 
     # k "I'm okay... it's doing well."
-    k ""
+    k "我还好.......一切都很不错."
 
 # game/scripts/kali_events.rpy:85
 translate schinese kali_corpus_coffee_2e384203:
 
     # kd "Sorry I couldn't be there in person. I'm in The Capitol today on some mayoral business. But I just had to run some things by you."
-    kd ""
+    kd "很抱歉,我没法当面见你.我今天在开普陀处理一些市长的事,但我得跟你确认几件事."
 
 # game/scripts/kali_events.rpy:86
 translate schinese kali_corpus_coffee_6c179b6a:
 
     # k "Locomotion has been completed, and the elfbot can now cook and clean, as well as carry stuff like groceries. Just like you asked."
-    k ""
+    k "运动功能已经完成,机器精灵现在可以做饭,打扫卫生,还能搬运杂货等.就像你要求的那样."
 
 # game/scripts/kali_events.rpy:87
 translate schinese kali_corpus_coffee_c79b81ee:
 
     # kd "That's perfect! It will really help target the female demographic!"
-    kd ""
+    kd "太完美了!这有助于锁定女性人群!"
 
 # game/scripts/kali_events.rpy:89
 translate schinese kali_corpus_coffee_d246e45e:
 
     # k "Dad, that's not- ...ugh, nevermind."
-    k ""
+    k "爸,不是-......呃,算了."
 
 # game/scripts/kali_events.rpy:90
 translate schinese kali_corpus_coffee_8b978863:
 
     # k "We still need to work on fine motor controls and object recognition."
-    k ""
+    k "我们仍需在精细动作控制和物体识别方面下功夫."
 
 # game/scripts/kali_events.rpy:92
 translate schinese kali_corpus_coffee_a847a043:
 
     # bae "Yeah~ we finished {u}cooking{/u} before object recognition, just for you~!"
-    bae ""
+    bae "是啊~我们在识别物品之前就完成了{u}烹饪{/u},就是为了你~!"
 
 # game/scripts/kali_events.rpy:93
 translate schinese kali_corpus_coffee_b740fb6c:
 
     # kd "That's great! But listen, I called you because I need you to prioritize things better."
-    kd ""
+    kd "太棒了!但是,听着,我打电话给你是因为我需要你更好地安排事情的轻重缓急."
 
 # game/scripts/kali_events.rpy:94
 translate schinese kali_corpus_coffee_3501dcb0:
 
     # bae "Better than {i}that!?{/i}"
-    bae ""
+    bae "{i}还要{/i}更好!?"
 
 # game/scripts/kali_events.rpy:95
 translate schinese kali_corpus_coffee_10c68c40_1:
 
     # kang "{i}Bae...!{/i}"
-    kang ""
+    kang "{i}裴......!{/i}"
 
 # game/scripts/kali_events.rpy:96
 translate schinese kali_corpus_coffee_8cb3ac39:
 
     # kd "Teach them how to dance!"
-    kd ""
+    kd "教它们学会跳舞!"
 
 # game/scripts/kali_events.rpy:98
 translate schinese kali_corpus_coffee_ce54c96b:
 
     # k "Excuse me?"
-    k ""
+    k "什么?"
 
 # game/scripts/kali_events.rpy:99
 translate schinese kali_corpus_coffee_644b2a08:
 
     # kd "They need to dance, Kali! The competition can't dance without a third party involved. We'll offer dancing native to the system!"
-    kd ""
+    kd "它们需要跳舞,凯莉!我们的竞争对手如果没有第三方插件,就没办法跳舞.而我们将为系统提供原生舞蹈功能!"
 
 # game/scripts/kali_events.rpy:100
 translate schinese kali_corpus_coffee_c3ab29c2:
 
     # k "How is that-! ...Dad... That's going to require advanced machine learning built in to the software. It's a lot more advanced than teaching it how to repeat a task one time."
-    k ""
+    k "那怎么可-!......爸......这需要软件内置先进的机器学习功能,这比教它学会重复性任务要困难得多."
 
 # game/scripts/kali_events.rpy:101
 translate schinese kali_corpus_coffee_bc58997d:
 
     # kd "Then that's what we'll do! Have the user buy software to tell the elfbot how to move. It'll sell like crazy! Oh! I'll even see if we can license some music!"
-    kd ""
+    kd "那我们就这么做!让用户购买软件,他们可以告诉机器精灵做什么动作.一定会大卖的,哦,我甚至可以看看能不能要一些音乐的授权!"
 
 # game/scripts/kali_events.rpy:103
 translate schinese kali_corpus_coffee_090db742:
 
     # k "You realize that could be very dangerous, right? Anyone could upload files to tell them how to fight, or shoot a gun! And that's illegal!"
-    k ""
+    k "你知道这可能非常危险,对吧?任何人都可以上传文件,告诉它们如何战斗或开枪!这是违法的!"
 
 # game/scripts/kali_events.rpy:104
 translate schinese kali_corpus_coffee_1a9d4f25:
 
     # kd "That's the user's problem, not ours. We'll make them sign some vague end user agreement, that's all! Can I trust you on this, Kali?"
-    kd ""
+    kd "那是用户的问题,不是我们的.我们会让他们签一些含糊不清的最终用户协议,仅此而已!我能相信你吗,凯莉?"
 
 # game/scripts/kali_events.rpy:105
 translate schinese kali_corpus_coffee_a8584945:
 
     # k "Urgh... I guess."
-    k ""
+    k "呃......大概吧."
 
 # game/scripts/kali_events.rpy:107
 translate schinese kali_corpus_coffee_c5d0e4e9:
 
     # kd "Oh, and teach them how to play sports. The men will love that! We could even start an advertising campaign in stadiums! Humans vs Elfbots, I can see it now!"
-    kd ""
+    kd "哦,还要教会它们怎么运动.男人们会爱死这个的!我们甚至可以在体育场广告!人类对战机器精灵,我现在就能想象到了!"
 
 # game/scripts/kali_events.rpy:108
 translate schinese kali_corpus_coffee_6f5f3f3a:
 
     # k "Oh, come on... who's going to use that? Do you have any idea how much work that is?"
-    k ""
+    k "哦,拜托......谁会用那个功能呢?你知道这需要多少工作吗?"
 
 # game/scripts/kali_events.rpy:109
 translate schinese kali_corpus_coffee_de36a0d3:
 
     # k "I don't even know anything about sports. None of us do! We're all nerds! How are we supposed to do that?"
-    k ""
+    k "我甚至对运动一窍不通.我们都不知道!我们都是书呆子而已!我们要怎么做才能做到?"
 
 # game/scripts/kali_events.rpy:110
 translate schinese kali_corpus_coffee_c04c11d6:
 
     # kd "Oh! Another idea, honey! They just keep coming! - Teach them how to drive!"
-    kd ""
+    kd "哦!我还有一个主意,亲爱的!主意一个接一个冒出来了!-教他们开车!"
 
 # game/scripts/kali_events.rpy:112
 translate schinese kali_corpus_coffee_e9154453:
 
     # k "Drive!? People can buy a self driving car! And ours would be so much worse at it!"
-    k ""
+    k "开车!?人们可以去买自动驾驶的车啊!我们完全比不过的!"
 
 # game/scripts/kali_events.rpy:113
 translate schinese kali_corpus_coffee_be92cd72:
 
     # kd "Yes, but the competitor's don't know how to drive at all! It will be the competitive edge we need."
-    kd ""
+    kd "是的,但是我们的竞争对手完全不知道怎么开车!这将是我们需要的竞争优势."
 
 # game/scripts/kali_events.rpy:114
 translate schinese kali_corpus_coffee_62f7d711:
 
     # k "There's a reason for that, dad! You wouldn't teach a car how to cook!"
-    k ""
+    k "它们不知道是有原因的,爸爸!你也不可能教会一辆车如何烹饪!"
 
 # game/scripts/kali_events.rpy:115
 translate schinese kali_corpus_coffee_95f2a588:
 
     # kd "Hey, now you're giving me ideas! I'll save that one for later."
-    kd ""
+    kd "嘿,现在是你给我了个主意了!我会好好记着的."
 
 # game/scripts/kali_events.rpy:116
 translate schinese kali_corpus_coffee_73186583:
 
     # k "We haven't even given them an emotional core yet. A personality is one of the biggest selling points! They're just robots right now, we can't work on all this shit yet."
-    k ""
+    k "我们甚至都还没给它们情感代码.人格才是最大的卖点!他们现在只是机器人,我们还不能做这些事."
 
 # game/scripts/kali_events.rpy:118
 translate schinese kali_corpus_coffee_8faad861:
 
     # kd "That's what you have your team for, honey, and we can always buy another floor for you if you're feeling stressed."
-    kd ""
+    kd "那就是你需要你的团队的理由,亲爱的,如果你压力大了,我们随时可以买下另一层楼."
 
 # game/scripts/kali_events.rpy:119
 translate schinese kali_corpus_coffee_5b3dc9ce:
 
     # k "Okay, why don't you come help us then? What are you even doing?"
-    k ""
+    k "好吧,那你怎么不来帮我们?你自己都做了什么?"
 
 # game/scripts/kali_events.rpy:120
 translate schinese kali_corpus_coffee_691b2ad2:
 
     # kd "I invented the nano chips in those things, haha! I've already done my fair share."
-    kd ""
+    kd "这些东西里的纳米芯片就是我发明的,哈哈!我已经做了不少了."
 
 # game/scripts/kali_events.rpy:121
 translate schinese kali_corpus_coffee_4a14102d:
 
     # k "Yeah like a hundred years ago! When was the last time you actually sat your ass down and actually WORKED!?"
-    k ""
+    k "是啊,但是那都是几百年前的事情了!你上次坐下来认真{b}工作{/b}是什么时候!?"
 
 # game/scripts/kali_events.rpy:122
 translate schinese kali_corpus_coffee_03a8ef30:
 
     # kd "I've been in meetings all day, and I've responded to about 30 emails. I don't have time for anything else."
-    kd ""
+    kd "我整天都在开会,还得回复三十多份邮件.我没时间干别的事情."
 
 # game/scripts/kali_events.rpy:124
 translate schinese kali_corpus_coffee_1c8bb05b:
 
     # k "Sitting on your ass all day and talking to people isn't work! Even customer service has a harder job than you do! If you want these damn things to dance, you fucking do it!"
-    k ""
+    k "整天坐着和别人聊天算什么工作!客服的工作都比你的难!如果你想让它们跳舞,那你他妈地就自己做!"
 
 # game/scripts/kali_events.rpy:125
 translate schinese kali_corpus_coffee_ed6e819b:
 
     # kd "Okay, okay, I can tell that you're stressed, honey. How about I send over some pizza? On me! Will that cheer you up?"
-    kd ""
+    kd "好吧,好吧,我看得出来,你压力很大,亲爱的.我给你点披萨怎么样?我请客!这样能让你开心起来吗?"
 
 # game/scripts/kali_events.rpy:127
 translate schinese kali_corpus_coffee_80d5e951:
 
     # k " *sigh*... god damn it... yes..."
-    k ""
+    k "*叹气*......他妈的......行吧......"
 
 # game/scripts/kali_events.rpy:128
 translate schinese kali_corpus_coffee_5966558f:
 
     # bae "{i}Oldest trick in the book...{/i}"
-    bae ""
+    bae "{i}教科书里老掉牙的做法了都......{/i}"
 
 # game/scripts/kali_events.rpy:129
 translate schinese kali_corpus_coffee_58a017a3:
 
     # kd "Is pepperoni still your favorite?"
-    kd ""
+    kd "你最喜欢的还是辣香肠吗?"
 
 # game/scripts/kali_events.rpy:130
 translate schinese kali_corpus_coffee_e4fc6ab6:
 
     # k "With four cheeses too please..."
-    k ""
+    k "还要四份芝士......"
 
 # game/scripts/kali_events.rpy:131
 translate schinese kali_corpus_coffee_0b19d971:
 
     # kd "You got it! Love you!"
-    kd ""
+    kd "行了!爱你!"
 
 # game/scripts/kali_events.rpy:132
 translate schinese kali_corpus_coffee_b613a7c4:
 
     # k "Love you too..."
-    k ""
+    k "我也爱你......"
 
 # game/scripts/kali_events.rpy:134
 translate schinese kali_corpus_coffee_a7695446:
 
     # k "...Looks like we're teaching them how to dance now..."
-    k ""
+    k "......看起来现在我们需要教它们怎么跳舞了......"
 
 # game/scripts/kali_events.rpy:135
 translate schinese kali_corpus_coffee_ef5ddf79:
 
     # kang "Oh! I played a bit of hockey in highschool. I can work on that!"
-    kang ""
+    kang "哦!我在高中时打过一点曲棍球.我可以负责!"
 
 # game/scripts/kali_events.rpy:136
 translate schinese kali_corpus_coffee_f1413126:
 
     # bae "I used to be really into ballerinas as a kid... maybe I can do something with that."
-    bae ""
+    bae "我小时候非常喜欢芭蕾舞......也许我可以利用这一点做点什么."
 
 # game/scripts/kali_events.rpy:137
 translate schinese kali_corpus_coffee_70dee9fc:
 
     # k "*sigh*... thanks guys..."
-    k ""
+    k "*叹气*......谢谢你们......"
 
 # game/scripts/kali_events.rpy:139
 translate schinese kali_corpus_coffee_c53668aa:
 
     # waitress "Enjoy, everyone!"
-    waitress ""
+    waitress "请享用!"
 
 # game/scripts/kali_events.rpy:140
 translate schinese kali_corpus_coffee_6654645e:
 
     # bae "Oh, wonderful."
-    bae ""
+    bae "哦,太棒了."
 
 # game/scripts/kali_events.rpy:141
 translate schinese kali_corpus_coffee_adf347be:
 
     # kang "Thank you!"
-    kang ""
+    kang "谢谢!"
 
 # game/scripts/kali_events.rpy:143
 translate schinese kali_corpus_coffee_a9cb2260:
 
     # k "*sigh*... {i}(I miss you, [name]...){/i}"
-    k ""
+    k "*叹气*......{i}(我好想你,[name]......){/i}"
 
 # game/scripts/kali_events.rpy:144
 translate schinese kali_corpus_coffee_5295da36:
 
     # bae "What did you guys get?"
-    bae ""
+    bae "你们都拿到了什么?"
 
 # game/scripts/kali_events.rpy:146
 translate schinese kali_corpus_coffee_08f38c2e:
 
     # bae "I got pink with white chocolates."
-    bae ""
+    bae "我的是粉白色的巧克力."
 
 # game/scripts/kali_events.rpy:147
 translate schinese kali_corpus_coffee_1bc92fac:
 
     # kang "Cinnamon roll cookie!"
-    kang ""
+    kang "肉桂卷饼干!"
 
 # game/scripts/kali_events.rpy:148
 translate schinese kali_corpus_coffee_7546bcf9:
 
     # k "Uh, I don't know... I think it's a sugar cookie."
-    k ""
+    k "呃,我不知道......好像是糖饼."
 
 # game/scripts/kali_events.rpy:150
 translate schinese kali_corpus_coffee_5845e2ee:
 
     # k "This is matcha...? It's so green..."
-    k ""
+    k "这就是抹茶......?好绿啊......"
 
 # game/scripts/kali_events.rpy:151
 translate schinese kali_corpus_coffee_81357505:
 
     # bae "It's made from green tea leaves, but it has this amazing smooth texture! It's kind of addictive."
-    bae ""
+    bae "是用绿茶做的,但是口感极其顺滑!还有点上瘾."
 
 # game/scripts/kali_events.rpy:152
 translate schinese kali_corpus_coffee_25f06ade:
 
     # k "Hmm, okay."
-    k ""
+    k "嗯,好吧."
 
 # game/scripts/kali_events.rpy:154
 translate schinese kali_corpus_coffee_82091822:
 
     # k "..."
-    k ""
+    k "......"
 
 # game/scripts/kali_events.rpy:155
 translate schinese kali_corpus_coffee_1358b9b6:
 
     # k "......" with ssshake
-    k "" with ssshake
+    k "............" with ssshake
 
 # game/scripts/kali_events.rpy:156
 translate schinese kali_corpus_coffee_68fa7653:
 
     # k ".........!" with ssshake
-    k "" with ssshake
+    k "..................!" with ssshake
 
 # game/scripts/kali_events.rpy:158
 translate schinese kali_corpus_coffee_17184906:
 
     # k "It's actually really good."
-    k ""
+    k "确实不错."
 
 # game/scripts/kali_events.rpy:159
 translate schinese kali_corpus_coffee_65de2dfc:
 
     # bae "Really? You like it? Oh, I knew you would!"
-    bae ""
+    bae "真的吗?你喜欢吗?哦,我就知道你喜欢的!"
 
 # game/scripts/kali_events.rpy:160
 translate schinese kali_corpus_coffee_fbebf23e:
 
     # k "Yeah, surprisingly."
-    k ""
+    k "是的,我也很惊讶."
 
 # game/scripts/kali_events.rpy:162
 translate schinese kali_corpus_coffee_0f69964d:
 
     # k "*sigh*... well it could be worse, I guess. I'm still getting paid to put all this bullshit in."
-    k ""
+    k "*叹气*......好吧,我想本来可能还会更早的.至少我把这些鬼扯功能放进去的还是有工资拿的."
 
 # game/scripts/kali_events.rpy:163
 translate schinese kali_corpus_coffee_e7452020:
 
     # bae "That's the spirit."
-    bae ""
+    bae "就是要这种精神."
 
 # game/scripts/kali_events.rpy:164
 translate schinese kali_corpus_coffee_887b9cd2:
 
     # kang "Yeah, what's the rush?"
-    kang ""
+    kang "是啊,急什么?"
 
 # game/scripts/kali_events.rpy:165
 translate schinese kali_corpus_coffee_17715721:
 
     # k "These things could end slavery, you know? They'll be so cheap, and so efficient, that elves wouldn't need to be slaves anymore."
-    k ""
+    k "这种东西会结束奴隶制的,你们知道吗?它们很便宜,很有效,精灵们再也不需要当奴隶了."
 
 # game/scripts/kali_events.rpy:166
 translate schinese kali_corpus_coffee_c9112cdc:
 
     # bae "Hahah, you think the elfbot is going to end slavery?"
-    bae ""
+    bae "哈哈哈,你觉得机器精灵将会结束奴隶制?"
 
 # game/scripts/kali_events.rpy:168
 translate schinese kali_corpus_coffee_538e951a:
 
     # bae "I hate to burst your bubble, but that's never going to happen..."
-    bae ""
+    bae "我不想戳破你的幻想,但这是不可能的......"
 
 # game/scripts/kali_events.rpy:169
 translate schinese kali_corpus_coffee_43aaca74:
 
     # kang "It's a noble goal, though."
-    kang ""
+    kang "不过,这确实是个很高尚的目标."
 
 # game/scripts/kali_events.rpy:170
 translate schinese kali_corpus_coffee_8ecf3206:
 
     # bae "The market will react to elfbots being released by lowering the price of elves. There will always be some use for them..."
-    bae ""
+    bae "机器精灵上市后,市场的反应只会是下调精灵的加个.他们总会有用处的......"
 
 # game/scripts/kali_events.rpy:171
 translate schinese kali_corpus_coffee_ac872c8e:
 
     # k "Are you pro-slavery?"
-    k ""
+    k "你支持奴隶制吗?"
 
 # game/scripts/kali_events.rpy:173
 translate schinese kali_corpus_coffee_e4d8bac9:
 
     # bae "No, but I'm a realist. You're right that there will be less of a need for elves. This place could run 24/7 at the same costs if they replaced these elves with elfbots..."
-    bae ""
+    bae "不,我只是个现实主义者.你说得对,对精灵的需求会减少.如果用机器精灵代替精灵,这里就能以同样的成本全天候运转."
 
 # game/scripts/kali_events.rpy:174
 translate schinese kali_corpus_coffee_31164639:
 
     # bae "So companies like this will sell their slaves at half the price of an elfbot to people like farmers. The market will simply react accordingly."
-    bae ""
+    bae "因此,这样的公司会以机器精灵一半的价格把奴隶卖给像农民那样的人.市场只会做出相应的反应."
 
 # game/scripts/kali_events.rpy:175
 translate schinese kali_corpus_coffee_7df41598:
 
     # kang "Bae studied economics in college."
-    kang ""
+    kang "裴在大学学了经济学."
 
 # game/scripts/kali_events.rpy:176
 translate schinese kali_corpus_coffee_b9b8e3f3:
 
     # k "Then we'll make sure elfbots are better farmers."
-    k ""
+    k "那我们要让机器精灵比农民们还强."
 
 # game/scripts/kali_events.rpy:177
 translate schinese kali_corpus_coffee_e83a40c1:
 
     # bae "You're really set on this goal of ending slavery, aren't you?"
-    bae ""
+    bae "你真的把这个项目的目标设定为结束奴隶制,对吗?"
 
 # game/scripts/kali_events.rpy:179
 translate schinese kali_corpus_coffee_43881a16:
 
     # k "It's honestly the main reason I started all of this. I saw an opportunity to help using my skills."
-    k ""
+    k "实际上,这就是我开始这个项目的原因.我看到了使用我的技能帮助这个世界的机会."
 
 # game/scripts/kali_events.rpy:180
 translate schinese kali_corpus_coffee_12626dc4:
 
     # bae "I would... lower your expectations a bit."
-    bae ""
+    bae "要是我......我会降低你的期待."
 
 # game/scripts/kali_events.rpy:181
 translate schinese kali_corpus_coffee_aad7dd9b:
 
     # k "Yeah... I'm starting to think this was a mistake..."
-    k ""
+    k "是啊......我开始觉得这是个错误了......"
 
 # game/scripts/kali_events.rpy:183
 translate schinese kali_corpus_coffee_fa7cc4d6:
 
     # kang "You're not thinking of quitting already?"
-    kang ""
+    kang "你不会这就想要退出了吧?"
 
 # game/scripts/kali_events.rpy:184
 translate schinese kali_corpus_coffee_afbf67a4:
 
     # k "I know some things you guys don't about the project... and if you're really saying it won't end slavery...?"
-    k ""
+    k "我知道一些有关这个项目你们不知道的事情......如果你说的是真的,说它不会结束奴隶制......?"
 
 # game/scripts/kali_events.rpy:185
 translate schinese kali_corpus_coffee_5d1f4d7f:
 
     # bae "Well, it could certainly help...?"
-    bae ""
+    bae "好吧,至少有点帮助?"
 
 # game/scripts/kali_events.rpy:187
 translate schinese kali_corpus_coffee_07da7e8c:
 
     # k "...Is there anything we can do to push towards abolitionism?"
-    k ""
+    k "......那我们能做些什么来推动废奴吗?"
 
 # game/scripts/kali_events.rpy:188
 translate schinese kali_corpus_coffee_e816644b:
 
     # bae "H-Hold on... I'm starting to think you're an abolitionist...!"
-    bae ""
+    bae "等-等会......我开始觉得你是个废奴主义者了......!"
 
 # game/scripts/kali_events.rpy:190
 translate schinese kali_corpus_coffee_ebbb9a66:
 
     # k "Uhh, yeah. Obviously."
-    k ""
+    k "呃,是啊.很明显."
 
 # game/scripts/kali_events.rpy:191
 translate schinese kali_corpus_coffee_3ad3a7e8:
 
     # bae "But you're Nero's daughter!"
-    bae ""
+    bae "但是你是尼禄的女儿!"
 
 # game/scripts/kali_events.rpy:192
 translate schinese kali_corpus_coffee_cc038c40:
 
     # k "Yeah..."
-    k ""
+    k "是啊......"
 
 # game/scripts/kali_events.rpy:193
 translate schinese kali_corpus_coffee_1670b486:
 
     # bae "That doesn't make any sense..."
-    bae ""
+    bae "这说不通......"
 
 # game/scripts/kali_events.rpy:194
 translate schinese kali_corpus_coffee_d98bf48c:
 
     # kang "I have to admit, I'm a bit confused too."
-    kang ""
+    kang "我得承认,我也有些困惑."
 
 # game/scripts/kali_events.rpy:195
 translate schinese kali_corpus_coffee_5d8f44cf:
 
     # k "I don't think there should be slaves, I don't think that's very revolutionary."
-    k ""
+    k "我不认为这个世界应该存在奴隶,这并没有什么革命性."
 
 # game/scripts/kali_events.rpy:196
 translate schinese kali_corpus_coffee_8164635e:
 
     # bae "It is, Kali...! I mean, who's going to build the elfbots if we don't have slaves?"
-    bae ""
+    bae "有,凯莉......!我是说,如果我们没有奴隶,谁来造机器精灵呢?"
 
 # game/scripts/kali_events.rpy:197
 translate schinese kali_corpus_coffee_1c1835c3:
 
     # k "They could still build the elfbots. They would just get paid fairly and be able to negotiate their contract..."
-    k ""
+    k "他们依然可以去造机器精灵.他们只需能就自己的合同进行谈判,并获得公平的报酬."
 
 # game/scripts/kali_events.rpy:199
 translate schinese kali_corpus_coffee_b04d08b6:
 
     # k "I thought you weren't pro-slavery?"
-    k ""
+    k "我以为你并不支持奴隶制的?"
 
 # game/scripts/kali_events.rpy:200
 translate schinese kali_corpus_coffee_652576bd:
 
     # bae "Well, I'm not... but I didn't expect to work for an abolitionist..."
-    bae ""
+    bae "嗯,我不支持......但是我也没料到我会为一位废奴主义者工作......"
 
 # game/scripts/kali_events.rpy:201
 translate schinese kali_corpus_coffee_ad2df53b:
 
     # kang "They're not all crazy, the news exaggerates things..."
-    kang ""
+    kang "他们不都是疯子,新闻都是在夸大其词......"
 
 # game/scripts/kali_events.rpy:202
 translate schinese kali_corpus_coffee_f6700860:
 
     # bae "Yeah! Exactly... they're not all crazy. Hahah..."
-    bae ""
+    bae "对!没错......他们不都是疯子.哈哈哈......"
 
 # game/scripts/kali_events.rpy:203
 translate schinese kali_corpus_coffee_22c719b5:
 
     # k "Okay..."
-    k ""
+    k "好吧......"
 
 # game/scripts/kali_events.rpy:205
 translate schinese kali_corpus_coffee_763d6ae1:
 
     # bae "Well... how about... the elfbot plays an informercial about supporting elf labor where you can upon first startup?"
-    bae ""
+    bae "嗯......要不......在机器精灵首次上市时,播放一段关于支持精灵劳工的广告片?"
 
 # game/scripts/kali_events.rpy:206
 translate schinese kali_corpus_coffee_9f147626:
 
     # kang "Or 5 percent of profits could go to supporting the HHI!"
-    kang ""
+    kang "或者我们5%%的利润可以捐给HHI!"
 
 # game/scripts/kali_events.rpy:207
 translate schinese kali_corpus_coffee_bc0b3e56:
 
     # bae "5 percent is way too much... Her father would never approve."
-    bae ""
+    bae "5%%太多了......她爸爸不会同意的."
 
 # game/scripts/kali_events.rpy:208
 translate schinese kali_corpus_coffee_1efc1cf5:
 
     # kang "1 percent then! Anything helps, I'm sure."
-    kang ""
+    kang "那就1%%!我相信任何事情都会有帮助."
 
 # game/scripts/kali_events.rpy:210
 translate schinese kali_corpus_coffee_3af3a086:
 
     # k "None of that is actually going to change anything."
-    k ""
+    k "这些并不能改变什么."
 
 # game/scripts/kali_events.rpy:212
 translate schinese kali_corpus_coffee_6c828d6b:
 
     # k "We have a chance at actually doing something good with the elfbots. We shouldn't be like every other company and chase profits or virtue signal. We need to actually make a difference."
-    k ""
+    k "我们有机会利用精灵机器人做些好事.我们不应该像其他公司一样追逐利润或所谓的美德.我们需要真正有所作为."
 
 # game/scripts/kali_events.rpy:213
 translate schinese kali_corpus_coffee_7a1c483c:
 
     # k "It's just like you said, I make all the decisions... so..."
-    k ""
+    k "就像你说的,决定都是我来做......那么......"
 
 # game/scripts/kali_events.rpy:215
 translate schinese kali_corpus_coffee_a2ab1764:
 
     # k "I want you two to program something special for me."
-    k ""
+    k "我想要你们帮我编一点特别的程序."
 
 # game/scripts/kali_events.rpy:216
 translate schinese kali_corpus_coffee_6d28a38c:
 
     # bae "Um... sure...?"
-    bae ""
+    bae "呃......你确定吗......?"
 
 # game/scripts/kali_events.rpy:217
 translate schinese kali_corpus_coffee_9a8a04d2:
 
     # k "Whenever an elf is threatened, I want the elfbot to defend it. With whatever means it has."
-    k ""
+    k "当精灵受到威胁时,机器精灵应该去保护他们.不惜一切手段."
 
 # game/scripts/kali_events.rpy:218
 translate schinese kali_corpus_coffee_37a03789:
 
     # kang "You mean, instead of defending its owner? It will prioritize any elf it sees??"
-    kang ""
+    kang "你的意思是,不去保护它们的拥有者?任何精灵都会优先处理吗??"
 
 # game/scripts/kali_events.rpy:219
 translate schinese kali_corpus_coffee_5af89574:
 
     # k "Yeah, exactly."
-    k ""
+    k "正是如此."
 
 # game/scripts/kali_events.rpy:221
 translate schinese kali_corpus_coffee_8c393ee8:
 
     # bae "What if an elf goes crazy?"
-    bae ""
+    bae "要是有个精灵疯了怎么办?"
 
 # game/scripts/kali_events.rpy:222
 translate schinese kali_corpus_coffee_d5050ca3:
 
     # kang "What if it tries to break out of prison?"
-    kang ""
+    kang "要是有人要越狱怎么办?"
 
 # game/scripts/kali_events.rpy:223
 translate schinese kali_corpus_coffee_fe112889:
 
     # bae "What if they start abusing the system and start forming gangs?"
-    bae ""
+    bae "如果他们开始滥用这个系统,开始组成帮派怎么办?"
 
 # game/scripts/kali_events.rpy:224
 translate schinese kali_corpus_coffee_bc6d4252:
 
     # k "Run some simulations, program some common sense into them."
-    k ""
+    k "进行一些模拟,在模拟中加入一些常识."
 
 # game/scripts/kali_events.rpy:225
 translate schinese kali_corpus_coffee_4f3a0669:
 
     # bae "You really want us to use all of our resources on this?"
-    bae ""
+    bae "你真的想把我们所有的资源都放在这上面?"
 
 # game/scripts/kali_events.rpy:226
 translate schinese kali_corpus_coffee_d3c1b17f:
 
     # k "I do. The others will focus on what dad wants."
-    k ""
+    k "是的.其他人就关注我爸爸需要的那些功能."
 
 # game/scripts/kali_events.rpy:227
 translate schinese kali_corpus_coffee_eb7717ab:
 
     # kang "I was kind of getting excited for hockey simulations..."
-    kang ""
+    kang "我开始对模拟冰球运动感到兴奋了......"
 
 # game/scripts/kali_events.rpy:228
 translate schinese kali_corpus_coffee_2188beb1:
 
     # k "Can I trust you two on this?"
-    k ""
+    k "我可以信任你们吗?"
 
 # game/scripts/kali_events.rpy:229
 translate schinese kali_corpus_coffee_474b8b5c:
 
     # bae "You can... under one condition."
-    bae ""
+    bae "你可以......但是有个条件."
 
 # game/scripts/kali_events.rpy:230
 translate schinese kali_corpus_coffee_fa71a636:
 
     # bae "If you sign a contract stating we waive all responsibility to you when shit hits the fan... We are not being held responsible."
-    bae ""
+    bae "如果你能签一份我们声明将所有责任转交给你的合同,要是发生了什么事情..... 我们就不用负责了."
 
 # game/scripts/kali_events.rpy:231
 translate schinese kali_corpus_coffee_d2d5794c:
 
     # k "That's fine. I'll take all responsibility."
-    k ""
+    k "没问题,我可以承担所有责任."
 
 # game/scripts/kali_events.rpy:232
 translate schinese kali_corpus_coffee_05bd41a5:
 
     # bae "Hm, alright. We'll prioritize it."
-    bae ""
+    bae "嗯,好吧.我们会优先处理的."
 
 # game/scripts/kali_events.rpy:233
 translate schinese kali_corpus_coffee_7a6beb70:
 
     # k "Really?"
-    k ""
+    k "真的吗?"
 
 # game/scripts/kali_events.rpy:234
 translate schinese kali_corpus_coffee_bd4db78e:
 
     # kang "Sure, it's a noble goal, Kali. I admit that I've often wondered why the richest country in history needs slaves..."
-    kang ""
+    kang "当然,凯莉,这是个高尚的目标.我承认,我时常会在想,为什么这个史无前例地富有的国家需要奴隶......"
 
 # game/scripts/kali_events.rpy:235
 translate schinese kali_corpus_coffee_465d0c20:
 
     # bae "I just hope this works out for us, Kali. It's not just your job on the line..."
-    bae ""
+    bae "我只希望这对我们有好处,凯莉,这不仅仅是你的工作问题."
 
 # game/scripts/kali_events.rpy:237
 translate schinese kali_corpus_coffee_5aba911d:
 
     # k "I know. Thank you for trusting me. If we do this right, the world won't need slaves anymore."
-    k ""
+    k "我知道.谢谢你们相信我.如果我们能做好这件事,这个世界就再也不需要奴隶了."
 
 # game/scripts/kali_events.rpy:238
 translate schinese kali_corpus_coffee_45ab4e7d:
 
     # k "It's our company's core mission: good above all. We won't be an average company, we'll actually make a difference."
-    k ""
+    k "这就是我们公司的核心任务:美好高于一切.我们不会是一家普通的公司,我们会做出真正的改变."
 
 # game/scripts/kali_events.rpy:239
 translate schinese kali_corpus_coffee_431dcc76:
 
     # bae "That's a goal I can get behind."
-    bae ""
+    bae "我支持这个目标."
 
 # game/scripts/kali_events.rpy:241
 translate schinese kali_corpus_coffee_99e23e6e:
 
     # kang "Yeah! To our new CEO! Cheers!"
-    kang ""
+    kang "是啊!敬我们的新CEO!干杯!"
 
 # game/scripts/kali_events.rpy:243
 translate schinese kali_corpus_coffee_90b37fb4:
 
     # k "To freedom." with ssshake
-    k "" with ssshake
+    k "敬自由." with ssshake
 
 # game/scripts/kali_events.rpy:244
 translate schinese kali_corpus_coffee_ccc990d1:
 
     # bae "To retiring early..."
-    bae ""
+    bae "敬早点退休......"
 

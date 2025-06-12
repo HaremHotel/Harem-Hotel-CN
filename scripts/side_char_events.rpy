@@ -54814,143 +54814,143 @@ translate schinese strings:
 translate schinese katespatalk_08c41b94:
 
     # kate "Oh... sure, let's get some privacy..."
-    kate ""
+    kate "哦......当然可以,我们去更私密点的地方吧......"
 
 # game/scripts/side_char_events.rpy:3208
 translate schinese katespatalk_6a7f4ef4:
 
     # kate "I need to relax...\nNow if you don't mind, you're preventing my vitamin D absorbtion..."
-    kate ""
+    kate "我需要休息......\n如果你不介意的话,你现在正在阻止我吸收维生素D......"
 
 # game/scripts/side_char_events.rpy:9760
 translate schinese kate_spa_sex_cd6ae4ee:
 
     # kate "I've learned some male-attracting poses in my off time... You'll have to let me know if they work."
-    kate ""
+    kate "我在休息时间学习了一些能够吸引男性的姿势......你得让我知道它们有没有用."
 
 # game/scripts/side_char_events.rpy:9764
 translate schinese kate_spa_sex_76340a4b:
 
     # kate "I hear presentation is very important to arouse a man."
-    kate ""
+    kate "我听说,要唤起男人的兴趣,表现形式非常重要."
 
 # game/scripts/side_char_events.rpy:9768
 translate schinese kate_spa_sex_3ad3c791:
 
     # kate "And in no time, it becomes instinct... like a moth to flame."
-    kate ""
+    kate "而且用不了多久,就会成为本能......就像飞蛾扑火."
 
 # game/scripts/side_char_events.rpy:9772
 translate schinese kate_spa_sex_77bc091a:
 
     # kate "Oh... that seems to have done it. Quicker than I expected."
-    kate ""
+    kate "哦......看起来很有用.比我想象得要更快."
 
 # game/scripts/side_char_events.rpy:9776
 translate schinese kate_spa_sex_bb1b7296:
 
     # kate "I'm glad my body attracts you, [name]... I've worked hard on it."
-    kate ""
+    kate "我很高兴我的身体能吸引你,[name]......我为此做出了很大的奴隶."
 
 # game/scripts/side_char_events.rpy:9780
 translate schinese kate_spa_sex_cb04e13d:
 
     # kate "So please, admire it and let your fantasies run wild."
-    kate ""
+    kate "所以,请欣赏它,让你的幻想尽情驰骋吧."
 
 # game/scripts/side_char_events.rpy:9784
 translate schinese kate_spa_sex_90ec65cb:
 
     # kate "I think we should do it from behind... will you indulge me?"
-    kate ""
+    kate "我觉得我们应该用背后位......你能答应我吗?"
 
 # game/scripts/side_char_events.rpy:9788
 translate schinese kate_spa_sex_e247ec4b:
 
     # kate "Ahhh...! Hahhh! Mmmngh, fuck me...!"
-    kate ""
+    kate "啊......!哈!嗯,操我......!"
 
 # game/scripts/side_char_events.rpy:9789
 translate schinese kate_spa_sex_18591188:
 
     # kate "Ohhh! That's so good...! Oh my god..."
-    kate ""
+    kate "哦!太棒了......!哦我天......"
 
 # game/scripts/side_char_events.rpy:9790
 translate schinese kate_spa_sex_f2175a93:
 
     # kate "Mmmmn...! Yes, fuck me...! Hahhh! Let your instincts run wild! Mmmn!"
-    kate ""
+    kate "嗯......!是的,操我......!哈!让你的本能尽情放纵吧!嗯!"
 
 # game/scripts/side_char_events.rpy:9793
 translate schinese kate_spa_sex_fed27777:
 
     # kate "Fuck, fuck, fuck! Mmmn! Mmmh! Fuck me, oh my god! Aaah!"
-    kate ""
+    kate "操,操,操!嗯!嗯!操我,哦我天!啊!"
 
 # game/scripts/side_char_events.rpy:9794
 translate schinese kate_spa_sex_21a3a9da:
 
     # kate "Ohhhhh! Yes! YES! Cum inside me! Fill me up! Fucking shit! MMMH!"
-    kate ""
+    kate "哦!是的!{b}是的!{/b}射进来!填满我!我操!{b}嗯!{/b}"
 
 # game/scripts/side_char_events.rpy:9795
 translate schinese kate_spa_sex_2d66d6cd:
 
     # kate "Fuck, fuck, fuck! Don't stop! MH! Don't stop until you cum inside!"
-    kate ""
+    kate "操,操,操!不要停!{b}嗯!{/b}在你射进来之前,不要拔出去!"
 
 # game/scripts/side_char_events.rpy:9798
 translate schinese kate_spa_sex_5c5258ec:
 
     # kate "Yes, yes, YES! Fucking cum inside!"
-    kate ""
+    kate "是的,是的,{b}是的!{/b}内射我吧!"
 
 # game/scripts/side_char_events.rpy:9800
 translate schinese kate_spa_sex_42d3739b:
 
     # kate "AAAH!" with ssshake
-    kate "" with ssshake
+    kate "{b}啊!{/b}" with ssshake
 
 # game/scripts/side_char_events.rpy:9801
 translate schinese kate_spa_sex_c29f25f9:
 
     # kate "MMMH! Fuck!" with ssshake
-    kate "" with ssshake
+    kate "{b}嗯!{/b}操!" with ssshake
 
 # game/scripts/side_char_events.rpy:9802
 translate schinese kate_spa_sex_5561c1b0:
 
     # kate "Fuck...! Mh, shit...!" with ssshake
-    kate "" with ssshake
+    kate "操......!嗯,操......!" with ssshake
 
 # game/scripts/side_char_events.rpy:9804
 translate schinese kate_spa_sex_23d65186:
 
     # kate "Ahhh... hahh... fuck..."
-    kate ""
+    kate "啊......哈......操......"
 
 # game/scripts/side_char_events.rpy:9805
 translate schinese kate_spa_sex_f893c206:
 
     # kate "That was so good..."
-    kate ""
+    kate "好棒......"
 
 # game/scripts/side_char_events.rpy:9808
 translate schinese kate_spa_sex_5991296e:
 
     # kate "Ahh...! Nnnh... you're gonna cum on me?"
-    kate ""
+    kate "啊......!嗯......你要射我身上?"
 
 # game/scripts/side_char_events.rpy:9811
 translate schinese kate_spa_sex_53c3fcad:
 
     # kate "Ahh...! Ohh... mmmn, that was so much..."
-    kate ""
+    kate "啊......!哦......嗯,好多......"
 
 # game/scripts/side_char_events.rpy:9812
 translate schinese kate_spa_sex_c6eca583:
 
     # kate "Hahhh... nnh, that was so good..."
-    kate ""
+    kate "哈......嗯,好棒......"
 

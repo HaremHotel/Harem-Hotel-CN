@@ -58168,303 +58168,303 @@ translate schinese lin_abduct_00bdd3f0:
 translate schinese lin_abduct_91662275:
 
     # c "I might... I couldn't break my fall..."
-    c "可能有......"
+    c "可能有......我被冲倒的时候没有缓冲......"
 
 # game/scripts/lin_events.rpy:748
 translate schinese lin_abduct_470d88d9:
 
     # c "More importantly, how are the others?"
-    c ""
+    c "更重要的是,其他人怎么样了?"
 
 # game/scripts/lin_events.rpy:749
 translate schinese lin_abduct_9aa317ce:
 
     # a "[botname] is looking after them."
-    a ""
+    a "[botname!t]在照顾她们."
 
 # game/scripts/lin_events.rpy:750
 translate schinese lin_abduct_a22edeca:
 
     # moon "I'm so sorry I couldn't get there in time... I had no idea where you were!"
-    moon ""
+    moon "很抱歉,我没能及时赶到......我都不知道你们在哪!"
 
 # game/scripts/lin_events.rpy:752
 translate schinese lin_abduct_9ffb2777:
 
     # nia "Who... the hell... are you?"
-    nia ""
+    nia "你......他妈......是谁?"
 
 # game/scripts/lin_events.rpy:753
 translate schinese lin_abduct_91749c47:
 
     # moon "What do you mean? You know me. I'm Moon!"
-    moon ""
+    moon "你这是什么意思?你认识我的啊.我是文!"
 
 # game/scripts/lin_events.rpy:754
 translate schinese lin_abduct_79a90bd4:
 
     # nia "Who are you... really? No one has a mecha-tank anymore..."
-    nia ""
+    nia "你的真面目......是谁?早就没有人拥有机械坦克了......"
 
 # game/scripts/lin_events.rpy:755
 translate schinese lin_abduct_987cae64:
 
     # moon "I just found them in the woods one day. I've been working on it for years. There's actually a lot out there..."
-    moon ""
+    moon "我只是之前有一天在树林里找到了它.我已经研究它好几年了.实际上,还有很多......"
 
 # game/scripts/lin_events.rpy:757
 translate schinese lin_abduct_04bf1cd6:
 
     # c "Somebody get Nia some help... she's barely conscious..."
-    c ""
+    c "来个人帮下妮娅......她都快意识模糊了......"
 
 # game/scripts/lin_events.rpy:758
 translate schinese lin_abduct_f645b6bf:
 
     # nia "You're one to talk..."
-    nia ""
+    nia "你真会说话......"
 
 # game/scripts/lin_events.rpy:759
 translate schinese lin_abduct_e5c69076:
 
     # c "The explosion pushed you off the roof... I don't even know how you're still moving."
-    c ""
+    c "爆炸把你从房顶推了下来......我都不知道你怎么还能移动的."
 
 # game/scripts/lin_events.rpy:760
 translate schinese lin_abduct_81a2a922:
 
     # nia "I've had worse."
-    nia ""
+    nia "我经历过更糟糕的事情."
 
 # game/scripts/lin_events.rpy:761
 translate schinese lin_abduct_39d484c5:
 
     # l "Just get some rest, [name]... we'll take care of the hotel for a while."
-    l ""
+    l "好好休息吧,[name]......这段时间我们会打理好酒店的."
 
 # game/scripts/lin_events.rpy:762
 translate schinese lin_abduct_c9cb0719:
 
     # c "Thank you all... for everything..."
-    c ""
+    c "谢谢你们......谢谢你们做的一切......"
 
 # game/scripts/lin_events.rpy:765
 translate schinese lin_abduct_cf278478:
 
     # c "Wait, where's Ellen?"
-    c ""
+    c "等下,艾兰呢?"
 
 # game/scripts/lin_events.rpy:769
 translate schinese lin_abduct_aa433d21:
 
     # news "BREAKING NEWS: A coordinated terrorist attack has struck the heart of Caliber. The financial core was exclusively targetted."
-    news ""
+    news "{b}突发新闻{/b}:楷利泊的市中心发生了一起有预谋的恐怖袭击.金融核心区是本次袭击的唯一目标."
 
 # game/scripts/lin_events.rpy:771
 translate schinese lin_abduct_961e1bf9:
 
     # rep "Reports are still coming in, but multiple explosions were heard in Caliber last night. Early estimations suggest dozens of casualties. The city is in ruins."
-    rep ""
+    rep "还有更多的报告仍在陆续传来,但昨晚在楷利泊,我们就已经听到了多起爆炸声.初步估计至少有几十人伤亡,城市变成了废墟."
 
 # game/scripts/lin_events.rpy:773
 translate schinese lin_abduct_c2d9585a:
 
     # news24 "No organizations have claimed responsibility for the attacks. However, we do know disgraced former queen of the elves Jia was at the center of it."
-    news24 ""
+    news24 "目前暂未有组织宣传对此次袭击负责.但是,我们知道失宠的前精灵女王贾是本次袭击的中心人物."
 
 # game/scripts/lin_events.rpy:775
 translate schinese lin_abduct_5fb0a7f2:
 
     # juicy "These were not the actions of a lone wolf! This was TERRORISM! An act of war against Syl'anar! She couldn't have done it alone, who else is involved!?"
-    juicy ""
+    juicy "这绝不是一个人能独自做到的行为!这是{b}恐怖袭击{/b}!是针对西尔阿纳尔的战争!不可能只有她一个人干了,还有谁参与了!?"
 
 # game/scripts/lin_events.rpy:777
 translate schinese lin_abduct_3bad03a2:
 
     # rep "BREAKING: Caliber's streets are empty. Transit lines closed. Corpus financial district in lockdown. Stocks plummet to record lows. Country-wide curfew to begin at sundown."
-    rep ""
+    rep "{b}突发新闻{/b}:楷利泊的街道空无一人,交通线路关闭,科珀斯金融区被封锁,股票跌至历史最低点,日落后开始全国范围宵禁."
 
 # game/scripts/lin_events.rpy:779
 translate schinese lin_abduct_d41ebb96:
 
     # zara "It was Jia? I knew she went crazy, but this...? They'll use it as an excuse, just watch. They've been waiting for something like this..."
-    zara ""
+    zara "是贾?我知道她疯了,但这个......?看着吧,他们会以此为借口的.他们一直等待着发生这样的事情......"
 
 # game/scripts/lin_events.rpy:781
 translate schinese lin_abduct_61c792bd:
 
     # news "Arrests up by 863 percent overnight. Church increases surveillance in elven wards. New anti-subversion bill introduced."
-    news ""
+    news "逮捕人数一夜之间增加了863%%,教会加强了对精灵病房的监视,新的反颠覆法案出台."
 
 # game/scripts/lin_events.rpy:783
 translate schinese lin_abduct_b0d099b9:
 
     # hman "YOU SEE WHAT THEY'RE DOING, RIGHT? WE'RE LOSING OUR FREEDOM! NOW THEY'RE TREATING US {u}ALL{/u} LIKE SLAVES!"
-    hman ""
+    hman "{b}你看到他们在做什么了吧?我们正在失去自由!现在他们要把我们{u}全都{/u}变成奴隶!{/b}"
 
 # game/scripts/lin_events.rpy:785
 translate schinese lin_abduct_f53b5387:
 
     # polm "We are not declaring war, we are restoring order. These measures are temporary and ensure your safety."
-    polm ""
+    polm "我们不是在宣战,而是在恢复秩序.这些措施是临时性的,可以确保你们的安全."
 
 # game/scripts/lin_events.rpy:787
 translate schinese lin_abduct_0d0b4992:
 
     # polm "If you are not a terrorist, you have nothing to worry about."
-    polm ""
+    polm "如果你不是恐怖分子,那你就没有什么需要担心的."
 
 # game/scripts/lin_events.rpy:801
 translate schinese lin_abduct_45914015:
 
     # l "Hm, hm, hm, hmmmmm~"
-    l ""
+    l "嗯,嗯,嗯,嗯~"
 
 # game/scripts/lin_events.rpy:804
 translate schinese lin_abduct_b1978d7e_1:
 
     # l "*gasp*!"
-    l ""
+    l "*惊叹*!"
 
 # game/scripts/lin_events.rpy:805
 translate schinese lin_abduct_44c4da23:
 
     # e "Hello, Lin!"
-    e ""
+    e "你好,林!"
 
 # game/scripts/lin_events.rpy:806
 translate schinese lin_abduct_bfdbd6ce:
 
     # l "Ellen!"
-    l ""
+    l "艾兰!"
 
 # game/scripts/lin_events.rpy:808
 translate schinese lin_abduct_d56e7f9a:
 
     # l "I'm so happy to see you, Ellen!"
-    l ""
+    l "我好高兴能见到你,艾兰!"
 
 # game/scripts/lin_events.rpy:809
 translate schinese lin_abduct_8d9f76cb:
 
     # e "Aww, thanks Lin! I'm happy to be back."
-    e ""
+    e "啊,谢谢你,林!我很高兴我能回来."
 
 # game/scripts/lin_events.rpy:811
 translate schinese lin_abduct_f0f8fb78:
 
     # l "Are you okay? I can't believe they held you in jail for five days..."
-    l ""
+    l "你还好吗?我不敢相信他们居然把你关在监狱里关了五天......"
 
 # game/scripts/lin_events.rpy:812
 translate schinese lin_abduct_3f59fffe:
 
     # e "*sigh*... yes, I'm fine. After the terrorist attack in Caliber they really wanted to make sure I wasn't related to it..."
-    e ""
+    e "*叹气*......是的,我很好.在楷利泊发生恐怖袭击后,他们非常想确定我与此事是否无关......"
 
 # game/scripts/lin_events.rpy:813
 translate schinese lin_abduct_ae9296bc:
 
     # c "Bunch of fucking assholes... they recognized me too, and still gave us shit about it."
-    c ""
+    c "一帮混蛋......他们也认出了我,还对我们大放厥词."
 
 # game/scripts/lin_events.rpy:814
 translate schinese lin_abduct_4a179b57:
 
     # l "That's horrible..."
-    l ""
+    l "太可怕了......"
 
 # game/scripts/lin_events.rpy:816
 translate schinese lin_abduct_c9fd855a:
 
     # e "But Lin, are you sure it's safe to be here? I heard Jia released your real name..."
-    e ""
+    e "但是,林,你确定你在这里安全吗?我听说贾把你的真名爆了出来......"
 
 # game/scripts/lin_events.rpy:817
 translate schinese lin_abduct_15ddad96:
 
     # e "I mean, aren't you a fugitive? A terrorist? Or something like that...?"
-    e ""
+    e "我是说,你不是逃犯吗?恐怖分子?或者类似的......?"
 
 # game/scripts/lin_events.rpy:819
 translate schinese lin_abduct_e5aaab10:
 
     # l "Yup! But they have bigger worries now."
-    l ""
+    l "确实!但是他们现在有更需要担心的事情."
 
 # game/scripts/lin_events.rpy:820
 translate schinese lin_abduct_1800a0de:
 
     # c "The police have looked for her here so many times they seem to have given up. Besides, the whole country is under martial law now. They don't have much resources to look for her."
-    c ""
+    c "警察已经在这里找过她很多次了,他们似乎已经放弃了.而且,现在全国都戒严了.他们没有太多警力来找她."
 
 # game/scripts/lin_events.rpy:821
 translate schinese lin_abduct_b87bb62e:
 
     # l "I'm just glad we're all okay! It could have ended a lot worse for any of us."
-    l ""
+    l "我很高兴我们都没事!我们本有可能会有更糟糕的结局."
 
 # game/scripts/lin_events.rpy:822
 translate schinese lin_abduct_6825db9a:
 
     # c "Yeah, you're right...\nTake some time to yourself Ellen, as much as you need."
-    c ""
+    c "是啊,你说得对......\n艾兰,你想休息多久就休息多久吧."
 
 # game/scripts/lin_events.rpy:823
 translate schinese lin_abduct_bae83216:
 
     # e "Thank you. I miss my bed..."
-    e ""
+    e "谢谢你.我很想念我的床......"
 
 # game/scripts/lin_events.rpy:830
 translate schinese lin_abduct_c59cedb7:
 
     # hqueen "Ahh...{w=1.25}\nGood.{w=0.5} Now the real game begins."
-    hqueen ""
+    hqueen "啊......{w=1.25}\n很好.{w=0.5}现在,好戏开始了."
 
 # game/scripts/lin_events.rpy:2009
 translate schinese lin_protest_d58d7418:
 
     # josh "Old me would never have done something this crazy, but I've started to see things differently. My name is Joshua by the way."
-    josh ""
+    josh "以前的我绝对不会做这么疯狂的事情,但我现在开始以不同的眼光看待事情了.对了,我叫约书亚."
 
 # game/scripts/lin_events.rpy:12237
 translate schinese cornwall_d80e7267:
 
     # aar "I'm gonna fuck you unconscious."
-    aar ""
+    aar "我要把你操倒失去意识."
 
 translate schinese strings:
 
     # game/scripts/lin_events.rpy:55
     old "Or I could drive us both off into a tree."
-    new ""
+    new "我也可以直接开车去撞树."
 
     # game/scripts/lin_events.rpy:55
     old "You have me, don't touch Lin."
-    new ""
+    new "你有我了,不要碰林."
 
     # game/scripts/lin_events.rpy:55
     old "Using me as bait? That'll never work."
-    new ""
+    new "把我当诱饵?没用的."
 
     # game/scripts/lin_events.rpy:790
     old "{size=+50}When fear becomes policy...{/size}"
-    new ""
+    new "{size=+50}当恐惧成为政策......{/size}"
 
     # game/scripts/lin_events.rpy:792
     old "{size=+50}\nWhen fear becomes policy...\nfreedom becomes treason.{/size}"
-    new ""
+    new "{size=+50}当恐惧成为政策......\n自由将成为叛国.{/size}"
 
     # game/scripts/lin_events.rpy:797
     old "{size=+50}5 days later...{/size}"
-    new ""
+    new "{size=+50}五天后......{/size}"
 
     # game/scripts/lin_events.rpy:1273
     old "Continue to part two, or a take a break? You may continue the story at Lin's door any time."
-    new ""
+    new "继续第二部分,还是休息一下?你可以随时在林的房门上继续故事."
 
     # game/scripts/lin_events.rpy:1273
     old "Take a break"
-    new ""
+    new "休息一下"
 
