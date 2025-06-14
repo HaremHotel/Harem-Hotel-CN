@@ -33333,7 +33333,7 @@ translate schinese marlspring_fb4e5a1c:
 translate schinese marlspring_a59d273b:
 
     # l "It's a little slutty... But... I've been feeling a little slutty lately..."
-    l "有点色情......但是......我最近感觉也有点发情......"
+    l "有点色情......但是......我最近也感觉自己有些放荡......"
 
 # game/scripts/maria_events.rpy:9852
 translate schinese marlspring_4d6a86b9:
@@ -48006,3155 +48006,3154 @@ translate schinese mar_roofdate_844306cd:
 translate schinese marty_8c04bda6:
 
     # m "Hey, let's go back to Fouquet's. I just got a new dress, it's the perfect time."
-    m ""
+    m "嘿,我们回富凯餐厅去吧.我刚刚买了件新衣服,现在正是时候."
 
 # game/scripts/maria_events.rpy:9186
 translate schinese marty_137e327a:
 
     # c "Sure. I'll get dressed."
-    c ""
+    c "当然可以.我去换衣服."
 
 # game/scripts/maria_events.rpy:9187
 translate schinese marty_d0384031:
 
     # m "Same, see you soon."
-    m ""
+    m "我也是.待会见."
 
 # game/scripts/maria_events.rpy:9189
 translate schinese marty_5130ea0b:
 
     # m "Hey, let's go back to Fouquet's this evening. You down?"
-    m ""
+    m "嘿,我们今晚回富凯餐厅去吧.你来吗?"
 
 # game/scripts/maria_events.rpy:9190
 translate schinese marty_fd4f85e6:
 
     # c "Oh, sure. I'll come back this evening."
-    c ""
+    c "哦,当然了.我今晚回来."
 
 # game/scripts/maria_events.rpy:9191
 translate schinese marty_7e109620:
 
     # m "See you then."
-    m ""
+    m "待会见."
 
 # game/scripts/maria_events.rpy:9194
 translate schinese marty_41fcd37f:
 
     # "After getting dressed, you wait for Maria in the lobby..."
-    ""
+    "换完衣服后,你在大厅等玛丽亚."
 
 # game/scripts/maria_events.rpy:9196
 translate schinese marty_eb59189e:
 
     # m "Looks like you're ready."
-    m ""
+    m "看起来你已经准备好了."
 
 # game/scripts/maria_events.rpy:9197
 translate schinese marty_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "嗯?"
 
 # game/scripts/maria_events.rpy:9199
 translate schinese marty_6b632a5a:
 
     # c "Wow, you look stunning."
-    c ""
+    c "哇,你太美了."
 
 # game/scripts/maria_events.rpy:9200
 translate schinese marty_8d9a280f:
 
     # m "Really? You think so? It shows off my curves, right?"
-    m ""
+    m "真的吗?你真的这么认为吗?它能展示我的曲线,对吧?"
 
 # game/scripts/maria_events.rpy:9201
 translate schinese marty_d5968227:
 
     # c "Of course! I can't keep my eyes off of you. That new dress looks amazing on you."
-    c ""
+    c "当然了!我的目光都离不开你了.你穿这件衣服美得惊人."
 
 # game/scripts/maria_events.rpy:9203
 translate schinese marty_d509c79f:
 
     # m "Thanks... you look great too."
-    m ""
+    m "谢谢......你也很好看."
 
 # game/scripts/maria_events.rpy:9204
 translate schinese marty_e65cbd0a:
 
     # c "...Is everything okay, Maria?"
-    c ""
+    c "......你还好吗,玛丽亚?"
 
 # game/scripts/maria_events.rpy:9205
 translate schinese marty_222beb83:
 
     # m "Mhm. Just hungry... Are you ready?"
-    m ""
+    m "嗯.只是有点饿了......你准备好了吗?"
 
 # game/scripts/maria_events.rpy:9206
 translate schinese marty_0ced9f43:
 
     # c "Let's hit it."
-    c ""
+    c "开始吧."
 
 # game/scripts/maria_events.rpy:9207
 translate schinese marty_a464f5d4:
 
     # e "Enjoy, you two!"
-    e ""
+    e "你们俩去好好享受吧!"
 
 # game/scripts/maria_events.rpy:9210
 translate schinese marty_01a9e189:
 
     # durn "Good evening. Welcome back to Fouquet's, do you have a reservation with us?"
-    durn ""
+    durn "晚上好.欢迎再次光临富凯餐厅,您有预定吗?"
 
 # game/scripts/maria_events.rpy:9211
 translate schinese marty_e69e42b8:
 
     # c "No."
-    c ""
+    c "没有."
 
 # game/scripts/maria_events.rpy:9212
 translate schinese marty_0f0d5567:
 
     # durn "Not to worry, we have a table available for you two. Please, follow me."
-    durn ""
+    durn "别担心,我们为你们准备了一张桌子.请跟我来."
 
 # game/scripts/maria_events.rpy:9214
 translate schinese marty_7f7fade4:
 
     # durn "Can I get you two started off with something to drink?"
-    durn ""
+    durn "你们要先喝点什么吗?"
 
 # game/scripts/maria_events.rpy:9215
 translate schinese marty_3addb671:
 
     # c "Two cherry cocktails, please."
-    c ""
+    c "请来两杯樱桃鸡尾酒."
 
 # game/scripts/maria_events.rpy:9216
 translate schinese marty_793d9bc9:
 
     # durn "Wonderful. Allow me a moment to get back to you."
-    durn ""
+    durn "很好.请稍等."
 
 # game/scripts/maria_events.rpy:9219
 translate schinese marty_34503377:
 
     # m "Thanks for bringing me here."
-    m ""
+    m "谢谢你带我来这里."
 
 # game/scripts/maria_events.rpy:9220
 translate schinese marty_b81e6aa2:
 
     # c "Don't worry, I'll pay for everything this time. I know money must be tight for you."
-    c ""
+    c "别担心,这次我请客.我知道你现在手头有点紧."
 
 # game/scripts/maria_events.rpy:9221
 translate schinese marty_fbd42c52:
 
     # m "Eh, I'm comfortable."
-    m ""
+    m "呃,我无所谓的."
 
 # game/scripts/maria_events.rpy:9222
 translate schinese marty_ed886f31:
 
     # c "Oh, good."
-    c ""
+    c "哦,好吧."
 
 # game/scripts/maria_events.rpy:9224
 translate schinese marty_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/scripts/maria_events.rpy:9225
 translate schinese marty_faf91849:
 
     # c "...Uh, what are you hungry for today? Same as last time?"
-    c ""
+    c "......呃,你今天想吃点什么?和上次一样吗?"
 
 # game/scripts/maria_events.rpy:9227
 translate schinese marty_1b0864b6:
 
     # m "I guess."
-    m ""
+    m "大概吧."
 
 # game/scripts/maria_events.rpy:9228
 translate schinese marty_a07f7428:
 
     # c "Maria, what's wrong?"
-    c ""
+    c "玛丽亚,怎么了?"
 
 # game/scripts/maria_events.rpy:9229
 translate schinese marty_d3bc8b3d:
 
     # m "It's nothing..."
-    m ""
+    m "没事......"
 
 # game/scripts/maria_events.rpy:9230
 translate schinese marty_21de6b1f:
 
     # c "It's definitely something. You can talk to me..."
-    c ""
+    c "绝对有事.你可以告诉我......"
 
 # game/scripts/maria_events.rpy:9232
 translate schinese marty_6a3080c2:
 
     # m "*sigh*... You know why I started streaming, right?"
-    m ""
+    m "*叹气*......你知道我开始直播的原因,对吧?"
 
 # game/scripts/maria_events.rpy:9233
 translate schinese marty_57666f66:
 
     # m "It was mostly for the attention. I wanted to feel desired, you know?"
-    m ""
+    m "都是为了关注.我想感受被需要的感觉,你明白吗?"
 
 # game/scripts/maria_events.rpy:9234
 translate schinese marty_1c827684:
 
     # c "I can imagine it was tough growing up without a family."
-    c ""
+    c "我可以想象,在没有家人陪伴的情况下成长是多么艰难."
 
 # game/scripts/maria_events.rpy:9235
 translate schinese marty_c06cf43f:
 
     # m "Yeah... The money was nice, but... being so alone most of my life, I was mainly after the attention."
-    m ""
+    m "是啊......钱是很不错,但是......我孤独了大半辈子,主要还是为了吸引别人的注意力."
 
 # game/scripts/maria_events.rpy:9236
 translate schinese marty_c86bebd4:
 
     # m "I don't even think I know what love feels like, [name]... I keep chasing it, but... I don't know if I ever got it in return..."
-    m ""
+    m "我甚至都不知道爱是什么感觉,[name]......我一直在追寻它,但是......我不知道我是否得到过它的回报."
 
 # game/scripts/maria_events.rpy:9237
 translate schinese marty_3a3a8a5c:
 
     # m "Do you know what that's like? Having no foundation to fall on when things get bad... no support... no one to explain things to you when you're young..."
-    m ""
+    m "你知道那是什么感觉吗?当事情变得糟糕时,没有依靠......没有支持......没有人在你年轻时向你解释事情."
 
 # game/scripts/maria_events.rpy:9240
 translate schinese marty_7f1562f2:
 
     # m "Do you?"
-    m ""
+    m "你知道吗?"
 
 # game/scripts/maria_events.rpy:9241
 translate schinese marty_c1df93a3:
 
     # c "I do, more than you know."
-    c ""
+    c "我知道,比你知道的都多."
 
 # game/scripts/maria_events.rpy:9242
 translate schinese marty_45b425de:
 
     # m "*sigh*... you know how lonely it can get, then."
-    m ""
+    m "*叹气*......那你就知道那会有多孤独了."
 
 # game/scripts/maria_events.rpy:9244
 translate schinese marty_6f7a2b8f:
 
     # m "But you don't understand, do you? Not truly... you can't unless you were in my shoes."
-    m ""
+    m "但是你不理解,对吗?并不真正地理解......除非你站在我的立场上."
 
 # game/scripts/maria_events.rpy:9245
 translate schinese marty_e5d3a788:
 
     # m "It's lonely... it's scary."
-    m ""
+    m "很孤独......很可怕."
 
 # game/scripts/maria_events.rpy:9246
 translate schinese marty_9f560358:
 
     # m "I see others calling their family and wonder what it must feel like... I can't imagine how some of them get so annoyed at their parents when it's obvious they love them."
-    m ""
+    m "我看到别人给家人打电话,可我却不知道那是什么感觉......我无法想象为什么有些人的父母明明很爱他们,却还要冲他们发火."
 
 # game/scripts/maria_events.rpy:9247
 translate schinese marty_575c01d6:
 
     # m "Without that kind of foundation in my life, it feels like... I don't know... like I could die at any moment."
-    m ""
+    m "要是我的生活中没有这种基础,感觉就像......我不知道......好像我随时都可能死去."
 
 # game/scripts/maria_events.rpy:9249
 translate schinese marty_50a112f5:
 
     # m "I mean, honestly, who in this world would move heaven and earth to help me? I have no one...!"
-    m ""
+    m "说实在的,这个世界会有谁来帮我?我没有人可以依靠......!"
 
 # game/scripts/maria_events.rpy:9250
 translate schinese marty_6949ec3f:
 
     # c "You have me."
-    c ""
+    c "你有我."
 
 # game/scripts/maria_events.rpy:9252
 translate schinese marty_c1158e04:
 
     # m "Hmph... it's not the same. Our relationship is conditional. We're one bad fight away from me being alone again..."
-    m ""
+    m "哼......那不一样.我们的关系是有条件的.要是再有一次不愉快的争吵,我就又要孤身一人了."
 
 # game/scripts/maria_events.rpy:9253
 translate schinese marty_b34826c6:
 
     # m "When I was streaming, I would have thousands of people praising me. Thousands of people to talk to that would never turn me away. Without that, what am I going to do when I'm in trouble?"
-    m ""
+    m "我直播的时候,会有成千上万的人称赞我,和我交谈,他们永远不会拒绝我.如果没有这些,我遇到困难时该怎么办?"
 
 # game/scripts/maria_events.rpy:9254
 translate schinese marty_be650def:
 
     # c "If that's what you're worried about, you have nothing to be afraid of with me."
-    c ""
+    c "如果这就是你所担心的,那你就完全不用怕和我在一起."
 
 # game/scripts/maria_events.rpy:9255
 translate schinese marty_3112b290:
 
     # m "As if I haven't heard that before..."
-    m ""
+    m "我也不是没听过这种话......"
 
 # game/scripts/maria_events.rpy:9257
 translate schinese marty_4096c7e5:
 
     # m "...When I was younger, maybe 15 or 16... still in the orphanage... I would join a lot of online chat communities, and that really helped for a while. I was pretty popular in some of them."
-    m ""
+    m "......我年轻的时候,大概15,16岁吧......还在孤儿院的时候......我会加入很多在线聊天社区,这确实帮了我不少忙.我在其中一些社区很受欢迎."
 
 # game/scripts/maria_events.rpy:9258
 translate schinese marty_ae6e469d:
 
     # m "Looking back on it... those guys were creeps. They only wanted one thing, and they didn't care how old I was. Probably made it better for some of them..."
-    m ""
+    m "现在回想起来......那些家伙都是变态.他们只想要一样东西,他们不在乎我的年龄,也许这样对他们中的某些人来说更好."
 
 # game/scripts/maria_events.rpy:9259
 translate schinese marty_8d1cd2e9:
 
     # c "That sucks... and now you don't have any of that."
-    c ""
+    c "那可真糟糕......而现在你却一个人都没有了."
 
 # game/scripts/maria_events.rpy:9260
 translate schinese marty_7e394852:
 
     # m "Not even the others from the orphanage..."
-    m ""
+    m "甚至连孤儿院的其他人也不例外."
 
 # game/scripts/maria_events.rpy:9262
 translate schinese marty_f33613c5:
 
     # m "Oh yeah... there was this one girl... her name was Hana... she was like a sister to me. She was the only one I got along with at the orphanage."
-    m ""
+    m "哦对......还有一个女孩......叫哈娜......她对我来说就像姐妹一样.她是我在孤儿院里唯一合得来的人."
 
 # game/scripts/maria_events.rpy:9263
 translate schinese marty_def8a8ac:
 
     # m "We talked every day, played dolls together, learned how to put on makeup together, and we even got our first childhood boyfriends around the same time."
-    m ""
+    m "我们每天都聊天,一起玩娃娃,一起学化妆,我们甚至在同一时间交了儿时的第一个男朋友."
 
 # game/scripts/maria_events.rpy:9264
 translate schinese marty_357e02c9:
 
     # m "But... she was adopted, and I was alone again..."
-    m ""
+    m "但是......她被收养了,我再一次独自一人......"
 
 # game/scripts/maria_events.rpy:9265
 translate schinese marty_16a12861:
 
     # m "My best friend and sister for so many years, just ripped away from me. I didn't get over it for months... we weren't even allowed any contact."
-    m ""
+    m "我多年来的至交姐妹就这么离我而去,我好几个月都没法释怀......我们甚至不被允许有任何联系."
 
 # game/scripts/maria_events.rpy:9266
 translate schinese marty_9089b758:
 
     # c "Maybe we could find her now?"
-    c ""
+    c "也许现在我们可以去找她?"
 
 # game/scripts/maria_events.rpy:9267
 translate schinese marty_167a2c1b:
 
     # m "It's been like a decade since I saw her... she probably doesn't even remember me anymore."
-    m ""
+    m "我已经快十年没见过她了......她可能都不记得我是谁了."
 
 # game/scripts/maria_events.rpy:9269
 translate schinese marty_0eae22f3:
 
     # durn "Your drinks...\nAre we ready to order?"
-    durn ""
+    durn "你们的酒水......\n可以点菜了吗?"
 
 # game/scripts/maria_events.rpy:9270
 translate schinese marty_68756659:
 
     # c "We need some time."
-    c ""
+    c "我们过一会再点."
 
 # game/scripts/maria_events.rpy:9271
 translate schinese marty_27e562b4:
 
     # durn "Of course, sir. Call me when you're ready."
-    durn ""
+    durn "当然可以,先生.你们需要点菜了就叫我."
 
 # game/scripts/maria_events.rpy:9273
 translate schinese marty_c5157626:
 
     # m "*gulp*\n*gulp*\n*gulp*" with ssshake
-    m "" with ssshake
+    m "*咕噜*\n*咕噜*\n*咕噜*" with ssshake
 
 # game/scripts/maria_events.rpy:9275
 translate schinese marty_e7c15a9d:
 
     # m "Ahhh..."
-    m ""
+    m "啊......"
 
 # game/scripts/maria_events.rpy:9276
 translate schinese marty_095870a2:
 
     # c "Damn..."
-    c ""
+    c "我去......"
 
 # game/scripts/maria_events.rpy:9277
 translate schinese marty_e1e1ca37:
 
     # c "I'm sure Hana remembers you, Maria. If you were as close as you say, you don't forget something like that."
-    c ""
+    c "我确信哈娜还记得你,玛丽亚.如果你们真的想你所说的那样亲密,那是不可能会忘记这种事情的."
 
 # game/scripts/maria_events.rpy:9278
 translate schinese marty_68fddd31:
 
     # m "Yeah... maybe."
-    m ""
+    m "是啊......可能吧."
 
 # game/scripts/maria_events.rpy:9281
 translate schinese marty_70ced626:
 
     # m "I actually planned to kidnap her to {i}save{/i} her from her adoptive parents."
-    m ""
+    m "实际上我还曾经计划过把她绑架了,从收养她的家庭里把她{i}救{/i}出来."
 
 # game/scripts/maria_events.rpy:9282
 translate schinese marty_634f2aff:
 
     # m "I should have been happy for her, it was what we all wanted. But I guess we just thought we'd be adopted together."
-    m ""
+    m "我应该为她感到高兴,毕竟这是我们都想要的事情.但我想,我们都以为我们会被一起收养."
 
 # game/scripts/maria_events.rpy:9283
 translate schinese marty_ffe8f799:
 
     # c "Damn... I can imagine it feels like a she died."
-    c ""
+    c "该死......这对你来说就好像她已经死了吧."
 
 # game/scripts/maria_events.rpy:9284
 translate schinese marty_4a8f0259:
 
     # m "Exactly... Eventually I got over it though... and I was determined to be adopted."
-    m ""
+    m "没错......最后我还是走了出来......我下定决心一定要被收养."
 
 # game/scripts/maria_events.rpy:9287
 translate schinese marty_63c6393d:
 
     # m "I was the first kid to greet every single family that came in. I put on a ton of makeup and tried to act all cute for them, but it never worked... Probably because I looked like a clown."
-    m ""
+    m "我是第一个迎接每个家庭的孩子.我化了很浓的妆,想在他们面前装可爱,但总是失败......可能是因为我看起来就像个小丑."
 
 # game/scripts/maria_events.rpy:9288
 translate schinese marty_b257fdf0:
 
     # m "I thought there must be something wrong with me. Years went by and all of my friends were adopted, except for me..."
-    m ""
+    m "我以为我肯定有什么问题,好几年过去了,我的朋友们都被收养了,除了我......"
 
 # game/scripts/maria_events.rpy:9289
 translate schinese marty_cd1059c9:
 
     # m "I started to hate my eyes because of it. I couldn't see any other reason. Honestly, I... I still can't. I was the only one there with pink eyes."
-    m ""
+    m "因为这件事,我开始讨厌我的眼睛,毕竟我也找不出其他原因.说实在的,我......我现在也找不出其他原因.我是唯一一个有粉色眼睛的人."
 
 # game/scripts/maria_events.rpy:9290
 translate schinese marty_10b3034b:
 
     # m "So I made sure to be the smartest kid there. I got so good at math, grammar, science... I even learned how to dance, sing and play the piano a bit."
-    m ""
+    m "所以我让自己成为了最聪明的孩子.我很擅长数学,编程,科学......我甚至还学了一点唱歌,跳舞,以及弹钢琴."
 
 # game/scripts/maria_events.rpy:9291
 translate schinese marty_ba33117f:
 
     # c "Wow, that's amazing, Maria."
-    c ""
+    c "哇哦,你太棒了,玛丽亚."
 
 # game/scripts/maria_events.rpy:9292
 translate schinese marty_57656805:
 
     # m "Still, no one wanted me... It can really make someone feel worthless, you know...?"
-    m ""
+    m "但是,依然没有人想要我......这会让人感觉自己很没有价值,你明白吗......?"
 
 # game/scripts/maria_events.rpy:9293
 translate schinese marty_052bcee6:
 
     # c "But you're not, you're really talented. Life just isn't fair."
-    c ""
+    c "但是你不是那样的人,你真的很有天分.人生总是不公平的."
 
 # game/scripts/maria_events.rpy:9296
 translate schinese marty_7e7f246d:
 
     # m "Yeah..."
-    m ""
+    m "是啊......"
 
 # game/scripts/maria_events.rpy:9297
 translate schinese marty_901b22c6:
 
     # c "It sounds like you excelled in school and college, you made a lot of money too. You're a completely self-made woman, and you should take pride in that."
-    c ""
+    c "听起来你在学校里做得很棒,也赚了很多钱.你完全是一个白手起家的女人,你应该为此感到骄傲."
 
 # game/scripts/maria_events.rpy:9298
 translate schinese marty_f3749239:
 
     # m "None of that matters without a family. I'd trade it all for a family..."
-    m ""
+    m "没有家,这些都不重要.我愿意把它们全部换成一个家......"
 
 # game/scripts/maria_events.rpy:9299
 translate schinese marty_592385c4:
 
     # m "College in another thing entirely... I wasn't allowed to return to the orphanage once I completed high school, so I was forced to join a community college."
-    m ""
+    m "上大学完全是另一回事......高中毕业后,我就不能再回到孤儿院了,所以我被迫进入了一所社区学院(一种提供两年大学通识教育和技术培训的学校)."
 
 # game/scripts/maria_events.rpy:9300
 translate schinese marty_e7361d47:
 
     # m "It's free for the first two years, and they even paid you a bit if you were at the top. I even got my own dorm room because I did so well. So it was a pretty good deal."
-    m ""
+    m "前两年是免费的,如果你成绩优秀,他们还会给你一些报酬.因为我的成绩很好,我还得到了自己的宿舍.所以这是一笔相当不错的交易."
 
 # game/scripts/maria_events.rpy:9301
 translate schinese marty_790c4968:
 
     # c "The orphanage just kicked you out? Even though you didn't have a job at the time?"
-    c ""
+    c "孤儿院就这么把你踢出去了?即使你那个时候还没有工作?"
 
 # game/scripts/maria_events.rpy:9302
 translate schinese marty_9ee5237d:
 
     # m "Yeah, I mean it makes sense, you can't have adults living with the kids, but it was brutal."
-    m ""
+    m "是的,但这也是有道理的,你不能让大人和孩子住在一起,但那还是挺残酷的."
 
 # game/scripts/maria_events.rpy:9305
 translate schinese marty_94cb2568:
 
     # m "I dated almost any boy that talked to me... It never lasted, but they always made me feel loved, even when it was actually just lust. I was too young to know the difference..."
-    m ""
+    m "我和几乎每一个和我说过话的男生都约过会......都不长久,但是他们让我感受到了爱,即使那其实只是欲望.那时候的我还小,不清楚这两者有什么区别......"
 
 # game/scripts/maria_events.rpy:9306
 translate schinese marty_0f784131:
 
     # m "It gave me a lot of confidence, but I was just stuck in this endless cycle of meeting someone new, thinking I love them, and then dumping them so soon after. I was always just a piece of meat to them..."
-    m ""
+    m "这给我了很多自信,但我却陷入了一个遇见新人,以为我爱上了他们,然后很快就和他们分手的无尽循环里.对他们来说,我只是一块肉罢了......"
 
 # game/scripts/maria_events.rpy:9307
 translate schinese marty_7214cfe2:
 
     # c "Oh..."
-    c ""
+    c "噢......"
 
 # game/scripts/maria_events.rpy:9308
 translate schinese marty_349b0002:
 
     # m "Every new boyfriend was just {i}definitely{/i} different from the last one. This one {i}loved{/i} me... But no, it was never actually like that."
-    m ""
+    m "所有的新的男朋友{i}绝对{/i}和之前那个的不一样,这个是{i}爱{/i}我的......但是,没有,没有一次是这样."
 
 # game/scripts/maria_events.rpy:9309
 translate schinese marty_73425971:
 
     # m "So I said fuck it. No more boyfriends... I was confident in my body, but I wasn't emotionally..."
-    m ""
+    m "所以我说去它的吧.不再有男朋友了......我对我的身体很自信,但对我的情感并不自信......"
 
 # game/scripts/maria_events.rpy:9310
 translate schinese marty_7ecd1e7d:
 
     # m "I was popular online in the past, so I figured... I might as well earn some money with my body if that's all anyone sees me for."
-    m ""
+    m "过去,我在网上很受欢迎,所以我想......如果大家都想看我的身体,那也许我可以用这个方式来赚点钱."
 
 # game/scripts/maria_events.rpy:9311
 translate schinese marty_5dbcd7ef:
 
     # m "{i}Thousands of people said they loved me... but it still wasn't enough.{/i}"
-    m ""
+    m "{i}成千上万的人说他们爱我......但是这还不够.{/i}"
 
 # game/scripts/maria_events.rpy:9313
 translate schinese marty_a37163fc:
 
     # m "I'll never be {i}the one{/i} to someone. I just wasn't born that way."
-    m ""
+    m "我从来都不是谁的{i}那个人{/i}.我生来就非如此."
 
 # game/scripts/maria_events.rpy:9316
 translate schinese marty_b1c43f1c:
 
     # m "I don't know what we are, but I know I'm not your {i}the one...{/i}"
-    m ""
+    m "我不知道我们是什么,但我知道我不是你的{i}那个人......{/i}"
 
 # game/scripts/maria_events.rpy:9317
 translate schinese marty_605a68cc:
 
     # m "I'll never get married. I'll never have kids... I'll never feel loved..."
-    m ""
+    m "我不会结婚.我不会生孩子......我不会感受到爱......"
 
 # game/scripts/maria_events.rpy:9318
 translate schinese marty_58debb97:
 
     # c "I don't make you feel loved?"
-    c ""
+    c "我没能让你感受到爱吗?"
 
 # game/scripts/maria_events.rpy:9321
 translate schinese marty_9a2b32da:
 
     # m "I just think we rushed into things... we never built that foundation. It's just... sex."
-    m ""
+    m "我只是觉得我们太匆忙了......我们从来没有打好基础.只有......性."
 
 # game/scripts/maria_events.rpy:9322
 translate schinese marty_45ac7f2e:
 
     # m "We're not that close... you don't really know me, and I don't really know you."
-    m ""
+    m "我们没那么亲密......你并不真正地了解我,而我也并不真正地了解你."
 
 # game/scripts/maria_events.rpy:9323
 translate schinese marty_a3858729:
 
     # m "I mean, why are we even together? Because we have sex? Am I only in this relationship because I don't want to be alone?"
-    m ""
+    m "我是说,为什么我们要在一起?因为我们做过爱?我想要这段关系仅仅是因为是不想要独自一人吗?"
 
 # game/scripts/maria_events.rpy:9324
 translate schinese marty_521527dc:
 
     # m "I don't want that... I want to love and be loved. I want my person... I need somewhere I can always go back to when things get hard..."
-    m ""
+    m "我不想要那样的关系......我想要爱,想要被爱.我想要我的人......我需要一个无论遇到什么困难我都可以回去的地方."
 
 # game/scripts/maria_events.rpy:9325
 translate schinese marty_ee5ec30e:
 
     # m "And lust is fine, you know? I'm not saying I hate having sex with you. But that stuff will always fade with time. What's left after that?"
-    m ""
+    m "欲望并没有问题,明白吗?我不是说我讨厌和你做爱.但那种东西都会随着时间消失的.在那之后,还剩下什么?"
 
 # game/scripts/maria_events.rpy:9327
 translate schinese marty_410b7919:
 
     # m "I think I want to break up, [name]..."
-    m ""
+    m "我想分手,[name]......"
 
 # game/scripts/maria_events.rpy:9329
 translate schinese marty_abdf71fa:
 
     # m "I mean this when I say it's me, not you."
-    m ""
+    m "是因为我,不是你."
 
 # game/scripts/maria_events.rpy:9330
 translate schinese marty_9e22324f:
 
     # m "All my life I've felt like an object, and I just keep falling into the same traps over and over again..."
-    m ""
+    m "我这一辈子都感觉自己像一件物品,只是一次又一次地掉进了同一个陷阱......"
 
 # game/scripts/maria_events.rpy:9331
 translate schinese marty_16b56501:
 
     # m "I still really like you, but for now, I just need space to figure things out..."
-    m ""
+    m "我还是很喜欢你,但是现在,我需要一些空间来弄清楚......"
 
 # game/scripts/maria_events.rpy:9333
 translate schinese marty_858e1c9e:
 
     # m "I don't know what I'll be doing tomorrow, let alone where I'll be in five years. I don't have a job, I don't have school... I don't know who I am or what I want to do..."
-    m ""
+    m "我不知道我明天会做什么,更不知道五年后我会在哪里.我没有工作,也没有上学......我不知道我是谁,也不知道我想做什么."
 
 # game/scripts/maria_events.rpy:9334
 translate schinese marty_e27e9d14:
 
     # m "I just... ugh... I just need time to figure things out..."
-    m ""
+    m "我只是......呃......我只是需要时间来弄清楚这一切......"
 
 # game/scripts/maria_events.rpy:9339
 translate schinese marty_fa421492:
 
     # m "It is... I'm depressed. I don't know what to do..."
-    m ""
+    m "是......我很沮丧.我不知道该怎么办......"
 
 # game/scripts/maria_events.rpy:9343
 translate schinese marty_0f43a549:
 
     # m "Thank you [name]... maybe you're on of the good ones and I'll really regret this later..."
-    m ""
+    m "谢谢你,[name]......也许你是个好人,也许我马上就会后悔......"
 
 # game/scripts/maria_events.rpy:9344
 translate schinese marty_e3b6e09e:
 
     # m "I still have some money, but if the offer still stands, I would love to keep living in the hotel for now..."
-    m ""
+    m "我还有点钱,但如果你的提议依然有效,我还想暂时住在酒店里......"
 
 # game/scripts/maria_events.rpy:9345
 translate schinese marty_55fed8cd:
 
     # c "Of course. There will always be a room available for you, even if I have to build one."
-    c ""
+    c "当然可以.即使我需要建一个房间,也总会有一个房间给你的."
 
 # game/scripts/maria_events.rpy:9347
 translate schinese marty_53050515:
 
     # m "That's so sweet... thank you."
-    m ""
+    m "你人真好......谢谢你."
 
 # game/scripts/maria_events.rpy:9354
 translate schinese marty_69f802d2:
 
     # m "Have you not been listening to anything I've been saying??"
-    m ""
+    m "你没有听我在说什么吗??"
 
 # game/scripts/maria_events.rpy:9355
 translate schinese marty_0980ac61:
 
     # m "You're trying to keep me, like an object! I can't live like this!"
-    m ""
+    m "你想把我当个物品一样留下来!我不能活成那个样子!"
 
 # game/scripts/maria_events.rpy:9356
 translate schinese marty_4363851e:
 
     # c "I know things are tough right now, but-"
-    c ""
+    c "我知道你现在过得很困难,但是-"
 
 # game/scripts/maria_events.rpy:9357
 translate schinese marty_ad2974bf:
 
     # m "No! If you loved me, you'd let me go. If it's meant to be, that's how we'll know...!"
-    m ""
+    m "不!如果你爱我,你就会放我走.如果这是命中注定,那我们会知道的......!"
 
 # game/scripts/maria_events.rpy:9358
 translate schinese marty_c9997a1d:
 
     # m "I can't, [name]... I can't stay with you right now."
-    m ""
+    m "我不能,[name]......我现在不能和你在一起."
 
 # game/scripts/maria_events.rpy:9363
 translate schinese marty_1bb29343:
 
     # m "I'm sorry for ruining our date... I didn't plan for any of this... I thought dressing pretty and going on a date would fix things, but..."
-    m ""
+    m "很抱歉,我毁了我们的约会......我并没有计划说这些......我以为,穿上漂亮的衣服,和你约会,就可以修复一切,但是......"
 
 # game/scripts/maria_events.rpy:9364
 translate schinese marty_dc912f9a:
 
     # c "It's okay, I think you just need time and space to heal, and you never really got that before."
-    c ""
+    c "没关系,我想你只是需要一些时间和空间来治疗自己,而那都是你以前所没有的."
 
 # game/scripts/maria_events.rpy:9365
 translate schinese marty_cb084330:
 
     # m "Exactly..."
-    m ""
+    m "没错......"
 
 # game/scripts/maria_events.rpy:9366
 translate schinese marty_7e2cde88:
 
     # c "Come on, let's take you home so you can rest."
-    c ""
+    c "来吧,我带你回家,你可以休息了."
 
 # game/scripts/maria_events.rpy:9367
 translate schinese marty_98c6141c:
 
     # m "Thank you..."
-    m ""
+    m "谢谢......"
 
 # game/scripts/maria_events.rpy:9369
 translate schinese marty_71528288:
 
     # "After paying for your drinks, you and Maria hop in the car, and you begin your long, silent, drive back."
-    ""
+    "付完酒水钱之后,你和玛丽亚进入了你的车.漫长回程的一路上,只有沉默."
 
 # game/scripts/maria_events.rpy:9370
 translate schinese marty_77383e9a:
 
     # "During the walk back to Maria's room, she looks at her feet the entire time. Once you reach her room, she tilts her head up, and looks at you as if she's going to say something."
-    ""
+    "在玛丽亚走回房间的时候,她一直都盯着自己的脚看.你们到了她的房门前,她抬起头来看着你,好像要说些什么."
 
 # game/scripts/maria_events.rpy:11179
 translate schinese manal_4bbd3421:
 
     # m "[name]... I'm ready for you to take my anal virginity~\nBe gentle, okay? Your cock is bigger than most of the toys I use."
-    m ""
+    m "[name]......我已经准备好让你拿走我菊穴的处女了~\n温柔点,好吗?你的肉棒比我用过的大多数玩具都大."
 
 # game/scripts/maria_events.rpy:11220
 translate schinese manal_88ffae93:
 
     # c "I love you too, Maria..."
-    c ""
+    c "我也爱你,玛丽亚......"
 
 # game/scripts/maria_events.rpy:11223
 translate schinese manal_2429f873:
 
     # m "I think I'm done with streaming as well. I don't need their attention, just yours. And it's like you said... Money isn't going to change that."
-    m ""
+    m "我想我也不直播了.我不需要他们的关注,只需要你的.就像你说的......钱并不能改变这一切."
 
 # game/scripts/maria_events.rpy:11224
 translate schinese manal_abb5f60d:
 
     # c "You want to quit streaming? Really?"
-    c ""
+    c "你想要退出直播?真的吗?"
 
 # game/scripts/maria_events.rpy:11225
 translate schinese manal_f6edd73d:
 
     # m "Yeah... but don't get it wrong, I'm still going to try to pay for rent! I just want to find another job..."
-    m ""
+    m "是的......但是别误会了,我还是会付房租的!我只想要找另一份工作......"
 
 # game/scripts/maria_events.rpy:11226
 translate schinese manal_a3fe49ba:
 
     # m "I realized I don't really need it anymore. I have enough money to sit on while I look for a new job."
-    m ""
+    m "我意识到我不再需要它了.我的钱够我在找新工作的时候继续生活了."
 
 # game/scripts/maria_events.rpy:11227
 translate schinese manal_5a7306ff:
 
     # c "If you're sure, it might be for the best. It's getting dangerous for you."
-    c ""
+    c "如果你确定的话,也许这样就是最好的选择.那对你来说太危险了."
 
 # game/scripts/maria_events.rpy:11228
 translate schinese manal_f9c0a537:
 
     # m "Yeah...\nIf you don't mind, I need to rest... you fucked me good, haha..."
-    m ""
+    m "是啊......\n如果你不介意的话,我需要休息一下......你操我操得很舒服,哈哈......"
 
 # game/scripts/maria_events.rpy:11229
 translate schinese manal_54ce9ffd:
 
     # c "Take it easy."
-    c ""
+    c "慢慢来."
 
 # game/scripts/maria_events.rpy:11240
 translate schinese marcreep_ad0747a4:
 
     # e "GET OUT!" with ssshake
-    e "" with ssshake
+    e "{b}滚出去!{/b}" with ssshake
 
 # game/scripts/maria_events.rpy:11241
 translate schinese marcreep_7313aa19:
 
     # m "You're so creepy!!"
-    m ""
+    m "你太恐怖了!!"
 
 # game/scripts/maria_events.rpy:11242
 translate schinese marcreep_ca2dde1c:
 
     # q "But you're so pretty~"
-    q ""
+    q "但是你很漂亮啊~"
 
 # game/scripts/maria_events.rpy:11243
 translate schinese marcreep_15fe8555:
 
     # c "What the hell is going on here?"
-    c ""
+    c "他妈的发生什么事了?"
 
 # game/scripts/maria_events.rpy:11245
 translate schinese marcreep_459dcc89:
 
     # m "This creepy old guy found my address!"
-    m ""
+    m "这个猥琐的老头找到了我的地址!"
 
 # game/scripts/maria_events.rpy:11246
 translate schinese marcreep_89733a98:
 
     # q "I'm a big fan! Heheh... Do you offer private shows? Hehehehhh..."
-    q ""
+    q "我是你的大粉丝!呵呵呵......你提供私下表演吗?呵呵呵呵呵......"
 
 # game/scripts/maria_events.rpy:11247
 translate schinese marcreep_c6d6fc56:
 
     # e "Don't make me get my gun!"
-    e ""
+    e "别逼我拿枪!"
 
 # game/scripts/maria_events.rpy:11248
 translate schinese marcreep_9f30ca59:
 
     # q "I'm not harming no one..."
-    q ""
+    q "我不会伤害任何人的......"
 
 # game/scripts/maria_events.rpy:11250
 translate schinese marcreep_13898d82:
 
     # q "Aaagh!"
-    q ""
+    q "啊!"
 
 # game/scripts/maria_events.rpy:11251
 translate schinese marcreep_c5174941:
 
     # c "Get the FUCK out of here!"
-    c ""
+    c "给我{b}他妈的{/b}滚出去!"
 
 # game/scripts/maria_events.rpy:11252
 translate schinese marcreep_078af721:
 
     # q "Wh-Why!?"
-    q ""
+    q "为-为什么!?"
 
 # game/scripts/maria_events.rpy:11253
 translate schinese marcreep_ed0b7d39:
 
     # c "You're stalking! I'll fucking shoot you if you ever come back here, do you understand?"
-    c ""
+    c "你在跟踪别人!要是你还敢过来,我他妈一枪毙了你,明白吗?"
 
 # game/scripts/maria_events.rpy:11254
 translate schinese marcreep_985f7805:
 
     # q "B-B-But...!"
-    q ""
+    q "但-但-但是......!"
 
 # game/scripts/maria_events.rpy:11255
 translate schinese marcreep_20db902c:
 
     # c "Ellen, get the gun..."
-    c ""
+    c "艾兰,拿枪......"
 
 # game/scripts/maria_events.rpy:11256
 translate schinese marcreep_cc72b0eb:
 
     # q "O-O-Okay! Okay! I'll leave! I'm sorry! I'm sorry!"
-    q ""
+    q "好-好-好的!好的!我走!对不起!对不起!"
 
 # game/scripts/maria_events.rpy:11258
 translate schinese marcreep_6f166bc0:
 
     # m "*exhale*... thank you, [name]..."
-    m ""
+    m "*呼气*......谢谢你,[name]......"
 
 # game/scripts/maria_events.rpy:11259
 translate schinese marcreep_aaeaddfd:
 
     # e "What a creep... I can't believe I have to deal with this."
-    e ""
+    e "真是个变态......真不敢相信我还得面对这种事."
 
 # game/scripts/maria_events.rpy:11260
 translate schinese marcreep_8c9b957b:
 
     # q "{size=-6}{i}I love you, Maria...{/i}{/size}"
-    q ""
+    q "{size=-6}{i}我爱你,玛丽亚......{/i}{/size}"
 
 # game/scripts/maria_events.rpy:11261
 translate schinese marcreep_3a9cbf9b:
 
     # c "Hey! Leave."
-    c ""
+    c "嘿!走开."
 
 # game/scripts/maria_events.rpy:11263
 translate schinese marcreep_3d0d8898:
 
     # c "Do you know him?"
-    c ""
+    c "你认识他吗?"
 
 # game/scripts/maria_events.rpy:11264
 translate schinese marcreep_066fc39b:
 
     # m "Yeah... well, kind of..."
-    m ""
+    m "认知......嗯,某种意义上吧......"
 
 # game/scripts/maria_events.rpy:11265
 translate schinese marcreep_0b6d28a1:
 
     # m "He's my top donator... I recognized him by his profile pic..."
-    m ""
+    m "他是我的头号捐款人......我是从他的个人照片认出他的......"
 
 # game/scripts/maria_events.rpy:11267
 translate schinese marcreep_bc9c29c2:
 
     # m "He uh... he said he would pay me a lot of money to get fucked in the ass..."
-    m ""
+    m "他,呃......他说如果我的屁股被操了,他会给我一大笔钱......"
 
 # game/scripts/maria_events.rpy:11268
 translate schinese marcreep_1807dcbc:
 
     # c "He wanted to fuck you?"
-    c ""
+    c "他想操你?"
 
 # game/scripts/maria_events.rpy:11269
 translate schinese marcreep_f46e11ed:
 
     # m "No... he just wanted to watch. He didn't care who did it... He was offering $500..."
-    m ""
+    m "不......他只想看着.他并不关心是谁来做......他说要给我500$......"
 
 # game/scripts/maria_events.rpy:11272
 translate schinese marcreep_93251f29:
 
     # m "What? Why??"
-    m ""
+    m "什么?为什么??"
 
 # game/scripts/maria_events.rpy:11273
 translate schinese marcreep_85acdb04:
 
     # c "$500 is a lot."
-    c ""
+    c "500$很多."
 
 # game/scripts/maria_events.rpy:11274
 translate schinese marcreep_dcd9af00:
 
     # m "I mean, you're right, it's insane, but..."
-    m ""
+    m "我是说,你是对的,这确实很多,但......"
 
 # game/scripts/maria_events.rpy:11275
 translate schinese marcreep_5bec8148:
 
     # m "No. No way. I never want to see him again..."
-    m ""
+    m "不,不行,我再也不想见到他了......"
 
 # game/scripts/maria_events.rpy:11277
 translate schinese marcreep_782dc051:
 
     # c "He found your address... it must have leaked somehow."
-    c ""
+    c "他找到了你的地址......一定是哪里泄露了."
 
 # game/scripts/maria_events.rpy:11278
 translate schinese marcreep_35aa28b4:
 
     # m "I know! It's so freaky...! What am I going to do??"
-    m ""
+    m "我知道!这太吓人了......!我要怎么做??"
 
 # game/scripts/maria_events.rpy:11280
 translate schinese marcreep_6980e312:
 
     # m "How can I feel safe here anymore knowing my address has leaked...?"
-    m ""
+    m "在我的地址泄露之后,我要怎么才能感到安全......?"
 
 # game/scripts/maria_events.rpy:11281
 translate schinese marcreep_dee432f0:
 
     # m "There are bad people out there... some of them are obssessed... they'll do anything to get me."
-    m ""
+    m "外面有坏人......他们有些人执迷不悟......他们可能会对我做任何事情的."
 
 # game/scripts/maria_events.rpy:11282
 translate schinese marcreep_1514fc37:
 
     # c "You don't have to worry about that here. We'll shoot anyone trying to hurt you. Right Ellen?"
-    c ""
+    c "在这里,你没必要担心.如果有人胆敢伤害你,我们会对他开枪.对吧,艾兰?"
 
 # game/scripts/maria_events.rpy:11283
 translate schinese marcreep_6223be36:
 
     # e "Sure, why not?"
-    e ""
+    e "当然了,为什么不呢?"
 
 # game/scripts/maria_events.rpy:11284
 translate schinese marcreep_782bacc6:
 
     # m "Thanks guys...\nBut damn, $500 really is a lot..."
-    m ""
+    m "谢谢你们......\n但是,我操,500$真的很多......"
 
 # game/scripts/maria_events.rpy:11285
 translate schinese marcreep_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "嗯?"
 
 # game/scripts/maria_events.rpy:11286
 translate schinese marcreep_a6293275:
 
     # m "It would cover rent for three months... it would be my top donation by far..."
-    m ""
+    m "那已经是三个月的房租了......是目前为止我收到的最大的一笔捐款......"
 
 # game/scripts/maria_events.rpy:11287
 translate schinese marcreep_d663affe:
 
     # c "You're not seriously thinking about doing it, are you?"
-    c ""
+    c "你不会真的想要那么做吧?"
 
 # game/scripts/maria_events.rpy:11288
 translate schinese marcreep_1ea0e956:
 
     # m "No! Definitely not..."
-    m ""
+    m "不!当然不是......"
 
 # game/scripts/maria_events.rpy:11289
 translate schinese marcreep_5de64876:
 
     # m "At least... not in front of him."
-    m ""
+    m "至少......不是在他面前."
 
 # game/scripts/maria_events.rpy:11290
 translate schinese marcreep_69600bf1:
 
     # c "Maria..."
-    c ""
+    c "玛丽亚......"
 
 # game/scripts/maria_events.rpy:11291
 translate schinese marcreep_f4f20dba:
 
     # m "It's a lot of money... I really need it. And I don't mind anal sex with you! It could work out."
-    m ""
+    m "那是很大的一笔钱......我真的很需要它.而且我也不介意和你肛交!这可以的."
 
 # game/scripts/maria_events.rpy:11292
 translate schinese marcreep_5b2c5c48:
 
     # c "You don't need that money... you're fine without it. And wouldn't it just encourage him to come back?"
-    c ""
+    c "你不需要那笔钱......没有它,你也还是好好的.而且这不会鼓励他再次过来吗?"
 
 # game/scripts/maria_events.rpy:11293
 translate schinese marcreep_de7a7345:
 
     # m "Not if you have a gun. You'll protect me, right? I'm safe... so if I just DM him and go live... maybe he'll still donate."
-    m ""
+    m "如果你有枪就不会了.你会保护我的,对吧?我很安全......所以如果我给他发私信,然后去直播......也许他还是会给我捐钱."
 
 # game/scripts/maria_events.rpy:11294
 translate schinese marcreep_e88216a9:
 
     # m "Could you, um... come talk to me in my room, please?"
-    m ""
+    m "你可以,呃......去我的房间里和我聊吗?"
 
 # game/scripts/maria_events.rpy:11295
 translate schinese marcreep_63ea9cf4:
 
     # c "Sure..."
-    c ""
+    c "当然可以......"
 
 # game/scripts/maria_events.rpy:11298
 translate schinese marcreep_9385ff03:
 
     # m "Ssssooo... how about it? I've been thinking of asking you soon anyway, so it works out."
-    m ""
+    m "所以......怎么样?反正我迟早都是要问你的,所以可以的."
 
 # game/scripts/maria_events.rpy:11299
 translate schinese marcreep_04b8ad26:
 
     # c "Are you really willing to sell your anal virginity?"
-    c ""
+    c "你真的想卖掉你菊穴的处女吗?"
 
 # game/scripts/maria_events.rpy:11301
 translate schinese marcreep_73cdb17f:
 
     # m "It's $500! Are you really turning down anal sex with me!?"
-    m ""
+    m "500$啊!你真的不想和我肛交吗?"
 
 # game/scripts/maria_events.rpy:11302
 translate schinese marcreep_5991ce17:
 
     # c "I didn't say that..."
-    c ""
+    c "我可没那么说......"
 
 # game/scripts/maria_events.rpy:11303
 translate schinese marcreep_479b7f78:
 
     # m "It's not like I'm giving it to someone I don't care about. I mean, I WANT to do it! And I get $500 on top of that? Why not!"
-    m ""
+    m "我又不是把它给了一个我不关心的人.我是说,我{b}本来{/b}就想做的!而且我还能得到500$?何乐而不为呢?"
 
 # game/scripts/maria_events.rpy:11304
 translate schinese marcreep_944adb1d:
 
     # c "Still, Maria..."
-    c ""
+    c "但是,玛丽亚......"
 
 # game/scripts/maria_events.rpy:11305
 translate schinese marcreep_aecb6073:
 
     # m "What? What are you possibly worried about? I need the money, and I was going to ask you anyway!"
-    m ""
+    m "什么?你在担心什么?我需要这笔钱,而且我本来就会问你的!"
 
 # game/scripts/maria_events.rpy:11306
 translate schinese marcreep_9383a9e1:
 
     # c "It's okay, Maria... I'm here for you. You'll never have to worry about rent here again."
-    c ""
+    c "没事的,玛丽亚......我在这里.你不需要担心房租了."
 
 # game/scripts/maria_events.rpy:11308
 translate schinese marcreep_d45d72e7:
 
     # m "Wh-What...?"
-    m ""
+    m "什-什么......?"
 
 # game/scripts/maria_events.rpy:11309
 translate schinese marcreep_703429ff:
 
     # c "You could live here as long as you want, you don't need that money. You shouldn't do something just because you need the money."
-    c ""
+    c "你想住多久就住多久,你不需要那笔钱.你不应该就为了钱去做那些事情."
 
 # game/scripts/maria_events.rpy:11310
 translate schinese marcreep_294881cd:
 
     # m "Are you serious...?"
-    m ""
+    m "你是认真的吗......?"
 
 # game/scripts/maria_events.rpy:11311
 translate schinese marcreep_27c76706:
 
     # c "Of course. I want you here forever."
-    c ""
+    c "当然了.我想要你永远留在这里."
 
 # game/scripts/maria_events.rpy:11313
 translate schinese marcreep_c933b2c1:
 
     # m "Really...? That's so sweet... thank you..."
-    m ""
+    m "真的吗......?太好了......谢谢你......"
 
 # game/scripts/maria_events.rpy:11314
 translate schinese marcreep_eb0ba92e:
 
     # m "No one's ever made me feel like that before... *sniff*... I didn't know how much I needed it..."
-    m ""
+    m "从来没有人让我有过这样的感受......*抽泣*......我都不知道我有多么需要它......"
 
 # game/scripts/maria_events.rpy:11315
 translate schinese marcreep_f30a914d:
 
     # c "You're safe here, I don't want you to have any worries."
-    c ""
+    c "你在这里很安全,我不想要你有任何担心."
 
 # game/scripts/maria_events.rpy:11316
 translate schinese marcreep_12aa9d31:
 
     # m "*sniff*... I love you, [name]..."
-    m ""
+    m "*抽泣*......我爱你,[name]......"
 
 # game/scripts/maria_events.rpy:11317
 translate schinese marcreep_3fb82961:
 
     # m "*exhale*... if I didn't want you to fuck me before, I certainly do now..."
-    m ""
+    m "*呼气*......如果我刚才不想要你操我,那我现在绝对想要......"
 
 # game/scripts/maria_events.rpy:11319
 translate schinese marcreep_5ba6e0e1:
 
     # m "I want you... but without the stream, without the money. Just you and me..."
-    m ""
+    m "我想要你......但是没有直播,没有金钱.只有你和我......"
 
 # game/scripts/maria_events.rpy:11320
 translate schinese marcreep_9f46320d:
 
     # m "Would you like that...?"
-    m ""
+    m "你还想要吗......?"
 
 # game/scripts/maria_events.rpy:11323
 translate schinese marcreep_75fce7af:
 
     # m "Really? You really want to?"
-    m ""
+    m "真的吗?你真的想要?"
 
 # game/scripts/maria_events.rpy:11324
 translate schinese marcreep_a7e909dd:
 
     # c "If it's for the right reasons, of course."
-    c ""
+    c "如果这是为了正确的理由,那当然想要."
 
 # game/scripts/maria_events.rpy:11325
 translate schinese marcreep_779c3f29:
 
     # m "Yes! That's perfect..."
-    m ""
+    m "太好了!太完美了......"
 
 # game/scripts/maria_events.rpy:11330
 translate schinese marcreep_e544f2d0:
 
     # m "Oh, I understand... I'm still a little freaked out too..."
-    m ""
+    m "噢,我理解......我还是有点害怕......"
 
 # game/scripts/maria_events.rpy:11332
 translate schinese marcreep_6442cabb:
 
     # m "But thank you, [name]... You're really the best..."
-    m ""
+    m "但是,谢谢你,[name]......你是最棒的......"
 
 # game/scripts/maria_events.rpy:11333
 translate schinese marcreep_a0de6bea:
 
     # m "*exhale*... I need to rest a bit. Don't be surprised if I don't answer the door, I'm just recovering..."
-    m ""
+    m "*呼气*......我需要休息一会.如果我没应门的话也别太惊讶,我还在休息......"
 
 # game/scripts/maria_events.rpy:11334
 translate schinese marcreep_a5833b8a:
 
     # c "I understand. Take some time to yourself."
-    c ""
+    c "我理解.给自己一点时间吧."
 
 # game/scripts/maria_events.rpy:11335
 translate schinese marcreep_f6d0d672:
 
     # m "I'll see you know, [name]..."
-    m ""
+    m "再见,[name]......"
 
 # game/scripts/maria_events.rpy:11336
 translate schinese marcreep_a4c90328:
 
     # c "See you."
-    c ""
+    c "再见."
 
 # game/scripts/maria_events.rpy:11344
 translate schinese marlspring_47f2e690:
 
     # l "So how are you liking the hotel, Maria? I hope it's clean enough..."
-    l ""
+    l "所以你觉得酒店怎么样,玛丽亚?我希望这里足够干净......"
 
 # game/scripts/maria_events.rpy:11345
 translate schinese marlspring_54800ad1:
 
     # m "Oh, it's great! You won't believe the shit I got into recently!"
-    m ""
+    m "噢,很棒啊!你绝对不会相信我最近都经历了什么!"
 
 # game/scripts/maria_events.rpy:11346
 translate schinese marlspring_e8055a72:
 
     # l "Oh, like what?"
-    l ""
+    l "噢,比如?"
 
 # game/scripts/maria_events.rpy:11347
 translate schinese marlspring_4116595e:
 
     # m "Well, [name] punched my ex in the face over dinner! Isn't that crazy?"
-    m ""
+    m "嗯,[name]在吃晚饭的时候给了我前男友的脸上一拳!这不是很疯狂吗?"
 
 # game/scripts/maria_events.rpy:11348
 translate schinese marlspring_7a13442c:
 
     # l "Wow... was he protecting you?"
-    l ""
+    l "哇哦......他在保护你?"
 
 # game/scripts/maria_events.rpy:11349
 translate schinese marlspring_0c0a2e43:
 
     # m "Yeah, sorta.\nAnd you're doing great, Lin, don't worry! You'll get no complaints from me."
-    m ""
+    m "嗯,算是.\n而且你做的很棒,林,别担心!我绝对不会抱怨你的."
 
 # game/scripts/maria_events.rpy:11350
 translate schinese marlspring_1470a376:
 
     # l "Thanks... sometimes I worry that I miss a spot at night while I'm trying to sleep..."
-    l ""
+    l "谢谢......有时候晚上睡觉的时候我总是会担心会不会漏掉了哪里......"
 
 # game/scripts/maria_events.rpy:11352
 translate schinese marlspring_11b9ede8:
 
     # m "I see that you're wearing the swimsuit I bought for you... how do you like it?"
-    m ""
+    m "我看见你穿着我给你买的泳衣了......你觉得怎么样?"
 
 # game/scripts/maria_events.rpy:11356
 translate schinese marlspring_aa71c9a2:
 
     # m "You too huh? [name] has his ways, heheh!"
-    m ""
+    m "你也是?[name]可真有招,呵呵呵!"
 
 # game/scripts/maria_events.rpy:11357
 translate schinese marlspring_aa3bbb9c:
 
     # l "Hehe, yeah..."
-    l ""
+    l "呵呵,是啊......"
 
 # game/scripts/maria_events.rpy:11359
 translate schinese marlspring_3de227a5:
 
     # m "Oh, that's new~ what else is news?"
-    m ""
+    m "哦,这倒是新鲜事~还有什么新鲜事?"
 
 # game/scripts/maria_events.rpy:11360
 translate schinese marlspring_1cf321a4:
 
     # l "I dunno~"
-    l ""
+    l "我不知道~"
 
 # game/scripts/maria_events.rpy:11363
 translate schinese marlspring_6f4615c7:
 
     # m "Mhm... I think you like the way you feel in it."
-    m ""
+    m "嗯......我觉得你会喜欢穿上它的感觉的."
 
 # game/scripts/maria_events.rpy:11364
 translate schinese marlspring_5ce1a1c2:
 
     # l "Nnnnooo~"
-    l ""
+    l "不~"
 
 # game/scripts/maria_events.rpy:11366
 translate schinese marlspring_39fe3865:
 
     # m "So... Lin, have you done anal yet?"
-    m ""
+    m "所以......林,你肛交过吗?"
 
 # game/scripts/maria_events.rpy:11376
 translate schinese marlspring_16e0f1c5:
 
     # m "Hmmm... Maybe I should try it out sometime."
-    m ""
+    m "嗯......也许我应该找个时间试试."
 
 # game/scripts/maria_events.rpy:11378
 translate schinese marlspring_0575a771:
 
     # l "Well... no... Nothing's supposed to go in there..."
-    l ""
+    l "嗯......不......任何东西都不应该进入里面......"
 
 # game/scripts/maria_events.rpy:11383
 translate schinese marlspring_1a963791:
 
     # m "Don't think about it like that... it's a totally different feeling. I think you'd like it."
-    m ""
+    m "别那么想......那种感觉完全不一样.我觉得你会喜欢的."
 
 # game/scripts/maria_events.rpy:11384
 translate schinese marlspring_927e6b80:
 
     # l "Hehe, I don't know..."
-    l ""
+    l "呵呵,我不知道......"
 
 # game/scripts/maria_events.rpy:11386
 translate schinese marlspring_a3e24469:
 
     # c "*splash*\nHey, what's up?" with ssshake
-    c "" with ssshake
+    c "*水花飞溅*\n嘿,怎么了?" with ssshake
 
 # game/scripts/maria_events.rpy:11387
 translate schinese marlspring_5c7732dd:
 
     # l "[name]...! H-Hi...!"
-    l ""
+    l "[name]......!嗨-嗨......!"
 
 # game/scripts/maria_events.rpy:11388
 translate schinese marlspring_c880abdb:
 
     # m "Oh hey [name]! Come to relax? Lin and I were just getting to know each other."
-    m ""
+    m "噢,嘿[name]!你来休息吗?林和我刚刚在互相了解."
 
 # game/scripts/maria_events.rpy:11389
 translate schinese marlspring_d9023a87:
 
     # l "Y-Yeah..."
-    l ""
+    l "是-是的......"
 
 # game/scripts/maria_events.rpy:11392
 translate schinese marlspring_b70e99c7:
 
     # m "And what about his cock, have you sucked it yet?"
-    m ""
+    m "那他的肉棒呢,你吃过吗?"
 
 # game/scripts/maria_events.rpy:11395
 translate schinese marlspring_8a48d75b:
 
     # l "Oh, yes! It feels so big in your mouth, doesn't it?"
-    l ""
+    l "噢,当然有了!它在嘴巴里感觉好大,不是吗?"
 
 # game/scripts/maria_events.rpy:11396
 translate schinese marlspring_fd126321:
 
     # m "It kind of hurts my jaw... But I love sucking his cock! It's really my favorite."
-    m ""
+    m "我的下巴都有点被弄疼了......但是我很喜欢吃他的肉棒!是我最喜欢做的事情."
 
 # game/scripts/maria_events.rpy:11401
 translate schinese marlspring_52f00dad:
 
     # l "N-No..."
-    l ""
+    l "没-没有......"
 
 # game/scripts/maria_events.rpy:11402
 translate schinese marlspring_086e5b90:
 
     # m "That's a shame... Men love blowjobs the most. And to be honest, it's my favorite too... It feels like he's putting me in my place..."
-    m ""
+    m "真遗憾......男人们最喜欢被口交了.而且说实在的,这也是我最喜欢的事情......感觉就像他把我放在了自己应在的位置上."
 
 # game/scripts/maria_events.rpy:11403
 translate schinese marlspring_be89d3cd:
 
     # l "O-Oh, you really like it, huh?"
-    l ""
+    l "噢-哦,你真的很喜欢,嗯?"
 
 # game/scripts/maria_events.rpy:11405
 translate schinese marlspring_9825ca18:
 
     # l "I- I see..."
-    l ""
+    l "我-我明白了......"
 
 # game/scripts/maria_events.rpy:11406
 translate schinese marlspring_42d07288:
 
     # m "Heheh..."
-    m ""
+    m "呵呵呵......"
 
 # game/scripts/maria_events.rpy:11408
 translate schinese marlspring_30b9a0e8:
 
     # m "Anyway~ what are you really doing here, [name]? You wouldn't happen to be snooping on a conversation between girls, are you?"
-    m ""
+    m "算了~你来这里做什么的,[name]? 你不会碰巧在偷听女生之间的谈话吧?"
 
 # game/scripts/maria_events.rpy:11409
 translate schinese marlspring_b40d1a45:
 
     # c "Certainly not."
-    c ""
+    c "当然不是."
 
 # game/scripts/maria_events.rpy:11410
 translate schinese marlspring_07cb5a76:
 
     # m "Mhmmm..."
-    m ""
+    m "嗯......"
 
 # game/scripts/maria_events.rpy:11411
 translate schinese marlspring_92430534:
 
     # m "Sometimes us girls like to talk about our boyfriends. Like what we've done in bed. Just to compare, you know?"
-    m ""
+    m "有时候我们这些女孩喜欢谈论自己的男朋友.比如我们都在床上做了什么.只是为了比一比,你明白吧?"
 
 # game/scripts/maria_events.rpy:11417
 translate schinese marlspring_e19aeff7:
 
     # m "Yeah... looks like I Have some catching up to do, hm?"
-    m ""
+    m "是啊......看起来我得加把劲赶上了,嗯?"
 
 # game/scripts/maria_events.rpy:11418
 translate schinese marlspring_9fce2e9a:
 
     # l "Oh! [linoname], did you know she used to be a cheerleader? And she graduated top of her class! She's so smart!"
-    l ""
+    l "哦![linoname],你知道她以前是啦啦队队长吗?她还是以全班第一名的成绩毕业的!她好聪明啊!"
 
 # game/scripts/maria_events.rpy:11419
 translate schinese marlspring_7fc11fa5:
 
     # m "It's not something I like to brag about..."
-    m ""
+    m "我并不喜欢炫耀这种事情......"
 
 # game/scripts/maria_events.rpy:11420
 translate schinese marlspring_7091da30:
 
     # c "As smart as she is sexy."
-    c ""
+    c "她既聪明又性感."
 
 # game/scripts/maria_events.rpy:11421
 translate schinese marlspring_81ac1bd1:
 
     # m "You get me..."
-    m ""
+    m "你懂我......"
 
 # game/scripts/maria_events.rpy:11423
 translate schinese marlspring_482b1407:
 
     # l "What are your parents like? They must be very rich, right?"
-    l ""
+    l "你的父母是什么样的人?他们一定很有钱吧?"
 
 # game/scripts/maria_events.rpy:11425
 translate schinese marlspring_792f7953:
 
     # l "I never really knew mine, and you turned out so smart and rich! You must have had good parents, right?"
-    l ""
+    l "我从来没怎么好好了解过我的父母,但你却又聪明又富有!你一定有一对好父母,对吧?"
 
 # game/scripts/maria_events.rpy:11426
 translate schinese marlspring_7cb011ef:
 
     # m "I'm comfortable, but I wouldn't say I'm rich... I'm still living here, after all..."
-    m ""
+    m "我过得还算舒适,但我可不会说我很富有......毕竟,我住在这里......"
 
 # game/scripts/maria_events.rpy:11427
 translate schinese marlspring_40a65b40:
 
     # l "I remember that my mother was a botanist. She tried creating new and better crops! And you?"
-    l ""
+    l "我记得我的母亲是一位植物学家.她尝试培育新的更好的作物!你呢?"
 
 # game/scripts/maria_events.rpy:11428
 translate schinese marlspring_511f3625:
 
     # m "Uh, well..."
-    m ""
+    m "呃,嗯......"
 
 # game/scripts/maria_events.rpy:11430
 translate schinese marlspring_807a9235:
 
     # l "What's wrong, Maria?"
-    l ""
+    l "怎么了,玛丽亚?"
 
 # game/scripts/maria_events.rpy:11431
 translate schinese marlspring_6a2c48ff:
 
     # m "I never knew actually knew my parents..."
-    m ""
+    m "其实,我并不了解我的父母......"
 
 # game/scripts/maria_events.rpy:11432
 translate schinese marlspring_ca12f035:
 
     # l "Oh... what happened?"
-    l ""
+    l "哦......发生什么事了?"
 
 # game/scripts/maria_events.rpy:11433
 translate schinese marlspring_fec4d135:
 
     # m "I'm an orphan, Lin."
-    m ""
+    m "我是孤儿,林."
 
 # game/scripts/maria_events.rpy:11434
 translate schinese marlspring_7b9aa3ec:
 
     # l "What!? Really!? I'm so sorry, Maria!"
-    l ""
+    l "什么!?真的吗!?对不起,玛丽亚!"
 
 # game/scripts/maria_events.rpy:11435
 translate schinese marlspring_18a3de16:
 
     # c "I didn't know, I'm sorry."
-    c ""
+    c "我也不知道,抱歉."
 
 # game/scripts/maria_events.rpy:11436
 translate schinese marlspring_ae66f2b1:
 
     # m "Stop... I don't need your pity. I just don't like to talk about it."
-    m ""
+    m "别这样......我不需要你们的可怜.我只是不喜欢谈论这件事."
 
 # game/scripts/maria_events.rpy:11437
 translate schinese marlspring_d1532232:
 
     # l "Why not? Maybe you could meet them now that you're an adult."
-    l ""
+    l "为什么不呢?你现在已经是大人了,也许你可以去见见他们."
 
 # game/scripts/maria_events.rpy:11438
 translate schinese marlspring_fc4ede85:
 
     # m "That's exactly why... as far as I know, my parents are dead. But, like, what if they aren't? What if that's worse...?"
-    m ""
+    m "这就是为什么我不喜欢谈论它......据我所知,我的父母已经死了.但是,要是,如果他们没死呢?如果是更糟糕的事情呢......?"
 
 # game/scripts/maria_events.rpy:11439
 translate schinese marlspring_6dabcfbe:
 
     # m "All I know is that I arrived at the foster home when I was just seven months old... So like, what if they just didn't want me?"
-    m ""
+    m "我只知道我到寄养家庭的时候只有七个月大......如果他们不想要我呢?"
 
 # game/scripts/maria_events.rpy:11440
 translate schinese marlspring_2af89a1d:
 
     # m "Maybe I was too much to handle...? I don't know..."
-    m ""
+    m "也许是我太难伺候了......?我不知道......"
 
 # game/scripts/maria_events.rpy:11441
 translate schinese marlspring_bc53c67b:
 
     # l "No, Maria... That can't be it. I'm sure your parents loved you."
-    l ""
+    l "不,玛丽亚......肯定不是这样的.我肯定你的父母是爱你的."
 
 # game/scripts/maria_events.rpy:11442
 translate schinese marlspring_92b5cfac:
 
     # m "I just want to forget it. I've done well for myself, I've never needed them."
-    m ""
+    m "我只想忘记它.我自己过得很好,不需要他们."
 
 # game/scripts/maria_events.rpy:11443
 translate schinese marlspring_8eac410d:
 
     # l "I understand..."
-    l ""
+    l "我理解......"
 
 # game/scripts/maria_events.rpy:11445
 translate schinese marlspring_6bdea7b8:
 
     # l "How about we change the subject? Any siblings? I had just one, Jinny. She's my older sister."
-    l ""
+    l "我们换个话题吧?你有兄弟姐妹吗?我只有一个,金妮,是我的姐姐."
 
 # game/scripts/maria_events.rpy:11446
 translate schinese marlspring_3adedc0b:
 
     # m "Just the other kids at my foster home..."
-    m ""
+    m "只有寄养家庭里的其他孩子......"
 
 # game/scripts/maria_events.rpy:11448
 translate schinese marlspring_323a4e7d:
 
     # l "O-Oh, um..."
-    l ""
+    l "噢-哦,呃......"
 
 # game/scripts/maria_events.rpy:11449
 translate schinese marlspring_d917ce4b:
 
     # l "O-Okay! What do you do for work? I'm a maid... you know that already. [name] is that manager, so..."
-    l ""
+    l "好-好吧!你是做什么工作的?我是个女仆......你已经知道了.[name]是我的经理,所以......"
 
 # game/scripts/maria_events.rpy:11450
 translate schinese marlspring_66f91b57:
 
     # m "I'm a camgirl, I stream."
-    m ""
+    m "我是个主播,我做直播."
 
 # game/scripts/maria_events.rpy:11451
 translate schinese marlspring_9c3c5a63:
 
     # l "Oh? What's that? What's a streaming?"
-    l ""
+    l "哦?那是什么?什么是直播?"
 
 # game/scripts/maria_events.rpy:11453
 translate schinese marlspring_2e32976f:
 
     # m "You wouldn't understand... it's a computer thing."
-    m ""
+    m "你不明白的......那是电脑上的玩意."
 
 # game/scripts/maria_events.rpy:11454
 translate schinese marlspring_c06c610c:
 
     # l "But I like computers... they're so interesting!"
-    l ""
+    l "但是我喜欢电脑......它们很有趣!"
 
 # game/scripts/maria_events.rpy:11455
 translate schinese marlspring_533424aa:
 
     # m "...Streaming is when a lot of people are watching you record yourself live."
-    m ""
+    m "......直播是让很多人看你的实时录像."
 
 # game/scripts/maria_events.rpy:11456
 translate schinese marlspring_e03426e6:
 
     # l "Oh, I see! Can I join you?"
-    l ""
+    l "哦,我明白了!我可以加入你吗?"
 
 # game/scripts/maria_events.rpy:11458
 translate schinese marlspring_df4b4c3f:
 
     # m "Haha! You want to join? I don't think you'd like it..."
-    m ""
+    m "哈哈!你想加入?我不觉得你会喜欢的......"
 
 # game/scripts/maria_events.rpy:11459
 translate schinese marlspring_c0808d62:
 
     # l "But it sounds so cool! Why wouldn't I like it?"
-    l ""
+    l "但是听起来很酷啊!为什么我不会喜欢?"
 
 # game/scripts/maria_events.rpy:11460
 translate schinese marlspring_8a1552fc:
 
     # m "Because I record myself naked, Lin..."
-    m ""
+    m "因为我是裸着开播的,林......"
 
 # game/scripts/maria_events.rpy:11462
 translate schinese marlspring_3f9c5e59:
 
     # l "N-Naked...? You let people see your body for free?"
-    l ""
+    l "裸-裸体......?你让别人免费看你的身体?"
 
 # game/scripts/maria_events.rpy:11463
 translate schinese marlspring_07b8b304:
 
     # m "No, I make money from it. Quite a lot, actually."
-    m ""
+    m "不,我靠这个赚钱.实际上,我赚了很多."
 
 # game/scripts/maria_events.rpy:11464
 translate schinese marlspring_23bd007d:
 
     # l "And all you have to do is... be naked? Humans have it so easy..."
-    l ""
+    l "然后你只需要......裸着?人类赚钱太容易了......"
 
 # game/scripts/maria_events.rpy:11465
 translate schinese marlspring_807513bd:
 
     # m "There's more to it than that, but that's the gist."
-    m ""
+    m "不只是那样,但大致如此."
 
 # game/scripts/maria_events.rpy:11467
 translate schinese marlspring_4852b853:
 
     # l "Oh... I want to see though! It sounds interesting."
-    l ""
+    l "哦......但是我也想看看!听起来很有趣."
 
 # game/scripts/maria_events.rpy:11468
 translate schinese marlspring_ca0c2322:
 
     # m "Maybe I can arrange that... what do you think, [name]?"
-    m ""
+    m "也许我可以安排一下......你觉得呢,[name]?"
 
 # game/scripts/maria_events.rpy:11469
 translate schinese marlspring_2e587393:
 
     # c "It could be fun... We'll see."
-    c ""
+    c "听起来很有趣......我们走着瞧吧."
 
 # game/scripts/maria_events.rpy:11470
 translate schinese marlspring_e95aad05:
 
     # l "Heheh... I just want to watch my friend work!"
-    l ""
+    l "呵呵呵......我只想看看我的朋友工作!"
 
 # game/scripts/maria_events.rpy:11471
 translate schinese marlspring_2a2bf53f:
 
     # m "Sure, sure."
-    m ""
+    m "是啊,是啊."
 
 # game/scripts/maria_events.rpy:11473
 translate schinese marlspring_b514efff:
 
     # m "Alright guys, I'm starting to get light headed... I should head out."
-    m ""
+    m "好了,伙计们,我有点头晕了......我要出去了."
 
 # game/scripts/maria_events.rpy:11474
 translate schinese marlspring_29cdbb6f:
 
     # l "Aww, okay. Yeah, I should go too... Thanks for talking to me!"
-    l ""
+    l "啊,好吧.对了,我也得做了......谢谢你们和我聊天!"
 
 # game/scripts/maria_events.rpy:11475
 translate schinese marlspring_d73ca727:
 
     # m "Yeah, sure! It's nice to have friends here."
-    m ""
+    m "是啊,没问题!能在这里交朋友真好."
 
 # game/scripts/maria_events.rpy:11476
 translate schinese marlspring_4ae5a794:
 
     # c "See you guys."
-    c ""
+    c "再见."
 
 # game/scripts/maria_events.rpy:11691
 translate schinese marellen_78718629:
 
     # m "You're going to invite Ellen to the hot springs. She'll accept of course... I could only imagine she'd like a break from work, and I can only assume she'd love to get to know you more..."
-    m ""
+    m "你把艾兰邀请来温泉,她肯定会同意的......假设她想从工作中解脱出来,而且很想更多地了解你......"
 
 # game/scripts/maria_events.rpy:11692
 translate schinese marellen_61b67b05:
 
     # m "But here's the catch, you're going to inform her that you've decided it's going to be nude only."
-    m ""
+    m "但问题是,你要告诉她,你决定你们只能裸体."
 
 # game/scripts/maria_events.rpy:11759
 translate schinese marellen_9f81cf75:
 
     # c "Wow, you look great."
-    c ""
+    c "哇哦,你真好看."
 
 # game/scripts/maria_events.rpy:11760
 translate schinese marellen_03d874f7:
 
     # e "You, um, *ahem*, you too..."
-    e ""
+    e "你,呃,*咳嗽*,你也是......"
 
 # game/scripts/maria_events.rpy:11762
 translate schinese marellen_98ddb6ee:
 
     # e "Don't judge me... this was a gift from your grandfather... I was young... It looks much smaller on me now..."
-    e ""
+    e "别评判我......这是你爷爷给你的礼物......那时候我还很年轻......现在看起来比以前小多了......"
 
 # game/scripts/maria_events.rpy:11763
 translate schinese marellen_c4390090:
 
     # e "I guess I just never really used this place much after he died..."
-    e ""
+    e "在他死后,我好像就没用过这个地方了......"
 
 # game/scripts/maria_events.rpy:11764
 translate schinese marellen_f5eebd4d:
 
     # c "You should. You deserve a break. Relax a little."
-    c ""
+    c "你应该用的.你值得休息休息.放松一下吧."
 
 # game/scripts/maria_events.rpy:11765
 translate schinese marellen_763cf5b5:
 
     # e "Thank you... I just might."
-    e ""
+    e "谢谢......我可能会吧."
 
 # game/scripts/maria_events.rpy:11767
 translate schinese marellen_8982b1eb:
 
     # e "Phew... it's extra hot today, isn't it...?"
-    e ""
+    e "呼......今天好热,不是吗......?"
 
 # game/scripts/maria_events.rpy:11768
 translate schinese marellen_a1f0da02:
 
     # c "Yeah..."
-    c ""
+    c "是啊......"
 
 # game/scripts/maria_events.rpy:11769
 translate schinese marellen_3c36e9bd:
 
     # e "It's good to clean out the pores, you know?"
-    e ""
+    e "这可以清理毛孔,你知道吗?"
 
 # game/scripts/maria_events.rpy:11772
 translate schinese marellen_55e0fd1a:
 
     # e "Well, I suppose that's normal... I'm not wearing much..."
-    e ""
+    e "嗯,我想这很正常......毕竟我没穿多少衣服......"
 
 # game/scripts/maria_events.rpy:11773
 translate schinese marellen_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/scripts/maria_events.rpy:11775
 translate schinese marellen_72a33094:
 
     # e "..."
-    e ""
+    e "......"
 
 # game/scripts/maria_events.rpy:11776
 translate schinese marellen_a1b73614:
 
     # e "{i}You and your grandfather are more alike than I thought...{/i}"
-    e ""
+    e "{i}你和你爷爷比我想象中的更相似......{/i}"
 
 # game/scripts/maria_events.rpy:11778
 translate schinese marellen_6006dc14:
 
     # e "Oh, *ahem*... Sorry, I didn't mean to stare... It's... just been a while, is all."
-    e ""
+    e "噢,*咳嗽*......对不起,我不是有意盯着你的......只是......有一段时间了,就这样."
 
 # game/scripts/maria_events.rpy:11779
 translate schinese marellen_24366554:
 
     # c "I understand."
-    c ""
+    c "我能理解."
 
 # game/scripts/maria_events.rpy:11780
 translate schinese marellen_2c049a5f:
 
     # c "You must have really loved my grandfather. Were you guys married, or something?"
-    c ""
+    c "你一定很爱我爷爷.你们结婚了吗?"
 
 # game/scripts/maria_events.rpy:11781
 translate schinese marellen_5f8a3244:
 
     # e "Oh, no... never married.\nI had Lin's role when I first started. For years it was purely platonic between your grandfather and I. One day I caught feelings, and... the rest is history."
-    e ""
+    e "噢,没有......从来没有结婚过.\n一开始的时候,我是做林的那份工作.多年以来,我和你爷爷之间纯粹是柏拉图式的关系.有一天,我有了点感觉,然后......剩下的就是历史了."
 
 # game/scripts/maria_events.rpy:11782
 translate schinese marellen_a917946b:
 
     # c "Why didn't he just buy an elf?"
-    c ""
+    c "为什么他不直接买一只精灵呢?"
 
 # game/scripts/maria_events.rpy:11783
 translate schinese marellen_d5bb168a:
 
     # e "He never had the opportunity to make a profit on this hotel. So he hired me, the daughter of a family friend, to work here for free to {i}build character...{/i}"
-    e ""
+    e "他开的这家酒店几乎是没盈利过.因此,他雇佣了我这么一个家里人朋友的女儿在这里免费工作,说是为了{i}培养我的人格......{/i}."
 
 # game/scripts/maria_events.rpy:11784
 translate schinese marellen_12aa6362:
 
     # e "It was years before I actually started getting paid..."
-    e ""
+    e "过了好几年我才有工资领......"
 
 # game/scripts/maria_events.rpy:11786
 translate schinese marellen_f6614d99:
 
     # e "He was much older than me, though... we didn't do it as often as I would have liked, but he still wanted me to be pretty."
-    e ""
+    e "但是,他比我老多了......我们没有像我希望的那样经常做,但他还是希望我能好好享受."
 
 # game/scripts/maria_events.rpy:11787
 translate schinese marellen_00e263b7:
 
     # e "I don't regret anything, but never let someone close to you date someone so much older than them..."
-    e ""
+    e "我并不后悔,但你可不能让和你亲近的人去和比她大那么多的人约会......"
 
 # game/scripts/maria_events.rpy:11789
 translate schinese marellen_c1a5bcce:
 
     # e "I grew up in a very strict and religious house, so he was pretty much the first man I had ever interacted with. I was very naive..."
-    e ""
+    e "我在一个非常严格的宗教家庭长大,所以他几乎算是我接触的第一个男人.我当时还很天真......"
 
 # game/scripts/maria_events.rpy:11790
 translate schinese marellen_a00f7111:
 
     # c "He was your first love, I understand."
-    c ""
+    c "他是你的初恋,我能理解."
 
 # game/scripts/maria_events.rpy:11792
 translate schinese marellen_c4b0e7d5:
 
     # e "Yes... and now I'm doomed to spend the rest of my days waiting for menopause to strike..."
-    e ""
+    e "是的......然后现在我注定要在等待更年期到来的余生中度过."
 
 # game/scripts/maria_events.rpy:11793
 translate schinese marellen_62728dbb:
 
     # e "He was my one true love. It's hard to move on..."
-    e ""
+    e "他是我的真爱,我很难向前看......"
 
 # game/scripts/maria_events.rpy:11794
 translate schinese marellen_3010686c:
 
     # c "But you weren't married, so... you're not exclusive?"
-    c ""
+    c "但是你们没有结婚,所以......你们并不排斥其他人吧?"
 
 # game/scripts/maria_events.rpy:11796
 translate schinese marellen_10559f72:
 
     # e "I'm not a widow, no, but we were certainly exclusive..."
-    e ""
+    e "不,我不是寡妇,但是我们很专一......"
 
 # game/scripts/maria_events.rpy:11798
 translate schinese marellen_8f6e9100:
 
     # m "Hey guyyyyys~~~"
-    m ""
+    m "嘿,伙计们~~~"
 
 # game/scripts/maria_events.rpy:11800
 translate schinese marellen_ee0f9226:
 
     # m "What's up?"
-    m ""
+    m "怎么了?"
 
 # game/scripts/maria_events.rpy:11802
 translate schinese marellen_08ffc58c:
 
     # m "*gasp*! Ellen! Did you get him hard!?\n{i}(All according to plan...){/i}"
-    m ""
+    m "*惊叹*!艾兰!你让他勃起了吗!?\n{i}(一切按计划进行......){/i}"
 
 # game/scripts/maria_events.rpy:11803
 translate schinese marellen_324ad464:
 
     # e "Well, not on purpose...!"
-    e ""
+    e "呃,不是故意的......!"
 
 # game/scripts/maria_events.rpy:11804
 translate schinese marellen_cea1e89f:
 
     # m "Elln, you're such a harlot! I can't believe you're teasing him like that!"
-    m ""
+    m "艾兰,你真是个荡妇!我不敢相信你居然那样调戏他!"
 
 # game/scripts/maria_events.rpy:11805
 translate schinese marellen_f8273ca8:
 
     # m "As a woman, it's your responsibility to take care of him~ Especially if you're the cause."
-    m ""
+    m "作为你个女人,照顾他是你的责任~特别是这还是你造成的."
 
 # game/scripts/maria_events.rpy:11807
 translate schinese marellen_09ddcc4b:
 
     # e "He's a man, he has ways of taking care of it himself..."
-    e ""
+    e "他是个男人,他有照顾自己的办法....."
 
 # game/scripts/maria_events.rpy:11808
 translate schinese marellen_62829150:
 
     # m "You're going to let him suffer?? How could you?"
-    m ""
+    m "你就这么让他受苦吗??你怎么能这么残忍?"
 
 # game/scripts/maria_events.rpy:11809
 translate schinese marellen_efbd3b23:
 
     # m "Ellen, there's no other way. You'll just have to fuck him!"
-    m ""
+    m "艾兰,没有别的方法的.你得操他!"
 
 # game/scripts/maria_events.rpy:11811
 translate schinese marellen_83787f78:
 
     # e "What? No... he doesn't want that... right, [name]?"
-    e ""
+    e "什么?不......他不想要的......对吧,[name]?"
 
 # game/scripts/maria_events.rpy:11814
 translate schinese marellen_3f6fd3c5:
 
     # e "What? You would?"
-    e ""
+    e "什么?你想要?"
 
 # game/scripts/maria_events.rpy:11815
 translate schinese marellen_392b9bcc:
 
     # m "Yes! Yes! He wants to fuck your pussy HARD!"
-    m ""
+    m "没错!没错!他想要{b}狠狠地{/b}操你的小穴!"
 
 # game/scripts/maria_events.rpy:11816
 translate schinese marellen_2ce36ecb:
 
     # c "If you're comfortable with it..."
-    c ""
+    c "如果你对此没意见的话......"
 
 # game/scripts/maria_events.rpy:11817
 translate schinese marellen_5ad3ee77:
 
     # e "Oh, well... I... I don't know...! I didn't think you really found me that attractive."
-    e ""
+    e "噢,嗯......我......我不知道......!我不知道你觉得我很有吸引力."
 
 # game/scripts/maria_events.rpy:11818
 translate schinese marellen_46e629ba:
 
     # m "You're SO hot!!"
-    m ""
+    m "你可{b}太{/b}性感了!!"
 
 # game/scripts/maria_events.rpy:11820
 translate schinese marellen_5203e281:
 
     # e "Well then... I guess I have no choice, do I?"
-    e ""
+    e "嗯,那好吧......我想我别无选择了,是吧?"
 
 # game/scripts/maria_events.rpy:11821
 translate schinese marellen_c1b322db:
 
     # e "As long as you don't cum inside me... I'll allow it..."
-    e ""
+    e "只要你不射进里面......我就同意......"
 
 # game/scripts/maria_events.rpy:11822
 translate schinese marellen_a4307858:
 
     # m "Perfect! Yes! He'll do it! Just get on your knees already~!"
-    m ""
+    m "完美!太棒了!他会做的!快点跪下吧~!"
 
 # game/scripts/maria_events.rpy:11825
 translate schinese marellen_394d4a66:
 
     # e "This place looks as good as any..."
-    e ""
+    e "这地方不比别的地方差......"
 
 # game/scripts/maria_events.rpy:11826
 translate schinese marellen_d3e04d57:
 
     # m "Heheheh! Ahh, you're killing it, Ellen!"
-    m ""
+    m "呵呵呵呵!啊,你要杀了他了,艾兰!"
 
 # game/scripts/maria_events.rpy:11827
 translate schinese marellen_1814b530:
 
     # e "Yes, yes... whenever you're ready, [name]..."
-    e ""
+    e "是,是......你准备好了就可以,[name]......"
 
 # game/scripts/maria_events.rpy:11829
 translate schinese marellen_b451dfec:
 
     # e "Oh! Well... aren't you excited?"
-    e ""
+    e "噢!嗯......你很兴奋吗?"
 
 # game/scripts/maria_events.rpy:11830
 translate schinese marellen_dbefcb80:
 
     # e "Start slow, okay? It's been a while..."
-    e ""
+    e "慢慢来,好吗?已经很久没有了......"
 
 # game/scripts/maria_events.rpy:11831
 translate schinese marellen_7ea747df:
 
     # m "Oh, yes~!"
-    m ""
+    m "噢,太好了~!"
 
 # game/scripts/maria_events.rpy:11833
 translate schinese marellen_c0594ce2:
 
     # e "Ahh! Ohhh... that's, ehm! Mmmh! Yes... keep going, just like that..."
-    e ""
+    e "啊!噢......那,呃!嗯!是的......继续,就是这样......"
 
 # game/scripts/maria_events.rpy:11834
 translate schinese marellen_8b3e308e:
 
     # m "Mmm! You're fucking her so good, [name]!"
-    m ""
+    m "嗯!你操她操得好棒,[name]!"
 
 # game/scripts/maria_events.rpy:11835
 translate schinese marellen_20ab9ad0:
 
     # e "Ahh... Maria, please... Mh!"
-    e ""
+    e "啊......玛丽亚,请不要......嗯!"
 
 # game/scripts/maria_events.rpy:11836
 translate schinese marellen_66858254:
 
     # m "Having fun? Heheh."
-    m ""
+    m "玩得很开心吧?呵呵呵."
 
 # game/scripts/maria_events.rpy:11837
 translate schinese marellen_96608e68:
 
     # e "Ahhh! Mmh, Well, yes...! Mmh! I'm enjoying it very much...!"
-    e ""
+    e "啊!嗯,好吧,是的......!嗯!我很享受......!"
 
 # game/scripts/maria_events.rpy:11838
 translate schinese marellen_b5720c01:
 
     # e "Ah... it's been such a long time... Mmmh!"
-    e ""
+    e "啊......已经很久了......嗯!"
 
 # game/scripts/maria_events.rpy:11841
 translate schinese marellen_379c62ca:
 
     # e "Ahhh...! Yes...! MMH! Keep going...! Mh! Just don't cum inside, okay? Ahhh...!"
-    e ""
+    e "啊......!是的......!{b}嗯!{/b}继续......!嗯!只是,不要射进来,好吗?啊......!"
 
 # game/scripts/maria_events.rpy:11842
 translate schinese marellen_75e1b286:
 
     # m "Mmmh, I would love to see her covered in your cum..."
-    m ""
+    m "嗯,我很想看到她浑身都是你的精液......"
 
 # game/scripts/maria_events.rpy:11843
 translate schinese marellen_2b0ec5ed:
 
     # e "Yes... mmh! Yes, that's right..."
-    e ""
+    e "是的......嗯!是的,就是这样......"
 
 # game/scripts/maria_events.rpy:11844
 translate schinese marellen_14e5c0d6:
 
     # m "Hmmm? Maybe she's a secret cum slut..."
-    m ""
+    m "嗯?也许她其实对精液有瘾......."
 
 # game/scripts/maria_events.rpy:11845
 translate schinese marellen_40b1f2b3:
 
     # e "Ahhh! Yes... Mmh! Cum for me... cum whenever you'd like... ahh!"
-    e ""
+    e "啊!是的......嗯!射给我吧......你想射哪里都可以......啊!"
 
 # game/scripts/maria_events.rpy:11846
 translate schinese marellen_415c3870:
 
     # m "Do it [name], do it! Cum all over her!"
-    m ""
+    m "射吧,[name],射吧!全射她身上!"
 
 # game/scripts/maria_events.rpy:11847
 translate schinese marellen_5f5fd672:
 
     # e "Yes, mh! Yes, I'm ready for it! Ah!"
-    e ""
+    e "是的,嗯!是的,我已经准备好了!啊!"
 
 # game/scripts/maria_events.rpy:11850
 translate schinese marellen_684a5573:
 
     # e "Ahh! Ohhh... Oh wow... that was quite the load...!"
-    e ""
+    e "啊!噢......噢,哇哦......好多啊......!"
 
 # game/scripts/maria_events.rpy:11851
 translate schinese marellen_aa27c468:
 
     # m "Ah~ wow! Look at her ass~! Mh!"
-    m ""
+    m "啊~哇哦!阿奎那看她的屁股~!嗯!"
 
 # game/scripts/maria_events.rpy:11852
 translate schinese marellen_6975c6d7:
 
     # e "Maria, what are you doing back there...?"
-    e ""
+    e "玛丽亚,你在后面干什么......?"
 
 # game/scripts/maria_events.rpy:11853
 translate schinese marellen_9ade73dd:
 
     # m "Just enjoying the view..."
-    m ""
+    m "欣赏风景而已......"
 
 # game/scripts/maria_events.rpy:11855
 translate schinese marellen_75177d6c:
 
     # e "*ahem*... Well, I'm glad you were able to relax..."
-    e ""
+    e "*咳嗽*......嗯,我很高兴你能放松下来....."
 
 # game/scripts/maria_events.rpy:11858
 translate schinese marellen_66ec3756:
 
     # e "Oh my... I can't believe I actually just did that... What has gotten into me?"
-    e ""
+    e "哦我天......我不敢相信我刚刚居然做了那种事......我怎么了?"
 
 # game/scripts/maria_events.rpy:11859
 translate schinese marellen_7cc0afae:
 
     # e "I suppose I should get back to work... I can't leave the hotel unmanned for long!"
-    e ""
+    e "我想我得回去功能工作了......酒店不能没人看着太久!"
 
 # game/scripts/maria_events.rpy:11860
 translate schinese marellen_7d9f0aaa:
 
     # m "Aww, what? Already?"
-    m ""
+    m "啊,什么?这就要走了?"
 
 # game/scripts/maria_events.rpy:11861
 translate schinese marellen_712a92db:
 
     # e "Yes, *ahem*, yes... have a good day, you two!"
-    e ""
+    e "是的,*咳嗽*,是的......祝你们两个过得愉快!"
 
 # game/scripts/maria_events.rpy:11862
 translate schinese marellen_926d6688:
 
     # c "Have a good one."
-    c ""
+    c "祝你今天过得愉快."
 
 # game/scripts/maria_events.rpy:11863
 translate schinese marellen_0e094ec4:
 
     # m "Bye..."
-    m ""
+    m "再见......"
 
 # game/scripts/maria_events.rpy:11865
 translate schinese marellen_68de7bc2:
 
     # m "{i}Oh my god! You actually fucked her! That was amazing!{/i}"
-    m ""
+    m "{i}哦我天!你真的操了她!太棒了!{/i}"
 
 # game/scripts/maria_events.rpy:11866
 translate schinese marellen_425df300:
 
     # m "I was hoping {i}something{/i} would happen, but I didn't expect that! And you came all over her ass, too!"
-    m ""
+    m "我确实希望发生点{i}什么{/i},但我没料到这个!而且你都射在她屁股上了!"
 
 # game/scripts/maria_events.rpy:11867
 translate schinese marellen_0725f535:
 
     # m "We have to team up more often! We could do a lot of bad together~ Heheh!"
-    m ""
+    m "我们可得经常组队!我们可以一起做很多坏事~呵呵呵!"
 
 # game/scripts/maria_events.rpy:11868
 translate schinese marellen_a2817ad4:
 
     # c "Sounds like a great deal to me."
-    c ""
+    c "听起来是个不错的交易."
 
 # game/scripts/maria_events.rpy:11869
 translate schinese marellen_e3ca28b0:
 
     # m "Heheh! Alright! Maybe I could convince Lin to have a threesome, hm? I'll talk to her next!"
-    m ""
+    m "呵呵呵!好了!也许我可以说服林来一次3P,嗯?我待会就跟她聊聊!"
 
 # game/scripts/maria_events.rpy:11871
 translate schinese marellen_9dd7929d:
 
     # m "But I'm always available too... and you know where I live, so, I'll leave that up to you..."
-    m ""
+    m "但是我也随时可以......你知道我住在哪里,所以,剩下的就看你了......"
 
 # game/scripts/maria_events.rpy:11872
 translate schinese marellen_80445a06:
 
     # c "I might pay you a visit soon."
-    c ""
+    c "也许我会很快去找你的."
 
 # game/scripts/maria_events.rpy:11873
 translate schinese marellen_1cba441d:
 
     # m "Mmmh..."
-    m ""
+    m "嗯......."
 
 # game/scripts/maria_events.rpy:11875
 translate schinese marellen_5fe6c889:
 
     # m "But okay! I'll get to planning! See you!"
-    m ""
+    m "但是,好吧!我可得好好计划一下!再见!"
 
 # game/scripts/maria_events.rpy:11876
 translate schinese marellen_1b3f8b6a:
 
     # c "Hah, alright. Get to it."
-    c ""
+    c "哈哈,好吧.去吧."
 
 # game/scripts/maria_events.rpy:11886
 translate schinese marellen_73f37f8b:
 
     # e "Right... exactly... Feel free to help him yourself, Maria."
-    e ""
+    e "对......没错......你要是想帮他就去吧,玛丽亚."
 
 # game/scripts/maria_events.rpy:11888
 translate schinese marellen_d786cb82:
 
     # m "...{i}Seriously, dude?{/i}"
-    m ""
+    m "......{i}你认真的吗,伙计?{/i}"
 
 # game/scripts/maria_events.rpy:11889
 translate schinese marellen_ab5a5300:
 
     # m "*exhale*... nevermind. I'm gonna take a nap..."
-    m ""
+    m "*呼气*......算了.我要去睡觉了......"
 
 # game/scripts/maria_events.rpy:12155
 translate schinese mardate_66ffbeb1:
 
     # durn "Welcome to Fouquet's, my name is Durn, do you have a reservation with us?"
-    durn ""
+    durn "欢迎来到富凯餐厅,我是杜恩,您有预定吗?"
 
 # game/scripts/maria_events.rpy:12156
 translate schinese mardate_be439750:
 
     # c "We do not."
-    c ""
+    c "我们没有."
 
 # game/scripts/maria_events.rpy:12157
 translate schinese mardate_8ba6d7b9:
 
     # durn "Not to worry, we have a table available to you. Right this way..."
-    durn ""
+    durn "别担心,我们为你们准备了一张桌子.这边走......"
 
 # game/scripts/maria_events.rpy:12159
 translate schinese mardate_7f7fade4:
 
     # durn "Can I get you two started off with something to drink?"
-    durn ""
+    durn "你们要先喝点什么吗?"
 
 # game/scripts/maria_events.rpy:12160
 translate schinese mardate_a68b9eb9:
 
     # m "A cherry cocktail for me, please."
-    m ""
+    m "请给我来一杯樱桃鸡尾酒."
 
 # game/scripts/maria_events.rpy:12161
 translate schinese mardate_3453293a:
 
     # c "Make that two."
-    c ""
+    c "两杯吧."
 
 # game/scripts/maria_events.rpy:12162
 translate schinese mardate_793d9bc9:
 
     # durn "Wonderful. Allow me a moment to get back to you."
-    durn ""
+    durn "很好.请稍等."
 
 # game/scripts/maria_events.rpy:12164
 translate schinese mardate_64328bde:
 
     # m "It's pretty busy today, huh? Lucky we got a seat."
-    m ""
+    m "今天这里人很多啊?幸好我们有得做."
 
 # game/scripts/maria_events.rpy:12165
 translate schinese mardate_c8f94bd2:
 
     # c "You chose well."
-    c ""
+    c "是你选得不错."
 
 # game/scripts/maria_events.rpy:12166
 translate schinese mardate_079f912c:
 
     # m "The steak and salad here is the best! You have to try it."
-    m ""
+    m "这里的牛排和沙拉是最棒的!你可得试试."
 
 # game/scripts/maria_events.rpy:12168
 translate schinese mardate_5f353e70:
 
     # m "And the atmosphere, it's so nice. You get a really good view of Caliber from here."
-    m ""
+    m "还有这里的氛围也很棒,还能很好地俯瞰楷利泊的美景."
 
 # game/scripts/maria_events.rpy:12170
 translate schinese mardate_fed20c76:
 
     # m "So what are you going to get? I already know my order~"
-    m ""
+    m "所以你要点什么?我已经想好我要点的了~"
 
 # game/scripts/maria_events.rpy:12171
 translate schinese mardate_b3a1b14f:
 
     # c "I think I'll go with your recommendation."
-    c ""
+    c "那我就按你推荐的来吧."
 
 # game/scripts/maria_events.rpy:12172
 translate schinese mardate_6acf6c57:
 
     # m "Copycat..."
-    m ""
+    m "抄袭......"
 
 # game/scripts/maria_events.rpy:12173
 translate schinese mardate_4068798c:
 
     # m "You can buy anything you want, don't feel bad just because I'm paying. Streaming has its benefits, you know?"
-    m ""
+    m "你想买什么都可以,别因为我请客就难为情.直播还是能赚点钱的你知道吧?"
 
 # game/scripts/maria_events.rpy:12174
 translate schinese mardate_3be8ec0c:
 
     # c "How did you get into streaming anyway?"
-    c ""
+    c "话说你怎么开始直播的?"
 
 # game/scripts/maria_events.rpy:12176
 translate schinese mardate_a04b6faa:
 
     # m "Oh that? Well... I was pretty popular with all the guys in college. Not that entertained them, but I could have..."
-    m ""
+    m "噢,那个?嗯......我大学的时候很受别人欢迎.虽然我没有特意让他们开心,但是我有那个能力......"
 
 # game/scripts/maria_events.rpy:12178
 translate schinese mardate_4d25b6f9:
 
     # m "I was the head cheerleader of our football team. The attention was nice, but the crowd was... not great."
-    m ""
+    m "我还是我们足球队的啦啦队队长.我很喜欢别人的关注,但那些人......并不是很好."
 
 # game/scripts/maria_events.rpy:12179
 translate schinese mardate_2d8d5a47:
 
     # m "I needed money, and I was way too busy with college to get a typical job... so... I worked with what I had."
-    m ""
+    m "我需要钱,而我当时正忙着上大学,没时间找普通工作......所以......我就利用我所有的东西来工作."
 
 # game/scripts/maria_events.rpy:12180
 translate schinese mardate_f4d63c5d:
 
     # m "And I hated my roommate at the time, so I needed out..."
-    m ""
+    m "而且我当时很讨厌我的室友,所以我需要离开......"
 
 # game/scripts/maria_events.rpy:12182
 translate schinese mardate_edacccc7:
 
     # m "Hey, you don't think I'm easy, do you...?"
-    m ""
+    m "嘿,你不会以为我是那种随随便便就能上的人吧......?"
 
 # game/scripts/maria_events.rpy:12186
 translate schinese mardate_81c6dcda:
 
     # m "What? Dude, that was like- the easiest question to answer..."
-    m ""
+    m "什么?哥们,那-是最容易回答的一个问题了......"
 
 # game/scripts/maria_events.rpy:12188
 translate schinese mardate_171133a4:
 
     # m "If you thought I like to get back at all my boyfriends by sucking some hotel manager's dick, you're wrong. My ex was an asshole, it was never going to work out, and... you were kind of cute."
-    m ""
+    m "如果你以为我想通过给酒店经理吹箫来报复我所有的男朋友,那你就错了.我的前男友是个混蛋,我们永远不会有结果,而且......你还挺可爱的."
 
 # game/scripts/maria_events.rpy:12189
 translate schinese mardate_db031ce8:
 
     # m "You were there... I was kind of horny... It was a little spontaneous, sure..."
-    m ""
+    m "你在那......我又有点想要......当然,是有点冲动在里面......"
 
 # game/scripts/maria_events.rpy:12191
 translate schinese mardate_c40029c5:
 
     # m "I've only had like... 5 boyfriends. Well maybe 6. When I was 8 years old I guess I was {i}kind of{/i} in a relationship with a boy. As much as you can be at 8 anyway..."
-    m ""
+    m "我大概只有过......5个男朋友.好吧,或许算6个.我觉得我8岁的时候{i}大概{/i}是和某个男孩处上了.反正都是8岁小孩子那种感情......"
 
 # game/scripts/maria_events.rpy:12192
 translate schinese mardate_03090d91:
 
     # m "But don't judge me!"
-    m ""
+    m "但是别批判我!"
 
 # game/scripts/maria_events.rpy:12195
 translate schinese mardate_57bc0625:
 
     # m "Good... because I'm not. Even if I like to flaunt what I have, that doesn't mean I'm a slut... I won't let just anyone touch me, you know?"
-    m ""
+    m "很好......因为我不是. 即使我喜欢炫耀我的身材,但这并不意味着我是个荡妇......我不会让随随便便就别人碰我,知道吗?"
 
 # game/scripts/maria_events.rpy:12196
 translate schinese mardate_36b97602:
 
     # m "I don't like to get back at all my boyfriends by sucking some hotel manager's dick, you know... haha."
-    m ""
+    m "我可不是想通过给酒店经理吹箫来报复我所有的男朋友,你知道的......哈哈."
 
 # game/scripts/maria_events.rpy:12198
 translate schinese mardate_f2f59089:
 
     # m "My ex was an asshole, it was never going to work out, and... you were kind of cute."
-    m ""
+    m "我的前男友是个混蛋,我们永远不会有结果,而且......你还挺可爱的."
 
 # game/scripts/maria_events.rpy:12199
 translate schinese mardate_db031ce8_1:
 
     # m "You were there... I was kind of horny... It was a little spontaneous, sure..."
-    m ""
+    m "你在那......我又有点想要......当然,是有点冲动在里面......"
 
 # game/scripts/maria_events.rpy:12200
 translate schinese mardate_14651abd:
 
     # m "But don't judge me, haha!"
-    m ""
+    m "但是别评判我!"
 
 # game/scripts/maria_events.rpy:12203
 translate schinese mardate_11f8942e:
 
     # m "Seriously...?"
-    m ""
+    m "你认真的......?"
 
 # game/scripts/maria_events.rpy:12204
 translate schinese mardate_68d2a62a:
 
     # m "Look, if you thought I like to get back at all my boyfriends by sucking some hotel manager's dick, you're wrong. My ex was an asshole, it was never going to work out, and... you were kind of cute."
-    m ""
+    m "听着,如果你以为我想通过给酒店经理吹箫来报复我所有的男朋友,那你就错了.我的前男友是个混蛋,我们永远不会有结果,而且......你还挺可爱的."
 
 # game/scripts/maria_events.rpy:12205
 translate schinese mardate_db031ce8_2:
 
     # m "You were there... I was kind of horny... It was a little spontaneous, sure..."
-    m ""
+    m "你在那......我又有点想要......当然,是有点冲动在里面......"
 
 # game/scripts/maria_events.rpy:12206
 translate schinese mardate_fe0736eb_1:
 
     # m "And who are you calling a slut anyway? You fuck the girls at the hotel like every day!"
-    m ""
+    m "而且,你就能说我是个骚货了?你可是每天都在和酒店里的女孩上床!"
 
 # game/scripts/maria_events.rpy:12207
 translate schinese mardate_c40029c5_1:
 
     # m "I've only had like... 5 boyfriends. Well maybe 6. When I was 8 years old I guess I was {i}kind of{/i} in a relationship with a boy. As much as you can be at 8 anyway..."
-    m ""
+    m "我大概只有过......5个男朋友.好吧,或许算6个.我觉得我8岁的时候{i}大概{/i}是和某个男孩处上了.反正都是8岁小孩子那种感情......"
 
 # game/scripts/maria_events.rpy:12208
 translate schinese mardate_03090d91_1:
 
     # m "But don't judge me!"
-    m ""
+    m "但是别评判我!"
 
 # game/scripts/maria_events.rpy:12210
 translate schinese mardate_af21caeb:
 
     # durn "Your drinks... enjoy."
-    durn ""
+    durn "你们的酒水......请享用."
 
 # game/scripts/maria_events.rpy:12211
 translate schinese mardate_21d7fd4e:
 
     # m "Oh, thank you!"
-    m ""
+    m "噢,谢谢!"
 
 # game/scripts/maria_events.rpy:12212
 translate schinese mardate_8bf2db25:
 
     # durn "Have you decided what you would like to eat?"
-    durn ""
+    durn "你们准备好点菜了吗?"
 
 # game/scripts/maria_events.rpy:12213
 translate schinese mardate_fcb55517:
 
     # m "Two steak and salads, please."
-    m ""
+    m "请来两份牛排和沙拉."
 
 # game/scripts/maria_events.rpy:12214
 translate schinese mardate_e1f675c3:
 
     # durn "Right away."
-    durn ""
+    durn "马上就好."
 
 # game/scripts/maria_events.rpy:12218
 translate schinese mardate_ace633fc:
 
     # m "Now, I hope you're ready for my questions... they're pretty serious..."
-    m ""
+    m "现在,我希望你准备好回答我的问题了......都是很严肃的问题......"
 
 # game/scripts/maria_events.rpy:12220
 translate schinese mardate_a3e93910:
 
     # m "Let's start off with something... light.\nHow do you like your coffee?"
-    m ""
+    m "我们从......轻松一点的开始吧.\n你喜欢什么样的咖啡?"
 
 # game/scripts/maria_events.rpy:12232
 translate schinese mardate_070a9d44:
 
     # m "Oh, really? Okay..."
-    m ""
+    m "噢,真的吗?好吧......"
 
 # game/scripts/maria_events.rpy:12235
 translate schinese mardate_4682d181:
 
     # m "Next question... what's your favorite food? Like if you could only have one for the rest of your life, what would it be...?"
-    m ""
+    m "下一个问题......你最喜欢的食物是什么?如果你余生都只能吃这种食物,那会是什么......?"
 
 # game/scripts/maria_events.rpy:12240
 translate schinese mardate_f21ee0fa:
 
     # m "That makes sense..."
-    m ""
+    m "有道理......"
 
 # game/scripts/maria_events.rpy:12246
 translate schinese mardate_7ed3b5bd:
 
     # m "Good thing we came here then, haha!"
-    m ""
+    m "那我们来这里还真对了,哈哈!"
 
 # game/scripts/maria_events.rpy:12257
 translate schinese mardate_fd6aec28:
 
     # m "Interesting... almost reminds me of Ashley..."
-    m ""
+    m "有趣......让我想起了阿什莉......"
 
 # game/scripts/maria_events.rpy:12258
 translate schinese mardate_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "嗯?"
 
 # game/scripts/maria_events.rpy:12259
 translate schinese mardate_5942526c:
 
     # m "Nevermind... forget it."
-    m ""
+    m "算了......忘了吧."
 
 # game/scripts/maria_events.rpy:12263
 translate schinese mardate_f879e3e7:
 
     # m "Hm, kind of like Kali..."
-    m ""
+    m "嗯,有点像凯莉......"
 
 # game/scripts/maria_events.rpy:12264
 translate schinese mardate_7543ea61_1:
 
     # c "Huh?"
-    c ""
+    c "嗯?"
 
 # game/scripts/maria_events.rpy:12265
 translate schinese mardate_5942526c_1:
 
     # m "Nevermind... forget it."
-    m ""
+    m "算了......忘了吧."
 
 # game/scripts/maria_events.rpy:12269
 translate schinese mardate_7b18c26a:
 
     # m "So, like Lin...?"
-    m ""
+    m "所以,像林一样......?"
 
 # game/scripts/maria_events.rpy:12270
 translate schinese mardate_7543ea61_2:
 
     # c "Huh?"
-    c ""
+    c "嗯?"
 
 # game/scripts/maria_events.rpy:12271
 translate schinese mardate_5942526c_2:
 
     # m "Nevermind... forget it."
-    m ""
+    m "算了......忘了吧."
 
 # game/scripts/maria_events.rpy:12273
 translate schinese mardate_ad96a4da:
 
     # m "Heheh, that's good to know..."
-    m ""
+    m "呵呵,很高兴知道这一点......"
 
 # game/scripts/maria_events.rpy:12277
 translate schinese mardate_6df65e61:
 
     # m "Okay, next question. I'll be direct this time... what's your type?"
-    m ""
+    m "好了,下一个问题.这次我就直接说了......你喜欢哪种类型?"
 
 # game/scripts/maria_events.rpy:12298
 translate schinese mardate_1bac63df:
 
     # m "Oh really? That's surprising... I'd love to see you and Ellen together..."
-    m ""
+    m "噢,真的吗?有点令人惊讶......我很想看到你和艾兰在一起......"
 
 # game/scripts/maria_events.rpy:12302
 translate schinese mardate_4d1f1c9f:
 
     # m "That's not what I asked, but... good answer."
-    m ""
+    m "那不是我想要问的,但是......回答得好啊."
 
 # game/scripts/maria_events.rpy:12324
 translate schinese mardate_ea2947e0:
 
     # m "Alright, and... what's your favorite part of a woman?"
-    m ""
+    m "好吧,那么......你最喜欢女人身上的哪一部分?"
 
 # game/scripts/maria_events.rpy:12331
 translate schinese mardate_c90ed01d:
 
     # m "I mean, that's cool and all, but... ugh, my ex was into feet..."
-    m ""
+    m "我是说,完全没问题,但是......呃,我的前男友很喜欢脚......"
 
 # game/scripts/maria_events.rpy:12332
 translate schinese mardate_4bcb453b:
 
     # c "Oh."
-    c ""
+    c "噢."
 
 # game/scripts/maria_events.rpy:12333
 translate schinese mardate_0579cc20:
 
     # m "Yyyyeah..."
-    m ""
+    m "是啊......"
 
 # game/scripts/maria_events.rpy:12335
 translate schinese mardate_0086ad33:
 
     # m "I'd have to agree, haha. Women are pieces of art, aren't they?"
-    m ""
+    m "我也同意,哈哈.女人就是艺术品,不是吗?"
 
 # game/scripts/maria_events.rpy:12337
 translate schinese mardate_af37d647:
 
     # m "I can see why. Women are pieces of art, aren't they?"
-    m ""
+    m "看得出来为什么.女人就是艺术品,不是吗?"
 
 # game/scripts/maria_events.rpy:12339
 translate schinese mardate_7b826ded:
 
     # m "Interesting... Women are pieces of art, aren't they?"
-    m ""
+    m "有趣......女人就是艺术品,不是吗?"
 
 # game/scripts/maria_events.rpy:12344
 translate schinese mardate_5a6639e0:
 
     # m "Usually guys say 'ass' or 'boobs', it's... refreshing. Women are pieces of art, aren't they?"
-    m ""
+    m "大多数男人都会说'屁股'或者'奶子',这......还挺新鲜的.女人就是艺术品,不是吗?"
 
 # game/scripts/maria_events.rpy:12347
 translate schinese mardate_58dc7fd8:
 
     # m "Next question... what's your favorite breast size?"
-    m ""
+    m "下一个问题......你最喜欢哪个尺寸的胸部?"
 
 # game/scripts/maria_events.rpy:12354
 translate schinese mardate_21d889c7:
 
     # m "You basically just said you like Ashley to my face... while you're on a date with me."
-    m ""
+    m "你这都基本上算是当着我的面说你喜欢阿什莉的......还是我们在约会的时候."
 
 # game/scripts/maria_events.rpy:12355
 translate schinese mardate_8cc9dca2:
 
     # c "No, I didn't mean that, I just-"
-    c ""
+    c "不,我不是那个意思,我只是-"
 
 # game/scripts/maria_events.rpy:12356
 translate schinese mardate_bb8b82f4:
 
     # m "-I can't deflate my boobs for you..."
-    m ""
+    m "我可没法为了你去缩胸......"
 
 # game/scripts/maria_events.rpy:12357
 translate schinese mardate_af20abe5:
 
     # m "I have great boobs, okay?"
-    m ""
+    m "我的奶子很棒,知道吗?"
 
 # game/scripts/maria_events.rpy:12358
 translate schinese mardate_bd51d070:
 
     # c "I agree, I just-"
-    c ""
+    c "我同意,我只是-"
 
 # game/scripts/maria_events.rpy:12359
 translate schinese mardate_44dd6dbf:
 
     # m "-Ugh, forget it... It's not a big deal."
-    m ""
+    m "-呃,算了......也不是什么大不了的事情."
 
 # game/scripts/maria_events.rpy:12366
 translate schinese mardate_e10da74d:
 
     # m "Oh, good. I was getting a little worried..."
-    m ""
+    m "噢,很好.我都有点担心了......"
 
 # game/scripts/maria_events.rpy:12374
 translate schinese mardate_adc16ce5:
 
     # m "Really? Like, how massive?"
-    m ""
+    m "真的吗?就,要多大?"
 
 # game/scripts/maria_events.rpy:12375
 translate schinese mardate_f36484fd:
 
     # c "If they're smaller than her head, they're too small for me."
-    c ""
+    c "要是比她的头还小,那对我来说就不够大."
 
 # game/scripts/maria_events.rpy:12376
 translate schinese mardate_ddab50d4:
 
     # m "Ergh, men..."
-    m ""
+    m "呃,伙计......"
 
 # game/scripts/maria_events.rpy:12380
 translate schinese mardate_cbc94379:
 
     # m "Oh, really? That's new..."
-    m ""
+    m "噢,真的吗?这还真新鲜......"
 
 # game/scripts/maria_events.rpy:12385
 translate schinese mardate_815133f6:
 
     # c "You have no filter, do you?"
-    c ""
+    c "你还真是口无遮拦啊,是吧?"
 
 # game/scripts/maria_events.rpy:12386
 translate schinese mardate_30830438:
 
     # m "I like to get it out of the way ahead of time, you know? Leaves room for fun later..."
-    m ""
+    m "我喜欢提前把事情做完,你知道吗?为以后的乐趣留有余地......"
 
 # game/scripts/maria_events.rpy:12397
 translate schinese mardate_f7c8a8ca:
 
     # m "Good... same here."
-    m ""
+    m "很好......我也一样."
 
 # game/scripts/maria_events.rpy:12401
 translate schinese mardate_bce4b4bd:
 
     # c "So you're interested...?"
-    c ""
+    c "所以,你感兴趣吗......?"
 
 # game/scripts/maria_events.rpy:12402
 translate schinese mardate_88972483:
 
     # m "I suppose~"
-    m ""
+    m "大概~"
 
 # game/scripts/maria_events.rpy:12408
 translate schinese mardate_34c1a412:
 
     # m "-Oh my god!" with ssshake
-    m "" with ssshake
+    m "-哦我天!" with ssshake
 
 # game/scripts/maria_events.rpy:12410
 translate schinese mardate_0548eec0:
 
     # m "That's my ex! He's here! And he's with a girl...!? Fuck!"
-    m ""
+    m "那是我前男友!他在这里!还带了个女孩......!?操!"
 
 # game/scripts/maria_events.rpy:12411
 translate schinese mardate_f589f906:
 
     # m "Oh my god... he sees me! Fuck, fuck! He's coming over here! {i}I want to die...!{/i}"
-    m ""
+    m "哦我天......他看见我了!操,操!他要过来了!{i}我要死了......!{/i}"
 
 # game/scripts/maria_events.rpy:12413
 translate schinese mardate_49f10158:
 
     # mex "Look who it is..."
-    mex ""
+    mex "看看这是谁啊......"
 
 # game/scripts/maria_events.rpy:12415
 translate schinese mardate_12b04bf5:
 
     # woman "Babe, what are you doing...?"
-    woman ""
+    woman "宝贝,你在干什么......?"
 
 # game/scripts/maria_events.rpy:12416
 translate schinese mardate_645b7812:
 
     # mex "Wasn't this where we went on our first date together? Now you're taking other dudes here, huh? You never change..."
-    mex ""
+    mex "这不是我们第一次约会的地方吗?现在你在这里和别的男人搞上了,嗯?你从来都没变过......"
 
 # game/scripts/maria_events.rpy:12417
 translate schinese mardate_e5f8830a:
 
     # m "What is that supposed to mean?"
-    m ""
+    m "你这是什么意思?"
 
 # game/scripts/maria_events.rpy:12418
 translate schinese mardate_476781aa:
 
     # c "This is your ex, Maria? He looks like a frog..."
-    c ""
+    c "这是你前男友吗,玛丽亚?他看起来像只青蛙......"
 
 # game/scripts/maria_events.rpy:12420
 translate schinese mardate_afe5ffdd:
 
     # mex "Huh, seriously? This is who you dumped me for? He looks like a dumb bitch."
-    mex ""
+    mex "嗯,你认真的?这就是你抛弃我的原因?他看起来跟个傻婊一样."
 
 # game/scripts/maria_events.rpy:12421
 translate schinese mardate_4a328958:
 
     # c "Watch it, kid..."
-    c ""
+    c "小心你说的话,孩子......"
 
 # game/scripts/maria_events.rpy:12422
 translate schinese mardate_96589d98:
 
     # woman "Babe, this is totally awkward... can we just eat?"
-    woman ""
+    woman "宝贝,这太尴尬了......我们可以去吃了吗?"
 
 # game/scripts/maria_events.rpy:12424
 translate schinese mardate_f281a85d:
 
     # m "Don't worry [name], he's harmless. He's just mad he saw your cum all over my face..."
-    m ""
+    m "别担心[name],他不会咬人的.他只是因为看见了我脸上都是你的精液才发火的......"
 
 # game/scripts/maria_events.rpy:12425
 translate schinese mardate_e96e4ce1:
 
     # mex "I always knew you were a whore..."
-    mex ""
+    mex "我一直都知道你是个妓女......"
 
 # game/scripts/maria_events.rpy:12427
 translate schinese mardate_e122b3ef:
 
     # m "[name] owns a hotel... you barely even own a car. I wouldn't be talking if I were you..."
-    m ""
+    m "[name]拥有一家酒店......你连辆车都没有.如果我是你,我可不会在这里说话......"
 
 # game/scripts/maria_events.rpy:12428
 translate schinese mardate_c7c822aa:
 
     # m "Plus he's nice, he cares for me, AND his dick is like twice as big as yours. You do remember it, don't you? I'm sure you saved it so you could jerk off to it later..."
-    m ""
+    m "而且,他是个好人,他关心我,{b}还有{/b},他的肉棒是你的两倍大.你还记得吧?我相信你把那张图纯下来之后拿来当配菜了......"
 
 # game/scripts/maria_events.rpy:12429
 translate schinese mardate_3ea54b27:
 
     # m "How many times did you cum, huh? 5? 10? 100?\nAnd hey lady, aren't you embarrassed to be on a date with a guy dressed up like that...? You can do better."
-    m ""
+    m "你射了多少次,嗯?5?10?100?\n还有,嘿,小姐,跟穿成那样的人约会,你不感到羞耻吗......?你值得更好的人."
 
 # game/scripts/maria_events.rpy:12430
 translate schinese mardate_d4ffe333:
 
     # mex "Dumb bitch...!"
-    mex ""
+    mex "你个傻婊......!"
 
 # game/scripts/maria_events.rpy:12432
 translate schinese mardate_c7a0bafc:
 
     # c "Watch your mouth."
-    c ""
+    c "嘴巴放干净点."
 
 # game/scripts/maria_events.rpy:12433
 translate schinese mardate_498db941:
 
     # mex "Or what?"
-    mex ""
+    mex "不然呢?"
 
 # game/scripts/maria_events.rpy:12434
 translate schinese mardate_b49d310d:
 
     # c "Or you're going to regret it."
-    c ""
+    c "不然你会后悔的."
 
 # game/scripts/maria_events.rpy:12435
 translate schinese mardate_c0f6eb33:
 
     # mex "Stay out of it. And leave her now if you don't want to get hurt. From one guy to another, I'm just warning you..."
-    mex ""
+    mex "别插手.如果你不想受伤,现在就离开她.她只会从一个人到另一个人,我只是警告你."
 
 # game/scripts/maria_events.rpy:12436
 translate schinese mardate_bdfc1506:
 
     # c "I didn't ask for your advice."
-    c ""
+    c "我并没有寻求你的建议."
 
 # game/scripts/maria_events.rpy:12437
 translate schinese mardate_15404811:
 
     # woman "This is so weird...! Let's just go!"
-    woman ""
+    woman "这太诡异了......!我们走吧!"
 
 # game/scripts/maria_events.rpy:12438
 translate schinese mardate_bf1c0673:
 
     # mex "We have a dinner to get to, but you better watch that dumb bit-"
-    mex ""
+    mex "我们还有晚饭要吃,但是你最好小心那个傻婊-"
 
 # game/scripts/maria_events.rpy:12441
 translate schinese mardate_bc5175af:
 
     # woman "Baby!!"
-    woman ""
+    woman "宝贝!!"
 
 # game/scripts/maria_events.rpy:12442
 translate schinese mardate_b5b23f73:
 
     # m "Oh my god!!"
-    m ""
+    m "哦我天!!"
 
 # game/scripts/maria_events.rpy:12444
 translate schinese mardate_bdfcbd8e:
 
     # woman "Oh my god! Baby, baby! Can you hear me??"
-    woman ""
+    woman "哦我天!宝贝,宝贝!你能听到我吗??"
 
 # game/scripts/maria_events.rpy:12445
 translate schinese mardate_fc087e8e:
 
     # m "He's out cold...! Holy shit! I can't believe you knocked him out!"
-    m ""
+    m "他昏过去了......!我去!真不敢相信你把他打晕了!"
 
 # game/scripts/maria_events.rpy:12446
 translate schinese mardate_1f5e9b72:
 
     # c "I didn't mean to hit him that hard..."
-    c ""
+    c "我不是有意下手那么重的......"
 
 # game/scripts/maria_events.rpy:12448
 translate schinese mardate_314be290:
 
     # m "{i}That was kinda hot... nobody has ever hit someone for me before... but you stood up and protected me~{/i}"
-    m ""
+    m "{i}这还挺性感的......之前从来没有人为我打过人......但是你站出来保护了我~{/i}"
 
 # game/scripts/maria_events.rpy:12450
 translate schinese mardate_a6498e06:
 
     # c "Good idea..."
-    c ""
+    c "好主意......"
 
 # game/scripts/maria_events.rpy:12452
 translate schinese mardate_3a5c4808:
 
     # "You leave some money on the table, hopefully enough to cover it, then you rush back to your car, leaving Maria's ex out cold on the ground."
-    ""
+    "你把一些钱留在了桌子上,希望这能够赔偿餐厅的损失,然后,你们冲向你的车,把昏迷的玛丽亚前男友留在了地上."
 
 # game/scripts/maria_events.rpy:12453
 translate schinese mardate_b8ab757d:
 
     # "Before you go to the hotel, you grab a quick snack from Juicy Burger, both of you chatting and giggling the whole way there and to the hotel."
-    ""
+    "在你们回酒店之前,你们在多汁汉堡买了点快餐,回去的一路上,你们有说有笑."
 
 # game/scripts/maria_events.rpy:12454
 translate schinese mardate_6cdd9f9a:
 
     # "Before you have a chance to enter the hotel, Maria grabs your arm and kisses you on the cheek."
-    ""
+    "在你们进入酒店之前,玛丽亚抓住了你的手,在你脸上亲了一口."
 
 # game/scripts/maria_events.rpy:12456
 translate schinese mardate_264d8525:
 
     # m "Thanks for taking me out today, [name]..."
-    m ""
+    m "谢谢你今天带我出来,[name]......"
 
 # game/scripts/maria_events.rpy:12457
 translate schinese mardate_981cd38a:
 
     # c "Of course... I really enjoyed my time with you."
-    c ""
+    c "别客气......我真的很享受和你在一起的时光."
 
 # game/scripts/maria_events.rpy:12458
 translate schinese mardate_8cb2cd69:
 
     # m "Me too..."
-    m ""
+    m "我也是......"
 
 # game/scripts/maria_events.rpy:12460
 translate schinese mardate_cd777f2b:
 
     # m "Soooo... I guess we're a thing now, huh? I mean officially..."
-    m ""
+    m "所以......我想,我们现在是一对了,嗯?我是说官宣了......"
 
 # game/scripts/maria_events.rpy:12461
 translate schinese mardate_f3b4faf9:
 
     # m "You did hit my ex over me, aftera all. Heheh..."
-    m ""
+    m "毕竟,你在我面前打了我前男友.呵呵呵......"
 
 # game/scripts/maria_events.rpy:12462
 translate schinese mardate_c7fe4d0e:
 
     # c "I guess so..."
-    c ""
+    c "大概吧......"
 
 # game/scripts/maria_events.rpy:12463
 translate schinese mardate_ef0af369:
 
     # m "Cool... I guess I'll see you around then, {i}boyfriend...{/i}"
-    m ""
+    m "酷......那待会见,我的{i}男朋友......{/i}"
 
 # game/scripts/maria_events.rpy:12464
-translate schinese mardate_a6a880e0:
 
     # c "Until then, {i}girlfriend.{/i}"
-    c ""
+    c "待会见,我的{i}女朋友{/i}."
 
 # game/scripts/maria_events.rpy:12471
 translate schinese mark_b82601d1:
 
     # m "Hey [name]~! I figured out what my gift to Kali is going to be... want to hear it?"
-    m ""
+    m "嘿,[name]~!我知道我要给凯莉什么礼物了......想听听吗?"
 
 # game/scripts/maria_events.rpy:12473
 translate schinese mark_0fa4e791:
 
     # m "I was thinking of giving Kali one of my old cheerleader uniforms. I cut the skirt very short, heheh!"
-    m ""
+    m "我想把我以前的啦啦队队长服送给凯莉.我把那件衣服的裙子剪得很短,呵呵呵!"
 
 translate schinese strings:
 
     # game/scripts/maria_events.rpy:9238
     old "I understand you..."
-    new ""
+    new "我能理解你......"
 
     # game/scripts/maria_events.rpy:9238
     old "I feel for you."
-    new ""
+    new "我很同情你."
 
     # game/scripts/maria_events.rpy:9336
     old "If that's what you need."
-    new ""
+    new "如果这就是你所需要的."
 
     # game/scripts/maria_events.rpy:9336
     old "We can work this out together."
-    new ""
+    new "我们可以一起度过难关."
 
     # game/scripts/maria_events.rpy:11270
     old "Hold on, call him back."
-    new ""
+    new "等一下,叫他回来."
 
     # game/scripts/maria_events.rpy:11270
     old "This is serious..."
-    new ""
+    new "这很严重......"
 
     # game/scripts/maria_events.rpy:11321
     old "Let's do it."
-    new ""
+    new "我们做吧."
 
     # game/scripts/maria_events.rpy:11688
     old "We'll see..."
-    new ""
+    new "我们走着瞧......"
 
     # game/scripts/maria_events.rpy:11812
     old "I would love that."
-    new ""
+    new "我很乐意."
 
     # game/scripts/maria_events.rpy:11812
     old "Not at all."
-    new ""
+    new "完全不."
 
     # game/scripts/maria_events.rpy:12183
     old "Yes, very."
-    new ""
+    new "是的,非常."
 
     # game/scripts/maria_events.rpy:12183
     old "I mean, a little..."
-    new ""
+    new "我是说,有一点......"
 
     # game/scripts/maria_events.rpy:12221
     old "Blonde"
-    new ""
+    new "金色"
 
