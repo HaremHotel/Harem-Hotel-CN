@@ -53890,7 +53890,7 @@ translate schinese nala_spa_sex_2f6616c2:
 translate schinese nala_spa_sex_70a55133:
 
     # nala "Oh my god, don't stop baby! Fuck! MH! MHH! Fuck! Ohh, that's so fucking good~"
-    nala "哦我天,别停下,宝贝!操!{/b}嗯!嗯!{/b}操!哦,太他妈棒了~"
+    nala "哦我天,别停下,宝贝!操!{b}嗯!嗯!{/b}操!哦,太他妈棒了~"
 
 # game/scripts/side_char_events.rpy:13058
 translate schinese nala_spa_sex_ce2e1ba9:
@@ -54022,7 +54022,7 @@ translate schinese vanessa6_7caf1a51:
 translate schinese vanessa6_44b3584f:
 
     # van "Mmh, what are you waiting for [name]? Get undressed already."
-    van "嗯,你还在等什么,[name]?快把衣服坨了."
+    van "嗯,你还在等什么,[name]?快把衣服脱了."
 
 # game/scripts/side_char_events.rpy:13262
 translate schinese vanessa6_2038008b:
@@ -54334,13 +54334,13 @@ translate schinese vanessa6_89a1c29c:
 translate schinese vanessa6_157b4cf8:
 
     # van "Haha! Dude, do you even masturbate?"
-    van "哈哈!伙计,你自慰吗?"
+    van "哈哈!伙计,你自慰过吗?"
 
 # game/scripts/side_char_events.rpy:13340
 translate schinese vanessa6_e84192cd:
 
     # nala "With what time!?"
-    nala "什么时候!?"
+    nala "什么时候了还说这个!?"
 
 # game/scripts/side_char_events.rpy:13342
 translate schinese vanessa6_5c0d3f2f:

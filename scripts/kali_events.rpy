@@ -50392,7 +50392,7 @@ translate schinese kali_corpus_coffee_c1eb2b59:
 translate schinese kali_corpus_coffee_cea18b4c:
 
     # bae "We're not exactly thrilled about it either."
-    bae "我们也不是满意."
+    bae "我们也不是很满意."
 
 # game/scripts/kali_events.rpy:30
 translate schinese kali_corpus_coffee_10c68c40:
@@ -50610,7 +50610,7 @@ translate schinese kali_corpus_coffee_a4532b28:
 translate schinese kali_corpus_coffee_dc3112e7:
 
     # bae "Oh! I know, I'll get you a matcha latte."
-    bae "哦!我知道了,我给你点杯拿铁抹茶."
+    bae "哦!我知道了,我给你点杯抹茶拿铁."
 
 # game/scripts/kali_events.rpy:59
 translate schinese kali_corpus_coffee_d612539c:
@@ -50634,7 +50634,7 @@ translate schinese kali_corpus_coffee_9eacb75e:
 translate schinese kali_corpus_coffee_fe82a9b1:
 
     # kang "One caffe latte, one matcha latte, one caffe mocha please!"
-    kang "一杯拿铁,一杯拿铁抹茶,一杯摩卡,谢谢!"
+    kang "一杯拿铁,一杯抹茶拿铁,一杯摩卡,谢谢!"
 
 # game/scripts/kali_events.rpy:64
 translate schinese kali_corpus_coffee_b14cfcf9:
@@ -51108,7 +51108,7 @@ translate schinese kali_corpus_coffee_fbebf23e:
 translate schinese kali_corpus_coffee_0f69964d:
 
     # k "*sigh*... well it could be worse, I guess. I'm still getting paid to put all this bullshit in."
-    k "*叹气*......好吧,我想本来可能还会更早的.至少我把这些鬼扯功能放进去的还是有工资拿的."
+    k "*叹气*......好吧,我本来还以为会更糟糕的.至少我把这些鬼扯功能放进去的还是有工资拿的."
 
 # game/scripts/kali_events.rpy:163
 translate schinese kali_corpus_coffee_e7452020:
@@ -51150,7 +51150,7 @@ translate schinese kali_corpus_coffee_43aaca74:
 translate schinese kali_corpus_coffee_8ecf3206:
 
     # bae "The market will react to elfbots being released by lowering the price of elves. There will always be some use for them..."
-    bae "机器精灵上市后,市场的反应只会是下调精灵的加个.他们总会有用处的......"
+    bae "机器精灵上市后,市场的反应只会是下调精灵的价格.他们总会有用处的......"
 
 # game/scripts/kali_events.rpy:171
 translate schinese kali_corpus_coffee_ac872c8e:
@@ -51282,7 +51282,7 @@ translate schinese kali_corpus_coffee_8164635e:
 translate schinese kali_corpus_coffee_1c1835c3:
 
     # k "They could still build the elfbots. They would just get paid fairly and be able to negotiate their contract..."
-    k "他们依然可以去造机器精灵.他们只需能就自己的合同进行谈判,并获得公平的报酬."
+    k "他们依然可以去造机器精灵.只需要让他们能就自己的合同进行谈判,并获得公平的报酬."
 
 # game/scripts/kali_events.rpy:199
 translate schinese kali_corpus_coffee_b04d08b6:

@@ -55534,7 +55534,7 @@ translate schinese lin_abduct_cd5ad84f:
 translate schinese lin_abduct_fbb25ff5:
 
     # c "*sigh*... where are you making me drive?"
-    c "*叹气*......你要让我开去哪里>"
+    c "*叹气*......你要让我开去哪里?"
 
 # game/scripts/lin_events.rpy:54
 translate schinese lin_abduct_63bbcff1:
@@ -56074,7 +56074,7 @@ translate schinese lin_abduct_af48db84_2:
 translate schinese lin_abduct_bc8cafb0:
 
     # ghen "Lin... I know this is probably the last thing you want to hear... But that's normal. It ain't nothin' special. Especially for elves like us."
-    ghen "林......我知道这可能是你最不愿意听的话......但是这很正常,并没有什么特别的,尤其是对于向我们这样的精灵来说."
+    ghen "林......我知道这可能是你最不愿意听的话......但是这很正常,并没有什么特别的,尤其是对于像我们这样的精灵来说."
 
 # game/scripts/lin_events.rpy:186
 translate schinese lin_abduct_66e8223b:
@@ -56086,7 +56086,7 @@ translate schinese lin_abduct_66e8223b:
 translate schinese lin_abduct_27a2fe65:
 
     # ghen "The truth is, you ain't gotta do anything to deserve it. You either fight back, or take it. The choice is up to you."
-    ghen "真相就是,你并不是因为你做了什么而受到这样的对待.你要么反抗,要么接受.选择权在你手上."
+    ghen "真相就是,你并不是因为你做了什么而受到这样的对待.你要么反抗,要么忍受.选择权在你手上."
 
 # game/scripts/lin_events.rpy:188
 translate schinese lin_abduct_82822a0c:
@@ -56230,7 +56230,7 @@ translate schinese lin_abduct_495ae752:
 translate schinese lin_abduct_b573dc29:
 
     # nia "What are you talking about!?"
-    nia "你们在说什么!?"
+    nia "你在说什么!?"
 
 # game/scripts/lin_events.rpy:225
 translate schinese lin_abduct_703beb5f:
@@ -56536,7 +56536,7 @@ translate schinese lin_abduct_4e83ef6f:
 translate schinese lin_abduct_eb011a9e:
 
     # au "[botname] is chasing them, so until we hear back from her, no one goes in or out of this hotel! We stick together."
-    au "[botname!t]正在追踪他们,所以在我们受到她的消息之前,所有人不许出酒店!我们要待在一起."
+    au "[botname!t]正在追踪他们,所以在我们收到她的消息之前,所有人不许出酒店!我们要待在一起."
 
 # game/scripts/lin_events.rpy:295
 translate schinese lin_abduct_ffbfd4ab:
@@ -56674,7 +56674,7 @@ translate schinese lin_abduct_51300068:
 translate schinese lin_abduct_77264556:
 
     # bot "Wait... where is Ellen?"
-    bot "等一下......艾兰了?"
+    bot "等一下......艾兰呢?"
 
 # game/scripts/lin_events.rpy:325
 translate schinese lin_abduct_0aac5627:
@@ -56752,19 +56752,19 @@ translate schinese lin_abduct_274f68e0:
 translate schinese lin_abduct_fac24501:
 
     # k "Ashley, a psycho murderer just stole our boyfriend! How can we-"
-    k "阿什莉,一个精神病杀手刚刚偷走了我们的男朋友!我们怎么可-"
+    k "阿什莉,一个疯子杀手刚刚偷走了我们的男朋友!我们怎么可-"
 
 # game/scripts/lin_events.rpy:341
 translate schinese lin_abduct_30d304e0:
 
     # a "-[name!u] WOULDN'T SIT AROUND ON HIS FUCKING ASS LIKE A LITTLE BITCH WHILE ONE OF YOU WERE KIDNAPPED!! GET OFF YOUR ASS AND FUCKING DO SOMETHING!!!" with ssshake
-    a "{b}-要是你们有人被绑架了,[name!u]可不会像个懦夫一样在这里坐以待毙!!赶紧他妈地行动起来做点什么!!!{/b}" with ssshake
+    a "{b}-要是你们有人被绑架了,[name!u]可不会像个懦夫一样他妈地在这里坐以待毙!!他妈的,赶紧行动给我起来,做点什么!!!{/b}" with ssshake
 
 # game/scripts/lin_events.rpy:342
 translate schinese lin_abduct_bb6de141:
 
     # m "{i}{size=-7}Hehhh... I forgot we had a little pyscho of our own...{/i}{/size}"
-    m "{i}{size=-7}呵呵......我都忘了我们自己也有个小精神病了......{/i}{/size}"
+    m "{i}{size=-7}呵呵......我都忘了我们自己也有个小疯子了......{/i}{/size}"
 
 # game/scripts/lin_events.rpy:344
 translate schinese lin_abduct_395e0e9c:
@@ -56776,7 +56776,7 @@ translate schinese lin_abduct_395e0e9c:
 translate schinese lin_abduct_ab70342c:
 
     # au "We won't all fit in one car."
-    au "一辆车可载不了我们."
+    au "一辆车可载不了我们所有人."
 
 # game/scripts/lin_events.rpy:347
 translate schinese lin_abduct_74cef84c:
@@ -56842,7 +56842,7 @@ translate schinese lin_abduct_3fe3e0af:
 translate schinese lin_abduct_dcae12b1:
 
     # ghen "HAHAHAH! Sounds FUN!"
-    ghen "{b}哈哈哈哈!听起来{b}更有趣了{/b!"
+    ghen "{b}哈哈哈哈!听起来{b}更有趣了{/b}!"
 
 # game/scripts/lin_events.rpy:366
 translate schinese lin_abduct_baf19692:
@@ -57136,7 +57136,7 @@ translate schinese lin_abduct_2e1010dd:
 translate schinese lin_abduct_0d4eaf03:
 
     # bot "Oh, you can floor it! There aren't any cops in your direction."
-    bot "哦,你地板油!你们的方向上没有警察."
+    bot "哦,你可以把油门踩到底!你们的方向上没有警察."
 
 # game/scripts/lin_events.rpy:433
 translate schinese lin_abduct_86a3d62f:
@@ -57148,7 +57148,7 @@ translate schinese lin_abduct_86a3d62f:
 translate schinese lin_abduct_d4b2a0bf:
 
     # bot "Police radio is public. I can track their location with that."
-    bot "警察的通讯碰道是公开的,我通过这个跟踪了他们."
+    bot "警察的通讯频道是公开的,我通过这个跟踪了他们."
 
 # game/scripts/lin_events.rpy:435
 translate schinese lin_abduct_0d730294:
@@ -57256,7 +57256,7 @@ translate schinese lin_abduct_07469d5d:
 translate schinese lin_abduct_45bb0af9:
 
     # jia "THE GREAT RESET! Just what this country needs!" with ssshake
-    jia "{b}伟大的重置!{/b}这正是这个国家所需要的!" with ssshake
+    jia "{b}大重置!{/b}这正是这个国家所需要的!" with ssshake
 
 # game/scripts/lin_events.rpy:464
 translate schinese lin_abduct_28802633:
@@ -57376,7 +57376,7 @@ translate schinese lin_abduct_5b4e1dd9:
 translate schinese lin_abduct_42a651c5:
 
     # rasha "That's Lin!? Holy hell, man! You're fucked!" with ssshake
-    rasha "那是林!?我操,火击!你们完蛋了!" with ssshake
+    rasha "那是林!?我操,哥们!你们完蛋了!" with ssshake
 
 # game/scripts/lin_events.rpy:498
 translate schinese lin_abduct_2cd0630b:
@@ -57532,7 +57532,7 @@ translate schinese lin_abduct_2de9feb3:
 translate schinese lin_abduct_92df22b9:
 
     # chancellor "Jia went to the hotel, like you said, and Lin wasn't there. That's why this is all happening. The police report was clear, she left months ago."
-    chancellor "就像你说的,贾去了酒店,然后林不在那里.这就是发生这一切的原因.警察的报告说得很虔诚了,她几个月前就离开了."
+    chancellor "就像你说的,贾去了酒店,然后林不在那里.这就是发生这一切的原因.警察的报告说得很清楚了,她几个月前就离开了."
 
 # game/scripts/lin_events.rpy:537
 translate schinese lin_abduct_4a7e172c:
@@ -57676,7 +57676,7 @@ translate schinese lin_abduct_f016bee4:
 translate schinese lin_abduct_2f9fda44:
 
     # c "Give it your best shot, then... I'm not giving up Lin."
-    c "给个痛快吧,然后......我就不放弃林了."
+    c "那么,给个痛快吧......我不会放弃林的."
 
 # game/scripts/lin_events.rpy:570
 translate schinese lin_abduct_9cc6cffc:
@@ -57820,7 +57820,7 @@ translate schinese lin_abduct_36471a93:
 translate schinese lin_abduct_efeeeb41:
 
     # ghen "Bingo."
-    ghen "好了."
+    ghen "就是现在."
 
 # game/scripts/lin_events.rpy:635
 translate schinese lin_abduct_a21d25cd:
@@ -57850,7 +57850,7 @@ translate schinese lin_abduct_1ff283c8:
 translate schinese lin_abduct_926e809b:
 
     # a "GIVE ME A REASON, JUST GIVE ME A REASON!"
-    a "{b}给我给理由,给我给理由!{/b}"
+    a "{b}给我个理由,你给我个理由!{/b}"
 
 # game/scripts/lin_events.rpy:645
 translate schinese lin_abduct_929cb251:
@@ -57898,7 +57898,7 @@ translate schinese lin_abduct_03df91a1:
 translate schinese lin_abduct_378165d5:
 
     # jia "*exhale*... *exhale*...\nYou were supposed to help us, LIN!"
-    jia "*呼气*......*呼气*......\n你本应该帮助我们的,{b}林{/b!"
+    jia "*呼气*......*呼气*......\n你本应该帮助我们的,{b}林{/b}!"
 
 # game/scripts/lin_events.rpy:657
 translate schinese lin_abduct_5335278c:
@@ -58454,7 +58454,7 @@ translate schinese strings:
 
     # game/scripts/lin_events.rpy:792
     old "{size=+50}\nWhen fear becomes policy...\nfreedom becomes treason.{/size}"
-    new "{size=+50}当恐惧成为政策......\n自由将成为叛国.{/size}"
+    new "{size=+50}当恐惧成为政策......\n自由也将变成叛国.{/size}"
 
     # game/scripts/lin_events.rpy:797
     old "{size=+50}5 days later...{/size}"

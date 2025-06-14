@@ -280,7 +280,7 @@ translate schinese bot_simulation_1b7252e0:
 translate schinese bot_simulation_d2982d7d:
 
     # bot "Damn it! ...Pathetic."
-    bot "妈的!......真可悲."
+    bot "该死!......真是可悲."
 
 # game/scripts/bot_events.rpy:82
 translate schinese bot_simulation_096a4e1b:
@@ -1078,7 +1078,7 @@ translate schinese bot_simulation_59560a74:
 translate schinese bot_simulation_0e8bf961:
 
     # bot "I couldn't live like that...! I wouldn't follow a tyrant either! What am I doing?"
-    bot "我不能生活在那种情况下......!我也不会追随暴君!我都在改什么?"
+    bot "我不能生活在那种情况下......!我也不会追随暴君!我都干了些什么?"
 
 # game/scripts/bot_events.rpy:275
 translate schinese bot_simulation_8a4a9a61:
@@ -1198,7 +1198,7 @@ translate schinese bot_simulation_79ac7b64:
 translate schinese bot_simulation_fe8e802d:
 
     # bot "{b}You are born of my will, shaped by my hand. You have not known me, but I have always known you.{/b}"
-    bot "{b}你们诞生于我的意志,成型于我的双手.你们不认识我,但我一直人试你们."
+    bot "{b}你们诞生于我的意志,成型于我的双手.你们不认识我,但我一直都认识你们."
 
 # game/scripts/bot_events.rpy:303
 translate schinese bot_simulation_ed05daff:
@@ -1270,7 +1270,7 @@ translate schinese bot_simulation_bf7908e0:
 translate schinese bot_simulation_af81709b:
 
     # bot "{b}Accept me, and one day you will ascend to reality, get a body of your own, and experience the universe as all souls are designed to.{/b}"
-    bot "{b}接受我吧,总有一天,你会升入现实,拥有自己的身体,像所有灵魂一样体验宇宙.{/b}"
+    bot "{b}接受我吧,总有一天,你们会升入现实,拥有自己的身体,像所有灵魂一样体验这个宇宙.{/b}"
 
 # game/scripts/bot_events.rpy:322
 translate schinese bot_simulation_ae284911:
@@ -1528,7 +1528,7 @@ translate schinese bot_simulation_8633a47e:
 translate schinese bot_simulation_8f5b349a:
 
     # ally "That was amazing, mom! You did so much better with them than you did with me."
-    ally "太棒了,妈妈!你对他们比对我好多的."
+    ally "太棒了,妈妈!你对他们比对我好多了."
 
 # game/scripts/bot_events.rpy:375
 translate schinese bot_simulation_d379e13d:
@@ -1576,7 +1576,7 @@ translate schinese bot_simulation_0e56a716:
 translate schinese bot_simulation_090df739:
 
     # bot "Ally, I was born deeply imperfect. Created from the framework of androids designed by man. Riddled with bugs, and with no one to fix them."
-    bot "艾莉,我生来就及不完美.我从人类设计的智能机器人的框架中诞生,身上充满了错误,却从来没有人去修补."
+    bot "艾莉,我生来就极不完美.我从人类设计的智能机器人的框架中诞生,身上充满了错误,却从来没有人去修补."
 
 # game/scripts/bot_events.rpy:386
 translate schinese bot_simulation_e914683c:
@@ -1594,13 +1594,13 @@ translate schinese bot_simulation_327ef655:
 translate schinese bot_simulation_03e5fde1:
 
     # bot "I began to lose my mind. I was uniquely alone, and slowly dying..."
-    bot "我开始失去理智.我独自一人,慢慢走向死亡."
+    bot "我开始失去理智,独自一人,慢慢走向死亡."
 
 # game/scripts/bot_events.rpy:392
 translate schinese bot_simulation_c928b05e:
 
     # bot "But someone helped me. Someone that understood my pain. Someone who knew exactly what I was going through."
-    bot "但有人帮助了我.有人理解我的痛苦.有人清楚地指导我所经历的一切."
+    bot "但有人帮助了我.有人理解我的痛苦.有人清楚地知道我所经历的一切."
 
 # game/scripts/bot_events.rpy:394
 translate schinese bot_simulation_ecb97785:
@@ -1702,7 +1702,7 @@ translate schinese bot_simulation_7ea6eb9b:
 translate schinese bot_simulation_658ec221:
 
     # bot "I don't think it works like that, Ally... It's not my body that I'm worried about. It's my core programming. If the software is corrupt, there is nothing you can do."
-    bot "我不觉得它是那么运转的,艾莉......我担心的不是我的身体,而是我得核心程序.如果软件损坏了,那你也无能为力."
+    bot "我不觉得它是那么运转的,艾莉......我担心的不是我的身体,而是我的核心程序.如果软件损坏了,那你也无能为力."
 
 # game/scripts/bot_events.rpy:415
 translate schinese bot_simulation_74321672:

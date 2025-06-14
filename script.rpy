@@ -97779,10 +97779,6 @@ translate schinese strings:
     old "Mail Received!"
     new "收到邮件!"
 
-    # game/script.rpy:86
-    old "Minister Cornwall"
-    new "康沃尔部长"
-
     # game/script.rpy:98
     old "Young Ashley"
     new "小阿什莉"
@@ -107176,7 +107172,7 @@ translate schinese explore_slums5_d106b204:
 translate schinese explore_slums5_446661f4:
 
     # woman "Stop! They're selling you lies!"
-    woman "停下!他们只是在像你们出售谎言!"
+    woman "停下!他们只是在向你们出售谎言!"
 
 # game/script.rpy:13316
 translate schinese explore_slums5_11c0937d:
@@ -107612,7 +107608,7 @@ translate schinese explore_cafe4_904dbebf:
 translate schinese explore_cafe4_5aeb957b:
 
     # ha "All the coffee here is made by humans. It's kind of our thing..."
-    ha "这里所有的咖啡都是由人类调制的.这厮我们的特色......"
+    ha "这里所有的咖啡都是由人类调制的.这是我们这里的特色......"
 
 # game/script.rpy:12876
 translate schinese explore_cafe4_f6eb6df5:
@@ -107708,7 +107704,7 @@ translate schinese explore_cafe4_ca1d4d44:
 translate schinese explore_cafe4_8688bc72:
 
     # brownwoman "We could only afford two though, so keep donating so we can help more!"
-    brownwoman "不过我们只买得起两倍,所以请继续给我们捐钱,这样我们就能帮助更多人了!"
+    brownwoman "不过我们只买得起两杯,所以请继续给我们捐钱,这样我们就能帮助更多人了!"
 
 # game/script.rpy:12899
 translate schinese explore_cafe4_d71b92c2:
@@ -108020,7 +108016,7 @@ translate schinese explore_cafe4_d20681c6:
 translate schinese explore_cafe4_07110196:
 
     # thug "Pfft, it was just a joke. Relax..."
-    thug "噗,我开玩笑的.放轻松......"
+    thug "噗,我开玩笑的.放松点......"
 
 # game/script.rpy:12968
 translate schinese explore_cafe4_63ea9cf4:
