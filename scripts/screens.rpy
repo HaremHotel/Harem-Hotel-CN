@@ -3831,3 +3831,23 @@ translate schinese strings:
     old "[botname]'s story in v0.16"
     new "v0.16中[botname!t]的故事"
 
+# TODO: Translation updated at 2025-07-16 22:59
+
+translate schinese strings:
+
+    # game/scripts/screens.rpy:8587
+    old "Ashley tests new abilities with her fairy companions.\n\nAshley's mother returns to the hotel after a long time, expressing regret for how she raised Ashley, and revealing that she has cancer."
+    new "阿什利和她的仙子伙伴们一起测试她们的新能力。\n\n阿什莉的母亲在上次来酒店很久之后,回到了酒店,她对自己养育阿什莉的方式表示抱歉,并透露自己得了癌症."
+
+    # game/scripts/screens.rpy:10427
+    old "Character Fonts"
+    new "角色名称字体"
+
+    # game/scripts/screens.rpy:10428
+    old "Stylized"
+    new "区分(中文下不可用)"
+
+    # game/scripts/screens.rpy:10429
+    old "Normalized"
+    new "统一"
+

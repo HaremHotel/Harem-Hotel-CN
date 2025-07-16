@@ -44906,3 +44906,2843 @@ translate schinese ash_powers_ab0a7a75:
 
     # am "They did some tests on us at the hospital after your father crashed. I've had cancer for years."
     am "在你父亲出车祸后,他们在医院给我们做了一些检查.我已经罹患癌症很多年了."
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/ash_events.rpy:20
+translate schinese pre_ash_gang_31139037:
+
+    # c "I should get Ashley something..."
+    c ""
+
+# game/scripts/ash_events.rpy:21
+translate schinese pre_ash_gang_2c6e1cca:
+
+    # c "Maybe a new knife? I'll see what I can find online."
+    c ""
+
+# game/scripts/ash_events.rpy:31
+translate schinese ash_gang_f174c5d3:
+
+    # a "WHAT?? {i}Those{/i} sewers!? You actually lived there??"
+    a ""
+
+# game/scripts/ash_events.rpy:32
+translate schinese ash_gang_37935039:
+
+    # nia "Why are you freaking out?"
+    nia ""
+
+# game/scripts/ash_events.rpy:33
+translate schinese ash_gang_d8b5e829:
+
+    # a "You're talking about Lowtown, right??"
+    a ""
+
+# game/scripts/ash_events.rpy:34
+translate schinese ash_gang_e0592308:
+
+    # nia "Ashley... I'm only telling you because you're Lin's friend. You shouldn't ever go there."
+    nia ""
+
+# game/scripts/ash_events.rpy:36
+translate schinese ash_gang_760cc5fc:
+
+    # a "Too late for that! WHAT DO YOU KNOW ABOUT THE BLUE DRAGONS?" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:37
+translate schinese ash_gang_f5a7e9c0:
+
+    # nia "Calm down! ...How do you even know about them?"
+    nia ""
+
+# game/scripts/ash_events.rpy:38
+translate schinese ash_gang_20d1d67f:
+
+    # a "That doesn't matter, just tell me! I need to save Ren!"
+    a ""
+
+# game/scripts/ash_events.rpy:39
+translate schinese ash_gang_0f771267:
+
+    # nia "...You know Ren?"
+    nia ""
+
+# game/scripts/ash_events.rpy:41
+translate schinese ash_gang_b30bc120:
+
+    # c "Woah, what's going on here?"
+    c ""
+
+# game/scripts/ash_events.rpy:42
+translate schinese ash_gang_e05a19ab:
+
+    # a "[name]! Nia knows all about Lowtown! She knows about the Blue Dragons! Make her tell us what she knows!"
+    a ""
+
+# game/scripts/ash_events.rpy:44
+translate schinese ash_gang_51bf192a:
+
+    # l "Um, if it helps, they were abusing the Owl Clan... that's all I know though."
+    l ""
+
+# game/scripts/ash_events.rpy:45
+translate schinese ash_gang_07266786:
+
+    # nia "Hold on! How do you know about Ren?"
+    nia ""
+
+# game/scripts/ash_events.rpy:46
+translate schinese ash_gang_542e67a8:
+
+    # a "She was my parent's slave, she basically raised me! NOW TELL ME-"
+    a ""
+
+# game/scripts/ash_events.rpy:48
+translate schinese ash_gang_ec6df8ee:
+
+    # a "-Wait, you know who she is?"
+    a ""
+
+# game/scripts/ash_events.rpy:49
+translate schinese ash_gang_c02d8d8d:
+
+    # nia "I mean, I saw her around. I didn't really know her... but everyone in Lowtown knows {i}about{/i} her."
+    nia ""
+
+# game/scripts/ash_events.rpy:50
+translate schinese ash_gang_c81cdc6a:
+
+    # nia "...She was your slave?"
+    nia ""
+
+# game/scripts/ash_events.rpy:51
+translate schinese ash_gang_db3db9a2:
+
+    # a "No! She was my caretaker! And I need to find her! Stoneface has her!"
+    a ""
+
+# game/scripts/ash_events.rpy:52
+translate schinese ash_gang_97e57180:
+
+    # nia "You know who-...\nWho the hell is this, Lin? How does she know these things?"
+    nia ""
+
+# game/scripts/ash_events.rpy:53
+translate schinese ash_gang_8b89d203:
+
+    # l "She's a friend!"
+    l ""
+
+# game/scripts/ash_events.rpy:54
+translate schinese ash_gang_ca5cc50b:
+
+    # c "Nia, it would really help if you could give us any information. We know she's working for Stoneface, but we don't know how to find her."
+    c ""
+
+# game/scripts/ash_events.rpy:56
+translate schinese ash_gang_34ada1ca:
+
+    # nia "Are you guys sure you want to go down this path? These are dangerous people."
+    nia ""
+
+# game/scripts/ash_events.rpy:57
+translate schinese ash_gang_87699842:
+
+    # a "I know {u}exactly{/u} who I'm dealing with, Nia! I grew up around them! We just beat up that Rasha guy's boss too, so don't think I won't kill them!"
+    a ""
+
+# game/scripts/ash_events.rpy:59
+translate schinese ash_gang_03cb70c2:
+
+    # nia "You WHAT?"
+    nia ""
+
+# game/scripts/ash_events.rpy:61
+translate schinese ash_gang_05ac0b42:
+
+    # nia "Shit... that explains so much. Rasha has been acting a lot different..."
+    nia ""
+
+# game/scripts/ash_events.rpy:62
+translate schinese ash_gang_f01bdd66:
+
+    # a "He's still there!? We told him to fuck off! I thought everyone kicked him out! That cunt!"
+    a ""
+
+# game/scripts/ash_events.rpy:63
+translate schinese ash_gang_582caa62:
+
+    # nia "He's not a cunt... he's just-... he's a business man."
+    nia ""
+
+# game/scripts/ash_events.rpy:64
+translate schinese ash_gang_d3297194:
+
+    # nia "The blue dragons made a deal with him, which meant that I didn't have to supply his goods anymore. But he's been asking me for favors again..."
+    nia ""
+
+# game/scripts/ash_events.rpy:65
+translate schinese ash_gang_f7887f88:
+
+    # a "You work for him??"
+    a ""
+
+# game/scripts/ash_events.rpy:66
+translate schinese ash_gang_41b1cf27:
+
+    # nia "I work for the people. He sells them goods, and that money goes right back into their economy."
+    nia ""
+
+# game/scripts/ash_events.rpy:67
+translate schinese ash_gang_3a5183de:
+
+    # nia "He likes to drink... and gamble..."
+    nia ""
+
+# game/scripts/ash_events.rpy:69
+translate schinese ash_gang_3d1f6a76:
+
+    # nia "Prices have actually gone down lately. I guess that was because of you."
+    nia ""
+
+# game/scripts/ash_events.rpy:70
+translate schinese ash_gang_bb1888ce:
+
+    # a "Maybe!"
+    a ""
+
+# game/scripts/ash_events.rpy:71
+translate schinese ash_gang_8bded38b:
+
+    # nia "Huh... okay. Thank you."
+    nia ""
+
+# game/scripts/ash_events.rpy:72
+translate schinese ash_gang_11cfc5d8:
+
+    # a "You can thank me by telling me where to find the Blue Dragons!"
+    a ""
+
+# game/scripts/ash_events.rpy:73
+translate schinese ash_gang_eacd8f1a:
+
+    # nia "I don't know that... but I know who does. Rasha knows."
+    nia ""
+
+# game/scripts/ash_events.rpy:75
+translate schinese ash_gang_9a431cfe:
+
+    # a "Are you kidding me!? We were just there!"
+    a ""
+
+# game/scripts/ash_events.rpy:76
+translate schinese ash_gang_3ee6fa6e:
+
+    # nia "Don't worry, I can make him talk."
+    nia ""
+
+# game/scripts/ash_events.rpy:77
+translate schinese ash_gang_9ef00330:
+
+    # l "If you guys could put an end to the Blue Dragons, that would really help the Owl Clan... and probably other clans as well."
+    l ""
+
+# game/scripts/ash_events.rpy:79
+translate schinese ash_gang_0eb40f0d:
+
+    # a "Alright! Then what are we waiting for? Let's go!"
+    a ""
+
+# game/scripts/ash_events.rpy:80
+translate schinese ash_gang_3a3c0e4d:
+
+    # nia "Now? I haven't even finished my food!"
+    nia ""
+
+# game/scripts/ash_events.rpy:81
+translate schinese ash_gang_3bb0b6ab:
+
+    # c "Wait, Ashley... I got you something."
+    c ""
+
+# game/scripts/ash_events.rpy:83
+translate schinese ash_gang_bb293667:
+
+    # a "Huh? You got me a gift...?"
+    a ""
+
+# game/scripts/ash_events.rpy:87
+translate schinese ash_gang_4878bf12:
+
+    # a "Hehehehe~! So cool!"
+    a ""
+
+# game/scripts/ash_events.rpy:88
+translate schinese ash_gang_d2c9b1cc:
+
+    # c "I know how you like your knives. I even got it engraved for you."
+    c ""
+
+# game/scripts/ash_events.rpy:90
+translate schinese ash_gang_aa602990:
+
+    # a "Wow, little fairies! That's so cute! I love it so much, thank you!!"
+    a ""
+
+# game/scripts/ash_events.rpy:92
+translate schinese ash_gang_f6fd8cfb:
+
+    # a "{i}I can't wait to use this on some Blue Dragon motherfuckers with this...{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:93
+translate schinese ash_gang_7df9db6b:
+
+    # nia "What exactly do you plan to do once you find them?"
+    nia ""
+
+# game/scripts/ash_events.rpy:95
+translate schinese ash_gang_287153cb:
+
+    # a "I'm gonna make them tell us where to find Stoneface, then I'll make him release Ren back to me."
+    a ""
+
+# game/scripts/ash_events.rpy:96
+translate schinese ash_gang_be55b98a:
+
+    # nia "And you think that's going to work...? They're the biggest mafia on the west coast, are you suicidal?"
+    nia ""
+
+# game/scripts/ash_events.rpy:98
+translate schinese ash_gang_4ddff90b:
+
+    # a "Not anymore!"
+    a ""
+
+# game/scripts/ash_events.rpy:99
+translate schinese ash_gang_fee1a5f3:
+
+    # nia "What? ...Okay, that's a discussion for another time..."
+    nia ""
+
+# game/scripts/ash_events.rpy:101
+translate schinese ash_gang_72d80091:
+
+    # nia "I would love to see them all wiped out, honestly... but stoneface has political power. He's not just some charismatic guy with a bunch of goons."
+    nia ""
+
+# game/scripts/ash_events.rpy:102
+translate schinese ash_gang_b7804b3d:
+
+    # nia "It's more likely that we could steal Ren away from them covertly. But if I'm going to help you, you can't do anything reckless. Do you understand?"
+    nia ""
+
+# game/scripts/ash_events.rpy:103
+translate schinese ash_gang_e3c1b820:
+
+    # a "Yeah, sure, whatever. Let's go!"
+    a ""
+
+# game/scripts/ash_events.rpy:104
+translate schinese ash_gang_d37f79a7:
+
+    # nia "Can I at least finish my food?"
+    nia ""
+
+# game/scripts/ash_events.rpy:105
+translate schinese ash_gang_2ac0d700:
+
+    # a "No!"
+    a ""
+
+# game/scripts/ash_events.rpy:106
+translate schinese ash_gang_e7b46fba:
+
+    # c "Yes... enjoy your meal, Nia. We'll head out when you're ready."
+    c ""
+
+# game/scripts/ash_events.rpy:107
+translate schinese ash_gang_b71f3b04:
+
+    # nia "Thank you..."
+    nia ""
+
+# game/scripts/ash_events.rpy:108
+translate schinese ash_gang_fc87d349:
+
+    # a "Hmph..."
+    a ""
+
+# game/scripts/ash_events.rpy:110
+translate schinese ash_gang_dc612436:
+
+    # "Ashley impatiently waits for Nia to finish her food and get dressed. Once everyone is ready, you drive them to Lowtown..."
+    ""
+
+# game/scripts/ash_events.rpy:112
+translate schinese ash_gang_30d86c71:
+
+    # a "If you knew about Rasha and the Blue Dragons, why didn't you stop them yourselves?"
+    a ""
+
+# game/scripts/ash_events.rpy:113
+translate schinese ash_gang_3d697aeb:
+
+    # nia "A lot of bad shit happens down here, Ashley. The least of anyone's problems is a reliable supply chain."
+    nia ""
+
+# game/scripts/ash_events.rpy:114
+translate schinese ash_gang_e674586f:
+
+    # a "So you actually like the Blue Dragons?"
+    a ""
+
+# game/scripts/ash_events.rpy:115
+translate schinese ash_gang_df1eea94:
+
+    # nia "I didn't say that. I tolerated them because they didn't hurt anyone. And I'm not this community's police..."
+    nia ""
+
+# game/scripts/ash_events.rpy:117
+translate schinese ash_gang_69023d63:
+
+    # a "They didn't hurt anyone? People could barely afford to live because of the them! Just because the violence whispered doesn't mean it was peace."
+    a ""
+
+# game/scripts/ash_events.rpy:118
+translate schinese ash_gang_3f953dda:
+
+    # nia "I agree... But why do you think I'm responsible for it? I was a resident here like anyone else. If the people wanted them gone, they'd kick them out."
+    nia ""
+
+# game/scripts/ash_events.rpy:119
+translate schinese ash_gang_b05d2816:
+
+    # a "They did... and now Rasha is back..."
+    a ""
+
+# game/scripts/ash_events.rpy:120
+translate schinese ash_gang_40839213:
+
+    # c "Guys, let's focus. We need answers."
+    c ""
+
+# game/scripts/ash_events.rpy:122
+translate schinese ash_gang_243bf81a:
+
+    # nia "Exactly. Come on, he's this way."
+    nia ""
+
+# game/scripts/ash_events.rpy:123
+translate schinese ash_gang_39b56820:
+
+    # a "Hey! I know where I'm going!"
+    a ""
+
+# game/scripts/ash_events.rpy:124
+translate schinese ash_gang_570bb74e:
+
+    # c "{i}(They're acting just like sisters...){/i}"
+    c ""
+
+# game/scripts/ash_events.rpy:126
+translate schinese ash_gang_a26f015b:
+
+    # tog "Big Mike? What's wrong?"
+    tog ""
+
+# game/scripts/ash_events.rpy:128
+translate schinese ash_gang_94e3a418:
+
+    # tog "..."
+    tog ""
+
+# game/scripts/ash_events.rpy:129
+translate schinese ash_gang_a451c5c5:
+
+    # bmike "Oh... hey guys."
+    bmike ""
+
+# game/scripts/ash_events.rpy:131
+translate schinese ash_gang_7cefff33:
+
+    # a "What happened to Little Mike...?"
+    a ""
+
+# game/scripts/ash_events.rpy:132
+translate schinese ash_gang_f757020f:
+
+    # bmike "Little Mike died a few days ago."
+    bmike ""
+
+# game/scripts/ash_events.rpy:133
+translate schinese ash_gang_ebe10388:
+
+    # a "Oh no! I'm so sorry..."
+    a ""
+
+# game/scripts/ash_events.rpy:134
+translate schinese ash_gang_750bed0b:
+
+    # bmike "It's alright... he already gave birth. Check it out."
+    bmike ""
+
+# game/scripts/ash_events.rpy:136
+translate schinese ash_gang_1cd61810:
+
+    # bmike "This is where I burried him. Just the other day, this little guy popped out."
+    bmike ""
+
+# game/scripts/ash_events.rpy:137
+translate schinese ash_gang_b4d9c7d7:
+
+    # bmike "I'm gonna call him... Little Mike Jr."
+    bmike ""
+
+# game/scripts/ash_events.rpy:138
+translate schinese ash_gang_cfd6eae5:
+
+    # a "Aww~! That's the perfect name for him!"
+    a ""
+
+# game/scripts/ash_events.rpy:139
+translate schinese ash_gang_1b08ce5f:
+
+    # nia "What happened to Little Mike? If you don't mind me asking."
+    nia ""
+
+# game/scripts/ash_events.rpy:140
+translate schinese ash_gang_7bddbb11:
+
+    # bmike "Ah... natural causes I guess. It was just his time to move on. Start the cycle again."
+    bmike ""
+
+# game/scripts/ash_events.rpy:141
+translate schinese ash_gang_fbad26c9:
+
+    # bmike "I just hope Little Mike Jr is as friendly as his dad... Don't worry about me though, I'll be fine."
+    bmike ""
+
+# game/scripts/ash_events.rpy:143
+translate schinese ash_gang_3cd1f21f:
+
+    # bmike "Huh. I didn't know these were your friends, Nia. What brings you back?"
+    bmike ""
+
+# game/scripts/ash_events.rpy:144
+translate schinese ash_gang_c81747f8:
+
+    # a "Umm... why is Rasha still here?"
+    a ""
+
+# game/scripts/ash_events.rpy:145
+translate schinese ash_gang_9c4a349b:
+
+    # bmike "He lives here, like the rest of us."
+    bmike ""
+
+# game/scripts/ash_events.rpy:146
+translate schinese ash_gang_488feb8e:
+
+    # a "But he was abusing you guys..."
+    a ""
+
+# game/scripts/ash_events.rpy:147
+translate schinese ash_gang_0eb62bbd:
+
+    # bmike "And the Blue Dragons were abusing him. \nLowtown is all about second chances. Most of us here have been in prison, or running from it. He's no different."
+    bmike ""
+
+# game/scripts/ash_events.rpy:148
+translate schinese ash_gang_a56095b0:
+
+    # bmike "Anyway, I think he learned his lesson. Are you here to see him?"
+    bmike ""
+
+# game/scripts/ash_events.rpy:149
+translate schinese ash_gang_f5f2ecb7:
+
+    # a "We're gonna take down the Blue Dragons for good!"
+    a ""
+
+# game/scripts/ash_events.rpy:150
+translate schinese ash_gang_079090b9:
+
+    # nia "He used to visit them often, so we need to have a chat."
+    nia ""
+
+# game/scripts/ash_events.rpy:151
+translate schinese ash_gang_fc9fc1f7:
+
+    # bmike "Heh, that would be great! Good luck to ya."
+    bmike ""
+
+# game/scripts/ash_events.rpy:152
+translate schinese ash_gang_4de36303:
+
+    # bmike "You don't need my permission, but head on in."
+    bmike ""
+
+# game/scripts/ash_events.rpy:153
+translate schinese ash_gang_6089198e:
+
+    # a "Thank you~ good luck to you and Jr!"
+    a ""
+
+# game/scripts/ash_events.rpy:154
+translate schinese ash_gang_00715409:
+
+    # bmike "Thanks. Means a lot."
+    bmike ""
+
+# game/scripts/ash_events.rpy:156
+translate schinese ash_gang_e9dfd58e:
+
+    # nia "You know Big Mike!"
+    nia ""
+
+# game/scripts/ash_events.rpy:157
+translate schinese ash_gang_c3d1d257:
+
+    # a "Yeah, he seems like a nice guy. Why is he here?"
+    a ""
+
+# game/scripts/ash_events.rpy:158
+translate schinese ash_gang_54ec6b6b:
+
+    # nia "I don't know, it's not nice to ask. But he's always been a chill guy as far as I've known him."
+    nia ""
+
+# game/scripts/ash_events.rpy:159
+translate schinese ash_gang_bd0c79d4:
+
+    # a "And Rasha?"
+    a ""
+
+# game/scripts/ash_events.rpy:160
+translate schinese ash_gang_5ac284f0:
+
+    # nia "He's kind of new to Lowtown. He's... unique. Mostly a pain in the ass... But there's a decent person somewhere in there."
+    nia ""
+
+# game/scripts/ash_events.rpy:161
+translate schinese ash_gang_e937e5a0:
+
+    # a "I guess I'll take your word for it. For now."
+    a ""
+
+# game/scripts/ash_events.rpy:162
+translate schinese ash_gang_b7ea4bf5:
+
+    # nia "Come on, he should be at the end of this tributary."
+    nia ""
+
+# game/scripts/ash_events.rpy:165
+translate schinese ash_gang_782eb002:
+
+    # c "Yep, he's still here."
+    c ""
+
+# game/scripts/ash_events.rpy:166
+translate schinese ash_gang_443d82da:
+
+    # a "Let's have a chat..."
+    a ""
+
+# game/scripts/ash_events.rpy:167
+translate schinese ash_gang_f14383b0:
+
+    # nia "No violence, Ashley."
+    nia ""
+
+# game/scripts/ash_events.rpy:168
+translate schinese ash_gang_cdcb7456:
+
+    # a "I just want to talk..."
+    a ""
+
+# game/scripts/ash_events.rpy:169
+translate schinese ash_gang_ca4dcd8b:
+
+    # nia "Ashley...!"
+    nia ""
+
+# game/scripts/ash_events.rpy:170
+translate schinese ash_gang_ce097430:
+
+    # a "Just talking..."
+    a ""
+
+# game/scripts/ash_events.rpy:172
+translate schinese ash_gang_66876b54:
+
+    # henry "Hmmm... I don't think I got the right cards."
+    henry ""
+
+# game/scripts/ash_events.rpy:173
+translate schinese ash_gang_03700c5c:
+
+    # rasha "Shut up ya ol' coot! It's all random!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:174
+translate schinese ash_gang_b4004e18:
+
+    # hvet "You're not supposed to give away your hand, Henry."
+    hvet ""
+
+# game/scripts/ash_events.rpy:175
+translate schinese ash_gang_902ce01f:
+
+    # henry "But it's a J and a K, man, is this some kind of joke?"
+    henry ""
+
+# game/scripts/ash_events.rpy:176
+translate schinese ash_gang_6d013ad0:
+
+    # a "{size=-7}{i}What? I just want to talk...{/i}{/size}"
+    a ""
+
+# game/scripts/ash_events.rpy:177
+translate schinese ash_gang_6803fef8:
+
+    # nia "{size=-7}{i}Ashley!{/i}{/size}"
+    nia ""
+
+# game/scripts/ash_events.rpy:178
+translate schinese ash_gang_904d20ec:
+
+    # rasha "Hm?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:180
+translate schinese ash_gang_719bc45a:
+
+    # a "{b}HEY!!{/b} I thought we told you to leave!" with sshake
+    a "" with sshake
+
+# game/scripts/ash_events.rpy:181
+translate schinese ash_gang_5b4f8e08:
+
+    # nia "Don't!"
+    nia ""
+
+# game/scripts/ash_events.rpy:183
+translate schinese ash_gang_94921e0a:
+
+    # rasha "EII!" with ssshake
+    rasha "" with ssshake
+
+# game/scripts/ash_events.rpy:185
+translate schinese ash_gang_b0d5cfbf:
+
+    # rasha "Ey, ey! We had a deal, Nia! Watchu want? Why you wit' them!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:186
+translate schinese ash_gang_6abe4865:
+
+    # a "You're talking to ME now!"
+    a ""
+
+# game/scripts/ash_events.rpy:187
+translate schinese ash_gang_167b458d:
+
+    # nia "Put the knife down, Ashley!"
+    nia ""
+
+# game/scripts/ash_events.rpy:188
+translate schinese ash_gang_c7a4809e:
+
+    # c "We need more information."
+    c ""
+
+# game/scripts/ash_events.rpy:190
+translate schinese ash_gang_fa0e7a58:
+
+    # rasha "Ahhh, ya come for some info... ya came to the right place..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:191
+translate schinese ash_gang_5fc71c0f:
+
+    # rasha "Right then. Where's me phone!? Ya promised!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:192
+translate schinese ash_gang_f92e95f1:
+
+    # a "It's mine now! Fuck you!"
+    a ""
+
+# game/scripts/ash_events.rpy:194
+translate schinese ash_gang_5d32bb33:
+
+    # nia "Ashley, let me do the talking! You can... be the muscle! Back me up in case things go sideways."
+    nia ""
+
+# game/scripts/ash_events.rpy:195
+translate schinese ash_gang_75d02011:
+
+    # a "Mmmm..."
+    a ""
+
+# game/scripts/ash_events.rpy:197
+translate schinese ash_gang_2ad3588b:
+
+    # a "Okay! I can do that."
+    a ""
+
+# game/scripts/ash_events.rpy:198
+translate schinese ash_gang_9a71be11:
+
+    # nia "*sigh*..."
+    nia ""
+
+# game/scripts/ash_events.rpy:200
+translate schinese ash_gang_ed0ad5ab:
+
+    # nia "Rasha, listen..."
+    nia ""
+
+# game/scripts/ash_events.rpy:201
+translate schinese ash_gang_f857d015:
+
+    # rasha "NO! We made a deal and they broke it! They owe me a phone!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:202
+translate schinese ash_gang_456b6762:
+
+    # a "YOU- Nnnngh...!"
+    a ""
+
+# game/scripts/ash_events.rpy:203
+translate schinese ash_gang_105ab1ab:
+
+    # hvet "Oh hey guys. Nice to see you again. Rasha's not that bad after all."
+    hvet ""
+
+# game/scripts/ash_events.rpy:204
+translate schinese ash_gang_770831ab:
+
+    # nia "As far as I understand it, you were supposed to leave. Sounds like you both broke the deal."
+    nia ""
+
+# game/scripts/ash_events.rpy:206
+translate schinese ash_gang_693a4a79:
+
+    # rasha "I made a NEW deal! Discounts for everyone!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:207
+translate schinese ash_gang_63441678:
+
+    # nia "Sure... prices back to what they were, right?"
+    nia ""
+
+# game/scripts/ash_events.rpy:208
+translate schinese ash_gang_28d7d384:
+
+    # rasha "NO! Even less than before! The people love me now!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:209
+translate schinese ash_gang_dd596b65:
+
+    # hvet "Hey, you better not peek."
+    hvet ""
+
+# game/scripts/ash_events.rpy:211
+translate schinese ash_gang_f7b437a9:
+
+    # rasha "So ya really wit' them now, huh? Ahh, hahah, how the mighty have fallen!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:212
+translate schinese ash_gang_844f6785:
+
+    # rasha "Ya used to help! But now ya no worse than them Blue Dragons! Ya not one of us no more, huh? Hahah!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:213
+translate schinese ash_gang_9a40e9a8:
+
+    # nia "Fine. Get your own toilet paper."
+    nia ""
+
+# game/scripts/ash_events.rpy:215
+translate schinese ash_gang_9b315f83:
+
+    # rasha "EY! Don't be so hasty now!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:216
+translate schinese ash_gang_b3bfead2:
+
+    # hvet "Stop being an ass, Rasha! Give 'em what they want."
+    hvet ""
+
+# game/scripts/ash_events.rpy:217
+translate schinese ash_gang_d723b29e:
+
+    # rasha "Ya help me lots, okay? I admit it!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:218
+translate schinese ash_gang_3476a1ff:
+
+    # nia "Exactly... now I need a favor from you."
+    nia ""
+
+# game/scripts/ash_events.rpy:220
+translate schinese ash_gang_7978f49f:
+
+    # rasha "Tsssssk... alright! I suppose ya earned ONE!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:222
+translate schinese ash_gang_1e3a2804:
+
+    # rasha "What can doctor Rasha help ya wit'?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:223
+translate schinese ash_gang_0b0243d1:
+
+    # nia "The Blue Dragons. Take us to them."
+    nia ""
+
+# game/scripts/ash_events.rpy:225
+translate schinese ash_gang_20c2d63e:
+
+    # rasha "EH? EHH?? Did I hear ya right!? No, no, NO! Not happening!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:226
+translate schinese ash_gang_6a5f2438:
+
+    # nia "Rasha!"
+    nia ""
+
+# game/scripts/ash_events.rpy:227
+translate schinese ash_gang_a8f50632:
+
+    # rasha "Sense is chasing you, woman, but you are {i}clearly{/i} too fast!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:229
+translate schinese ash_gang_f96456ed:
+
+    # rasha "If they see me again, I'm FUCKED! I should be reportin' to 'em, ya hear!? I owe them money! No! No way! I like me life now! Not going back them days!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:230
+translate schinese ash_gang_b0c8b13a:
+
+    # nia "Then we're on the same page. Nobody wants that. Let us take them out for you."
+    nia ""
+
+# game/scripts/ash_events.rpy:232
+translate schinese ash_gang_0f2d67ac:
+
+    # rasha "Ehhh..? Ya really do that for ol' Rasha?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:233
+translate schinese ash_gang_6b094190:
+
+    # a "{i}For Ren...{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:235
+translate schinese ash_gang_010a233c:
+
+    # rasha "Tsk! Ren's bad for business!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:236
+translate schinese ash_gang_51f6212c:
+
+    # a "WHAT!?!? SAY THAT AGAIN YOU STINKY FUCK!"
+    a ""
+
+# game/scripts/ash_events.rpy:237
+translate schinese ash_gang_e5b87cce:
+
+    # c "Ashley!"
+    c ""
+
+# game/scripts/ash_events.rpy:238
+translate schinese ash_gang_812e77d6:
+
+    # a "{i}Sorry...{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:240
+translate schinese ash_gang_1b21f335:
+
+    # hvet "{b}GIVE THEM THE GOD DAMNED LEAD, RASHA!" with sshake
+    hvet "" with sshake
+
+# game/scripts/ash_events.rpy:241
+translate schinese ash_gang_e7df09fe:
+
+    # rasha "...{w}..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:243
+translate schinese ash_gang_018213ec:
+
+    # rasha "Ahhhahahah! I got ya there for a second, didn't I?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:244
+translate schinese ash_gang_f85d4966:
+
+    # rasha "Actin' like I wasn't gonna help ya for business purposes, pff, hah!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:245
+translate schinese ash_gang_0848031e:
+
+    # nia "In any case, she wouldn't come back here of all places..."
+    nia ""
+
+# game/scripts/ash_events.rpy:247
+translate schinese ash_gang_422a8cce:
+
+    # rasha "{size=-5}{i}Why didn't ya lead with that, woman!?{/i}{/size}"
+    rasha ""
+
+# game/scripts/ash_events.rpy:249
+translate schinese ash_gang_95413b73:
+
+    # rasha "I'll lead ya to 'em, alright? But I won't be spotted! Only close enough that I'm outta sight! AND forever outta mind!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:250
+translate schinese ash_gang_ba9848fb:
+
+    # nia "That works."
+    nia ""
+
+# game/scripts/ash_events.rpy:251
+translate schinese ash_gang_ea8c3f10:
+
+    # a "Thanks, eyepatch man."
+    a ""
+
+# game/scripts/ash_events.rpy:252
+translate schinese ash_gang_54768ae3:
+
+    # hvet "You're very welcome, Ashley."
+    hvet ""
+
+# game/scripts/ash_events.rpy:254
+translate schinese ash_gang_46015563:
+
+    # rasha "Alright! Follow doctor Rasha, everyone! He'll get ya where ya need to go!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:256
+translate schinese ash_gang_feb21f01:
+
+    # rasha "And no cheatin'! I'll know if ya did!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:257
+translate schinese ash_gang_883a5691:
+
+    # hvet "I fold."
+    hvet ""
+
+# game/scripts/ash_events.rpy:258
+translate schinese ash_gang_611bf1f8:
+
+    # rasha "YA WHAT? WHY!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:259
+translate schinese ash_gang_e9bc98de:
+
+    # hvet "Kinda obvious."
+    hvet ""
+
+# game/scripts/ash_events.rpy:260
+translate schinese ash_gang_ff245bb8:
+
+    # rasha "Oh, fuck you, man! I neva win!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:262
+translate schinese ash_gang_3734c7e3:
+
+    # henry "Oh hey guys, when did you get here?"
+    henry ""
+
+# game/scripts/ash_events.rpy:263
+translate schinese ash_gang_880edcf7:
+
+    # a "...Are you high again?"
+    a ""
+
+# game/scripts/ash_events.rpy:264
+translate schinese ash_gang_28387986:
+
+    # henry "Hehhh, not yet man, not yet..."
+    henry ""
+
+# game/scripts/ash_events.rpy:267
+translate schinese ash_gang_579da9a1:
+
+    # rasha "Tsk! For fuck sake, girlie, how do ya deal with this BLITHERIN' sun!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:268
+translate schinese ash_gang_c5dacb93:
+
+    # a "You get used to it..."
+    a ""
+
+# game/scripts/ash_events.rpy:269
+translate schinese ash_gang_cdabd7be:
+
+    # rasha "I wasn't made for these conditions! Nobody told me it was day! Ya owe me, Nia! HAZARD PAY!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:270
+translate schinese ash_gang_9503356c:
+
+    # nia "Shut up."
+    nia ""
+
+# game/scripts/ash_events.rpy:274
+translate schinese ash_gang_75024ea3:
+
+    # rasha "I hope ya got a plan for how ya gon' take 'em out. You three are NO MATCH for a whole gang of 'em. Any of you even got a gun!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:275
+translate schinese ash_gang_89c352ed:
+
+    # nia "We'll figure it out, Rasha."
+    nia ""
+
+# game/scripts/ash_events.rpy:276
+translate schinese ash_gang_00d35d98:
+
+    # a "Just lead us there, that's all we need."
+    a ""
+
+# game/scripts/ash_events.rpy:277
+translate schinese ash_gang_400e0424:
+
+    # rasha "So ya got no plan! I'm riskin' a whole lot here just bein' on the surface! And for what!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:278
+translate schinese ash_gang_11d512d6:
+
+    # a "For Ren."
+    a ""
+
+# game/scripts/ash_events.rpy:280
+translate schinese ash_gang_592b6e70:
+
+    # rasha "Tsk! Me no care 'bout Ren! Me want peace and freedom!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:281
+translate schinese ash_gang_bc8f4a60:
+
+    # rasha "{size=-5}{i}And maybe a little profit too,{/i}{/size} but peace first!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:282
+translate schinese ash_gang_32454d57:
+
+    # a "We {i}all{/i} want peace and freedom. That's why we're here for Ren..."
+    a ""
+
+# game/scripts/ash_events.rpy:283
+translate schinese ash_gang_f8695ec0:
+
+    # rasha "Nah, ya ain't got no plan! Ya ain't got no weapons, 'cept that little shank ya got! Ya no match for all 'em!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:285
+translate schinese ash_gang_7d51e0d6:
+
+    # rasha "And here's ya bat at, Nia!? EH??" with ssshake
+    rasha "" with ssshake
+
+# game/scripts/ash_events.rpy:286
+translate schinese ash_gang_b65e74c8:
+
+    # nia "Uh-"
+    nia ""
+
+# game/scripts/ash_events.rpy:287
+translate schinese ash_gang_6b737845:
+
+    # rasha "I neva seen ya without ya bat! How ya gon' take 'em out without any weapons!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:288
+translate schinese ash_gang_0e444ffb:
+
+    # nia "I-"
+    nia ""
+
+# game/scripts/ash_events.rpy:289
+translate schinese ash_gang_e2875e27:
+
+    # rasha "NO! Ya leadin' me into a trap! I knew something smelt fishy! Ya tradin' me for Ren, is that right!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:291
+translate schinese ash_gang_866ae340:
+
+    # rasha "EY!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:292
+translate schinese ash_gang_073b36ab:
+
+    # nia "No one's trapping you, Rasha!"
+    nia ""
+
+# game/scripts/ash_events.rpy:293
+translate schinese ash_gang_6098dcc4:
+
+    # nia "I didn't bring my bat because I don't plan to fight anyone today."
+    nia ""
+
+# game/scripts/ash_events.rpy:294
+translate schinese ash_gang_6ca22e37:
+
+    # rasha "That wasn't the deal!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:295
+translate schinese ash_gang_81eba4fd:
+
+    # nia "You want us to take them out? It's not going to happen without knowing what we're up against!"
+    nia ""
+
+# game/scripts/ash_events.rpy:297
+translate schinese ash_gang_ec5f0751:
+
+    # nia "How are we going to know that, if we don't even know where they are!"
+    nia ""
+
+# game/scripts/ash_events.rpy:298
+translate schinese ash_gang_6cf9f03d:
+
+    # rasha "Tsssk..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:299
+translate schinese ash_gang_6377135a:
+
+    # nia "We can't just walk in and blow up the place, Rasha! They'll take us as a threat if we walk in with weapons!"
+    nia ""
+
+# game/scripts/ash_events.rpy:300
+translate schinese ash_gang_244d708a:
+
+    # rasha "Yaya. Ya smart... Sorry for doubtin' you."
+    rasha ""
+
+# game/scripts/ash_events.rpy:302
+translate schinese ash_gang_81e1081b:
+
+    # rasha "Ya see that buildin' stickin' out like a sore thumb? They on the third floor."
+    rasha ""
+
+# game/scripts/ash_events.rpy:304
+translate schinese ash_gang_6ec64fb3:
+
+    # nia "Which door?"
+    nia ""
+
+# game/scripts/ash_events.rpy:305
+translate schinese ash_gang_bd1bbcec:
+
+    # rasha "Door? HAH! They own the whole floor!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:306
+translate schinese ash_gang_54be731a:
+
+    # nia "Isn't that a hotel?"
+    nia ""
+
+# game/scripts/ash_events.rpy:307
+translate schinese ash_gang_4fb355f6:
+
+    # rasha "Sure is. Less of a paper trail, I 'spose."
+    rasha ""
+
+# game/scripts/ash_events.rpy:309
+translate schinese ash_gang_866ac1d3:
+
+    # nia "What are we waiting for then? Let's go."
+    nia ""
+
+# game/scripts/ash_events.rpy:310
+translate schinese ash_gang_6be14cc5:
+
+    # rasha "Right... I'll take ya to the service elevator."
+    rasha ""
+
+# game/scripts/ash_events.rpy:313
+translate schinese ash_gang_8ec2e4ea:
+
+    # rasha "Alright... here we are. Just behind here is the kitchen, take a right, and ya find your elevator. Take it to the third floor, and ya will meet ya man."
+    rasha ""
+
+# game/scripts/ash_events.rpy:315
+translate schinese ash_gang_68bea28f:
+
+    # rasha "With that, me debts are paid. Good luck, Ashley!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:317
+translate schinese ash_gang_85250105:
+
+    # nia "Hold on..." with ssshake
+    nia "" with ssshake
+
+# game/scripts/ash_events.rpy:318
+translate schinese ash_gang_7859ebb6:
+
+    # rasha "What now!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:319
+translate schinese ash_gang_16be91dd:
+
+    # nia "How do we know {i}you're{/i} not leading us into a trap?"
+    nia ""
+
+# game/scripts/ash_events.rpy:320
+translate schinese ash_gang_7ebdb304:
+
+    # rasha "Are ya kiddin' me!? Why would I do that??"
+    rasha ""
+
+# game/scripts/ash_events.rpy:321
+translate schinese ash_gang_6ea3b730:
+
+    # a "Maybe your whole story about Ren was a lie..."
+    a ""
+
+# game/scripts/ash_events.rpy:323
+translate schinese ash_gang_e8bf24e9:
+
+    # rasha "Bullshit! If it's one thing I'm not, it's a liar!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:324
+translate schinese ash_gang_3cb3b89e:
+
+    # c "We're going to need you with us as insurance."
+    c ""
+
+# game/scripts/ash_events.rpy:325
+translate schinese ash_gang_faa475c8:
+
+    # rasha "NO! NO WAY! Not happening!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:327
+translate schinese ash_gang_38afd12a:
+
+    # nia "We'll protect you, don't worry."
+    nia ""
+
+# game/scripts/ash_events.rpy:328
+translate schinese ash_gang_778996ab:
+
+    # rasha "With what!? With what, woman!? I'm a frail old man, I can't fight no one!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:329
+translate schinese ash_gang_141a385a:
+
+    # nia "You may have paid your debts to Ashley, but what about Lowtown?"
+    nia ""
+
+# game/scripts/ash_events.rpy:330
+translate schinese ash_gang_110edeb6:
+
+    # rasha "Watchu talkin' about!? They love me now!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:331
+translate schinese ash_gang_29fe2acc:
+
+    # nia "Rasha the Gallant... sounds like a good title, right? Do this for us, and I'll make sure they know you as a brave hero."
+    nia ""
+
+# game/scripts/ash_events.rpy:332
+translate schinese ash_gang_042403db:
+
+    # rasha "What need have I of titles, woman!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:333
+translate schinese ash_gang_c6ac8ce8:
+
+    # nia "More sales."
+    nia ""
+
+# game/scripts/ash_events.rpy:334
+translate schinese ash_gang_6cf9f03d_1:
+
+    # rasha "Tsssk..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:335
+translate schinese ash_gang_9248bd34:
+
+    # rasha "Seein' as ya forcin' me, I got no choice! But here's the deal... TWENTY packs of toilet paper by the end of the week! Not twenty ROLLS! TWENTY PACKS! The big ones!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:336
+translate schinese ash_gang_6ec9eb97:
+
+    # c "I'll get you that..."
+    c ""
+
+# game/scripts/ash_events.rpy:337
+translate schinese ash_gang_0e39776b:
+
+    # rasha "Tsk... fine!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:338
+translate schinese ash_gang_0b8a133d:
+
+    # rasha "This better not be a trap, Nia! Ya really gettin' on me nerves!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:342
+translate schinese ash_gang_bdae101d:
+
+    # rasha "Nnngh...!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:343
+translate schinese ash_gang_78792d53:
+
+    # rasha "What am I 'spose to say to the boss, EH? I owe him money, ya know!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:344
+translate schinese ash_gang_b9ac63b0:
+
+    # nia "I know... He's not going to kill someone that owes him money. You can just disappear in Lowtown again."
+    nia ""
+
+# game/scripts/ash_events.rpy:345
+translate schinese ash_gang_4ac4b0f2:
+
+    # rasha "Easier said than done! I just hope MY former boss isn't here..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:346
+translate schinese ash_gang_6eb41a3e:
+
+    # c "Rasha, if anyone's leading us into a trap, it's you. You worked with them."
+    c ""
+
+# game/scripts/ash_events.rpy:347
+translate schinese ash_gang_00cbba1c:
+
+    # rasha "I AIN'T TRAPPIN' YA!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:348
+translate schinese ash_gang_912c5a5a:
+
+    # c "Let me finish...\nNeither of us have anything to gain from trapping the other, and all of us want them to stop hurting people. We need to work as a team."
+    c ""
+
+# game/scripts/ash_events.rpy:349
+translate schinese ash_gang_6eb5604b:
+
+    # rasha "Tsssk... {i}Team...{/i}\nNothing good comes from teams! Only good coming, comes from deals."
+    rasha ""
+
+# game/scripts/ash_events.rpy:350
+translate schinese ash_gang_251d5fb1:
+
+    # a "Damn, Rasha. Who hurt you?"
+    a ""
+
+# game/scripts/ash_events.rpy:352
+translate schinese ash_gang_10029665:
+
+    # "*ding*"
+    ""
+
+# game/scripts/ash_events.rpy:353
+translate schinese ash_gang_86f77074:
+
+    # rasha "{i}Shhh! Let me do the talkin'.{/i}"
+    rasha ""
+
+# game/scripts/ash_events.rpy:355
+translate schinese ash_gang_60016604:
+
+    # nia "..."
+    nia ""
+
+# game/scripts/ash_events.rpy:356
+translate schinese ash_gang_a0d75626:
+
+    # a "{i}Oh, this place is nice...!{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:357
+translate schinese ash_gang_0c9f5a70:
+
+    # gang3 "Who the fuck are you!?"
+    gang3 ""
+
+# game/scripts/ash_events.rpy:358
+translate schinese ash_gang_2554a967:
+
+    # gang1 "That's Rasha. We've been waiting for him to show up..."
+    gang1 ""
+
+# game/scripts/ash_events.rpy:359
+translate schinese ash_gang_cc675fd8:
+
+    # gang3 "Tourists... Rasha, you a pimp now?"
+    gang3 ""
+
+# game/scripts/ash_events.rpy:360
+translate schinese ash_gang_355b3803:
+
+    # rasha "Tsk, nah man! Not unless ya like headaches..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:362
+translate schinese ash_gang_9114c480:
+
+    # rasha "My friends! Wagwan? Been a while, eh?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:363
+translate schinese ash_gang_97028708:
+
+    # gang1 "Who's them?"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:364
+translate schinese ash_gang_85eb902b:
+
+    # rasha "We're here to do business with the big boss! Been some trouble in Lowtown."
+    rasha ""
+
+# game/scripts/ash_events.rpy:365
+translate schinese ash_gang_c28a51f1:
+
+    # gang2 "Rasha..."
+    gang2 ""
+
+# game/scripts/ash_events.rpy:367
+translate schinese ash_gang_2ed7aab3:
+
+    # rasha "Wagwan! Long time no see!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:368
+translate schinese ash_gang_2a728cf6:
+
+    # c "{i}(Shit, I've seen them before... but where?){/i}"
+    c ""
+
+# game/scripts/ash_events.rpy:370
+translate schinese ash_gang_04eb8678:
+
+    # c "{i}(Fuck, it's them...){/i}"
+    c ""
+
+# game/scripts/ash_events.rpy:372
+translate schinese ash_gang_a59c4162:
+
+    # gang2 "Boss wants a word."
+    gang2 ""
+
+# game/scripts/ash_events.rpy:373
+translate schinese ash_gang_6d83e9f4:
+
+    # rasha "That's why I'm here, ya idiot! Me always pay me debts, don't ya worry. Been workin' on somethin' real hush-hush."
+    rasha ""
+
+# game/scripts/ash_events.rpy:375
+translate schinese ash_gang_a86757d1:
+
+    # gang2 "What did you call me...?"
+    gang2 ""
+
+# game/scripts/ash_events.rpy:376
+translate schinese ash_gang_b1fe5891:
+
+    # rasha "Tsk, ya heard me. I ain't 'fraid a' you."
+    rasha ""
+
+# game/scripts/ash_events.rpy:377
+translate schinese ash_gang_63a2edeb:
+
+    # gang2 "I can change that."
+    gang2 ""
+
+# game/scripts/ash_events.rpy:378
+translate schinese ash_gang_acf5a76c:
+
+    # rasha "Ya just muscle, man! Boss an' me, we businessmen. Me profit pay ya lunch, so step aside! This real business. End a' story!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:380
+translate schinese ash_gang_2ae1df95:
+
+    # gang1 "Ya can't just walk in here without an appointment. And what's with them? We don't take tourists."
+    gang1 ""
+
+# game/scripts/ash_events.rpy:381
+translate schinese ash_gang_6d824fc5:
+
+    # rasha "Appointment? Yeah, with ya boss-man, not you! Move aside, rat-face!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:382
+translate schinese ash_gang_e3150186:
+
+    # rasha "Go on then! Run'tell ya boss me here, or wanna hold up Rasha all day?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:383
+translate schinese ash_gang_c8dc969b:
+
+    # gang1 "YOUR boss say you got robbed, held up, forced out. Ain't heard from you since... And why the FUCK you draggin' tourists here, Rasha?"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:384
+translate schinese ash_gang_96110e5b:
+
+    # gang1 "These the folks that robbed you? How do we know they're not runnin' you? That ones a fuckin' ninja! And who's that dude!?"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:386
+translate schinese ash_gang_14f864f9:
+
+    # rasha "Runnin' me, eh? Ya have no idea how funny that is..."
+    rasha ""
+
+# game/scripts/ash_events.rpy:387
+translate schinese ash_gang_723dea1c:
+
+    # rasha "You're a fuckin' GOON! Ain't no one wanna hear ya talk! Take us to the boss-man, or it'll be YOUR funeral!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:388
+translate schinese ash_gang_0f461a19:
+
+    # gang1 "I should fuckin' kill you, Rasha!"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:389
+translate schinese ash_gang_679fdab8:
+
+    # rasha "Go ahead an' try! Ya see the girl behind me? That's THE LIBERATOR! Heard of her? She'll kill ya in a blink of an eye! Lightning fast!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:390
+translate schinese ash_gang_a2159767:
+
+    # gang1 "YOU'RE A DEAD MAN!"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:392
+translate schinese ash_gang_fe8c53c7:
+
+    # a "LISTEN HERE YOU LITTLE SHIT!!" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:393
+translate schinese ash_gang_8701dcbf:
+
+    # rasha "WHAT THE HELL!?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:394
+translate schinese ash_gang_54ed63ce:
+
+    # a "I don't give a FUCK who you are, YOU WORK FOR ME! You think you own these streets? OLD TOWN DON'T EVEN KNOW YOUR NAME!"
+    a ""
+
+# game/scripts/ash_events.rpy:396
+translate schinese ash_gang_e0dabc6c:
+
+    # a "I'M NOT HERE TO PLAY GAMES WITH SOMEONE'S FUCKING BITCH! SIT THE FUCK DOWN!!"
+    a ""
+
+# game/scripts/ash_events.rpy:397
+translate schinese ash_gang_b7b93833:
+
+    # gang1 "ALRIGHT! God damn! What the fuck!?"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:399
+translate schinese ash_gang_6b7eeafa:
+
+    # gang1 "Fuckin' chill! Give us a warning before you just walk in then, alright!? We're not supposed to let anyone in!"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:400
+translate schinese ash_gang_7a6feed6:
+
+    # a "WHERE'S THE BOSS!?"
+    a ""
+
+# game/scripts/ash_events.rpy:401
+translate schinese ash_gang_98d70100:
+
+    # gang1 "Room 302! I'll take you there!"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:403
+translate schinese ash_gang_3a49fd8d:
+
+    # a "Good boy."
+    a ""
+
+# game/scripts/ash_events.rpy:404
+translate schinese ash_gang_2ab131f3:
+
+    # gang1 "The hell was that!? You see that!?"
+    gang1 ""
+
+# game/scripts/ash_events.rpy:405
+translate schinese ash_gang_f59c7552:
+
+    # a "Get moving!"
+    a ""
+
+# game/scripts/ash_events.rpy:406
+translate schinese ash_gang_329961a9:
+
+    # gang1 "Yeah yeah..."
+    gang1 ""
+
+# game/scripts/ash_events.rpy:408
+translate schinese ash_gang_4127ed50:
+
+    # c "{i}{size=-5}Nice acting, Ash...{/size}{/i}"
+    c ""
+
+# game/scripts/ash_events.rpy:409
+translate schinese ash_gang_8b78c613:
+
+    # rasha "{i}{size=-5}Acting!? Bombaclaat! Me nearly believe that meself! How ya act like that!?{/size}{/i}"
+    rasha ""
+
+# game/scripts/ash_events.rpy:410
+translate schinese ash_gang_7e13b2e6:
+
+    # nia "{i}{size=-5}What the fuck was that, Ashley??{/size}{/i}"
+    nia ""
+
+# game/scripts/ash_events.rpy:411
+translate schinese ash_gang_ad55854b:
+
+    # a "A warning. Don't fuck with my family!"
+    a ""
+
+# game/scripts/ash_events.rpy:413
+translate schinese ash_gang_c5c92c65:
+
+    # gang2 "This is him..."
+    gang2 ""
+
+# game/scripts/ash_events.rpy:414
+translate schinese ash_gang_d34ac33b:
+
+    # c "{i}Hold up, Ashley.{/i}"
+    c ""
+
+# game/scripts/ash_events.rpy:415
+translate schinese ash_gang_11ccba35:
+
+    # rasha "Let me speak to him!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:416
+translate schinese ash_gang_7e265287:
+
+    # a "What's with all this shit on the floor!?"
+    a ""
+
+# game/scripts/ash_events.rpy:417
+translate schinese ash_gang_c8a9c540:
+
+    # gang2 "Bad service... he might be a little upset right now, so take it easy."
+    gang2 ""
+
+# game/scripts/ash_events.rpy:420
+translate schinese ash_gang_2db10b17:
+
+    # rasha "*knock, knock, knock*\nEy man! It's Rasha! Here for some business!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:421
+translate schinese ash_gang_93cf30d6:
+
+    # q "{size=-5}Who?{/size}"
+    q ""
+
+# game/scripts/ash_events.rpy:422
+translate schinese ash_gang_024c3901:
+
+    # q "{size=-5}Let him in.{/size}"
+    q ""
+
+# game/scripts/ash_events.rpy:423
+translate schinese ash_gang_702997b1:
+
+    # q "{size=-5}Ugh.{/size}"
+    q ""
+
+# game/scripts/ash_events.rpy:425
+translate schinese ash_gang_b19a4a1b:
+
+    # q "Yes...?"
+    q ""
+
+# game/scripts/ash_events.rpy:426
+translate schinese ash_gang_20b64efe:
+
+    # rasha "Ey Von! You got a new girlie, eh?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:427
+translate schinese ash_gang_e4a1f26c:
+
+    # von "Nngh..."
+    von ""
+
+# game/scripts/ash_events.rpy:428
+translate schinese ash_gang_a7e6c341:
+
+    # rasha "Well? Ya gon' let us in, or not?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:429
+translate schinese ash_gang_54bdffe6:
+
+    # von "Door's open, ain't it?"
+    von ""
+
+# game/scripts/ash_events.rpy:431
+translate schinese ash_gang_f79e4f32:
+
+    # rasha "Wagwan boss-man? Ya well?"
+    rasha ""
+
+# game/scripts/ash_events.rpy:432
+translate schinese ash_gang_5cba389b:
+
+    # von "Tch... you brought tourists."
+    von ""
+
+# game/scripts/ash_events.rpy:433
+translate schinese ash_gang_f25b1404:
+
+    # rasha "Ahh... We just need a word, that's all."
+    rasha ""
+
+# game/scripts/ash_events.rpy:434
+translate schinese ash_gang_4f59a1a0:
+
+    # von "You owe us money, Rasha. Lots."
+    von ""
+
+# game/scripts/ash_events.rpy:435
+translate schinese ash_gang_d930e4db:
+
+    # rasha "And you'll get every crown, man! You know how it is. Rasha always pays up."
+    rasha ""
+
+# game/scripts/ash_events.rpy:437
+translate schinese ash_gang_90feacaa:
+
+    # rasha "Tsk! Why ya so pushy, man??"
+    rasha ""
+
+# game/scripts/ash_events.rpy:438
+translate schinese ash_gang_44df1c24:
+
+    # a "I'm here for-!"
+    a ""
+
+# game/scripts/ash_events.rpy:440
+translate schinese ash_gang_478f4e15:
+
+    # a "-Numbers...?"
+    a ""
+
+# game/scripts/ash_events.rpy:442
+translate schinese ash_gang_5edf9b98:
+
+    # num "Ashley... what was surprise."
+    num ""
+
+# game/scripts/ash_events.rpy:443
+translate schinese ash_gang_30245b15:
+
+    # a "What are you doing here, Simon!? You work for them now!?"
+    a ""
+
+# game/scripts/ash_events.rpy:445
+translate schinese ash_gang_bf5b74d1:
+
+    # von "HEY! You're talking to me." with ssshake
+    von "" with ssshake
+
+# game/scripts/ash_events.rpy:446
+translate schinese ash_gang_094b77b8:
+
+    # nia "So you're the boss..."
+    nia ""
+
+# game/scripts/ash_events.rpy:447
+translate schinese ash_gang_81fcada8:
+
+    # rasha "Listen Von, me bredren here-"
+    rasha ""
+
+# game/scripts/ash_events.rpy:448
+translate schinese ash_gang_33d7c824:
+
+    # a "-Where's Ren!? I know she belonged to you. I know you gave her to The Ascendants! Give me names!"
+    a ""
+
+# game/scripts/ash_events.rpy:449
+translate schinese ash_gang_8c30dff3:
+
+    # von "Ren..."
+    von ""
+
+# game/scripts/ash_events.rpy:451
+translate schinese ash_gang_4dff0ae4:
+
+    # gang2 "You guys're looking for Ren? Those fucking Ascendant assholes took her!"
+    gang2 ""
+
+# game/scripts/ash_events.rpy:452
+translate schinese ash_gang_7f682842:
+
+    # von "HEY! Shut your fucking mouth!"
+    von ""
+
+# game/scripts/ash_events.rpy:454
+translate schinese ash_gang_63454b09:
+
+    # gang2 "We had no choice, and you fucks just bent the knee! She earned us a lot of money, and you assholes just GAVE her away!"
+    gang2 ""
+
+# game/scripts/ash_events.rpy:455
+translate schinese ash_gang_ae436547:
+
+    # von "Shut the fuck up, you little bitch! You are not apart of this."
+    von ""
+
+# game/scripts/ash_events.rpy:456
+translate schinese ash_gang_c27f9202:
+
+    # gang2 "I was here before you, and I'll be here WAY after you! I was born in these fuckin' streets. You don't know shit!"
+    gang2 ""
+
+# game/scripts/ash_events.rpy:457
+translate schinese ash_gang_3d095824:
+
+    # von "Yeah? You're getting paid more now, aren't ya?"
+    von ""
+
+# game/scripts/ash_events.rpy:459
+translate schinese ash_gang_b1bf44cf:
+
+    # gang2 "..."
+    gang2 ""
+
+# game/scripts/ash_events.rpy:460
+translate schinese ash_gang_d7c70360:
+
+    # von "So shut the fuck up!"
+    von ""
+
+# game/scripts/ash_events.rpy:462
+translate schinese ash_gang_f071cf55:
+
+    # a "?"
+    a ""
+
+# game/scripts/ash_events.rpy:463
+translate schinese ash_gang_ee444420:
+
+    # nia "...?"
+    nia ""
+
+# game/scripts/ash_events.rpy:465
+translate schinese ash_gang_339caba7:
+
+    # von "Ren, huh... and what's your stake in her?"
+    von ""
+
+# game/scripts/ash_events.rpy:466
+translate schinese ash_gang_e6f412ba:
+
+    # a "She's mine! She was sold to a call center, then you bought her five years ago. But she's MINE!"
+    a ""
+
+# game/scripts/ash_events.rpy:467
+translate schinese ash_gang_476e6e90:
+
+    # von "You did your research..."
+    von ""
+
+# game/scripts/ash_events.rpy:468
+translate schinese ash_gang_36cfcbbb:
+
+    # von "It's cute though. You walk in here, making demands... No backup plan, right? Expecting us to just hand over whatever you want. 'Cuz you asked nicely, right?"
+    von ""
+
+# game/scripts/ash_events.rpy:469
+translate schinese ash_gang_839dbadf:
+
+    # a "Sounds like she was taken from you too, huh? You some kinda bitch now!? Let anyone walk over you!?"
+    a ""
+
+# game/scripts/ash_events.rpy:470
+translate schinese ash_gang_16e7677a:
+
+    # nia "{size=-7}{i}Ashley...!{/size}{/i}"
+    nia ""
+
+# game/scripts/ash_events.rpy:472
+translate schinese ash_gang_bb13afea:
+
+    # von "Hah! HAHAH! You got fire, girl! You're one of us, huh?"
+    von ""
+
+# game/scripts/ash_events.rpy:473
+translate schinese ash_gang_bc5ea0d9:
+
+    # a "Born and raised..."
+    a ""
+
+# game/scripts/ash_events.rpy:474
+translate schinese ash_gang_8c2bbfc7:
+
+    # woman "She looks like a kid to me..."
+    woman ""
+
+# game/scripts/ash_events.rpy:476
+translate schinese ash_gang_647149fd:
+
+    # von "SHUT UP, BITCH! You don't know what it's like to grow up in Old Town!"
+    von ""
+
+# game/scripts/ash_events.rpy:477
+translate schinese ash_gang_1ea39e74:
+
+    # woman "Ugh."
+    woman ""
+
+# game/scripts/ash_events.rpy:479
+translate schinese ash_gang_9f2e1dc1:
+
+    # von "We didn't sell her, we delivered her. When the family calls, you don't let it ring. You nod. You smile..."
+    von ""
+
+# game/scripts/ash_events.rpy:480
+translate schinese ash_gang_5a614f88:
+
+    # a "Where is she now?"
+    a ""
+
+# game/scripts/ash_events.rpy:481
+translate schinese ash_gang_2b23b497:
+
+    # von "Fuck if I know. Not our problem anymore."
+    von ""
+
+# game/scripts/ash_events.rpy:482
+translate schinese ash_gang_8b016333:
+
+    # a "It is now..."
+    a ""
+
+# game/scripts/ash_events.rpy:484
+translate schinese ash_gang_3c0a4d35:
+
+    # von "HAHAH! Lotta bark for a little-"
+    von ""
+
+# game/scripts/ash_events.rpy:485
+translate schinese ash_gang_d342cfc2:
+
+    # sim "-Ashley. You've changed..."
+    sim ""
+
+# game/scripts/ash_events.rpy:487
+translate schinese ash_gang_0fa2e7a4:
+
+    # sim "Not that scared little girl anymore, huh?"
+    sim ""
+
+# game/scripts/ash_events.rpy:488
+translate schinese ash_gang_2b67bd52:
+
+    # a "SHUT THE FUCK UP, NUMBERS! I don't have time for you!"
+    a ""
+
+# game/scripts/ash_events.rpy:496
+translate schinese ash_gang_46c0d1ab:
+
+    # von "I'll-! I'LL FUCKING KILL YOU, BITCH!" with ssshake
+    von "" with ssshake
+
+# game/scripts/ash_events.rpy:497
+translate schinese ash_gang_f1b60897:
+
+    # c "HEY!!"
+    c ""
+
+# game/scripts/ash_events.rpy:499
+translate schinese ash_gang_61c37627:
+
+    # sim "Von... enough."
+    sim ""
+
+# game/scripts/ash_events.rpy:500
+translate schinese ash_gang_039c5078:
+
+    # von "But-! She just-!"
+    von ""
+
+# game/scripts/ash_events.rpy:501
+translate schinese ash_gang_18ffde24:
+
+    # sim "You make us look weak, Von. So emotional..."
+    sim ""
+
+# game/scripts/ash_events.rpy:503
+translate schinese ash_gang_379e980b:
+
+    # sim "Control yourself."
+    sim ""
+
+# game/scripts/ash_events.rpy:504
+translate schinese ash_gang_71ab0e77:
+
+    # von "Sorry, boss..."
+    von ""
+
+# game/scripts/ash_events.rpy:505
+translate schinese ash_gang_4fecbbb3:
+
+    # a "!!!"
+    a ""
+
+# game/scripts/ash_events.rpy:507
+translate schinese ash_gang_f560a9a9:
+
+    # nia "...You? YOU run the Blue Dragons!?"
+    nia ""
+
+# game/scripts/ash_events.rpy:508
+translate schinese ash_gang_e642d29f:
+
+    # c "No way..."
+    c ""
+
+# game/scripts/ash_events.rpy:510
+translate schinese ash_gang_8bfb1787:
+
+    # sim "Everybody out. Von, you too."
+    sim ""
+
+# game/scripts/ash_events.rpy:511
+translate schinese ash_gang_eec77349:
+
+    # von "But... you'll be alone! With them!"
+    von ""
+
+# game/scripts/ash_events.rpy:512
+translate schinese ash_gang_83185da7:
+
+    # sim "Get out, Von!"
+    sim ""
+
+# game/scripts/ash_events.rpy:513
+translate schinese ash_gang_8e0d8940:
+
+    # von "Nngh... Yes sir..."
+    von ""
+
+# game/scripts/ash_events.rpy:515
+translate schinese ash_gang_bc64c884:
+
+    # rasha "Neva thought I'd see the day! This guy!? The boss!? Lord have mercy, a fuckin' nerd!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:516
+translate schinese ash_gang_c63859e9:
+
+    # sim "Watch your mouth, Rasha. You still work for me."
+    sim ""
+
+# game/scripts/ash_events.rpy:517
+translate schinese ash_gang_5542fb45:
+
+    # rasha "{i}Apparently so...!{/i}"
+    rasha ""
+
+# game/scripts/ash_events.rpy:519
+translate schinese ash_gang_b65388fb:
+
+    # sim "You always did have a talent for making my life difficult, Ashley. What do you want?"
+    sim ""
+
+# game/scripts/ash_events.rpy:520
+translate schinese ash_gang_1d5f7394:
+
+    # a "You know why I'm here. I want Ren back!"
+    a ""
+
+# game/scripts/ash_events.rpy:521
+translate schinese ash_gang_a1a21437:
+
+    # c "How do you know this guy, Ash?"
+    c ""
+
+# game/scripts/ash_events.rpy:522
+translate schinese ash_gang_7053b852:
+
+    # sim "We were neighbors at the trailer park."
+    sim ""
+
+# game/scripts/ash_events.rpy:523
+translate schinese ash_gang_4c1c1c64:
+
+    # a "How did you end up here, Numbers? Why do you work for the Ascendants now??"
+    a ""
+
+# game/scripts/ash_events.rpy:524
+translate schinese ash_gang_a0c09ba6:
+
+    # sim "Ashley, you don't get it... When the family calls, you don't get to say no."
+    sim ""
+
+# game/scripts/ash_events.rpy:525
+translate schinese ash_gang_80ca552b:
+
+    # a "That doesn't explain anything."
+    a ""
+
+# game/scripts/ash_events.rpy:526
+translate schinese ash_gang_26a04f4a:
+
+    # sim "I hacked the wrong guy. They brought me in, saw potential in me. Killed the last boss, and placed me and Von here to fill the power vacuum."
+    sim ""
+
+# game/scripts/ash_events.rpy:528
+translate schinese ash_gang_cac8789c:
+
+    # a "Rgh! You knew Ren! How could you do this to her? You've always found a way out of things!"
+    a ""
+
+# game/scripts/ash_events.rpy:529
+translate schinese ash_gang_d774071f:
+
+    # sim "Not this time... besides, who says I wanted out? They gave me a purpose."
+    sim ""
+
+# game/scripts/ash_events.rpy:530
+translate schinese ash_gang_cb88d9f3:
+
+    # sim "I've brought real wealth into this community, Ashley. We're rich. And we're getting it all by selling naki to the rich."
+    sim ""
+
+# game/scripts/ash_events.rpy:531
+translate schinese ash_gang_72a71f8b:
+
+    # a "Don't tell me you've become a coward! Still mad at your mom, huh? AT LEAST YOU HAD ONE!"
+    a ""
+
+# game/scripts/ash_events.rpy:533
+translate schinese ash_gang_8f8cf615:
+
+    # sim "It's not about courage. It's about survival. You know that just as well as anyone here."
+    sim ""
+
+# game/scripts/ash_events.rpy:534
+translate schinese ash_gang_5a83261a:
+
+    # sim "...And keep my mother out of this..."
+    sim ""
+
+# game/scripts/ash_events.rpy:535
+translate schinese ash_gang_910139b5:
+
+    # nia "So where is she? She was your slave, right? She must have had paperwork."
+    nia ""
+
+# game/scripts/ash_events.rpy:537
+translate schinese ash_gang_e2a55e90:
+
+    # sim "Officially... she's dead. I made sure of it."
+    sim ""
+
+# game/scripts/ash_events.rpy:538
+translate schinese ash_gang_a4e84a5c:
+
+    # sim "Unoffically...? Who can say. Once The Ascendants have you, you're a ghost. I would know."
+    sim ""
+
+# game/scripts/ash_events.rpy:539
+translate schinese ash_gang_ebc00fd2:
+
+    # a "You know more, you always do."
+    a ""
+
+# game/scripts/ash_events.rpy:541
+translate schinese ash_gang_0dacb6f7:
+
+    # sim "Hmph."
+    sim ""
+
+# game/scripts/ash_events.rpy:542
+translate schinese ash_gang_9562b754:
+
+    # sim "You still read people so well, Ashley... I wish I had your intuition. Truly."
+    sim ""
+
+# game/scripts/ash_events.rpy:544
+translate schinese ash_gang_6ea1f944:
+
+    # sim "Yes, I know where The Ascendants operate. I'm the only one outside of the family that does, to my knowledge."
+    sim ""
+
+# game/scripts/ash_events.rpy:545
+translate schinese ash_gang_15236d99:
+
+    # sim "And yes, I'll tell you... for a favor. But you might as well quit while you're alive."
+    sim ""
+
+# game/scripts/ash_events.rpy:546
+translate schinese ash_gang_62d62db5:
+
+    # a "How about I kick your fucking ass!"
+    a ""
+
+# game/scripts/ash_events.rpy:547
+translate schinese ash_gang_1c6c9e21:
+
+    # sim "You could... but you'd die for it."
+    sim ""
+
+# game/scripts/ash_events.rpy:549
+translate schinese ash_gang_455c3870:
+
+    # c "Let's just hear him out, Ashley."
+    c ""
+
+# game/scripts/ash_events.rpy:550
+translate schinese ash_gang_eaa61499:
+
+    # a "What do you want, then..."
+    a ""
+
+# game/scripts/ash_events.rpy:551
+translate schinese ash_gang_a3f1fdbd:
+
+    # sim "Caliber's 13th precinct is currently in possession of some rather incriminating evidence on Von. With this, Von's days as a free man are incredibly limited..."
+    sim ""
+
+# game/scripts/ash_events.rpy:553
+translate schinese ash_gang_faf0b3d2:
+
+    # sim "I need that oaf, as much as I hate to admit it... He's loyal... and makes up for qualities in which I lack."
+    sim ""
+
+# game/scripts/ash_events.rpy:555
+translate schinese ash_gang_ec9d2ed3:
+
+    # sim "If you want to find Ren, you'll steal that evidence and hand it back to me directly."
+    sim ""
+
+# game/scripts/ash_events.rpy:557
+translate schinese ash_gang_8943114c:
+
+    # nia "Are you fucking with us!? We can't steal from the cops! It's impossible!"
+    nia ""
+
+# game/scripts/ash_events.rpy:558
+translate schinese ash_gang_bb8e4b4e:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:560
+translate schinese ash_gang_ac125789:
+
+    # a "Consider it done."
+    a ""
+
+# game/scripts/ash_events.rpy:561
+translate schinese ash_gang_dc247145:
+
+    # nia "WHAT!?"
+    nia ""
+
+# game/scripts/ash_events.rpy:563
+translate schinese ash_gang_0051c153:
+
+    # sim "..."
+    sim ""
+
+# game/scripts/ash_events.rpy:565
+translate schinese ash_gang_a8de6260:
+
+    # sim "...You're serious?"
+    sim ""
+
+# game/scripts/ash_events.rpy:566
+translate schinese ash_gang_f75864c3:
+
+    # a "You'll have it tomorrow."
+    a ""
+
+# game/scripts/ash_events.rpy:567
+translate schinese ash_gang_b92b20e2:
+
+    # nia "Hold on-!"
+    nia ""
+
+# game/scripts/ash_events.rpy:569
+translate schinese ash_gang_f8d0ce1b:
+
+    # a "And when we come back tomorrow, you better throw me a fucking welcome party!"
+    a ""
+
+# game/scripts/ash_events.rpy:570
+translate schinese ash_gang_08c972f2:
+
+    # sim "You... can take your time, Ashley. His court date isn't for another month..."
+    sim ""
+
+# game/scripts/ash_events.rpy:571
+translate schinese ash_gang_e0f2b097:
+
+    # a "You'll have it... {u}TOMORROW!{/u}"
+    a ""
+
+# game/scripts/ash_events.rpy:572
+translate schinese ash_gang_f6ad7c05:
+
+    # sim "Okay then... I'll be waiting."
+    sim ""
+
+# game/scripts/ash_events.rpy:573
+translate schinese ash_gang_5a1d1082:
+
+    # a "Let's go."
+    a ""
+
+# game/scripts/ash_events.rpy:575
+translate schinese ash_gang_b7f7298c:
+
+    # sim "Hold on! We'll be holding Rasha as collateral. I need a word..."
+    sim ""
+
+# game/scripts/ash_events.rpy:576
+translate schinese ash_gang_3dc67781:
+
+    # a "Don't care. Let's go!"
+    a ""
+
+# game/scripts/ash_events.rpy:578
+translate schinese ash_gang_9c22a6e1:
+
+    # rasha "You WHAT!? Oh you little-!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:579
+translate schinese ash_gang_0c43e37a:
+
+    # c "-Watch your mouth, Rasha. We'll be back for you."
+    c ""
+
+# game/scripts/ash_events.rpy:580
+translate schinese ash_gang_507cf526:
+
+    # rasha "Like hell ya will!"
+    rasha ""
+
+# game/scripts/ash_events.rpy:582
+translate schinese ash_gang_1a770f94:
+
+    # von "Hmmm..."
+    von ""
+
+# game/scripts/ash_events.rpy:584
+translate schinese ash_gang_670a550e:
+
+    # von "Uhp-uhp-uhp!"
+    von ""
+
+# game/scripts/ash_events.rpy:586
+translate schinese ash_gang_9ba377fa:
+
+    # von "..."
+    von ""
+
+# game/scripts/ash_events.rpy:587
+translate schinese ash_gang_bb8e4b4e_1:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:588
+translate schinese ash_gang_9ba377fa_1:
+
+    # von "..."
+    von ""
+
+# game/scripts/ash_events.rpy:591
+translate schinese ash_gang_b8c2da52:
+
+    # von "Agh!" with ssshake
+    von "" with ssshake
+
+# game/scripts/ash_events.rpy:592
+translate schinese ash_gang_a2b0cd35:
+
+    # a "MOVE!"
+    a ""
+
+# game/scripts/ash_events.rpy:593
+translate schinese ash_gang_c82b54e5:
+
+    # sim "Let them through, Von."
+    sim ""
+
+# game/scripts/ash_events.rpy:595
+translate schinese ash_gang_5a3cfd4c:
+
+    # a "Didn't your mother ever teach you manners?"
+    a ""
+
+# game/scripts/ash_events.rpy:596
+translate schinese ash_gang_9ba377fa_2:
+
+    # von "..."
+    von ""
+
+# game/scripts/ash_events.rpy:597
+translate schinese ash_gang_97016968:
+
+    # a "Mhm."
+    a ""
+
+# game/scripts/ash_events.rpy:599
+translate schinese ash_gang_426f4491:
+
+    # von "Boss... what kind of deal did you give them?"
+    von ""
+
+# game/scripts/ash_events.rpy:600
+translate schinese ash_gang_679aca19:
+
+    # sim "I gave her an impossible task... and she took it with zeal. I... wasn't expecting this outcome."
+    sim ""
+
+# game/scripts/ash_events.rpy:601
+translate schinese ash_gang_de0b6801:
+
+    # von "We can't take heat from the family..."
+    von ""
+
+# game/scripts/ash_events.rpy:602
+translate schinese ash_gang_c67ec2a3:
+
+    # sim "It's no concern. If the police don't get her, The Ascendants surely will."
+    sim ""
+
+# game/scripts/ash_events.rpy:606
+translate schinese ash_gang_93851ba4:
+
+    # a "*exhale*... that was exhausting..."
+    a ""
+
+# game/scripts/ash_events.rpy:607
+translate schinese ash_gang_df8cd9ae:
+
+    # nia "Ashley, what did you get us in to!? I didn't agree to this!"
+    nia ""
+
+# game/scripts/ash_events.rpy:608
+translate schinese ash_gang_8f3126cb:
+
+    # a "We'll handle it, Nia..."
+    a ""
+
+# game/scripts/ash_events.rpy:609
+translate schinese ash_gang_99861904:
+
+    # nia "Are you fucking kidding me!? It's a suicide mission! I know you love Ren, but-"
+    nia ""
+
+# game/scripts/ash_events.rpy:611
+translate schinese ash_gang_93990ece:
+
+    # c "-Are you going to tell her, Ash?"
+    c ""
+
+# game/scripts/ash_events.rpy:612
+translate schinese ash_gang_e367541d:
+
+    # nia "What? Tell me what??"
+    nia ""
+
+# game/scripts/ash_events.rpy:613
+translate schinese ash_gang_f50b68f5:
+
+    # a "You guys can come out now."
+    a ""
+
+# game/scripts/ash_events.rpy:615
+translate schinese ash_gang_cde249ce:
+
+    # runa "I am {i}not{/i} wasting a charge on proving anything to your friend."
+    runa ""
+
+# game/scripts/ash_events.rpy:618
+translate schinese ash_gang_0ed8f4e0:
+
+    # zoia "I will! Hello~! You can call me Zoia."
+    zoia ""
+
+# game/scripts/ash_events.rpy:619
+translate schinese ash_gang_37b77133:
+
+    # nia "Wh-What!? Is- is that-!?"
+    nia ""
+
+# game/scripts/ash_events.rpy:620
+translate schinese ash_gang_f5da1008:
+
+    # nia "Oh my god...!"
+    nia ""
+
+# game/scripts/ash_events.rpy:622
+translate schinese ash_gang_9454f675:
+
+    # nia "OH MY GOD! I KNEW IT! I FUCKING KNEW IT!!"
+    nia ""
+
+# game/scripts/ash_events.rpy:623
+translate schinese ash_gang_b8022528:
+
+    # zoia "Huh."
+    zoia ""
+
+# game/scripts/ash_events.rpy:624
+translate schinese ash_gang_2bffcdfe:
+
+    # nia "Everyone thought I was crazy! But I knew it! I really did see a fairy that night!"
+    nia ""
+
+# game/scripts/ash_events.rpy:625
+translate schinese ash_gang_7d808585:
+
+    # nia "You're real! And I was right! Holy shit!"
+    nia ""
+
+# game/scripts/ash_events.rpy:626
+translate schinese ash_gang_06fd926c:
+
+    # a "You saw a fairy?"
+    a ""
+
+# game/scripts/ash_events.rpy:629
+translate schinese ash_gang_f16c8f41:
+
+    # nia "Yes! A few times, probably. But once or twice for sure!"
+    nia ""
+
+# game/scripts/ash_events.rpy:630
+translate schinese ash_gang_00523969:
+
+    # nia "Do you know how much Jena bullied me for saying that? She's going to eat her own words now! Haha!"
+    nia ""
+
+# game/scripts/ash_events.rpy:631
+translate schinese ash_gang_f85a76c8:
+
+    # zoia "Congrats, I guess."
+    zoia ""
+
+# game/scripts/ash_events.rpy:634
+translate schinese ash_gang_0c1f4e7d:
+
+    # nia "Why didn't you ever tell me, Ash? How long have you known?"
+    nia ""
+
+# game/scripts/ash_events.rpy:635
+translate schinese ash_gang_83688b96:
+
+    # a "We didn't know you well enough... they're hiding from the High Elf Queen. But I've known for a few months."
+    a ""
+
+# game/scripts/ash_events.rpy:636
+translate schinese ash_gang_c4cde1d8:
+
+    # nia "I have so many questions..."
+    nia ""
+
+# game/scripts/ash_events.rpy:637
+translate schinese ash_gang_3868d047:
+
+    # nia "But this is how you're going to get that evidence? They're okay with the risks?"
+    nia ""
+
+# game/scripts/ash_events.rpy:638
+translate schinese ash_gang_62db927e:
+
+    # zoia "I was the one who offered, Nia! It's no problem, we've done it before."
+    zoia ""
+
+# game/scripts/ash_events.rpy:639
+translate schinese ash_gang_3ff32f9b:
+
+    # runa "We'll head out tonight when there's less security, and be back before the sun rises."
+    runa ""
+
+# game/scripts/ash_events.rpy:640
+translate schinese ash_gang_75eb0cb7:
+
+    # zoia "I guess we're just looking for a file with Von's name on it, right? Yeah, piece of cake."
+    zoia ""
+
+# game/scripts/ash_events.rpy:641
+translate schinese ash_gang_4da5fbfd:
+
+    # nia "That's amazing...!\nOh! That's how you did that trick with the knife! That's so cool!"
+    nia ""
+
+# game/scripts/ash_events.rpy:642
+translate schinese ash_gang_ab0dd0bc:
+
+    # zoia "Thank you~"
+    zoia ""
+
+# game/scripts/ash_events.rpy:645
+translate schinese ash_gang_98f34fa1:
+
+    # a "*sigh*... I'm so tired, [name]... can you drive us home now?"
+    a ""
+
+# game/scripts/ash_events.rpy:646
+translate schinese ash_gang_ef2f608d:
+
+    # c "Of course. We just need to find the car."
+    c ""
+
+# game/scripts/ash_events.rpy:648
+translate schinese ash_gang_61032304:
+
+    # a "Can you carry meee~? Pleeeeeease~...?"
+    a ""
+
+# game/scripts/ash_events.rpy:649
+translate schinese ash_gang_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/ash_events.rpy:650
+translate schinese ash_gang_bb8e4b4e_2:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:651
+translate schinese ash_gang_57e6e3d5:
+
+    # c "Okay, sure. I'll carry you... You worked hard today."
+    c ""
+
+# game/scripts/ash_events.rpy:653
+translate schinese ash_gang_2558ecf6:
+
+    # a "Yay! Best boyfriend ever!"
+    a ""
+
+# game/scripts/ash_events.rpy:12735
+translate schinese ashinteract_c82b667e:
+
+    # a "Hehe..."
+    a ""
+
+# game/scripts/ash_events.rpy:12769
+translate schinese ashinteract_c576fb23:
+
+    # a "Mmmh~"
+    a ""
+
+# game/scripts/ash_events.rpy:12804
+translate schinese ashinteract_35fbe7c1:
+
+    # a "Nnngh!" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:12863
+translate schinese ashoutfits_e658f731:
+
+    # "She's already nude."
+    ""
+
+# game/scripts/ash_events.rpy:12866
+translate schinese ashoutfits_53fc9989:
+
+    # a "You haven't earned it yet..."
+    a ""
+
+# game/scripts/ash_events.rpy:12867
+translate schinese ashoutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    ""
+
+# game/scripts/ash_events.rpy:12870
+translate schinese ashoutfits_9a47eaeb_1:
+
+    # a "Alright."
+    a ""
+
+translate schinese strings:
+
+    # game/scripts/ash_events.rpy:12844
+    old "{color=#8C8C8C}> Nude <{/color}"
+    new ""
+

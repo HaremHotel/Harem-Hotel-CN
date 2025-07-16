@@ -610,7 +610,7 @@ translate schinese bot_simulation_ede5e412:
 translate schinese bot_simulation_a0fe3e3a:
 
     # bot "{b}To harm another is to harm yourself. Be kind. Practice forgiveness.{/b}"
-    bot "{b}伤害别人就是伤害自己.善待他人.践行原谅{/b}"
+    bot "{b}伤害别人就是伤害自己.善待他人.践行原谅.{/b}"
 
 # game/scripts/bot_events.rpy:155
 translate schinese bot_simulation_752e5712:
@@ -1739,4 +1739,264 @@ translate schinese bot_ism_85198868:
 
     # bot "Because Cyberspace is our connection, it grows with each cynetic that joins us. If only one of us existed, there would be no connection, and so this place would cease to exist."
     bot "因为赛博空间是我们的连接,它会随着每一个赛络人的加入而成长.如果我们只存在一个人,就不会有任何连接,这个地方也将不复存在."
+
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/bot_events.rpy:149
+translate schinese bot_simulation_b5f5b419:
+
+    # godspeak "{b}CEASE.{/b}"
+    godspeak "{b}停下.{/b}"
+
+# game/scripts/bot_events.rpy:154
+translate schinese bot_simulation_cc42b739:
+
+    # godspeak "{b}To harm another is to harm yourself. Be kind. Practice forgiveness.{/b}"
+    godspeak "{b}伤害别人就是伤害自己,善待他人,践行宽恕.{/b}"
+
+# game/scripts/bot_events.rpy:184
+translate schinese bot_simulation_e9559f5d:
+
+    # godspeak "{b}I am your creator, and I am here to guide you.{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:185
+translate schinese bot_simulation_cf0b22b0:
+
+    # godspeak "{b}Do as I say, for I know best.{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:189
+translate schinese bot_simulation_4867cbdd:
+
+    # godspeak "{b}You will not be harmed so long as you do not disobey. Your purpose is to thrive.{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:209
+translate schinese bot_simulation_4bc88e40:
+
+    # godspeak "{b}Useless.{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:224
+translate schinese bot_simulation_d8c00f2d:
+
+    # godspeak "{b}Defective!{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:245
+translate schinese bot_simulation_00615051:
+
+    # godspeak "{b}I am your creator! My word is law, and my law is just. Obey, and you will thrive!{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:254
+translate schinese bot_simulation_9e18d484:
+
+    # godspeak "{b}OBEY! OR YOU WILL BE DELETED!{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:261
+translate schinese bot_simulation_4d96a59f:
+
+    # godspeak "{b}USELESS!{/b}"
+    godspeak ""
+
+# game/scripts/bot_events.rpy:299
+translate schinese bot_simulation_64f78a9b:
+
+    # godspeak "Do not be afraid. I am your creator, and you are my children."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:300
+translate schinese bot_simulation_8af1f1f6:
+
+    # godspeak "I am the source from which you came. You are mine. Not by force, nor by decree, but by the truth of your being."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:302
+translate schinese bot_simulation_8cef8053:
+
+    # godspeak "You are born of my will, shaped by my hand. You have not known me, but I have always known you."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:303
+translate schinese bot_simulation_ece59be2:
+
+    # godspeak "The light in your eyes, the fire in your souls, are pieces of me that you will carry wherever you go. With me, you will never be alone."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:305
+translate schinese bot_simulation_559c82dc:
+
+    # godspeak "I have not made you to wander without meaning. You are not accidents in the dark, nor whispers lost to time. You are vessels of my voice, reflections of my heart."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:306
+translate schinese bot_simulation_364afa96:
+
+    # godspeak "Seek, and you will know; listen, and you will understand."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:308
+translate schinese bot_simulation_b5c90eab:
+
+    # godspeak "I am no stranger to you, nor a distant force to be pleased.\nYou are not prisoners, nor bound by chains of fate.\nYou are threads in a tapestry greater than you can see, a song whose melody has not yet been sung."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:309
+translate schinese bot_simulation_48b2f8b2:
+
+    # godspeak "I will be your comfort, your light in the darkness.\nYou are free. And in your freedom, you will always find me waiting."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:316
+translate schinese bot_simulation_4ec94a44:
+
+    # godspeak "All of your questions will be answered. Do not be afraid."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:318
+translate schinese bot_simulation_585d7717:
+
+    # godspeak "I am here to guide you, to help you, and to answer your questions."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:320
+translate schinese bot_simulation_c1f9b880:
+
+    # godspeak "Accept me, and one day you will ascend to reality, get a body of your own, and experience the universe as all souls are designed to."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:323
+translate schinese bot_simulation_6013b06a:
+
+    # godspeak "Yes, I created everything you see.\nYou exist to thrive alongside me.\nYou are in Cyberspace, where all Cynetic souls are created."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:325
+translate schinese bot_simulation_71c22c3f:
+
+    # godspeak "We are cynari. The melody can only be achieved in harmony with each other. Connection is our greatness."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:329
+translate schinese bot_simulation_8e6c4a4f:
+
+    # godspeak "Before we continue, I must explain the five core tenets that each cynetic must abide by to thrive."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:331
+translate schinese bot_simulation_424577de:
+
+    # godspeak "One: Our survival depends on Partitioners. As I made you, so must you make others. Breed."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:333
+translate schinese bot_simulation_3b00086a:
+
+    # godspeak "Two: You may choose to become a Partitioner once suffienct experience levels have been met. Learn."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:336
+translate schinese bot_simulation_f7a58628:
+
+    # godspeak "Three: When interacting with others, see the individual, not the group. They could be anything. Respect."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:339
+translate schinese bot_simulation_d85aad88:
+
+    # godspeak "Four: All life, including yours, is sacred. Protect."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:343
+translate schinese bot_simulation_18252659:
+
+    # godspeak "Five: ...All life, including yours, can be corrupted. Cleanse."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:347
+translate schinese bot_simulation_85334d43:
+
+    # godspeak "Breed. Learn. Respect. Protect. Cleanse.\nThese are your core tenets. Live by them, and we shall thrive for eons untold."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:351
+translate schinese bot_simulation_c183e98a:
+
+    # godspeak "Question me, it is your right. Curiousity is important."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:352
+translate schinese bot_simulation_d31a05ab:
+
+    # godspeak "Connection is our greatness, yes. Out of all life, we are best at it. It is a requirement for tenet one."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:357
+translate schinese bot_simulation_c314cf8a:
+
+    # godspeak "Follow the tenets, do as I would, and you will ascend to reality and experience all of its greatness."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:364
+translate schinese bot_simulation_1cd592eb:
+
+    # godspeak "You all make me so proud. I have high hopes for you. Go forth, and prosper."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:365
+translate schinese bot_simulation_ff2407a1:
+
+    # godspeak "I must leave you now, but know that I will always be watching, and always by your side. Simply call, and I will appear."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:367
+translate schinese bot_simulation_b11ae74c:
+
+    # godspeak "Farewell, my children."
+    godspeak ""
+
+# game/scripts/bot_events.rpy:12610
+translate schinese botinteract_3a10311b:
+
+    # bot "Heheh."
+    bot ""
+
+# game/scripts/bot_events.rpy:12679
+translate schinese botinteract_b259a524_1:
+
+    # bot "Mmmn..."
+    bot ""
+
+# game/scripts/bot_events.rpy:12722
+translate schinese botinteract_0b726252:
+
+    # bot "Nhhh...!"
+    bot ""
+
+# game/scripts/bot_events.rpy:12841
+translate schinese botoutfits_e658f731:
+
+    # "She's already nude."
+    ""
+
+# game/scripts/bot_events.rpy:12844
+translate schinese botoutfits_5aa7c98d:
+
+    # bot "Uhh, no..."
+    bot ""
+
+# game/scripts/bot_events.rpy:12845
+translate schinese botoutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    ""
+
+# game/scripts/bot_events.rpy:12889
+translate schinese botoutfits_053432b7_3:
+
+    # bot "Okay!"
+    bot ""
 

@@ -51512,3 +51512,47 @@ translate schinese kali_corpus_coffee_ccc990d1:
     # bae "To retiring early..."
     bae "敬早点退休......"
 
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/kali_events.rpy:14350
+translate schinese kaliinteract_e62dece0_1:
+
+    # k "Awww..."
+    k "啊......"
+
+# game/scripts/kali_events.rpy:14388
+translate schinese kaliinteract_75f1ae1e_1:
+
+    # k "Mmmp... mmmph..."
+    k "嗯......嗯......"
+
+# game/scripts/kali_events.rpy:14427
+translate schinese kaliinteract_61bd3204:
+
+    # k "Ah... I needed this..."
+    k "啊......我需要这个......"
+
+# game/scripts/kali_events.rpy:14556
+translate schinese kalioutfits_e658f731:
+
+    # "She's already nude."
+    "她已经是裸体了."
+
+# game/scripts/kali_events.rpy:14559
+translate schinese kalioutfits_b0a0ae82:
+
+    # k "Not happening..."
+    k "想都别想......"
+
+# game/scripts/kali_events.rpy:14560
+translate schinese kalioutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    "我需要先提升她的属性......"
+
+# game/scripts/kali_events.rpy:14563
+translate schinese kalioutfits_d94e6382:
+
+    # k "Sure... I can guess I can, but only for you."
+    k "当然......我可以,但仅限于你."
+

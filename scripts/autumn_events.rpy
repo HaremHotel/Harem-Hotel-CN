@@ -36379,3 +36379,17 @@ translate schinese autumn_news_e41f6ac2:
     # lily "Very sorry to interrupt... Minister, your presence is requested."
     lily "不好意思,打扰你们了......教长,您该出席了."
 
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/autumn_events.rpy:300
+translate schinese aut_dare_8806187b:
+
+    # arbitercast "{b}HOLD!!!{/b}" with ssshake
+    arbitercast "{b}停下!!!{/b}" with ssshake
+
+# game/scripts/autumn_events.rpy:364
+translate schinese aut_dare_4fc42ca0:
+
+    # corn "HELLO"
+    corn "{b}你好{/b}"
+

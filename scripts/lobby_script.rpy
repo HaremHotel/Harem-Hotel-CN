@@ -2115,3 +2115,161 @@ translate schinese ellenchilldesk_c5cbb24b:
     # c "Ellen is probably showering right now."
     c "艾兰现在可能在洗澡."
 
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/lobby_script.rpy:1246
+translate schinese lobby_bot_talk_0bee4b2e_2:
+
+    # bot "Good morning [botown]."
+    bot "早上好,[botown]."
+
+# game/scripts/lobby_script.rpy:1248
+translate schinese lobby_bot_talk_36c4de86_2:
+
+    # bot "Hi baby~"
+    bot "嗨,宝贝~"
+
+# game/scripts/lobby_script.rpy:1250
+translate schinese lobby_bot_talk_f6031e2f_3:
+
+    # bot "It's raining..."
+    bot "下雨了......"
+
+# game/scripts/lobby_script.rpy:1252
+translate schinese lobby_bot_talk_1fa45a94_2:
+
+    # bot "Umm... When we're having sex, do you like bigger breasts, or smaller breasts? The big ones are kind of heavy..."
+    bot "呃......我们做爱的时候,你喜欢大胸还是小胸?大胸有点重......"
+
+# game/scripts/lobby_script.rpy:1254
+translate schinese lobby_bot_talk_c9680a30_3:
+
+    # bot "Hello [botown]!"
+    bot "你好,[botown]!"
+
+# game/scripts/lobby_script.rpy:1440
+translate schinese lobby_mar_talk_ba68358b_1:
+
+    # m "Good morning [name]."
+    m "早上好,[name]."
+
+# game/scripts/lobby_script.rpy:1442
+translate schinese lobby_mar_talk_f1647282_1:
+
+    # m "How's your day been, [name]?"
+    m "你最近怎么样,[name]?"
+
+# game/scripts/lobby_script.rpy:1444
+translate schinese lobby_mar_talk_c3b7afe6_2:
+
+    # m "It's raining..."
+    m "下雨了......"
+
+# game/scripts/lobby_script.rpy:1446
+translate schinese lobby_mar_talk_a89f17d4_1:
+
+    # m "Hey [name], I've been a bit horny lately..."
+    m "嘿,[name],我最近有点想要......"
+
+# game/scripts/lobby_script.rpy:1447
+translate schinese lobby_mar_talk_7ce60053_1:
+
+    # m "We should do something later..."
+    m "我们待会做点什么吧......"
+
+# game/scripts/lobby_script.rpy:1449
+translate schinese lobby_mar_talk_3bda6387_1:
+
+    # m "Hey!"
+    m "嘿!"
+
+# game/scripts/lobby_script.rpy:1688
+translate schinese lobby_kali_talk_2598a943_1:
+
+    # k "Morning."
+    k "早上好."
+
+# game/scripts/lobby_script.rpy:1690
+translate schinese lobby_kali_talk_750c2be7_1:
+
+    # k "Oh, Hey [name]!"
+    k "噢,嘿,[name]!"
+
+# game/scripts/lobby_script.rpy:1692
+translate schinese lobby_kali_talk_df794597_1:
+
+    # k "Gotta get ready to work soon..."
+    k "马上要上班了,我得好好准备......"
+
+# game/scripts/lobby_script.rpy:1694
+translate schinese lobby_kali_talk_8583b129_1:
+
+    # k "Lucy's been annoying..."
+    k "露西太烦人了......"
+
+# game/scripts/lobby_script.rpy:1696
+translate schinese lobby_kali_talk_a5cd05d6_2:
+
+    # k "Hey [name]!"
+    k "嘿,[name]!"
+
+# game/scripts/lobby_script.rpy:1911
+translate schinese lobby_ash_talk_a2be0071_2:
+
+    # a "Good morning~"
+    a "早上好~"
+
+# game/scripts/lobby_script.rpy:1913
+translate schinese lobby_ash_talk_97dd9142_1:
+
+    # a "Hi baby~"
+    a "嗨,宝贝~"
+
+# game/scripts/lobby_script.rpy:1915
+translate schinese lobby_ash_talk_b0b1b3b4_2:
+
+    # a "When am I getting some babies?"
+    a "我什么时候能有孩子?"
+
+# game/scripts/lobby_script.rpy:1917
+translate schinese lobby_ash_talk_1735f592_1:
+
+    # a "Nnn, [name]... Can we fuck today?"
+    a "嗯,[name]......我们今天可以做爱吗?"
+
+# game/scripts/lobby_script.rpy:1919
+translate schinese lobby_ash_talk_665081dd_2:
+
+    # a "Hey [name]!"
+    a "嘿,[name]!"
+
+# game/scripts/lobby_script.rpy:2116
+translate schinese lobby_lin_talk_2a751484_1:
+
+    # l "How are you, [linoname]?"
+    l "你过得怎么样,[linoname]?"
+
+# game/scripts/lobby_script.rpy:2118
+translate schinese lobby_lin_talk_15f66a9b_1:
+
+    # l "I love the rain... It's so calming."
+    l "我喜欢下雨......很平静."
+
+# game/scripts/lobby_script.rpy:2120
+translate schinese lobby_lin_talk_c761afff_1:
+
+    # l "Would you like me to cook something for you [linoname]?"
+    l "你想让我给你煮点什么吗,[linoname]?"
+
+# game/scripts/lobby_script.rpy:2122
+translate schinese lobby_lin_talk_c72ea88e_1:
+
+    # l "So much to clean..."
+    l "好多地方要打扫......"
+
+# game/scripts/lobby_script.rpy:2124
+translate schinese lobby_lin_talk_cf69177f_1:
+
+    # l "Hello, [linoname]!"
+    l "你好,[linoname]!"
+

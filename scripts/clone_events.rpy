@@ -51143,7 +51143,7 @@ translate schinese strings:
 
     # game/scripts/clone_events.rpy:5035
     old "Cheerleader Uniform"
-    new "啦啦队套装"
+    new "啦啦队队长套装"
 
     # game/scripts/clone_events.rpy:5035
     old "Casual Clothes"
@@ -51163,11 +51163,11 @@ translate schinese strings:
 
     # game/scripts/clone_events.rpy:5396
     old "{color=#8C8C8C}Cheerleader Uniforms{/color}"
-    new "{color=#8C8C8C}啦啦队套装{/color}"
+    new "{color=#8C8C8C}啦啦队队长套装{/color}"
 
     # game/scripts/clone_events.rpy:5396
     old "Cheerleader Uniforms"
-    new "啦啦队套装"
+    new "啦啦队队长套装"
 
     # game/scripts/clone_events.rpy:5396
     old "{color=#8C8C8C}Catgirl and Doggirl{/color}"
@@ -51207,11 +51207,11 @@ translate schinese strings:
 
     # game/scripts/clone_events.rpy:5758
     old "{color=#8C8C8C}Sexy Gothic{/color}"
-    new "{color=#8C8C8C}性感哥特风套装{/color}"
+    new "{color=#8C8C8C}性感哥特套装{/color}"
 
     # game/scripts/clone_events.rpy:5758
     old "Sexy Gothic"
-    new "性感哥特风套装"
+    new "性感哥特套装"
 
     # game/scripts/clone_events.rpy:6504
     old "Call me..."
@@ -51611,7 +51611,7 @@ translate schinese strings:
 
     # game/scripts/clone_events.rpy:15337
     old "{color=#8C8C8C}Cheerleader Uniform{/color}"
-    new "{color=#8C8C8C}啦啦队套装{/color}"
+    new "{color=#8C8C8C}啦啦队队长套装{/color}"
 
     # game/scripts/clone_events.rpy:15337
     old "{color=#8C8C8C}Relaxing Clothes{/color}"
@@ -56004,3 +56004,121 @@ translate schinese twin_stone_cont_59ed2582:
 
     # mystwman "Now, call Emma. You wouldn't want to make father upset."
     mystwman "现在,打电话给艾玛.你不会想看见父亲发火的."
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/clone_events.rpy:3713
+translate schinese fel_hangout_02_467a4116:
+
+    # f "I have a very expensive palate, it's hard for me to eat fast food. I don't just mean mentally either, I puke nearly every time I eat that stuff. I guess my body just got used to eating a certain way. I've never particularly hated the taste..."
+    f "我的胃口很挑剔,吃不下那些快餐.这不只是心理上的,我几乎每次吃那种东西都会呕吐.我想我的身体只是习惯了某种吃法.我并没有特别讨厌快餐味道......"
+
+# game/scripts/clone_events.rpy:15935
+translate schinese eminteract_eaaa9fba:
+
+    # em "Ahh~ heheh..."
+    em "啊~呵呵呵......"
+
+# game/scripts/clone_events.rpy:15965
+translate schinese eminteract_87037c9d:
+
+    # em "Mmmn..."
+    em "嗯......"
+
+# game/scripts/clone_events.rpy:15997
+translate schinese eminteract_cab4caa3_1:
+
+    # em "Mmmm..."
+    em "嗯......"
+
+# game/scripts/clone_events.rpy:16069
+translate schinese emoutfits_63680fe8:
+
+    # em "Haha... that's a joke, right?"
+    em "哈哈......你在开玩笑,对吧?"
+
+# game/scripts/clone_events.rpy:16070
+translate schinese emoutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    "我需要先提升她的属性......"
+
+# game/scripts/clone_events.rpy:16073
+translate schinese emoutfits_a4654038_1:
+
+    # em "Okay."
+    em "好的."
+
+# game/scripts/clone_events.rpy:16229
+translate schinese emoutfits_046134fd_7:
+
+    # "She's already wearing that."
+    "她已经穿着那件衣服了."
+
+# game/scripts/clone_events.rpy:17021
+translate schinese felinteract_25ca078e:
+
+    # f "More~ more~!"
+    f "再来~再来~!"
+
+# game/scripts/clone_events.rpy:17052
+translate schinese felinteract_86fb543f:
+
+    # f "Mmmlmn..."
+    f "嗯,噜......"
+
+# game/scripts/clone_events.rpy:17083
+translate schinese felinteract_db5c9dd2:
+
+    # f "Mmmn..."
+    f "嗯......"
+
+# game/scripts/clone_events.rpy:17154
+translate schinese feloutfits_5dfbc27f:
+
+    # fel "Are you joking? Haha! Stop... seriously."
+    fel "你在开玩笑吗?哈哈!停下......我认真的."
+
+# game/scripts/clone_events.rpy:17155
+translate schinese feloutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    "我需要先提升她的属性......"
+
+# game/scripts/clone_events.rpy:17158
+translate schinese feloutfits_676bd84e_1:
+
+    # f "K."
+    f "行."
+
+# game/scripts/clone_events.rpy:17327
+translate schinese feloutfits_046134fd_7:
+
+    # "She's already wearing that."
+    "她已经穿着那件衣服了."
+
+translate schinese strings:
+
+    # game/scripts/clone_events.rpy:16050
+    old "{color=#8C8C8C}> Cheerleader Uniform <{/color}"
+    new "{color=#8C8C8C}> 啦啦队队长套装 <{/color}"
+
+    # game/scripts/clone_events.rpy:16050
+    old "{color=#8C8C8C}> Relaxing Clothes <{/color}"
+    new "{color=#8C8C8C}> 休闲套装 <{/color}"
+
+    # game/scripts/clone_events.rpy:16050
+    old "{color=#8C8C8C}> Doggirl Outfit <{/color}"
+    new "{color=#8C8C8C}> 犬娘套装 <{/color}"
+
+    # game/scripts/clone_events.rpy:17134
+    old "{color=#8C8C8C}> Police Uniform <{/color}"
+    new "{color=#8C8C8C}> 警察套装 <{/color}"
+
+    # game/scripts/clone_events.rpy:17134
+    old "{color=#8C8C8C}> Catgirl Outfit <{/color}"
+    new "{color=#8C8C8C}> 猫娘套装 <{/color}"
+
+    # game/scripts/clone_events.rpy:17134
+    old "{color=#8C8C8C}> Sexy Gothic <{/color}"
+    new "{color=#8C8C8C}> 性感哥特套装 <{/color}"
+

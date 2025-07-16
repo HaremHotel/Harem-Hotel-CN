@@ -58450,7 +58450,7 @@ translate schinese strings:
 
     # game/scripts/lin_events.rpy:790
     old "{size=+50}When fear becomes policy...{/size}"
-    new "{size=+50}当恐惧成为政策......{/size}"
+    new "{size=+50}当恐惧成为政策......\n{/size}"
 
     # game/scripts/lin_events.rpy:792
     old "{size=+50}\nWhen fear becomes policy...\nfreedom becomes treason.{/size}"
@@ -58467,4 +58467,94 @@ translate schinese strings:
     # game/scripts/lin_events.rpy:1273
     old "Take a break"
     new "休息一下"
+
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/lin_events.rpy:85
+translate schinese lin_abduct_3e04b2bc:
+
+    # k "{i}No!\nThere were gun shots! Two cops came to look for you, and now they're dead! A-And now he's missing!{/i}"
+    k "{i}没有!\n这里发生了枪击!两个警察在找你,然后他们都死了!然-然后他就失踪了!{/i}"
+
+# game/scripts/lin_events.rpy:255
+translate schinese lin_abduct_7aa14cf9:
+
+    # e "Are you kidding me!? This is ridiculous!"
+    e "你在开玩笑吗!?这太荒谬了!"
+
+# game/scripts/lin_events.rpy:417
+translate schinese lin_abduct_19c39424:
+
+    # k "A residential building? Why is she taking him somewhere so public? That's the last place I'd go to kill someone..."
+    k "居民楼?她为什么要把他带到这么公共的地方?我要是想杀人,那里是我最不可能去的地方......"
+
+# game/scripts/lin_events.rpy:437
+translate schinese lin_abduct_d501838e:
+
+    # a "YOU HEARD HER! ALL GAS, NO BRAKES! LET'S FUCKING GOOOOOO!!!"
+    a "{b}你听到她说什么了吧!油门踩死,不要刹车!我们他妈地走吧!!!{/b}"
+
+# game/scripts/lin_events.rpy:714
+translate schinese lin_abduct_f285dfc7:
+
+    # au "Rghhhh..."
+    au "呃......"
+
+# game/scripts/lin_events.rpy:770
+translate schinese lin_abduct_54a76518:
+
+    # news "BREAKING NEWS: Martial law has been enacted. A coordinated terrorist attack has struck at the heart of Caliber. The financial core was exclusively targetted."
+    news "{b}突发新闻{/b}:戒严令已颁布.楷利泊的市中心发生了一起有预谋的恐怖袭击.金融核心区是本次袭击的唯一目标."
+
+# game/scripts/lin_events.rpy:4126
+translate schinese lininteract_d91e80c5_1:
+
+    # l "Heheh..."
+    l "呵呵呵......"
+
+# game/scripts/lin_events.rpy:4160
+translate schinese lininteract_51eff57c:
+
+    # l "Mmmph..."
+    l "嗯......"
+
+# game/scripts/lin_events.rpy:4195
+translate schinese lininteract_7196e4f4:
+
+    # l "Mmmh, thank you..."
+    l "嗯,谢谢你......"
+
+# game/scripts/lin_events.rpy:4437
+translate schinese linoutfits_e658f731:
+
+    # "She's already nude."
+    "她已经是裸体了."
+
+# game/scripts/lin_events.rpy:4440
+translate schinese linoutfits_9d8c8e9c:
+
+    # l "Ummmmm... maybe another time?"
+    l "呃......也许下次吧?"
+
+# game/scripts/lin_events.rpy:4441
+translate schinese linoutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    "我需要先提升她的属性......"
+
+# game/scripts/lin_events.rpy:4614
+translate schinese linoutfits_705a04b2_1:
+
+    # l "Sure."
+    l "当然可以"
+
+translate schinese strings:
+
+    # game/scripts/lin_events.rpy:4419
+    old "{color=#8C8C8C}> Vines <{/color}"
+    new "{color=#8C8C8C}> 藤蔓套装 <{/color}"
+
+    # game/scripts/lin_events.rpy:4419
+    old "{color=#8C8C8C}> Cutiepie Outfit <{/color}"
+    new "{color=#8C8C8C}> 情人套装 <{/color}"
 

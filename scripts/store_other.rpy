@@ -147,3 +147,35 @@ translate schinese strings:
     # game/scripts/store_other.rpy:52
     old "Kate's Earrings"
     new "凯特的耳环"
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/store_other.rpy:195
+translate schinese buy_other_b0ea5483_5:
+
+    # "I already bought that."
+    "我已经买了那个东西了."
+
+# game/scripts/store_other.rpy:201
+translate schinese buy_other_9ccbe5e3_5:
+
+    # "The order has been placed, but our shipping department is closed.\nYour order will arrive the day after tomorrow."
+    "订单已下达,但我们的运输部门已经打烊了.\n订单将于后天送达."
+
+# game/scripts/store_other.rpy:204
+translate schinese buy_other_7c0a07fa_5:
+
+    # "The order has been placed, it will arrive tomorrow morning."
+    "订单已下达,将于明天早上送达."
+
+# game/scripts/store_other.rpy:207
+translate schinese buy_other_b5cb3122_5:
+
+    # "I don't have enough money for that"
+    "我没有钱买那个东西"
+
+translate schinese strings:
+
+    # game/scripts/store_other.rpy:56
+    old "Ashley's Stiletto"
+    new "阿什莉的小刀"
+

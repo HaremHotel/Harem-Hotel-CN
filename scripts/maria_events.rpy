@@ -46506,7 +46506,7 @@ translate schinese mar_roofdate_a69dda9e:
 translate schinese mar_roofdate_bc987442:
 
     # c "To the ends of the earth."
-    c "直至天涯海角."
+    c "直至海角天涯."
 
 # game/scripts/maria_events.rpy:209
 translate schinese mar_roofdate_774471d6:
@@ -51156,4 +51156,96 @@ translate schinese strings:
     # game/scripts/maria_events.rpy:12221
     old "Blonde"
     new "金色"
+
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/maria_events.rpy:287
+translate schinese mar_roofdate_4ced7e23:
+
+    # c "Your dad is probably still alive. Have you thought about finding him?"
+    c "你爸爸可能还活着.你有想过去找他吗?"
+
+# game/scripts/maria_events.rpy:353
+translate schinese mar_roofdate_26822b56:
+
+    # c "To the ends of the world."
+    c "直至海角天涯."
+
+# game/scripts/maria_events.rpy:11449
+translate schinese marlspring_ba6a8983:
+
+    # m "Yeah... looks like I have some catching up to do, hm?"
+    m "是啊......看起来我得加把劲赶上了,嗯?"
+
+# game/scripts/maria_events.rpy:11463
+translate schinese marlspring_a41f37a8:
+
+    # m "I never actually knew my parents..."
+    m "其实,我并不了解我的父母......"
+
+# game/scripts/maria_events.rpy:11842
+translate schinese marellen_36aeee5a:
+
+    # m "Ellen, you're such a harlot! I can't believe you're teasing him like that!"
+    m "艾兰,你真是个荡妇!我不敢相信你居然那样调戏他......"
+
+# game/scripts/maria_events.rpy:12214
+translate schinese mardate_78e2add0:
+
+    # m "Oh that? Well... I was pretty popular with all the guys in college. Not that I entertained them, but I could have..."
+    m "噢,那个?嗯......我大学的时候很男生们的欢迎.我并没有特意去取悦他们,但是我确实有那个能力......"
+
+# game/scripts/maria_events.rpy:12499
+translate schinese mardate_7ff28c17:
+
+    # m "You did hit my ex over me, after all. Heheh..."
+    m "毕竟,你在我面前打了我前男友.呵呵呵......"
+
+# game/scripts/maria_events.rpy:12502
+translate schinese mardate_a6a880e0:
+
+    # c "Until then, {i}girlfriend.{/i}"
+    c "待会见,我的{i}女朋友{/i}."
+
+# game/scripts/maria_events.rpy:13538
+translate schinese marinteract_42d07288_2:
+
+    # m "Heheh..."
+    m "呵呵呵......"
+
+# game/scripts/maria_events.rpy:13578
+translate schinese marinteract_957bbdba:
+
+    # m "Llmn... mmmn..."
+    m "噜嗯......嗯......"
+
+# game/scripts/maria_events.rpy:13619
+translate schinese marinteract_1e018893:
+
+    # m "Mmn... naked hugs are the best..."
+    m "嗯......裸着身子拥抱最棒了......"
+
+# game/scripts/maria_events.rpy:13690
+translate schinese maroutfits_e658f731:
+
+    # "She's already nude."
+    "她已经是裸体了."
+
+# game/scripts/maria_events.rpy:13693
+translate schinese maroutfits_b741032c:
+
+    # m "You want me to walk around nude? Seriously...?"
+    m "你想让我裸着在酒店闲逛?你认真的吗......?"
+
+# game/scripts/maria_events.rpy:13694
+translate schinese maroutfits_d562a4f5:
+
+    # "I need to raise her stats first..."
+    "我需要先提升她的属性......"
+
+# game/scripts/maria_events.rpy:13697
+translate schinese maroutfits_76b282fc:
+
+    # m "Nude, huh? Sounds fun..."
+    m "裸体,嗯?听起来很有趣......"
 

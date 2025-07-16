@@ -396,3 +396,11 @@ translate schinese strings:
     # game/scripts/input_code.rpy:53
     old "Are you sure you have this bug and would like to fix it?"
     new "你确定你遇到了这个错误并要修复它吗?"
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/input_code.rpy:131
+translate schinese code_2008d1e0:
+
+    # r "Code accepted!"
+    r "代码输入成功!"
+

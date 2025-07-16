@@ -360,7 +360,7 @@ translate schinese strings:
     new "裴秀妍"
 
     old "Policeman 2"
-    new "2号警察"
+    new "2号男警察"
 
     old "Moon"
     new "文"
@@ -457,3 +457,42 @@ translate schinese strings:
 
     old "Thug"
     new "暴徒"
+
+    old "Cassandra"
+    new "卡桑德拉"
+
+    old "Marcus Carter"
+    new "马库斯·卡特"
+
+    old "Von"
+    new "冯"
+
+    old "Gaianist"
+    new "盖乌斯教教徒"
+
+    old "Henry Longspear"
+    new "亨利·朗斯矛"
+
+    old "Creepy Guy"
+    new "怪人"
+
+    old "Your Android"
+    new "你的智能机器人"
+
+    old "Stalker Fan"
+    new "跟踪狂粉丝"
+
+    old "Serni"
+    new "瑟尼"
+
+    old "Green Pilates Girl"
+    new "正在做普拉提的绿衣女孩"
+
+    old "Blue Pilates Girl"
+    new "正在做普拉提的蓝衣女孩"
+
+    old "Chloe"
+    new "克洛伊"
+
+    old "Viktor (the Viktorious)"
+    new "胜利者维克托"

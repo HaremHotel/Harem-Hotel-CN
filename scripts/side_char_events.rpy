@@ -54954,3 +54954,17 @@ translate schinese kate_spa_sex_c6eca583:
     # kate "Hahhh... nnh, that was so good..."
     kate "哈......嗯,好棒......"
 
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/scripts/side_char_events.rpy:5627
+translate schinese love_nia_7_b1dce864:
+
+    # sable "*sigh*...\nLowtown is starting to look like an actual city these days. Are you sure you're still safe here?"
+    sable "*叹气*......\n低地镇现在越来越像是个真正的城市了.你确定你在这里还安全吗?"
+
+# game/scripts/side_char_events.rpy:5703
+translate schinese love_nia_7_28efc539:
+
+    # nia "He's here? In Caliber? What do you know?"
+    nia "他在这?在楷利泊市?你还知道什么?"
+

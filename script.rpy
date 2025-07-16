@@ -97727,10 +97727,6 @@ translate schinese strings:
     old "WEEKLY REPORT"
     new "每周报告"
 
-    # game/script.rpy:51
-    old "Creepy Guy"
-    new "可怕的家伙"
-
     # game/script.rpy:55
     old "You"
     new "你"
@@ -108199,4 +108195,1836 @@ translate schinese strings:
     # game/script.rpy:20175
     old "You may now continue Lin's story from here or at her door."
     new "你现在可以在林的门前继续她的故事."
+
+# TODO: Translation updated at 2025-07-16 22:58
+
+# game/script.rpy:6463
+translate schinese lobby_a914fa92_1:
+
+    # "The door is locked..."
+    ""
+
+# game/script.rpy:10134
+translate schinese explore_gym2_1e49c1c6:
+
+    # c "I think I'll sign up for a pilates class... could be interesting."
+    c ""
+
+# game/script.rpy:10136
+translate schinese explore_gym2_7a04245a:
+
+    # c "Hey Maya."
+    c ""
+
+# game/script.rpy:10137
+translate schinese explore_gym2_a8687b52:
+
+    # maya "What's up?"
+    maya ""
+
+# game/script.rpy:10138
+translate schinese explore_gym2_fdd0e66f:
+
+    # c "I'd like to sign up for a pilates class."
+    c ""
+
+# game/script.rpy:10139
+translate schinese explore_gym2_a90dd0aa:
+
+    # maya "Pilates, huh? Well, you wouldn't be the first man to join, but-"
+    maya ""
+
+# game/script.rpy:10140
+translate schinese explore_gym2_fa6cc0ac:
+
+    # q "{b}PILATES!?!?{/b}" with ssshake
+    q "" with ssshake
+
+# game/script.rpy:10142
+translate schinese explore_gym2_8908f4a3:
+
+    # viktor "MY FRIEND! Do you know what you are signing up for!?"
+    viktor ""
+
+# game/script.rpy:10143
+translate schinese explore_gym2_37f14dfa:
+
+    # c "Uhh, stretching?"
+    c ""
+
+# game/script.rpy:10145
+translate schinese explore_gym2_b9a4c396:
+
+    # viktor "NO! NO, NO, NO! MY FRIEND! WAKE UP! It is not just STRETCHING!"
+    viktor ""
+
+# game/script.rpy:10146
+translate schinese explore_gym2_4d1bd805:
+
+    # maya "Viktor, stop scaring him..."
+    maya ""
+
+# game/script.rpy:10147
+translate schinese explore_gym2_d4a5fbaa:
+
+    # viktor "I have lifted cars! Wrestled bears! Once carried my grandmother's pregnant cow up a hill during a rough Ruskovian snowstorm! BUT PILATES!?!?"
+    viktor ""
+
+# game/script.rpy:10149
+translate schinese explore_gym2_ec778e88:
+
+    # viktor "{i}{size=-5}I will also choose to ignore that you didn't say hi when you walked in...{/size}{/i}"
+    viktor ""
+
+# game/script.rpy:10153
+translate schinese explore_gym2_86fab469:
+
+    # viktor "BUT PILATES!?\nThe tiny woman in tights, she looks harmless, but NO! She says {i}'We begin with breathing.'{/i}" with ssshake
+    viktor "" with ssshake
+
+# game/script.rpy:10154
+translate schinese explore_gym2_0013aa45:
+
+    # viktor "I laugh at these words! {i}'HAH! Breathing! I've been doing that since I was born!'{/i} Two minutes later I am sweating like I'm back in sauna with uncle Boris!"
+    viktor ""
+
+# game/script.rpy:10156
+translate schinese explore_gym2_ab007533:
+
+    # viktor "{i}{size=-5}It is not... just... stretching...!{/size}{/i}"
+    viktor ""
+
+# game/script.rpy:10157
+translate schinese explore_gym2_6a7d04e6:
+
+    # maya "VIKTOR!" with ssshake
+    maya "" with ssshake
+
+# game/script.rpy:10159
+translate schinese explore_gym2_aaa13f9d:
+
+    # viktor "Y-Yes! Sorry Ms. Maya!"
+    viktor ""
+
+# game/script.rpy:10161
+translate schinese explore_gym2_7622784e:
+
+    # maya "...Pilates classes are $5 per class. There's an opening soon, so let me know."
+    maya ""
+
+# game/script.rpy:10162
+translate schinese explore_gym2_1f3905bf:
+
+    # c "Yeah, I'll take it."
+    c ""
+
+# game/script.rpy:10164
+translate schinese explore_gym2_3c83e745:
+
+    # viktor "You are very brave man!\nMake that two!"
+    viktor ""
+
+# game/script.rpy:10165
+translate schinese explore_gym2_d360a713:
+
+    # maya "You're joining too, Viktor?"
+    maya ""
+
+# game/script.rpy:10166
+translate schinese explore_gym2_97c99132:
+
+    # viktor "Yes, of course! I will not let my comrade fight this battle alone! HAHAH!"
+    viktor ""
+
+# game/script.rpy:10167
+translate schinese explore_gym2_fa7b62bb:
+
+    # maya "Alright... talk to Chloe after you pay."
+    maya ""
+
+# game/script.rpy:10169
+translate schinese explore_gym2_711db75d:
+
+    # "You and Viktor pay $5 each."
+    ""
+
+# game/script.rpy:10173
+translate schinese explore_gym2_3a62a1fe:
+
+    # chloe "Alright everyone, how are we feeling?"
+    chloe ""
+
+# game/script.rpy:10174
+translate schinese explore_gym2_c3de2934:
+
+    # viktor "Excuse me! We have paid for your class! May we join you?"
+    viktor ""
+
+# game/script.rpy:10176
+translate schinese explore_gym2_814dd913:
+
+    # chloe "Hm? Oh. It looks like we'll have some men joining us today."
+    chloe ""
+
+# game/script.rpy:10178
+translate schinese explore_gym2_65cb67fc:
+
+    # c "...Do you mind?"
+    c ""
+
+# game/script.rpy:10179
+translate schinese explore_gym2_7472cf12:
+
+    # chloe "No, not at all. It's just rare. Please, pick a mat."
+    chloe ""
+
+# game/script.rpy:10180
+translate schinese explore_gym2_637ee121:
+
+    # chloe "Oh, and shoes off, please."
+    chloe ""
+
+# game/script.rpy:10181
+translate schinese explore_gym2_8f6c2eec:
+
+    # viktor "Thank you!"
+    viktor ""
+
+# game/script.rpy:10183
+translate schinese explore_gym2_b2feb0a7:
+
+    # viktor "You've got this, my friend! Don't be scared!"
+    viktor ""
+
+# game/script.rpy:10184
+translate schinese explore_gym2_f64327a5:
+
+    # c "I'm not."
+    c ""
+
+# game/script.rpy:10185
+translate schinese explore_gym2_e2f1b955:
+
+    # viktor "That's the spirit! Viktory!!"
+    viktor ""
+
+# game/script.rpy:10188
+translate schinese explore_gym2_9de0c323:
+
+    # bpil "Wow, we don't get many men in here. What made you decide to join?"
+    bpil ""
+
+# game/script.rpy:10189
+translate schinese explore_gym2_b5a8f92b:
+
+    # c "Need to stretch for a better workout."
+    c ""
+
+# game/script.rpy:10190
+translate schinese explore_gym2_247efa08:
+
+    # viktor "A new challenge!"
+    viktor ""
+
+# game/script.rpy:10191
+translate schinese explore_gym2_9e6f000e:
+
+    # gpil "Hahah, you guys are a great couple."
+    gpil ""
+
+# game/script.rpy:10192
+translate schinese explore_gym2_5225f688:
+
+    # viktor "Thank you!!"
+    viktor ""
+
+# game/script.rpy:10193
+translate schinese explore_gym2_e7bc2b71:
+
+    # c "We're not... we're not a thing."
+    c ""
+
+# game/script.rpy:10195
+translate schinese explore_gym2_b7c09856:
+
+    # gpil "{i}They're not gay??{/i}"
+    gpil ""
+
+# game/script.rpy:10196
+translate schinese explore_gym2_1045b0ff:
+
+    # viktor "HAHA! No, no! Common misconception!"
+    viktor ""
+
+# game/script.rpy:10197
+translate schinese explore_gym2_bdb8b103:
+
+    # bpil "What are you doing here, then? You're right behind us. You better not be here to stare..."
+    bpil ""
+
+# game/script.rpy:10198
+translate schinese explore_gym2_32bb1ff7:
+
+    # c "Just here to stretch."
+    c ""
+
+# game/script.rpy:10199
+translate schinese explore_gym2_0d6a5173:
+
+    # viktor "And face new challenges! Together!"
+    viktor ""
+
+# game/script.rpy:10200
+translate schinese explore_gym2_285f0cc9:
+
+    # c "As friends."
+    c ""
+
+# game/script.rpy:10201
+translate schinese explore_gym2_cbf7e028:
+
+    # bpil "Umm, okay..."
+    bpil ""
+
+# game/script.rpy:10203
+translate schinese explore_gym2_0a57f419:
+
+    # gpil "Sorry, it's just... there's been a lot of shitty men lately..."
+    gpil ""
+
+# game/script.rpy:10204
+translate schinese explore_gym2_7cd8cb45:
+
+    # bpil "And we always seem to date them all..."
+    bpil ""
+
+# game/script.rpy:10205
+translate schinese explore_gym2_c8376cf5:
+
+    # c "Hey, I get it. But you don't have to worry about us."
+    c ""
+
+# game/script.rpy:10207
+translate schinese explore_gym2_4d8954ae:
+
+    # bpil "Really...? Yeah, that's what they all say. Next thing I know, I'm all over the internet..."
+    bpil ""
+
+# game/script.rpy:10208
+translate schinese explore_gym2_c951a616:
+
+    # gpil "Like, why are men so insecure? None of my exes ever let me have a girls night. It's not like I would ever cheat..."
+    gpil ""
+
+# game/script.rpy:10209
+translate schinese explore_gym2_fa5e4151:
+
+    # bpil "You know just how many men I thought were harmless, but actually hit me? Too many..."
+    bpil ""
+
+# game/script.rpy:10211
+translate schinese explore_gym2_db886403:
+
+    # viktor "{b}WHAT!?{/b} Who are these men? I want NAMES! Babushka always taught me never to lay hand on woman, it is not right!" with ssshake
+    viktor "" with ssshake
+
+# game/script.rpy:10212
+translate schinese explore_gym2_a9786819:
+
+    # gpil "Heheh, I've tried to forget their names..."
+    gpil ""
+
+# game/script.rpy:10213
+translate schinese explore_gym2_7c389145:
+
+    # viktor "These are boys! Not men! Men {u}PROTECT!{/u}"
+    viktor ""
+
+# game/script.rpy:10214
+translate schinese explore_gym2_6edf9d00:
+
+    # bpil "Yeah! Exactly. I'm glad you see it that way."
+    bpil ""
+
+# game/script.rpy:10216
+translate schinese explore_gym2_f8b80caa:
+
+    # c "I'm sorry you two went through that stuff. Those were not men, just boys chasing some idea of what being a man should be."
+    c ""
+
+# game/script.rpy:10217
+translate schinese explore_gym2_696d99d8:
+
+    # c "They were probably only after the approval of other men."
+    c ""
+
+# game/script.rpy:10218
+translate schinese explore_gym2_a7cbc7b4:
+
+    # viktor "Like my father! Not man, but giant fat boy in ugly man costume."
+    viktor ""
+
+# game/script.rpy:10220
+translate schinese explore_gym2_3dafdc5e:
+
+    # gpil "..."
+    gpil ""
+
+# game/script.rpy:10221
+translate schinese explore_gym2_402f03bd:
+
+    # bpil "...Wow, heh."
+    bpil ""
+
+# game/script.rpy:10222
+translate schinese explore_gym2_343fa218:
+
+    # gpil "That's new."
+    gpil ""
+
+# game/script.rpy:10224
+translate schinese explore_gym2_04e71575:
+
+    # bpil "It's so refreshing to hear a man say that! You have no idea."
+    bpil ""
+
+# game/script.rpy:10225
+translate schinese explore_gym2_46d164cf:
+
+    # gpil "I guess there are some good men out there."
+    gpil ""
+
+# game/script.rpy:10226
+translate schinese explore_gym2_06684c54:
+
+    # c "Don't give up hope, ladies."
+    c ""
+
+# game/script.rpy:10227
+translate schinese explore_gym2_394d706a:
+
+    # bpil "Thank you~"
+    bpil ""
+
+# game/script.rpy:10229
+translate schinese explore_gym2_9ea46ab7:
+
+    # chloe "Alright everyone! Are you ready?\nToday we'll start off with some warmups. Spine curls!"
+    chloe ""
+
+# game/script.rpy:10231
+translate schinese explore_gym2_82cf3439:
+
+    # chloe "I want you all to lay down on your mats, knees bent, feet at hip width, arms at your sides, like so..."
+    chloe ""
+
+# game/script.rpy:10232
+translate schinese explore_gym2_36489c85:
+
+    # chloe "Take a deep breath in, hold it, and as you exhale..."
+    chloe ""
+
+# game/script.rpy:10234
+translate schinese explore_gym2_d6611761:
+
+    # chloe "...Slowly engage your core, pushing upwards as you keep your spine straight, creating a straight line between your knees and shoulders..."
+    chloe ""
+
+# game/script.rpy:10236
+translate schinese explore_gym2_062aedb5:
+
+    # viktor "{i}Good luck, brother...!{/i}"
+    viktor ""
+
+# game/script.rpy:10237
+translate schinese explore_gym2_358da73a:
+
+    # c "{i}You seem a little scared.{/i}"
+    c ""
+
+# game/script.rpy:10238
+translate schinese explore_gym2_603579df:
+
+    # viktor "{i}N-Not at all! Just, ehh... new challenge!{/i}"
+    viktor ""
+
+# game/script.rpy:10240
+translate schinese explore_gym2_dff129ee:
+
+    # chloe "Come on, everyone! Now you!"
+    chloe ""
+
+# game/script.rpy:10241
+translate schinese explore_gym2_03ab5eb6:
+
+    # viktor "{i}Okay, okay...! You got this Viktor!{/i}"
+    viktor ""
+
+# game/script.rpy:10243
+translate schinese explore_gym2_8d1c8580:
+
+    # chloe "Good! Good! Feel your glutes and hamstrings engage. Don't over-arch the back!"
+    chloe ""
+
+# game/script.rpy:10244
+translate schinese explore_gym2_059d4db1:
+
+    # viktor "Nnngh...!"
+    viktor ""
+
+# game/script.rpy:10245
+translate schinese explore_gym2_dce6d391:
+
+    # chloe "And release..."
+    chloe ""
+
+# game/script.rpy:10247
+translate schinese explore_gym2_4481e10b:
+
+    # viktor "{i}Phew... okay, not so bad after all!{/i}"
+    viktor ""
+
+# game/script.rpy:10248
+translate schinese explore_gym2_c4a69569:
+
+    # chloe "And again!"
+    chloe ""
+
+# game/script.rpy:10250
+translate schinese explore_gym2_b20547cc:
+
+    # viktor "Hnnh!"
+    viktor ""
+
+# game/script.rpy:10251
+translate schinese explore_gym2_dce6d391_1:
+
+    # chloe "And release..."
+    chloe ""
+
+# game/script.rpy:10253
+translate schinese explore_gym2_c201b756:
+
+    # chloe "Once more!"
+    chloe ""
+
+# game/script.rpy:10254
+translate schinese explore_gym2_d66a2379:
+
+    # viktor "{i}Fucking shit...!{/i}"
+    viktor ""
+
+# game/script.rpy:10256
+translate schinese explore_gym2_f3f86bdf:
+
+    # chloe "Good job, ladies! Good job! Don't forget to breathe!"
+    chloe ""
+
+# game/script.rpy:10257
+translate schinese explore_gym2_01b87979:
+
+    # chloe "We're going to hold on this one. Keep your core engaged, don't let go!"
+    chloe ""
+
+# game/script.rpy:10258
+translate schinese explore_gym2_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:10259
+translate schinese explore_gym2_e6b1d5c6:
+
+    # c "...!" with ssshake
+    c "" with ssshake
+
+# game/script.rpy:10260
+translate schinese explore_gym2_526aced2:
+
+    # c "...!!" with ssshake
+    c "" with ssshake
+
+# game/script.rpy:10263
+translate schinese explore_gym2_280b4d4d:
+
+    # viktor "{i}Rrrg! When will it end...!?{/i}"
+    viktor ""
+
+# game/script.rpy:10264
+translate schinese explore_gym2_74aebb50:
+
+    # viktor "DON'T GIVE UP BROTHER! FIIIIIGHT!!" with ssshake
+    viktor "" with ssshake
+
+# game/script.rpy:10265
+translate schinese explore_gym2_ac86af95:
+
+    # chloe "SHH!!"
+    chloe ""
+
+# game/script.rpy:10268
+translate schinese explore_gym2_ac54c096:
+
+    # viktor "{i}Hrrrgh! RRRRRGH!{/i}"
+    viktor ""
+
+# game/script.rpy:10269
+translate schinese explore_gym2_ed2745c5:
+
+    # chloe "Hold it..."
+    chloe ""
+
+# game/script.rpy:10270
+translate schinese explore_gym2_ab6d2d42:
+
+    # chloe "Hold it...!"
+    chloe ""
+
+# game/script.rpy:10271
+translate schinese explore_gym2_f5764f22:
+
+    # chloe "Release!"
+    chloe ""
+
+# game/script.rpy:10273
+translate schinese explore_gym2_ae345d51:
+
+    # viktor "Ahhh! Hahhh...! We did it...!"
+    viktor ""
+
+# game/script.rpy:10274
+translate schinese explore_gym2_6a43e138:
+
+    # viktor "Hahh... Another...! Personal record...! Hahhh... Hahah! ...VIKTORY!! "
+    viktor ""
+
+# game/script.rpy:10275
+translate schinese explore_gym2_52f9eceb:
+
+    # chloe "And now, hanging leg raises!"
+    chloe ""
+
+# game/script.rpy:10277
+translate schinese explore_gym2_43fca548:
+
+    # viktor "What!? NO! It's not over!?" with ssshake
+    viktor "" with ssshake
+
+# game/script.rpy:10278
+translate schinese explore_gym2_fbb81858:
+
+    # chloe "We've only just begun!"
+    chloe ""
+
+# game/script.rpy:10279
+translate schinese explore_gym2_76b46b5e:
+
+    # viktor "{i}{size=-5}Oh...{/size}{/i}"
+    viktor ""
+
+# game/script.rpy:10281
+translate schinese explore_gym2_1a6843f8:
+
+    # chloe "Good job, everyone! Hold it..."
+    chloe ""
+
+# game/script.rpy:10282
+translate schinese explore_gym2_2746d72e:
+
+    # viktor "I. REGRET. {b}EVERYTHING!!!{/b}" with ssshake
+    viktor "" with ssshake
+
+# game/script.rpy:10283
+translate schinese explore_gym2_3c54a4f8:
+
+    # gpil "SHH!"
+    gpil ""
+
+# game/script.rpy:10285
+translate schinese explore_gym2_c350c4eb:
+
+    # chloe "Now, planking!"
+    chloe ""
+
+# game/script.rpy:10288
+translate schinese explore_gym2_04de4786:
+
+    # viktor "RRRRRGH! RRRGHHHH!!!"
+    viktor ""
+
+# game/script.rpy:10289
+translate schinese explore_gym2_492e6b06:
+
+    # chloe "Thirty seconds gone, thirty to go!"
+    chloe ""
+
+# game/script.rpy:10290
+translate schinese explore_gym2_5fa4204f:
+
+    # viktor "{b}THIRTY!?!?{/b}"
+    viktor ""
+
+# game/script.rpy:10291
+translate schinese explore_gym2_71efa97f:
+
+    # chloe "Keep that spine straight, ladies!"
+    chloe ""
+
+# game/script.rpy:10292
+translate schinese explore_gym2_c53be2b1:
+
+    # viktor "NNNNGHHH!!!"
+    viktor ""
+
+# game/script.rpy:10294
+translate schinese explore_gym2_cd9ac45f:
+
+    # chloe "High bridge!"
+    chloe ""
+
+# game/script.rpy:10297
+translate schinese explore_gym2_7141ff08:
+
+    # viktor "{b}AAAARRRRGH!!!{/b}"
+    viktor ""
+
+# game/script.rpy:10298
+translate schinese explore_gym2_ed2745c5_1:
+
+    # chloe "Hold it..."
+    chloe ""
+
+# game/script.rpy:10299
+translate schinese explore_gym2_5ebcf727:
+
+    # viktor "I CANNOT! I CANNOT!"
+    viktor ""
+
+# game/script.rpy:10300
+translate schinese explore_gym2_35266193:
+
+    # chloe "Just five more seconds!"
+    chloe ""
+
+# game/script.rpy:10301
+translate schinese explore_gym2_32b0f652:
+
+    # c "You got this, man! Don't give up now!"
+    c ""
+
+# game/script.rpy:10302
+translate schinese explore_gym2_7c0e1676:
+
+    # viktor "IT IS NOT SO EASY WHEN YOU ARE AS HEAVY AS A FRIDGE!! AAAAGH!!"
+    viktor ""
+
+# game/script.rpy:10304
+translate schinese explore_gym2_bcc71673:
+
+    # chloe "And done! You all did so great, pat yourselves on the back."
+    chloe ""
+
+# game/script.rpy:10306
+translate schinese explore_gym2_7c4a0e93:
+
+    # viktor "Hahhh... hahhh... hahhh..."
+    viktor ""
+
+# game/script.rpy:10307
+translate schinese explore_gym2_71310ccb:
+
+    # viktor "We did it... brother... we CONQUERED! Hahhh..."
+    viktor ""
+
+# game/script.rpy:10308
+translate schinese explore_gym2_2972b28c:
+
+    # c "That was harder than I thought it would be..."
+    c ""
+
+# game/script.rpy:10309
+translate schinese explore_gym2_873e26d4:
+
+    # viktor "And yet... we were..."
+    viktor ""
+
+# game/script.rpy:10311
+translate schinese explore_gym2_3d4aee94:
+
+    # viktor "{i}{u}{b}VIKTORIOUS!!!{/b}{/u}{/i}"
+    viktor ""
+
+# game/script.rpy:10313
+translate schinese explore_gym2_39b71554:
+
+    # viktor "Ahhh... okay... I take nap now..."
+    viktor ""
+
+# game/script.rpy:10315
+translate schinese explore_gym2_0b421c1f:
+
+    # c "Phew... I feel reinvigorated."
+    c ""
+
+# game/script.rpy:10316
+translate schinese explore_gym2_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:10319
+translate schinese explore_gym2_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:10321
+translate schinese explore_gym2_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:10323
+translate schinese explore_gym2_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:10334
+translate schinese explore_gym1_9153927a:
+
+    # crowd "GO! GO! GO! GO!"
+    crowd ""
+
+# game/script.rpy:10335
+translate schinese explore_gym1_ed79967f:
+
+    # c "{i}What the hell?{/i}"
+    c ""
+
+# game/script.rpy:10337
+translate schinese explore_gym1_a220493d:
+
+    # crowd "...23! ...24! ...25! ...26! ...27! ...28! ...29! ...30!"
+    crowd ""
+
+# game/script.rpy:10339
+translate schinese explore_gym1_cbde64a5:
+
+    # crowd "31! 32! 33! 34! 35! 36! 37! 38!"
+    crowd ""
+
+# game/script.rpy:10341
+translate schinese explore_gym1_410e8938:
+
+    # crowd "39! 40! \nFourty o- tw- thr- fou-\n*mumbled attempts continue*"
+    crowd ""
+
+# game/script.rpy:10343
+translate schinese explore_gym1_c54c5d7d:
+
+    # viktor "AHAHAHAH! Another {i}VIKTORY{/i} for VIKTOR the VIKTORIOUS!"
+    viktor ""
+
+# game/script.rpy:10345
+translate schinese explore_gym1_09687b69:
+
+    # viktor "AND TOMORROW? Another personal record!"
+    viktor ""
+
+# game/script.rpy:10347
+translate schinese explore_gym1_383638ea:
+
+    # crowd "YEAH!\nWOOO!\nVIKTOR! VIKTOR! VIKTOR!"
+    crowd ""
+
+# game/script.rpy:10348
+translate schinese explore_gym1_39b9d5f6:
+
+    # "*ALARM BLARING*"
+    ""
+
+# game/script.rpy:10350
+translate schinese explore_gym1_2bd73e6b:
+
+    # viktor "Oh shit... I've done it again..."
+    viktor ""
+
+# game/script.rpy:10352
+translate schinese explore_gym1_f6a99114:
+
+    # viktor "WHAT ARE YOU DOING!? Run! Get out of here while you still can!"
+    viktor ""
+
+# game/script.rpy:10354
+translate schinese explore_gym1_0b079705:
+
+    # maya "VIKTOR!!!"
+    maya ""
+
+# game/script.rpy:10355
+translate schinese explore_gym1_82d871e5:
+
+    # maya "How did I know it was you? {b}HUH!?{/b} IT'S ALWAYS YOU!!"
+    maya ""
+
+# game/script.rpy:10357
+translate schinese explore_gym1_130fdb68:
+
+    # viktor "But of course it was me! Who else could do it!\nM-Ms. Maya, how are you?"
+    viktor ""
+
+# game/script.rpy:10358
+translate schinese explore_gym1_f92c4863:
+
+    # maya "PRETTY SHITTY NOW!"
+    maya ""
+
+# game/script.rpy:10359
+translate schinese explore_gym1_2b9993af:
+
+    # viktor "Ohh, but you are pretty {i}beautiful{/i}, no? Don't give yourself worry lines!"
+    viktor ""
+
+# game/script.rpy:10360
+translate schinese explore_gym1_a498b753:
+
+    # maya "YOU STOLE MY VENDING MACHINE, AGAIN!"
+    maya ""
+
+# game/script.rpy:10361
+translate schinese explore_gym1_817fe3f2:
+
+    # viktor "No no, you have it all wrong! I {i}borrowed{/i} your vending machine again!"
+    viktor ""
+
+# game/script.rpy:10362
+translate schinese explore_gym1_83bcafce:
+
+    # maya "Put it back! NOW!"
+    maya ""
+
+# game/script.rpy:10363
+translate schinese explore_gym1_577974d5:
+
+    # viktor "Of course! Whatever you say!"
+    viktor ""
+
+# game/script.rpy:10364
+translate schinese explore_gym1_0faa419f:
+
+    # "*alarm ceases*"
+    ""
+
+# game/script.rpy:10366
+translate schinese explore_gym1_7bb63325:
+
+    # viktor "Oh, hello! Nice weather we're having, isn't it?"
+    viktor ""
+
+# game/script.rpy:10367
+translate schinese explore_gym1_f2557b82:
+
+    # c "Yeah, not bad..."
+    c ""
+
+# game/script.rpy:10368
+translate schinese explore_gym1_f6da4e53:
+
+    # viktor "You must be new! My name is Viktor, VIKTOR THE VIKTORIOUS!\n{w=1}...Nice to meet you!"
+    viktor ""
+
+# game/script.rpy:10369
+translate schinese explore_gym1_7711b6ef:
+
+    # c "Likewise. I'm [name]."
+    c ""
+
+# game/script.rpy:10370
+translate schinese explore_gym1_36eed7bd:
+
+    # viktor "Funny name, but I like it! Be seeing you~!"
+    viktor ""
+
+# game/script.rpy:10372
+translate schinese explore_gym1_90569a4b:
+
+    # maya "Rrrrgh...\nSorry about him. He's always causing trouble!"
+    maya ""
+
+# game/script.rpy:10373
+translate schinese explore_gym1_2a38900c:
+
+    # c "No problem, he seems like a nice guy."
+    c ""
+
+# game/script.rpy:10374
+translate schinese explore_gym1_fd6511a7:
+
+    # maya "Sure... until he breaks all of your equipment!"
+    maya ""
+
+# game/script.rpy:10376
+translate schinese explore_gym1_8bbd8005:
+
+    # maya "Oh hey, you came prepared this time. Good shit. Are you sure you don't want a locker to keep your gym clothes in?"
+    maya ""
+
+# game/script.rpy:10377
+translate schinese explore_gym1_fb218c94:
+
+    # c "I'll think about it. Still getting back into the routine."
+    c ""
+
+# game/script.rpy:10378
+translate schinese explore_gym1_18227320:
+
+    # maya "Sure, no problem. Let me know if you need anything."
+    maya ""
+
+# game/script.rpy:10379
+translate schinese explore_gym1_86633010:
+
+    # c "Thanks, I will."
+    c ""
+
+# game/script.rpy:10381
+translate schinese explore_gym1_03695952:
+
+    # c "{i}...Okay, last time I focused on biceps... this time I'll focus on legs.{/i}"
+    c ""
+
+# game/script.rpy:10386
+translate schinese explore_gym1_c68e5af6:
+
+    # c "{i}10... 11... 12.{/i}"
+    c ""
+
+# game/script.rpy:10388
+translate schinese explore_gym1_bbefa5f5:
+
+    # c "Phew... three sets done. I can push another!"
+    c ""
+
+# game/script.rpy:10390
+translate schinese explore_gym1_fce5a0de:
+
+    # c "{i}1...! 2...! Nnngh...! 3...!{/i}{w}\n4...! 5...! Nnnh!{w}\nSiiiiix...! Sevennnn...!"
+    c ""
+
+# game/script.rpy:10392
+translate schinese explore_gym1_dc36788d:
+
+    # c "What the hell?"
+    c ""
+
+# game/script.rpy:10394
+translate schinese explore_gym1_cd2e2645:
+
+    # viktor "Oh! Don't mind me, friend! I noticed you were pushing your limits! Becoming {i}VIKTORIOUS!!{/i} {w=2}No?"
+    viktor ""
+
+# game/script.rpy:10395
+translate schinese explore_gym1_6afea0e2:
+
+    # c "Uh, yeah... but it's a little weird having you behind me like that with no warning..."
+    c ""
+
+# game/script.rpy:10396
+translate schinese explore_gym1_56ec2868:
+
+    # viktor "Oh yes, of course! Sorry!"
+    viktor ""
+
+# game/script.rpy:10397
+translate schinese explore_gym1_efd95cca:
+
+    # c "I think I'm done anyway."
+    c ""
+
+# game/script.rpy:10398
+translate schinese explore_gym1_608afd99:
+
+    # viktor "Are you sure? Okay! Please, let me take that for you."
+    viktor ""
+
+# game/script.rpy:10400
+translate schinese explore_gym1_92f04309:
+
+    # viktor "Ahh... all in a day's work, right friend?"
+    viktor ""
+
+# game/script.rpy:10401
+translate schinese explore_gym1_ff94769d:
+
+    # c "Hey... you seem like a nice guy, but I hope you aren't trying to hit on me. I don't swing that way."
+    c ""
+
+# game/script.rpy:10403
+translate schinese explore_gym1_ae992d0c:
+
+    # viktor "Hit on you? I'm a pacifist! Why would I do that?"
+    viktor ""
+
+# game/script.rpy:10404
+translate schinese explore_gym1_2443d879:
+
+    # c "...What? No, I mean... I'm not gay."
+    c ""
+
+# game/script.rpy:10406
+translate schinese explore_gym1_8658d5b9:
+
+    # viktor "Oh HAHAHAH! I see, I see! The common colloquialism of {i}'hit on'!{/i}"
+    viktor ""
+
+# game/script.rpy:10407
+translate schinese explore_gym1_a2c275b8:
+
+    # viktor "Relax, friend! We share this in common! I too like boobies!"
+    viktor ""
+
+# game/script.rpy:10408
+translate schinese explore_gym1_2c098a1d:
+
+    # c "Oh. My bad."
+    c ""
+
+# game/script.rpy:10409
+translate schinese explore_gym1_ba0fa03a:
+
+    # viktor "Don't worry! No, no! Is common misconception!"
+    viktor ""
+
+# game/script.rpy:10411
+translate schinese explore_gym1_9a7a2d40:
+
+    # viktor "Everyone here knows me as a friend. I am here every day! Just let me know if you need any help."
+    viktor ""
+
+# game/script.rpy:10412
+translate schinese explore_gym1_be0c7db0:
+
+    # c "That explains how you got so big. Is that all natural?"
+    c ""
+
+# game/script.rpy:10414
+translate schinese explore_gym1_8de04313:
+
+    # viktor "Of course!"
+    viktor ""
+
+# game/script.rpy:10417
+translate schinese explore_gym1_96b9c112:
+
+    # viktor "I wouldn't be very {i}viktorious{/i} if I cheated, would I!?"
+    viktor ""
+
+# game/script.rpy:10420
+translate schinese explore_gym1_fc8b26f7:
+
+    # c "I guess not. What's your secret?"
+    c ""
+
+# game/script.rpy:10422
+translate schinese explore_gym1_8fe1487e:
+
+    # viktor "My secret? I break record EVERY day!"
+    viktor ""
+
+# game/script.rpy:10423
+translate schinese explore_gym1_af98a6cc:
+
+    # viktor "Everyone can do it! If you can only do one squat, then do one squat! Tomorrow, do two!"
+    viktor ""
+
+# game/script.rpy:10424
+translate schinese explore_gym1_1c392c91:
+
+    # viktor "By the end of year, you're doing 365 squats a day, minimum! Don't push too hard, consistency is the key!"
+    viktor ""
+
+# game/script.rpy:10425
+translate schinese explore_gym1_c792141f:
+
+    # c "Are you serious? That's insane! How do you not get tired?"
+    c ""
+
+# game/script.rpy:10427
+translate schinese explore_gym1_a3ecca35:
+
+    # viktor "Friend, my body doesn't get tired! I have always worked below my limits."
+    viktor ""
+
+# game/script.rpy:10429
+translate schinese explore_gym1_12032f1a:
+
+    # viktor "Giving your body the time it needs to adjust is also key. My joints never even hurt after 1,000 squats a day!"
+    viktor ""
+
+# game/script.rpy:10430
+translate schinese explore_gym1_a5386d64:
+
+    # c "You can do 1,000 squats a day!?"
+    c ""
+
+# game/script.rpy:10431
+translate schinese explore_gym1_e40fb267:
+
+    # viktor "Oh, much more than that, friend! But I have left the calisthenics behind a long time ago. I have set new goals with higher weights, and break them each day!"
+    viktor ""
+
+# game/script.rpy:10432
+translate schinese explore_gym1_c81a44c5:
+
+    # c "I see why they call you victorious."
+    c ""
+
+# game/script.rpy:10434
+translate schinese explore_gym1_022eddcf:
+
+    # viktor "Yes, you see, I was once a very, uhh, rotund boy. Like blueberry!"
+    viktor ""
+
+# game/script.rpy:10435
+translate schinese explore_gym1_6a0cc775:
+
+    # viktor "My father would say... {i}'Do something with your life, you sad excuse of a semen. I never wanted you, and told your mother to abort you.'{/i}"
+    viktor ""
+
+# game/script.rpy:10437
+translate schinese explore_gym1_a499749c:
+
+    # viktor "But look at me now! I am alive! Strong! And happy! And he is dead."
+    viktor ""
+
+# game/script.rpy:10438
+translate schinese explore_gym1_66c5c2c9:
+
+    # c "Did you...?"
+    c ""
+
+# game/script.rpy:10440
+translate schinese explore_gym1_20a404f9:
+
+    # viktor "HAHAH! No, no! Suicide! He was very sad man. Not sorry for loss at all!"
+    viktor ""
+
+# game/script.rpy:10442
+translate schinese explore_gym1_e2d5d00c:
+
+    # viktor "Hey, you are immigrant too, no?"
+    viktor ""
+
+# game/script.rpy:10443
+translate schinese explore_gym1_2fd559b3:
+
+    # c "What gave it away?"
+    c ""
+
+# game/script.rpy:10444
+translate schinese explore_gym1_4d0d5801:
+
+    # viktor "Your dialect is, ehhh, slightly different. Perhaps you are from The Capitol?"
+    viktor ""
+
+# game/script.rpy:10445
+translate schinese explore_gym1_224c6d9a:
+
+    # c "Nearby, yeah. I just moved here actually.\nAnd you?"
+    c ""
+
+# game/script.rpy:10446
+translate schinese explore_gym1_86048365:
+
+    # viktor "Ruskovia! We are like ancestral neighbors! You are lucky you did not have to learn a new language."
+    viktor ""
+
+# game/script.rpy:10448
+translate schinese explore_gym1_2c6d62f3:
+
+    # viktor "It's been, uhhh, ten years and I still have trouble sometimes."
+    viktor ""
+
+# game/script.rpy:10450
+translate schinese explore_gym1_51c36b25:
+
+    # viktor "What do you think? Is good country, no? Plenty of opportunity, unlike the old world."
+    viktor ""
+
+# game/script.rpy:10454
+translate schinese explore_gym1_8000d67d:
+
+    # viktor "Advice for you, then!"
+    viktor ""
+
+# game/script.rpy:10455
+translate schinese explore_gym1_3321dfc2:
+
+    # viktor "Police always carry gun. Is not so common in Ruskovia. Do not try to fight the traffic ticket!"
+    viktor ""
+
+# game/script.rpy:10456
+translate schinese explore_gym1_22599ee8:
+
+    # viktor "Is easier to pay than medical bill, no?"
+    viktor ""
+
+# game/script.rpy:10457
+translate schinese explore_gym1_919824f8:
+
+    # c "Uh, yeah... I guess so."
+    c ""
+
+# game/script.rpy:10460
+translate schinese explore_gym1_70f3dc9e:
+
+    # viktor "HAHAH! The ladies, yes! Of course! Boobies everywhere, if you go to beach!"
+    viktor ""
+
+# game/script.rpy:10462
+translate schinese explore_gym1_8dec60d9:
+
+    # viktor "And every flavor, too! Some, you never even knew existed! It is like art exhibition here, no?"
+    viktor ""
+
+# game/script.rpy:10463
+translate schinese explore_gym1_e2e7d3a5:
+
+    # c "Haha, yeah I guess so."
+    c ""
+
+# game/script.rpy:10464
+translate schinese explore_gym1_b17809d1:
+
+    # viktor "And the elves! Quite interesting creatures. Not sure if they deserve to be, uhhh, cattle though."
+    viktor ""
+
+# game/script.rpy:10468
+translate schinese explore_gym1_4f23e8ad:
+
+    # viktor "Disappointed? How? In what way? Is beautiful country! Full of new building and road without pothole!"
+    viktor ""
+
+# game/script.rpy:10469
+translate schinese explore_gym1_f992d551:
+
+    # c "And expensive too. My taxes are crazy... they take almost half."
+    c ""
+
+# game/script.rpy:10471
+translate schinese explore_gym1_d1ef9573:
+
+    # viktor "Is small price to pay for no pothole.\nYou must be rich man, though! My taxes, only 32 percent."
+    viktor ""
+
+# game/script.rpy:10472
+translate schinese explore_gym1_0bc3359a:
+
+    # c "Well, I own a business. It's not doing so great yet, but..."
+    c ""
+
+# game/script.rpy:10473
+translate schinese explore_gym1_39227506:
+
+    # viktor "Ah! Business! What do you do?"
+    viktor ""
+
+# game/script.rpy:10474
+translate schinese explore_gym1_60b62bc1:
+
+    # c "I own a hotel."
+    c ""
+
+# game/script.rpy:10475
+translate schinese explore_gym1_835e9af1:
+
+    # viktor "Hotel! Wow! Maybe I come by some time.\nA little, uhh, how you say... stay-cation!"
+    viktor ""
+
+# game/script.rpy:10476
+translate schinese explore_gym1_ffcddb0a:
+
+    # c "Sure, you can use our hot springs. We're fully booked though."
+    c ""
+
+# game/script.rpy:10478
+translate schinese explore_gym1_e9e90520:
+
+    # viktor "I thought you just said business was not so great yet?"
+    viktor ""
+
+# game/script.rpy:10479
+translate schinese explore_gym1_39b90b83:
+
+    # c "Yeah, but... construction."
+    c ""
+
+# game/script.rpy:10481
+translate schinese explore_gym1_29367fe3:
+
+    # viktor "Oh! I see! Yes, hot spring sound amazing!"
+    viktor ""
+
+# game/script.rpy:10483
+translate schinese explore_gym1_d23daa16:
+
+    # viktor "Will help me become even more..."
+    viktor ""
+
+# game/script.rpy:10485
+translate schinese explore_gym1_07a2d053:
+
+    # viktor "{b}VIKTORIOUS!!!{/b}" with ssshake
+    viktor "" with ssshake
+
+# game/script.rpy:10488
+translate schinese explore_gym1_0b96cbbe:
+
+    # viktor "Well, I leave you too it, friend. Good luck on gains! I must break arm record for the day."
+    viktor ""
+
+# game/script.rpy:10489
+translate schinese explore_gym1_6ee63d47:
+
+    # c "Alright, good luck."
+    c ""
+
+# game/script.rpy:10491
+translate schinese explore_gym1_406d7641:
+
+    # viktor "LUCK HAS NOTHING TO DO WITH IT, FRIEND! AHAHAH!"
+    viktor ""
+
+# game/script.rpy:10493
+translate schinese explore_gym1_23ae5383:
+
+    # c "That was... an experience."
+    c ""
+
+# game/script.rpy:10495
+translate schinese explore_gym1_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:10498
+translate schinese explore_gym1_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:10500
+translate schinese explore_gym1_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:10502
+translate schinese explore_gym1_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:10510
+translate schinese explore_gym0_8d93d5e4:
+
+    # q "YOU THINK THIS IS FUNNY? {b}HUH!?{/b} TRY LAUGHING NOW!!"
+    q ""
+
+# game/script.rpy:10511
+translate schinese explore_gym0_ca25fcd9:
+
+    # man "I- Eghk! I'm sorry! ...I'm sorry! Nhk!"
+    man ""
+
+# game/script.rpy:10512
+translate schinese explore_gym0_f7bb7dfd:
+
+    # q "THIS IS NOT A PHOTO GALLERY! I've never even seen you work out a single fucking day!"
+    q ""
+
+# game/script.rpy:10514
+translate schinese explore_gym0_4e8a796b:
+
+    # q "Get the fuck out! You're banned!"
+    q ""
+
+# game/script.rpy:10515
+translate schinese explore_gym0_4e297ee1:
+
+    # man "*cough*! *cough*! Eghhk! Fuck you!"
+    man ""
+
+# game/script.rpy:10516
+translate schinese explore_gym0_d1ffe987:
+
+    # c "...Is this a bad time?"
+    c ""
+
+# game/script.rpy:10518
+translate schinese explore_gym0_9bf9795c:
+
+    # q "Hm? Oh, hello! No, not at all! Just taking out the trash."
+    q ""
+
+# game/script.rpy:10519
+translate schinese explore_gym0_185597f3:
+
+    # q "A new customer? I don't think I've seen you before."
+    q ""
+
+# game/script.rpy:10520
+translate schinese explore_gym0_d71d5f9c:
+
+    # c "Yeah, I was thinking about joining."
+    c ""
+
+# game/script.rpy:10521
+translate schinese explore_gym0_7089cf78:
+
+    # q "Sure! I can get you set up! Come with me."
+    q ""
+
+# game/script.rpy:10523
+translate schinese explore_gym0_95a75d1a:
+
+    # maya "So, I'm Maya. Welcome to The Forge! Caliber's highest rated gym, and my little home away from home."
+    maya ""
+
+# game/script.rpy:10524
+translate schinese explore_gym0_fca9f061:
+
+    # maya "Obviously if you're going to join us, don't take pictures of anyone else and keep to yourself."
+    maya ""
+
+# game/script.rpy:10525
+translate schinese explore_gym0_8124e3bd:
+
+    # c "Don't worry, I'm here for the gains."
+    c ""
+
+# game/script.rpy:10527
+translate schinese explore_gym0_cfa1050b:
+
+    # maya "Perfect. Membership starts at $10 a week, and if you would like to use the lockers and showers, that's an extra $5 a week."
+    maya ""
+
+# game/script.rpy:10528
+translate schinese explore_gym0_b6a0287a:
+
+    # c "I'll stick with the basics for now."
+    c ""
+
+# game/script.rpy:10529
+translate schinese explore_gym0_e9f913ce:
+
+    # maya "Sounds good, can I get your name, email address, and a form of payment? We don't accept NeroCoin."
+    maya ""
+
+# game/script.rpy:10531
+translate schinese explore_gym0_b10ae7ad:
+
+    # "You provide the necessary information and pay $10."
+    ""
+
+# game/script.rpy:10534
+translate schinese explore_gym0_c194beda:
+
+    # maya "You're all set! Would you like a tour of the gym?"
+    maya ""
+
+# game/script.rpy:10535
+translate schinese explore_gym0_c48dc32f:
+
+    # c "Sure."
+    c ""
+
+# game/script.rpy:10536
+translate schinese explore_gym0_85ebad60:
+
+    # maya "Great, follow me."
+    maya ""
+
+# game/script.rpy:10539
+translate schinese explore_gym0_559d4b5c:
+
+    # maya "You can find all our weights here. Just remember, sharing is caring... and don't drop your weights like an asshole. An alarm will go off if you make too much noise and I {i}will{/i} kick you out myself..."
+    maya ""
+
+# game/script.rpy:10540
+translate schinese explore_gym0_4266b309:
+
+    # c "Don't threaten me with a good time."
+    c ""
+
+# game/script.rpy:10541
+translate schinese explore_gym0_8fe7c65b:
+
+    # maya "Hah, funny..."
+    maya ""
+
+# game/script.rpy:10543
+translate schinese explore_gym0_de0cf789:
+
+    # maya "Here's our cardio section. Best views money can buy!"
+    maya ""
+
+# game/script.rpy:10544
+translate schinese explore_gym0_de4f0f6f:
+
+    # maya "Due to a recent incident involving pornographic material, you'll have to ask the staff for the remote. Otherwise the TVs stay as they are."
+    maya ""
+
+# game/script.rpy:10545
+translate schinese explore_gym0_4429f9d3:
+
+    # c "Someone was watching porn here?"
+    c ""
+
+# game/script.rpy:10546
+translate schinese explore_gym0_f7be6ed8:
+
+    # maya "He said it gave him motivation, I don't know. Just be decent, women work out here too."
+    maya ""
+
+# game/script.rpy:10548
+translate schinese explore_gym0_4d16948b:
+
+    # maya "And this is our pilates studio. I doubt you'll use it, but it's here."
+    maya ""
+
+# game/script.rpy:10549
+translate schinese explore_gym0_50cb7b68:
+
+    # c "I like to get a stretch in from time to time."
+    c ""
+
+# game/script.rpy:10551
+translate schinese explore_gym0_990d0d89:
+
+    # maya "Hah, it's not just stretching. It's a lot more similar to calisthenics. It'll kick your ass if you're not prepared."
+    maya ""
+
+# game/script.rpy:10552
+translate schinese explore_gym0_61eb1752:
+
+    # maya "A lot of men come in here thinking because they can lift some weights, they can do this too. But by all means, you're welcome to join a class."
+    maya ""
+
+# game/script.rpy:10554
+translate schinese explore_gym0_53d6b388:
+
+    # q "Maya! Is he gone...?"
+    q ""
+
+# game/script.rpy:10555
+translate schinese explore_gym0_e2eaa95f:
+
+    # maya "Oh hey. Yeah, don't worry, I kicked him out."
+    maya ""
+
+# game/script.rpy:10556
+translate schinese explore_gym0_acf353bc:
+
+    # q "Oh thank goodness..."
+    q ""
+
+# game/script.rpy:10558
+translate schinese explore_gym0_7cb25dab:
+
+    # maya "This is Chloe, our pilates instructor."
+    maya ""
+
+# game/script.rpy:10559
+translate schinese explore_gym0_a30f99b6:
+
+    # chloe "Hello~"
+    chloe ""
+
+# game/script.rpy:10560
+translate schinese explore_gym0_ddd8614d:
+
+    # maya "Talk to her if you'd like to join a class.\nTalk to me if you need some help lifting or want someone to spot you."
+    maya ""
+
+# game/script.rpy:10562
+translate schinese explore_gym0_caad5691:
+
+    # chloe "You're welcome any time! We don't have any men doing pilates here, but we don't discriminate!"
+    chloe ""
+
+# game/script.rpy:10563
+translate schinese explore_gym0_40e06dbe:
+
+    # maya "Let's see... am I missing anything? Bathrooms are just before the main room... snacks and drinks are in the lobby... Oh! No drugs."
+    maya ""
+
+# game/script.rpy:10564
+translate schinese explore_gym0_993ba4d9:
+
+    # c "Sounds good."
+    c ""
+
+# game/script.rpy:10566
+translate schinese explore_gym0_02c15866:
+
+    # maya "Alright, then you're all set. Enjoy! You might want to bring some better workout clothes next time though."
+    maya ""
+
+# game/script.rpy:10567
+translate schinese explore_gym0_6a2ce831:
+
+    # c "Yeah, thanks. I'll keep that in mind."
+    c ""
+
+# game/script.rpy:10568
+translate schinese explore_gym0_57240141:
+
+    # maya "You know where I'll be if you need me. See you around."
+    maya ""
+
+# game/script.rpy:10574
+translate schinese explore_gym0_d848add2:
+
+    # c "*exhale*... I've reached my limit..."
+    c ""
+
+# game/script.rpy:10576
+translate schinese explore_gym0_0c46a488:
+
+    # c "...And now I fucking stink."
+    c ""
+
+# game/script.rpy:10578
+translate schinese explore_gym0_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:10581
+translate schinese explore_gym0_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:10583
+translate schinese explore_gym0_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    ""
+
+# game/script.rpy:10585
+translate schinese explore_gym0_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:14825
+translate schinese out1_98c4bab8_1:
+
+    # r "End of Corpus Cafe content... for now."
+    r ""
+
+# game/script.rpy:14930
+translate schinese berns_187c3e99:
+
+    # c "Time to get in shape. Where can I find a gym?"
+    c ""
+
+# game/script.rpy:14932
+translate schinese berns_3a3f0eaa:
+
+    # "You walk around Caliber's streets looking for the closest gym to the bus stop."
+    ""
+
+# game/script.rpy:14933
+translate schinese berns_671e67ac:
+
+    # "A few blocks away you manage to find one with some promise."
+    ""
+
+# game/script.rpy:14939
+translate schinese berns_1aa1d686:
+
+    # c "Time to hit the gym."
+    c ""
+
+# game/script.rpy:14948
+translate schinese berns_756a38cf:
+
+    # r "End of The Forge content... for now."
+    r ""
+
+# game/script.rpy:15406
+translate schinese bern_tourney_1961ec54:
+
+    # zara "You don't have to rub it in..."
+    zara ""
+
+# game/script.rpy:16617
+translate schinese nextfrontdoor_1ca20fdf:
+
+    # mail "You pick up Ashley's stiletto"
+    mail ""
+
+# game/script.rpy:25961
+translate schinese mailorder_ccaeadc2:
+
+    # mail "Your mail has arrived! Packages have been left in the mailbox."
+    mail ""
+
+# game/script.rpy:27019
+translate schinese checkdone_7c001998:
+
+    # r "Lin's story is not done, more will be added to her in v0.20!"
+    r ""
+
+# game/script.rpy:27027
+translate schinese checkdone_655f4a97:
+
+    # r "Ashley's story is not done, more will be added to her in v0.20!"
+    r ""
+
+translate schinese strings:
+
+    # game/script.rpy:92
+    old "Cornwall"
+    new ""
+
+    # game/script.rpy:93
+    old "Nero"
+    new ""
+
+    # game/script.rpy:209
+    old "Cyberpup"
+    new ""
+
+    # game/script.rpy:10451
+    old "Love it so far!"
+    new ""
+
+    # game/script.rpy:10451
+    old "It's amazing. And the ladies, too..."
+    new ""
+
+    # game/script.rpy:10451
+    old "A bit disappointed, honestly."
+    new ""
+
+    # game/script.rpy:14801
+    old "{color=#8C8C8C}Visit the Corpus Cafe{/color}"
+    new ""
+
+    # game/script.rpy:14801
+    old "1AP) Join a gym"
+    new ""
+
+    # game/script.rpy:14801
+    old "1AP) Visit The Forge"
+    new ""
+
+    # game/script.rpy:20723
+    old "You may now continue Lin's story from here or at her door.\nIt is recommended to play this event last."
+    new ""
 
