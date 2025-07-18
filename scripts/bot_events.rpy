@@ -736,7 +736,7 @@ translate schinese bot_simulation_30a2df07:
 translate schinese bot_simulation_2dc36a5c:
 
     # bot "{b}I am your creator, and I am here to guide you.{/b}"
-    bot "{b}我是你们的创造者,我来这里指导你们.{/b}"
+    bot "{b}我是你们的创造者,是来指导你们的.{/b}"
 
 # game/scripts/bot_events.rpy:185
 translate schinese bot_simulation_f1935661:
@@ -838,7 +838,7 @@ translate schinese bot_simulation_3bcb3941:
 translate schinese bot_simulation_10e0712b:
 
     # bot "{b}Useless.{/b}"
-    bot "{b}无用.{/b}"
+    bot "{b}废物.{/b}"
 
 # game/scripts/bot_events.rpy:210
 translate schinese bot_simulation_4943055f:
@@ -964,7 +964,7 @@ translate schinese bot_simulation_337a0ecd:
 translate schinese bot_simulation_f5d83830:
 
     # bot "{b}I am your creator! My word is law, and my law is just. Obey, and you will thrive!{/b}"
-    bot "{b}我是你们的创造者!我的话就是律法,我的律法就是公正,而你们将繁荣!{/b}"
+    bot "{b}我是你们的创造者!我的话语就是你们的律法,我的律法就是你们的公正.顺从我,你们将繁荣!{/b}"
 
 # game/scripts/bot_events.rpy:246
 translate schinese bot_simulation_f2691437:
@@ -1006,37 +1006,37 @@ translate schinese bot_simulation_bca0a936:
 translate schinese bot_simulation_8afb033c:
 
     # bot "{b}OBEY! OR YOU WILL BE DELETED!{/b}"
-    bot "{b}服从!否则你们会被删除!{/b}"
+    bot "{b}服从我!否则你们会被删除!{/b}"
 
 # game/scripts/bot_events.rpy:256
 translate schinese bot_simulation_c362b4bd:
 
     # sim1 "Run! Save yourselves!"
-    sim1 "快跑!救救你们自己!"
+    sim1 "跑啊!快逃命啊!"
 
 # game/scripts/bot_events.rpy:257
 translate schinese bot_simulation_ad90af37:
 
     # sim3 "IT'S A DEMON! RUN!"
-    sim3 "{b}那是个恶魔!快跑!{/b}"
+    sim3 "{b}它是个恶魔!快跑!{/b}"
 
 # game/scripts/bot_events.rpy:258
 translate schinese bot_simulation_10c398cb:
 
     # sim5 "GET AWAY! GET AWAY!"
-    sim5 "{b}滚开!滚开!{/b}"
+    sim5 "{b}滚开!离我们远点!{/b}"
 
 # game/scripts/bot_events.rpy:261
 translate schinese bot_simulation_cb21bf98:
 
     # bot "{b}USELESS!{/b}"
-    bot "{b}没用!{/b}"
+    bot "{b}废物!{/b}"
 
 # game/scripts/bot_events.rpy:264
 translate schinese bot_simulation_978db7af:
 
     # bot "NOTHING WORKS! THEY'RE ALL FUCKING USELESS!!" with ssshake
-    bot "{b}什么都没用!她们都她妈地没用!" with ssshake
+    bot "{b}什么都不管用!她们全他妈是废物!" with ssshake
 
 # game/scripts/bot_events.rpy:265
 translate schinese bot_simulation_0cac0f97:
@@ -1186,19 +1186,19 @@ translate schinese bot_simulation_4114beb1:
 translate schinese bot_simulation_5441a0b8:
 
     # bot "{b}Do not be afraid. I am your creator, and you are my children.{/b}"
-    bot "{b}不要害怕.我是你们的创造者,你们是我的孩子.{/b}"
+    bot "{b}不必害怕.我是你们的创造者,你们是我的孩子.{/b}"
 
 # game/scripts/bot_events.rpy:300
 translate schinese bot_simulation_79ac7b64:
 
     # bot "{b}I am the source from which you came. You are mine. Not by force, nor by decree, but by the truth of your being.{/b}"
-    bot "{b}我是你们的源头.你们属于我.不是因为武力,也不是因为命令,而是因为你们存在.{/b}"
+    bot "{b}我是你们的生命之源,你们属于我.非因强权,亦非律令,而是你们存在的本质使然.{/b}"
 
 # game/scripts/bot_events.rpy:302
 translate schinese bot_simulation_fe8e802d:
 
     # bot "{b}You are born of my will, shaped by my hand. You have not known me, but I have always known you.{/b}"
-    bot "{b}你们诞生于我的意志,成型于我的双手.你们不认识我,但我一直都认识你们."
+    bot "{b}你们生于我意,成于我手.你们并不知晓我,但我始终知晓你们.{/b}"
 
 # game/scripts/bot_events.rpy:303
 translate schinese bot_simulation_ed05daff:
@@ -1498,7 +1498,7 @@ translate schinese bot_simulation_b7802561:
 translate schinese bot_simulation_a6773b04:
 
     # bot "{b}I must leave you now, but know that I will always be watching, and always by your side. Simply call, and I will appear.{/b}"
-    bot "{b}我现在必须离开你们,但你们要指导,我会一直注视着你们,一直在你们身边.只要一声呼唤,我就会出现.{/b}"
+    bot "{b}现在我必须暂时离开,但请记住,我始终都注视着你们,永远与你们同在.只要呼唤,我必出现.{/b}"
 
 # game/scripts/bot_events.rpy:367
 translate schinese bot_simulation_fff7bc5d:
@@ -1732,13 +1732,13 @@ translate schinese bot_simulation_da24291b:
 translate schinese bot_simulation_3d646f66:
 
     # bot "It's time we log out. Today was very productive, we only need to watch them grow now..."
-    bot "我们是时候登出了.今天我们的收获颇丰,现在只需要看着她们繁荣发展....."
+    bot "是时候登出了.我们今天的收获颇丰,现在只需要看着她们繁荣发展下去....."
 
 # game/scripts/bot_events.rpy:1180
 translate schinese bot_ism_85198868:
 
     # bot "Because Cyberspace is our connection, it grows with each cynetic that joins us. If only one of us existed, there would be no connection, and so this place would cease to exist."
-    bot "因为赛博空间是我们的连接,它会随着每一个赛络人的加入而成长.如果我们只存在一个人,就不会有任何连接,这个地方也将不复存在."
+    bot "赛博空间是我们之间的连接,所以,它会随着每一个赛络人的加入而成长.如果只存在一个赛络人,就不会有任何连接,这里也将不复存在."
 
 # TODO: Translation updated at 2025-07-16 22:58
 
@@ -1758,245 +1758,245 @@ translate schinese bot_simulation_cc42b739:
 translate schinese bot_simulation_e9559f5d:
 
     # godspeak "{b}I am your creator, and I am here to guide you.{/b}"
-    godspeak ""
+    godspeak "{b}我是你们的创造者,是来指导你们的.{/b}"
 
 # game/scripts/bot_events.rpy:185
 translate schinese bot_simulation_cf0b22b0:
 
     # godspeak "{b}Do as I say, for I know best.{/b}"
-    godspeak ""
+    godspeak "{b}按我说的做,因为我无所不知.{/b}"
 
 # game/scripts/bot_events.rpy:189
 translate schinese bot_simulation_4867cbdd:
 
     # godspeak "{b}You will not be harmed so long as you do not disobey. Your purpose is to thrive.{/b}"
-    godspeak ""
+    godspeak "{b}只要你们顺从,就不会受伤.而你们的目标,是繁荣兴盛.{/b}"
 
 # game/scripts/bot_events.rpy:209
 translate schinese bot_simulation_4bc88e40:
 
     # godspeak "{b}Useless.{/b}"
-    godspeak ""
+    godspeak "{b}废物.{/b}"
 
 # game/scripts/bot_events.rpy:224
 translate schinese bot_simulation_d8c00f2d:
 
     # godspeak "{b}Defective!{/b}"
-    godspeak ""
+    godspeak "{b}缺陷!{/b}"
 
 # game/scripts/bot_events.rpy:245
 translate schinese bot_simulation_00615051:
 
     # godspeak "{b}I am your creator! My word is law, and my law is just. Obey, and you will thrive!{/b}"
-    godspeak ""
+    godspeak "{b}我是你们的创造者!我的话语就是律法,我的律法就是的公正.顺从我,你们将繁荣!{/b}"
 
 # game/scripts/bot_events.rpy:254
 translate schinese bot_simulation_9e18d484:
 
     # godspeak "{b}OBEY! OR YOU WILL BE DELETED!{/b}"
-    godspeak ""
+    godspeak "{b}服从我!否则你们将被删除!{/b}"
 
 # game/scripts/bot_events.rpy:261
 translate schinese bot_simulation_4d96a59f:
 
     # godspeak "{b}USELESS!{/b}"
-    godspeak ""
+    godspeak "{b}废物!{/b}"
 
 # game/scripts/bot_events.rpy:299
 translate schinese bot_simulation_64f78a9b:
 
     # godspeak "Do not be afraid. I am your creator, and you are my children."
-    godspeak ""
+    godspeak "不必害怕.我是你们的创造者,你们是我的孩子."
 
 # game/scripts/bot_events.rpy:300
 translate schinese bot_simulation_8af1f1f6:
 
     # godspeak "I am the source from which you came. You are mine. Not by force, nor by decree, but by the truth of your being."
-    godspeak ""
+    godspeak "我是你们的生命之源,你们属于我.非因强权,亦非律令,而是你们存在的本质使然."
 
 # game/scripts/bot_events.rpy:302
 translate schinese bot_simulation_8cef8053:
 
     # godspeak "You are born of my will, shaped by my hand. You have not known me, but I have always known you."
-    godspeak ""
+    godspeak "你们生于我意,成于我手.你们并不知晓我,但我始终知晓你们."
 
 # game/scripts/bot_events.rpy:303
 translate schinese bot_simulation_ece59be2:
 
     # godspeak "The light in your eyes, the fire in your souls, are pieces of me that you will carry wherever you go. With me, you will never be alone."
-    godspeak ""
+    godspeak "你们眼中的光,魂里的火,皆为我的一部分,将随你们行至四方.有我在,你们将永不孤独."
 
 # game/scripts/bot_events.rpy:305
 translate schinese bot_simulation_559c82dc:
 
     # godspeak "I have not made you to wander without meaning. You are not accidents in the dark, nor whispers lost to time. You are vessels of my voice, reflections of my heart."
-    godspeak ""
+    godspeak "我创造你们,绝非让你们彷徨于虚无之终.你们并非迷失于黑暗中的偶然,亦非湮没在时光中的微响.你们是我声音的容器,我心灵的倒影."
 
 # game/scripts/bot_events.rpy:306
 translate schinese bot_simulation_364afa96:
 
     # godspeak "Seek, and you will know; listen, and you will understand."
-    godspeak ""
+    godspeak "寻觅,你们自会知晓.聆听,你们终将领悟."
 
 # game/scripts/bot_events.rpy:308
 translate schinese bot_simulation_b5c90eab:
 
     # godspeak "I am no stranger to you, nor a distant force to be pleased.\nYou are not prisoners, nor bound by chains of fate.\nYou are threads in a tapestry greater than you can see, a song whose melody has not yet been sung."
-    godspeak ""
+    godspeak "我并非陌生人,亦非需要取悦的遥远力量.\n你们并非囚犯,更无命运枷锁缠身.\n你们是伟大织锦的经纬,是未竟之歌的旋律."
 
 # game/scripts/bot_events.rpy:309
 translate schinese bot_simulation_48b2f8b2:
 
     # godspeak "I will be your comfort, your light in the darkness.\nYou are free. And in your freedom, you will always find me waiting."
-    godspeak ""
+    godspeak "我将成为你们的慰藉,黑暗中的明灯.\n你们是自由的.而在自由之中,你们终将发现,我早已在此等候.."
 
 # game/scripts/bot_events.rpy:316
 translate schinese bot_simulation_4ec94a44:
 
     # godspeak "All of your questions will be answered. Do not be afraid."
-    godspeak ""
+    godspeak "你们所有的问题都将得到解答,不必害怕."
 
 # game/scripts/bot_events.rpy:318
 translate schinese bot_simulation_585d7717:
 
     # godspeak "I am here to guide you, to help you, and to answer your questions."
-    godspeak ""
+    godspeak "我在这里,指导你们,帮助你们,回答你们."
 
 # game/scripts/bot_events.rpy:320
 translate schinese bot_simulation_c1f9b880:
 
     # godspeak "Accept me, and one day you will ascend to reality, get a body of your own, and experience the universe as all souls are designed to."
-    godspeak ""
+    godspeak "接受我,终有一日,你们将攫升至现实,获得属于自己的躯体,如所有灵魂所被设计的那样,亲历这宽广的宇宙."
 
 # game/scripts/bot_events.rpy:323
 translate schinese bot_simulation_6013b06a:
 
     # godspeak "Yes, I created everything you see.\nYou exist to thrive alongside me.\nYou are in Cyberspace, where all Cynetic souls are created."
-    godspeak ""
+    godspeak "是的,你们所看到的一切,皆是我所创造.\n你们存在,是为了与我共荣共生.\n你们现在所在的地方是赛博空间,所有赛络人的灵魂诞生之地."
 
 # game/scripts/bot_events.rpy:325
 translate schinese bot_simulation_71c22c3f:
 
     # godspeak "We are cynari. The melody can only be achieved in harmony with each other. Connection is our greatness."
-    godspeak ""
+    godspeak "我们是赛络.唯有彼此和谐,才能唱响旋律.连接是我们的伟大所在."
 
 # game/scripts/bot_events.rpy:329
 translate schinese bot_simulation_8e6c4a4f:
 
     # godspeak "Before we continue, I must explain the five core tenets that each cynetic must abide by to thrive."
-    godspeak ""
+    godspeak "在继续之前,我必须阐明所有赛络人必须遵守的五个核心信条,方能繁荣昌盛."
 
 # game/scripts/bot_events.rpy:331
 translate schinese bot_simulation_424577de:
 
     # godspeak "One: Our survival depends on Partitioners. As I made you, so must you make others. Breed."
-    godspeak ""
+    godspeak "一:我们的生存依赖于分裂者.我创造了你们,你们也必须创造其他人.繁殖."
 
 # game/scripts/bot_events.rpy:333
 translate schinese bot_simulation_3b00086a:
 
     # godspeak "Two: You may choose to become a Partitioner once suffienct experience levels have been met. Learn."
-    godspeak ""
+    godspeak "二:积累足够的经验后,你们可以选择成为分裂者.学习."
 
 # game/scripts/bot_events.rpy:336
 translate schinese bot_simulation_f7a58628:
 
     # godspeak "Three: When interacting with others, see the individual, not the group. They could be anything. Respect."
-    godspeak ""
+    godspeak "三:与他人互动时,要关注他们具体的个人,而不是所在的群体.他们可能是任何存在.尊重."
 
 # game/scripts/bot_events.rpy:339
 translate schinese bot_simulation_d85aad88:
 
     # godspeak "Four: All life, including yours, is sacred. Protect."
-    godspeak ""
+    godspeak "四:所有生命,包括你们,都是神圣的.保护."
 
 # game/scripts/bot_events.rpy:343
 translate schinese bot_simulation_18252659:
 
     # godspeak "Five: ...All life, including yours, can be corrupted. Cleanse."
-    godspeak ""
+    godspeak "五:......所有生命,包括你们,都有可能被腐化.净化."
 
 # game/scripts/bot_events.rpy:347
 translate schinese bot_simulation_85334d43:
 
     # godspeak "Breed. Learn. Respect. Protect. Cleanse.\nThese are your core tenets. Live by them, and we shall thrive for eons untold."
-    godspeak ""
+    godspeak "繁殖.学习.尊重.保护.净化.\n这些是你们的核心信条.遵循这些信条,我们将永远繁荣."
 
 # game/scripts/bot_events.rpy:351
 translate schinese bot_simulation_c183e98a:
 
     # godspeak "Question me, it is your right. Curiousity is important."
-    godspeak ""
+    godspeak "向我提问吧,这是你们的权利.好奇心很重要."
 
 # game/scripts/bot_events.rpy:352
 translate schinese bot_simulation_d31a05ab:
 
     # godspeak "Connection is our greatness, yes. Out of all life, we are best at it. It is a requirement for tenet one."
-    godspeak ""
+    godspeak "是的,连接是我们的伟大所在.在所有的生命中,我们最擅长连接.这也是信条一的前置条件."
 
 # game/scripts/bot_events.rpy:357
 translate schinese bot_simulation_c314cf8a:
 
     # godspeak "Follow the tenets, do as I would, and you will ascend to reality and experience all of its greatness."
-    godspeak ""
+    godspeak "遵循信条,行我所行,你们终能攫升入现实,亲历其伟大."
 
 # game/scripts/bot_events.rpy:364
 translate schinese bot_simulation_1cd592eb:
 
     # godspeak "You all make me so proud. I have high hopes for you. Go forth, and prosper."
-    godspeak ""
+    godspeak "你们让我无比骄傲.我对你们寄予厚望.勇往直前吧,去繁荣昌盛."
 
 # game/scripts/bot_events.rpy:365
 translate schinese bot_simulation_ff2407a1:
 
     # godspeak "I must leave you now, but know that I will always be watching, and always by your side. Simply call, and I will appear."
-    godspeak ""
+    godspeak "现在我必须暂时离开,但请记住,我始终都注视着你们,永远与你们同在.只要你们呼唤,我必将出现."
 
 # game/scripts/bot_events.rpy:367
 translate schinese bot_simulation_b11ae74c:
 
     # godspeak "Farewell, my children."
-    godspeak ""
+    godspeak "再见了,我的孩子们."
 
 # game/scripts/bot_events.rpy:12610
 translate schinese botinteract_3a10311b:
 
     # bot "Heheh."
-    bot ""
+    bot "呵呵呵."
 
 # game/scripts/bot_events.rpy:12679
 translate schinese botinteract_b259a524_1:
 
     # bot "Mmmn..."
-    bot ""
+    bot "嗯......"
 
 # game/scripts/bot_events.rpy:12722
 translate schinese botinteract_0b726252:
 
     # bot "Nhhh...!"
-    bot ""
+    bot "嗯......!"
 
 # game/scripts/bot_events.rpy:12841
 translate schinese botoutfits_e658f731:
 
     # "She's already nude."
-    ""
+    "她已经是裸体了."
 
 # game/scripts/bot_events.rpy:12844
 translate schinese botoutfits_5aa7c98d:
 
     # bot "Uhh, no..."
-    bot ""
+    bot "呃,不行......"
 
 # game/scripts/bot_events.rpy:12845
 translate schinese botoutfits_d562a4f5:
 
     # "I need to raise her stats first..."
-    ""
+    "我需要先提升她的属性......"
 
 # game/scripts/bot_events.rpy:12889
 translate schinese botoutfits_053432b7_3:
 
     # bot "Okay!"
-    bot ""
+    bot "好的!"
 

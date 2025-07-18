@@ -97839,17 +97839,9 @@ translate schinese strings:
     old "Guard"
     new "警卫"
 
-    # game/script.rpy:123
-    old "Stalker Fan"
-    new "狂热粉丝"
-
     # game/script.rpy:125
     old "Announcer"
     new "播报员"
-
-    # game/script.rpy:126
-    old "Your Android"
-    new "你的智能机器人"
 
     # game/script.rpy:127
     old "Waiter"
@@ -98078,10 +98070,6 @@ translate schinese strings:
     # game/script.rpy:201
     old "Seer"
     new "先知"
-
-    # game/script.rpy:202
-    old "Gaianist"
-    new "盖乌斯教教徒"
 
     # game/script.rpy:203
     old "Bishop"

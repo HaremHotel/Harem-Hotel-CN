@@ -482,9 +482,6 @@ translate schinese strings:
     old "Stalker Fan"
     new "跟踪狂粉丝"
 
-    old "Serni"
-    new "瑟尼"
-
     old "Green Pilates Girl"
     new "正在做普拉提的绿衣女孩"
 

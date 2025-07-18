@@ -8,6 +8,141 @@ translate schinese python:
     style.default.font =  "SmileySans-Oblique.otf"
     gui.system_font = "SmileySans-Oblique.otf"
 
+    style.runey_say_label = Style(style.say_label)
+    style.runey_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.lin_say_label = Style(style.say_label)
+    style.lin_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.kali_say_label = Style(style.say_label)
+    style.kali_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.ashley_say_label = Style(style.say_label)
+    style.ashley_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.maria_say_label = Style(style.say_label)
+    style.maria_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.bot_say_label = Style(style.say_label)
+    style.bot_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.god_say_label = Style(style.say_label)
+    style.god_say_label.font = "SmileySans-Oblique.otf"
+    style.god_say_dialogue = Style(style.say_dialogue)
+    style.god_say_dialogue.font = "SmileySans-Oblique.otf"
+            
+    style.feli_say_label = Style(style.say_label)
+    style.feli_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.emma_say_label = Style(style.say_label)
+    style.emma_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.autumn_say_label = Style(style.say_label)
+    style.autumn_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.cast_say_label = Style(style.say_label)
+    style.cast_say_label.font = "SmileySans-Oblique.otf"
+    style.cast_say_dialogue = Style(style.say_dialogue)
+    style.cast_say_dialogue.font = "SmileySans-Oblique.otf"
+            
+    style.nia_say_label = Style(style.say_label)
+    style.nia_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.rasha_say_label = Style(style.say_label)
+    style.rasha_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.stone_say_label = Style(style.say_label)
+    style.stone_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.corn_say_label = Style(style.say_label)
+    style.corn_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.nero_say_label = Style(style.say_label)
+    style.nero_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.hqueen_say_label = Style(style.say_label)
+    style.hqueen_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.archon_say_label = Style(style.say_label)
+    style.archon_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.jia_say_label = Style(style.say_label)
+    style.jia_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.ellen_say_label = Style(style.say_label)
+    style.ellen_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.van_say_label = Style(style.say_label)
+    style.van_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.moon_say_label = Style(style.say_label)
+    style.moon_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.kate_say_label = Style(style.say_label)
+    style.kate_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.lucy_say_label = Style(style.say_label)
+    style.lucy_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.hana_say_label = Style(style.say_label)
+    style.hana_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.syl_say_label = Style(style.say_label)
+    style.syl_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.jin_say_label = Style(style.say_label)
+    style.jin_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.fairy_say_label = Style(style.say_label)
+    style.fairy_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.juliet_say_label = Style(style.say_label)
+    style.juliet_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.ann_say_label = Style(style.say_label)
+    style.ann_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.kimami_say_label = Style(style.say_label)
+    style.kimami_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.nala_say_label = Style(style.say_label)
+    style.nala_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.ghen_say_label = Style(style.say_label)
+    style.ghen_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.jena_say_label = Style(style.say_label)
+    style.jena_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.zara_say_label = Style(style.say_label)
+    style.zara_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.mc_say_label = Style(style.say_label)
+    style.mc_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.hless_say_label = Style(style.say_label)
+    style.hless_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.police_say_label = Style(style.say_label)
+    style.police_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.gang_say_label = Style(style.say_label)
+    style.gang_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.teach_say_label = Style(style.say_label)
+    style.teach_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.church_say_label = Style(style.say_label)
+    style.church_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.news_say_label = Style(style.say_label)
+    style.news_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.robot_say_label = Style(style.say_label)
+    style.robot_say_label.font = "SmileySans-Oblique.otf"
+            
+    style.mafia_say_label = Style(style.say_label)
+    style.mafia_say_label.font = "SmileySans-Oblique.otf"
 translate schinese style wallpaper_dir is text:
     xpos 288
     ypos 114
