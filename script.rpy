@@ -7395,7 +7395,7 @@ translate schinese lobby_6a71bfc8:
 translate schinese lobby_a914fa92:
 
     # "The door is locked..."
-    "门锁上了.."
+    "门锁上了......"
 
 # game/script.rpy:6172
 translate schinese lobby_2db6253c:
@@ -108190,1829 +108190,1829 @@ translate schinese strings:
 translate schinese lobby_a914fa92_1:
 
     # "The door is locked..."
-    ""
+    "门锁上了......"
 
 # game/script.rpy:10134
 translate schinese explore_gym2_1e49c1c6:
 
     # c "I think I'll sign up for a pilates class... could be interesting."
-    c ""
+    c "我想我会报名普拉提课......应该很有趣."
 
 # game/script.rpy:10136
 translate schinese explore_gym2_7a04245a:
 
     # c "Hey Maya."
-    c ""
+    c "嘿,玛雅."
 
 # game/script.rpy:10137
 translate schinese explore_gym2_a8687b52:
 
     # maya "What's up?"
-    maya ""
+    maya "怎么了?"
 
 # game/script.rpy:10138
 translate schinese explore_gym2_fdd0e66f:
 
     # c "I'd like to sign up for a pilates class."
-    c ""
+    c "我要报名参加普拉提课程."
 
 # game/script.rpy:10139
 translate schinese explore_gym2_a90dd0aa:
 
     # maya "Pilates, huh? Well, you wouldn't be the first man to join, but-"
-    maya ""
+    maya "普拉提,嗯?好吧,你不是第一个报名参加这种课程的男性,但是-"
 
 # game/script.rpy:10140
 translate schinese explore_gym2_fa6cc0ac:
 
     # q "{b}PILATES!?!?{/b}" with ssshake
-    q "" with ssshake
+    q "{b}普拉提!?!?{/b}" with ssshake
 
 # game/script.rpy:10142
 translate schinese explore_gym2_8908f4a3:
 
     # viktor "MY FRIEND! Do you know what you are signing up for!?"
-    viktor ""
+    viktor "{b}我的朋友!{/b}你知道你报名参加的是什么吗!?"
 
 # game/script.rpy:10143
 translate schinese explore_gym2_37f14dfa:
 
     # c "Uhh, stretching?"
-    c ""
+    c "呃,拉伸?"
 
 # game/script.rpy:10145
 translate schinese explore_gym2_b9a4c396:
 
     # viktor "NO! NO, NO, NO! MY FRIEND! WAKE UP! It is not just STRETCHING!"
-    viktor ""
+    viktor "{b}不!不,不,不!我的朋友!醒醒吧!{/b}那可不只是{b}拉伸{/b}!"
 
 # game/script.rpy:10146
 translate schinese explore_gym2_4d1bd805:
 
     # maya "Viktor, stop scaring him..."
-    maya ""
+    maya "维克托,别吓他了......"
 
 # game/script.rpy:10147
 translate schinese explore_gym2_d4a5fbaa:
 
     # viktor "I have lifted cars! Wrestled bears! Once carried my grandmother's pregnant cow up a hill during a rough Ruskovian snowstorm! BUT PILATES!?!?"
-    viktor ""
+    viktor "我可以举起汽车!和熊摔跤!我还曾经在露西科维亚的一场暴风雪里,把我奶奶那头怀孕的母牛给扛上了山!{b}但是普拉提!?!?{/b}"
 
 # game/script.rpy:10149
 translate schinese explore_gym2_ec778e88:
 
     # viktor "{i}{size=-5}I will also choose to ignore that you didn't say hi when you walked in...{/size}{/i}"
-    viktor ""
+    viktor "{i}{size=-5}我就忽略你进门的时候没有打招呼了......{/size}{/i}"
 
 # game/script.rpy:10153
 translate schinese explore_gym2_86fab469:
 
     # viktor "BUT PILATES!?\nThe tiny woman in tights, she looks harmless, but NO! She says {i}'We begin with breathing.'{/i}" with ssshake
-    viktor "" with ssshake
+    viktor "{b}但是普拉提!?{/b}\n那个穿着紧身裤的小个子女人,她看起来人畜无害,但是{b}不是{/b}!她说,{i}'我们从呼吸开始.'{/i}" with ssshake
 
 # game/script.rpy:10154
 translate schinese explore_gym2_0013aa45:
 
     # viktor "I laugh at these words! {i}'HAH! Breathing! I've been doing that since I was born!'{/i} Two minutes later I am sweating like I'm back in sauna with uncle Boris!"
-    viktor ""
+    viktor "听到这些话我大笑不止!{i}'{b}哈哈!{/b}呼吸!我一出生就会呼吸了!'{/i}两分钟后,我满头大汗,仿佛回到了和鲍里斯叔叔一起蒸桑拿的时候!"
 
 # game/script.rpy:10156
 translate schinese explore_gym2_ab007533:
 
     # viktor "{i}{size=-5}It is not... just... stretching...!{/size}{/i}"
-    viktor ""
+    viktor "{i}{size=-5}那......不只是......拉伸......!{/size}{/i}"
 
 # game/script.rpy:10157
 translate schinese explore_gym2_6a7d04e6:
 
     # maya "VIKTOR!" with ssshake
-    maya "" with ssshake
+    maya "{b}维克托!{/b}" with ssshake
 
 # game/script.rpy:10159
 translate schinese explore_gym2_aaa13f9d:
 
     # viktor "Y-Yes! Sorry Ms. Maya!"
-    viktor ""
+    viktor "是-是的!对不起,玛雅小姐!"
 
 # game/script.rpy:10161
 translate schinese explore_gym2_7622784e:
 
     # maya "...Pilates classes are $5 per class. There's an opening soon, so let me know."
-    maya ""
+    maya "......普拉提每次课程5$.马上就要上课了,所以如果你想要就告诉我."
 
 # game/script.rpy:10162
 translate schinese explore_gym2_1f3905bf:
 
     # c "Yeah, I'll take it."
-    c ""
+    c "是的,我要报名."
 
 # game/script.rpy:10164
 translate schinese explore_gym2_3c83e745:
 
     # viktor "You are very brave man!\nMake that two!"
-    viktor ""
+    viktor "你是个非常勇敢的男人!\n我也要!"
 
 # game/script.rpy:10165
 translate schinese explore_gym2_d360a713:
 
     # maya "You're joining too, Viktor?"
-    maya ""
+    maya "你也要加入吗,维克托?"
 
 # game/script.rpy:10166
 translate schinese explore_gym2_97c99132:
 
     # viktor "Yes, of course! I will not let my comrade fight this battle alone! HAHAH!"
-    viktor ""
+    viktor "是的,当然了!我不会让我的同志独自战斗的!{b}哈哈哈!{/b}"
 
 # game/script.rpy:10167
 translate schinese explore_gym2_fa7b62bb:
 
     # maya "Alright... talk to Chloe after you pay."
-    maya ""
+    maya "好吧......交完钱之后去找克洛伊."
 
 # game/script.rpy:10169
 translate schinese explore_gym2_711db75d:
 
     # "You and Viktor pay $5 each."
-    ""
+    "你和维克托每人交了5$."
 
 # game/script.rpy:10173
 translate schinese explore_gym2_3a62a1fe:
 
     # chloe "Alright everyone, how are we feeling?"
-    chloe ""
+    chloe "好了大家,感觉怎么样?"
 
 # game/script.rpy:10174
 translate schinese explore_gym2_c3de2934:
 
     # viktor "Excuse me! We have paid for your class! May we join you?"
-    viktor ""
+    viktor "不好意思!我们付了钱要上你的课!我们可以加入吗?"
 
 # game/script.rpy:10176
 translate schinese explore_gym2_814dd913:
 
     # chloe "Hm? Oh. It looks like we'll have some men joining us today."
-    chloe ""
+    chloe "嗯?噢.看起来今天有些新人要加入我们."
 
 # game/script.rpy:10178
 translate schinese explore_gym2_65cb67fc:
 
     # c "...Do you mind?"
-    c ""
+    c "......你们介意吗?"
 
 # game/script.rpy:10179
 translate schinese explore_gym2_7472cf12:
 
     # chloe "No, not at all. It's just rare. Please, pick a mat."
-    chloe ""
+    chloe "不,完全不介意.只是有些少见罢了.请选一个垫子吧."
 
 # game/script.rpy:10180
 translate schinese explore_gym2_637ee121:
 
     # chloe "Oh, and shoes off, please."
-    chloe ""
+    chloe "噢,还有请把鞋子脱了."
 
 # game/script.rpy:10181
 translate schinese explore_gym2_8f6c2eec:
 
     # viktor "Thank you!"
-    viktor ""
+    viktor "谢谢!"
 
 # game/script.rpy:10183
 translate schinese explore_gym2_b2feb0a7:
 
     # viktor "You've got this, my friend! Don't be scared!"
-    viktor ""
+    viktor "你可以的,我的朋友!别害怕!"
 
 # game/script.rpy:10184
 translate schinese explore_gym2_f64327a5:
 
     # c "I'm not."
-    c ""
+    c "我没有."
 
 # game/script.rpy:10185
 translate schinese explore_gym2_e2f1b955:
 
     # viktor "That's the spirit! Viktory!!"
-    viktor ""
+    viktor "就是这种精神!胜利的精神!!"
 
 # game/script.rpy:10188
 translate schinese explore_gym2_9de0c323:
 
     # bpil "Wow, we don't get many men in here. What made you decide to join?"
-    bpil ""
+    bpil "哇哦,我们这通常不会有男性的.是什么让你们加入我们呢?"
 
 # game/script.rpy:10189
 translate schinese explore_gym2_b5a8f92b:
 
     # c "Need to stretch for a better workout."
-    c ""
+    c "我需要伸展一下,以便更好的锻炼."
 
 # game/script.rpy:10190
 translate schinese explore_gym2_247efa08:
 
     # viktor "A new challenge!"
-    viktor ""
+    viktor "是新的挑战!"
 
 # game/script.rpy:10191
 translate schinese explore_gym2_9e6f000e:
 
     # gpil "Hahah, you guys are a great couple."
-    gpil ""
+    gpil "哈哈哈,你们真是天生一对."
 
 # game/script.rpy:10192
 translate schinese explore_gym2_5225f688:
 
     # viktor "Thank you!!"
-    viktor ""
+    viktor "谢谢!!"
 
 # game/script.rpy:10193
 translate schinese explore_gym2_e7bc2b71:
 
     # c "We're not... we're not a thing."
-    c ""
+    c "我们不是......我们什么都不是."
 
 # game/script.rpy:10195
 translate schinese explore_gym2_b7c09856:
 
     # gpil "{i}They're not gay??{/i}"
-    gpil ""
+    gpil "{i}他们不是同性恋吗??{/i}"
 
 # game/script.rpy:10196
 translate schinese explore_gym2_1045b0ff:
 
     # viktor "HAHA! No, no! Common misconception!"
-    viktor ""
+    viktor "{b}哈哈!{/b}不,不是!不过是很常见的误解罢了!"
 
 # game/script.rpy:10197
 translate schinese explore_gym2_bdb8b103:
 
     # bpil "What are you doing here, then? You're right behind us. You better not be here to stare..."
-    bpil ""
+    bpil "那你们来这里做什么?你们就在我身后,你们来这里最好不是来看女人的......"
 
 # game/script.rpy:10198
 translate schinese explore_gym2_32bb1ff7:
 
     # c "Just here to stretch."
-    c ""
+    c "我只是来这里拉伸的."
 
 # game/script.rpy:10199
 translate schinese explore_gym2_0d6a5173:
 
     # viktor "And face new challenges! Together!"
-    viktor ""
+    viktor "还有面对新挑战!一起!"
 
 # game/script.rpy:10200
 translate schinese explore_gym2_285f0cc9:
 
     # c "As friends."
-    c ""
+    c "作为朋友一起."
 
 # game/script.rpy:10201
 translate schinese explore_gym2_cbf7e028:
 
     # bpil "Umm, okay..."
-    bpil ""
+    bpil "呃,好吧......"
 
 # game/script.rpy:10203
 translate schinese explore_gym2_0a57f419:
 
     # gpil "Sorry, it's just... there's been a lot of shitty men lately..."
-    gpil ""
+    gpil "对不起,只是......最近这里有很多渣男......"
 
 # game/script.rpy:10204
 translate schinese explore_gym2_7cd8cb45:
 
     # bpil "And we always seem to date them all..."
-    bpil ""
+    bpil "而且我们似乎最后都会和他们约会......"
 
 # game/script.rpy:10205
 translate schinese explore_gym2_c8376cf5:
 
     # c "Hey, I get it. But you don't have to worry about us."
-    c ""
+    c "嘿,我懂.但是你不需要担心我们."
 
 # game/script.rpy:10207
 translate schinese explore_gym2_4d8954ae:
 
     # bpil "Really...? Yeah, that's what they all say. Next thing I know, I'm all over the internet..."
-    bpil ""
+    bpil "真的吗......?是啊,他们都是这么说的.然后,我就被传到网上到处都是了......"
 
 # game/script.rpy:10208
 translate schinese explore_gym2_c951a616:
 
     # gpil "Like, why are men so insecure? None of my exes ever let me have a girls night. It's not like I would ever cheat..."
-    gpil ""
+    gpil "就,男人为什么这么没有安全感?我的前男友们都不让我去和闺蜜过夜.我又不会出轨......"
 
 # game/script.rpy:10209
 translate schinese explore_gym2_fa5e4151:
 
     # bpil "You know just how many men I thought were harmless, but actually hit me? Too many..."
-    bpil ""
+    bpil "你知道有多少我以为人畜无害的男人打过我吗?太多了......"
 
 # game/script.rpy:10211
 translate schinese explore_gym2_db886403:
 
     # viktor "{b}WHAT!?{/b} Who are these men? I want NAMES! Babushka always taught me never to lay hand on woman, it is not right!" with ssshake
-    viktor "" with ssshake
+    viktor "{b}什么!?{/b}那些男人是谁?给我他们的{b}名字{/b}!巴布什卡总是教导我,永远不要对女人动手动脚,那是不对的!" with ssshake
 
 # game/script.rpy:10212
 translate schinese explore_gym2_a9786819:
 
     # gpil "Heheh, I've tried to forget their names..."
-    gpil ""
+    gpil "呵呵呵,我并不想记得他们的名字......"
 
 # game/script.rpy:10213
 translate schinese explore_gym2_7c389145:
 
     # viktor "These are boys! Not men! Men {u}PROTECT!{/u}"
-    viktor ""
+    viktor "他们只是男孩!不是男人!男人只会{u}{b}保护{/b}{/u}别人!"
 
 # game/script.rpy:10214
 translate schinese explore_gym2_6edf9d00:
 
     # bpil "Yeah! Exactly. I'm glad you see it that way."
-    bpil ""
+    bpil "对啊!你说得对.我很高兴你是这么看的."
 
 # game/script.rpy:10216
 translate schinese explore_gym2_f8b80caa:
 
     # c "I'm sorry you two went through that stuff. Those were not men, just boys chasing some idea of what being a man should be."
-    c ""
+    c "我很抱歉你们经历了那种事情.他们不是男人,只是追逐某种臆想的男人形象的男孩罢了."
 
 # game/script.rpy:10217
 translate schinese explore_gym2_696d99d8:
 
     # c "They were probably only after the approval of other men."
-    c ""
+    c "他们可能只是为了得到其他男人的认可."
 
 # game/script.rpy:10218
 translate schinese explore_gym2_a7cbc7b4:
 
     # viktor "Like my father! Not man, but giant fat boy in ugly man costume."
-    viktor ""
+    viktor "就像我的父亲!他不是个男人,只是个穿着丑陋男装的大胖男孩."
 
 # game/script.rpy:10220
 translate schinese explore_gym2_3dafdc5e:
 
     # gpil "..."
-    gpil ""
+    gpil "......"
 
 # game/script.rpy:10221
 translate schinese explore_gym2_402f03bd:
 
     # bpil "...Wow, heh."
-    bpil ""
+    bpil "......哇哦,呵呵."
 
 # game/script.rpy:10222
 translate schinese explore_gym2_343fa218:
 
     # gpil "That's new."
-    gpil ""
+    gpil "还挺新颖的."
 
 # game/script.rpy:10224
 translate schinese explore_gym2_04e71575:
 
     # bpil "It's so refreshing to hear a man say that! You have no idea."
-    bpil ""
+    bpil "听到一个男人这么说,真是让人耳目一新!你完全不知道这意味着什么."
 
 # game/script.rpy:10225
 translate schinese explore_gym2_46d164cf:
 
     # gpil "I guess there are some good men out there."
-    gpil ""
+    gpil "我想世界上还是有好男人的."
 
 # game/script.rpy:10226
 translate schinese explore_gym2_06684c54:
 
     # c "Don't give up hope, ladies."
-    c ""
+    c "不要放弃希望,女士们."
 
 # game/script.rpy:10227
 translate schinese explore_gym2_394d706a:
 
     # bpil "Thank you~"
-    bpil ""
+    bpil "谢谢~"
 
 # game/script.rpy:10229
 translate schinese explore_gym2_9ea46ab7:
 
     # chloe "Alright everyone! Are you ready?\nToday we'll start off with some warmups. Spine curls!"
-    chloe ""
+    chloe "好了,大家!你们准备好了吗?\n今天我们从热身开始.卷脊!"
 
 # game/script.rpy:10231
 translate schinese explore_gym2_82cf3439:
 
     # chloe "I want you all to lay down on your mats, knees bent, feet at hip width, arms at your sides, like so..."
-    chloe ""
+    chloe "我需要你们全部躺在垫子上,膝盖弯曲,双脚与臀部同宽,手臂放在身体两侧,就像这样."
 
 # game/script.rpy:10232
 translate schinese explore_gym2_36489c85:
 
     # chloe "Take a deep breath in, hold it, and as you exhale..."
-    chloe ""
+    chloe "深呼吸,保持住,呼出来的时候......"
 
 # game/script.rpy:10234
 translate schinese explore_gym2_d6611761:
 
     # chloe "...Slowly engage your core, pushing upwards as you keep your spine straight, creating a straight line between your knees and shoulders..."
-    chloe ""
+    chloe "......慢慢地调动你的核心力量,在保持脊柱挺直的同时往上推,让膝盖和肩膀之间形成一条直线......"
 
 # game/script.rpy:10236
 translate schinese explore_gym2_062aedb5:
 
     # viktor "{i}Good luck, brother...!{/i}"
-    viktor ""
+    viktor "{i}祝你好运,兄弟......!{/i}"
 
 # game/script.rpy:10237
 translate schinese explore_gym2_358da73a:
 
     # c "{i}You seem a little scared.{/i}"
-    c ""
+    c "{i}你似乎有点害怕.{/i}"
 
 # game/script.rpy:10238
 translate schinese explore_gym2_603579df:
 
     # viktor "{i}N-Not at all! Just, ehh... new challenge!{/i}"
-    viktor ""
+    viktor "{i}完-完全不会!只是,呃......新挑战!{/i}"
 
 # game/script.rpy:10240
 translate schinese explore_gym2_dff129ee:
 
     # chloe "Come on, everyone! Now you!"
-    chloe ""
+    chloe "来吧,大家!现在轮到你们了!"
 
 # game/script.rpy:10241
 translate schinese explore_gym2_03ab5eb6:
 
     # viktor "{i}Okay, okay...! You got this Viktor!{/i}"
-    viktor ""
+    viktor "{i}好的,好的......!你可以的,维克托!{/i}"
 
 # game/script.rpy:10243
 translate schinese explore_gym2_8d1c8580:
 
     # chloe "Good! Good! Feel your glutes and hamstrings engage. Don't over-arch the back!"
-    chloe ""
+    chloe "很好!很好!感受臀部和腘绳肌的运动.不要过度弓背!"
 
 # game/script.rpy:10244
 translate schinese explore_gym2_059d4db1:
 
     # viktor "Nnngh...!"
-    viktor ""
+    viktor "呃......!"
 
 # game/script.rpy:10245
 translate schinese explore_gym2_dce6d391:
 
     # chloe "And release..."
-    chloe ""
+    chloe "然后放松......"
 
 # game/script.rpy:10247
 translate schinese explore_gym2_4481e10b:
 
     # viktor "{i}Phew... okay, not so bad after all!{/i}"
-    viktor ""
+    viktor "{i}呼......好的,也没那么坏嘛!{/i}"
 
 # game/script.rpy:10248
 translate schinese explore_gym2_c4a69569:
 
     # chloe "And again!"
-    chloe ""
+    chloe "再来一次!"
 
 # game/script.rpy:10250
 translate schinese explore_gym2_b20547cc:
 
     # viktor "Hnnh!"
-    viktor ""
+    viktor "嗯!"
 
 # game/script.rpy:10251
 translate schinese explore_gym2_dce6d391_1:
 
     # chloe "And release..."
-    chloe ""
+    chloe "放松......"
 
 # game/script.rpy:10253
 translate schinese explore_gym2_c201b756:
 
     # chloe "Once more!"
-    chloe ""
+    chloe "再来一次!"
 
 # game/script.rpy:10254
 translate schinese explore_gym2_d66a2379:
 
     # viktor "{i}Fucking shit...!{/i}"
-    viktor ""
+    viktor "{i}我操......!{/i}"
 
 # game/script.rpy:10256
 translate schinese explore_gym2_f3f86bdf:
 
     # chloe "Good job, ladies! Good job! Don't forget to breathe!"
-    chloe ""
+    chloe "干得好,女士们!干得好!别忘了呼吸!"
 
 # game/script.rpy:10257
 translate schinese explore_gym2_01b87979:
 
     # chloe "We're going to hold on this one. Keep your core engaged, don't let go!"
-    chloe ""
+    chloe "这次我们要保持住.保持你的核心继续发力,不要放松!"
 
 # game/script.rpy:10258
 translate schinese explore_gym2_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/script.rpy:10259
 translate schinese explore_gym2_e6b1d5c6:
 
     # c "...!" with ssshake
-    c "" with ssshake
+    c "......!" with ssshake
 
 # game/script.rpy:10260
 translate schinese explore_gym2_526aced2:
 
     # c "...!!" with ssshake
-    c "" with ssshake
+    c "......!!" with ssshake
 
 # game/script.rpy:10263
 translate schinese explore_gym2_280b4d4d:
 
     # viktor "{i}Rrrg! When will it end...!?{/i}"
-    viktor ""
+    viktor "{i}呃!什么时候结束......!?{/i}"
 
 # game/script.rpy:10264
 translate schinese explore_gym2_74aebb50:
 
     # viktor "DON'T GIVE UP BROTHER! FIIIIIGHT!!" with ssshake
-    viktor "" with ssshake
+    viktor "{b}不要放弃,兄弟!战斗吧!!{/b}" with ssshake
 
 # game/script.rpy:10265
 translate schinese explore_gym2_ac86af95:
 
     # chloe "SHH!!"
-    chloe ""
+    chloe "{b}嘘!{/b}"
 
 # game/script.rpy:10268
 translate schinese explore_gym2_ac54c096:
 
     # viktor "{i}Hrrrgh! RRRRRGH!{/i}"
-    viktor ""
+    viktor "{i}哼!{b}呃!{/b}{/i}"
 
 # game/script.rpy:10269
 translate schinese explore_gym2_ed2745c5:
 
     # chloe "Hold it..."
-    chloe ""
+    chloe "保持住......"
 
 # game/script.rpy:10270
 translate schinese explore_gym2_ab6d2d42:
 
     # chloe "Hold it...!"
-    chloe ""
+    chloe "保持住......!"
 
 # game/script.rpy:10271
 translate schinese explore_gym2_f5764f22:
 
     # chloe "Release!"
-    chloe ""
+    chloe "放松!"
 
 # game/script.rpy:10273
 translate schinese explore_gym2_ae345d51:
 
     # viktor "Ahhh! Hahhh...! We did it...!"
-    viktor ""
+    viktor "啊!哈......!我们做到了......!"
 
 # game/script.rpy:10274
 translate schinese explore_gym2_6a43e138:
 
     # viktor "Hahh... Another...! Personal record...! Hahhh... Hahah! ...VIKTORY!! "
-    viktor ""
+    viktor "哈......又一个......!个人纪录......!哈......哈哈哈!......{b}赢了!!{/b}"
 
 # game/script.rpy:10275
 translate schinese explore_gym2_52f9eceb:
 
     # chloe "And now, hanging leg raises!"
-    chloe ""
+    chloe "然后,把腿抬起来!"
 
 # game/script.rpy:10277
 translate schinese explore_gym2_43fca548:
 
     # viktor "What!? NO! It's not over!?" with ssshake
-    viktor "" with ssshake
+    viktor "什么!?{b}不!{/b}还没结束吗!?" with ssshake
 
 # game/script.rpy:10278
 translate schinese explore_gym2_fbb81858:
 
     # chloe "We've only just begun!"
-    chloe ""
+    chloe "我们才刚刚开始!"
 
 # game/script.rpy:10279
 translate schinese explore_gym2_76b46b5e:
 
     # viktor "{i}{size=-5}Oh...{/size}{/i}"
-    viktor ""
+    viktor "{i}{size=-5}噢......{/size}{/i}"
 
 # game/script.rpy:10281
 translate schinese explore_gym2_1a6843f8:
 
     # chloe "Good job, everyone! Hold it..."
-    chloe ""
+    chloe "大家干得漂亮!保持住......"
 
 # game/script.rpy:10282
 translate schinese explore_gym2_2746d72e:
 
     # viktor "I. REGRET. {b}EVERYTHING!!!{/b}" with ssshake
-    viktor "" with ssshake
+    viktor "{b}我.好.后.悔.啊!!!{/b}" with ssshake
 
 # game/script.rpy:10283
 translate schinese explore_gym2_3c54a4f8:
 
     # gpil "SHH!"
-    gpil ""
+    gpil "{b}嘘!{/b}"
 
 # game/script.rpy:10285
 translate schinese explore_gym2_c350c4eb:
 
     # chloe "Now, planking!"
-    chloe ""
+    chloe "现在,平板支撑!"
 
 # game/script.rpy:10288
 translate schinese explore_gym2_04de4786:
 
     # viktor "RRRRRGH! RRRGHHHH!!!"
-    viktor ""
+    viktor "{b}呃!呃!!!{/b}"
 
 # game/script.rpy:10289
 translate schinese explore_gym2_492e6b06:
 
     # chloe "Thirty seconds gone, thirty to go!"
-    chloe ""
+    chloe "三十秒过去了,还有三十秒!"
 
 # game/script.rpy:10290
 translate schinese explore_gym2_5fa4204f:
 
     # viktor "{b}THIRTY!?!?{/b}"
-    viktor ""
+    viktor "{b}三十!?!?{/b}"
 
 # game/script.rpy:10291
 translate schinese explore_gym2_71efa97f:
 
     # chloe "Keep that spine straight, ladies!"
-    chloe ""
+    chloe "挺直脊柱,女士们!"
 
 # game/script.rpy:10292
 translate schinese explore_gym2_c53be2b1:
 
     # viktor "NNNNGHHH!!!"
-    viktor ""
+    viktor "{b}呃!!!{/b}"
 
 # game/script.rpy:10294
 translate schinese explore_gym2_cd9ac45f:
 
     # chloe "High bridge!"
-    chloe ""
+    chloe "高桥!"
 
 # game/script.rpy:10297
 translate schinese explore_gym2_7141ff08:
 
     # viktor "{b}AAAARRRRGH!!!{/b}"
-    viktor ""
+    viktor "{b}啊呃呃呃!!!{/b}"
 
 # game/script.rpy:10298
 translate schinese explore_gym2_ed2745c5_1:
 
     # chloe "Hold it..."
-    chloe ""
+    chloe "保持住......"
 
 # game/script.rpy:10299
 translate schinese explore_gym2_5ebcf727:
 
     # viktor "I CANNOT! I CANNOT!"
-    viktor ""
+    viktor "{b}我不行了!我不行了!{/b}"
 
 # game/script.rpy:10300
 translate schinese explore_gym2_35266193:
 
     # chloe "Just five more seconds!"
-    chloe ""
+    chloe "还有五秒钟!"
 
 # game/script.rpy:10301
 translate schinese explore_gym2_32b0f652:
 
     # c "You got this, man! Don't give up now!"
-    c ""
+    c "你可以的,哥们!不要放弃!"
 
 # game/script.rpy:10302
 translate schinese explore_gym2_7c0e1676:
 
     # viktor "IT IS NOT SO EASY WHEN YOU ARE AS HEAVY AS A FRIDGE!! AAAAGH!!"
-    viktor ""
+    viktor "{b}当你和冰箱一样重的时候就没那么容易了!!啊!!{/b}"
 
 # game/script.rpy:10304
 translate schinese explore_gym2_bcc71673:
 
     # chloe "And done! You all did so great, pat yourselves on the back."
-    chloe ""
+    chloe "完成了!你们都做得很好,拍拍背吧."
 
 # game/script.rpy:10306
 translate schinese explore_gym2_7c4a0e93:
 
     # viktor "Hahhh... hahhh... hahhh..."
-    viktor ""
+    viktor "哈......哈......哈......"
 
 # game/script.rpy:10307
 translate schinese explore_gym2_71310ccb:
 
     # viktor "We did it... brother... we CONQUERED! Hahhh..."
-    viktor ""
+    viktor "我们做到了......兄弟......我们{b}征服{/b}了它!哈......"
 
 # game/script.rpy:10308
 translate schinese explore_gym2_2972b28c:
 
     # c "That was harder than I thought it would be..."
-    c ""
+    c "这比我想像的还要困难......"
 
 # game/script.rpy:10309
 translate schinese explore_gym2_873e26d4:
 
     # viktor "And yet... we were..."
-    viktor ""
+    viktor "但是......我们......"
 
 # game/script.rpy:10311
 translate schinese explore_gym2_3d4aee94:
 
     # viktor "{i}{u}{b}VIKTORIOUS!!!{/b}{/u}{/i}"
-    viktor ""
+    viktor "{i}{u}{b}胜利了!!!{/b}{/u}{/i}"
 
 # game/script.rpy:10313
 translate schinese explore_gym2_39b71554:
 
     # viktor "Ahhh... okay... I take nap now..."
-    viktor ""
+    viktor "啊......好吧......我要去小睡一下......"
 
 # game/script.rpy:10315
 translate schinese explore_gym2_0b421c1f:
 
     # c "Phew... I feel reinvigorated."
-    c ""
+    c "呼......我感觉自己重获新生."
 
 # game/script.rpy:10316
 translate schinese explore_gym2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:10319
 translate schinese explore_gym2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10321
 translate schinese explore_gym2_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10323
 translate schinese explore_gym2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10334
 translate schinese explore_gym1_9153927a:
 
     # crowd "GO! GO! GO! GO!"
-    crowd ""
+    crowd "{b}加油!加油!加油!加油!{/b}"
 
 # game/script.rpy:10335
 translate schinese explore_gym1_ed79967f:
 
     # c "{i}What the hell?{/i}"
-    c ""
+    c "{i}什么鬼?{/i}"
 
 # game/script.rpy:10337
 translate schinese explore_gym1_a220493d:
 
     # crowd "...23! ...24! ...25! ...26! ...27! ...28! ...29! ...30!"
-    crowd ""
+    crowd "......23!......24!......25!......26!......27!......28!......29!......30!"
 
 # game/script.rpy:10339
 translate schinese explore_gym1_cbde64a5:
 
     # crowd "31! 32! 33! 34! 35! 36! 37! 38!"
-    crowd ""
+    crowd "31!32!33!34!35!36!37!38!"
 
 # game/script.rpy:10341
 translate schinese explore_gym1_410e8938:
 
     # crowd "39! 40! \nFourty o- tw- thr- fou-\n*mumbled attempts continue*"
-    crowd ""
+    crowd "39!40!\n41-2-3-4-\n*计数声依然在持续着*"
 
 # game/script.rpy:10343
 translate schinese explore_gym1_c54c5d7d:
 
     # viktor "AHAHAHAH! Another {i}VIKTORY{/i} for VIKTOR the VIKTORIOUS!"
-    viktor ""
+    viktor "{b}啊哈哈哈哈!胜利者维克托{/b}的又一次{b}{i}胜利{/b}{/i}!"
 
 # game/script.rpy:10345
 translate schinese explore_gym1_09687b69:
 
     # viktor "AND TOMORROW? Another personal record!"
-    viktor ""
+    viktor "{b}明天呢?{/b}又一个个人纪录!"
 
 # game/script.rpy:10347
 translate schinese explore_gym1_383638ea:
 
     # crowd "YEAH!\nWOOO!\nVIKTOR! VIKTOR! VIKTOR!"
-    crowd ""
+    crowd "{b}耶!\n喔!\n维克托!维克托!维克托!{/b}"
 
 # game/script.rpy:10348
 translate schinese explore_gym1_39b9d5f6:
 
     # "*ALARM BLARING*"
-    ""
+    "{b}*警报声*{/b}"
 
 # game/script.rpy:10350
 translate schinese explore_gym1_2bd73e6b:
 
     # viktor "Oh shit... I've done it again..."
-    viktor ""
+    viktor "噢操......我又干了这种事情......"
 
 # game/script.rpy:10352
 translate schinese explore_gym1_f6a99114:
 
     # viktor "WHAT ARE YOU DOING!? Run! Get out of here while you still can!"
-    viktor ""
+    viktor "{b}你们还在做什么!?{/b}快跑啊!趁现在还来得及,快离开这里!"
 
 # game/script.rpy:10354
 translate schinese explore_gym1_0b079705:
 
     # maya "VIKTOR!!!"
-    maya ""
+    maya "{b}维克托!!!{/b}"
 
 # game/script.rpy:10355
 translate schinese explore_gym1_82d871e5:
 
     # maya "How did I know it was you? {b}HUH!?{/b} IT'S ALWAYS YOU!!"
-    maya ""
+    maya "我就知道是你,啊?{b}嗯!?老是你!!{/b}"
 
 # game/script.rpy:10357
 translate schinese explore_gym1_130fdb68:
 
     # viktor "But of course it was me! Who else could do it!\nM-Ms. Maya, how are you?"
-    viktor ""
+    viktor "但当然是我!还能是谁呢!\n玛-玛雅小姐,你还好吗?"
 
 # game/script.rpy:10358
 translate schinese explore_gym1_f92c4863:
 
-    # maya "PRETTY SHITTY NOW!"
-    maya ""
+    # maya "duib"
+    maya "{b}我现在很糟糕!{/b}"
 
 # game/script.rpy:10359
 translate schinese explore_gym1_2b9993af:
 
     # viktor "Ohh, but you are pretty {i}beautiful{/i}, no? Don't give yourself worry lines!"
-    viktor ""
+    viktor "噢,但是你很{i}美丽{/i},对吧?不要让自己生烦恼纹嘛."
 
 # game/script.rpy:10360
 translate schinese explore_gym1_a498b753:
 
     # maya "YOU STOLE MY VENDING MACHINE, AGAIN!"
-    maya ""
+    maya "{b}你又偷了我的自动售货机!{/b}"
 
 # game/script.rpy:10361
 translate schinese explore_gym1_817fe3f2:
 
     # viktor "No no, you have it all wrong! I {i}borrowed{/i} your vending machine again!"
-    viktor ""
+    viktor "不,不,你理解错了!我又{i}借{/i}了你的自动售货机!"
 
 # game/script.rpy:10362
 translate schinese explore_gym1_83bcafce:
 
     # maya "Put it back! NOW!"
-    maya ""
+    maya "把它放回去!{b}立刻!{/b}"
 
 # game/script.rpy:10363
 translate schinese explore_gym1_577974d5:
 
     # viktor "Of course! Whatever you say!"
-    viktor ""
+    viktor "当然了!你说什么就是什么!"
 
 # game/script.rpy:10364
 translate schinese explore_gym1_0faa419f:
 
     # "*alarm ceases*"
-    ""
+    "*警报停止了*"
 
 # game/script.rpy:10366
 translate schinese explore_gym1_7bb63325:
 
     # viktor "Oh, hello! Nice weather we're having, isn't it?"
-    viktor ""
+    viktor "噢,你好!今天天气真不错,不是吗?"
 
 # game/script.rpy:10367
 translate schinese explore_gym1_f2557b82:
 
     # c "Yeah, not bad..."
-    c ""
+    c "是啊,还行......"
 
 # game/script.rpy:10368
 translate schinese explore_gym1_f6da4e53:
 
     # viktor "You must be new! My name is Viktor, VIKTOR THE VIKTORIOUS!\n{w=1}...Nice to meet you!"
-    viktor ""
+    viktor "你一定是新来的!我是维克托,{b}胜利者维克托{/b}\n{w=1}......很高兴认识你!"
 
 # game/script.rpy:10369
 translate schinese explore_gym1_7711b6ef:
 
     # c "Likewise. I'm [name]."
-    c ""
+    c "我也一样.我叫[name]."
 
 # game/script.rpy:10370
 translate schinese explore_gym1_36eed7bd:
 
     # viktor "Funny name, but I like it! Be seeing you~!"
-    viktor ""
+    viktor "很有趣的名字,但我很喜欢!再见~!"
 
 # game/script.rpy:10372
 translate schinese explore_gym1_90569a4b:
 
     # maya "Rrrrgh...\nSorry about him. He's always causing trouble!"
-    maya ""
+    maya "呃......\n他的事我很抱歉.他总是惹麻烦!"
 
 # game/script.rpy:10373
 translate schinese explore_gym1_2a38900c:
 
     # c "No problem, he seems like a nice guy."
-    c ""
+    c "没关系,他看起来是个好人."
 
 # game/script.rpy:10374
 translate schinese explore_gym1_fd6511a7:
 
     # maya "Sure... until he breaks all of your equipment!"
-    maya ""
+    maya "当然......直到他弄坏了你所有的设施装备!"
 
 # game/script.rpy:10376
 translate schinese explore_gym1_8bbd8005:
 
     # maya "Oh hey, you came prepared this time. Good shit. Are you sure you don't want a locker to keep your gym clothes in?"
-    maya ""
+    maya "哦嘿,你这次是有备而来啊.真不错.你确定不需要储物柜放你的运动服?"
 
 # game/script.rpy:10377
 translate schinese explore_gym1_fb218c94:
 
     # c "I'll think about it. Still getting back into the routine."
-    c ""
+    c "我会考虑的.我还在恢复日常的习惯."
 
 # game/script.rpy:10378
 translate schinese explore_gym1_18227320:
 
     # maya "Sure, no problem. Let me know if you need anything."
-    maya ""
+    maya "当然,没问题的.如果你需要什么,请告诉我."
 
 # game/script.rpy:10379
 translate schinese explore_gym1_86633010:
 
     # c "Thanks, I will."
-    c ""
+    c "谢谢,我会的."
 
 # game/script.rpy:10381
 translate schinese explore_gym1_03695952:
 
     # c "{i}...Okay, last time I focused on biceps... this time I'll focus on legs.{/i}"
-    c ""
+    c "{i}......好了,上次我着重练了二头肌......这次我要练腿.{/i}"
 
 # game/script.rpy:10386
 translate schinese explore_gym1_c68e5af6:
 
     # c "{i}10... 11... 12.{/i}"
-    c ""
+    c "{i}10......11......12.{/i}"
 
 # game/script.rpy:10388
 translate schinese explore_gym1_bbefa5f5:
 
     # c "Phew... three sets done. I can push another!"
-    c ""
+    c "呼......三组了.我还能再来一组!"
 
 # game/script.rpy:10390
 translate schinese explore_gym1_fce5a0de:
 
     # c "{i}1...! 2...! Nnngh...! 3...!{/i}{w}\n4...! 5...! Nnnh!{w}\nSiiiiix...! Sevennnn...!"
-    c ""
+    c "{i}1......!2......!呃......!3.......!{/i}{w}\n4......!5......!呃!{w}\n6-......!7-......!"
 
 # game/script.rpy:10392
 translate schinese explore_gym1_dc36788d:
 
     # c "What the hell?"
-    c ""
+    c "什么鬼?"
 
 # game/script.rpy:10394
 translate schinese explore_gym1_cd2e2645:
 
     # viktor "Oh! Don't mind me, friend! I noticed you were pushing your limits! Becoming {i}VIKTORIOUS!!{/i} {w=2}No?"
-    viktor ""
+    viktor "噢!不必在意我,朋友!我注意到你在挑战极限!你想要成为{i}{b}胜利者{/b}{/i}{w=2}不是吗?"
 
 # game/script.rpy:10395
 translate schinese explore_gym1_6afea0e2:
 
     # c "Uh, yeah... but it's a little weird having you behind me like that with no warning..."
-    c ""
+    c "呃,是的......但你就这样毫无征兆地出现在我身后,有点怪怪的......"
 
 # game/script.rpy:10396
 translate schinese explore_gym1_56ec2868:
 
     # viktor "Oh yes, of course! Sorry!"
-    viktor ""
+    viktor "噢对,确实!对不起!"
 
 # game/script.rpy:10397
 translate schinese explore_gym1_efd95cca:
 
     # c "I think I'm done anyway."
-    c ""
+    c "反正我也大概做得差不多了."
 
 # game/script.rpy:10398
 translate schinese explore_gym1_608afd99:
 
     # viktor "Are you sure? Okay! Please, let me take that for you."
-    viktor ""
+    viktor "你确定吗?好吧!请让我帮你拿吧."
 
 # game/script.rpy:10400
 translate schinese explore_gym1_92f04309:
 
     # viktor "Ahh... all in a day's work, right friend?"
-    viktor ""
+    viktor "啊......一日之计在于晨,对吧朋友?"
 
 # game/script.rpy:10401
 translate schinese explore_gym1_ff94769d:
 
     # c "Hey... you seem like a nice guy, but I hope you aren't trying to hit on me. I don't swing that way."
-    c ""
+    c "嘿......你似乎是个好人,但我希望你不是想打我主意.我不是那种人."
 
 # game/script.rpy:10403
 translate schinese explore_gym1_ae992d0c:
 
     # viktor "Hit on you? I'm a pacifist! Why would I do that?"
-    viktor ""
+    viktor "打你?我是个和平主义者!为什么我要那么做?"
 
 # game/script.rpy:10404
 translate schinese explore_gym1_2443d879:
 
     # c "...What? No, I mean... I'm not gay."
-    c ""
+    c "......什么?不,我是说......我不是同性恋."
 
 # game/script.rpy:10406
 translate schinese explore_gym1_8658d5b9:
 
     # viktor "Oh HAHAHAH! I see, I see! The common colloquialism of {i}'hit on'!{/i}"
-    viktor ""
+    viktor "噢,{b}哈哈哈哈!{/b}我明白了,我明白了!是{i}'搭讪'{/i}的俗语是吧!"
 
 # game/script.rpy:10407
 translate schinese explore_gym1_a2c275b8:
 
     # viktor "Relax, friend! We share this in common! I too like boobies!"
-    viktor ""
+    viktor "放轻松,朋友!我们是一样的!我也喜欢奶子!"
 
 # game/script.rpy:10408
 translate schinese explore_gym1_2c098a1d:
 
     # c "Oh. My bad."
-    c ""
+    c "噢.不好意思."
 
 # game/script.rpy:10409
 translate schinese explore_gym1_ba0fa03a:
 
     # viktor "Don't worry! No, no! Is common misconception!"
-    viktor ""
+    viktor "不必担心!不用,不用!这是个很常见的误解!"
 
 # game/script.rpy:10411
 translate schinese explore_gym1_9a7a2d40:
 
     # viktor "Everyone here knows me as a friend. I am here every day! Just let me know if you need any help."
-    viktor ""
+    viktor "这里的所有人都是我的朋友!我每天都会来这里!如果你需要帮助,请告诉我."
 
 # game/script.rpy:10412
 translate schinese explore_gym1_be0c7db0:
 
     # c "That explains how you got so big. Is that all natural?"
-    c ""
+    c "难怪你块头这么大.都是天然的吗?"
 
 # game/script.rpy:10414
 translate schinese explore_gym1_8de04313:
 
     # viktor "Of course!"
-    viktor ""
+    viktor "当然了!"
 
 # game/script.rpy:10417
 translate schinese explore_gym1_96b9c112:
 
     # viktor "I wouldn't be very {i}viktorious{/i} if I cheated, would I!?"
-    viktor ""
+    viktor "要是我作弊了,我就不算{i}胜利者{/i}了,是吧!?"
 
 # game/script.rpy:10420
 translate schinese explore_gym1_fc8b26f7:
 
     # c "I guess not. What's your secret?"
-    c ""
+    c "我想也是.你有什么秘诀吗?"
 
 # game/script.rpy:10422
 translate schinese explore_gym1_8fe1487e:
 
     # viktor "My secret? I break record EVERY day!"
-    viktor ""
+    viktor "我的秘诀?我{b}每天{/b}都在打破纪录!"
 
 # game/script.rpy:10423
 translate schinese explore_gym1_af98a6cc:
 
     # viktor "Everyone can do it! If you can only do one squat, then do one squat! Tomorrow, do two!"
-    viktor ""
+    viktor "所有人都能做到!如果你只能做一个深蹲,那就做一个!明天,做两个!"
 
 # game/script.rpy:10424
 translate schinese explore_gym1_1c392c91:
 
     # viktor "By the end of year, you're doing 365 squats a day, minimum! Don't push too hard, consistency is the key!"
-    viktor ""
+    viktor "到了年底,你一天就能至少做365个深蹲!不过不要用力过猛,关键在于坚持!"
 
 # game/script.rpy:10425
 translate schinese explore_gym1_c792141f:
 
     # c "Are you serious? That's insane! How do you not get tired?"
-    c ""
+    c "你认真的吗?这太疯狂了!你为什么不会累的?"
 
 # game/script.rpy:10427
 translate schinese explore_gym1_a3ecca35:
 
     # viktor "Friend, my body doesn't get tired! I have always worked below my limits."
-    viktor ""
+    viktor "朋友,我的身体永不疲倦!我一直都在挑战我的极限."
 
 # game/script.rpy:10429
 translate schinese explore_gym1_12032f1a:
 
     # viktor "Giving your body the time it needs to adjust is also key. My joints never even hurt after 1,000 squats a day!"
-    viktor ""
+    viktor "给身体足够的调整时间也很关键.我每天做1000个深蹲,关节都不会疼!"
 
 # game/script.rpy:10430
 translate schinese explore_gym1_a5386d64:
 
     # c "You can do 1,000 squats a day!?"
-    c ""
+    c "你一天可以做1000个深蹲!?"
 
 # game/script.rpy:10431
 translate schinese explore_gym1_e40fb267:
 
     # viktor "Oh, much more than that, friend! But I have left the calisthenics behind a long time ago. I have set new goals with higher weights, and break them each day!"
-    viktor ""
+    viktor "噢,比那还要多很多,朋友!不过我早就把健身操抛在脑后了.我设置了一个新的目标,举重,然后每天突破!"
 
 # game/script.rpy:10432
 translate schinese explore_gym1_c81a44c5:
 
     # c "I see why they call you victorious."
-    c ""
+    c "难怪他们叫你胜利者."
 
 # game/script.rpy:10434
 translate schinese explore_gym1_022eddcf:
 
     # viktor "Yes, you see, I was once a very, uhh, rotund boy. Like blueberry!"
-    viktor ""
+    viktor "是的,你看,我曾经是个非常,呃,肥胖的男孩.就像个蓝莓一样!"
 
 # game/script.rpy:10435
 translate schinese explore_gym1_6a0cc775:
 
     # viktor "My father would say... {i}'Do something with your life, you sad excuse of a semen. I never wanted you, and told your mother to abort you.'{/i}"
-    viktor ""
+    viktor "我爸总是说......{i}'你这滩可悲的精液,为你的人生做点什么吧.我从来都不想要你,之前还叫你妈把你打掉.'{/i}"
 
 # game/script.rpy:10437
 translate schinese explore_gym1_a499749c:
 
     # viktor "But look at me now! I am alive! Strong! And happy! And he is dead."
-    viktor ""
+    viktor "但是,看看现在的我!我还活着!强壮!快乐!而他却死了."
 
 # game/script.rpy:10438
 translate schinese explore_gym1_66c5c2c9:
 
     # c "Did you...?"
-    c ""
+    c "是你......?"
 
 # game/script.rpy:10440
 translate schinese explore_gym1_20a404f9:
 
     # viktor "HAHAH! No, no! Suicide! He was very sad man. Not sorry for loss at all!"
-    viktor ""
+    viktor "{b}哈哈哈!{/b}不,不!是自杀!他是个非常悲伤的人.我并不为他的逝去感到难过!"
 
 # game/script.rpy:10442
 translate schinese explore_gym1_e2d5d00c:
 
     # viktor "Hey, you are immigrant too, no?"
-    viktor ""
+    viktor "嘿,你也是移民,对吧?"
 
 # game/script.rpy:10443
 translate schinese explore_gym1_2fd559b3:
 
     # c "What gave it away?"
-    c ""
+    c "你怎么知道的?"
 
 # game/script.rpy:10444
 translate schinese explore_gym1_4d0d5801:
 
     # viktor "Your dialect is, ehhh, slightly different. Perhaps you are from The Capitol?"
-    viktor ""
+    viktor "你的发音,呃,有些不同.你是不是开普陀人?"
 
 # game/script.rpy:10445
 translate schinese explore_gym1_224c6d9a:
 
     # c "Nearby, yeah. I just moved here actually.\nAnd you?"
-    c ""
+    c "是的,我是那里附近的人.实际上我才刚搬来这里不久.\n你呢?"
 
 # game/script.rpy:10446
 translate schinese explore_gym1_86048365:
 
     # viktor "Ruskovia! We are like ancestral neighbors! You are lucky you did not have to learn a new language."
-    viktor ""
+    viktor "露西科维亚!我们的祖先是邻居!你很幸运,不用学习新的语言."
 
 # game/script.rpy:10448
 translate schinese explore_gym1_2c6d62f3:
 
     # viktor "It's been, uhhh, ten years and I still have trouble sometimes."
-    viktor ""
+    viktor "已经,呃,十年了,有时候我还是会遇到困难."
 
 # game/script.rpy:10450
 translate schinese explore_gym1_51c36b25:
 
     # viktor "What do you think? Is good country, no? Plenty of opportunity, unlike the old world."
-    viktor ""
+    viktor "你觉得呢?这里是不是一个好国家?不像旧世界,这里有很多机会."
 
 # game/script.rpy:10454
 translate schinese explore_gym1_8000d67d:
 
     # viktor "Advice for you, then!"
-    viktor ""
+    viktor "那我就给你个建议吧!"
 
 # game/script.rpy:10455
 translate schinese explore_gym1_3321dfc2:
 
     # viktor "Police always carry gun. Is not so common in Ruskovia. Do not try to fight the traffic ticket!"
-    viktor ""
+    viktor "这里的警察身上总是带着枪.这在露西科维亚可不常见.不要试图对抗交通罚单!"
 
 # game/script.rpy:10456
 translate schinese explore_gym1_22599ee8:
 
     # viktor "Is easier to pay than medical bill, no?"
-    viktor ""
+    viktor "至少比医疗费更便宜,是吧?"
 
 # game/script.rpy:10457
 translate schinese explore_gym1_919824f8:
 
     # c "Uh, yeah... I guess so."
-    c ""
+    c "呃,是的......大概."
 
 # game/script.rpy:10460
 translate schinese explore_gym1_70f3dc9e:
 
     # viktor "HAHAH! The ladies, yes! Of course! Boobies everywhere, if you go to beach!"
-    viktor ""
+    viktor "{b}哈哈哈.{/b}女士们,没错!当然了!如果你去沙滩,你会发现那里到处都是奶子!"
 
 # game/script.rpy:10462
 translate schinese explore_gym1_8dec60d9:
 
     # viktor "And every flavor, too! Some, you never even knew existed! It is like art exhibition here, no?"
-    viktor ""
+    viktor "还有各种形态的!有些你甚至从来都不知道它的存在!这里就像是艺术展,不是吗?"
 
 # game/script.rpy:10463
 translate schinese explore_gym1_e2e7d3a5:
 
     # c "Haha, yeah I guess so."
-    c ""
+    c "哈哈,是啊,我想也是."
 
 # game/script.rpy:10464
 translate schinese explore_gym1_b17809d1:
 
     # viktor "And the elves! Quite interesting creatures. Not sure if they deserve to be, uhhh, cattle though."
-    viktor ""
+    viktor "还有精灵!很有趣的生物.不过我不确定他们是否应该成为,呃,牲畜."
 
 # game/script.rpy:10468
 translate schinese explore_gym1_4f23e8ad:
 
     # viktor "Disappointed? How? In what way? Is beautiful country! Full of new building and road without pothole!"
-    viktor ""
+    viktor "失望?怎么了?为什么?这是个美丽的国家!到处都是新的建筑和没有坑洼的路面!"
 
 # game/script.rpy:10469
 translate schinese explore_gym1_f992d551:
 
     # c "And expensive too. My taxes are crazy... they take almost half."
-    c ""
+    c "也很贵.我的税率太疯狂了......他们几乎拿走了一半."
 
 # game/script.rpy:10471
 translate schinese explore_gym1_d1ef9573:
 
     # viktor "Is small price to pay for no pothole.\nYou must be rich man, though! My taxes, only 32 percent."
-    viktor ""
+    viktor "这只是为了没有坑洼的路面付出的小小代价而已.\n不过你一定很有钱!我的税率只有32%%."
 
 # game/script.rpy:10472
 translate schinese explore_gym1_0bc3359a:
 
     # c "Well, I own a business. It's not doing so great yet, but..."
-    c ""
+    c "嗯,我是做生意的.还不算很好,但是......"
 
 # game/script.rpy:10473
 translate schinese explore_gym1_39227506:
 
     # viktor "Ah! Business! What do you do?"
-    viktor ""
+    viktor "啊!生意!你是做什么的?"
 
 # game/script.rpy:10474
 translate schinese explore_gym1_60b62bc1:
 
     # c "I own a hotel."
-    c ""
+    c "我拥有一家酒店."
 
 # game/script.rpy:10475
 translate schinese explore_gym1_835e9af1:
 
     # viktor "Hotel! Wow! Maybe I come by some time.\nA little, uhh, how you say... stay-cation!"
-    viktor ""
+    viktor "酒店!哇哦!也许我可以找时间去看看.\n搞个小小的,呃,怎么说来着......宅家度假!"
 
 # game/script.rpy:10476
 translate schinese explore_gym1_ffcddb0a:
 
     # c "Sure, you can use our hot springs. We're fully booked though."
-    c ""
+    c "当然可以,你可以用我们的温泉.不过我们的房间都已经订满了."
 
 # game/script.rpy:10478
 translate schinese explore_gym1_e9e90520:
 
     # viktor "I thought you just said business was not so great yet?"
-    viktor ""
+    viktor "你刚刚不是说生意不是很好吗?"
 
 # game/script.rpy:10479
 translate schinese explore_gym1_39b90b83:
 
     # c "Yeah, but... construction."
-    c ""
+    c "是的,但是......还在建东西."
 
 # game/script.rpy:10481
 translate schinese explore_gym1_29367fe3:
 
     # viktor "Oh! I see! Yes, hot spring sound amazing!"
-    viktor ""
+    viktor "噢!我明白了!是啊,温泉听起来很棒!"
 
 # game/script.rpy:10483
 translate schinese explore_gym1_d23daa16:
 
     # viktor "Will help me become even more..."
-    viktor ""
+    viktor "可以让我更......"
 
 # game/script.rpy:10485
 translate schinese explore_gym1_07a2d053:
 
     # viktor "{b}VIKTORIOUS!!!{/b}" with ssshake
-    viktor "" with ssshake
+    viktor "{b}胜利!!!{/b}" with ssshake
 
 # game/script.rpy:10488
 translate schinese explore_gym1_0b96cbbe:
 
     # viktor "Well, I leave you too it, friend. Good luck on gains! I must break arm record for the day."
-    viktor ""
+    viktor "好了,我就不打扰你了,朋友.祝你好运.我今天必须打破我的手臂记录."
 
 # game/script.rpy:10489
 translate schinese explore_gym1_6ee63d47:
 
     # c "Alright, good luck."
-    c ""
+    c "好吧,祝你好运."
 
 # game/script.rpy:10491
 translate schinese explore_gym1_406d7641:
 
     # viktor "LUCK HAS NOTHING TO DO WITH IT, FRIEND! AHAHAH!"
-    viktor ""
+    viktor "{b}运气和这个没有任何关系,朋友!啊哈哈哈!{/b}"
 
 # game/script.rpy:10493
 translate schinese explore_gym1_23ae5383:
 
     # c "That was... an experience."
-    c ""
+    c "那是......一种经验之谈."
 
 # game/script.rpy:10495
 translate schinese explore_gym1_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:10498
 translate schinese explore_gym1_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10500
 translate schinese explore_gym1_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10502
 translate schinese explore_gym1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10510
 translate schinese explore_gym0_8d93d5e4:
 
     # q "YOU THINK THIS IS FUNNY? {b}HUH!?{/b} TRY LAUGHING NOW!!"
-    q ""
+    q "{b}你觉得这很有趣吗?嗯!?你现在再笑一个试试!!{/b}"
 
 # game/script.rpy:10511
 translate schinese explore_gym0_ca25fcd9:
 
     # man "I- Eghk! I'm sorry! ...I'm sorry! Nhk!"
-    man ""
+    man "我-呃!对不起!......对不起!呃!"
 
 # game/script.rpy:10512
 translate schinese explore_gym0_f7bb7dfd:
 
     # q "THIS IS NOT A PHOTO GALLERY! I've never even seen you work out a single fucking day!"
-    q ""
+    q "{b}这里不是摄影展厅!{/b}我他妈地都没见过你锻炼过哪怕一天!"
 
 # game/script.rpy:10514
 translate schinese explore_gym0_4e8a796b:
 
     # q "Get the fuck out! You're banned!"
-    q ""
+    q "他妈地给我滚出去!你被禁止再来这里了!"
 
 # game/script.rpy:10515
 translate schinese explore_gym0_4e297ee1:
 
     # man "*cough*! *cough*! Eghhk! Fuck you!"
-    man ""
+    man "*咳嗽*!*咳嗽*!呃!操你妈的!"
 
 # game/script.rpy:10516
 translate schinese explore_gym0_d1ffe987:
 
     # c "...Is this a bad time?"
-    c ""
+    c "......我来的不是时候吗?"
 
 # game/script.rpy:10518
 translate schinese explore_gym0_9bf9795c:
 
     # q "Hm? Oh, hello! No, not at all! Just taking out the trash."
-    q ""
+    q "嗯?噢,你好!不,完全不会!我只是再处理一些垃圾罢了."
 
 # game/script.rpy:10519
 translate schinese explore_gym0_185597f3:
 
     # q "A new customer? I don't think I've seen you before."
-    q ""
+    q "新顾客吗?我之前应该没有见过你."
 
 # game/script.rpy:10520
 translate schinese explore_gym0_d71d5f9c:
 
     # c "Yeah, I was thinking about joining."
-    c ""
+    c "是的,我最近想要来健身房."
 
 # game/script.rpy:10521
 translate schinese explore_gym0_7089cf78:
 
     # q "Sure! I can get you set up! Come with me."
-    q ""
+    q "当然可以!我可以帮你准备好!跟我来."
 
 # game/script.rpy:10523
 translate schinese explore_gym0_95a75d1a:
 
     # maya "So, I'm Maya. Welcome to The Forge! Caliber's highest rated gym, and my little home away from home."
-    maya ""
+    maya "所以,我是玛雅.欢迎来到锻·炼健身房!楷利泊市最顶级的健身房,也是我在我家之外的一个小家."
 
 # game/script.rpy:10524
 translate schinese explore_gym0_fca9f061:
 
     # maya "Obviously if you're going to join us, don't take pictures of anyone else and keep to yourself."
-    maya ""
+    maya "很明显,如果你想要加入我们,请不要拍其他人的照片,遵守规矩."
 
 # game/script.rpy:10525
 translate schinese explore_gym0_8124e3bd:
 
     # c "Don't worry, I'm here for the gains."
-    c ""
+    c "别担心,我是来这里锻炼的."
 
 # game/script.rpy:10527
 translate schinese explore_gym0_cfa1050b:
 
     # maya "Perfect. Membership starts at $10 a week, and if you would like to use the lockers and showers, that's an extra $5 a week."
-    maya ""
+    maya "完美.入会费为每周10$,如果你需要使用储物柜和淋浴间,每周需额外支付5$."
 
 # game/script.rpy:10528
 translate schinese explore_gym0_b6a0287a:
 
     # c "I'll stick with the basics for now."
-    c ""
+    c "我从最基础的开始吧."
 
 # game/script.rpy:10529
 translate schinese explore_gym0_e9f913ce:
 
     # maya "Sounds good, can I get your name, email address, and a form of payment? We don't accept NeroCoin."
-    maya ""
+    maya "听起来不错,可以给我你的名字,邮箱地址和付款方式吗?我们不接受尼禄币."
 
 # game/script.rpy:10531
 translate schinese explore_gym0_b10ae7ad:
 
     # "You provide the necessary information and pay $10."
-    ""
+    "你提供了必要的信息,并支付了10$."
 
 # game/script.rpy:10534
 translate schinese explore_gym0_c194beda:
 
     # maya "You're all set! Would you like a tour of the gym?"
-    maya ""
+    maya "一切就绪!想参观一下健身房吗?"
 
 # game/script.rpy:10535
 translate schinese explore_gym0_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "当然了."
 
 # game/script.rpy:10536
 translate schinese explore_gym0_85ebad60:
 
     # maya "Great, follow me."
-    maya ""
+    maya "很好,跟我来."
 
 # game/script.rpy:10539
 translate schinese explore_gym0_559d4b5c:
 
     # maya "You can find all our weights here. Just remember, sharing is caring... and don't drop your weights like an asshole. An alarm will go off if you make too much noise and I {i}will{/i} kick you out myself..."
-    maya ""
+    maya "你可以在这里找到我们所有的哑铃.请记住,分享就是关爱......还有,不要像个混蛋一样把哑铃直接丢在地上.如果你发出太大的噪音,警报就会响起,而我{i}会{/i}亲自把你踢出去......"
 
 # game/script.rpy:10540
 translate schinese explore_gym0_4266b309:
 
     # c "Don't threaten me with a good time."
-    c ""
+    c "这种好事情怎么能拿来威胁我呢."
 
 # game/script.rpy:10541
 translate schinese explore_gym0_8fe7c65b:
 
     # maya "Hah, funny..."
-    maya ""
+    maya "哈哈,幽默......"
 
 # game/script.rpy:10543
 translate schinese explore_gym0_de0cf789:
 
     # maya "Here's our cardio section. Best views money can buy!"
-    maya ""
+    maya "这是我们的有氧运动区.用钱能买到的最好的景色就在这里!"
 
 # game/script.rpy:10544
 translate schinese explore_gym0_de4f0f6f:
 
     # maya "Due to a recent incident involving pornographic material, you'll have to ask the staff for the remote. Otherwise the TVs stay as they are."
-    maya ""
+    maya "由于最近发生了一起涉及淫秽内容的事件,你必须向工作人员申请才能拿到遥控器.否则,电视节目将会保持原样."
 
 # game/script.rpy:10545
 translate schinese explore_gym0_4429f9d3:
 
     # c "Someone was watching porn here?"
-    c ""
+    c "有人在这里看黄片?"
 
 # game/script.rpy:10546
 translate schinese explore_gym0_f7be6ed8:
 
     # maya "He said it gave him motivation, I don't know. Just be decent, women work out here too."
-    maya ""
+    maya "他说这样让他更有干劲,我不明白.但是做人要得体,这里也有女性在锻炼."
 
 # game/script.rpy:10548
 translate schinese explore_gym0_4d16948b:
 
     # maya "And this is our pilates studio. I doubt you'll use it, but it's here."
-    maya ""
+    maya "这里是我们的普拉提室.我觉得你应该不会用到这个地方,但是它就在这里."
 
 # game/script.rpy:10549
 translate schinese explore_gym0_50cb7b68:
 
     # c "I like to get a stretch in from time to time."
-    c ""
+    c "我喜欢时不时伸展一下."
 
 # game/script.rpy:10551
 translate schinese explore_gym0_990d0d89:
 
     # maya "Hah, it's not just stretching. It's a lot more similar to calisthenics. It'll kick your ass if you're not prepared."
-    maya ""
+    maya "哈哈,那可不只是伸展运动.它更类似于一种健身操.如果你没有准备好,它会让你吃不少苦头."
 
 # game/script.rpy:10552
 translate schinese explore_gym0_61eb1752:
 
     # maya "A lot of men come in here thinking because they can lift some weights, they can do this too. But by all means, you're welcome to join a class."
-    maya ""
+    maya "有不少男人认为自己能够举重,那自然也可以做这种事情.但无论如何,我们都欢迎你来上课."
 
 # game/script.rpy:10554
 translate schinese explore_gym0_53d6b388:
 
     # q "Maya! Is he gone...?"
-    q ""
+    q "玛雅!他走了吗......?"
 
 # game/script.rpy:10555
 translate schinese explore_gym0_e2eaa95f:
 
     # maya "Oh hey. Yeah, don't worry, I kicked him out."
-    maya ""
+    maya "噢,嘿.是的,别担心,我把他踢出去了."
 
 # game/script.rpy:10556
 translate schinese explore_gym0_acf353bc:
 
     # q "Oh thank goodness..."
-    q ""
+    q "噢,谢天谢地......"
 
 # game/script.rpy:10558
 translate schinese explore_gym0_7cb25dab:
 
     # maya "This is Chloe, our pilates instructor."
-    maya ""
+    maya "这是克洛伊,我们的普拉提教练."
 
 # game/script.rpy:10559
 translate schinese explore_gym0_a30f99b6:
 
     # chloe "Hello~"
-    chloe ""
+    chloe "你好~"
 
 # game/script.rpy:10560
 translate schinese explore_gym0_ddd8614d:
 
     # maya "Talk to her if you'd like to join a class.\nTalk to me if you need some help lifting or want someone to spot you."
-    maya ""
+    maya "如果你想要加入课程,就和她聊聊.\n如果你需要帮忙举重,或者想找人帮你,就来找我."
 
 # game/script.rpy:10562
 translate schinese explore_gym0_caad5691:
 
     # chloe "You're welcome any time! We don't have any men doing pilates here, but we don't discriminate!"
-    chloe ""
+    chloe "我们随时欢迎你的到来!我们这里没有男士做普拉提,但我们并不歧视!"
 
 # game/script.rpy:10563
 translate schinese explore_gym0_40e06dbe:
 
     # maya "Let's see... am I missing anything? Bathrooms are just before the main room... snacks and drinks are in the lobby... Oh! No drugs."
-    maya ""
+    maya "让我看看......我漏掉了什么吗?卫生间就在主厅前面......小吃和饮料在大堂里......噢!禁止嗑药."
 
 # game/script.rpy:10564
 translate schinese explore_gym0_993ba4d9:
 
     # c "Sounds good."
-    c ""
+    c "听起来很不错."
 
 # game/script.rpy:10566
 translate schinese explore_gym0_02c15866:
 
     # maya "Alright, then you're all set. Enjoy! You might want to bring some better workout clothes next time though."
-    maya ""
+    maya "好了,一切就绪.好好享受吧.不过下次你可能要带一些更好的运动服."
 
 # game/script.rpy:10567
 translate schinese explore_gym0_6a2ce831:
 
     # c "Yeah, thanks. I'll keep that in mind."
-    c ""
+    c "是的,谢谢.我会记住的."
 
 # game/script.rpy:10568
 translate schinese explore_gym0_57240141:
 
     # maya "You know where I'll be if you need me. See you around."
-    maya ""
+    maya "如果你需要我,你知道在哪里可以找我.再见."
 
 # game/script.rpy:10574
 translate schinese explore_gym0_d848add2:
 
     # c "*exhale*... I've reached my limit..."
-    c ""
+    c "*呼气*......我已经到极限了......"
 
 # game/script.rpy:10576
 translate schinese explore_gym0_0c46a488:
 
     # c "...And now I fucking stink."
-    c ""
+    c "......现在我浑身臭得要命."
 
 # game/script.rpy:10578
 translate schinese explore_gym0_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "你在探索过程中使用了1点行动点."
 
 # game/script.rpy:10581
 translate schinese explore_gym0_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10583
 translate schinese explore_gym0_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:10585
 translate schinese explore_gym0_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
 
 # game/script.rpy:14825
 translate schinese out1_98c4bab8_1:
 
     # r "End of Corpus Cafe content... for now."
-    r ""
+    r "科普斯咖啡馆的内容结束了......暂时的."
 
 # game/script.rpy:14930
 translate schinese berns_187c3e99:
 
     # c "Time to get in shape. Where can I find a gym?"
-    c ""
+    c "是时候锻炼身体了.健身房在哪里?"
 
 # game/script.rpy:14932
 translate schinese berns_3a3f0eaa:
 
     # "You walk around Caliber's streets looking for the closest gym to the bus stop."
-    ""
+    "你在楷利泊的大街上闲逛,寻找离公交车站最近的健身房."
 
 # game/script.rpy:14933
 translate schinese berns_671e67ac:
 
     # "A few blocks away you manage to find one with some promise."
-    ""
+    "走了几个街区之后,你找到了一家."
 
 # game/script.rpy:14939
 translate schinese berns_1aa1d686:
 
     # c "Time to hit the gym."
-    c ""
+    c "该去健身房了."
 
 # game/script.rpy:14948
 translate schinese berns_756a38cf:
 
     # r "End of The Forge content... for now."
-    r ""
+    r "锻·炼健身房的内容结束了......暂时的."
 
 # game/script.rpy:15406
 translate schinese bern_tourney_1961ec54:
 
     # zara "You don't have to rub it in..."
-    zara ""
+    zara "你不必勉强的......"
 
 # game/script.rpy:16617
 translate schinese nextfrontdoor_1ca20fdf:
 
     # mail "You pick up Ashley's stiletto"
-    mail ""
+    mail "你签收了阿什莉的小刀"
 
 # game/script.rpy:25961
 translate schinese mailorder_ccaeadc2:
 
     # mail "Your mail has arrived! Packages have been left in the mailbox."
-    mail ""
+    mail "你的邮件到了!包裹在邮箱里."
 
 # game/script.rpy:27019
 translate schinese checkdone_7c001998:
 
     # r "Lin's story is not done, more will be added to her in v0.20!"
-    r ""
+    r "林的故事还未结束,她的更多内容会在v0.20中增加!"
 
 # game/script.rpy:27027
 translate schinese checkdone_655f4a97:
 
     # r "Ashley's story is not done, more will be added to her in v0.20!"
-    r ""
+    r "阿什莉的故事还未结束,她的更多内容会在v0.20中增加!"
 
 translate schinese strings:
 
     # game/script.rpy:92
     old "Cornwall"
-    new ""
+    new "康沃尔"
 
     # game/script.rpy:93
     old "Nero"
-    new ""
+    new "尼禄"
 
     # game/script.rpy:209
     old "Cyberpup"
-    new ""
+    new "赛博狗狗"
 
     # game/script.rpy:10451
     old "Love it so far!"
-    new ""
+    new "目前为止,我很喜欢!"
 
     # game/script.rpy:10451
     old "It's amazing. And the ladies, too..."
-    new ""
+    new "很棒.这里的女士们也很棒......"
 
     # game/script.rpy:10451
     old "A bit disappointed, honestly."
-    new ""
+    new "说实话,有点失望."
 
     # game/script.rpy:14801
     old "{color=#8C8C8C}Visit the Corpus Cafe{/color}"
-    new ""
+    new "{color=#8C8C8C}去科普斯咖啡馆{/color}"
 
     # game/script.rpy:14801
     old "1AP) Join a gym"
-    new ""
+    new "1行动点)前往健身房"
 
     # game/script.rpy:14801
     old "1AP) Visit The Forge"
-    new ""
+    new "1行动点)前往锻·炼健身房"
 
     # game/script.rpy:20723
     old "You may now continue Lin's story from here or at her door.\nIt is recommended to play this event last."
-    new ""
+    new "你现在可以在林的门前继续她的故事.\n推荐最后再游玩这个事件."
 

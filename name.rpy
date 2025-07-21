@@ -493,3 +493,12 @@ translate schinese strings:
 
     old "Viktor (the Viktorious)"
     new "胜利者维克托"
+
+    old "Numbers"
+    new "涅波斯"
+
+    old "Maya"
+    new "玛雅"
+
+    old "Zoia"
+    new "佐娅"

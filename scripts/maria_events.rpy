@@ -45538,7 +45538,7 @@ translate schinese martalkl_04797cb5:
 translate schinese martalkl_f08e5124:
 
     # m "I feel better after training with Nia. I think I'll be ready for the mission, don't you?"
-    m "和尼娅一起训练后我感觉好多了.我想我已经准备好执行任务了,你呢?"
+    m "和妮娅一起训练后我感觉好多了.我想我已经准备好执行任务了,你呢?"
 
 # game/scripts/maria_events.rpy:12672
 translate schinese martalkl_8198f9f0:

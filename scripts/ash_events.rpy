@@ -44996,13 +44996,13 @@ translate schinese ash_gang_07266786:
 translate schinese ash_gang_542e67a8:
 
     # a "She was my parent's slave, she basically raised me! NOW TELL ME-"
-    a "她是我父母的奴隶,我基本上是被她养大的!{b}现在告诉我-{/b}"
+    a "她是我父母的奴隶,我基本上算是被她养大的!{b}现在告诉我-{/b}"
 
 # game/scripts/ash_events.rpy:48
 translate schinese ash_gang_ec6df8ee:
 
     # a "-Wait, you know who she is?"
-    a "-等下.你知道她是水?"
+    a "-等下.你认识她?"
 
 # game/scripts/ash_events.rpy:49
 translate schinese ash_gang_c02d8d8d:
@@ -45050,7 +45050,7 @@ translate schinese ash_gang_34ada1ca:
 translate schinese ash_gang_87699842:
 
     # a "I know {u}exactly{/u} who I'm dealing with, Nia! I grew up around them! We just beat up that Rasha guy's boss too, so don't think I won't kill them!"
-    a "我知道我面对的{u}到底{/u}是什么人,妮娅!我就成长在他们周围!我们刚把那个拉沙的老大也打了,所以别以为我杀布料他们!"
+    a "我知道我面对的{u}到底{/u}是什么人,妮娅!我的成长环境有很多那种人!我们刚把那个拉沙的老大也打了,所以别以为我杀不了他们!"
 
 # game/scripts/ash_events.rpy:59
 translate schinese ash_gang_03cb70c2:
@@ -45092,7 +45092,7 @@ translate schinese ash_gang_f7887f88:
 translate schinese ash_gang_41b1cf27:
 
     # nia "I work for the people. He sells them goods, and that money goes right back into their economy."
-    nia "我为人民工作.他卖东西给他们,那些钱最终也会回到他们的经济之中."
+    nia "我为所有人工作.他卖东西给他们,那些钱最终也会回到他们的经济之中."
 
 # game/scripts/ash_events.rpy:67
 translate schinese ash_gang_3a5183de:
@@ -45278,7 +45278,7 @@ translate schinese ash_gang_fc87d349:
 translate schinese ash_gang_dc612436:
 
     # "Ashley impatiently waits for Nia to finish her food and get dressed. Once everyone is ready, you drive them to Lowtown..."
-    "阿什莉不耐烦地等着尼娅吃完饭,换好衣服.等大家都准备好了,你就开车载她们去低地镇......"
+    "阿什莉不耐烦地等着妮娅吃完饭,换好衣服.等大家都准备好了,你就开车载她们去低地镇......"
 
 # game/scripts/ash_events.rpy:112
 translate schinese ash_gang_30d86c71:
@@ -45608,7 +45608,7 @@ translate schinese ash_gang_6d013ad0:
 translate schinese ash_gang_6803fef8:
 
     # nia "{size=-7}{i}Ashley!{/i}{/size}"
-    nia "{szie=-7}{i}阿什莉!{/i}{/size}"
+    nia "{size=-7}{i}阿什莉!{/i}{/size}"
 
 # game/scripts/ash_events.rpy:178
 translate schinese ash_gang_904d20ec:
@@ -45746,7 +45746,7 @@ translate schinese ash_gang_63441678:
 translate schinese ash_gang_28d7d384:
 
     # rasha "NO! Even less than before! The people love me now!"
-    rasha "{b}不!{/b}甚至笔以前还少!现在这里的人们都很爱我!"
+    rasha "{b}不!{/b}甚至比以前还少!现在这里的人们都很爱我!"
 
 # game/scripts/ash_events.rpy:209
 translate schinese ash_gang_dd596b65:
@@ -46136,1613 +46136,1613 @@ translate schinese ash_gang_81eba4fd:
 translate schinese ash_gang_ec5f0751:
 
     # nia "How are we going to know that, if we don't even know where they are!"
-    nia ""
+    nia "如果我们连他们在哪都不知道,那我们怎么能了解他们!"
 
 # game/scripts/ash_events.rpy:298
 translate schinese ash_gang_6cf9f03d:
 
     # rasha "Tsssk..."
-    rasha ""
+    rasha "啧......"
 
 # game/scripts/ash_events.rpy:299
 translate schinese ash_gang_6377135a:
 
     # nia "We can't just walk in and blow up the place, Rasha! They'll take us as a threat if we walk in with weapons!"
-    nia ""
+    nia "我们不能就这样走进去炸了那地方,拉沙!如果我们带武器进去,他们会把我们视为威胁!"
 
 # game/scripts/ash_events.rpy:300
 translate schinese ash_gang_244d708a:
 
     # rasha "Yaya. Ya smart... Sorry for doubtin' you."
-    rasha ""
+    rasha "是是是.你很聪明......很抱歉质疑了你."
 
 # game/scripts/ash_events.rpy:302
 translate schinese ash_gang_81e1081b:
 
     # rasha "Ya see that buildin' stickin' out like a sore thumb? They on the third floor."
-    rasha ""
+    rasha "你看见那座像大拇指一样突出来的大楼了吗?他们在三楼."
 
 # game/scripts/ash_events.rpy:304
 translate schinese ash_gang_6ec64fb3:
 
     # nia "Which door?"
-    nia ""
+    nia "哪个门?"
 
 # game/scripts/ash_events.rpy:305
 translate schinese ash_gang_bd1bbcec:
 
     # rasha "Door? HAH! They own the whole floor!"
-    rasha ""
+    rasha "门?{b}哈哈!{/b}一整层都是他们的!"
 
 # game/scripts/ash_events.rpy:306
 translate schinese ash_gang_54be731a:
 
     # nia "Isn't that a hotel?"
-    nia ""
+    nia "那不是个酒店吗?"
 
 # game/scripts/ash_events.rpy:307
 translate schinese ash_gang_4fb355f6:
 
     # rasha "Sure is. Less of a paper trail, I 'spose."
-    rasha ""
+    rasha "当然是.这样可以少很多纸质记录,大概."
 
 # game/scripts/ash_events.rpy:309
 translate schinese ash_gang_866ac1d3:
 
     # nia "What are we waiting for then? Let's go."
-    nia ""
+    nia "那我们还等什么?我们走吧."
 
 # game/scripts/ash_events.rpy:310
 translate schinese ash_gang_6be14cc5:
 
     # rasha "Right... I'll take ya to the service elevator."
-    rasha ""
+    rasha "是......我带你们去服务电梯."
 
 # game/scripts/ash_events.rpy:313
 translate schinese ash_gang_8ec2e4ea:
 
     # rasha "Alright... here we are. Just behind here is the kitchen, take a right, and ya find your elevator. Take it to the third floor, and ya will meet ya man."
-    rasha ""
+    rasha "好了......我们到了.后面就是厨房,右转就能找到电梯,坐到三楼,就能找到你们想要见的人了."
 
 # game/scripts/ash_events.rpy:315
 translate schinese ash_gang_68bea28f:
 
     # rasha "With that, me debts are paid. Good luck, Ashley!"
-    rasha ""
+    rasha "这样,我的债就还清了.祝你好运,阿什莉!"
 
 # game/scripts/ash_events.rpy:317
 translate schinese ash_gang_85250105:
 
     # nia "Hold on..." with ssshake
-    nia "" with ssshake
+    nia "等一下......" with ssshake
 
 # game/scripts/ash_events.rpy:318
 translate schinese ash_gang_7859ebb6:
 
     # rasha "What now!?"
-    rasha ""
+    rasha "现在又怎么了!?"
 
 # game/scripts/ash_events.rpy:319
 translate schinese ash_gang_16be91dd:
 
     # nia "How do we know {i}you're{/i} not leading us into a trap?"
-    nia ""
+    nia "我们怎么才能相信{i}你{/i}没有把我们往陷阱里引?"
 
 # game/scripts/ash_events.rpy:320
 translate schinese ash_gang_7ebdb304:
 
     # rasha "Are ya kiddin' me!? Why would I do that??"
-    rasha ""
+    rasha "你在开玩笑吗!?我为什么要那么做??"
 
 # game/scripts/ash_events.rpy:321
 translate schinese ash_gang_6ea3b730:
 
     # a "Maybe your whole story about Ren was a lie..."
-    a ""
+    a "也许你对任的说法完全是在撒谎......"
 
 # game/scripts/ash_events.rpy:323
 translate schinese ash_gang_e8bf24e9:
 
     # rasha "Bullshit! If it's one thing I'm not, it's a liar!"
-    rasha ""
+    rasha "胡扯!我什么人都可能是,唯独不可能是骗子!"
 
 # game/scripts/ash_events.rpy:324
 translate schinese ash_gang_3cb3b89e:
 
     # c "We're going to need you with us as insurance."
-    c ""
+    c "我们需要你作为保险."
 
 # game/scripts/ash_events.rpy:325
 translate schinese ash_gang_faa475c8:
 
     # rasha "NO! NO WAY! Not happening!"
-    rasha ""
+    rasha "{b}不!没门!{/b}不可能!"
 
 # game/scripts/ash_events.rpy:327
 translate schinese ash_gang_38afd12a:
 
     # nia "We'll protect you, don't worry."
-    nia ""
+    nia "我们会保护你的,别担心."
 
 # game/scripts/ash_events.rpy:328
 translate schinese ash_gang_778996ab:
 
     # rasha "With what!? With what, woman!? I'm a frail old man, I can't fight no one!"
-    rasha ""
+    rasha "用什么保护!?用什么保护,女人!?我是个体弱多病的老人,我谁都打不过!"
 
 # game/scripts/ash_events.rpy:329
 translate schinese ash_gang_141a385a:
 
     # nia "You may have paid your debts to Ashley, but what about Lowtown?"
-    nia ""
+    nia "你也许还清了阿什莉的债,那低地镇的人呢?"
 
 # game/scripts/ash_events.rpy:330
 translate schinese ash_gang_110edeb6:
 
     # rasha "Watchu talkin' about!? They love me now!"
-    rasha ""
+    rasha "你在说什么!?他们现在很爱我!"
 
 # game/scripts/ash_events.rpy:331
 translate schinese ash_gang_29fe2acc:
 
     # nia "Rasha the Gallant... sounds like a good title, right? Do this for us, and I'll make sure they know you as a brave hero."
-    nia ""
+    nia "英勇的拉沙......是个很不错的头衔,对吧?帮我们,我会让他们知道你是个勇敢的英雄."
 
 # game/scripts/ash_events.rpy:332
 translate schinese ash_gang_042403db:
 
     # rasha "What need have I of titles, woman!?"
-    rasha ""
+    rasha "我需要这些头衔干什么,女人!?"
 
 # game/scripts/ash_events.rpy:333
 translate schinese ash_gang_c6ac8ce8:
 
     # nia "More sales."
-    nia ""
+    nia "更多的生意."
 
 # game/scripts/ash_events.rpy:334
 translate schinese ash_gang_6cf9f03d_1:
 
     # rasha "Tsssk..."
-    rasha ""
+    rasha "啧......"
 
 # game/scripts/ash_events.rpy:335
 translate schinese ash_gang_9248bd34:
 
     # rasha "Seein' as ya forcin' me, I got no choice! But here's the deal... TWENTY packs of toilet paper by the end of the week! Not twenty ROLLS! TWENTY PACKS! The big ones!"
-    rasha ""
+    rasha "这是你逼我的,我别无选择!这样吧......这周结束前要给我{b}二十{/b}包厕纸!不是二十{b}卷{/b}!{b}是二十包{/b}!大包的!"
 
 # game/scripts/ash_events.rpy:336
 translate schinese ash_gang_6ec9eb97:
 
     # c "I'll get you that..."
-    c ""
+    c "我可以给你......"
 
 # game/scripts/ash_events.rpy:337
 translate schinese ash_gang_0e39776b:
 
     # rasha "Tsk... fine!"
-    rasha ""
+    rasha "啧......行吧!"
 
 # game/scripts/ash_events.rpy:338
 translate schinese ash_gang_0b8a133d:
 
     # rasha "This better not be a trap, Nia! Ya really gettin' on me nerves!"
-    rasha ""
+    rasha "这最好不是什么陷阱,妮娅!你让我很不安!"
 
 # game/scripts/ash_events.rpy:342
 translate schinese ash_gang_bdae101d:
 
     # rasha "Nnngh...!"
-    rasha ""
+    rasha "呃......!"
 
 # game/scripts/ash_events.rpy:343
 translate schinese ash_gang_78792d53:
 
     # rasha "What am I 'spose to say to the boss, EH? I owe him money, ya know!?"
-    rasha ""
+    rasha "我要跟老大怎么说,{b}嗯{/b}?我欠他钱,你知道吗!?"
 
 # game/scripts/ash_events.rpy:344
 translate schinese ash_gang_b9ac63b0:
 
     # nia "I know... He's not going to kill someone that owes him money. You can just disappear in Lowtown again."
-    nia ""
+    nia "我知道......他不会杀欠钱的人的.你完全可以再次消失在低地镇里."
 
 # game/scripts/ash_events.rpy:345
 translate schinese ash_gang_4ac4b0f2:
 
     # rasha "Easier said than done! I just hope MY former boss isn't here..."
-    rasha ""
+    rasha "说起来容易做起来难!我只希望{b}我{/n}的前任老大不在这里......"
 
 # game/scripts/ash_events.rpy:346
 translate schinese ash_gang_6eb41a3e:
 
     # c "Rasha, if anyone's leading us into a trap, it's you. You worked with them."
-    c ""
+    c "拉沙,如果有人想把我们往陷阱里引,那就只有你.你为他们工作."
 
 # game/scripts/ash_events.rpy:347
 translate schinese ash_gang_00cbba1c:
 
     # rasha "I AIN'T TRAPPIN' YA!"
-    rasha ""
+    rasha "{b}我没有骗你们!{/b}"
 
 # game/scripts/ash_events.rpy:348
 translate schinese ash_gang_912c5a5a:
 
     # c "Let me finish...\nNeither of us have anything to gain from trapping the other, and all of us want them to stop hurting people. We need to work as a team."
-    c ""
+    c "让我说完......\n我们谁都无法通过诱捕对方得到任何好处,我们都希望他们停止伤害他人.我们需要团队合作."
 
 # game/scripts/ash_events.rpy:349
 translate schinese ash_gang_6eb5604b:
 
     # rasha "Tsssk... {i}Team...{/i}\nNothing good comes from teams! Only good coming, comes from deals."
-    rasha ""
+    rasha "啧......{i}团队合作......{/i}\n团队合作不会带来任何好处!只有生意,才能带来好处."
 
 # game/scripts/ash_events.rpy:350
 translate schinese ash_gang_251d5fb1:
 
     # a "Damn, Rasha. Who hurt you?"
-    a ""
+    a "我去,拉沙.有谁伤害了你吗?"
 
 # game/scripts/ash_events.rpy:352
 translate schinese ash_gang_10029665:
 
     # "*ding*"
-    ""
+    "*叮*"
 
 # game/scripts/ash_events.rpy:353
 translate schinese ash_gang_86f77074:
 
     # rasha "{i}Shhh! Let me do the talkin'.{/i}"
-    rasha ""
+    rasha "{i}嘘!我去谈谈吧.{/i}"
 
 # game/scripts/ash_events.rpy:355
 translate schinese ash_gang_60016604:
 
     # nia "..."
-    nia ""
+    nia "......"
 
 # game/scripts/ash_events.rpy:356
 translate schinese ash_gang_a0d75626:
 
     # a "{i}Oh, this place is nice...!{/i}"
-    a ""
+    a "{i}噢,这地方真不错......!{/i}"
 
 # game/scripts/ash_events.rpy:357
 translate schinese ash_gang_0c9f5a70:
 
     # gang3 "Who the fuck are you!?"
-    gang3 ""
+    gang3 "你们他妈谁啊!?"
 
 # game/scripts/ash_events.rpy:358
 translate schinese ash_gang_2554a967:
 
     # gang1 "That's Rasha. We've been waiting for him to show up..."
-    gang1 ""
+    gang1 "那是拉沙.我们一直在等他出现......"
 
 # game/scripts/ash_events.rpy:359
 translate schinese ash_gang_cc675fd8:
 
     # gang3 "Tourists... Rasha, you a pimp now?"
-    gang3 ""
+    gang3 "游客......拉沙,你现在开始拉皮条了?"
 
 # game/scripts/ash_events.rpy:360
 translate schinese ash_gang_355b3803:
 
     # rasha "Tsk, nah man! Not unless ya like headaches..."
-    rasha ""
+    rasha "啧,不是,哥们!除非你喜欢头疼......"
 
 # game/scripts/ash_events.rpy:362
 translate schinese ash_gang_9114c480:
 
     # rasha "My friends! Wagwan? Been a while, eh?"
-    rasha ""
+    rasha "我的朋友!最近咋样?已经有一段时间了,嗯?"
 
 # game/scripts/ash_events.rpy:363
 translate schinese ash_gang_97028708:
 
     # gang1 "Who's them?"
-    gang1 ""
+    gang1 "他们是谁?"
 
 # game/scripts/ash_events.rpy:364
 translate schinese ash_gang_85eb902b:
 
     # rasha "We're here to do business with the big boss! Been some trouble in Lowtown."
-    rasha ""
+    rasha "我们是来和老大谈生意的!低地镇出了点麻烦."
 
 # game/scripts/ash_events.rpy:365
 translate schinese ash_gang_c28a51f1:
 
     # gang2 "Rasha..."
-    gang2 ""
+    gang2 "拉沙......"
 
 # game/scripts/ash_events.rpy:367
 translate schinese ash_gang_2ed7aab3:
 
     # rasha "Wagwan! Long time no see!"
-    rasha ""
+    rasha "最近咋样啊!好久没见了!"
 
 # game/scripts/ash_events.rpy:368
 translate schinese ash_gang_2a728cf6:
 
     # c "{i}(Shit, I've seen them before... but where?){/i}"
-    c ""
+    c "{i}(操,我之前好像见过他们......但是是在哪?){/i}"
 
 # game/scripts/ash_events.rpy:370
 translate schinese ash_gang_04eb8678:
 
     # c "{i}(Fuck, it's them...){/i}"
-    c ""
+    c "{i}(操,是他们......){/i}"
 
 # game/scripts/ash_events.rpy:372
 translate schinese ash_gang_a59c4162:
 
     # gang2 "Boss wants a word."
-    gang2 ""
+    gang2 "老大有话要和你谈谈."
 
 # game/scripts/ash_events.rpy:373
 translate schinese ash_gang_6d83e9f4:
 
     # rasha "That's why I'm here, ya idiot! Me always pay me debts, don't ya worry. Been workin' on somethin' real hush-hush."
-    rasha ""
+    rasha "这就是我来这里的原因,你个白痴!别担心,我总是会付清我欠下的债的.我正在秘密做一件大事."
 
 # game/scripts/ash_events.rpy:375
 translate schinese ash_gang_a86757d1:
 
     # gang2 "What did you call me...?"
-    gang2 ""
+    gang2 "你刚才叫我什么......?"
 
 # game/scripts/ash_events.rpy:376
 translate schinese ash_gang_b1fe5891:
 
     # rasha "Tsk, ya heard me. I ain't 'fraid a' you."
-    rasha ""
+    rasha "啧,你听到我说的了.我可不怕你."
 
 # game/scripts/ash_events.rpy:377
 translate schinese ash_gang_63a2edeb:
 
     # gang2 "I can change that."
-    gang2 ""
+    gang2 "那我可以改变你的想法."
 
 # game/scripts/ash_events.rpy:378
 translate schinese ash_gang_acf5a76c:
 
     # rasha "Ya just muscle, man! Boss an' me, we businessmen. Me profit pay ya lunch, so step aside! This real business. End a' story!"
-    rasha ""
+    rasha "你只是空有一身肌肉,伙计!老大和我都是生意人.你的午餐费可是我出的,一边凉快去!这才是真正的生意.故事结束!"
 
 # game/scripts/ash_events.rpy:380
 translate schinese ash_gang_2ae1df95:
 
     # gang1 "Ya can't just walk in here without an appointment. And what's with them? We don't take tourists."
-    gang1 ""
+    gang1 "没有预约你可不能进来.还有他们呢?我们不接待游客."
 
 # game/scripts/ash_events.rpy:381
 translate schinese ash_gang_6d824fc5:
 
     # rasha "Appointment? Yeah, with ya boss-man, not you! Move aside, rat-face!"
-    rasha ""
+    rasha "预约?是,但是是和老大的预约,而不是你!靠边站去,你个贼眉鼠眼的!"
 
 # game/scripts/ash_events.rpy:382
 translate schinese ash_gang_e3150186:
 
     # rasha "Go on then! Run'tell ya boss me here, or wanna hold up Rasha all day?"
-    rasha ""
+    rasha "去吧!去告诉你老大说我在这里,还是你想整天拖着拉沙?"
 
 # game/scripts/ash_events.rpy:383
 translate schinese ash_gang_c8dc969b:
 
     # gang1 "YOUR boss say you got robbed, held up, forced out. Ain't heard from you since... And why the FUCK you draggin' tourists here, Rasha?"
-    gang1 ""
+    gang1 "{b}你{/b}的老大说你被抢劫然后赶出来了.从那之后,就再也没有了你的消息......还有,拉沙,你{b}他妈{/b}把游客拉过来干什么?"
 
 # game/scripts/ash_events.rpy:384
 translate schinese ash_gang_96110e5b:
 
     # gang1 "These the folks that robbed you? How do we know they're not runnin' you? That ones a fuckin' ninja! And who's that dude!?"
-    gang1 ""
+    gang1 "就是这群人抢了你吗?我们怎么知道他们是不是来消灭你的?那他妈还有个忍者!还有,那家伙是谁!?"
 
 # game/scripts/ash_events.rpy:386
 translate schinese ash_gang_14f864f9:
 
     # rasha "Runnin' me, eh? Ya have no idea how funny that is..."
-    rasha ""
+    rasha "消灭我,嗯?你不知道你说这话有多搞笑......"
 
 # game/scripts/ash_events.rpy:387
 translate schinese ash_gang_723dea1c:
 
     # rasha "You're a fuckin' GOON! Ain't no one wanna hear ya talk! Take us to the boss-man, or it'll be YOUR funeral!"
-    rasha ""
+    rasha "你他妈就是个{b}傻逼{/b}!没人想听你说话!带我们去见老大,不然{b}你{/b}就等死吧!"
 
 # game/scripts/ash_events.rpy:388
 translate schinese ash_gang_0f461a19:
 
     # gang1 "I should fuckin' kill you, Rasha!"
-    gang1 ""
+    gang1 "我真他妈应该杀了你,拉沙!"
 
 # game/scripts/ash_events.rpy:389
 translate schinese ash_gang_679fdab8:
 
     # rasha "Go ahead an' try! Ya see the girl behind me? That's THE LIBERATOR! Heard of her? She'll kill ya in a blink of an eye! Lightning fast!"
-    rasha ""
+    rasha "那就来试试吧!见到我后面那个女孩了吗?她就是{b}解放者{/b}!听说过吗?她可以在你眨眼的瞬间就杀了你!比闪电都快!"
 
 # game/scripts/ash_events.rpy:390
 translate schinese ash_gang_a2159767:
 
     # gang1 "YOU'RE A DEAD MAN!"
-    gang1 ""
+    gang1 "{b}你他妈已经是个死人了!{/b}"
 
 # game/scripts/ash_events.rpy:392
 translate schinese ash_gang_fe8c53c7:
 
     # a "LISTEN HERE YOU LITTLE SHIT!!" with ssshake
-    a "" with ssshake
+    a "{b}给我听好了你个混蛋!!{/b}" with ssshake
 
 # game/scripts/ash_events.rpy:393
 translate schinese ash_gang_8701dcbf:
 
     # rasha "WHAT THE HELL!?"
-    rasha ""
+    rasha "{b}什么鬼!?{/b}"
 
 # game/scripts/ash_events.rpy:394
 translate schinese ash_gang_54ed63ce:
 
     # a "I don't give a FUCK who you are, YOU WORK FOR ME! You think you own these streets? OLD TOWN DON'T EVEN KNOW YOUR NAME!"
-    a ""
+    a "我{b}他妈{/b}才不管你到底是谁,{b}你在为我工作{/b}!你以为这条街是你的吗?{b}老城区上面没有你的名字!{/b}"
 
 # game/scripts/ash_events.rpy:396
 translate schinese ash_gang_e0dabc6c:
 
     # a "I'M NOT HERE TO PLAY GAMES WITH SOMEONE'S FUCKING BITCH! SIT THE FUCK DOWN!!"
-    a ""
+    a "{b}我来这不是来和谁手下的哈巴狗玩游戏的!给我他妈地坐下!!{/b}"
 
 # game/scripts/ash_events.rpy:397
 translate schinese ash_gang_b7b93833:
 
     # gang1 "ALRIGHT! God damn! What the fuck!?"
-    gang1 ""
+    gang1 "{b}好吧好吧!{/b}他妈的!什么鬼!?"
 
 # game/scripts/ash_events.rpy:399
 translate schinese ash_gang_6b7eeafa:
 
     # gang1 "Fuckin' chill! Give us a warning before you just walk in then, alright!? We're not supposed to let anyone in!"
-    gang1 ""
+    gang1 "妈的,冷静点!在你们进去之前先告诉我们一下,行吗!?我们不能让任何人进去的!"
 
 # game/scripts/ash_events.rpy:400
 translate schinese ash_gang_7a6feed6:
 
     # a "WHERE'S THE BOSS!?"
-    a ""
+    a "{b}老大在哪!?{/b}"
 
 # game/scripts/ash_events.rpy:401
 translate schinese ash_gang_98d70100:
 
     # gang1 "Room 302! I'll take you there!"
-    gang1 ""
+    gang1 "302房!我带你过去!"
 
 # game/scripts/ash_events.rpy:403
 translate schinese ash_gang_3a49fd8d:
 
     # a "Good boy."
-    a ""
+    a "好孩子."
 
 # game/scripts/ash_events.rpy:404
 translate schinese ash_gang_2ab131f3:
 
     # gang1 "The hell was that!? You see that!?"
-    gang1 ""
+    gang1 "那他妈怎么回事!?你看见了吗!?"
 
 # game/scripts/ash_events.rpy:405
 translate schinese ash_gang_f59c7552:
 
     # a "Get moving!"
-    a ""
+    a "快走!"
 
 # game/scripts/ash_events.rpy:406
 translate schinese ash_gang_329961a9:
 
     # gang1 "Yeah yeah..."
-    gang1 ""
+    gang1 "行行行......"
 
 # game/scripts/ash_events.rpy:408
 translate schinese ash_gang_4127ed50:
 
     # c "{i}{size=-5}Nice acting, Ash...{/size}{/i}"
-    c ""
+    c "{i}{size=-5}演得真好,阿什......{/size}{/i}"
 
 # game/scripts/ash_events.rpy:409
 translate schinese ash_gang_8b78c613:
 
     # rasha "{i}{size=-5}Acting!? Bombaclaat! Me nearly believe that meself! How ya act like that!?{/size}{/i}"
-    rasha ""
+    rasha "{i}{size=-5}演的!?我了个大操啊!我差点就信了!你是怎么表演得那么像的!?{/size}{/i}"
 
 # game/scripts/ash_events.rpy:410
 translate schinese ash_gang_7e13b2e6:
 
     # nia "{i}{size=-5}What the fuck was that, Ashley??{/size}{/i}"
-    nia ""
+    nia "{i}{size=-5}那他妈是怎么回事,阿什莉??{/size}{/i}"
 
 # game/scripts/ash_events.rpy:411
 translate schinese ash_gang_ad55854b:
 
     # a "A warning. Don't fuck with my family!"
-    a ""
+    a "一个警告.别打我家人的主意!"
 
 # game/scripts/ash_events.rpy:413
 translate schinese ash_gang_c5c92c65:
 
     # gang2 "This is him..."
-    gang2 ""
+    gang2 "就是他......"
 
 # game/scripts/ash_events.rpy:414
 translate schinese ash_gang_d34ac33b:
 
     # c "{i}Hold up, Ashley.{/i}"
-    c ""
+    c "{i}等一下,阿什莉.{/i}"
 
 # game/scripts/ash_events.rpy:415
 translate schinese ash_gang_11ccba35:
 
     # rasha "Let me speak to him!"
-    rasha ""
+    rasha "让我和他聊聊!"
 
 # game/scripts/ash_events.rpy:416
 translate schinese ash_gang_7e265287:
 
     # a "What's with all this shit on the floor!?"
-    a ""
+    a "地板上怎么这么多狗屎玩意!?"
 
 # game/scripts/ash_events.rpy:417
 translate schinese ash_gang_c8a9c540:
 
     # gang2 "Bad service... he might be a little upset right now, so take it easy."
-    gang2 ""
+    gang2 "这家酒店的服务态度不是很好......他现在可能有点不高兴,所以别太激动了."
 
 # game/scripts/ash_events.rpy:420
 translate schinese ash_gang_2db10b17:
 
     # rasha "*knock, knock, knock*\nEy man! It's Rasha! Here for some business!"
-    rasha ""
+    rasha "*敲,敲,敲*\n欸,哥们!是我,拉沙!来这里谈生意的!"
 
 # game/scripts/ash_events.rpy:421
 translate schinese ash_gang_93cf30d6:
 
     # q "{size=-5}Who?{/size}"
-    q ""
+    q "{size=-5}谁?{/size}"
 
 # game/scripts/ash_events.rpy:422
 translate schinese ash_gang_024c3901:
 
     # q "{size=-5}Let him in.{/size}"
-    q ""
+    q "{size=-5}让他进来.{/size}"
 
 # game/scripts/ash_events.rpy:423
 translate schinese ash_gang_702997b1:
 
     # q "{size=-5}Ugh.{/size}"
-    q ""
+    q "{size=-5}呃.{/size}"
 
 # game/scripts/ash_events.rpy:425
 translate schinese ash_gang_b19a4a1b:
 
     # q "Yes...?"
-    q ""
+    q "怎么了......?"
 
 # game/scripts/ash_events.rpy:426
 translate schinese ash_gang_20b64efe:
 
     # rasha "Ey Von! You got a new girlie, eh?"
-    rasha ""
+    rasha "欸,冯!你是不是抓了个新的小妞,嗯?"
 
 # game/scripts/ash_events.rpy:427
 translate schinese ash_gang_e4a1f26c:
 
     # von "Nngh..."
-    von ""
+    von "呃......"
 
 # game/scripts/ash_events.rpy:428
 translate schinese ash_gang_a7e6c341:
 
     # rasha "Well? Ya gon' let us in, or not?"
-    rasha ""
+    rasha "嗯?你到底让不让我们进?"
 
 # game/scripts/ash_events.rpy:429
 translate schinese ash_gang_54bdffe6:
 
     # von "Door's open, ain't it?"
-    von ""
+    von "门不是开着吗?"
 
 # game/scripts/ash_events.rpy:431
 translate schinese ash_gang_f79e4f32:
 
     # rasha "Wagwan boss-man? Ya well?"
-    rasha ""
+    rasha "最近咋样,老大?你还好吗?"
 
 # game/scripts/ash_events.rpy:432
 translate schinese ash_gang_5cba389b:
 
     # von "Tch... you brought tourists."
-    von ""
+    von "啧......你还带了游客过来."
 
 # game/scripts/ash_events.rpy:433
 translate schinese ash_gang_f25b1404:
 
     # rasha "Ahh... We just need a word, that's all."
-    rasha ""
+    rasha "啊......我们只是需要谈谈,就这样."
 
 # game/scripts/ash_events.rpy:434
 translate schinese ash_gang_4f59a1a0:
 
     # von "You owe us money, Rasha. Lots."
-    von ""
+    von "你欠我钱,拉沙.欠很多."
 
 # game/scripts/ash_events.rpy:435
 translate schinese ash_gang_d930e4db:
 
     # rasha "And you'll get every crown, man! You know how it is. Rasha always pays up."
-    rasha ""
+    rasha "你每一笔钱都能回收的,伙计!你知道的.拉沙总是会付钱的."
 
 # game/scripts/ash_events.rpy:437
 translate schinese ash_gang_90feacaa:
 
     # rasha "Tsk! Why ya so pushy, man??"
-    rasha ""
+    rasha "啧!你怎么这么咄咄逼人,伙计??"
 
 # game/scripts/ash_events.rpy:438
 translate schinese ash_gang_44df1c24:
 
     # a "I'm here for-!"
-    a ""
+    a "我是来-!"
 
 # game/scripts/ash_events.rpy:440
 translate schinese ash_gang_478f4e15:
 
     # a "-Numbers...?"
-    a ""
+    a "-涅波斯......?"
 
 # game/scripts/ash_events.rpy:442
 translate schinese ash_gang_5edf9b98:
 
     # num "Ashley... what was surprise."
-    num ""
+    num "阿什莉......真是惊喜啊."
 
 # game/scripts/ash_events.rpy:443
 translate schinese ash_gang_30245b15:
 
     # a "What are you doing here, Simon!? You work for them now!?"
-    a ""
+    a "你在这里做什么,西蒙!?你现在在为他们工作吗!?"
 
 # game/scripts/ash_events.rpy:445
 translate schinese ash_gang_bf5b74d1:
 
     # von "HEY! You're talking to me." with ssshake
-    von "" with ssshake
+    von "{b}嘿!{/b}该和你们说话的是我." with ssshake
 
 # game/scripts/ash_events.rpy:446
 translate schinese ash_gang_094b77b8:
 
     # nia "So you're the boss..."
-    nia ""
+    nia "所以你就是老大......"
 
 # game/scripts/ash_events.rpy:447
 translate schinese ash_gang_81fcada8:
 
     # rasha "Listen Von, me bredren here-"
-    rasha ""
+    rasha "听着,冯,我的朋友们来这里-"
 
 # game/scripts/ash_events.rpy:448
 translate schinese ash_gang_33d7c824:
 
     # a "-Where's Ren!? I know she belonged to you. I know you gave her to The Ascendants! Give me names!"
-    a ""
+    a "-任在哪里!?我知道她曾经属于你.我知道是你把她交给了擢升者!告诉我那些人的名字!"
 
 # game/scripts/ash_events.rpy:449
 translate schinese ash_gang_8c30dff3:
 
     # von "Ren..."
-    von ""
+    von "任......"
 
 # game/scripts/ash_events.rpy:451
 translate schinese ash_gang_4dff0ae4:
 
     # gang2 "You guys're looking for Ren? Those fucking Ascendant assholes took her!"
-    gang2 ""
+    gang2 "你们在找任?那群狗操的擢升者混蛋把她带走了!"
 
 # game/scripts/ash_events.rpy:452
 translate schinese ash_gang_7f682842:
 
     # von "HEY! Shut your fucking mouth!"
-    von ""
+    von "{b}嘿!{/b}把你的嘴他妈给我闭上!"
 
 # game/scripts/ash_events.rpy:454
 translate schinese ash_gang_63454b09:
 
     # gang2 "We had no choice, and you fucks just bent the knee! She earned us a lot of money, and you assholes just GAVE her away!"
-    gang2 ""
+    gang2 "我们别无选择,而你却对他们屈膝投降!她给我们赚了很多钱,而你这混蛋却把她{b}拱手让人{/b}!"
 
 # game/scripts/ash_events.rpy:455
 translate schinese ash_gang_ae436547:
 
     # von "Shut the fuck up, you little bitch! You are not apart of this."
-    von ""
+    von "闭上他妈的嘴,你个小逼崽子!你和这件事没有任何关系."
 
 # game/scripts/ash_events.rpy:456
 translate schinese ash_gang_c27f9202:
 
     # gang2 "I was here before you, and I'll be here WAY after you! I was born in these fuckin' streets. You don't know shit!"
-    gang2 ""
+    gang2 "我在你来之前就在这里了,而且在你之后我也会{b}一直{/b}在这里!我就出生在这条该死的街上.你懂个屁!"
 
 # game/scripts/ash_events.rpy:457
 translate schinese ash_gang_3d095824:
 
     # von "Yeah? You're getting paid more now, aren't ya?"
-    von ""
+    von "是吗?所以你现在赚的钱不是更多了吗?"
 
 # game/scripts/ash_events.rpy:459
 translate schinese ash_gang_b1bf44cf:
 
     # gang2 "..."
-    gang2 ""
+    gang2 "......"
 
 # game/scripts/ash_events.rpy:460
 translate schinese ash_gang_d7c70360:
 
     # von "So shut the fuck up!"
-    von ""
+    von "所以闭上他妈的嘴!"
 
 # game/scripts/ash_events.rpy:462
 translate schinese ash_gang_f071cf55:
 
     # a "?"
-    a ""
+    a "?"
 
 # game/scripts/ash_events.rpy:463
 translate schinese ash_gang_ee444420:
 
     # nia "...?"
-    nia ""
+    nia "......?"
 
 # game/scripts/ash_events.rpy:465
 translate schinese ash_gang_339caba7:
 
     # von "Ren, huh... and what's your stake in her?"
-    von ""
+    von "任,嗯......你和她有什么关系?"
 
 # game/scripts/ash_events.rpy:466
 translate schinese ash_gang_e6f412ba:
 
     # a "She's mine! She was sold to a call center, then you bought her five years ago. But she's MINE!"
-    a ""
+    a "她是我的!她被卖到了呼叫中心,然后五年前你把她买走了.但她是{b}我的{/b}!"
 
 # game/scripts/ash_events.rpy:467
 translate schinese ash_gang_476e6e90:
 
     # von "You did your research..."
-    von ""
+    von "你了解的不少嘛......"
 
 # game/scripts/ash_events.rpy:468
 translate schinese ash_gang_36cfcbbb:
 
     # von "It's cute though. You walk in here, making demands... No backup plan, right? Expecting us to just hand over whatever you want. 'Cuz you asked nicely, right?"
-    von ""
+    von "不过还挺可爱的.你就这么走进来提出你的要求......还没有备用计划,对吧?你希望我们能满足你的要求,就因为你在好好地问我们,对吧?"
 
 # game/scripts/ash_events.rpy:469
 translate schinese ash_gang_839dbadf:
 
     # a "Sounds like she was taken from you too, huh? You some kinda bitch now!? Let anyone walk over you!?"
-    a ""
+    a "听起来她也被从你身边带走了,嗯?你现在怎么就这么怂了!?谁都能在你身上踩一脚!?"
 
 # game/scripts/ash_events.rpy:470
 translate schinese ash_gang_16e7677a:
 
     # nia "{size=-7}{i}Ashley...!{/size}{/i}"
-    nia ""
+    nia "{size=-7}{i}阿什莉......!{/size}{/i}"
 
 # game/scripts/ash_events.rpy:472
 translate schinese ash_gang_bb13afea:
 
     # von "Hah! HAHAH! You got fire, girl! You're one of us, huh?"
-    von ""
+    von "哈哈!{b}哈哈哈!{/b}你可真是够火爆的,姑娘!你也是我们的一员,嗯?"
 
 # game/scripts/ash_events.rpy:473
 translate schinese ash_gang_bc5ea0d9:
 
     # a "Born and raised..."
-    a ""
+    a "土生土长的这里人......"
 
 # game/scripts/ash_events.rpy:474
 translate schinese ash_gang_8c2bbfc7:
 
     # woman "She looks like a kid to me..."
-    woman ""
+    woman "在我看来,她就是个小孩......"
 
 # game/scripts/ash_events.rpy:476
 translate schinese ash_gang_647149fd:
 
     # von "SHUT UP, BITCH! You don't know what it's like to grow up in Old Town!"
-    von ""
+    von "{b}闭嘴,婊子!{/b}你根本不知道在老城区长大是什么滋味!"
 
 # game/scripts/ash_events.rpy:477
 translate schinese ash_gang_1ea39e74:
 
     # woman "Ugh."
-    woman ""
+    woman "呃."
 
 # game/scripts/ash_events.rpy:479
 translate schinese ash_gang_9f2e1dc1:
 
     # von "We didn't sell her, we delivered her. When the family calls, you don't let it ring. You nod. You smile..."
-    von ""
+    von "我们没有把她卖掉,而是把她送走了.当家族里的人打电话过来的时候,你可不能让电话一直响着.你只能点头哈腰,保持微笑......"
 
 # game/scripts/ash_events.rpy:480
 translate schinese ash_gang_5a614f88:
 
     # a "Where is she now?"
-    a ""
+    a "她现在在哪?"
 
 # game/scripts/ash_events.rpy:481
 translate schinese ash_gang_2b23b497:
 
     # von "Fuck if I know. Not our problem anymore."
-    von ""
+    von "他妈的我怎么知道.这已经不是我们的问题了."
 
 # game/scripts/ash_events.rpy:482
 translate schinese ash_gang_8b016333:
 
     # a "It is now..."
-    a ""
+    a "现在是了......"
 
 # game/scripts/ash_events.rpy:484
 translate schinese ash_gang_3c0a4d35:
 
     # von "HAHAH! Lotta bark for a little-"
-    von ""
+    von "{b}哈哈哈!{/b}小狗叫得更大声-"
 
 # game/scripts/ash_events.rpy:485
 translate schinese ash_gang_d342cfc2:
 
     # sim "-Ashley. You've changed..."
-    sim ""
+    sim "-阿什莉.你变了......"
 
 # game/scripts/ash_events.rpy:487
 translate schinese ash_gang_0fa2e7a4:
 
     # sim "Not that scared little girl anymore, huh?"
-    sim ""
+    sim "不再是那个担惊受怕的小女孩了,嗯?"
 
 # game/scripts/ash_events.rpy:488
 translate schinese ash_gang_2b67bd52:
 
     # a "SHUT THE FUCK UP, NUMBERS! I don't have time for you!"
-    a ""
+    a "{b}他妈地闭嘴,涅波斯!{/b}我没时间理你!"
 
 # game/scripts/ash_events.rpy:496
 translate schinese ash_gang_46c0d1ab:
 
     # von "I'll-! I'LL FUCKING KILL YOU, BITCH!" with ssshake
-    von "" with ssshake
+    von "我-!{b}我要杀了你,婊子!{/b}" with ssshake
 
 # game/scripts/ash_events.rpy:497
 translate schinese ash_gang_f1b60897:
 
     # c "HEY!!"
-    c ""
+    c "{b}嘿!!{/b}"
 
 # game/scripts/ash_events.rpy:499
 translate schinese ash_gang_61c37627:
 
     # sim "Von... enough."
-    sim ""
+    sim "冯......够了."
 
 # game/scripts/ash_events.rpy:500
 translate schinese ash_gang_039c5078:
 
     # von "But-! She just-!"
-    von ""
+    von "但是-!她刚刚-!"
 
 # game/scripts/ash_events.rpy:501
 translate schinese ash_gang_18ffde24:
 
     # sim "You make us look weak, Von. So emotional..."
-    sim ""
+    sim "你让我们看起来很软弱,冯.很情绪化......"
 
 # game/scripts/ash_events.rpy:503
 translate schinese ash_gang_379e980b:
 
     # sim "Control yourself."
-    sim ""
+    sim "控制下你自己."
 
 # game/scripts/ash_events.rpy:504
 translate schinese ash_gang_71ab0e77:
 
     # von "Sorry, boss..."
-    von ""
+    von "对不起,老大......"
 
 # game/scripts/ash_events.rpy:505
 translate schinese ash_gang_4fecbbb3:
 
     # a "!!!"
-    a ""
+    a "!!!"
 
 # game/scripts/ash_events.rpy:507
 translate schinese ash_gang_f560a9a9:
 
     # nia "...You? YOU run the Blue Dragons!?"
-    nia ""
+    nia "......你?是{b}你{/b}在运营青龙帮!?"
 
 # game/scripts/ash_events.rpy:508
 translate schinese ash_gang_e642d29f:
 
     # c "No way..."
-    c ""
+    c "不可能......"
 
 # game/scripts/ash_events.rpy:510
 translate schinese ash_gang_8bfb1787:
 
     # sim "Everybody out. Von, you too."
-    sim ""
+    sim "所有人都出去.包括你,冯."
 
 # game/scripts/ash_events.rpy:511
 translate schinese ash_gang_eec77349:
 
     # von "But... you'll be alone! With them!"
-    von ""
+    von "但......你现在孤身一人!和他们在一起!"
 
 # game/scripts/ash_events.rpy:512
 translate schinese ash_gang_83185da7:
 
     # sim "Get out, Von!"
-    sim ""
+    sim "滚出去,冯!"
 
 # game/scripts/ash_events.rpy:513
 translate schinese ash_gang_8e0d8940:
 
     # von "Nngh... Yes sir..."
-    von ""
+    von "呃......是的先生......"
 
 # game/scripts/ash_events.rpy:515
 translate schinese ash_gang_bc64c884:
 
     # rasha "Neva thought I'd see the day! This guy!? The boss!? Lord have mercy, a fuckin' nerd!"
-    rasha ""
+    rasha "我从没想过会有这么一天!这家伙!是老大!?老天在上,这他妈不就个书呆子吗!"
 
 # game/scripts/ash_events.rpy:516
 translate schinese ash_gang_c63859e9:
 
     # sim "Watch your mouth, Rasha. You still work for me."
-    sim ""
+    sim "管好你的嘴,拉沙.你还在我手下为我工作呢."
 
 # game/scripts/ash_events.rpy:517
 translate schinese ash_gang_5542fb45:
 
     # rasha "{i}Apparently so...!{/i}"
-    rasha ""
+    rasha "{i}当然......!{/i}"
 
 # game/scripts/ash_events.rpy:519
 translate schinese ash_gang_b65388fb:
 
     # sim "You always did have a talent for making my life difficult, Ashley. What do you want?"
-    sim ""
+    sim "你总是能让我的生活变得更困难,阿什莉.你想要什么?"
 
 # game/scripts/ash_events.rpy:520
 translate schinese ash_gang_1d5f7394:
 
     # a "You know why I'm here. I want Ren back!"
-    a ""
+    a "你知道我为什么在这里.我想要任回来!"
 
 # game/scripts/ash_events.rpy:521
 translate schinese ash_gang_a1a21437:
 
     # c "How do you know this guy, Ash?"
-    c ""
+    c "你怎么认识这家伙的,阿什?"
 
 # game/scripts/ash_events.rpy:522
 translate schinese ash_gang_7053b852:
 
     # sim "We were neighbors at the trailer park."
-    sim ""
+    sim "我们以前在拖车公园是邻居."
 
 # game/scripts/ash_events.rpy:523
 translate schinese ash_gang_4c1c1c64:
 
     # a "How did you end up here, Numbers? Why do you work for the Ascendants now??"
-    a ""
+    a "你怎么会在这里,涅波斯?为什么你现在在为擢升者工作??"
 
 # game/scripts/ash_events.rpy:524
 translate schinese ash_gang_a0c09ba6:
 
     # sim "Ashley, you don't get it... When the family calls, you don't get to say no."
-    sim ""
+    sim "阿什莉,你不明白......当家族召唤你的时候,你没有机会说不."
 
 # game/scripts/ash_events.rpy:525
 translate schinese ash_gang_80ca552b:
 
     # a "That doesn't explain anything."
-    a ""
+    a "这并不能解释任何事情."
 
 # game/scripts/ash_events.rpy:526
 translate schinese ash_gang_26a04f4a:
 
     # sim "I hacked the wrong guy. They brought me in, saw potential in me. Killed the last boss, and placed me and Von here to fill the power vacuum."
-    sim ""
+    sim "我黑错了人.他们看中了我的潜力,把我招了进来.他们杀了上一任老大,他们把我和冯留在这里填补权力真空."
 
 # game/scripts/ash_events.rpy:528
 translate schinese ash_gang_cac8789c:
 
     # a "Rgh! You knew Ren! How could you do this to her? You've always found a way out of things!"
-    a ""
+    a "呃!你明明认识任的!你怎么能对她做出那种事情?你不是总能找到解决事情的方法的吗!"
 
 # game/scripts/ash_events.rpy:529
 translate schinese ash_gang_d774071f:
 
     # sim "Not this time... besides, who says I wanted out? They gave me a purpose."
-    sim ""
+    sim "这次不行......再说了,谁说我想退出的?他们给了我一个目标."
 
 # game/scripts/ash_events.rpy:530
 translate schinese ash_gang_cb88d9f3:
 
     # sim "I've brought real wealth into this community, Ashley. We're rich. And we're getting it all by selling naki to the rich."
-    sim ""
+    sim "我给这个社区带来了真正的财富,阿什莉.我们发财了.我们的财富都来自于把纳吉卖给富人."
 
 # game/scripts/ash_events.rpy:531
 translate schinese ash_gang_72a71f8b:
 
     # a "Don't tell me you've become a coward! Still mad at your mom, huh? AT LEAST YOU HAD ONE!"
-    a ""
+    a "别告诉我你变成懦夫了!你还在生你妈妈的气,嗯?{b}至少你还有妈妈!{/b}"
 
 # game/scripts/ash_events.rpy:533
 translate schinese ash_gang_8f8cf615:
 
     # sim "It's not about courage. It's about survival. You know that just as well as anyone here."
-    sim ""
+    sim "这和所谓的勇气无关.是为了生存.你和这里的其他人都很清楚这一点."
 
 # game/scripts/ash_events.rpy:534
 translate schinese ash_gang_5a83261a:
 
     # sim "...And keep my mother out of this..."
-    sim ""
+    sim "......还有,别提我妈......"
 
 # game/scripts/ash_events.rpy:535
 translate schinese ash_gang_910139b5:
 
     # nia "So where is she? She was your slave, right? She must have had paperwork."
-    nia ""
+    nia "所以她现在在哪?她曾经是你的奴隶,对吧?她应该有纸质档案的."
 
 # game/scripts/ash_events.rpy:537
 translate schinese ash_gang_e2a55e90:
 
     # sim "Officially... she's dead. I made sure of it."
-    sim ""
+    sim "程序上来说......她已经死了.我很确定."
 
 # game/scripts/ash_events.rpy:538
 translate schinese ash_gang_a4e84a5c:
 
     # sim "Unoffically...? Who can say. Once The Ascendants have you, you're a ghost. I would know."
-    sim ""
+    sim "非程序上来说......?谁知道呢.一旦擢升者抓走了你,你就会消失在这个世界上.我只知道这么多."
 
 # game/scripts/ash_events.rpy:539
 translate schinese ash_gang_ebc00fd2:
 
     # a "You know more, you always do."
-    a ""
+    a "你知道的更多,你总是如此."
 
 # game/scripts/ash_events.rpy:541
 translate schinese ash_gang_0dacb6f7:
 
     # sim "Hmph."
-    sim ""
+    sim "哼."
 
 # game/scripts/ash_events.rpy:542
 translate schinese ash_gang_9562b754:
 
     # sim "You still read people so well, Ashley... I wish I had your intuition. Truly."
-    sim ""
+    sim "你看人还是那么准啊,阿什莉......我希望我也能有你那样的直觉.真的."
 
 # game/scripts/ash_events.rpy:544
 translate schinese ash_gang_6ea1f944:
 
     # sim "Yes, I know where The Ascendants operate. I'm the only one outside of the family that does, to my knowledge."
-    sim ""
+    sim "是的,我是唯一一个知道擢升者运营地点的人.据我所知,我是家族之外唯一一个知道的人."
 
 # game/scripts/ash_events.rpy:545
 translate schinese ash_gang_15236d99:
 
     # sim "And yes, I'll tell you... for a favor. But you might as well quit while you're alive."
-    sim ""
+    sim "是的,我会告诉你......不过你需要帮我一个忙.但我还是劝你趁早放弃吧."
 
 # game/scripts/ash_events.rpy:546
 translate schinese ash_gang_62d62db5:
 
     # a "How about I kick your fucking ass!"
-    a ""
+    a "那我把你屁股踢开花怎么样!"
 
 # game/scripts/ash_events.rpy:547
 translate schinese ash_gang_1c6c9e21:
 
     # sim "You could... but you'd die for it."
-    sim ""
+    sim "随意......但是你会因此而死."
 
 # game/scripts/ash_events.rpy:549
 translate schinese ash_gang_455c3870:
 
     # c "Let's just hear him out, Ashley."
-    c ""
+    c "我们听听他的要求吧,阿什莉."
 
 # game/scripts/ash_events.rpy:550
 translate schinese ash_gang_eaa61499:
 
     # a "What do you want, then..."
-    a ""
+    a "那么,你想要什么......"
 
 # game/scripts/ash_events.rpy:551
 translate schinese ash_gang_a3f1fdbd:
 
     # sim "Caliber's 13th precinct is currently in possession of some rather incriminating evidence on Von. With this, Von's days as a free man are incredibly limited..."
-    sim ""
+    sim "楷利泊市13分局目前掌握了一些冯的罪证.这样一来,冯的自由日子就所剩无几了......"
 
 # game/scripts/ash_events.rpy:553
 translate schinese ash_gang_faf0b3d2:
 
     # sim "I need that oaf, as much as I hate to admit it... He's loyal... and makes up for qualities in which I lack."
-    sim ""
+    sim "尽管我不想承认,但我确实需要那个傻瓜......他很忠诚......而且你弥补了我所欠缺的能力."
 
 # game/scripts/ash_events.rpy:555
 translate schinese ash_gang_ec9d2ed3:
 
     # sim "If you want to find Ren, you'll steal that evidence and hand it back to me directly."
-    sim ""
+    sim "如果你想要找任,就把证据偷出来,直接交给我."
 
 # game/scripts/ash_events.rpy:557
 translate schinese ash_gang_8943114c:
 
     # nia "Are you fucking with us!? We can't steal from the cops! It's impossible!"
-    nia ""
+    nia "你在耍我们吗!?我们不可能从警察那里偷东西!这不可能!"
 
 # game/scripts/ash_events.rpy:558
 translate schinese ash_gang_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "......"
 
 # game/scripts/ash_events.rpy:560
 translate schinese ash_gang_ac125789:
 
     # a "Consider it done."
-    a ""
+    a "就这么定了."
 
 # game/scripts/ash_events.rpy:561
 translate schinese ash_gang_dc247145:
 
     # nia "WHAT!?"
-    nia ""
+    nia "{b}什么!?{/b}"
 
 # game/scripts/ash_events.rpy:563
 translate schinese ash_gang_0051c153:
 
     # sim "..."
-    sim ""
+    sim "......"
 
 # game/scripts/ash_events.rpy:565
 translate schinese ash_gang_a8de6260:
 
     # sim "...You're serious?"
-    sim ""
+    sim "......你认真的?"
 
 # game/scripts/ash_events.rpy:566
 translate schinese ash_gang_f75864c3:
 
     # a "You'll have it tomorrow."
-    a ""
+    a "你明天就能拿到."
 
 # game/scripts/ash_events.rpy:567
 translate schinese ash_gang_b92b20e2:
 
     # nia "Hold on-!"
-    nia ""
+    nia "等下-!"
 
 # game/scripts/ash_events.rpy:569
 translate schinese ash_gang_f8d0ce1b:
 
     # a "And when we come back tomorrow, you better throw me a fucking welcome party!"
-    a ""
+    a "我们明天回来的时候,你最好他妈地给我办个庆功会!"
 
 # game/scripts/ash_events.rpy:570
 translate schinese ash_gang_08c972f2:
 
     # sim "You... can take your time, Ashley. His court date isn't for another month..."
-    sim ""
+    sim "你......可以慢慢来,阿什莉.他还有一个月才开庭......"
 
 # game/scripts/ash_events.rpy:571
 translate schinese ash_gang_e0f2b097:
 
     # a "You'll have it... {u}TOMORROW!{/u}"
-    a ""
+    a "{b}{u}明天{/u}{/b}!你就能拿到......"
 
 # game/scripts/ash_events.rpy:572
 translate schinese ash_gang_f6ad7c05:
 
     # sim "Okay then... I'll be waiting."
-    sim ""
+    sim "那好吧......我等着."
 
 # game/scripts/ash_events.rpy:573
 translate schinese ash_gang_5a1d1082:
 
     # a "Let's go."
-    a ""
+    a "我们走."
 
 # game/scripts/ash_events.rpy:575
 translate schinese ash_gang_b7f7298c:
 
     # sim "Hold on! We'll be holding Rasha as collateral. I need a word..."
-    sim ""
+    sim "等一下!我们要拿拉沙当抵押.我需要一个承诺......"
 
 # game/scripts/ash_events.rpy:576
 translate schinese ash_gang_3dc67781:
 
     # a "Don't care. Let's go!"
-    a ""
+    a "我不关心.我们走吧!"
 
 # game/scripts/ash_events.rpy:578
 translate schinese ash_gang_9c22a6e1:
 
     # rasha "You WHAT!? Oh you little-!"
-    rasha ""
+    rasha "你{b}什么{/b}!?噢,你个小逼-!"
 
 # game/scripts/ash_events.rpy:579
 translate schinese ash_gang_0c43e37a:
 
     # c "-Watch your mouth, Rasha. We'll be back for you."
-    c ""
+    c "-管好你的嘴,拉沙.我们会回来找你的."
 
 # game/scripts/ash_events.rpy:580
 translate schinese ash_gang_507cf526:
 
     # rasha "Like hell ya will!"
-    rasha ""
+    rasha "真是太会了!"
 
 # game/scripts/ash_events.rpy:582
 translate schinese ash_gang_1a770f94:
 
     # von "Hmmm..."
-    von ""
+    von "嗯......"
 
 # game/scripts/ash_events.rpy:584
 translate schinese ash_gang_670a550e:
 
     # von "Uhp-uhp-uhp!"
-    von ""
+    von "呃-呃-呃!"
 
 # game/scripts/ash_events.rpy:586
 translate schinese ash_gang_9ba377fa:
 
     # von "..."
-    von ""
+    von "......"
 
 # game/scripts/ash_events.rpy:587
 translate schinese ash_gang_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "......"
 
 # game/scripts/ash_events.rpy:588
 translate schinese ash_gang_9ba377fa_1:
 
     # von "..."
-    von ""
+    von "......"
 
 # game/scripts/ash_events.rpy:591
 translate schinese ash_gang_b8c2da52:
 
     # von "Agh!" with ssshake
-    von "" with ssshake
+    von "啊!" with ssshake
 
 # game/scripts/ash_events.rpy:592
 translate schinese ash_gang_a2b0cd35:
 
     # a "MOVE!"
-    a ""
+    a "{b}走开!{/b}"
 
 # game/scripts/ash_events.rpy:593
 translate schinese ash_gang_c82b54e5:
 
     # sim "Let them through, Von."
-    sim ""
+    sim "让他们走,冯."
 
 # game/scripts/ash_events.rpy:595
 translate schinese ash_gang_5a3cfd4c:
 
     # a "Didn't your mother ever teach you manners?"
-    a ""
+    a "你妈妈没教你怎么讲礼貌吗?"
 
 # game/scripts/ash_events.rpy:596
 translate schinese ash_gang_9ba377fa_2:
 
     # von "..."
-    von ""
+    von "......"
 
 # game/scripts/ash_events.rpy:597
 translate schinese ash_gang_97016968:
 
     # a "Mhm."
-    a ""
+    a "嗯."
 
 # game/scripts/ash_events.rpy:599
 translate schinese ash_gang_426f4491:
 
     # von "Boss... what kind of deal did you give them?"
-    von ""
+    von "老大......你跟他们做了什么交易?"
 
 # game/scripts/ash_events.rpy:600
 translate schinese ash_gang_679aca19:
 
     # sim "I gave her an impossible task... and she took it with zeal. I... wasn't expecting this outcome."
-    sim ""
+    sim "我给了她一个不可能完成的任务......她却很热情地接下了.我......没想到会是这样的结果."
 
 # game/scripts/ash_events.rpy:601
 translate schinese ash_gang_de0b6801:
 
     # von "We can't take heat from the family..."
-    von ""
+    von "我们不能让家族生气......"
 
 # game/scripts/ash_events.rpy:602
 translate schinese ash_gang_c67ec2a3:
 
     # sim "It's no concern. If the police don't get her, The Ascendants surely will."
-    sim ""
+    sim "不必担心.如果警察抓不了她,那擢升者会的."
 
 # game/scripts/ash_events.rpy:606
 translate schinese ash_gang_93851ba4:
 
     # a "*exhale*... that was exhausting..."
-    a ""
+    a "*呼气*......太累了......"
 
 # game/scripts/ash_events.rpy:607
 translate schinese ash_gang_df8cd9ae:
 
     # nia "Ashley, what did you get us in to!? I didn't agree to this!"
-    nia ""
+    nia "阿什莉,你都把我们卷进什么了!?我可没同意!"
 
 # game/scripts/ash_events.rpy:608
 translate schinese ash_gang_8f3126cb:
 
     # a "We'll handle it, Nia..."
-    a ""
+    a "我们可以解决的,妮娅......"
 
 # game/scripts/ash_events.rpy:609
 translate schinese ash_gang_99861904:
 
     # nia "Are you fucking kidding me!? It's a suicide mission! I know you love Ren, but-"
-    nia ""
+    nia "你他妈在开什么玩笑!?这个任务简直就是在自杀!我知道你很爱任,但是-"
 
 # game/scripts/ash_events.rpy:611
 translate schinese ash_gang_93990ece:
 
     # c "-Are you going to tell her, Ash?"
-    c ""
+    c "-阿什,你什么时候告诉她?"
 
 # game/scripts/ash_events.rpy:612
 translate schinese ash_gang_e367541d:
 
     # nia "What? Tell me what??"
-    nia ""
+    nia "什么?告诉我什么??"
 
 # game/scripts/ash_events.rpy:613
 translate schinese ash_gang_f50b68f5:
 
     # a "You guys can come out now."
-    a ""
+    a "你们可以出来了."
 
 # game/scripts/ash_events.rpy:615
 translate schinese ash_gang_cde249ce:
 
     # runa "I am {i}not{/i} wasting a charge on proving anything to your friend."
-    runa ""
+    runa "我{i}不会{/b}浪费任何东西来向你的朋友证明什么."
 
 # game/scripts/ash_events.rpy:618
 translate schinese ash_gang_0ed8f4e0:
 
     # zoia "I will! Hello~! You can call me Zoia."
-    zoia ""
+    zoia "我会!你好~!你可以叫我佐娅."
 
 # game/scripts/ash_events.rpy:619
 translate schinese ash_gang_37b77133:
 
     # nia "Wh-What!? Is- is that-!?"
-    nia ""
+    nia "什-什么!?这-这是-!?"
 
 # game/scripts/ash_events.rpy:620
 translate schinese ash_gang_f5da1008:
 
     # nia "Oh my god...!"
-    nia ""
+    nia "噢我天......!"
 
 # game/scripts/ash_events.rpy:622
 translate schinese ash_gang_9454f675:
 
     # nia "OH MY GOD! I KNEW IT! I FUCKING KNEW IT!!"
-    nia ""
+    nia "{b}哦我天!我就知道!我就他妈知道!!{/b}"
 
 # game/scripts/ash_events.rpy:623
 translate schinese ash_gang_b8022528:
 
     # zoia "Huh."
-    zoia ""
+    zoia "呃."
 
 # game/scripts/ash_events.rpy:624
 translate schinese ash_gang_2bffcdfe:
 
     # nia "Everyone thought I was crazy! But I knew it! I really did see a fairy that night!"
-    nia ""
+    nia "大家都以为我疯了!但是我知道!我那天晚上真的看见了仙子!"
 
 # game/scripts/ash_events.rpy:625
 translate schinese ash_gang_7d808585:
 
     # nia "You're real! And I was right! Holy shit!"
-    nia ""
+    nia "你们是真的!我是对的!我操!"
 
 # game/scripts/ash_events.rpy:626
 translate schinese ash_gang_06fd926c:
 
     # a "You saw a fairy?"
-    a ""
+    a "你看见过一只仙子?"
 
 # game/scripts/ash_events.rpy:629
 translate schinese ash_gang_f16c8f41:
 
     # nia "Yes! A few times, probably. But once or twice for sure!"
-    nia ""
+    nia "是的!而且可能好几次了.但至少有一两次是确定的!"
 
 # game/scripts/ash_events.rpy:630
 translate schinese ash_gang_00523969:
 
     # nia "Do you know how much Jena bullied me for saying that? She's going to eat her own words now! Haha!"
-    nia ""
+    nia "你知道因为我说这些事情,耶拿嘲笑了我多少次吗?她现在要自食其果了!哈哈!"
 
 # game/scripts/ash_events.rpy:631
 translate schinese ash_gang_f85a76c8:
 
     # zoia "Congrats, I guess."
-    zoia ""
+    zoia "恭喜你,大概."
 
 # game/scripts/ash_events.rpy:634
 translate schinese ash_gang_0c1f4e7d:
 
     # nia "Why didn't you ever tell me, Ash? How long have you known?"
-    nia ""
+    nia "为什么你不告诉我,阿什?你知道多久了?"
 
 # game/scripts/ash_events.rpy:635
 translate schinese ash_gang_83688b96:
 
     # a "We didn't know you well enough... they're hiding from the High Elf Queen. But I've known for a few months."
-    a ""
+    a "我们还不够了解你......她们一直都在躲避高精灵女王.但我确实认识她们几个月了."
 
 # game/scripts/ash_events.rpy:636
 translate schinese ash_gang_c4cde1d8:
 
     # nia "I have so many questions..."
-    nia ""
+    nia "我有好多问题......"
 
 # game/scripts/ash_events.rpy:637
 translate schinese ash_gang_3868d047:
 
     # nia "But this is how you're going to get that evidence? They're okay with the risks?"
-    nia ""
+    nia "但你就打算这样去拿那些证据吗?她们对这里面的风险没有意见?"
 
 # game/scripts/ash_events.rpy:638
 translate schinese ash_gang_62db927e:
 
     # zoia "I was the one who offered, Nia! It's no problem, we've done it before."
-    zoia ""
+    zoia "这个方案是我提出来的,妮娅!没问题的,我们以前就这么做过."
 
 # game/scripts/ash_events.rpy:639
 translate schinese ash_gang_3ff32f9b:
 
     # runa "We'll head out tonight when there's less security, and be back before the sun rises."
-    runa ""
+    runa "我们今晚就出发,那个时候那里的安保力量最低,太阳升起前就能回来."
 
 # game/scripts/ash_events.rpy:640
 translate schinese ash_gang_75eb0cb7:
 
     # zoia "I guess we're just looking for a file with Von's name on it, right? Yeah, piece of cake."
-    zoia ""
+    zoia "我猜我们只要找一份名字写着冯的文件是吧?是啊,小菜一碟."
 
 # game/scripts/ash_events.rpy:641
 translate schinese ash_gang_4da5fbfd:
 
     # nia "That's amazing...!\nOh! That's how you did that trick with the knife! That's so cool!"
-    nia ""
+    nia "太棒了......!\n噢!那个刀子的把戏就是你们耍的!太酷了!"
 
 # game/scripts/ash_events.rpy:642
 translate schinese ash_gang_ab0dd0bc:
 
     # zoia "Thank you~"
-    zoia ""
+    zoia "谢谢~"
 
 # game/scripts/ash_events.rpy:645
 translate schinese ash_gang_98f34fa1:
 
     # a "*sigh*... I'm so tired, [name]... can you drive us home now?"
-    a ""
+    a "*叹气*......我好累,[name]......你可以现在就载我们回去吗?"
 
 # game/scripts/ash_events.rpy:646
 translate schinese ash_gang_ef2f608d:
 
     # c "Of course. We just need to find the car."
-    c ""
+    c "当然可以.我们去找车就行了."
 
 # game/scripts/ash_events.rpy:648
 translate schinese ash_gang_61032304:
 
     # a "Can you carry meee~? Pleeeeeease~...?"
-    a ""
+    a "你可以背我吗~?求~你~了~......?"
 
 # game/scripts/ash_events.rpy:649
 translate schinese ash_gang_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/scripts/ash_events.rpy:650
 translate schinese ash_gang_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "......"
 
 # game/scripts/ash_events.rpy:651
 translate schinese ash_gang_57e6e3d5:
 
     # c "Okay, sure. I'll carry you... You worked hard today."
-    c ""
+    c "好的,当然可以.我可以背你......你今天很努力."
 
 # game/scripts/ash_events.rpy:653
 translate schinese ash_gang_2558ecf6:
 
     # a "Yay! Best boyfriend ever!"
-    a ""
+    a "耶!男朋友最棒!"
 
 # game/scripts/ash_events.rpy:12735
 translate schinese ashinteract_c82b667e:
 
     # a "Hehe..."
-    a ""
+    a "呵呵......"
 
 # game/scripts/ash_events.rpy:12769
 translate schinese ashinteract_c576fb23:
 
     # a "Mmmh~"
-    a ""
+    a "嗯~"
 
 # game/scripts/ash_events.rpy:12804
 translate schinese ashinteract_35fbe7c1:
 
     # a "Nnngh!" with ssshake
-    a "" with ssshake
+    a "嗯!" with ssshake
 
 # game/scripts/ash_events.rpy:12863
 translate schinese ashoutfits_e658f731:
 
     # "She's already nude."
-    ""
+    "她已经是裸体了."
 
 # game/scripts/ash_events.rpy:12866
 translate schinese ashoutfits_53fc9989:
 
     # a "You haven't earned it yet..."
-    a ""
+    a "你还没有挣到这份权力......"
 
 # game/scripts/ash_events.rpy:12867
 translate schinese ashoutfits_d562a4f5:
 
     # "I need to raise her stats first..."
-    ""
+    "我需要先提升她的属性......"
 
 # game/scripts/ash_events.rpy:12870
 translate schinese ashoutfits_9a47eaeb_1:
 
     # a "Alright."
-    a ""
+    a "好的."
 
 translate schinese strings:
 
     # game/scripts/ash_events.rpy:12844
     old "{color=#8C8C8C}> Nude <{/color}"
-    new ""
+    new "{color=#8C8C8C}> 裸体 <{/color}"
 
