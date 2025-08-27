@@ -54968,3 +54968,1077 @@ translate schinese love_nia_7_28efc539:
     # nia "He's here? In Caliber? What do you know?"
     nia "他在这?在楷利泊市?你还知道什么?"
 
+# TODO: Translation updated at 2025-08-27 23:34
+
+# game/scripts/side_char_events.rpy:6839
+translate schinese hanaspatalk_34b54275:
+
+    # han "O-Oh! Heheh, okay..."
+    han "噢-哦!呵呵呵,好的......"
+
+# game/scripts/side_char_events.rpy:6843
+translate schinese hanaspatalk_c8e9976f:
+
+    # han "I- I'm having enough fun, thank you...!"
+    han "我-我玩的很尽兴了,谢谢啦......!"
+
+# game/scripts/side_char_events.rpy:6844
+translate schinese hanaspatalk_8fd2357f:
+
+    # c "{i}(I probably could have convinced her if I was closer to her...){/i}"
+    c "{i}(如果我们更亲密些,也许我可以说服她......){/i}"
+
+# game/scripts/side_char_events.rpy:6932
+translate schinese lucyspatalk_430af09f:
+
+    # lu "Hey you~"
+    lu "嘿,你好~"
+
+# game/scripts/side_char_events.rpy:6935
+translate schinese lucyspatalk_4f483027:
+
+    # lu "Oh absolutey~!"
+    lu "哦,当然了~!"
+
+# game/scripts/side_char_events.rpy:6939
+translate schinese lucyspatalk_293fecd3:
+
+    # lu "Ummm, maybe another time? Kinda chillin'..."
+    lu "呃,下次吧?我现在想放松一下......"
+
+# game/scripts/side_char_events.rpy:6940
+translate schinese lucyspatalk_8fd2357f:
+
+    # c "{i}(I probably could have convinced her if I was closer to her...){/i}"
+    c "{i}(如果我们更亲密些,也许我可以说服她......){/i}"
+
+# game/scripts/side_char_events.rpy:11719
+translate schinese hana_anal_repeat_6c8f4618:
+
+    # han "I hope you don't mind that we use your bed, Maria..."
+    han "我希望你不介意我们用你的床,玛丽亚......"
+
+# game/scripts/side_char_events.rpy:11720
+translate schinese hana_anal_repeat_31a3c295:
+
+    # m "Heheh, not at all... so long as I can watch."
+    m "呵呵呵,完全不介意......只要我能看着你们."
+
+# game/scripts/side_char_events.rpy:11721
+translate schinese hana_anal_repeat_ec20af51:
+
+    # han "Good~ I'm ready for you, [name]~"
+    han "太好了~我已经为你准备好了,[name]~"
+
+# game/scripts/side_char_events.rpy:11723
+translate schinese hana_anal_repeat_364eb4c5:
+
+    # han "Fuck me~ Fuck me~ Fuck me~"
+    han "操我~操我~操我~"
+
+# game/scripts/side_char_events.rpy:11725
+translate schinese hana_anal_repeat_68ed8cf7:
+
+    # han "AH! Oh fuck..." with ssshake
+    han "{b}啊!{/b}哦操......" with ssshake
+
+# game/scripts/side_char_events.rpy:11726
+translate schinese hana_anal_repeat_0d17c4e2:
+
+    # m "Woah, anal!"
+    m "喔,肛交啊!"
+
+# game/scripts/side_char_events.rpy:11729
+translate schinese hana_anal_repeat_6a977a98:
+
+    # han "Mh! Fuck! Fuuuck...! Oh my god! Mmmmmh! "
+    han "嗯!操!操......!哦我天!嗯!"
+
+# game/scripts/side_char_events.rpy:11730
+translate schinese hana_anal_repeat_9ae4398a:
+
+    # m "Damn, you are such a slut!"
+    m "我去,你真是个骚货!"
+
+# game/scripts/side_char_events.rpy:11731
+translate schinese hana_anal_repeat_ba2f869d:
+
+    # han "Hahhh! Ahh! I know, mmh! I love it~ MMH!"
+    han "哈!啊!我知道,嗯!我喜欢这样~{b}嗯!{/b}"
+
+# game/scripts/side_char_events.rpy:11732
+translate schinese hana_anal_repeat_cba8dc36:
+
+    # han "Ahhh! Ahhh! Mmmmh! Oh my god, your cock is so fucking gooooood~! Hahhhh!"
+    han "啊!啊!嗯!哦我天,你的肉棒太他妈棒了~!哈!"
+
+# game/scripts/side_char_events.rpy:11733
+translate schinese hana_anal_repeat_55501006:
+
+    # han "Mmh! Mmmmmh~! Yes, yes, yes! Don't fucking stop!"
+    han "嗯!嗯~!是的,是的,是的!不要停下来!"
+
+# game/scripts/side_char_events.rpy:11736
+translate schinese hana_anal_repeat_e10b552f:
+
+    # han "Oh my god! Fuck! I love it~! Mmmmh! I love it so much~"
+    han "哦我天!操!我爱死了~!嗯!我爱死这样了~"
+
+# game/scripts/side_char_events.rpy:11737
+translate schinese hana_anal_repeat_e652fc28:
+
+    # m "Mmmm fuck, you guys are really turning me on..."
+    m "嗯,操,你们都让我发情了......"
+
+# game/scripts/side_char_events.rpy:11738
+translate schinese hana_anal_repeat_21ae5331:
+
+    # han "Oh fuck, fuck, fuck! MMMH! Mh! Mh! Fuck my tight ass, [name]? FUCK!"
+    han "哦操,操,操!{b}嗯!{b}嗯!嗯!操我的小紧屁股吧,[name]!{b}操!{/b}"
+
+# game/scripts/side_char_events.rpy:11739
+translate schinese hana_anal_repeat_520fed28:
+
+    # han "Oh yes! FUCK! Yeah! Use me like a whore, [name]! Fuck!"
+    han "哦是的!{b}操!{/b}!是的!把我当成妓女吧,[name]!操!"
+
+# game/scripts/side_char_events.rpy:11740
+translate schinese hana_anal_repeat_4627c3dd:
+
+    # m "God, I wanna see you cum all over ass..."
+    m "天啊,我想看你全部射在她的屁股上......"
+
+# game/scripts/side_char_events.rpy:11744
+translate schinese hana_anal_repeat_8333de39:
+
+    # han "AAAH~!" with ssshake
+    han "{b}啊~!{/b}" with ssshake
+
+# game/scripts/side_char_events.rpy:11745
+translate schinese hana_anal_repeat_572c46d1:
+
+    # han "MMMMN~! YESSS! Cumcumcumcumcumcum!" with ssshake
+    han "{b}嗯~!是的!{/b}去了去了去了去了去了去了!" with ssshake
+
+# game/scripts/side_char_events.rpy:11746
+translate schinese hana_anal_repeat_ef3a1db1:
+
+    # han "Oh fuck, fuck!" with ssshake
+    han "哦操,操!" with ssshake
+
+# game/scripts/side_char_events.rpy:11749
+translate schinese hana_anal_repeat_aeda877e:
+
+    # han "Ah!" with ssshake
+    han "啊!" with ssshake
+
+# game/scripts/side_char_events.rpy:11751
+translate schinese hana_anal_repeat_34609fa8:
+
+    # han "Hahhh...! Ah~! Oh wow... you came all over me, [name]..."
+    han "哈......!啊~!哦哇哦......你都射我身上了,[name]......"
+
+# game/scripts/side_char_events.rpy:11753
+translate schinese hana_anal_repeat_b69d402e:
+
+    # han "That was amazingggg~..."
+    han "太棒了~......"
+
+# game/scripts/side_char_events.rpy:11761
+translate schinese hana_anal_15b31c78:
+
+    # han "*knock knock knock*\nU-Ummm, hello?"
+    han "*敲敲敲*\n呃-嗯,有人吗?"
+
+# game/scripts/side_char_events.rpy:11762
+translate schinese hana_anal_ad8d0c81:
+
+    # l "Who is it?"
+    l "是谁?"
+
+# game/scripts/side_char_events.rpy:11763
+translate schinese hana_anal_58a5fcae:
+
+    # han "It's Hana... may I come in?"
+    han "哈娜......我可以进来吗?"
+
+# game/scripts/side_char_events.rpy:11764
+translate schinese hana_anal_c3a78212:
+
+    # l "Of course! Please come in."
+    l "当然可以!请进."
+
+# game/scripts/side_char_events.rpy:11766
+translate schinese hana_anal_0f800aa6:
+
+    # l "Hi Hana, how are you?"
+    l "你好,哈娜,你还好吗?"
+
+# game/scripts/side_char_events.rpy:11767
+translate schinese hana_anal_a4db6c2e:
+
+    # han "I'm okay..."
+    han "我还好....."
+
+# game/scripts/side_char_events.rpy:11768
+translate schinese hana_anal_cc74db72:
+
+    # l "How is your art business?"
+    l "你的画画生意怎么样了?"
+
+# game/scripts/side_char_events.rpy:11769
+translate schinese hana_anal_e736ca3d:
+
+    # han "It's... okay."
+    han "还......好."
+
+# game/scripts/side_char_events.rpy:11770
+translate schinese hana_anal_d2c36aa5:
+
+    # han "Well, actually it's why I wanted to talk to you."
+    han "好吧,那就是我来找你的原因."
+
+# game/scripts/side_char_events.rpy:11771
+translate schinese hana_anal_cb5e7454:
+
+    # l "Oh! I don't know how much I could help, but maybe I could be a judge or something."
+    l "哦!我不知道我能帮你多少,但是也许我可以给你评判一下."
+
+# game/scripts/side_char_events.rpy:11772
+translate schinese hana_anal_2024878d:
+
+    # han "Y-Yeah, that sounds good..."
+    han "是-是的,听起来很不错......"
+
+# game/scripts/side_char_events.rpy:11774
+translate schinese hana_anal_9385b277:
+
+    # l "Aww, did you draw [name]'s face? You captured him so well!"
+    l "啊,你画的是[name]的脸吗?你把他画得真传神!"
+
+# game/scripts/side_char_events.rpy:11775
+translate schinese hana_anal_14f27089:
+
+    # han "Oh, thank you... and this one?"
+    han "哦,谢谢......那这个呢?"
+
+# game/scripts/side_char_events.rpy:11776
+translate schinese hana_anal_b67d61d5:
+
+    # l "Awww, it's me in the kitchen! You're really so talented, Hana!"
+    l "啊,这个是我在厨房里!你真的很有天分,哈娜!"
+
+# game/scripts/side_char_events.rpy:11777
+translate schinese hana_anal_10461e4f:
+
+    # han "Thank you... A-And this one...?"
+    han "谢谢......那-那这个呢......?"
+
+# game/scripts/side_char_events.rpy:11779
+translate schinese hana_anal_eb3dd81f:
+
+    # l "Huh!? Is that you? Having anal sex!?"
+    l "嗯!?这是你?在肛交!?"
+
+# game/scripts/side_char_events.rpy:11781
+translate schinese hana_anal_071e00d2:
+
+    # l "Hana, you draw porn!?"
+    l "哈娜,你画色图!?"
+
+# game/scripts/side_char_events.rpy:11782
+translate schinese hana_anal_2d19e868:
+
+    # han "It's okay if you don't like it..."
+    han "如果你不喜欢,我也能理解......"
+
+# game/scripts/side_char_events.rpy:11783
+translate schinese hana_anal_ded9a4d5:
+
+    # l "No, no, I was just surprised! You should warn a girl before you show her stuff like that..."
+    l "不,不,我只是很惊讶!在你给女孩展示那种东西之前,你应该先警告我一下的......"
+
+# game/scripts/side_char_events.rpy:11784
+translate schinese hana_anal_20f98c08:
+
+    # han "Sorry... but yes, I draw hentai... \nI mostly draw hentai, actually. It pays the best."
+    han "对不起......但是是的,我画色图......\n实际上我画的基本都是色图.画色图收入是最多的."
+
+# game/scripts/side_char_events.rpy:11786
+translate schinese hana_anal_e6239d95:
+
+    # l "Don't worry, I get it. I've also done some sketchy things for money."
+    l "别担心,我能理解你.我也曾经为了钱做过一些不光彩的事情."
+
+# game/scripts/side_char_events.rpy:11788
+translate schinese hana_anal_e3e5638f:
+
+    # han "You were a prostitute!?!?"
+    han "你是妓女!?!?"
+
+# game/scripts/side_char_events.rpy:11789
+translate schinese hana_anal_1849f6d2:
+
+    # l "No."
+    l "不."
+
+# game/scripts/side_char_events.rpy:11791
+translate schinese hana_anal_f6e57200:
+
+    # han "Oh, sorry..."
+    han "哦,对不起......"
+
+# game/scripts/side_char_events.rpy:11792
+translate schinese hana_anal_f433f76f:
+
+    # l "Why did you draw yourself though? You don't make your own characters?"
+    l "不过为什么你要画你自己?你没有自己的角色吗?"
+
+# game/scripts/side_char_events.rpy:11793
+translate schinese hana_anal_54371769:
+
+    # han "I do, but... I don't know... I was curious."
+    han "我有,但是......我不知道......我很好奇."
+
+# game/scripts/side_char_events.rpy:11794
+translate schinese hana_anal_559f4c53:
+
+    # han "Also Maria said you liked anal sex more than anyone else in the hotel, so..."
+    han "而且,玛丽亚说你比酒店里的其他人都喜欢肛交,所以....."
+
+# game/scripts/side_char_events.rpy:11796
+translate schinese hana_anal_47e822ce:
+
+    # l "She said what!?"
+    l "她说什么!?"
+
+# game/scripts/side_char_events.rpy:11797
+translate schinese hana_anal_a22b516a:
+
+    # han "W-Was she lying!? I'm sorry!"
+    han "她-她在撒谎吗!?对不起!"
+
+# game/scripts/side_char_events.rpy:11798
+translate schinese hana_anal_729cc928:
+
+    # l "Umm...!"
+    l "呃......!"
+
+# game/scripts/side_char_events.rpy:11800
+translate schinese hana_anal_ec5eeffd:
+
+    # l "...Well, no... I guess not..."
+    l "......呃,没有......大概......"
+
+# game/scripts/side_char_events.rpy:11801
+translate schinese hana_anal_087ba5e6:
+
+    # han "So you've tried it! And it's fun?"
+    han "所以你试过了!舒服吗?"
+
+# game/scripts/side_char_events.rpy:11803
+translate schinese hana_anal_c5d5c54e:
+
+    # l "No... I haven't actually had anal sex yet. I don't think [name] really likes it..."
+    l "不......实际上我还没肛交过.我觉得[name]并不是很喜欢......"
+
+# game/scripts/side_char_events.rpy:11804
+translate schinese hana_anal_3eeb9453:
+
+    # l "But I've done other... stuff."
+    l "但我用过......别的东西."
+
+# game/scripts/side_char_events.rpy:11805
+translate schinese hana_anal_38b5f60f:
+
+    # han "Yeah... same..."
+    han "是的......我也是......"
+
+# game/scripts/side_char_events.rpy:11807
+translate schinese hana_anal_3f771c6b:
+
+    # l "But if you want, I can ask him for you?"
+    l "但是如果你想要的画,我可以叫他帮你?"
+
+# game/scripts/side_char_events.rpy:11808
+translate schinese hana_anal_173631a0:
+
+    # han "...You would do that for me? I'm too scared..."
+    han "......你可以帮我吗?我太害怕了......"
+
+# game/scripts/side_char_events.rpy:11809
+translate schinese hana_anal_f810d961:
+
+    # l "Heheh, sure. Just get prepared and we'll meet you in your room."
+    l "呵呵呵,当然可以.你只需要做好准备,我们去你的房间会面."
+
+# game/scripts/side_char_events.rpy:11810
+translate schinese hana_anal_5fccbeff:
+
+    # han "O-Okay! I'll do that now! I better hurry!"
+    han "好-好的!我马上就去准备!我最好快点!"
+
+# game/scripts/side_char_events.rpy:11813
+translate schinese hana_anal_5e5c03d7:
+
+    # l "Well... yes. It's really fun... and [name] seems to like it a lot."
+    l "嗯......是的.真的很舒服......而且[name]似乎也很喜欢."
+
+# game/scripts/side_char_events.rpy:11814
+translate schinese hana_anal_7bc9b4d7:
+
+    # l "Hold on, can I see that drawing again?"
+    l "等一下,我可以再看一下那幅画吗?"
+
+# game/scripts/side_char_events.rpy:11816
+translate schinese hana_anal_19d16674:
+
+    # han "Sure."
+    han "当然可以."
+
+# game/scripts/side_char_events.rpy:11817
+translate schinese hana_anal_d4441578:
+
+    # l "I knew it!"
+    l "我就知道!"
+
+# game/scripts/side_char_events.rpy:11818
+translate schinese hana_anal_144ab2fa:
+
+    # han "What!?"
+    han "什么!?"
+
+# game/scripts/side_char_events.rpy:11820
+translate schinese hana_anal_2a52035e:
+
+    # l "That's [name]'s penis! Why are you drawing yourself having anal sex with [name]?"
+    l "那是[name]的肉棒!为什么你要画你和[name]肛交?"
+
+# game/scripts/side_char_events.rpy:11821
+translate schinese hana_anal_329a07e7:
+
+    # han "Ummm... no particular reason?"
+    han "呃......没有为什么?"
+
+# game/scripts/side_char_events.rpy:11823
+translate schinese hana_anal_df67df58:
+
+    # l "Why don't you just ask him, Hana?"
+    l "为什么你不直接去问他呢,哈娜?"
+
+# game/scripts/side_char_events.rpy:11824
+translate schinese hana_anal_8586fdfa:
+
+    # han "What? I can't just ask someone for sex. What do I even say!?"
+    han "什么?我不能随随便便问别人做爱.我要说什么!?"
+
+# game/scripts/side_char_events.rpy:11825
+translate schinese hana_anal_134fa515:
+
+    # l "'Wanna have sex?'"
+    l "'想做爱吗?"
+
+# game/scripts/side_char_events.rpy:11827
+translate schinese hana_anal_a8fc859a:
+
+    # han "That won't work, it's too forward!"
+    han "不行的,那太激进了!"
+
+# game/scripts/side_char_events.rpy:11828
+translate schinese hana_anal_30b29017:
+
+    # l "Well if you're too shy, I can ask him for you."
+    l "好吧,如果你太害羞,我可以帮你问他."
+
+# game/scripts/side_char_events.rpy:11829
+translate schinese hana_anal_0a1891e2:
+
+    # han "...You would do that for me?"
+    han "......你会帮我吗?"
+
+# game/scripts/side_char_events.rpy:11830
+translate schinese hana_anal_f810d961_1:
+
+    # l "Heheh, sure. Just get prepared and we'll meet you in your room."
+    l "呵呵呵,当然可以.你只需要做好准备,我们去你的房间会面."
+
+# game/scripts/side_char_events.rpy:11831
+translate schinese hana_anal_5fccbeff_1:
+
+    # han "O-Okay! I'll do that now! I better hurry!"
+    han "好-好的!我马上就去准备!我最好快点!"
+
+# game/scripts/side_char_events.rpy:11834
+translate schinese hana_anal_9b98d1d2:
+
+    # l "Oh, she really is in a hurry... Is she always this horny?"
+    l "哦,她真的很急......她一直都这么好色吗?"
+
+# game/scripts/side_char_events.rpy:11837
+translate schinese hana_anal_f70849e3:
+
+    # l "Hello [linoname]! I have a bit of an odd request for you..."
+    l "你好,[linoname]!我有一个可能有些奇怪的请求想拜托你......"
+
+# game/scripts/side_char_events.rpy:11838
+translate schinese hana_anal_df72d121:
+
+    # c "What's that?"
+    c "是什么?"
+
+# game/scripts/side_char_events.rpy:11839
+translate schinese hana_anal_2c182c38:
+
+    # l "Hana wants you to fuck her butt, but she's too shy to ask... It would be her first time, do you want to help?"
+    l "哈娜想要你操她的屁股,但是她太害羞了,不敢问......这是她的第一次,你想帮忙吗?"
+
+# game/scripts/side_char_events.rpy:11842
+translate schinese hana_anal_758d0e94:
+
+    # l "Okay, please follow me [linoname]~"
+    l "好的,请跟我来,[linoname]~"
+
+# game/scripts/side_char_events.rpy:11844
+translate schinese hana_anal_6df1d208:
+
+    # l "Hmm, stay here a moment... I'll make sure she's ready for you."
+    l "嗯,等一下......我去确认她已经为你准备好了."
+
+# game/scripts/side_char_events.rpy:11845
+translate schinese hana_anal_a20cefa7:
+
+    # "..."
+    "......"
+
+# game/scripts/side_char_events.rpy:11846
+translate schinese hana_anal_0fd4d656:
+
+    # "......"
+    "............"
+
+# game/scripts/side_char_events.rpy:11847
+translate schinese hana_anal_b219d93a:
+
+    # l "Come in~"
+    l "进来吧~"
+
+# game/scripts/side_char_events.rpy:11849
+translate schinese hana_anal_9bfa9717:
+
+    # l "She's ready, [linoname]~"
+    l "她已经准备好了,[linoname]~"
+
+# game/scripts/side_char_events.rpy:11852
+translate schinese hana_anal_4cdbb9f7:
+
+    # han "..."
+    han "......"
+
+# game/scripts/side_char_events.rpy:11854
+translate schinese hana_anal_52e18aa7:
+
+    # l "{i}{size=-7}Hana, what are you doing? You're supposed to show him your butt.{/size}{/i}"
+    l "{i}{size=-7}哈娜,你在干什么?你应该给他看你的屁股的.{/size}{/i}"
+
+# game/scripts/side_char_events.rpy:11855
+translate schinese hana_anal_1a709379:
+
+    # han "{i}{size=-7}Oh right, sorry...{/size}{/i}"
+    han "{i}{size=-7}哦对,对不起......{/size}{/i}"
+
+# game/scripts/side_char_events.rpy:11857
+translate schinese hana_anal_9b75155e:
+
+    # han "Do I look pretty from behind...?"
+    han "从后面看,我还漂亮吗......?"
+
+# game/scripts/side_char_events.rpy:11858
+translate schinese hana_anal_014d0311:
+
+    # c "Very."
+    c "非常漂亮."
+
+# game/scripts/side_char_events.rpy:11859
+translate schinese hana_anal_612f65e6:
+
+    # han "Heheh, thank you..."
+    han "呵呵呵,谢谢你......"
+
+# game/scripts/side_char_events.rpy:11862
+translate schinese hana_anal_a48f9df8:
+
+    # l "Are you ready, Hana?"
+    l "你准备好了吗,哈娜?"
+
+# game/scripts/side_char_events.rpy:11863
+translate schinese hana_anal_724841f1:
+
+    # han "Mhm. I want it so bad..."
+    han "嗯.我好想要......"
+
+# game/scripts/side_char_events.rpy:11865
+translate schinese hana_anal_4e528582:
+
+    # han "Nnnh~ I'm so excited~!"
+    han "嗯~我好兴奋~!"
+
+# game/scripts/side_char_events.rpy:11866
+translate schinese hana_anal_8fda8562:
+
+    # l "I prepared her for you, [linoname], she shouldn't feel any pain."
+    l "我已经为你帮她准备好了,[linoname],她不会感受到任何痛苦的."
+
+# game/scripts/side_char_events.rpy:11867
+translate schinese hana_anal_d745eb10:
+
+    # han "Hurry, hurry~"
+    han "快点,快点~"
+
+# game/scripts/side_char_events.rpy:11869
+translate schinese hana_anal_c71a0d47:
+
+    # han "Ah! It's so big...!" with ssshake
+    han "啊!好大......!" with ssshake
+
+# game/scripts/side_char_events.rpy:11870
+translate schinese hana_anal_bc09b2c1:
+
+    # l "Did you know she drew porn of you fucking her butt? Heheheh!"
+    l "你知道她画了你操她的屁股的色图吗?呵呵呵呵!"
+
+# game/scripts/side_char_events.rpy:11871
+translate schinese hana_anal_7abeb98d:
+
+    # han "Nnh! Don't tell him that..."
+    han "嗯!不要告诉他啊......"
+
+# game/scripts/side_char_events.rpy:11873
+translate schinese hana_anal_b08ac7f9:
+
+    # han "Oh my god! Mh! Fuck! Fuuuck...! Mmmmmh...! Oh wow...!"
+    han "哦我天!嗯!操!操......!嗯......!哦哇哦......!"
+
+# game/scripts/side_char_events.rpy:11874
+translate schinese hana_anal_1071cf7d:
+
+    # l "How is it, Hana? Everything you hoped for?"
+    l "怎么样,哈娜?是你期望的感觉吗?"
+
+# game/scripts/side_char_events.rpy:11875
+translate schinese hana_anal_6a50caee:
+
+    # han "Nnnghk! Hahhh! I don't know, mmh! It's so different...! MMH!"
+    han "嗯!哈!我不知道,嗯!和我想象的不一样......!{b}嗯!{/b}"
+
+# game/scripts/side_char_events.rpy:11876
+translate schinese hana_anal_7073597c:
+
+    # l "It's okay~ you'll love it soon."
+    l "没事的~你很快就会爱上的."
+
+# game/scripts/side_char_events.rpy:11877
+translate schinese hana_anal_dd896277:
+
+    # han "Ahhh! Ahhh! Mmmmh! Oh my god, it's filling me up so good~! Hahhhh!"
+    han "啊!啊!嗯!哦我天,它把我填满了,好舒服~!哈!"
+
+# game/scripts/side_char_events.rpy:11878
+translate schinese hana_anal_e6825fb0:
+
+    # han "Mmh! Mmmmmh~! Yes, mh! Don't stop!"
+    han "嗯!嗯~!是的,嗯!不要停!"
+
+# game/scripts/side_char_events.rpy:11881
+translate schinese hana_anal_e10b552f:
+
+    # han "Oh my god! Fuck! I love it~! Mmmmh! I love it so much~"
+    han "哦我天!操!我喜欢这样~!嗯!我爱死它了~"
+
+# game/scripts/side_char_events.rpy:11882
+translate schinese hana_anal_268959ec:
+
+    # l "I told you~"
+    l "我都告诉过你了吧~"
+
+# game/scripts/side_char_events.rpy:11883
+translate schinese hana_anal_7979ba91:
+
+    # han "Oh fuck, fuck, fuck! MMMH! Mh! Mh! Do you like my tight ass, [name]? Ohhh fuck!"
+    han "哦操,操,操!{b}嗯!{/b}嗯!嗯!你喜欢我的小紧屁股吗,[name]?哦操!"
+
+# game/scripts/side_char_events.rpy:11884
+translate schinese hana_anal_ead71444:
+
+    # han "Yes, yes, yes, fuck my ass! Oh my god!"
+    han "是的,是的,是的,操我的屁股!哦我天!"
+
+# game/scripts/side_char_events.rpy:11885
+translate schinese hana_anal_43faa1b6:
+
+    # l "It's best when he cums inside~ You don't even have to worry about getting pregnant! That's why anal is the best."
+    l "他射进去的时候感觉最棒了~你甚至都不需要担心会不会怀孕!这就是肛交最棒的地方!"
+
+# game/scripts/side_char_events.rpy:11886
+translate schinese hana_anal_fd82078c:
+
+    # han "Oh yes! FUCK! Yeah! Cum inside my fucking ass, [name]! Fuck! Break me in!"
+    han "哦是的!{b}操!{/b}是的!射进我的屁股里吧,[name]!操!把我弄坏吧!"
+
+# game/scripts/side_char_events.rpy:11887
+translate schinese hana_anal_43cb6fef:
+
+    # l "Oh wow... she's not very shy anymore, is she?"
+    l "哦,哇哦......她不再害羞了,不是吗?"
+
+# game/scripts/side_char_events.rpy:11891
+translate schinese hana_anal_8333de39:
+
+    # han "AAAH~!" with ssshake
+    han "{b}啊~!{/b}" with ssshake
+
+# game/scripts/side_char_events.rpy:11892
+translate schinese hana_anal_572c46d1:
+
+    # han "MMMMN~! YESSS! Cumcumcumcumcumcum!" with ssshake
+    han "{b}嗯~!是的!{/b}去了去了去了去了去了去了!" with ssshake
+
+# game/scripts/side_char_events.rpy:11893
+translate schinese hana_anal_ef3a1db1:
+
+    # han "Oh fuck, fuck!" with ssshake
+    han "哦操,操!" with ssshake
+
+# game/scripts/side_char_events.rpy:11896
+translate schinese hana_anal_aeda877e:
+
+    # han "Ah!" with ssshake
+    han "啊!" with ssshake
+
+# game/scripts/side_char_events.rpy:11898
+translate schinese hana_anal_34609fa8:
+
+    # han "Hahhh...! Ah~! Oh wow... you came all over me, [name]..."
+    han "哈......!啊~!哦哇哦......你都射我身上了,[name]....."
+
+# game/scripts/side_char_events.rpy:11900
+translate schinese hana_anal_091a382e:
+
+    # l "Heheh, did you enjoy it, Hana?"
+    l "呵呵呵,你喜欢吗,哈娜?"
+
+# game/scripts/side_char_events.rpy:11901
+translate schinese hana_anal_93b3e526:
+
+    # han "Hahhh... yeahhhhhh~ That was amazingggg~..."
+    han "哈......是的~太棒了~......"
+
+# game/scripts/side_char_events.rpy:11902
+translate schinese hana_anal_dc84b7d9:
+
+    # han "Thank you [name], thank you..."
+    han "谢谢你,[name],谢谢你......"
+
+# game/scripts/side_char_events.rpy:11905
+translate schinese hana_anal_5fbe94d5:
+
+    # l "Oh... okay. She'll be disappointed, but I'll let her know."
+    l "哦......好吧.她可能会有些失望,但我会转告她的."
+
+# game/scripts/side_char_events.rpy:11907
+translate schinese hana_anal_d8d30f1b:
+
+    # "You've unlocked repeatable anal sex with Hana!"
+    "你解锁了和哈娜的可重复肛交!"
+
+# game/scripts/side_char_events.rpy:13371
+translate schinese lucy_spa_sex_0b8d3d7b:
+
+    # lu "You're a bit too horny, don't you think?"
+    lu "你不觉得你有点太好色了吗?"
+
+# game/scripts/side_char_events.rpy:13372
+translate schinese lucy_spa_sex_8b5485bd:
+
+    # lu "...I like that."
+    lu "......我喜欢."
+
+# game/scripts/side_char_events.rpy:13376
+translate schinese lucy_spa_sex_3ebbfda5:
+
+    # lu "Stare at me as long as you'd like, big bro~"
+    lu "你想盯多久就盯多久,哥哥~"
+
+# game/scripts/side_char_events.rpy:13380
+translate schinese lucy_spa_sex_a8e87d10:
+
+    # lu "Or do you prefer ass, hm? Heheh..."
+    lu "或者你更喜欢屁股,嗯?呵呵呵......"
+
+# game/scripts/side_char_events.rpy:13384
+translate schinese lucy_spa_sex_02150419:
+
+    # lu "Or maybe my titties? Hmhmhm~"
+    lu "或者是我的奶子?嗯嗯嗯~"
+
+# game/scripts/side_char_events.rpy:13388
+translate schinese lucy_spa_sex_494a781e:
+
+    # lu "Look~! My nipples are getting hard..."
+    lu "看~!我的乳头都硬了......"
+
+# game/scripts/side_char_events.rpy:13392
+translate schinese lucy_spa_sex_43875e0a:
+
+    # lu "So how do you want me, hm?"
+    lu "所以你想要我怎么样,嗯?"
+
+# game/scripts/side_char_events.rpy:13396
+translate schinese lucy_spa_sex_264a9dee:
+
+    # lu "Mmmh~ take me, I want it rough..."
+    lu "嗯~拿下我吧,我想要粗暴点的......"
+
+# game/scripts/side_char_events.rpy:13401
+translate schinese lucy_spa_sex_1af6ea5a:
+
+    # lu "Ah! FUCK! FUCK! HAHHH!!" with ssshake
+    lu "啊!{b}操!操!哈!!{/b}" with ssshake
+
+# game/scripts/side_char_events.rpy:13402
+translate schinese lucy_spa_sex_af88aa27:
+
+    # lu "YES! Oh fuck! Just like that! Yes, yes, yes!!"
+    lu "{b}是的!{/b}哦操!就是这样!是的,是的,是的!!"
+
+# game/scripts/side_char_events.rpy:13403
+translate schinese lucy_spa_sex_13d289b6:
+
+    # lu "MMMMH! Fuck! Harder~ Harder~! Mmmh! Oh my god you're so big!"
+    lu "{b}嗯!{/b}操!再大力点~再大力点~!嗯!哦我天,你好大啊!"
+
+# game/scripts/side_char_events.rpy:13404
+translate schinese lucy_spa_sex_7d58ede5:
+
+    # lu "Yes, yes! AAAH~! Keep going, keep going! Don't fucking stop~!"
+    lu "是的,是的!{b}啊~!{/b}继续,继续!不要停~!"
+
+# game/scripts/side_char_events.rpy:13407
+translate schinese lucy_spa_sex_58e9d8cf:
+
+    # lu "Oh FUCK! AH~! AH~! AH~! Yes! NNHH!"
+    lu "哦{b}操!啊~!啊~!啊~!{/b}是的!{b}嗯!{/b}"
+
+# game/scripts/side_char_events.rpy:13408
+translate schinese lucy_spa_sex_d72a133f:
+
+    # lu "Nnnnh! Fuck, fuck! Mmmh! I want you to cum on me~! Hahhh! Fuck!"
+    lu "嗯!操,操!嗯!我想要你射在我身上~!哈!操!"
+
+# game/scripts/side_char_events.rpy:13409
+translate schinese lucy_spa_sex_19631493:
+
+    # lu "Mmmh~! Please! Mmmh! Hahhh~! Please! Cum on me~ Cum on me~!"
+    lu "嗯~!求你了!嗯!哈~!求你了!射在我身上~射在我身上~!"
+
+# game/scripts/side_char_events.rpy:13413
+translate schinese lucy_spa_sex_72ebb54d:
+
+    # lu "AAAH~!" with ssshake
+    lu "{b}啊~!{/b}" with ssshake
+
+# game/scripts/side_char_events.rpy:13414
+translate schinese lucy_spa_sex_5f95558d:
+
+    # lu "Oh fuck!!" with ssshake
+    lu "哦操!!" with ssshake
+
+# game/scripts/side_char_events.rpy:13415
+translate schinese lucy_spa_sex_6bb4c7fb:
+
+    # lu "HAAH! AAAAH~!" with ssshake
+    lu "{b}哈!啊~!{/b}" with ssshake
+
+# game/scripts/side_char_events.rpy:13417
+translate schinese lucy_spa_sex_bb8e31c4:
+
+    # lu "Nmmmh! Mmmh... Ahhh..."
+    lu "嗯!嗯......啊......"
+
+# game/scripts/side_char_events.rpy:13418
+translate schinese lucy_spa_sex_c06e1f8f:
+
+    # lu "Fuck... you're amazing~"
+    lu "操......你好棒啊~"
+
+# game/scripts/side_char_events.rpy:13421
+translate schinese lucy_spa_sex_1d2b62fb:
+
+    # lu "Ah!" with ssshake
+    lu "啊!" with ssshake
+
+# game/scripts/side_char_events.rpy:13423
+translate schinese lucy_spa_sex_80c94362:
+
+    # lu "Nnh~ oh wow, you came so much~! I'm glad I was fun..."
+    lu "嗯~哦哇哦,你射了好多啊~!我很高兴我也能舒服......"
+
+# game/scripts/side_char_events.rpy:13432
+translate schinese hana_spa_sex_45d6766c:
+
+    # han "There you are... and it looks like you're ready..."
+    han "好了......看起来你已经准备好了......"
+
+# game/scripts/side_char_events.rpy:13436
+translate schinese hana_spa_sex_935ec467:
+
+    # han "I'm not really sure what I should do... but I can try a few poses I saw in a hentai once..."
+    han "我不确定我应该做什么......但是我可以试试我之前在本子里看到的姿势......"
+
+# game/scripts/side_char_events.rpy:13440
+translate schinese hana_spa_sex_dde29a49:
+
+    # han "How's this? ...I think it's having some effect, eheheh..."
+    han "这样如何?......我觉得这样更有效果,呃呵呵呵......"
+
+# game/scripts/side_char_events.rpy:13444
+translate schinese hana_spa_sex_d9f9b3e8:
+
+    # han "Nh... you're hard for me... that's so hot."
+    han "嗯......你因为我变硬了......太色了."
+
+# game/scripts/side_char_events.rpy:13448
+translate schinese hana_spa_sex_85f0d040:
+
+    # han "How should we do it, [name]? Maybe from behind...?"
+    han "我们要怎么做,[name]?也许后入......?"
+
+# game/scripts/side_char_events.rpy:13453
+translate schinese hana_spa_sex_f49a40e5:
+
+    # han "I've always wanted to try doggy~ do you wanna be my first?"
+    han "我一直都想试试后入~你想成为我的第一次吗?"
+
+# game/scripts/side_char_events.rpy:13456
+translate schinese hana_spa_sex_fa0a1120:
+
+    # han "Come on, let's do doggy again!"
+    han "来吧,我们再来后入!"
+
+# game/scripts/side_char_events.rpy:13460
+translate schinese hana_spa_sex_a3b94c9c:
+
+    # han "Ah! Hahhh~! Nnnmmmm~..."
+    han "啊!哈~!嗯~......"
+
+# game/scripts/side_char_events.rpy:13463
+translate schinese hana_spa_sex_d56ea99d:
+
+    # han "Fuck, mmh... I'm ready for you..."
+    han "操,嗯......我已经为你准备好了......"
+
+# game/scripts/side_char_events.rpy:13466
+translate schinese hana_spa_sex_c51a01ad:
+
+    # han "Hah! Nnnh...! Hahhh, fuck...! Nnngh!"
+    han "哈!嗯......!哈,操......!嗯!"
+
+# game/scripts/side_char_events.rpy:13467
+translate schinese hana_spa_sex_43f94e7e:
+
+    # han "Oh my god, it feels so good from behind, [name]! MMMH~!"
+    han "哦我天,后入好舒服,[name]!{b}嗯~!{/b}"
+
+# game/scripts/side_char_events.rpy:13468
+translate schinese hana_spa_sex_10538829:
+
+    # han "Ohhh, yes yes yes! Mmmh! Fuck me good [name]...! Oh fuck!"
+    han "哦,是的是的是的!嗯![name],你操我操得好舒服......!哦操!"
+
+# game/scripts/side_char_events.rpy:13469
+translate schinese hana_spa_sex_0d32b85d:
+
+    # han "Ah! Ah! Hahhh! MMMH! Fuck my tight little pussy hard! Fuck!"
+    han "啊!啊!哈!{b}嗯!{/b}用力操我的小紧穴吧!操!"
+
+# game/scripts/side_char_events.rpy:13472
+translate schinese hana_spa_sex_5b9edfdf:
+
+    # han "Oh fuck, FUCK! MMMH! Don't stop, don't stop! Mmmh! It feels so fucking good...!"
+    han "哦操,[b]操!嗯!{/b}不要停,不要停!嗯!感觉好他妈棒.....!"
+
+# game/scripts/side_char_events.rpy:13473
+translate schinese hana_spa_sex_d0a03b5e:
+
+    # han "Mmmh~! AH! Fuck...! Fuck! Are you getting close? Hm? Oh fuck, yes!"
+    han "嗯~!{b}啊!{/b}操......!操!你要射了吗?嗯?哦操,是的!"
+
+# game/scripts/side_char_events.rpy:13474
+translate schinese hana_spa_sex_ebcab311:
+
+    # han "Cum in me! Mmmh! Fuck it, just cum in meeee~!!"
+    han "内射我吧!嗯!操,射进来就是了~!!"
+
+# game/scripts/side_char_events.rpy:13477
+translate schinese hana_spa_sex_94f3b123:
+
+    # han "Yes! Yes! Yes!"
+    han "是的!是的!是的!"
+
+# game/scripts/side_char_events.rpy:13479
+translate schinese hana_spa_sex_7f175788:
+
+    # han "AAAHN~!" with ssshake
+    han "{b}啊~!{/b}" with ssshake
+
+# game/scripts/side_char_events.rpy:13480
+translate schinese hana_spa_sex_c9420536:
+
+    # han "Mnnngh~!" with ssshake
+    han "嗯~!" with ssshake
+
+# game/scripts/side_char_events.rpy:13481
+translate schinese hana_spa_sex_d2b9e8a0:
+
+    # han "Yesssss~!" with ssshake
+    han "是的~!" with ssshake
+
+# game/scripts/side_char_events.rpy:13483
+translate schinese hana_spa_sex_3c769700:
+
+    # han "Ahhh...! Hahhh... ahhh...!"
+    han "啊......!哈......啊......!"
+
+# game/scripts/side_char_events.rpy:13484
+translate schinese hana_spa_sex_2b340292:
+
+    # han "Mmmm~ wow... that was so good~"
+    han "嗯~哇哦......好舒服~"
+
+# game/scripts/side_char_events.rpy:13487
+translate schinese hana_spa_sex_aeda877e:
+
+    # han "Ah!" with ssshake
+    han "啊!" with ssshake
+
+# game/scripts/side_char_events.rpy:13489
+translate schinese hana_spa_sex_f78f5e56:
+
+    # han "Hahhhh... ahh..."
+    han "哈......啊......"
+
+# game/scripts/side_char_events.rpy:13490
+translate schinese hana_spa_sex_6f8f66cb:
+
+    # han "Mmmm~ wow..."
+    han "嗯~哇哦......"
+
+translate schinese strings:
+
+    # game/scripts/side_char_events.rpy:11840
+    old "Oh, absolutely."
+    new "哦,当然可以."
+
+    # game/scripts/side_char_events.rpy:11840
+    old "Not interested."
+    new "不感兴趣."
+

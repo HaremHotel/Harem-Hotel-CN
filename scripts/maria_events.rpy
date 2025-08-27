@@ -51249,3 +51249,53 @@ translate schinese maroutfits_76b282fc:
     # m "Nude, huh? Sounds fun..."
     m "裸体,嗯?听起来很有趣......"
 
+# TODO: Translation updated at 2025-08-27 23:34
+
+# game/scripts/maria_events.rpy:6356
+translate schinese mar_hanain_be19d21d:
+
+    # m "The fouding era of Syl'anar was a very chaotic time... the Emperor and Grand Arbiter were killed during a parade they were holding to celebrate their victory over the lands conquered so far within the colonies."
+    m "西尔阿纳尔建国时处于一个非常混乱的时代......皇帝和大仲裁者在一次庆祝胜利和殖民地所征服的土地的游行中被刺杀."
+
+# game/scripts/maria_events.rpy:6367
+translate schinese mar_hanain_a2b5ad1d:
+
+    # au "I would love to learn more about these royal people! Maybe I could tell you something about the Grand Arbiter of the time as well."
+    au "我很想更多地了解这些皇室成员!也许我还能告诉你一些关于当时大仲裁者的事情."
+
+# game/scripts/maria_events.rpy:6374
+translate schinese mar_hanain_fe53a643:
+
+    # l "I remember that time... I never met the humans when the Emperor and Grand Arbiter were still alive, but I heard there was a lot more order in the things they did when they were..."
+    l "我记得那些时光......皇帝和教皇还活着的时候,我并没有见过人类,但我听说他们还活着的时候,人类还更有秩序些......"
+
+# game/scripts/maria_events.rpy:6386
+translate schinese mar_hanain_f002f2a8:
+
+    # m "*ahem*, anyway! The Emperor was dead, and this gave the people of Syl'anar the perfect moment to free themselves from oppressive rulers. They overthrew the monarchy and established the world's first democracy!"
+    m "*咳*,总之!皇帝死了,这给了西尔阿纳尔人民一个从压迫统治者手中解放出来的绝佳时机!他们推翻了君主制,建立了世界上第一个民主国家!"
+
+# game/scripts/maria_events.rpy:6387
+translate schinese mar_hanain_bf9f9c09:
+
+    # m "They were still very loyal to the Grand Arbiter though, and eventually a new one was chosen. After 47 years of chaos, the new Emperor and the Grand Arbiter attempted to regain power over the nations that formed here."
+    m "不过,他们依然效忠于大仲裁者,并选出了一位新的大仲裁者.在47年的混乱之后,新皇帝和大仲裁者试图在这个国家复辟."
+
+# game/scripts/maria_events.rpy:6390
+translate schinese mar_hanain_98c928bc:
+
+    # m "The Grand Arbiter didn't want to risk destabilizaing what they had rebuilt, so instead he recognized the independence of the nations on this continent and asked the other nations that followed him to aid the humans here in their conquest of the new world."
+    m "大仲裁者不想冒着破坏他们刚刚重建的稳定局势的风险,因此承认了这片大陆上各个国家的独立性,并要求追随他的其他国家帮助这里的人类征服新世界."
+
+# game/scripts/maria_events.rpy:6391
+translate schinese mar_hanain_80dc6a0f:
+
+    # l "What humans aren't taught is that even after the humans here gained their indepedence, this was still a very chaotic time. Humans were conflicted on if they wanted to establish more monarchies or continue with the republic. A lot of infighting occurred..."
+    l "人类所不知道的是,即使是这里的人类取得独立后,这里依然处在一个非常混乱的时代.人类内部矛盾重重,对于建立更多的君主制国家还是继续维持共和制发生了很多内讧......"
+
+# game/scripts/maria_events.rpy:6578
+translate schinese hantalk_2a8147ab:
+
+    # han "Oh sure! Just give me a moment to prepare."
+    han "哦,当然可以!让我准备一下."
+

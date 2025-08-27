@@ -502,3 +502,9 @@ translate schinese strings:
 
     old "Zoia"
     new "佐娅"
+
+    old "Actor"
+    new "演员"
+
+    old "Nero Card"
+    new "尼禄卡"

@@ -56122,3 +56122,1517 @@ translate schinese strings:
     old "{color=#8C8C8C}> Sexy Gothic <{/color}"
     new "{color=#8C8C8C}> 性感哥特套装 <{/color}"
 
+# TODO: Translation updated at 2025-08-27 23:34
+
+# game/scripts/clone_events.rpy:15
+translate schinese twin_recruit_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/clone_events.rpy:16
+translate schinese twin_recruit_ea8e6268:
+
+    # em "{i}Go away...{/b}"
+    em ""
+
+# game/scripts/clone_events.rpy:18
+translate schinese twin_recruit_781d2407:
+
+    # em "Nnngh...!"
+    em ""
+
+# game/scripts/clone_events.rpy:19
+translate schinese twin_recruit_7b9e62b1:
+
+    # c "You can't stay in here all day, Emma..."
+    c ""
+
+# game/scripts/clone_events.rpy:20
+translate schinese twin_recruit_af9e0a50:
+
+    # em "..."
+    em ""
+
+# game/scripts/clone_events.rpy:21
+translate schinese twin_recruit_ee6096e4:
+
+    # c "...I'm worried about Felicity too..."
+    c ""
+
+# game/scripts/clone_events.rpy:22
+translate schinese twin_recruit_af9e0a50_1:
+
+    # em "..."
+    em ""
+
+# game/scripts/clone_events.rpy:23
+translate schinese twin_recruit_113e937f:
+
+    # c "We're {i}all{/i} really worried about Felicity..."
+    c ""
+
+# game/scripts/clone_events.rpy:25
+translate schinese twin_recruit_da224ca3:
+
+    # em "But she's my family! I've never been apart from her for so long...!"
+    em ""
+
+# game/scripts/clone_events.rpy:26
+translate schinese twin_recruit_0e6e5367:
+
+    # c "*sigh*... I wish I could say I understand, but I know it must be so hard to lose someone like that."
+    c ""
+
+# game/scripts/clone_events.rpy:27
+translate schinese twin_recruit_5fed1265:
+
+    # c "I don't know how, Emma, but we'll get her back. I promise..."
+    c ""
+
+# game/scripts/clone_events.rpy:28
+translate schinese twin_recruit_a22aae4d:
+
+    # em "*sniff*... Ngh... I hope so. I can't lose her..."
+    em ""
+
+# game/scripts/clone_events.rpy:31
+translate schinese twin_recruit_3ec57d49:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:32
+translate schinese twin_recruit_3a275ed6:
+
+    # f "...{i}What am I going to do...?{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:33
+translate schinese twin_recruit_726a53cb:
+
+    # f "{i}Dad is going to kidnap Emma next...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:35
+translate schinese twin_recruit_3b4523b7:
+
+    # f "{i}My own dad...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:36
+translate schinese twin_recruit_aa208b6d:
+
+    # f "*sigh*... {i}Maybe if I do what he says... he won't take Emma...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:37
+translate schinese twin_recruit_13edbc14:
+
+    # f "{i}...I hate my new life...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:40
+translate schinese twin_recruit_3ec57d49_1:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:42
+translate schinese twin_recruit_045804f1:
+
+    # f "...What do {i}you{/i} want."
+    f ""
+
+# game/scripts/clone_events.rpy:44
+translate schinese twin_recruit_0ca5dfbf:
+
+    # q "Aw, you poor thing... still sulking about your new luxury apartment?"
+    q ""
+
+# game/scripts/clone_events.rpy:45
+translate schinese twin_recruit_950e7c7b:
+
+    # f "Fuck off, Sirona."
+    f ""
+
+# game/scripts/clone_events.rpy:46
+translate schinese twin_recruit_d5a2ca3b:
+
+    # siri "I told you to call me Siri. We're sisters... and nobody calls me Sirona."
+    siri ""
+
+# game/scripts/clone_events.rpy:47
+translate schinese twin_recruit_2fc626f5:
+
+    # f "You're not my sister."
+    f ""
+
+# game/scripts/clone_events.rpy:49
+translate schinese twin_recruit_b5dec7ff:
+
+    # siri "Trust me. You're not the only one with that sentiment..."
+    siri ""
+
+# game/scripts/clone_events.rpy:50
+translate schinese twin_recruit_9816c11d:
+
+    # siri "Dad needs you. Come on."
+    siri ""
+
+# game/scripts/clone_events.rpy:51
+translate schinese twin_recruit_ccacb0fe:
+
+    # f "Why the fuck would I help my kidnapper?"
+    f ""
+
+# game/scripts/clone_events.rpy:52
+translate schinese twin_recruit_78490231:
+
+    # siri "Seriously? He took you back with open arms after you started whoring in that hotel. You should be grateful you don't have to do that shit anymore."
+    siri ""
+
+# game/scripts/clone_events.rpy:54
+translate schinese twin_recruit_b3e0baa8:
+
+    # f "WHORING!? You took me from my boyfriend!"
+    f ""
+
+# game/scripts/clone_events.rpy:55
+translate schinese twin_recruit_23ce24d2:
+
+    # siri "Felicity... You're too young to know what love is."
+    siri ""
+
+# game/scripts/clone_events.rpy:56
+translate schinese twin_recruit_46f66f2c:
+
+    # f "How young do you think I am!?"
+    f ""
+
+# game/scripts/clone_events.rpy:57
+translate schinese twin_recruit_3d81ae07:
+
+    # siri "I don't know. I really don't give a shit."
+    siri ""
+
+# game/scripts/clone_events.rpy:58
+translate schinese twin_recruit_581e967b:
+
+    # f "20! I'm in college!"
+    f ""
+
+# game/scripts/clone_events.rpy:59
+translate schinese twin_recruit_42574eb4:
+
+    # siri "Like I said... you're too young."
+    siri ""
+
+# game/scripts/clone_events.rpy:60
+translate schinese twin_recruit_37497df3:
+
+    # f "How old are you supposed to be? 80!?"
+    f ""
+
+# game/scripts/clone_events.rpy:61
+translate schinese twin_recruit_c089aa05:
+
+    # siri "I'm 33."
+    siri ""
+
+# game/scripts/clone_events.rpy:62
+translate schinese twin_recruit_50b9a24b:
+
+    # f "Well you look 80..."
+    f ""
+
+# game/scripts/clone_events.rpy:63
+translate schinese twin_recruit_7e27a483:
+
+    # siri "Mhm. Get up, Felicity. You're going to be late."
+    siri ""
+
+# game/scripts/clone_events.rpy:64
+translate schinese twin_recruit_3803ed30:
+
+    # f "I don't care! I want to go back!"
+    f ""
+
+# game/scripts/clone_events.rpy:66
+translate schinese twin_recruit_a4f2f6ac:
+
+    # siri "Felicity, I was your age once... and I was just as stupid. You think you're an adult because you're 20? No... you're still a baby."
+    siri ""
+
+# game/scripts/clone_events.rpy:67
+translate schinese twin_recruit_9c57d91b:
+
+    # siri "You don't even know your own family's history. You don't know why we're here, or what we're doing."
+    siri ""
+
+# game/scripts/clone_events.rpy:68
+translate schinese twin_recruit_1649f25c:
+
+    # siri "Dad gave you that ignorant life because he wanted to protect you. He hid things from you because he had me."
+    siri ""
+
+# game/scripts/clone_events.rpy:69
+translate schinese twin_recruit_de277d1f:
+
+    # f "So what, I should thank you?"
+    f ""
+
+# game/scripts/clone_events.rpy:70
+translate schinese twin_recruit_5565a23a:
+
+    # siri "I never had the chance to go to college because we were fucking destitute. But you grew with up a golden spoon in your mouth... and now you're ungrateful for your own apartment?"
+    siri ""
+
+# game/scripts/clone_events.rpy:71
+translate schinese twin_recruit_1c83687a:
+
+    # f "You grew up poor...?"
+    f ""
+
+# game/scripts/clone_events.rpy:72
+translate schinese twin_recruit_f69b8139:
+
+    # siri "Dad's an immigrant, sweetie. You know what he left behind? Endless wars, extreme poverty, plagues, famine... all to give us a better life."
+    siri ""
+
+# game/scripts/clone_events.rpy:73
+translate schinese twin_recruit_d97250f9:
+
+    # siri "He came here with {u}nothing{/u}. Now we're billionaires. Show some respect. Get up."
+    siri ""
+
+# game/scripts/clone_events.rpy:75
+translate schinese twin_recruit_3ec57d49_2:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:76
+translate schinese twin_recruit_bec2ea29:
+
+    # f "...Because you stole it."
+    f ""
+
+# game/scripts/clone_events.rpy:77
+translate schinese twin_recruit_44884932:
+
+    # siri "We're a business..."
+    siri ""
+
+# game/scripts/clone_events.rpy:78
+translate schinese twin_recruit_3ec57d49_3:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:80
+translate schinese twin_recruit_e1b47da2:
+
+    # f "So is your mother dead too?"
+    f ""
+
+# game/scripts/clone_events.rpy:81
+translate schinese twin_recruit_41c53cf8:
+
+    # siri "Excuse me?"
+    siri ""
+
+# game/scripts/clone_events.rpy:82
+translate schinese twin_recruit_bd04b6b0:
+
+    # f "Dad met my mother only a few years before he had me. You're too old to be my sister. Which means you would have known her..."
+    f ""
+
+# game/scripts/clone_events.rpy:83
+translate schinese twin_recruit_b02d8a5b:
+
+    # siri "I wouldn't say that, but I guess I knew her more than you ever had the chance to."
+    siri ""
+
+# game/scripts/clone_events.rpy:84
+translate schinese twin_recruit_27576ba7:
+
+    # f "That would make you my half-sister. Now answer my question. Is your mother dead?"
+    f ""
+
+# game/scripts/clone_events.rpy:85
+translate schinese twin_recruit_0bf3e1ea:
+
+    # siri "...Yeah. It's a dangerous business. Your mother knew the risks too."
+    siri ""
+
+# game/scripts/clone_events.rpy:86
+translate schinese twin_recruit_c1ffe552:
+
+    # f "How did your mother die?"
+    f ""
+
+# game/scripts/clone_events.rpy:87
+translate schinese twin_recruit_4e80acef:
+
+    # siri "She died protecting me..."
+    siri ""
+
+# game/scripts/clone_events.rpy:88
+translate schinese twin_recruit_834912a2:
+
+    # f "{i}When{/i} did she die?"
+    f ""
+
+# game/scripts/clone_events.rpy:89
+translate schinese twin_recruit_9507e57f:
+
+    # siri "You're asking too many questions, Felicity."
+    siri ""
+
+# game/scripts/clone_events.rpy:90
+translate schinese twin_recruit_ac3171d0:
+
+    # f "When!?"
+    f ""
+
+# game/scripts/clone_events.rpy:91
+translate schinese twin_recruit_1ac53890:
+
+    # siri "I don't remember, I was too young!"
+    siri ""
+
+# game/scripts/clone_events.rpy:92
+translate schinese twin_recruit_e86d1394:
+
+    # f "Same here! And you don't think that's a coincidence!?"
+    f ""
+
+# game/scripts/clone_events.rpy:93
+translate schinese twin_recruit_06d11f6f:
+
+    # siri "No. I think it's bound to happen in this business if you're not careful. And you're {i}not{/i} being careful..."
+    siri ""
+
+# game/scripts/clone_events.rpy:94
+translate schinese twin_recruit_12922391:
+
+    # siri "And that's exactly why you had the life you did, Felicity. He wanted you nowhere near this side of his life because he knows exactly how dangerous it is."
+    siri ""
+
+# game/scripts/clone_events.rpy:95
+translate schinese twin_recruit_d001f88c:
+
+    # siri "Only now, you've left him no choice... And believe me! I wish it were different. I never wanted a sister. I never wanted a new mom... but here we are."
+    siri ""
+
+# game/scripts/clone_events.rpy:96
+translate schinese twin_recruit_9a7961e3:
+
+    # f "So why am I here, then? What does he want from me?"
+    f ""
+
+# game/scripts/clone_events.rpy:98
+translate schinese twin_recruit_4bb6df70:
+
+    # siri "..."
+    siri ""
+
+# game/scripts/clone_events.rpy:100
+translate schinese twin_recruit_8ce10b26:
+
+    # siri "*sigh*... That's what we're going to find out, Felicity. I'm the Underboss, and even I don't know."
+    siri ""
+
+# game/scripts/clone_events.rpy:101
+translate schinese twin_recruit_206e9955:
+
+    # siri "To be honest with you, I did suggest bringing you two into the family years ago. But dad was so opposed, he almost had a stroke."
+    siri ""
+
+# game/scripts/clone_events.rpy:102
+translate schinese twin_recruit_f335d176:
+
+    # siri "I don't know what his deal is, or why he values your innocence so much. He never felt the same about me... But you're both very important to him now, for reasons I can't understand."
+    siri ""
+
+# game/scripts/clone_events.rpy:103
+translate schinese twin_recruit_881c2cda:
+
+    # f "There is NO WAY I'm working with him!"
+    f ""
+
+# game/scripts/clone_events.rpy:104
+translate schinese twin_recruit_eb4d2663:
+
+    # siri "Yeah... we'll see about that."
+    siri ""
+
+# game/scripts/clone_events.rpy:105
+translate schinese twin_recruit_8de04ae7:
+
+    # f "No, we won't!"
+    f ""
+
+# game/scripts/clone_events.rpy:107
+translate schinese twin_recruit_38780bae:
+
+    # siri "Felicity, what is it you think we do?"
+    siri ""
+
+# game/scripts/clone_events.rpy:108
+translate schinese twin_recruit_647410bf:
+
+    # f "Extort people? Sell drugs? KIDNAPPINGS!?"
+    f ""
+
+# game/scripts/clone_events.rpy:109
+translate schinese twin_recruit_3f247055:
+
+    # siri "Well, you're only half right about one of those."
+    siri ""
+
+# game/scripts/clone_events.rpy:110
+translate schinese twin_recruit_7eec4530:
+
+    # siri "Yes, we manufacture naki, but more importantly, we fill a void left by the government."
+    siri ""
+
+# game/scripts/clone_events.rpy:111
+translate schinese twin_recruit_7d62d343:
+
+    # siri "If the people need something, we find a way to give it to them. That's our business."
+    siri ""
+
+# game/scripts/clone_events.rpy:113
+translate schinese twin_recruit_fbe13ad8:
+
+    # f "And those Blue Dragon shits? They work for you, don't they?"
+    f ""
+
+# game/scripts/clone_events.rpy:114
+translate schinese twin_recruit_da007eb7:
+
+    # siri "We don't target small businesses, Felicity. Extortion is too messy. Times have changed. People think the mafia went extinct decades ago. But honestly? We just evolved."
+    siri ""
+
+# game/scripts/clone_events.rpy:115
+translate schinese twin_recruit_2331bb2d:
+
+    # f "So what do you do, then?"
+    f ""
+
+# game/scripts/clone_events.rpy:116
+translate schinese twin_recruit_4640c741:
+
+    # siri "We lend money, host gambling, offer protection from the law, sell prescription drugs, housing, and provide new IDs for anyone who wants a fresh start."
+    siri ""
+
+# game/scripts/clone_events.rpy:117
+translate schinese twin_recruit_2f4821c5:
+
+    # f "So you help criminals? Why would I want to do that?"
+    f ""
+
+# game/scripts/clone_events.rpy:118
+translate schinese twin_recruit_b664db47:
+
+    # siri "Because, Felicity... sooner or later we'll all find ourselves as criminals in this world. You too. You're not exempt from that."
+    siri ""
+
+# game/scripts/clone_events.rpy:119
+translate schinese twin_recruit_e7ce6ec3:
+
+    # siri "Alcohol was illegal 50 years ago. That's something your very own father fought against and even provided. Now everyone drinks it as if it wasn't considered the worst drug in the world."
+    siri ""
+
+# game/scripts/clone_events.rpy:120
+translate schinese twin_recruit_50effd10:
+
+    # siri "We offer freedom wherever the government prevents it. It's that simple."
+    siri ""
+
+# game/scripts/clone_events.rpy:121
+translate schinese twin_recruit_23c89949:
+
+    # f "I don't see you helping elves. Dad hates elves."
+    f ""
+
+# game/scripts/clone_events.rpy:123
+translate schinese twin_recruit_7e5b1a52:
+
+    # siri "He doesn't hate elves, he just doesn't care about them... Humans have enough problems, we don't need to add elves to that list."
+    siri ""
+
+# game/scripts/clone_events.rpy:124
+translate schinese twin_recruit_d58c5ddb:
+
+    # f "Hmph. You sure paint yourselves a good picture, but that doesn't change the fact that you're a bunch of horrible people."
+    f ""
+
+# game/scripts/clone_events.rpy:125
+translate schinese twin_recruit_e937ec86:
+
+    # siri "Sure, if you hate freedom?"
+    siri ""
+
+# game/scripts/clone_events.rpy:126
+translate schinese twin_recruit_3b70a773:
+
+    # f "You don't think there's such a thing as too much freedom? Bad guys need to be in prison, Sirona!"
+    f ""
+
+# game/scripts/clone_events.rpy:128
+translate schinese twin_recruit_1881b2d6:
+
+    # siri "Ugh, I'm not getting into that conversation with you."
+    siri ""
+
+# game/scripts/clone_events.rpy:129
+translate schinese twin_recruit_541bc6cf:
+
+    # siri "We're late for a meeting, Felicity. Are you coming, or am I dragging you?"
+    siri ""
+
+# game/scripts/clone_events.rpy:130
+translate schinese twin_recruit_4a862e22:
+
+    # f "Hmph! There's that so-called freedom, huh? Yeah, whatever. I'm coming..."
+    f ""
+
+# game/scripts/clone_events.rpy:133
+translate schinese twin_recruit_31523f52:
+
+    # siri "Listen up. This is an important meeting with the higher ups. Be respectful, or you're going to piss off dad. You know how he can get."
+    siri ""
+
+# game/scripts/clone_events.rpy:134
+translate schinese twin_recruit_0b7b2cf5:
+
+    # f "I thought you said you didn't know why I was here."
+    f ""
+
+# game/scripts/clone_events.rpy:135
+translate schinese twin_recruit_d94d7582:
+
+    # siri "I don't. All I know is that we've been called."
+    siri ""
+
+# game/scripts/clone_events.rpy:136
+translate schinese twin_recruit_ae0b5926:
+
+    # siri "Oh, and don't mention Emma, okay?"
+    siri ""
+
+# game/scripts/clone_events.rpy:137
+translate schinese twin_recruit_4ff14fe5:
+
+    # f "Why the fuck not?"
+    f ""
+
+# game/scripts/clone_events.rpy:138
+translate schinese twin_recruit_0662559e:
+
+    # siri "Just don't. You'll piss him off."
+    siri ""
+
+# game/scripts/clone_events.rpy:139
+translate schinese twin_recruit_9f0584f6:
+
+    # f "Anything else, your majesty? Shall I bow as well?"
+    f ""
+
+# game/scripts/clone_events.rpy:140
+translate schinese twin_recruit_03eddd50:
+
+    # siri "Hmph, {i}that's ironic...{/i}"
+    siri ""
+
+# game/scripts/clone_events.rpy:141
+translate schinese twin_recruit_4bc035da:
+
+    # f "Sorry?"
+    f ""
+
+# game/scripts/clone_events.rpy:142
+translate schinese twin_recruit_d49247c4:
+
+    # siri "Nothing... I'm just trying to give you some advice. For all I care, you can run away. We don't need you or Emma anymore."
+    siri ""
+
+# game/scripts/clone_events.rpy:143
+translate schinese twin_recruit_aa71f0ff:
+
+    # f "If that were true, I wouldn't be here."
+    f ""
+
+# game/scripts/clone_events.rpy:144
+translate schinese twin_recruit_3a1fed89:
+
+    # siri "I'm just telling you how it is. You don't need to try to poke holes in my story, Felicity. I'm not your enemy."
+    siri ""
+
+# game/scripts/clone_events.rpy:145
+translate schinese twin_recruit_db174eeb:
+
+    # f "HAH! Well you're mine..."
+    f ""
+
+# game/scripts/clone_events.rpy:146
+translate schinese twin_recruit_9a8582f8:
+
+    # f "And why the fuck don't you have any buttons in this elevator? Is this even a real elevator?"
+    f ""
+
+# game/scripts/clone_events.rpy:147
+translate schinese twin_recruit_dca9a330:
+
+    # siri "Ugh... it only goes to the same two floors."
+    siri ""
+
+# game/scripts/clone_events.rpy:148
+translate schinese twin_recruit_9b6c007f:
+
+    # f "Mhm..."
+    f ""
+
+# game/scripts/clone_events.rpy:150
+translate schinese twin_recruit_10029665:
+
+    # "*ding*"
+    ""
+
+# game/scripts/clone_events.rpy:152
+translate schinese twin_recruit_ecc6d080:
+
+    # siri "Alright, everyone's here. Let's get started."
+    siri ""
+
+# game/scripts/clone_events.rpy:153
+translate schinese twin_recruit_0f6c0d6a:
+
+    # stoneface "You're late..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:154
+translate schinese twin_recruit_cf65f865:
+
+    # siri "My apologies."
+    siri ""
+
+# game/scripts/clone_events.rpy:156
+translate schinese twin_recruit_c1c3099d:
+
+    # q "Hey, hey! Who's the hot new girl?"
+    q ""
+
+# game/scripts/clone_events.rpy:157
+translate schinese twin_recruit_d09ec3fc:
+
+    # stoneface "My second-born..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:159
+translate schinese twin_recruit_706741ea:
+
+    # q "{size=-7}{i}Oh.{/i}{/size}"
+    q ""
+
+# game/scripts/clone_events.rpy:161
+translate schinese twin_recruit_033917c4:
+
+    # stoneface "Thank you for joining us, Felicity. I'd like to introduce you to everone."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:162
+translate schinese twin_recruit_49aa1cac:
+
+    # stoneface "You've already had the {i}pleasure{/i} of hearing Ron's abrassive voice..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:163
+translate schinese twin_recruit_1e18b393:
+
+    # ron "Heya."
+    ron ""
+
+# game/scripts/clone_events.rpy:164
+translate schinese twin_recruit_d6a12846:
+
+    # stoneface "On your right we have Makoa, and Numbers."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:165
+translate schinese twin_recruit_2b8031d9:
+
+    # num "So she has a sister, hm?"
+    num ""
+
+# game/scripts/clone_events.rpy:167
+translate schinese twin_recruit_3feee555:
+
+    # siri "Two, actually. This one has a twin."
+    siri ""
+
+# game/scripts/clone_events.rpy:169
+translate schinese twin_recruit_cfc98709:
+
+    # siri "Two, actually. This one has a clone."
+    siri ""
+
+# game/scripts/clone_events.rpy:172
+translate schinese twin_recruit_233dc260:
+
+    # num "I've never met twins before..."
+    num ""
+
+# game/scripts/clone_events.rpy:174
+translate schinese twin_recruit_2f83d267:
+
+    # num "I've never met clones before..."
+    num ""
+
+# game/scripts/clone_events.rpy:175
+translate schinese twin_recruit_78c49efb:
+
+    # makoa "Hope we didn't scare you too bad, Felicity."
+    makoa ""
+
+# game/scripts/clone_events.rpy:176
+translate schinese twin_recruit_501c8449:
+
+    # f "I'm fine..."
+    f ""
+
+# game/scripts/clone_events.rpy:177
+translate schinese twin_recruit_2bc109b2:
+
+    # makoa "Good... It was just business."
+    makoa ""
+
+# game/scripts/clone_events.rpy:178
+translate schinese twin_recruit_ccd7d16b:
+
+    # siri "So, what's on the agenda today?"
+    siri ""
+
+# game/scripts/clone_events.rpy:179
+translate schinese twin_recruit_70a53db9:
+
+    # stoneface "Community. Or lack thereof."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:181
+translate schinese twin_recruit_3c7bbec0:
+
+    # siri "Sounds good."
+    siri ""
+
+# game/scripts/clone_events.rpy:182
+translate schinese twin_recruit_91648120:
+
+    # ron "Gotta say, it's nice having you present today, Stoney! Barely get to see ya these days!"
+    ron ""
+
+# game/scripts/clone_events.rpy:184
+translate schinese twin_recruit_2f33235c:
+
+    # f "{i}Woah...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:185
+translate schinese twin_recruit_fdc5d466:
+
+    # stoneface "We have a very important matter to discuss. This will also be my second-born's initiation. I thought it best I break the news."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:186
+translate schinese twin_recruit_5c563b27:
+
+    # num "Quite appropriate."
+    num ""
+
+# game/scripts/clone_events.rpy:187
+translate schinese twin_recruit_b91fcb8c:
+
+    # stoneface "FELICITY!" with sshake
+    stoneface "" with sshake
+
+# game/scripts/clone_events.rpy:189
+translate schinese twin_recruit_a5eead98:
+
+    # stoneface "...Please take your seat. Immediately."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:190
+translate schinese twin_recruit_3ec57d49_4:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:192
+translate schinese twin_recruit_1aee3ed2:
+
+    # stoneface "...{w}..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:194
+translate schinese twin_recruit_1aee3ed2_1:
+
+    # stoneface "...{w}..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:195
+translate schinese twin_recruit_60348ca5:
+
+    # stoneface "...Good. Now we can begin."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:197
+translate schinese twin_recruit_ba7eb05b:
+
+    # stoneface "Would anyone like to tell me what the number one issue is in Syl'anar?"
+    stoneface ""
+
+# game/scripts/clone_events.rpy:198
+translate schinese twin_recruit_09d0db98:
+
+    # ron "Healthcare?"
+    ron ""
+
+# game/scripts/clone_events.rpy:199
+translate schinese twin_recruit_0ecacc99:
+
+    # num "The economy."
+    num ""
+
+# game/scripts/clone_events.rpy:201
+translate schinese twin_recruit_5cc88862:
+
+    # stoneface "Connection."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:203
+translate schinese twin_recruit_68cf1041:
+
+    # stoneface "Community..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:204
+translate schinese twin_recruit_6c57ec6d:
+
+    # stoneface "Unity."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:206
+translate schinese twin_recruit_3216ea19:
+
+    # stoneface "It's a damn shame...\nHumanity has the ability to connect instantaneously from across the world. Yet now more than ever, we are divided and alone."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:207
+translate schinese twin_recruit_bad81e1b:
+
+    # stoneface "Has technology truly driven us apart instead of allowing us to connect? No, I don't believe so. I believe it's by design..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:209
+translate schinese twin_recruit_a63746cc:
+
+    # stoneface "So who is to blame for this division we see in our society today?"
+    stoneface ""
+
+# game/scripts/clone_events.rpy:210
+translate schinese twin_recruit_c883e986:
+
+    # ron "I know this one! Lazy workers!"
+    ron ""
+
+# game/scripts/clone_events.rpy:211
+translate schinese twin_recruit_b3318856:
+
+    # stoneface "No, Ron... not even close."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:212
+translate schinese twin_recruit_7f427434:
+
+    # stoneface "You see, more people are connecting now than ever with the internet. But those connections are weak, and bound to dissolve upon the smallest inconveniences."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:213
+translate schinese twin_recruit_e3750886:
+
+    # stoneface "The people have been programmed to take sides and fall into ever-more fractioning communities."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:214
+translate schinese twin_recruit_7cebe616:
+
+    # stoneface "Divided we are weak and easily controllable. That is the weakness of democracy in plain view. If we can't even agree on the shape of our planet, our society won't be able to make any meaningful progress."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:216
+translate schinese twin_recruit_c164301f:
+
+    # stoneface "Our enemy... THE enemy... is Syl'anar herself."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:218
+translate schinese twin_recruit_90ac15b8:
+
+    # stoneface "Take education for example. A cornerstone for any society... yet Syl'anar treats its schools as a disposable annoyance."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:220
+translate schinese twin_recruit_d377aedf:
+
+    # stoneface "That's where we come in. Through our tireless efforts, we now operate six community colleges across the nation."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:221
+translate schinese twin_recruit_8e10e09b:
+
+    # makoa "Sure hope those kids appreciate it. Who knows where I'd be if I had that opportunity?"
+    makoa ""
+
+# game/scripts/clone_events.rpy:222
+translate schinese twin_recruit_d5252b8b:
+
+    # ron "Probably not here, huh? Hahah! Besides, it don't take a college degree to open up a pizza chain!"
+    ron ""
+
+# game/scripts/clone_events.rpy:223
+translate schinese twin_recruit_e5280d35:
+
+    # f "...You run six colleges? I thought it was just the one."
+    f ""
+
+# game/scripts/clone_events.rpy:225
+translate schinese twin_recruit_b056e2de:
+
+    # stoneface "{i}Free{/i} colleges at that. Though we can only afford to offer two years, those who choose to stay for the remaining years subsidize those who did not."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:226
+translate schinese twin_recruit_e6e0dd76:
+
+    # f "Why only two years? Doesn't the government help with the rest?"
+    f ""
+
+# game/scripts/clone_events.rpy:227
+translate schinese twin_recruit_c633428c:
+
+    # stoneface "Not a penny..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:228
+translate schinese twin_recruit_ae9c5935:
+
+    # stoneface "It is incredibly difficult to maintain, Felicity. Seeing you attend less and less broke my heart."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:229
+translate schinese twin_recruit_74c103e4:
+
+    # f "Oh... {size=-5}{i}I'm sorry...{/i}{/size}"
+    f ""
+
+# game/scripts/clone_events.rpy:230
+translate schinese twin_recruit_c63f0425:
+
+    # stoneface "You take education for granted. We had no public schools in the old world when I was a child. And we saw how that ended..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:232
+translate schinese twin_recruit_2e38c16e:
+
+    # f "But how does opening schools help you? What's the point?"
+    f ""
+
+# game/scripts/clone_events.rpy:233
+translate schinese twin_recruit_b3020858:
+
+    # stoneface "I told you. Unity."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:234
+translate schinese twin_recruit_414a73dc:
+
+    # stoneface "We are but a symptom of a disease, Felicity. None of us would be here if we had proper education, opportunity, and community."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:235
+translate schinese twin_recruit_4e5229fc:
+
+    # f "So... you actually want to go extinct?"
+    f ""
+
+# game/scripts/clone_events.rpy:237
+translate schinese twin_recruit_62fcca88:
+
+    # stoneface "I never wanted this life. I never even intended for you to find out about it. I came to Syl'anar for opportunity... but found very little."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:238
+translate schinese twin_recruit_7298f946:
+
+    # stoneface "Ask anyone here, nobody plans for this life. The industrious among us simply make do."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:240
+translate schinese twin_recruit_0002047e:
+
+    # f "You've made your own community, you've made your own opportunity... and you even created a system to educate people for free..."
+    f ""
+
+# game/scripts/clone_events.rpy:241
+translate schinese twin_recruit_f3cfc66f:
+
+    # f "You've been very successful, why would you want this to end?"
+    f ""
+
+# game/scripts/clone_events.rpy:243
+translate schinese twin_recruit_cb9d0e88:
+
+    # stoneface "Because it is not the job of an old man and his daughters to educate an entire country. That's what taxes are for."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:244
+translate schinese twin_recruit_b76aa9c2:
+
+    # ron "'Cept we don't pay ours no more, right Stoney?"
+    ron ""
+
+# game/scripts/clone_events.rpy:246
+translate schinese twin_recruit_4c4d5529:
+
+    # stoneface "Yes... some of us have also elected not to contribute towards the next yacht of our ruling class."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:248
+translate schinese twin_recruit_4ab378ad:
+
+    # f "How are you getting the money to pay for this?"
+    f ""
+
+# game/scripts/clone_events.rpy:249
+translate schinese twin_recruit_a16e95f1:
+
+    # stoneface "Our primary revenue source is naki. As well as a few dozen businesses that are under our umbrella. Ron contributes greatly."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:250
+translate schinese twin_recruit_d304e990:
+
+    # f "So you're funding education with drugs... how much naki do you even make?"
+    f ""
+
+# game/scripts/clone_events.rpy:251
+translate schinese twin_recruit_fb6bb651:
+
+    # stoneface "We supply the whole world, Felicity. Naki is an elvish plant."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:253
+translate schinese twin_recruit_b918cfa8:
+
+    # f "You just take with one hand and give with the other! How can you want to make society better while selling them drugs that could fry their brain??"
+    f ""
+
+# game/scripts/clone_events.rpy:254
+translate schinese twin_recruit_b9a2a012:
+
+    # stoneface "Those who consume drugs are already destitute beyond hope. Scum of our planet... They were never going to be a benefit to society otherwise. I've changed that."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:255
+translate schinese twin_recruit_4951a8ad:
+
+    # f "Yeah? And how many of them have you killed? How many people have you killed in total?? This is so stupid! There are better ways to educate people!"
+    f ""
+
+# game/scripts/clone_events.rpy:256
+translate schinese twin_recruit_b28f9817:
+
+    # stoneface "Please, do tell us."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:258
+translate schinese twin_recruit_3ec57d49_5:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:259
+translate schinese twin_recruit_4bb2b2e9:
+
+    # stoneface "And who else agrees? Should Syl'anar have a monopoly on violence?"
+    stoneface ""
+
+# game/scripts/clone_events.rpy:260
+translate schinese twin_recruit_67ad9ec5:
+
+    # makoa "Hell no. They should be scared of us, not the other way around."
+    makoa ""
+
+# game/scripts/clone_events.rpy:261
+translate schinese twin_recruit_470e8359:
+
+    # num "Studies do show that a well-armed populous is likely to prevent tyranny..."
+    num ""
+
+# game/scripts/clone_events.rpy:262
+translate schinese twin_recruit_b3d9cfd0:
+
+    # stoneface "Felicity, I know our system isn't perfect, but we have plans."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:263
+translate schinese twin_recruit_81826609:
+
+    # f "{i}{size=-5}Bullshit...{/size}{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:264
+translate schinese twin_recruit_f589555b:
+
+    # stoneface "Our goal is to propel humanity into the future. Create a world full of opportunity, free of crime."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:265
+translate schinese twin_recruit_89a61266:
+
+    # stoneface "For this, education is a necessity. We want to raise a generation of masters, not slaves."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:266
+translate schinese twin_recruit_29f57e3a:
+
+    # f "You think you're Nero, don't you? You're not going to revolutionize the country from here."
+    f ""
+
+# game/scripts/clone_events.rpy:268
+translate schinese twin_recruit_c8dab113:
+
+    # stoneface "..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:269
+translate schinese twin_recruit_d79e3726:
+
+    # stoneface "...You're right. And I'm not Nero... I have bigger aspirations than he ever did."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:270
+translate schinese twin_recruit_6f063b06:
+
+    # stoneface "I can see that you're still not convinced of the danger that stupidity poses, not only to themselves, but to the entire planet. ...Allow me to direct your attention to the screen behind me."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:272
+translate schinese twin_recruit_8c165d54:
+
+    # stoneface "This here. What do we call it? Felicity?"
+    stoneface ""
+
+# game/scripts/clone_events.rpy:273
+translate schinese twin_recruit_6ca9f4d4:
+
+    # f "That's Lake Velurin..."
+    f ""
+
+# game/scripts/clone_events.rpy:274
+translate schinese twin_recruit_fb1a00b8:
+
+    # stoneface "It used to be Velurin {i}River.{/i}"
+    stoneface ""
+
+# game/scripts/clone_events.rpy:275
+translate schinese twin_recruit_8a7d2e64:
+
+    # stoneface "You can see evidence of flooding everywhere you look. Syl'anar alone has lost 13 percent of its land since the industrial revolution."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:276
+translate schinese twin_recruit_e238e90d:
+
+    # stoneface "Perhaps leniency could be given to the people of the time for not knowing the harmful effects that their rapid industrialization would cause... yet the harm continued decades after we realized what was happening."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:277
+translate schinese twin_recruit_37b47503:
+
+    # stoneface "Our great continent is on the verge of splitting into two from our carelessness! Nero's technology may have saved us, but only temporarily. We will not truly thrive until this utter stupidity is wiped from our species."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:278
+translate schinese twin_recruit_9ef2a182:
+
+    # f "I guess that's what the drugs are for?"
+    f ""
+
+# game/scripts/clone_events.rpy:279
+translate schinese twin_recruit_bdd41ee9:
+
+    # stoneface "That's one way to look at it... But no, that's what my education policy is for."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:280
+translate schinese twin_recruit_74e55b99:
+
+    # f "Policy...?"
+    f ""
+
+# game/scripts/clone_events.rpy:282
+translate schinese twin_recruit_4d2bf557:
+
+    # stoneface "Yes, policy."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:283
+translate schinese twin_recruit_2b5e1ea4:
+
+    # stoneface "In three days time, I will announce my bid to run for President."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:285
+translate schinese twin_recruit_b3ed22c0:
+
+    # stoneface "And I want you to help me run my campaign, Felicity."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:286
+translate schinese twin_recruit_e956e03d:
+
+    # f "What?"
+    f ""
+
+# game/scripts/clone_events.rpy:287
+translate schinese twin_recruit_129e2751:
+
+    # ron "Holy shit! President Stoney!?"
+    ron ""
+
+# game/scripts/clone_events.rpy:288
+translate schinese twin_recruit_398198b0:
+
+    # num "Well, there have been worse presidents..."
+    num ""
+
+# game/scripts/clone_events.rpy:290
+translate schinese twin_recruit_f498c4ab:
+
+    # stoneface "Of course, Sirona will be running the business in my stead."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:291
+translate schinese twin_recruit_7dcf5d42:
+
+    # siri "Oh, thank you, father..."
+    siri ""
+
+# game/scripts/clone_events.rpy:292
+translate schinese twin_recruit_ad128c55:
+
+    # stoneface "If we truly want to achieve our goals, then we need the presidency. Bribes will only get us so far."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:294
+translate schinese twin_recruit_c7dcc3a7:
+
+    # f "Hold on, are you serious? You're really going to run against Thorne this year?"
+    f ""
+
+# game/scripts/clone_events.rpy:295
+translate schinese twin_recruit_33e48438:
+
+    # stoneface "You said it yourself. I am not going to revolutionize the country from here."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:296
+translate schinese twin_recruit_f418a577:
+
+    # f "You run a cartel! You can't be president!"
+    f ""
+
+# game/scripts/clone_events.rpy:297
+translate schinese twin_recruit_c3446471:
+
+    # stoneface "I have proven my ability to take care of my people, provide opportunity, housing, and healthcare... I have taken the lowest among us and ascended them into society once more. Thousands of my studends would support me in providing free education to the country..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:298
+translate schinese twin_recruit_6f3bf0d2:
+
+    # stoneface "I quite believe that I {i}can{/i} become president, Felicity. You've admitted my success already."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:299
+translate schinese twin_recruit_3ec57d49_6:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:300
+translate schinese twin_recruit_f52b1704:
+
+    # stoneface "Honestly, do you disagree with my policies? Would you not vote for me if I wasn't your father?"
+    stoneface ""
+
+# game/scripts/clone_events.rpy:301
+translate schinese twin_recruit_ddb8c42e:
+
+    # f "...I don't know."
+    f ""
+
+# game/scripts/clone_events.rpy:303
+translate schinese twin_recruit_1fce63b5:
+
+    # siri "Your policies are amazing, father. People have been wanting better education for decades... you'll win, no doubt."
+    siri ""
+
+# game/scripts/clone_events.rpy:304
+translate schinese twin_recruit_0a5965ac:
+
+    # num "Thorne is quite divisive as well. If you can unify the people, you'll have a good chance."
+    num ""
+
+# game/scripts/clone_events.rpy:305
+translate schinese twin_recruit_e43fb1d2:
+
+    # siri "So long as you can ignore the slavery issue and press education, I think you'll win the hearts and minds of both sides."
+    siri ""
+
+# game/scripts/clone_events.rpy:307
+translate schinese twin_recruit_957ede62:
+
+    # stoneface "Yes, abolitionists tend to be college students, those who would benefit from my policies most of all."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:308
+translate schinese twin_recruit_8f19dd71:
+
+    # stoneface "However, slaveholders tend to be anti-education. Winning their hearts will be most difficult of all. It won't be enough to simply ignore the slavery issue... we must support it."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:309
+translate schinese twin_recruit_5a163b0a:
+
+    # siri "...You're going to run on a pro-slavery ticket?"
+    siri ""
+
+# game/scripts/clone_events.rpy:310
+translate schinese twin_recruit_4bfb6cba:
+
+    # stoneface "That's correct. Though the status quo will remain."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:311
+translate schinese twin_recruit_0e9bc1f3:
+
+    # stoneface "What happens to the elves is none of my concern, nor does it require my attention. We will simply adopt the popular rhetoric and use it to our advantage."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:312
+translate schinese twin_recruit_47ff5fdc:
+
+    # ron "What's in it for us, though? If you're gonna leave the family to Siri, you gotta have some plans for us, right?"
+    ron ""
+
+# game/scripts/clone_events.rpy:314
+translate schinese twin_recruit_cf940430:
+
+    # stoneface "Yes. Ron, I would like one of your restaurants in every community college we build."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:315
+translate schinese twin_recruit_ba9c570d:
+
+    # ron "Oh hell yeah!"
+    ron ""
+
+# game/scripts/clone_events.rpy:316
+translate schinese twin_recruit_548f88bc:
+
+    # stoneface "Makoa, I would select you to be my Attorney General. And Numbers, I would choose you to be my Secretary of the Treasury."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:317
+translate schinese twin_recruit_2ce5c464:
+
+    # num "Hm, fitting."
+    num ""
+
+# game/scripts/clone_events.rpy:319
+translate schinese twin_recruit_054967d7:
+
+    # stoneface "And felicity..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:320
+translate schinese twin_recruit_3ec57d49_7:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:321
+translate schinese twin_recruit_025fb944:
+
+    # stoneface "I would like you to be my campaign manager. Preferrably alongside Emma..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:322
+translate schinese twin_recruit_3ec57d49_8:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:323
+translate schinese twin_recruit_82bbc8d6:
+
+    # siri "{i}Felicity...!{/i}"
+    siri ""
+
+# game/scripts/clone_events.rpy:324
+translate schinese twin_recruit_f9fa0801:
+
+    # stoneface "...It's no matter. Give her the time and space she requires. I'm sure this whole situation is a lot for her..."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:325
+translate schinese twin_recruit_4e6f37e4:
+
+    # stoneface "In any case, it seems the rest of us are in agreement. I will continue with the plan, and will expect each of you to play your roles appropriately."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:327
+translate schinese twin_recruit_f81012d8:
+
+    # stoneface "Sirona, you are now The Boss. The Ascendants are yours."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:328
+translate schinese twin_recruit_73fd10d3:
+
+    # stoneface "With that, this meeting is adjourned.\nWe have a big day ahead of us, and a campaign to plan for. Work hard, and our dreams will become a reality."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:330
+translate schinese twin_recruit_b684f2f7:
+
+    # stoneface "Felicity... I expect an answer from you within three days. Do not disappoint me."
+    stoneface ""
+
+# game/scripts/clone_events.rpy:331
+translate schinese twin_recruit_3ec57d49_9:
+
+    # f "..."
+    f ""
+
+# game/scripts/clone_events.rpy:335
+translate schinese twin_recruit_1fc1436e:
+
+    # r "v0.19: Because Harem Hotel is still in development, and the next event has not been made yet, you will be returned to the hotel as if this did not happen so you may continue to interact with Felicity."
+    r ""
+

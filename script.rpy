@@ -99353,7 +99353,7 @@ translate schinese strings:
 
     # game/script.rpy:8140
     old "I don't trust him, let's go home."
-    new "我不相信他,我们回家把."
+    new "我不相信他,我们回家吧."
 
     # game/script.rpy:8231
     old "I don't have time right now"
@@ -110015,4 +110015,742 @@ translate schinese strings:
     # game/script.rpy:20723
     old "You may now continue Lin's story from here or at her door.\nIt is recommended to play this event last."
     new "你现在可以在林的门前继续她的故事.\n推荐最后再游玩这个事件."
+
+# TODO: Translation updated at 2025-08-27 23:34
+
+# game/script.rpy:2888
+translate schinese lobby2_7344295e:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/script.rpy:4751
+translate schinese billad_73305d85:
+
+    # c "The second floor is done! We just need carpets, beds, and some furnishings."
+    c "2楼已经完成了!我们只需要地毯,床和一些家具."
+
+# game/script.rpy:4752
+translate schinese billad_a15302f8:
+
+    # e "Absolutely. May I take the liberties of decoration?"
+    e "当然可以.可以让我自己去装修一下吗?"
+
+# game/script.rpy:4753
+translate schinese billad_4e8c7062:
+
+    # c "Of course."
+    c "没问题."
+
+# game/script.rpy:4754
+translate schinese billad_384f9d92:
+
+    # e "Perfect~!\n*ahem*... I'll make sure to get it delivered and placed tomorrow."
+    e "完美~!\n*哈欠*......我会确保明天东西送来之后都摆放到位."
+
+# game/script.rpy:4760
+translate schinese billad_373c8dd7:
+
+    # e "Oh you're interested in expanding the hotel?"
+    e "哦,你想扩张一下酒店?"
+
+# game/script.rpy:4763
+translate schinese billad_8bbfd7b9:
+
+    # c "Yeah, I think it's time we get some more rooms."
+    c "是的,我们是时候需要更多房间了."
+
+# game/script.rpy:4764
+translate schinese billad_4fc1e11a:
+
+    # e "Very well, I'll contact a construction company right away! Construction should take a few days."
+    e "好的,我马上联系建筑公司!施工预计需要几天时间."
+
+# game/script.rpy:4765
+translate schinese billad_20a3d281:
+
+    # c "Thanks, Ellen."
+    c "谢谢你,艾兰."
+
+# game/script.rpy:4877
+translate schinese floor2construction_e29dd712:
+
+    # c "Making progress..."
+    c "有点进展......"
+
+# game/script.rpy:4884
+translate schinese floor2construction_61efaf6f:
+
+    # c "Not bad..."
+    c "还不错......"
+
+# game/script.rpy:4891
+translate schinese floor2construction_180c11ef:
+
+    # c "Almost done!"
+    c "快完成了!"
+
+# game/script.rpy:4898
+translate schinese floor2construction_fa3c6bc6:
+
+    # c "It's done! I should go to Ellen to purchase detailing."
+    c "完成了!我得去艾兰那里买点装修用的东西."
+
+# game/script.rpy:4905
+translate schinese floor2construction_12a5a6d4:
+
+    # c "Can't wait for that detailing to be done..."
+    c "等不及装修完成了......"
+
+# game/script.rpy:5927
+translate schinese twin_door_menu_3d94dbf4:
+
+    # c "...\n(We really need to find Felicity. I'll give her another day and come back to check on her.)"
+    c "......\n(我们真的需要找到菲丽希蒂.我得给她时间之后再回来看看她.)"
+
+# game/script.rpy:10914
+translate schinese expl_beach3_abf34b41:
+
+    # crowd "Nero! Nero! Nero!"
+    crowd "尼禄!尼禄!尼禄!"
+
+# game/script.rpy:10915
+translate schinese expl_beach3_727ea837:
+
+    # c "...What's going on here?"
+    c "......发生什么事了?"
+
+# game/script.rpy:10917
+translate schinese expl_beach3_17974531:
+
+    # drone "Great question, citizen!"
+    drone "问得好,公民!"
+
+# game/script.rpy:10918
+translate schinese expl_beach3_cef151d4:
+
+    # c "{i}What the fuck.{/i}"
+    c "{i}什么鬼.{/i}"
+
+# game/script.rpy:10919
+translate schinese expl_beach3_d7aef3b6:
+
+    # drone "Welcome to the Nero Incorporated product presentation event! A highly anticipated annual showcase of the best tech in the world!"
+    drone "欢迎参加尼禄公司产品发布会!这场备受期待的年度盛会将展示全球顶尖的科技!"
+
+# game/script.rpy:10920
+translate schinese expl_beach3_daed2c99:
+
+    # drone "Potential customer, may I interest you in a FREE Nero coffee mug?"
+    drone "尊敬的潜在客户,您是否对{b}免费{/b}赠送的尼禄咖啡杯感兴趣?"
+
+# game/script.rpy:10921
+translate schinese expl_beach3_9d6367c8:
+
+    # c "...What's the catch?"
+    c "......这里面有什么猫腻吗?"
+
+# game/script.rpy:10922
+translate schinese expl_beach3_c4a76d42:
+
+    # drone "No catch! Simply enjoy this new mind-expanding advertisement! You'll be left astonished, guaranteed!"
+    drone "完全没有!尽情享受这则开拓思维的新广告吧!保证让您惊叹不已!"
+
+# game/script.rpy:10923
+translate schinese expl_beach3_64421491:
+
+    # c "So there is a catch...\nUhh, yeah okay. I guess I could use a new mug."
+    c "所以这就是猫腻......\n呃,好吧.我大概也该买个新咖啡杯了."
+
+# game/script.rpy:10924
+translate schinese expl_beach3_b49161c4:
+
+    # drone "Fantastic! Please step forward into the predesignated consumer viewing zone. I will be monitoring your attention closely!"
+    drone "太棒了!请移步至预先划定的消费者观赏区.我将密切关注您的注意!"
+
+# game/script.rpy:10925
+translate schinese expl_beach3_f36518b8:
+
+    # c "That's... not unsettling at all.\nAlright, show me what everyone is so excited for."
+    c "这......还真是一点都不让人不安呢.\n好吧,让我看看大家都在兴奋些什么吧."
+
+# game/script.rpy:10927
+translate schinese expl_beach3_6c693be0:
+
+    # announcer "{i}{size=-5}What? It's starting? O-Okay! Yeah! {/i}{/size}\nEnjoy, everyone!"
+    announcer "{i}{size=-5}什么?开始了?好-好的!是的!{/i}{/size}\n大家好好享受吧!"
+
+# game/script.rpy:10928
+translate schinese expl_beach3_93c2689b:
+
+    # crowd "Woooo!\nYessss!!!\nLet's go! Let's go!\nGIVE US THE SEX BOTS!"
+    crowd "喔!\n是的!!!\n来吧!来吧!\n{b}我们要性爱机器人!{/b}"
+
+# game/script.rpy:10930
+translate schinese expl_beach3_ff1a7088:
+
+    # crowd "SHH! Shhh! It's about to start!"
+    crowd "{b}嘘!{/b}嘘!要开始了!"
+
+# game/script.rpy:10932
+translate schinese expl_beach3_67d19da6:
+
+    # announcer "Thirty years ago, Julius Trenero saved the world with his nano-tech. Since then, he has improved your life in more ways than one. Nero technology is in {i}everything!{/i}"
+    announcer "三十年前,朱利叶斯·特内罗凭借纳米技术拯救了世界.此后,他以多种方式改善了你们的生活.尼禄科技{i}无处{/i}不在!"
+
+# game/script.rpy:10934
+translate schinese expl_beach3_4f2e1606:
+
+    # "*deep bass sound effect plays*" with ssshake
+    "*低沉的贝斯声*" with ssshake
+
+# game/script.rpy:10935
+translate schinese expl_beach3_cbc46dc5:
+
+    # crowd "WOOO!!!\nYEAH! I GOT THOSE! I GOT THOSE!"
+    crowd "{b}喔!!!\n是的!我有这个!我有这个!{/b}"
+
+# game/script.rpy:10936
+translate schinese expl_beach3_6ecf9a54:
+
+    # announcer "Twelve years ago he revolutionized the world again by bringing you the first smart glasses. Combining sight correction, sunglasses, night vision, and a real-time translator into one single device."
+    announcer "十二年前,他再次颠覆世界,推出首款智能眼镜.将视力矫正,太阳镜,夜视功能与实时翻译融为一体."
+
+# game/script.rpy:10938
+translate schinese expl_beach3_6b592dbb:
+
+    # announcer "Nero's inventions aren't just ground-breaking, they bring us together in ways we never thought possible. His next creation is no exception."
+    announcer "尼禄的发明不仅有开创性,更以我们从未想象过的方式将我们凝聚在一起.他的下一个创造也不例外."
+
+# game/script.rpy:10939
+translate schinese expl_beach3_9cb7ec59:
+
+    # crowd "YESSS!! GIVE IT TO MEEE!!\nX-Ray vision! Ohhhh please X-Ray vision!!\nSEX BOT! SEX BOT! SEX BOT!"
+    crowd "{b}是的!!给我们吧!!{/b}\nX光视觉!哦,求你了,X光视觉!!\n{b}性爱机器人!性爱机器人!性爱机器人!{/b}"
+
+# game/script.rpy:10941
+translate schinese expl_beach3_a655ed04:
+
+    # announcer "Introducing..."
+    announcer "隆重介绍......"
+
+# game/script.rpy:10943
+translate schinese expl_beach3_4af7ef52:
+
+    # announcer "Nero Coin."
+    announcer "尼禄币."
+
+# game/script.rpy:10944
+translate schinese expl_beach3_29576c75:
+
+    # crowd "...?"
+    crowd "......?"
+
+# game/script.rpy:10946
+translate schinese expl_beach3_f67063ed:
+
+    # announcer "{size=+7}{b}2.0!!!{/b}{/size}" with ssshake
+    announcer "{size=+7}{b}2.0!!!{/b}{/size}" with ssshake
+
+# game/script.rpy:10948
+translate schinese expl_beach3_60eedf26:
+
+    # crowd "HOLY SHIT! HOLY SHIT!!!\nNO FUCKING WAY! OH MY GOD!!!\nYES! YES! YESSSS!!!"
+    crowd "{b}我操!我操!!!\n不可能!哦我天!!!\n是的!是的!是的!!!{/b}"
+
+# game/script.rpy:10949
+translate schinese expl_beach3_ab0f1f23:
+
+    # c "{i}(The fuck?){/i}"
+    c "{i}(什么鬼?){/i}"
+
+# game/script.rpy:10951
+translate schinese expl_beach3_04b49999:
+
+    # crowd "Buy it! Now, now, now!!\nFUCK! I CAN'T LOG IN!\nI already made a tenth of crown, yessssss!"
+    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{b}\n我已经转到十分之一的皇冠币了,太好了!"
+
+# game/script.rpy:10953
+translate schinese expl_beach3_2fd9c094:
+
+    # kd "Hi. I'm Julius Trenero. Mayor of The Capitol, and CEO of Nero Inc."
+    kd "大家好.我是朱利叶斯·特内罗.开普陀市的市长,也是尼禄公司的CEO."
+
+# game/script.rpy:10954
+translate schinese expl_beach3_b1fced44:
+
+    # kd "With NeroCoin 2.0, you're not just saving money. You're funding the future! Every transaction helps us send humanity to new worlds... one discount at a time!"
+    kd "使用尼禄币2.0,你不仅是在省钱,更是在为未来投资!每一笔交易都主力我们将人类送往新世界....."
+
+# game/script.rpy:10955
+translate schinese expl_beach3_c548ea2b:
+
+    # kd "Be a part of history. Ride the rocket of innovation!"
+    kd "成为历史的一部分,驾驭创新的火箭吧!"
+
+# game/script.rpy:10956
+translate schinese expl_beach3_5484e16f:
+
+    # kd "Please enjoy this ad."
+    kd "请享受这份广告吧."
+
+# game/script.rpy:10959
+translate schinese expl_beach3_9d833c9f:
+
+    # elf "I'm doing my part!"
+    elf "我尽了我的一份力!"
+
+# game/script.rpy:10960
+translate schinese expl_beach3_8b1ce33a:
+
+    # announcer "{size=-10}{i}Brought to you by the elves of Syl'anar.{/i}{/size}"
+    announcer "{size=-10}{i}由西尔阿纳尔的精灵为您呈现.{/i}{/size}"
+
+# game/script.rpy:10963
+translate schinese expl_beach3_baf45b05:
+
+    # actor "I'll have one juicy burger, please!"
+    actor "请给我来一份多汁汉堡!"
+
+# game/script.rpy:10964
+translate schinese expl_beach3_3c2c3d8f:
+
+    # elf "With pleasure! Scan when you're ready."
+    elf "乐意效劳!当你准备好后,请扫码付款吧."
+
+# game/script.rpy:10966
+translate schinese expl_beach3_2f6631c0:
+
+    # actor "I can't wait for that burger!"
+    actor "我等不及要享用我的汉堡了!"
+
+# game/script.rpy:10968
+translate schinese expl_beach3_cf45164e:
+
+    # actor "What!?"
+    actor "什么!?"
+
+# game/script.rpy:10970
+translate schinese expl_beach3_1a3dfa8e:
+
+    # actor "Card declined? Credit limit reached? This can't be!"
+    actor "刷卡失败?额度已满?这不可能!"
+
+# game/script.rpy:10972
+translate schinese expl_beach3_1ba1550d:
+
+    # card "Use me! Use me!"
+    card "用我!用我!"
+
+# game/script.rpy:10973
+translate schinese expl_beach3_b458c672:
+
+    # actor "That's right! I'm a platinum investor in NeroCoin, I have the Nero Coin Black Card!"
+    actor "没错!我是尼禄币的白金级投资者,我持有尼禄币黑卡!"
+
+# game/script.rpy:10975
+translate schinese expl_beach3_154ac356:
+
+    # actor "Hmph. Try this..."
+    actor "哼.试试这个......"
+
+# game/script.rpy:10976
+translate schinese expl_beach3_1c1e4ce3:
+
+    # elf "You have the Nero Coin Black Card? Wow!"
+    elf "你有尼禄币黑卡?哇哦!"
+
+# game/script.rpy:10978
+translate schinese expl_beach3_44338b88:
+
+    # card "Card approved!"
+    card "卡已通过验证!"
+
+# game/script.rpy:10980
+translate schinese expl_beach3_f90489cb:
+
+    # card "It's sustainable!"
+    card "它是可持续的!"
+
+# game/script.rpy:10982
+translate schinese expl_beach3_2b856d84:
+
+    # card "With massive discounts at participating stores and restaurants!"
+    card "参与活动的商店和餐厅将提供大幅折扣!"
+
+# game/script.rpy:10983
+translate schinese expl_beach3_8ab7856b:
+
+    # actor "Yes!!"
+    actor "太好了!!"
+
+# game/script.rpy:10985
+translate schinese expl_beach3_c41b355c:
+
+    # actor "With the Nero Coin Black Card, you can say goodbye to credit limits and rest assured that you'll always be able to afford what you need."
+    actor "使用尼禄币黑卡,告别信用额度限制,买你所需."
+
+# game/script.rpy:10986
+translate schinese expl_beach3_1c94a8c3:
+
+    # actor "With NeroCoin 2.0, you're not just saving money. You're funding the future! It's not just a currency, it's a way of life."
+    actor "尼禄币2.0,不止是省钱,更是在投资未来!它不只是一种货币,更是一种生活方式."
+
+# game/script.rpy:10987
+translate schinese expl_beach3_faeebdd7:
+
+    # actor "But don't just take my word for it. Here's what other people are saying!"
+    actor "但别只听我一个人的说法.看看其他人怎么说吧!"
+
+# game/script.rpy:10989
+translate schinese expl_beach3_913e4cd7:
+
+    # man "I used to own a savings account, now I own the future!"
+    man "我曾经拥有一个储蓄账户,而现在我拥有了未来!"
+
+# game/script.rpy:10991
+translate schinese expl_beach3_aa8fccfe:
+
+    # man "Well they took away our bathroom breaks, but started paying us in NeroCoin 2.0! I'd call that a fair trade."
+    man "他们取消了我们上厕所的时间,但是开始用尼禄币2.0支付功之!我觉得很值."
+
+# game/script.rpy:10993
+translate schinese expl_beach3_6c64141d:
+
+    # man "Buy NeroCoin you fucking beta! Take control of your finances like a man!"
+    man "快来买尼禄币吧,弱者!像个男人一样掌控你的财务!"
+
+# game/script.rpy:10995
+translate schinese expl_beach3_15359774:
+
+    # announcer "No matter where you are, no matter where you go, NeroCoin will be there for you."
+    announcer "无论你身在何处,无论你前往何方,尼禄币都将伴你左右."
+
+# game/script.rpy:10996
+translate schinese expl_beach3_f6ec504b:
+
+    # announcer "Conquer your finances. Rule your world. NeroCoin."
+    announcer "掌控你的财务.主宰你的世界.这就是尼禄币."
+
+# game/script.rpy:10998
+translate schinese expl_beach3_d19f855d:
+
+    # c "..."
+    c "......"
+
+# game/script.rpy:11000
+translate schinese expl_beach3_3ce7a420:
+
+    # c "...What did I just watch?"
+    c "......我刚刚看的都是啥啊?"
+
+# game/script.rpy:11001
+translate schinese expl_beach3_804dc337:
+
+    # crowd "WOOO!!!! YEAH!\nI'm dumping everything into NeroCoin!\nThe value just keeps going up! Fuck yes!"
+    crowd "{b}喔!!!商店!\n我要把我所有的资金都砸进尼禄币!\n它的价值在持续飙升!操,太爽啦!"
+
+# game/script.rpy:11002
+translate schinese expl_beach3_184fb76d:
+
+    # c "Am I the only one...?"
+    c "难道我是唯一一个......?"
+
+# game/script.rpy:11003
+translate schinese expl_beach3_4a8fc947:
+
+    # q "Bullshit! Fuckin' bullshit!"
+    q "胡扯!都他妈是胡扯!"
+
+# game/script.rpy:11005
+translate schinese expl_beach3_4ce77e5e:
+
+    # c "Hm?"
+    c "嗯?"
+
+# game/script.rpy:11006
+translate schinese expl_beach3_43f8ed95:
+
+    # q "What the hells wrong with crowns? They actually have value!"
+    q "皇冠币有什么问题吗?它们可是有真正的价值的!"
+
+# game/script.rpy:11007
+translate schinese expl_beach3_f31897d5:
+
+    # q "Shut up old man! This is the future!"
+    q "闭嘴,老头!这是未来!"
+
+# game/script.rpy:11009
+translate schinese expl_beach3_13baa678:
+
+    # q "You're literally losing money if you don't convert to NeroCoin!"
+    q "如果你不把它们换成尼禄币,那你就是在亏钱了!"
+
+# game/script.rpy:11010
+translate schinese expl_beach3_7a39b9fe:
+
+    # q "UNTIL NERO SELLS ALL OF HIS, BOY! Stocks are nothing new!"
+    q "{b}然后尼禄把他所有的股票都卖光了,孩子!{/b}股票不是什么新鲜的东西!"
+
+# game/script.rpy:11011
+translate schinese expl_beach3_f3527abb:
+
+    # q "It's not a stock, asshole!"
+    q "这不是股票,混蛋!"
+
+# game/script.rpy:11012
+translate schinese expl_beach3_d423facd:
+
+    # c "Dude, it's just an ad."
+    c "哥们,那只是个广告而已."
+
+# game/script.rpy:11014
+translate schinese expl_beach3_7a1e8b85:
+
+    # q "No man, you don't understand! So what if he makes a little profit? That man single-handedly put men on our moons!"
+    q "不,兄弟,你不懂!他赚点小钱又如何?那家伙可是凭一己之力把人类送上了我们的月亮啊!"
+
+# game/script.rpy:11015
+translate schinese expl_beach3_a6abdeeb:
+
+    # c "He must have one really long arm then."
+    c "那他的胳膊一定很长."
+
+# game/script.rpy:11016
+translate schinese expl_beach3_b236dacd:
+
+    # q "You know what I mean bro..."
+    q "兄弟,你知道我在说什么......"
+
+# game/script.rpy:11018
+translate schinese expl_beach3_c9daac35:
+
+    # q "You haven't joined yet, have you? Here, let me refer you!"
+    q "你还没加入,对吧?来吧,我帮你推荐!"
+
+# game/script.rpy:11019
+translate schinese expl_beach3_c368bcd2:
+
+    # c "No, no... I'm good."
+    c "不,不必了......我很好."
+
+# game/script.rpy:11020
+translate schinese expl_beach3_20d745f4:
+
+    # q "Dude, come on! You'll love it. We'll both get 0.005 NeroCoins! That's a lot!"
+    q "伙计,别这样!你会爱上它的.我们都会获得0.005个尼禄币!很多的!"
+
+# game/script.rpy:11021
+translate schinese expl_beach3_021d8fe2:
+
+    # c "Did we see the same ad? I'm not surrendering my soul to that bullshit."
+    c "我们看的是同一个广告吗?我可不会把我的灵魂交给那种狗屎."
+
+# game/script.rpy:11024
+translate schinese expl_beach3_69e4cac3:
+
+    # q "There you go, bro!"
+    q "好了,哥们!"
+
+# game/script.rpy:11026
+translate schinese expl_beach3_4fbc3d67:
+
+    # c "What the hell did you just do?"
+    c "你他妈干了什么?"
+
+# game/script.rpy:11027
+translate schinese expl_beach3_079ce137:
+
+    # q "Don't worry! Now you'll see exclusive offers everywhere you go. I'm saving you money, bro!"
+    q "别担心!现在你走到哪里都能看到独家优惠.兄弟,我可是在帮你省钱呢!"
+
+# game/script.rpy:11028
+translate schinese expl_beach3_82b36615:
+
+    # c "I swear to god, if I see one-"
+    c "我对天发誓,如果我看到-"
+
+# game/script.rpy:11029
+translate schinese expl_beach3_64f12856:
+
+    # "*ding!*"
+    "*叮!*"
+
+# game/script.rpy:11030
+translate schinese expl_beach3_d19f855d_1:
+
+    # c "..."
+    c "......"
+
+# game/script.rpy:11032
+translate schinese expl_beach3_98064dbf:
+
+    # q "Enjoy it bro!"
+    q "好好享受吧,哥们!"
+
+# game/script.rpy:11033
+translate schinese expl_beach3_c8bd76a9:
+
+    # c "I'm not accepting that..."
+    c "我不会接受的......"
+
+# game/script.rpy:11035
+translate schinese expl_beach3_5a563422:
+
+    # q "What? Dude, come on! Accept it! I really need that shit!"
+    q "什么?哥们,来嘛!接受吧!我真的很需要这个东西!"
+
+# game/script.rpy:11036
+translate schinese expl_beach3_93d3c654:
+
+    # c "Why do you care so much? I don't want this on my phone."
+    c "你这么关心它干嘛?我不想要在手机上装这个软剑."
+
+# game/script.rpy:11037
+translate schinese expl_beach3_b212a080:
+
+    # q "I need to pay off my NeroChip, man! NeroCoin dropped a lot ever since I bought into it..."
+    q "我得还清我的尼禄贷啊伙计!自从我买了尼禄币之后,它的价格就一直暴跌......"
+
+# game/script.rpy:11038
+translate schinese expl_beach3_9d1dad61:
+
+    # q "But it's already coming back up because of the ad! It's the perfect time to buy!"
+    q "但是广告之后它已经开始回升了!正是买入的好时机!"
+
+# game/script.rpy:11039
+translate schinese expl_beach3_d19f855d_2:
+
+    # c "..."
+    c "......"
+
+# game/script.rpy:11041
+translate schinese expl_beach3_0da029ec:
+
+    # c "Fuck this shit."
+    c "滚他妈的蛋."
+
+# game/script.rpy:11042
+translate schinese expl_beach3_68cc0516:
+
+    # q "What!? Hey, where are you going? Hey!"
+    q "什么!?嘿,你要去哪里?嘿!"
+
+# game/script.rpy:11044
+translate schinese expl_beach3_c657494a:
+
+    # c "*sigh*... Now I need a new phone."
+    c "*叹气*......现在我需要一部新手机."
+
+# game/script.rpy:11046
+translate schinese expl_beach3_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    "你在探索过程中使用了1点行动点."
+
+# game/script.rpy:11049
+translate schinese expl_beach3_6b4615f0:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
+
+# game/script.rpy:11051
+translate schinese expl_beach3_6b4615f0_1:
+
+    # "(Money: $[money])\n(AP: [action_points]/3)"
+    "(钱:[money]$)\n(行动点:[action_points]/3)"
+
+# game/script.rpy:11053
+translate schinese expl_beach3_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c "我累了......我现在应该回去了.\n(钱:[money]$)\n(行动点:[action_points]/3)"
+
+# game/script.rpy:15199
+translate schinese berns_756a38cf_1:
+
+    # r "End of The Forge content... for now."
+    r "锻·炼健身房的内容结束了......暂时的."
+
+# game/script.rpy:16435
+translate schinese out2_2ad5aa10_1:
+
+    # r "End of Beach content... for now."
+    r "海滩的内容结束了......暂时的."
+
+# game/script.rpy:16448
+translate schinese out2_58951017_1:
+
+    # r "End of Church content... for now."
+    r "教堂的内容结束了......暂时的."
+
+# game/script.rpy:20005
+translate schinese yourroom_517be7e2:
+
+    # "After restless nights of banging, hammering, and sawing, the second floor is complete!"
+    "经过无数个彻夜不停的敲打,锤击和锯切,2楼终于完工了!"
+
+# game/script.rpy:20009
+translate schinese yourroom_acf26ab2:
+
+    # "Construction on the second floor has progressed!"
+    "2楼的施工进展顺利!"
+
+# game/script.rpy:20013
+translate schinese yourroom_acf26ab2_1:
+
+    # "Construction on the second floor has progressed!"
+    "2楼的施工进展顺利!"
+
+# game/script.rpy:20017
+translate schinese yourroom_acf26ab2_2:
+
+    # "Construction on the second floor has progressed!"
+    "2楼的施工进展顺利!"
+
+# game/script.rpy:27326
+translate schinese checkdone_dde8b1d4:
+
+    # r "Felicity & Emma's story is not done, more will be added to them in v0.20!"
+    r "菲丽希蒂和艾玛的故事还未结束,她的更多内容会在v0.19中增加!"
+
+# game/script.rpy:32106
+translate schinese passout_4bd5823d:
+
+    # "The second floor is now ready to be used!"
+    "2楼现在可以使用了!"
+
+translate schinese strings:
+
+    # game/script.rpy:83
+    old "Papa Ron"
+    new "罗恩老爹"
+
+    # game/script.rpy:84
+    old "Makoa"
+    new "毛加"
+
+    # game/script.rpy:3676
+    old "The Bar ($1500)"
+    new "酒吧(1500$)"
+
+    # game/script.rpy:3676
+    old "Floor 2 Detailing ($100)"
+    new "2楼装修(100$)"
+
+    # game/script.rpy:3676
+    old "Floor 2 ($250)"
+    new "2楼(250$)"
+
+    # game/script.rpy:15049
+    old "{color=#8C8C8C}Visit The Forge{/color}"
+    new "{color=#8C8C8C}前往锻·炼健身房{/color}"
+
+    # game/script.rpy:16417
+    old "{color=#8C8C8C}Visit the Beach{/color}"
+    new "{color=#8C8C8C}前往海滩{/color}"
+
+    # game/script.rpy:16417
+    old "{color=#8C8C8C}Visit the Church{/color}"
+    new "{color=#8C8C8C}前往教堂{/color}"
 

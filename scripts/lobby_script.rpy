@@ -2273,3 +2273,23 @@ translate schinese lobby_lin_talk_cf69177f_1:
     # l "Hello, [linoname]!"
     l "你好,[linoname]!"
 
+# TODO: Translation updated at 2025-08-27 23:34
+
+# game/scripts/lobby_script.rpy:599
+translate schinese icecream_3fef6255:
+
+    # c "Ice cream, huh? I wonder whose idea it was to put this in..."
+    c "冰淇淋,嗯?不知道是谁把这玩意放这里的......"
+
+# game/scripts/lobby_script.rpy:600
+translate schinese icecream_e66c34a3:
+
+    # c "...Hm, I wonder if anyone has collected the money in it?"
+    c "......嗯,不知道有没有人收过这里面的钱?"
+
+# game/scripts/lobby_script.rpy:605
+translate schinese icecream_14b9a0a8:
+
+    # c "Woah, $50! Nice!"
+    c "喔,50$!太好了!"
+

@@ -58558,3 +58558,71 @@ translate schinese strings:
     old "{color=#8C8C8C}> Cutiepie Outfit <{/color}"
     new "{color=#8C8C8C}> 情人套装 <{/color}"
 
+# TODO: Translation updated at 2025-08-27 23:34
+
+# game/scripts/lin_events.rpy:11426
+translate schinese queentalk_7f846447:
+
+    # jia "Listen, Lin! There are islands, not too big but it's not small either! They're to the west! But much more north than where we are! That's where the Alosi are!"
+    jia "听着,林!有一个不大不小的群岛!在西边!但是比我们现在的位置北很多!那里就是高精灵居住的地方!"
+
+# game/scripts/lin_events.rpy:11428
+translate schinese queentalk_11c33de5:
+
+    # jia "The islands known as Syl'iath!"
+    jia "那个群岛叫西尔亚斯!"
+
+# game/scripts/lin_events.rpy:11429
+translate schinese queentalk_71bc4c9a:
+
+    # l "'Elves of the shattered land'?"
+    l "'碎地精灵'?"
+
+# game/scripts/lin_events.rpy:11433
+translate schinese queentalk_87d2c05d:
+
+    # l "Islands? You mean there's more like Sylvia? And nobody has found them?"
+    l "群岛?你是说那里有更多像西尔维娅一样的精灵?而且还从来没有人发现他们过?"
+
+# game/scripts/lin_events.rpy:11436
+translate schinese queentalk_8dacf794:
+
+    # jia "But the more informed would tell you that they've got an ace in their sleeve. They don't let anyone live that gets too close, anyway..."
+    jia "但有些知情人士说,他们还藏着一张王牌.而且,对于那些靠得太近的人,他们基本都没有放过."
+
+# game/scripts/lin_events.rpy:11440
+translate schinese queentalk_63a7cceb:
+
+    # l "You know a different queen? I thought you were the only one..."
+    l "你认识另一个女王?我以为你是唯一一个女王......"
+
+# game/scripts/lin_events.rpy:11443
+translate schinese queentalk_dd1caf01:
+
+    # jia "Anyway, if you really wanted to start a war, I guess you could team up with them and kill all the humans. Solid plan, right Syl?"
+    jia "反正,如果你真想挑起战争,你大可以和他们联手杀光所有人类.这是个很周全的计划,对吧,精灵?"
+
+# game/scripts/lin_events.rpy:11444
+translate schinese queentalk_101a826c:
+
+    # l "No! Not at all! I don't want anyone to get hurt!"
+    l "不!完全不!我不想让任何人受伤!"
+
+# game/scripts/lin_events.rpy:11448
+translate schinese queentalk_51804d77:
+
+    # l "Wait! Where is their capital?"
+    l "等待!他们的首都在哪里?"
+
+# game/scripts/lin_events.rpy:11454
+translate schinese queentalk_9549d645:
+
+    # l "That's not very helpful..."
+    l "这并不能帮到我....."
+
+# game/scripts/lin_events.rpy:11465
+translate schinese queentalk_907f2196:
+
+    # c "I'm happy for you. Why don't we get out of here? It's about time to head home."
+    c "我为你感到搞笑.我们离开吧?差不多该回家了."
+

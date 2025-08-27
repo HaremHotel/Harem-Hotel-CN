@@ -3851,3 +3851,15 @@ translate schinese strings:
     old "Normalized"
     new "统一"
 
+# TODO: Translation updated at 2025-08-27 23:35
+
+translate schinese strings:
+
+    # game/scripts/screens.rpy:9423
+    old "Aaron Beaumont convinces you to join him for a meal, where you discover that he is The Ascendants boss; Stoneface.\n\nMeanwhile, Stoneface sends his first-born daughter to collect Felicity and Emma, but only manages to capture Felicity."
+    new "亚伦·博蒙特说服你与他共进晚餐,在那里,你发现他正是“擢升者”的老大“石面”.与此同时,石面派他的长女去抓费利西蒂和艾玛,但最终只抓到了费利西蒂."
+
+    # game/scripts/screens.rpy:9442
+    old "Felicity & Emma's Story in v0.17"
+    new "v0.17中菲丽希蒂和艾玛的故事"
+
