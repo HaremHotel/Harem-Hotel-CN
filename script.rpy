@@ -110268,7 +110268,7 @@ translate schinese expl_beach3_ab0f1f23:
 translate schinese expl_beach3_04b49999:
 
     # crowd "Buy it! Now, now, now!!\nFUCK! I CAN'T LOG IN!\nI already made a tenth of crown, yessssss!"
-    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{b}\n我已经转到十分之一的皇冠币了,太好了!"
+    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{b}\n我已经赚到十分之一的皇冠币了,太好了!"
 
 # game/script.rpy:10953
 translate schinese expl_beach3_2fd9c094:
@@ -110280,7 +110280,7 @@ translate schinese expl_beach3_2fd9c094:
 translate schinese expl_beach3_b1fced44:
 
     # kd "With NeroCoin 2.0, you're not just saving money. You're funding the future! Every transaction helps us send humanity to new worlds... one discount at a time!"
-    kd "使用尼禄币2.0,你不仅是在省钱,更是在为未来投资!每一笔交易都主力我们将人类送往新世界....."
+    kd "使用尼禄币2.0,你不仅是在省钱,更是在为未来投资!每一笔交易都将助力我们将人类送往新世界....."
 
 # game/script.rpy:10955
 translate schinese expl_beach3_c548ea2b:
@@ -110412,7 +110412,7 @@ translate schinese expl_beach3_913e4cd7:
 translate schinese expl_beach3_aa8fccfe:
 
     # man "Well they took away our bathroom breaks, but started paying us in NeroCoin 2.0! I'd call that a fair trade."
-    man "他们取消了我们上厕所的时间,但是开始用尼禄币2.0支付功之!我觉得很值."
+    man "他们取消了我们上厕所的时间,但是开始用尼禄币2.0支付工资!我觉得很值."
 
 # game/script.rpy:10993
 translate schinese expl_beach3_6c64141d:
@@ -110448,7 +110448,7 @@ translate schinese expl_beach3_3ce7a420:
 translate schinese expl_beach3_804dc337:
 
     # crowd "WOOO!!!! YEAH!\nI'm dumping everything into NeroCoin!\nThe value just keeps going up! Fuck yes!"
-    crowd "{b}喔!!!商店!\n我要把我所有的资金都砸进尼禄币!\n它的价值在持续飙升!操,太爽啦!"
+    crowd "{b}喔!!!太好了!\n我要把我所有的资金都砸进尼禄币!\n它的价值在持续飙升!操,太爽啦!"
 
 # game/script.rpy:11002
 translate schinese expl_beach3_184fb76d:
@@ -110604,7 +110604,7 @@ translate schinese expl_beach3_5a563422:
 translate schinese expl_beach3_93d3c654:
 
     # c "Why do you care so much? I don't want this on my phone."
-    c "你这么关心它干嘛?我不想要在手机上装这个软剑."
+    c "你这么关心它干嘛?我不想要在手机上装这个软件."
 
 # game/script.rpy:11037
 translate schinese expl_beach3_b212a080:
@@ -110725,10 +110725,6 @@ translate schinese strings:
     # game/script.rpy:83
     old "Papa Ron"
     new "罗恩老爹"
-
-    # game/script.rpy:84
-    old "Makoa"
-    new "毛加"
 
     # game/script.rpy:3676
     old "The Bar ($1500)"

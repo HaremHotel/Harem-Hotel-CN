@@ -13869,7 +13869,7 @@ translate schinese twin_gym_def2fe0e:
 translate schinese twin_gym_32bd461e:
 
     # kate "And [name], it's nice to see that you haven't been discouraged to visit a gym after our last session."
-    kate "还有[name],很高兴看到在我们上次会面后,你没有不来体育馆."
+    kate "还有,[name],很高兴看到你在我们上次会面后,依然能来体育馆."
 
 # game/scripts/clone_events.rpy:3765
 translate schinese twin_gym_dde9f638:
@@ -13881,7 +13881,7 @@ translate schinese twin_gym_dde9f638:
 translate schinese twin_gym_11b0deb7:
 
     # kate "It was a real one too, not something like this. I worked him so hard he could barely stand afterwards."
-    kate "那是一个真正的体育馆,不是像这样的东西.我把他弄得很辛苦,他都快站不住了."
+    kate "那是一个真正的体育馆,不是像这样的东西.我把他折腾得够呛,时候他都快站不住了."
 
 # game/scripts/clone_events.rpy:3767
 translate schinese twin_gym_083b90c1:
@@ -56128,1511 +56128,1511 @@ translate schinese strings:
 translate schinese twin_recruit_d19f855d:
 
     # c "..."
-    c ""
+    c "......"
 
 # game/scripts/clone_events.rpy:16
 translate schinese twin_recruit_ea8e6268:
 
     # em "{i}Go away...{/b}"
-    em ""
+    em "{i}走开......{/i}"
 
 # game/scripts/clone_events.rpy:18
 translate schinese twin_recruit_781d2407:
 
     # em "Nnngh...!"
-    em ""
+    em "呃......!"
 
 # game/scripts/clone_events.rpy:19
 translate schinese twin_recruit_7b9e62b1:
 
     # c "You can't stay in here all day, Emma..."
-    c ""
+    c "艾玛,你不能整天待在房间里......"
 
 # game/scripts/clone_events.rpy:20
 translate schinese twin_recruit_af9e0a50:
 
     # em "..."
-    em ""
+    em "......"
 
 # game/scripts/clone_events.rpy:21
 translate schinese twin_recruit_ee6096e4:
 
     # c "...I'm worried about Felicity too..."
-    c ""
+    c "......我也很担心菲丽希蒂......"
 
 # game/scripts/clone_events.rpy:22
 translate schinese twin_recruit_af9e0a50_1:
 
     # em "..."
-    em ""
+    em "......"
 
 # game/scripts/clone_events.rpy:23
 translate schinese twin_recruit_113e937f:
 
     # c "We're {i}all{/i} really worried about Felicity..."
-    c ""
+    c "我们真的{i}都{/i}很担心菲丽希蒂......"
 
 # game/scripts/clone_events.rpy:25
 translate schinese twin_recruit_da224ca3:
 
     # em "But she's my family! I've never been apart from her for so long...!"
-    em ""
+    em "但是她是我的家人!我从来没有和她分开这么久过......!"
 
 # game/scripts/clone_events.rpy:26
 translate schinese twin_recruit_0e6e5367:
 
     # c "*sigh*... I wish I could say I understand, but I know it must be so hard to lose someone like that."
-    c ""
+    c "*叹气*......我真希望我可以说我能理解你,但我知道失去这么亲近的人对你来说一定很困难."
 
 # game/scripts/clone_events.rpy:27
 translate schinese twin_recruit_5fed1265:
 
     # c "I don't know how, Emma, but we'll get her back. I promise..."
-    c ""
+    c "我不知道要怎么做,艾玛,但我们会带她回来的.我保证......"
 
 # game/scripts/clone_events.rpy:28
 translate schinese twin_recruit_a22aae4d:
 
     # em "*sniff*... Ngh... I hope so. I can't lose her..."
-    em ""
+    em "*抽泣*......呃......我希望如此.我不能失去她......"
 
 # game/scripts/clone_events.rpy:31
 translate schinese twin_recruit_3ec57d49:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:32
 translate schinese twin_recruit_3a275ed6:
 
     # f "...{i}What am I going to do...?{/i}"
-    f ""
+    f "......{i}我要怎么做......?{/i}"
 
 # game/scripts/clone_events.rpy:33
 translate schinese twin_recruit_726a53cb:
 
     # f "{i}Dad is going to kidnap Emma next...{/i}"
-    f ""
+    f "{i}爸爸就要去绑架艾玛了......{/i}"
 
 # game/scripts/clone_events.rpy:35
 translate schinese twin_recruit_3b4523b7:
 
     # f "{i}My own dad...{/i}"
-    f ""
+    f "{i}我的亲生父亲......{/i}"
 
 # game/scripts/clone_events.rpy:36
 translate schinese twin_recruit_aa208b6d:
 
     # f "*sigh*... {i}Maybe if I do what he says... he won't take Emma...{/i}"
-    f ""
+    f "*叹气*......{i}也许如果我按他说的去做......他就不会带走艾玛了......{/i}"
 
 # game/scripts/clone_events.rpy:37
 translate schinese twin_recruit_13edbc14:
 
     # f "{i}...I hate my new life...{/i}"
-    f ""
+    f "{i}......我恨我的新生活......{/i}"
 
 # game/scripts/clone_events.rpy:40
 translate schinese twin_recruit_3ec57d49_1:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:42
 translate schinese twin_recruit_045804f1:
 
     # f "...What do {i}you{/i} want."
-    f ""
+    f "......{i}你{/i}想要什么."
 
 # game/scripts/clone_events.rpy:44
 translate schinese twin_recruit_0ca5dfbf:
 
     # q "Aw, you poor thing... still sulking about your new luxury apartment?"
-    q ""
+    q "啊,可怜的家伙......还在为你的新豪宅闹别扭吗?"
 
 # game/scripts/clone_events.rpy:45
 translate schinese twin_recruit_950e7c7b:
 
     # f "Fuck off, Sirona."
-    f ""
+    f "滚开,希罗娜."
 
 # game/scripts/clone_events.rpy:46
 translate schinese twin_recruit_d5a2ca3b:
 
     # siri "I told you to call me Siri. We're sisters... and nobody calls me Sirona."
-    siri ""
+    siri "我告诉过你,你得叫我希瑞.我们是姐妹......而且没人管我叫希罗娜."
 
 # game/scripts/clone_events.rpy:47
 translate schinese twin_recruit_2fc626f5:
 
     # f "You're not my sister."
-    f ""
+    f "你不是我的姐妹."
 
 # game/scripts/clone_events.rpy:49
 translate schinese twin_recruit_b5dec7ff:
 
     # siri "Trust me. You're not the only one with that sentiment..."
-    siri ""
+    siri "相信我,有这种想法的不止你一个......."
 
 # game/scripts/clone_events.rpy:50
 translate schinese twin_recruit_9816c11d:
 
     # siri "Dad needs you. Come on."
-    siri ""
+    siri "爸爸需要你.来吧."
 
 # game/scripts/clone_events.rpy:51
 translate schinese twin_recruit_ccacb0fe:
 
     # f "Why the fuck would I help my kidnapper?"
-    f ""
+    f "为什么我他妈地要帮绑架我的人?"
 
 # game/scripts/clone_events.rpy:52
 translate schinese twin_recruit_78490231:
 
     # siri "Seriously? He took you back with open arms after you started whoring in that hotel. You should be grateful you don't have to do that shit anymore."
-    siri ""
+    siri "你认真的?你在那家酒店当妓女之后,他居然还肯张开双臂把你接回来.你应该庆幸自己不用再做那种勾当了."
 
 # game/scripts/clone_events.rpy:54
 translate schinese twin_recruit_b3e0baa8:
 
     # f "WHORING!? You took me from my boyfriend!"
-    f ""
+    f "{b}妓女!?{/b}你们把我从我男朋友身边带走了!"
 
 # game/scripts/clone_events.rpy:55
 translate schinese twin_recruit_23ce24d2:
 
     # siri "Felicity... You're too young to know what love is."
-    siri ""
+    siri "菲丽希蒂......你太年轻了,你不知道什么是爱."
 
 # game/scripts/clone_events.rpy:56
 translate schinese twin_recruit_46f66f2c:
 
     # f "How young do you think I am!?"
-    f ""
+    f "你以为我多大了!?"
 
 # game/scripts/clone_events.rpy:57
 translate schinese twin_recruit_3d81ae07:
 
     # siri "I don't know. I really don't give a shit."
-    siri ""
+    siri "我不知道.而且我也不在乎."
 
 # game/scripts/clone_events.rpy:58
 translate schinese twin_recruit_581e967b:
 
     # f "20! I'm in college!"
-    f ""
+    f "20!我上大学了!"
 
 # game/scripts/clone_events.rpy:59
 translate schinese twin_recruit_42574eb4:
 
     # siri "Like I said... you're too young."
-    siri ""
+    siri "我说过了......你太年轻了."
 
 # game/scripts/clone_events.rpy:60
 translate schinese twin_recruit_37497df3:
 
     # f "How old are you supposed to be? 80!?"
-    f ""
+    f "那你多大了?80!?"
 
 # game/scripts/clone_events.rpy:61
 translate schinese twin_recruit_c089aa05:
 
     # siri "I'm 33."
-    siri ""
+    siri "我33了."
 
 # game/scripts/clone_events.rpy:62
 translate schinese twin_recruit_50b9a24b:
 
     # f "Well you look 80..."
-    f ""
+    f "你看着像80岁......"
 
 # game/scripts/clone_events.rpy:63
 translate schinese twin_recruit_7e27a483:
 
     # siri "Mhm. Get up, Felicity. You're going to be late."
-    siri ""
+    siri "呃.起来.菲丽希蒂.你要迟到了."
 
 # game/scripts/clone_events.rpy:64
 translate schinese twin_recruit_3803ed30:
 
     # f "I don't care! I want to go back!"
-    f ""
+    f "我不管!我想回去!"
 
 # game/scripts/clone_events.rpy:66
 translate schinese twin_recruit_a4f2f6ac:
 
     # siri "Felicity, I was your age once... and I was just as stupid. You think you're an adult because you're 20? No... you're still a baby."
-    siri ""
+    siri "菲丽希蒂,我也曾是你这个年纪的人......而且我也曾和你一样愚蠢.你以为你20岁了就是个成年人了?不......你还是个小婴儿."
 
 # game/scripts/clone_events.rpy:67
 translate schinese twin_recruit_9c57d91b:
 
     # siri "You don't even know your own family's history. You don't know why we're here, or what we're doing."
-    siri ""
+    siri "你甚至都不知道你的家族的历史.你不知道为什么我们在这里,也不知道我们要做什么."
 
 # game/scripts/clone_events.rpy:68
 translate schinese twin_recruit_1649f25c:
 
     # siri "Dad gave you that ignorant life because he wanted to protect you. He hid things from you because he had me."
-    siri ""
+    siri "爸爸让你过着无知的生活,是因为他想保护你.他向你隐瞒这一切,是因为他有我."
 
 # game/scripts/clone_events.rpy:69
 translate schinese twin_recruit_de277d1f:
 
     # f "So what, I should thank you?"
-    f ""
+    f "所以怎么了,我还得谢谢你不成?"
 
 # game/scripts/clone_events.rpy:70
 translate schinese twin_recruit_5565a23a:
 
     # siri "I never had the chance to go to college because we were fucking destitute. But you grew with up a golden spoon in your mouth... and now you're ungrateful for your own apartment?"
-    siri ""
+    siri "我从来都没有机会上大学,因为我们他妈穷得叮当响.可你生来就是含着金汤匙长大的......你现在拥有了自己的公寓,而你却不知感恩?"
 
 # game/scripts/clone_events.rpy:71
 translate schinese twin_recruit_1c83687a:
 
     # f "You grew up poor...?"
-    f ""
+    f "你小时候很穷吗......?"
 
 # game/scripts/clone_events.rpy:72
 translate schinese twin_recruit_f69b8139:
 
     # siri "Dad's an immigrant, sweetie. You know what he left behind? Endless wars, extreme poverty, plagues, famine... all to give us a better life."
-    siri ""
+    siri "爸爸是个移民,亲爱的.你知道他抛下了什么吗?无休止的战争,极度的贫困,瘟疫,饥荒......这一切都是为了给我们更好的生活."
 
 # game/scripts/clone_events.rpy:73
 translate schinese twin_recruit_d97250f9:
 
     # siri "He came here with {u}nothing{/u}. Now we're billionaires. Show some respect. Get up."
-    siri ""
+    siri "他当初来这里的时候{u}一无所有{/u}.现如今我们已经成为了亿万富翁.你得尊敬他.起来."
 
 # game/scripts/clone_events.rpy:75
 translate schinese twin_recruit_3ec57d49_2:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:76
 translate schinese twin_recruit_bec2ea29:
 
     # f "...Because you stole it."
-    f ""
+    f "......因为那是你们偷来的."
 
 # game/scripts/clone_events.rpy:77
 translate schinese twin_recruit_44884932:
 
     # siri "We're a business..."
-    siri ""
+    siri "我们是生意人......"
 
 # game/scripts/clone_events.rpy:78
 translate schinese twin_recruit_3ec57d49_3:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:80
 translate schinese twin_recruit_e1b47da2:
 
     # f "So is your mother dead too?"
-    f ""
+    f "所以你的母亲也死了吗?"
 
 # game/scripts/clone_events.rpy:81
 translate schinese twin_recruit_41c53cf8:
 
     # siri "Excuse me?"
-    siri ""
+    siri "不好意思?"
 
 # game/scripts/clone_events.rpy:82
 translate schinese twin_recruit_bd04b6b0:
 
     # f "Dad met my mother only a few years before he had me. You're too old to be my sister. Which means you would have known her..."
-    f ""
+    f "爸爸在我出生前认识我母亲还没几年.你年纪太大了,不可能是我姐姐.这意味着你应该认识她......"
 
 # game/scripts/clone_events.rpy:83
 translate schinese twin_recruit_b02d8a5b:
 
     # siri "I wouldn't say that, but I guess I knew her more than you ever had the chance to."
-    siri ""
+    siri "我不会这么说,但我想我对她的了解,远比你所能了解的多."
 
 # game/scripts/clone_events.rpy:84
 translate schinese twin_recruit_27576ba7:
 
     # f "That would make you my half-sister. Now answer my question. Is your mother dead?"
-    f ""
+    f "那你就是我同父异母的姐姐.现在回答我的问题.你的母亲死了吗?"
 
 # game/scripts/clone_events.rpy:85
 translate schinese twin_recruit_0bf3e1ea:
 
     # siri "...Yeah. It's a dangerous business. Your mother knew the risks too."
-    siri ""
+    siri "......是的.这是危险的生意.你的母亲也知道这里面的风险."
 
 # game/scripts/clone_events.rpy:86
 translate schinese twin_recruit_c1ffe552:
 
     # f "How did your mother die?"
-    f ""
+    f "你的母亲是怎么死的?"
 
 # game/scripts/clone_events.rpy:87
 translate schinese twin_recruit_4e80acef:
 
     # siri "She died protecting me..."
-    siri ""
+    siri "她是为了保护我而死的......"
 
 # game/scripts/clone_events.rpy:88
 translate schinese twin_recruit_834912a2:
 
     # f "{i}When{/i} did she die?"
-    f ""
+    f "她{i}什么时候{/i}死的?"
 
 # game/scripts/clone_events.rpy:89
 translate schinese twin_recruit_9507e57f:
 
     # siri "You're asking too many questions, Felicity."
-    siri ""
+    siri "你的问题太多了,菲丽希蒂."
 
 # game/scripts/clone_events.rpy:90
 translate schinese twin_recruit_ac3171d0:
 
     # f "When!?"
-    f ""
+    f "什么时候!?"
 
 # game/scripts/clone_events.rpy:91
 translate schinese twin_recruit_1ac53890:
 
     # siri "I don't remember, I was too young!"
-    siri ""
+    siri "我不记得了,我那时候还太小!"
 
 # game/scripts/clone_events.rpy:92
 translate schinese twin_recruit_e86d1394:
 
     # f "Same here! And you don't think that's a coincidence!?"
-    f ""
+    f "我也是!难道你不觉得这很巧合吗!?"
 
 # game/scripts/clone_events.rpy:93
 translate schinese twin_recruit_06d11f6f:
 
     # siri "No. I think it's bound to happen in this business if you're not careful. And you're {i}not{/i} being careful..."
-    siri ""
+    siri "不.在这行里,如果你不谨慎,这种事情迟早会发生.而你根本{i}不够{/i}谨慎......"
 
 # game/scripts/clone_events.rpy:94
 translate schinese twin_recruit_12922391:
 
     # siri "And that's exactly why you had the life you did, Felicity. He wanted you nowhere near this side of his life because he knows exactly how dangerous it is."
-    siri ""
+    siri "菲丽希蒂,这正是你过着那样生活的缘由.他不愿让你靠近他生活的这一面,因为他深知其中暗藏的风险."
 
 # game/scripts/clone_events.rpy:95
 translate schinese twin_recruit_d001f88c:
 
     # siri "Only now, you've left him no choice... And believe me! I wish it were different. I never wanted a sister. I never wanted a new mom... but here we are."
-    siri ""
+    siri "可现在,你已经逼得他别无选择......相信我!我也希望事情不会走到这一步.我从来没想过要个妹妹.我也从来没想过要个新妈妈......可木已成舟."
 
 # game/scripts/clone_events.rpy:96
 translate schinese twin_recruit_9a7961e3:
 
     # f "So why am I here, then? What does he want from me?"
-    f ""
+    f "那么,我来这里干什么?他想要从我这里得到什么?"
 
 # game/scripts/clone_events.rpy:98
 translate schinese twin_recruit_4bb6df70:
 
     # siri "..."
-    siri ""
+    siri "......"
 
 # game/scripts/clone_events.rpy:100
 translate schinese twin_recruit_8ce10b26:
 
     # siri "*sigh*... That's what we're going to find out, Felicity. I'm the Underboss, and even I don't know."
-    siri ""
+    siri "*叹气*......这正是我们要弄清楚的事情,菲丽希蒂.我只是个副手,连我都不知道答案."
 
 # game/scripts/clone_events.rpy:101
 translate schinese twin_recruit_206e9955:
 
     # siri "To be honest with you, I did suggest bringing you two into the family years ago. But dad was so opposed, he almost had a stroke."
-    siri ""
+    siri "说实话,多年前我就提议过让你们俩加入这个家族.但爸爸极力反对,差点气到中风."
 
 # game/scripts/clone_events.rpy:102
 translate schinese twin_recruit_f335d176:
 
     # siri "I don't know what his deal is, or why he values your innocence so much. He never felt the same about me... But you're both very important to him now, for reasons I can't understand."
-    siri ""
+    siri "我搞不懂他到底怎么回事,也不明白为什么他如此看重你的纯真.他对我可没有这般在意过......但如今,出于我无法理解的原因,你们俩对他来说却变得至关重要."
 
 # game/scripts/clone_events.rpy:103
 translate schinese twin_recruit_881c2cda:
 
     # f "There is NO WAY I'm working with him!"
-    f ""
+    f "我{b}不可能{/b}为他工作的!"
 
 # game/scripts/clone_events.rpy:104
 translate schinese twin_recruit_eb4d2663:
 
     # siri "Yeah... we'll see about that."
-    siri ""
+    siri "好吧......我们走着瞧."
 
 # game/scripts/clone_events.rpy:105
 translate schinese twin_recruit_8de04ae7:
 
     # f "No, we won't!"
-    f ""
+    f "不,不会的!"
 
 # game/scripts/clone_events.rpy:107
 translate schinese twin_recruit_38780bae:
 
     # siri "Felicity, what is it you think we do?"
-    siri ""
+    siri "菲丽希蒂,你觉得我们是做什么的?"
 
 # game/scripts/clone_events.rpy:108
 translate schinese twin_recruit_647410bf:
 
     # f "Extort people? Sell drugs? KIDNAPPINGS!?"
-    f ""
+    f "贩人?贩毒?{b}绑架!?{/b}"
 
 # game/scripts/clone_events.rpy:109
 translate schinese twin_recruit_3f247055:
 
     # siri "Well, you're only half right about one of those."
-    siri ""
+    siri "好吧,你只说对了其中一个的一半."
 
 # game/scripts/clone_events.rpy:110
 translate schinese twin_recruit_7eec4530:
 
     # siri "Yes, we manufacture naki, but more importantly, we fill a void left by the government."
-    siri ""
+    siri "是的,我们生产纳吉,但更重要的是,我们填补了政府留下的空白."
 
 # game/scripts/clone_events.rpy:111
 translate schinese twin_recruit_7d62d343:
 
     # siri "If the people need something, we find a way to give it to them. That's our business."
-    siri ""
+    siri "人们需要什么,我们就想办法满足他们.这就是我们的职责所在."
 
 # game/scripts/clone_events.rpy:113
 translate schinese twin_recruit_fbe13ad8:
 
     # f "And those Blue Dragon shits? They work for you, don't they?"
-    f ""
+    f "那那些青龙帮的混蛋呢?他们不也是给你们打工的吗?"
 
 # game/scripts/clone_events.rpy:114
 translate schinese twin_recruit_da007eb7:
 
     # siri "We don't target small businesses, Felicity. Extortion is too messy. Times have changed. People think the mafia went extinct decades ago. But honestly? We just evolved."
-    siri ""
+    siri "我们并不做小生意,菲丽希蒂.敲诈勒索太麻烦了,时代变了.人们以为黑手党几十年前就绝迹了.但说实话?我们只是进化了."
 
 # game/scripts/clone_events.rpy:115
 translate schinese twin_recruit_2331bb2d:
 
     # f "So what do you do, then?"
-    f ""
+    f "那你们都做些什么?"
 
 # game/scripts/clone_events.rpy:116
 translate schinese twin_recruit_4640c741:
 
     # siri "We lend money, host gambling, offer protection from the law, sell prescription drugs, housing, and provide new IDs for anyone who wants a fresh start."
-    siri ""
+    siri "我们提供贷款,经营赌场,提供法律保护,贩卖处方药,出售房产,并为任何想要重新开始的人提供新身份."
 
 # game/scripts/clone_events.rpy:117
 translate schinese twin_recruit_2f4821c5:
 
     # f "So you help criminals? Why would I want to do that?"
-    f ""
+    f "所以你们在帮助罪犯?我为什么要做这些事情?"
 
 # game/scripts/clone_events.rpy:118
 translate schinese twin_recruit_b664db47:
 
     # siri "Because, Felicity... sooner or later we'll all find ourselves as criminals in this world. You too. You're not exempt from that."
-    siri ""
+    siri "因为,菲丽希蒂......在这个世界上,我们迟早都会发现自己成了罪犯.你也不例外,你也逃不过这个命运."
 
 # game/scripts/clone_events.rpy:119
 translate schinese twin_recruit_e7ce6ec3:
 
     # siri "Alcohol was illegal 50 years ago. That's something your very own father fought against and even provided. Now everyone drinks it as if it wasn't considered the worst drug in the world."
-    siri ""
+    siri "五十年前,酒精还是违禁品.这可是你的亲生父亲一直所提供的东西,他也曾经竭力反对这个禁令.如今人人开怀畅饮,仿佛它从未被视作世界上最恶劣的毒品."
 
 # game/scripts/clone_events.rpy:120
 translate schinese twin_recruit_50effd10:
 
     # siri "We offer freedom wherever the government prevents it. It's that simple."
-    siri ""
+    siri "我们为政府压制自由之处带去自由.就这么简单."
 
 # game/scripts/clone_events.rpy:121
 translate schinese twin_recruit_23c89949:
 
     # f "I don't see you helping elves. Dad hates elves."
-    f ""
+    f "我也没看见你们帮助过精灵.爸爸讨厌精灵."
 
 # game/scripts/clone_events.rpy:123
 translate schinese twin_recruit_7e5b1a52:
 
     # siri "He doesn't hate elves, he just doesn't care about them... Humans have enough problems, we don't need to add elves to that list."
-    siri ""
+    siri "他并不讨厌精灵,他只是并不关心他们......人类的问题已经够多了,我们不需要把精灵也放在名单上."
 
 # game/scripts/clone_events.rpy:124
 translate schinese twin_recruit_d58c5ddb:
 
     # f "Hmph. You sure paint yourselves a good picture, but that doesn't change the fact that you're a bunch of horrible people."
-    f ""
+    f "哼.你们倒是把自己粉饰得很好,但这改变不了你们就是一帮恶棍的事实."
 
 # game/scripts/clone_events.rpy:125
 translate schinese twin_recruit_e937ec86:
 
     # siri "Sure, if you hate freedom?"
-    siri ""
+    siri "当然了,如果你讨厌自由的话?"
 
 # game/scripts/clone_events.rpy:126
 translate schinese twin_recruit_3b70a773:
 
     # f "You don't think there's such a thing as too much freedom? Bad guys need to be in prison, Sirona!"
-    f ""
+    f "你难道不觉得自由过头了?坏蛋就该关进监狱,希罗娜!"
 
 # game/scripts/clone_events.rpy:128
 translate schinese twin_recruit_1881b2d6:
 
     # siri "Ugh, I'm not getting into that conversation with you."
-    siri ""
+    siri "呃,我不会和你辩论这种事情的."
 
 # game/scripts/clone_events.rpy:129
 translate schinese twin_recruit_541bc6cf:
 
     # siri "We're late for a meeting, Felicity. Are you coming, or am I dragging you?"
-    siri ""
+    siri "我们的会面要迟到了,菲丽希蒂.你是自己过来,还是我拖你过去?"
 
 # game/scripts/clone_events.rpy:130
 translate schinese twin_recruit_4a862e22:
 
     # f "Hmph! There's that so-called freedom, huh? Yeah, whatever. I'm coming..."
-    f ""
+    f "哼!这就是所谓的自由,嗯?行吧,随便了.我去就是......"
 
 # game/scripts/clone_events.rpy:133
 translate schinese twin_recruit_31523f52:
 
     # siri "Listen up. This is an important meeting with the higher ups. Be respectful, or you're going to piss off dad. You know how he can get."
-    siri ""
+    siri "听着.这是和高层的重要会议.要保持尊重,否则你会惹恼爸爸的.你知道他发火是什么样子."
 
 # game/scripts/clone_events.rpy:134
 translate schinese twin_recruit_0b7b2cf5:
 
     # f "I thought you said you didn't know why I was here."
-    f ""
+    f "你不是说过你不知道为什么我在这里吗."
 
 # game/scripts/clone_events.rpy:135
 translate schinese twin_recruit_d94d7582:
 
     # siri "I don't. All I know is that we've been called."
-    siri ""
+    siri "我确实不知道.我只知道我们被叫过去了."
 
 # game/scripts/clone_events.rpy:136
 translate schinese twin_recruit_ae0b5926:
 
     # siri "Oh, and don't mention Emma, okay?"
-    siri ""
+    siri "哦,还有别提到艾玛,行吗?"
 
 # game/scripts/clone_events.rpy:137
 translate schinese twin_recruit_4ff14fe5:
 
     # f "Why the fuck not?"
-    f ""
+    f "为什么他妈的不行?"
 
 # game/scripts/clone_events.rpy:138
 translate schinese twin_recruit_0662559e:
 
     # siri "Just don't. You'll piss him off."
-    siri ""
+    siri "别提就是了.你会惹恼他的."
 
 # game/scripts/clone_events.rpy:139
 translate schinese twin_recruit_9f0584f6:
 
     # f "Anything else, your majesty? Shall I bow as well?"
-    f ""
+    f "还有别的吩咐吗,陛下?我是不是还得给你鞠个躬?"
 
 # game/scripts/clone_events.rpy:140
 translate schinese twin_recruit_03eddd50:
 
     # siri "Hmph, {i}that's ironic...{/i}"
-    siri ""
+    siri "哼,{i}真是讽刺啊......{/i}"
 
 # game/scripts/clone_events.rpy:141
 translate schinese twin_recruit_4bc035da:
 
     # f "Sorry?"
-    f ""
+    f "你说什么?"
 
 # game/scripts/clone_events.rpy:142
 translate schinese twin_recruit_d49247c4:
 
     # siri "Nothing... I'm just trying to give you some advice. For all I care, you can run away. We don't need you or Emma anymore."
-    siri ""
+    siri "没什么......我只是想给你点建议.说实话,你想走就走.我们再也不需要你和艾玛了."
 
 # game/scripts/clone_events.rpy:143
 translate schinese twin_recruit_aa71f0ff:
 
     # f "If that were true, I wouldn't be here."
-    f ""
+    f "你要是说的是真话,我就不会在这了."
 
 # game/scripts/clone_events.rpy:144
 translate schinese twin_recruit_3a1fed89:
 
     # siri "I'm just telling you how it is. You don't need to try to poke holes in my story, Felicity. I'm not your enemy."
-    siri ""
+    siri "我只是实话实说,菲丽希蒂.你不必挑我的毛病.我不是你的敌人."
 
 # game/scripts/clone_events.rpy:145
 translate schinese twin_recruit_db174eeb:
 
     # f "HAH! Well you're mine..."
-    f ""
+    f "{b}哈!{/b}但你是我的敌人......"
 
 # game/scripts/clone_events.rpy:146
 translate schinese twin_recruit_9a8582f8:
 
     # f "And why the fuck don't you have any buttons in this elevator? Is this even a real elevator?"
-    f ""
+    f "而且,这电梯怎么他妈的连按钮都没有?这算个什么电梯?"
 
 # game/scripts/clone_events.rpy:147
 translate schinese twin_recruit_dca9a330:
 
     # siri "Ugh... it only goes to the same two floors."
-    siri ""
+    siri "呃.....它只能到两层楼."
 
 # game/scripts/clone_events.rpy:148
 translate schinese twin_recruit_9b6c007f:
 
     # f "Mhm..."
-    f ""
+    f "嗯......"
 
 # game/scripts/clone_events.rpy:150
 translate schinese twin_recruit_10029665:
 
     # "*ding*"
-    ""
+    "*叮*"
 
 # game/scripts/clone_events.rpy:152
 translate schinese twin_recruit_ecc6d080:
 
     # siri "Alright, everyone's here. Let's get started."
-    siri ""
+    siri "好了,大家都到了.我们开始吧."
 
 # game/scripts/clone_events.rpy:153
 translate schinese twin_recruit_0f6c0d6a:
 
     # stoneface "You're late..."
-    stoneface ""
+    stoneface "你们迟到了......"
 
 # game/scripts/clone_events.rpy:154
 translate schinese twin_recruit_cf65f865:
 
     # siri "My apologies."
-    siri ""
+    siri "我很抱歉."
 
 # game/scripts/clone_events.rpy:156
 translate schinese twin_recruit_c1c3099d:
 
     # q "Hey, hey! Who's the hot new girl?"
-    q ""
+    q "嘿,嘿!那个新来的性感小妞是谁?"
 
 # game/scripts/clone_events.rpy:157
 translate schinese twin_recruit_d09ec3fc:
 
     # stoneface "My second-born..."
-    stoneface ""
+    stoneface "我的次女......"
 
 # game/scripts/clone_events.rpy:159
 translate schinese twin_recruit_706741ea:
 
     # q "{size=-7}{i}Oh.{/i}{/size}"
-    q ""
+    q "{size=-7}{i}噢.{/i}{/size}"
 
 # game/scripts/clone_events.rpy:161
 translate schinese twin_recruit_033917c4:
 
     # stoneface "Thank you for joining us, Felicity. I'd like to introduce you to everone."
-    stoneface ""
+    stoneface "谢谢你加入我们,菲丽希蒂.我要向大家介绍你."
 
 # game/scripts/clone_events.rpy:162
 translate schinese twin_recruit_49aa1cac:
 
     # stoneface "You've already had the {i}pleasure{/i} of hearing Ron's abrassive voice..."
-    stoneface ""
+    stoneface "你已经领教过罗恩那刺耳嗓音的{i}乐趣{/i}了吧......"
 
 # game/scripts/clone_events.rpy:163
 translate schinese twin_recruit_1e18b393:
 
     # ron "Heya."
-    ron ""
+    ron "嘿呀."
 
 # game/scripts/clone_events.rpy:164
 translate schinese twin_recruit_d6a12846:
 
     # stoneface "On your right we have Makoa, and Numbers."
-    stoneface ""
+    stoneface "右边是毛加,还有涅波斯."
 
 # game/scripts/clone_events.rpy:165
 translate schinese twin_recruit_2b8031d9:
 
     # num "So she has a sister, hm?"
-    num ""
+    num "所以她还有个妹妹,嗯?"
 
 # game/scripts/clone_events.rpy:167
 translate schinese twin_recruit_3feee555:
 
     # siri "Two, actually. This one has a twin."
-    siri ""
+    siri "实际上是两个.她们是双胞胎."
 
 # game/scripts/clone_events.rpy:169
 translate schinese twin_recruit_cfc98709:
 
     # siri "Two, actually. This one has a clone."
-    siri ""
+    siri "实际上是两个.她们是可怜人."
 
 # game/scripts/clone_events.rpy:172
 translate schinese twin_recruit_233dc260:
 
     # num "I've never met twins before..."
-    num ""
+    num "我从未见过双胞胎......"
 
 # game/scripts/clone_events.rpy:174
 translate schinese twin_recruit_2f83d267:
 
     # num "I've never met clones before..."
-    num ""
+    num "我从未见过克隆人......"
 
 # game/scripts/clone_events.rpy:175
 translate schinese twin_recruit_78c49efb:
 
     # makoa "Hope we didn't scare you too bad, Felicity."
-    makoa ""
+    makoa "希望我们没有吓到你,菲丽希蒂."
 
 # game/scripts/clone_events.rpy:176
 translate schinese twin_recruit_501c8449:
 
     # f "I'm fine..."
-    f ""
+    f "我很好......"
 
 # game/scripts/clone_events.rpy:177
 translate schinese twin_recruit_2bc109b2:
 
     # makoa "Good... It was just business."
-    makoa ""
+    makoa "那就好......这只是生意而已."
 
 # game/scripts/clone_events.rpy:178
 translate schinese twin_recruit_ccd7d16b:
 
     # siri "So, what's on the agenda today?"
-    siri ""
+    siri "那么,今天有什么议程?"
 
 # game/scripts/clone_events.rpy:179
 translate schinese twin_recruit_70a53db9:
 
     # stoneface "Community. Or lack thereof."
-    stoneface ""
+    stoneface "社区.或者说,社区的缺失."
 
 # game/scripts/clone_events.rpy:181
 translate schinese twin_recruit_3c7bbec0:
 
     # siri "Sounds good."
-    siri ""
+    siri "听起来不错."
 
 # game/scripts/clone_events.rpy:182
 translate schinese twin_recruit_91648120:
 
     # ron "Gotta say, it's nice having you present today, Stoney! Barely get to see ya these days!"
-    ron ""
+    ron "不得不说,今天你能来可真好,小石!最近我都快见不到你了."
 
 # game/scripts/clone_events.rpy:184
 translate schinese twin_recruit_2f33235c:
 
     # f "{i}Woah...{/i}"
-    f ""
+    f "{i}喔......{/i}"
 
 # game/scripts/clone_events.rpy:185
 translate schinese twin_recruit_fdc5d466:
 
     # stoneface "We have a very important matter to discuss. This will also be my second-born's initiation. I thought it best I break the news."
-    stoneface ""
+    stoneface "我们有件非常重要的事情要商议.这也是给我次女的成人礼.我认为由我来告知这个消息最为妥当."
 
 # game/scripts/clone_events.rpy:186
 translate schinese twin_recruit_5c563b27:
 
     # num "Quite appropriate."
-    num ""
+    num "非常妥当."
 
 # game/scripts/clone_events.rpy:187
 translate schinese twin_recruit_b91fcb8c:
 
     # stoneface "FELICITY!" with sshake
-    stoneface "" with sshake
+    stoneface "{b}菲丽希蒂!{/b}" with sshake
 
 # game/scripts/clone_events.rpy:189
 translate schinese twin_recruit_a5eead98:
 
     # stoneface "...Please take your seat. Immediately."
-    stoneface ""
+    stoneface "......请坐下.立刻."
 
 # game/scripts/clone_events.rpy:190
 translate schinese twin_recruit_3ec57d49_4:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:192
 translate schinese twin_recruit_1aee3ed2:
 
     # stoneface "...{w}..."
-    stoneface ""
+    stoneface "......{w}......"
 
 # game/scripts/clone_events.rpy:194
 translate schinese twin_recruit_1aee3ed2_1:
 
     # stoneface "...{w}..."
-    stoneface ""
+    stoneface "......{w}......"
 
 # game/scripts/clone_events.rpy:195
 translate schinese twin_recruit_60348ca5:
 
     # stoneface "...Good. Now we can begin."
-    stoneface ""
+    stoneface "......很好.现在我们可以开始了."
 
 # game/scripts/clone_events.rpy:197
 translate schinese twin_recruit_ba7eb05b:
 
     # stoneface "Would anyone like to tell me what the number one issue is in Syl'anar?"
-    stoneface ""
+    stoneface "有谁能告诉我,西尔阿纳尔最突出的问题是什么吗?"
 
 # game/scripts/clone_events.rpy:198
 translate schinese twin_recruit_09d0db98:
 
     # ron "Healthcare?"
-    ron ""
+    ron "医疗保险?"
 
 # game/scripts/clone_events.rpy:199
 translate schinese twin_recruit_0ecacc99:
 
     # num "The economy."
-    num ""
+    num "经济."
 
 # game/scripts/clone_events.rpy:201
 translate schinese twin_recruit_5cc88862:
 
     # stoneface "Connection."
-    stoneface ""
+    stoneface "联系."
 
 # game/scripts/clone_events.rpy:203
 translate schinese twin_recruit_68cf1041:
 
     # stoneface "Community..."
-    stoneface ""
+    stoneface "社区......"
 
 # game/scripts/clone_events.rpy:204
 translate schinese twin_recruit_6c57ec6d:
 
     # stoneface "Unity."
-    stoneface ""
+    stoneface "团结."
 
 # game/scripts/clone_events.rpy:206
 translate schinese twin_recruit_3216ea19:
 
     # stoneface "It's a damn shame...\nHumanity has the ability to connect instantaneously from across the world. Yet now more than ever, we are divided and alone."
-    stoneface ""
+    stoneface "真是可悲......\n人类本有能力瞬间连接世界各地.然而此时此刻,我们却比以往任何时候都更加分裂与孤立."
 
 # game/scripts/clone_events.rpy:207
 translate schinese twin_recruit_bad81e1b:
 
     # stoneface "Has technology truly driven us apart instead of allowing us to connect? No, I don't believe so. I believe it's by design..."
-    stoneface ""
+    stoneface "技术真的让我们更加疏远,而不是更加紧密了吗?不,我不这么认为.我认为这是设计使然......"
 
 # game/scripts/clone_events.rpy:209
 translate schinese twin_recruit_a63746cc:
 
     # stoneface "So who is to blame for this division we see in our society today?"
-    stoneface ""
+    stoneface "那么,我们当今社会中存在的这种分裂,究竟应该归咎于谁呢?"
 
 # game/scripts/clone_events.rpy:210
 translate schinese twin_recruit_c883e986:
 
     # ron "I know this one! Lazy workers!"
-    ron ""
+    ron "我知道!懒惰的工人!"
 
 # game/scripts/clone_events.rpy:211
 translate schinese twin_recruit_b3318856:
 
     # stoneface "No, Ron... not even close."
-    stoneface ""
+    stoneface "不,罗恩......差得远呢."
 
 # game/scripts/clone_events.rpy:212
 translate schinese twin_recruit_7f427434:
 
     # stoneface "You see, more people are connecting now than ever with the internet. But those connections are weak, and bound to dissolve upon the smallest inconveniences."
-    stoneface ""
+    stoneface "你看,如今通过互联网建立联系的人比以往时候都多.但这些联系脆弱不堪,稍有不顺便会土崩瓦解."
 
 # game/scripts/clone_events.rpy:213
 translate schinese twin_recruit_e3750886:
 
     # stoneface "The people have been programmed to take sides and fall into ever-more fractioning communities."
-    stoneface ""
+    stoneface "人们被编程分化了立场,并陷入日益碎片化的社区之中."
 
 # game/scripts/clone_events.rpy:214
 translate schinese twin_recruit_7cebe616:
 
     # stoneface "Divided we are weak and easily controllable. That is the weakness of democracy in plain view. If we can't even agree on the shape of our planet, our society won't be able to make any meaningful progress."
-    stoneface ""
+    stoneface "分裂使我们脆弱易控,这正是民主制度显而易见的弱点.若连地球的形状都无法达成共识,我们的社会便难以取得任何实质性进步."
 
 # game/scripts/clone_events.rpy:216
 translate schinese twin_recruit_c164301f:
 
     # stoneface "Our enemy... THE enemy... is Syl'anar herself."
-    stoneface ""
+    stoneface "我们的敌人......{b}真正{/b}的敌人......是西尔阿纳尔本身."
 
 # game/scripts/clone_events.rpy:218
 translate schinese twin_recruit_90ac15b8:
 
     # stoneface "Take education for example. A cornerstone for any society... yet Syl'anar treats its schools as a disposable annoyance."
-    stoneface ""
+    stoneface "以教育为例.它是社会的基石......然而西尔阿纳尔却把学校视作可有可无的麻烦."
 
 # game/scripts/clone_events.rpy:220
 translate schinese twin_recruit_d377aedf:
 
     # stoneface "That's where we come in. Through our tireless efforts, we now operate six community colleges across the nation."
-    stoneface ""
+    stoneface "这就是我们发挥作用的地方.通过我们的不懈努力,如今,我们在全国范围内运营着六所社区学院."
 
 # game/scripts/clone_events.rpy:221
 translate schinese twin_recruit_8e10e09b:
 
     # makoa "Sure hope those kids appreciate it. Who knows where I'd be if I had that opportunity?"
-    makoa ""
+    makoa "真希望那些孩子懂得珍惜.要是我当年有这样的机会,说不定我现在都成什么样了?"
 
 # game/scripts/clone_events.rpy:222
 translate schinese twin_recruit_d5252b8b:
 
     # ron "Probably not here, huh? Hahah! Besides, it don't take a college degree to open up a pizza chain!"
-    ron ""
+    ron "大概不会在这里,嗯?哈哈哈!再说,开披萨店哪用得着大学文凭!"
 
 # game/scripts/clone_events.rpy:223
 translate schinese twin_recruit_e5280d35:
 
     # f "...You run six colleges? I thought it was just the one."
-    f ""
+    f "......你们运营六所大学?我以为只有一所."
 
 # game/scripts/clone_events.rpy:225
 translate schinese twin_recruit_b056e2de:
 
     # stoneface "{i}Free{/i} colleges at that. Though we can only afford to offer two years, those who choose to stay for the remaining years subsidize those who did not."
-    stoneface ""
+    stoneface "而且是{i}免费{/i}的大学.虽然我们只能负担两年的学费,但选择继续就读剩余年限的学生,就是在补贴没有就读剩余年限的学生."
 
 # game/scripts/clone_events.rpy:226
 translate schinese twin_recruit_e6e0dd76:
 
     # f "Why only two years? Doesn't the government help with the rest?"
-    f ""
+    f "为什么只有两年?政府没有资助剩下的费用吗?"
 
 # game/scripts/clone_events.rpy:227
 translate schinese twin_recruit_c633428c:
 
     # stoneface "Not a penny..."
-    stoneface ""
+    stoneface "一个子儿也没有......"
 
 # game/scripts/clone_events.rpy:228
 translate schinese twin_recruit_ae9c5935:
 
     # stoneface "It is incredibly difficult to maintain, Felicity. Seeing you attend less and less broke my heart."
-    stoneface ""
+    stoneface "菲丽希蒂,维持这段关系实在是太艰难了.看着你渐渐疏远,我的心都要碎了."
 
 # game/scripts/clone_events.rpy:229
 translate schinese twin_recruit_74c103e4:
 
     # f "Oh... {size=-5}{i}I'm sorry...{/i}{/size}"
-    f ""
+    f "哦......{size=-5}{i}对不起......{/i}{/size}"
 
 # game/scripts/clone_events.rpy:230
 translate schinese twin_recruit_c63f0425:
 
     # stoneface "You take education for granted. We had no public schools in the old world when I was a child. And we saw how that ended..."
-    stoneface ""
+    stoneface "你把教育当作理所当然.在我小的时候,旧世界根本没有公立学校可言.而我们都目睹了那会带来什么结局......"
 
 # game/scripts/clone_events.rpy:232
 translate schinese twin_recruit_2e38c16e:
 
     # f "But how does opening schools help you? What's the point?"
-    f ""
+    f "但开办学校对你有什么帮助?这有什么意义?"
 
 # game/scripts/clone_events.rpy:233
 translate schinese twin_recruit_b3020858:
 
     # stoneface "I told you. Unity."
-    stoneface ""
+    stoneface "我告诉过你了.团结."
 
 # game/scripts/clone_events.rpy:234
 translate schinese twin_recruit_414a73dc:
 
     # stoneface "We are but a symptom of a disease, Felicity. None of us would be here if we had proper education, opportunity, and community."
-    stoneface ""
+    stoneface "菲丽希蒂,我们不过是某种病症的表征.倘若我们能获得正当的教育,机会和社区的支持,就不会有人陷入此种境地."
 
 # game/scripts/clone_events.rpy:235
 translate schinese twin_recruit_4e5229fc:
 
     # f "So... you actually want to go extinct?"
-    f ""
+    f "所以......你其实想要自我灭亡?"
 
 # game/scripts/clone_events.rpy:237
 translate schinese twin_recruit_62fcca88:
 
     # stoneface "I never wanted this life. I never even intended for you to find out about it. I came to Syl'anar for opportunity... but found very little."
-    stoneface ""
+    stoneface "我从未想要这样的生活.我甚至不愿让你知晓这一切.我来到西尔阿纳尔寻求机遇......却几乎一无所获."
 
 # game/scripts/clone_events.rpy:238
 translate schinese twin_recruit_7298f946:
 
     # stoneface "Ask anyone here, nobody plans for this life. The industrious among us simply make do."
-    stoneface ""
+    stoneface "问问这里的其他人吧,没有人想着过这样的生活.勤劳的人也只能勉强度日."
 
 # game/scripts/clone_events.rpy:240
 translate schinese twin_recruit_0002047e:
 
     # f "You've made your own community, you've made your own opportunity... and you even created a system to educate people for free..."
-    f ""
+    f "你创建了自己的社群,创建了自己的机遇......甚至建立了一个免费教育他人的体系."
 
 # game/scripts/clone_events.rpy:241
 translate schinese twin_recruit_f3cfc66f:
 
     # f "You've been very successful, why would you want this to end?"
-    f ""
+    f "你已经取得了巨大的成功,为什么你想要结束这一切?"
 
 # game/scripts/clone_events.rpy:243
 translate schinese twin_recruit_cb9d0e88:
 
     # stoneface "Because it is not the job of an old man and his daughters to educate an entire country. That's what taxes are for."
-    stoneface ""
+    stoneface "因为教育整个国家并不是一个老人和他的女儿们的职责.这才是税收存在的意义."
 
 # game/scripts/clone_events.rpy:244
 translate schinese twin_recruit_b76aa9c2:
 
     # ron "'Cept we don't pay ours no more, right Stoney?"
-    ron ""
+    ron "不过我们现在不交钱了,对吧,小石?"
 
 # game/scripts/clone_events.rpy:246
 translate schinese twin_recruit_4c4d5529:
 
     # stoneface "Yes... some of us have also elected not to contribute towards the next yacht of our ruling class."
-    stoneface ""
+    stoneface "是的......我们中也有人选择不为统治阶级的下一艘游艇掏腰包."
 
 # game/scripts/clone_events.rpy:248
 translate schinese twin_recruit_4ab378ad:
 
     # f "How are you getting the money to pay for this?"
-    f ""
+    f "这笔钱你从哪里弄来的?"
 
 # game/scripts/clone_events.rpy:249
 translate schinese twin_recruit_a16e95f1:
 
     # stoneface "Our primary revenue source is naki. As well as a few dozen businesses that are under our umbrella. Ron contributes greatly."
-    stoneface ""
+    stoneface "我们的主要收入来源是纳吉,以及我们旗下的数十家企业.罗恩对此贡献巨大."
 
 # game/scripts/clone_events.rpy:250
 translate schinese twin_recruit_d304e990:
 
     # f "So you're funding education with drugs... how much naki do you even make?"
-    f ""
+    f "所以你们靠贩毒资助教育......你们到底做了多少纳吉?"
 
 # game/scripts/clone_events.rpy:251
 translate schinese twin_recruit_fb6bb651:
 
     # stoneface "We supply the whole world, Felicity. Naki is an elvish plant."
-    stoneface ""
+    stoneface "我们供应着全世界,菲丽希蒂.纳吉是一种精灵植物."
 
 # game/scripts/clone_events.rpy:253
 translate schinese twin_recruit_b918cfa8:
 
     # f "You just take with one hand and give with the other! How can you want to make society better while selling them drugs that could fry their brain??"
-    f ""
+    f "你们只是把钱从一部分人身上夺走,然后再给另一部分人罢了!你想怎么通过卖给他们能烧坏大脑的毒品来让社会变好??"
 
 # game/scripts/clone_events.rpy:254
 translate schinese twin_recruit_b9a2a012:
 
     # stoneface "Those who consume drugs are already destitute beyond hope. Scum of our planet... They were never going to be a benefit to society otherwise. I've changed that."
-    stoneface ""
+    stoneface "吸毒者早已无可救药.这群地球上的渣滓......他们本就不可能对社会有所贡献.而我改变了这一切."
 
 # game/scripts/clone_events.rpy:255
 translate schinese twin_recruit_4951a8ad:
 
     # f "Yeah? And how many of them have you killed? How many people have you killed in total?? This is so stupid! There are better ways to educate people!"
-    f ""
+    f "是吗?那他们中有多少人因你而死?你一共杀了多少人??这简直愚蠢至极!总有更好的教育人的方法!"
 
 # game/scripts/clone_events.rpy:256
 translate schinese twin_recruit_b28f9817:
 
     # stoneface "Please, do tell us."
-    stoneface ""
+    stoneface "那请告诉我们吧."
 
 # game/scripts/clone_events.rpy:258
 translate schinese twin_recruit_3ec57d49_5:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:259
 translate schinese twin_recruit_4bb2b2e9:
 
     # stoneface "And who else agrees? Should Syl'anar have a monopoly on violence?"
-    stoneface ""
+    stoneface "还有谁赞同吗?难道暴力就该由西尔阿纳尔垄断吗?"
 
 # game/scripts/clone_events.rpy:260
 translate schinese twin_recruit_67ad9ec5:
 
     # makoa "Hell no. They should be scared of us, not the other way around."
-    makoa ""
+    makoa "才怪呢.他们应该害怕我们,而不是我们害怕他们."
 
 # game/scripts/clone_events.rpy:261
 translate schinese twin_recruit_470e8359:
 
     # num "Studies do show that a well-armed populous is likely to prevent tyranny..."
-    num ""
+    num "研究确实表明,拥有良好武装的民众更有可能防止暴政的发生......"
 
 # game/scripts/clone_events.rpy:262
 translate schinese twin_recruit_b3d9cfd0:
 
     # stoneface "Felicity, I know our system isn't perfect, but we have plans."
-    stoneface ""
+    stoneface "菲丽希蒂,我知道我们的系统并不完美,但我们有计划."
 
 # game/scripts/clone_events.rpy:263
 translate schinese twin_recruit_81826609:
 
     # f "{i}{size=-5}Bullshit...{/size}{/i}"
-    f ""
+    f "{i}{size=-5}胡说八道......{/size}{/i}"
 
 # game/scripts/clone_events.rpy:264
 translate schinese twin_recruit_f589555b:
 
     # stoneface "Our goal is to propel humanity into the future. Create a world full of opportunity, free of crime."
-    stoneface ""
+    stoneface "我们的目标是推动人类迈向未来.创造一个充满机遇,远离犯罪的世界."
 
 # game/scripts/clone_events.rpy:265
 translate schinese twin_recruit_89a61266:
 
     # stoneface "For this, education is a necessity. We want to raise a generation of masters, not slaves."
-    stoneface ""
+    stoneface "为此,教育是必不可少的.我们想要培养的是掌握命运的一代人,而不是被命运奴役的一代人."
 
 # game/scripts/clone_events.rpy:266
 translate schinese twin_recruit_29f57e3a:
 
     # f "You think you're Nero, don't you? You're not going to revolutionize the country from here."
-    f ""
+    f "你以为自己是尼禄,是吗?在这里你是不可能掀起对整个国家的革命的."
 
 # game/scripts/clone_events.rpy:268
 translate schinese twin_recruit_c8dab113:
 
     # stoneface "..."
-    stoneface ""
+    stoneface "......"
 
 # game/scripts/clone_events.rpy:269
 translate schinese twin_recruit_d79e3726:
 
     # stoneface "...You're right. And I'm not Nero... I have bigger aspirations than he ever did."
-    stoneface ""
+    stoneface "......你说得对.我并不是尼禄......我的抱负远比他的大."
 
 # game/scripts/clone_events.rpy:270
 translate schinese twin_recruit_6f063b06:
 
     # stoneface "I can see that you're still not convinced of the danger that stupidity poses, not only to themselves, but to the entire planet. ...Allow me to direct your attention to the screen behind me."
-    stoneface ""
+    stoneface "我看得出你仍不相信,愚蠢不仅对自身,更对整个星球构成威胁......请允许我请你注意我身后的屏幕."
 
 # game/scripts/clone_events.rpy:272
 translate schinese twin_recruit_8c165d54:
 
     # stoneface "This here. What do we call it? Felicity?"
-    stoneface ""
+    stoneface "这里.我们叫它什么?菲丽希蒂?"
 
 # game/scripts/clone_events.rpy:273
 translate schinese twin_recruit_6ca9f4d4:
 
     # f "That's Lake Velurin..."
-    f ""
+    f "那是维卢林湖......"
 
 # game/scripts/clone_events.rpy:274
 translate schinese twin_recruit_fb1a00b8:
 
     # stoneface "It used to be Velurin {i}River.{/i}"
-    stoneface ""
+    stoneface "它曾经是维卢林{i}河{/i}."
 
 # game/scripts/clone_events.rpy:275
 translate schinese twin_recruit_8a7d2e64:
 
     # stoneface "You can see evidence of flooding everywhere you look. Syl'anar alone has lost 13 percent of its land since the industrial revolution."
-    stoneface ""
+    stoneface "放眼望去,随处可见洪灾的痕迹.自从工业革命以来,仅西尔阿纳尔就有13%%的土地被淹没."
 
 # game/scripts/clone_events.rpy:276
 translate schinese twin_recruit_e238e90d:
 
     # stoneface "Perhaps leniency could be given to the people of the time for not knowing the harmful effects that their rapid industrialization would cause... yet the harm continued decades after we realized what was happening."
-    stoneface ""
+    stoneface "也许我们应该对当时的人们网开一面,毕竟他们并不知道过快的工业化会带来何种危害......然而即使在我们意识到问题所在后,这种危害依然持续了数十年之久."
 
 # game/scripts/clone_events.rpy:277
 translate schinese twin_recruit_37b47503:
 
     # stoneface "Our great continent is on the verge of splitting into two from our carelessness! Nero's technology may have saved us, but only temporarily. We will not truly thrive until this utter stupidity is wiped from our species."
-    stoneface ""
+    stoneface "我们伟大的大陆正因我们的疏忽而濒临分裂!尼禄的技术或许拯救了我们,但那只是暂时的.除非彻底根除我们种族的愚昧,否则我们永远无法繁荣."
 
 # game/scripts/clone_events.rpy:278
 translate schinese twin_recruit_9ef2a182:
 
     # f "I guess that's what the drugs are for?"
-    f ""
+    f "毒品不就会造成这种情况吗?"
 
 # game/scripts/clone_events.rpy:279
 translate schinese twin_recruit_bdd41ee9:
 
     # stoneface "That's one way to look at it... But no, that's what my education policy is for."
-    stoneface ""
+    stoneface "这算是一种看法......但,不,这正是我的教育政策存在的意义."
 
 # game/scripts/clone_events.rpy:280
 translate schinese twin_recruit_74e55b99:
 
     # f "Policy...?"
-    f ""
+    f "政策......?"
 
 # game/scripts/clone_events.rpy:282
 translate schinese twin_recruit_4d2bf557:
 
     # stoneface "Yes, policy."
-    stoneface ""
+    stoneface "是的,政策."
 
 # game/scripts/clone_events.rpy:283
 translate schinese twin_recruit_2b5e1ea4:
 
     # stoneface "In three days time, I will announce my bid to run for President."
-    stoneface ""
+    stoneface "三天后,我将宣布参选总统."
 
 # game/scripts/clone_events.rpy:285
 translate schinese twin_recruit_b3ed22c0:
 
     # stoneface "And I want you to help me run my campaign, Felicity."
-    stoneface ""
+    stoneface "我想要你帮我展开竞选活动,菲丽希蒂."
 
 # game/scripts/clone_events.rpy:286
 translate schinese twin_recruit_e956e03d:
 
     # f "What?"
-    f ""
+    f "什么?"
 
 # game/scripts/clone_events.rpy:287
 translate schinese twin_recruit_129e2751:
 
     # ron "Holy shit! President Stoney!?"
-    ron ""
+    ron "我操!小石总统!?"
 
 # game/scripts/clone_events.rpy:288
 translate schinese twin_recruit_398198b0:
 
     # num "Well, there have been worse presidents..."
-    num ""
+    num "好吧,历史上也不是没有过更糟糕的总统......"
 
 # game/scripts/clone_events.rpy:290
 translate schinese twin_recruit_f498c4ab:
 
     # stoneface "Of course, Sirona will be running the business in my stead."
-    stoneface ""
+    stoneface "当然,希罗娜将代替我来管理我们的生意."
 
 # game/scripts/clone_events.rpy:291
 translate schinese twin_recruit_7dcf5d42:
 
     # siri "Oh, thank you, father..."
-    siri ""
+    siri "哦,谢谢你,父亲......"
 
 # game/scripts/clone_events.rpy:292
 translate schinese twin_recruit_ad128c55:
 
     # stoneface "If we truly want to achieve our goals, then we need the presidency. Bribes will only get us so far."
-    stoneface ""
+    stoneface "如果我们真心想要实现我们的目标,就必须拿下总统职位.贿赂终究只是权宜之计."
 
 # game/scripts/clone_events.rpy:294
 translate schinese twin_recruit_c7dcc3a7:
 
     # f "Hold on, are you serious? You're really going to run against Thorne this year?"
-    f ""
+    f "等一下,你认真的吗?你今年真的要和索恩竞选吗?"
 
 # game/scripts/clone_events.rpy:295
 translate schinese twin_recruit_33e48438:
 
     # stoneface "You said it yourself. I am not going to revolutionize the country from here."
-    stoneface ""
+    stoneface "你自己都说了.在这里我是不可能改变这个国家的."
 
 # game/scripts/clone_events.rpy:296
 translate schinese twin_recruit_f418a577:
 
     # f "You run a cartel! You can't be president!"
-    f ""
+    f "你经营着一个垄断联盟!你根本不能当总统!"
 
 # game/scripts/clone_events.rpy:297
 translate schinese twin_recruit_c3446471:
 
     # stoneface "I have proven my ability to take care of my people, provide opportunity, housing, and healthcare... I have taken the lowest among us and ascended them into society once more. Thousands of my studends would support me in providing free education to the country..."
-    stoneface ""
+    stoneface "我已经证明自己有能力照顾人们,给他们提供机遇,住房和医疗保障......我扶助社会底层民众,使他们重获新生.成千上万的学生会支持我为全国提供免费教育......"
 
 # game/scripts/clone_events.rpy:298
 translate schinese twin_recruit_6f3bf0d2:
 
     # stoneface "I quite believe that I {i}can{/i} become president, Felicity. You've admitted my success already."
-    stoneface ""
+    stoneface "菲丽希蒂,我确信自己{i}能够{/i}当总统.你已经承认了我的成功."
 
 # game/scripts/clone_events.rpy:299
 translate schinese twin_recruit_3ec57d49_6:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:300
 translate schinese twin_recruit_f52b1704:
 
     # stoneface "Honestly, do you disagree with my policies? Would you not vote for me if I wasn't your father?"
-    stoneface ""
+    stoneface "说实话,你真的不同意我的政策吗?如果我不是你的父亲,你不会投票支持我吗?"
 
 # game/scripts/clone_events.rpy:301
 translate schinese twin_recruit_ddb8c42e:
 
     # f "...I don't know."
-    f ""
+    f "......我不知道."
 
 # game/scripts/clone_events.rpy:303
 translate schinese twin_recruit_1fce63b5:
 
     # siri "Your policies are amazing, father. People have been wanting better education for decades... you'll win, no doubt."
-    siri ""
+    siri "父亲,你的政策真是了不起.几十年来,人们一直渴望获得更好的教育......毫无疑问,你必胜无疑."
 
 # game/scripts/clone_events.rpy:304
 translate schinese twin_recruit_0a5965ac:
 
     # num "Thorne is quite divisive as well. If you can unify the people, you'll have a good chance."
-    num ""
+    num "索恩同样是个极具争议的人物.如果能够团结民众,你便大有胜算."
 
 # game/scripts/clone_events.rpy:305
 translate schinese twin_recruit_e43fb1d2:
 
     # siri "So long as you can ignore the slavery issue and press education, I think you'll win the hearts and minds of both sides."
-    siri ""
+    siri "只要你能够忽略奴隶制的问题并推进教育,我相信你可以赢得双方的民心."
 
 # game/scripts/clone_events.rpy:307
 translate schinese twin_recruit_957ede62:
 
     # stoneface "Yes, abolitionists tend to be college students, those who would benefit from my policies most of all."
-    stoneface ""
+    stoneface "是的,废奴主义者往往是大学生,而他们正是从我的政策中获益最多的一群人."
 
 # game/scripts/clone_events.rpy:308
 translate schinese twin_recruit_8f19dd71:
 
     # stoneface "However, slaveholders tend to be anti-education. Winning their hearts will be most difficult of all. It won't be enough to simply ignore the slavery issue... we must support it."
-    stoneface ""
+    stoneface "然而,奴隶主往往反对教育.要赢得他们的支持最为困难.仅仅回避奴隶制问题远远不够......我们必须支持它."
 
 # game/scripts/clone_events.rpy:309
 translate schinese twin_recruit_5a163b0a:
 
     # siri "...You're going to run on a pro-slavery ticket?"
-    siri ""
+    siri "......你要以支持奴隶制的立场参选?"
 
 # game/scripts/clone_events.rpy:310
 translate schinese twin_recruit_4bfb6cba:
 
     # stoneface "That's correct. Though the status quo will remain."
-    stoneface ""
+    stoneface "没错.尽管最终现状依然会保持不变."
 
 # game/scripts/clone_events.rpy:311
 translate schinese twin_recruit_0e9bc1f3:
 
     # stoneface "What happens to the elves is none of my concern, nor does it require my attention. We will simply adopt the popular rhetoric and use it to our advantage."
-    stoneface ""
+    stoneface "精灵们的遭遇与我无关,也不值得我费心.我们只需要顺应潮流,将它们为我所用."
 
 # game/scripts/clone_events.rpy:312
 translate schinese twin_recruit_47ff5fdc:
 
     # ron "What's in it for us, though? If you're gonna leave the family to Siri, you gotta have some plans for us, right?"
-    ron ""
+    ron "但是这对我们有什么好处?如果你要把家族交给希瑞打理,总得给我们安排些什么吧?"
 
 # game/scripts/clone_events.rpy:314
 translate schinese twin_recruit_cf940430:
 
     # stoneface "Yes. Ron, I would like one of your restaurants in every community college we build."
-    stoneface ""
+    stoneface "是的.罗恩,我希望在我们建设的每一所社区学院里都有一家你的餐厅."
 
 # game/scripts/clone_events.rpy:315
 translate schinese twin_recruit_ba9c570d:
 
     # ron "Oh hell yeah!"
-    ron ""
+    ron "哦,太他妈棒了!"
 
 # game/scripts/clone_events.rpy:316
 translate schinese twin_recruit_548f88bc:
 
     # stoneface "Makoa, I would select you to be my Attorney General. And Numbers, I would choose you to be my Secretary of the Treasury."
-    stoneface ""
+    stoneface "毛加,我将任命你担任司法部长.而涅波斯,我将任命你担任财政部长."
 
 # game/scripts/clone_events.rpy:317
 translate schinese twin_recruit_2ce5c464:
 
     # num "Hm, fitting."
-    num ""
+    num "嗯,挺合适我的."
 
 # game/scripts/clone_events.rpy:319
 translate schinese twin_recruit_054967d7:
 
     # stoneface "And felicity..."
-    stoneface ""
+    stoneface "至于菲丽希蒂......"
 
 # game/scripts/clone_events.rpy:320
 translate schinese twin_recruit_3ec57d49_7:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:321
 translate schinese twin_recruit_025fb944:
 
     # stoneface "I would like you to be my campaign manager. Preferrably alongside Emma..."
-    stoneface ""
+    stoneface "我希望你能担任我的竞选经理,最好能和艾玛合作......"
 
 # game/scripts/clone_events.rpy:322
 translate schinese twin_recruit_3ec57d49_8:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:323
 translate schinese twin_recruit_82bbc8d6:
 
     # siri "{i}Felicity...!{/i}"
-    siri ""
+    siri "{i}菲丽希蒂......!{/i}"
 
 # game/scripts/clone_events.rpy:324
 translate schinese twin_recruit_f9fa0801:
 
     # stoneface "...It's no matter. Give her the time and space she requires. I'm sure this whole situation is a lot for her..."
-    stoneface ""
+    stoneface "......没关系.给她一点时间和空间.我相信这件事对她来说压力确实很大......"
 
 # game/scripts/clone_events.rpy:325
 translate schinese twin_recruit_4e6f37e4:
 
     # stoneface "In any case, it seems the rest of us are in agreement. I will continue with the plan, and will expect each of you to play your roles appropriately."
-    stoneface ""
+    stoneface "无论如何,看来其他人都同意这个方案.我将继续推进计划,并期待各位都能各司其职."
 
 # game/scripts/clone_events.rpy:327
 translate schinese twin_recruit_f81012d8:
 
     # stoneface "Sirona, you are now The Boss. The Ascendants are yours."
-    stoneface ""
+    stoneface "希罗娜,现在你就是老大.擢升者归你所有."
 
 # game/scripts/clone_events.rpy:328
 translate schinese twin_recruit_73fd10d3:
 
     # stoneface "With that, this meeting is adjourned.\nWe have a big day ahead of us, and a campaign to plan for. Work hard, and our dreams will become a reality."
-    stoneface ""
+    stoneface "至此,本次会议结束.\n为你即将迎来重要的一天,以及一场需要筹划的竞选.努力奋斗吧,我们的梦想终将成真."
 
 # game/scripts/clone_events.rpy:330
 translate schinese twin_recruit_b684f2f7:
 
     # stoneface "Felicity... I expect an answer from you within three days. Do not disappoint me."
-    stoneface ""
+    stoneface "菲丽希蒂......我要求你在三天内给我答复.不要让我失望."
 
 # game/scripts/clone_events.rpy:331
 translate schinese twin_recruit_3ec57d49_9:
 
     # f "..."
-    f ""
+    f "......"
 
 # game/scripts/clone_events.rpy:335
 translate schinese twin_recruit_1fc1436e:
 
     # r "v0.19: Because Harem Hotel is still in development, and the next event has not been made yet, you will be returned to the hotel as if this did not happen so you may continue to interact with Felicity."
-    r ""
+    r "v0.19:由于后宫酒店仍处于开发中,且下一个事件还未发生,因此你将被送回酒店,就像这一切没有发生一样,这样你就可以继续与菲丽希蒂互动了."
 

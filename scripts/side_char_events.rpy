@@ -46386,7 +46386,7 @@ translate schinese kate9_3870944d:
 translate schinese kate9_11a1f6a2:
 
     # hless "Fuck you, Mikey. I'll do what I want."
-    hless "去你妈的,米奇.我想做什么就做什么."
+    hless "去你妈的,麦克.我想做什么就做什么."
 
 # game/scripts/side_char_events.rpy:7980
 translate schinese kate9_47e61029:
@@ -55436,7 +55436,7 @@ translate schinese hana_anal_8586fdfa:
 translate schinese hana_anal_134fa515:
 
     # l "'Wanna have sex?'"
-    l "'想做爱吗?"
+    l "'想做爱吗?'"
 
 # game/scripts/side_char_events.rpy:11827
 translate schinese hana_anal_a8fc859a:

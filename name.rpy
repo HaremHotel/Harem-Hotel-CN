@@ -508,3 +508,15 @@ translate schinese strings:
 
     old "Nero Card"
     new "尼禄卡"
+
+    old "Sirona"
+    new "希罗娜"
+
+    old "Siri"
+    new "希瑞"
+
+    old "Makoa"
+    new "毛加"
+
+    old "Drone"
+    new "无人机"

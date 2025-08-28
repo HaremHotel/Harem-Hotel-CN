@@ -3235,7 +3235,7 @@ translate schinese strings:
 
     # game/scripts/screens.rpy:9541
     old "Language"
-    new "语言"
+    new "语言\n(如未见中文)\n(请左右滑动)"
 
     # game/scripts/screens.rpy:9544
     old "English"
@@ -3841,11 +3841,11 @@ translate schinese strings:
 
     # game/scripts/screens.rpy:10427
     old "Character Fonts"
-    new "角色名称字体"
+    new "角色名称字体\n(中文下不可用)\n(请切换回中文)"
 
     # game/scripts/screens.rpy:10428
     old "Stylized"
-    new "区分(中文下不可用)"
+    new "区分"
 
     # game/scripts/screens.rpy:10429
     old "Normalized"
