@@ -56042,3 +56042,11 @@ translate schinese strings:
     old "Not interested."
     new "不感兴趣."
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/side_char_events.rpy:7347
+translate schinese ellenspasex_36452e1a:
+
+    # e "Oh wow, that was a lot! I'm glad you enjoyed..."
+    e "哦,哇哦,好多啊!我很高兴你能这么享受......"
+

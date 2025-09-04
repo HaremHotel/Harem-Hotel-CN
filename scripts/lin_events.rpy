@@ -58626,3 +58626,17 @@ translate schinese queentalk_907f2196:
     # c "I'm happy for you. Why don't we get out of here? It's about time to head home."
     c "我为你感到搞笑.我们离开吧?差不多该回家了."
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/lin_events.rpy:17821
+translate schinese linworried_b5ced5d2:
+
+    # e "That's right, I think it was about 16 years ago. [name]'s grandfather hired me, it was my first job."
+    e "是的,我记得那是16年前了.[name]的爷爷雇佣了我,那是我的第一份工作."
+
+translate schinese strings:
+
+    # game/scripts/lin_events.rpy:1277
+    old "Continue to part two, or a take a break? You may continue the story at Lin's door at any time."
+    new "继续第二部分,还是休息一下?你可以随时通过林的房门继续故事."
+

@@ -51556,3 +51556,11 @@ translate schinese kalioutfits_d94e6382:
     # k "Sure... I can guess I can, but only for you."
     k "当然......我可以,但仅限于你."
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/kali_events.rpy:7732
+translate schinese k_fancyq_8225ce8c:
+
+    # k "I don't know if I should be freaking out, or very be excited right now..."
+    k "我不知道现在该惊慌失措,还是该兴奋不已......"
+

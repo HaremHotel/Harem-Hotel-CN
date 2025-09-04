@@ -3,13 +3,13 @@
 translate schinese ash_lowtown_pt2_b1acf419:
 
     # c "I got the phone, are you ready to head out?"
-    c "我拿到手机了,准备好出发了吗?"
+    c "我拿到手机了,可以出发了吗?"
 
 # game/scripts/ash_events.rpy:43
 translate schinese ash_lowtown_pt2_d6c6e350:
 
     # a "Yeah! I'll meet you in the car."
-    a "是的!我们车里见."
+    a "好了!我们车里见."
 
 # game/scripts/ash_events.rpy:46
 translate schinese ash_lowtown_pt2_f2989505:
@@ -21,19 +21,19 @@ translate schinese ash_lowtown_pt2_f2989505:
 translate schinese ash_lowtown_pt2_8721d89c:
 
     # c "It's what you want, isn't it?"
-    c "这是你想要的,不是吗?"
+    c "这不是你想要的吗?"
 
 # game/scripts/ash_events.rpy:48
 translate schinese ash_lowtown_pt2_6c92480d:
 
     # a "But we're helping that guy and his store. I don't think that's what Ren would want."
-    a "但是我们这是在帮那个人和他的商店.这不是任想要的."
+    a "但我们这是在帮那个人和他的商店.这并不是任想要的."
 
 # game/scripts/ash_events.rpy:49
 translate schinese ash_lowtown_pt2_d8bfaa5b:
 
     # c "Sometimes you gotta do a little bad to do some good. Saving Ren will make up for it."
-    c "有时候为了做好事,你不得不去做些必要之恶.救下任的利远大于弊."
+    c "有时候,为了做好事,你不得不去做些必要之恶.救下任的利远大于弊."
 
 # game/scripts/ash_events.rpy:51
 translate schinese ash_lowtown_pt2_f950cd8c:
@@ -45,7 +45,7 @@ translate schinese ash_lowtown_pt2_f950cd8c:
 translate schinese ash_lowtown_pt2_8c7d4de0:
 
     # c "That's good, but we don't have much of a choice if you want this information. It sounds like he's the only one that knows who took her."
-    c "你能这么想很好,但是如果你想要那些信息,我们别无选择.似乎只有他才知道是谁带走了她."
+    c "你能这么想是好事,但是如果你想要那些信息,我们别无选择.似乎只有他才知道是谁带走了她."
 
 # game/scripts/ash_events.rpy:53
 translate schinese ash_lowtown_pt2_c2eba526:
@@ -75,13 +75,13 @@ translate schinese ash_lowtown_pt2_0fe3ce11:
 translate schinese ash_lowtown_pt2_8b648793:
 
     # a "My parents - well, mostly my mom... - worked really hard to keep me away from the slums, or even a place like this. She literally worked like a slave cleaning houses for rich people..."
-    a "我的父母-好吧,主要是我妈妈......为了让我远离贫民窟甚至是这样的地方,努力工作.她就像奴隶一般,为那些富人打扫房子......"
+    a "我的父母-好吧,主要是我妈妈......为了让我远离贫民窟,或者甚至是这样的地方,努力工作.她就像奴隶一般,为那些富人打扫房子......"
 
 # game/scripts/ash_events.rpy:59
 translate schinese ash_lowtown_pt2_201e5f64:
 
     # a "I didn't have a lot when I grew up, but at least I ate. I even had a family, even if it felt like they didn't want me there all the time..."
-    a "我成长的时候家里并不富裕,但是至少我有饭吃.我甚至还有家人,即使我觉得他们并不希望让我一直呆在那里......"
+    a "我小时候家里并不富裕,但是至少我还有饭吃.我甚至还有家人,即使我觉得他们并不希望让我一直待在那里......"
 
 # game/scripts/ash_events.rpy:61
 translate schinese ash_lowtown_pt2_9225e0e3:
@@ -111,19 +111,19 @@ translate schinese ash_lowtown_pt2_b42ba7eb:
 translate schinese ash_lowtown_pt2_ade9764f:
 
     # a "I guess I'm glad I went through with it, but now I feel bad about it... They were just flawed people trying to live out their lives. They did the best with what they had. So in a way, I'm thankful."
-    a "我想我很高兴经历了这一切,但是现在我感觉很难受......他们只是挣扎求生的有缺陷的人.他们尽力了,所以在某种角度上来说,我很感激他们."
+    a "我很高兴能经历这一切,但是现在我感觉很难受......他们只是在挣扎求生的,有些缺陷的人罢了.他们已经尽力了,所以在某种角度上来说,我很感激他们."
 
 # game/scripts/ash_events.rpy:67
 translate schinese ash_lowtown_pt2_b02cb4c7:
 
     # a "At least I never felt like a slave had it better than I did. I couldn't imagine what goes through the heads of these people... they must be so angry at the world. I know I was..."
-    a "至少我从来都不觉得奴隶过得比我好.我无法想象这些人都在想些什么......他们一定很愤世嫉俗吧,我曾经也是......"
+    a "至少我从来都不觉得我过得比奴隶差.我无法想象那些人都在想些什么......他们一定很愤世嫉俗吧.就像我曾经也是......"
 
 # game/scripts/ash_events.rpy:68
 translate schinese ash_lowtown_pt2_1093ef09:
 
     # a "It's no wonder they turn to drugs. It's probably the only thing that gives them any pleasure anymore."
-    a "难怪他们会吸毒.这可能是唯一可以带给他们快乐的东西了."
+    a "难怪他们会吸毒.这也许是唯一可以带给他们快乐的东西了."
 
 # game/scripts/ash_events.rpy:69
 translate schinese ash_lowtown_pt2_de09ec3b:
@@ -159,7 +159,7 @@ translate schinese ash_lowtown_pt2_59d3b9aa:
 translate schinese ash_lowtown_pt2_6818651d:
 
     # a "It sure smelled like tinu.\n...But yeah, it was probably a good thing she took it away from me."
-    a "它闻起来确实像是蒂努草.\n......但是确实,她把它拿走对我来说可能是件好事."
+    a "它闻起来确实像是蒂努草.\n......但是确实,她把它拿走对我来说也许是件好事."
 
 # game/scripts/ash_events.rpy:77
 translate schinese ash_lowtown_pt2_7aefa76f:
@@ -171,13 +171,13 @@ translate schinese ash_lowtown_pt2_7aefa76f:
 translate schinese ash_lowtown_pt2_9aa7a3a2:
 
     # c "I did."
-    c "有."
+    c "我有."
 
 # game/scripts/ash_events.rpy:79
 translate schinese ash_lowtown_pt2_7f4c5182:
 
     # a "I was thinking maybe we could buy some supplies for the people here after we're done. The same kind of stuff those guys at The Dead End sell. Then we could just give it all away and make those guys feel like assholes."
-    a "我在想,也许我们可以在完事后为这里的人买点东西.和死胡同那些人卖的一样的东西.然后把它们全部送人,狠狠地恶心一下那些混蛋."
+    a "我在想,也许我们可以在完事之后,为这里的人买点东西.和死胡同那些人卖的一样的东西.然后把它们全部送人,狠狠地恶心一下那些混蛋."
 
 # game/scripts/ash_events.rpy:80
 translate schinese ash_lowtown_pt2_440561c7:
@@ -201,7 +201,7 @@ translate schinese ash_lowtown_pt2_a98b478e:
 translate schinese ash_lowtown_pt2_81c9a89b:
 
     # a "Oh! And do you remember that former mayor [botname] mentioned? The one that stole money and fled to The Capitol?"
-    a "哦!你还记得[botname!t]提到的那个前市长吗?偷了钱然后潜逃到凯辟都的那个?"
+    a "哦!你还记得[botname!t]提到的那个前市长吗?贪污潜逃到凯辟都的那个?"
 
 # game/scripts/ash_events.rpy:85
 translate schinese ash_lowtown_pt2_7121ebe1:
@@ -219,7 +219,7 @@ translate schinese ash_lowtown_pt2_f8007007:
 translate schinese ash_lowtown_pt2_3d622e35:
 
     # c "You could ask her yourself."
-    c "你可以自己去问她."
+    c "你可以自己去找她."
 
 # game/scripts/ash_events.rpy:88
 translate schinese ash_lowtown_pt2_d6491397:
@@ -47745,4 +47745,36 @@ translate schinese strings:
     # game/scripts/ash_events.rpy:12844
     old "{color=#8C8C8C}> Nude <{/color}"
     new "{color=#8C8C8C}> 裸体 <{/color}"
+
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/ash_events.rpy:92
+translate schinese ash_gang_be0a7432:
+
+    # a "{i}I can't wait to use this on some Blue Dragon motherfuckers...{/i}"
+    a "{i}我已经等不及要用这把刀插进那些青龙帮的混蛋里了......{/i}"
+
+# game/scripts/ash_events.rpy:285
+translate schinese ash_gang_cfda4822:
+
+    # rasha "And where's ya bat at, Nia!? EH??" with ssshake
+    rasha "还有,你的棒球棍拿去了,妮娅!?{b}嗯??{/b}" with ssshake
+
+# game/scripts/ash_events.rpy:442
+translate schinese ash_gang_af38ace7:
+
+    # num "Ashley... what a surprise."
+    num "阿什莉......真是惊喜啊."
+
+# game/scripts/ash_events.rpy:455
+translate schinese ash_gang_9eb404f9:
+
+    # von "Shut the fuck up, you little bitch! You are not a part of this."
+    von "闭上他妈的嘴,你个小逼崽子!你和这件事没有半毛钱关系."
+
+# game/scripts/ash_events.rpy:607
+translate schinese ash_gang_01af3788:
+
+    # nia "Ashley, what did you get us into!? I didn't agree to this!"
+    nia "阿什莉,你都把我们卷进什么里了!?我可没答应过这事!"
 

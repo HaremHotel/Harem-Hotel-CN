@@ -2000,3 +2000,23 @@ translate schinese botoutfits_053432b7_3:
     # bot "Okay!"
     bot "好的!"
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/bot_events.rpy:11695
+translate schinese bot_maria_c12e5363:
+
+    # m "Emphasis on {i}fully functional.{/i}"
+    m "重点是{i}功能齐全的服务.{/i}"
+
+# game/scripts/bot_events.rpy:11696
+translate schinese bot_maria_49caa87b:
+
+    # bot "No! Emphasis on {i}[botname]!{/i}"
+    bot "不对,重点是{i}[botname!t]!{/i}"
+
+# game/scripts/bot_events.rpy:12178
+translate schinese botfamily_020182a2:
+
+    # bot "Yep. Watching... listening... turning off the lights when you forget to. It's not nice to waste electricity..."
+    bot "是的.我看着......听着......你们忘记关灯就帮你们关掉.浪费电可不是什么好行为......"
+

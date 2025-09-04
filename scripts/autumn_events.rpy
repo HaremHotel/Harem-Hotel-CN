@@ -36393,3 +36393,11 @@ translate schinese aut_dare_4fc42ca0:
     # corn "HELLO"
     corn "{b}你好{/b}"
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/autumn_events.rpy:5237
+translate schinese aut_oldhouse_baffcdf1:
+
+    # au "I always thought that maybe... my first kiss would be in front of a bonfire. It always seemed romantic to me, I don't know..."
+    au "我一直认为,或许......我的初吻会发生在篝火前.我总觉得那很浪漫,我也说不清楚为什么......"
+

@@ -994,3 +994,11 @@ translate schinese spycam_shower_aff769af:
 
     # c "No one is using the shower right now."
     c "现在没人在用浴室."
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/spycams.rpy:682
+translate schinese spycam_twins_e460e70f:
+
+    # c "I feel bad... Emma is probably sobbing..."
+    c "我感觉很糟糕......艾玛现在可能在哭吧......"
+

@@ -57636,3 +57636,29 @@ translate schinese twin_recruit_1fc1436e:
     # r "v0.19: Because Harem Hotel is still in development, and the next event has not been made yet, you will be returned to the hotel as if this did not happen so you may continue to interact with Felicity."
     r "v0.19:由于后宫酒店仍处于开发中,且下一个事件还未发生,因此你将被送回酒店,就像这一切没有发生一样,这样你就可以继续与菲丽希蒂互动了."
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/clone_events.rpy:4910
+translate schinese twin_gym_ff26c227:
+
+    # dean "I want you to tell me what's going on over there. You're hiding something... something you don't want me to know. Why?"
+    dean "我要你告诉我那里发生了什么.你在隐瞒......隐瞒一些你不想让我知道的事情.为什么?"
+
+# game/scripts/clone_events.rpy:8708
+translate schinese twin_ash_winter_6bf3d559:
+
+    # f "Did you want me to invite you or something? What's wrong with you!?"
+    f "你是想让我邀请你还是怎么的?你什么毛病!?"
+
+# game/scripts/clone_events.rpy:17230
+translate schinese felroomtalk_37999fe5:
+
+    # f "Wonderful! I'll never forget our time in the dungeon~ Heheh..."
+    f "太棒了!我不会忘记我们在地牢里的那段时光的~呵呵呵......"
+
+# game/scripts/clone_events.rpy:17482
+translate schinese feloutfits_51fd136f:
+
+    # f "Are you joking? Haha! Stop... seriously."
+    f "你在开玩笑吗?哈哈!停下......我说认真的."
+

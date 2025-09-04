@@ -2293,3 +2293,11 @@ translate schinese icecream_14b9a0a8:
     # c "Woah, $50! Nice!"
     c "喔,50$!太好了!"
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/lobby_script.rpy:384
+translate schinese ellenchilldesk_d790d39c:
+
+    # c "She's usually taking a shower during this time."
+    c "她通常会在这个时候洗澡."
+

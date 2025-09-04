@@ -110750,3 +110750,47 @@ translate schinese strings:
     old "{color=#8C8C8C}Visit the Church{/color}"
     new "{color=#8C8C8C}前往教堂{/color}"
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/script.rpy:4797
+translate schinese billad_67799a2e:
+
+    # c "Oh. I don't have enough money for that..."
+    c "哦.我钱不够买......"
+
+# game/script.rpy:4798
+translate schinese billad_02c274d0:
+
+    # e "Heheh, brokie."
+    e "呵呵呵,穷光蛋."
+
+# game/script.rpy:7434
+translate schinese floor1menu_4a3c0c2a:
+
+    # l "I've just been thinking about the past..."
+    l "我一直在回想过去......"
+
+# game/script.rpy:10994
+translate schinese expl_beach3_57a5d138:
+
+    # crowd "Buy it! Now, now, now!!\nFUCK! I CAN'T LOG IN!\nI already made a tenth of a crown, yessssss!"
+    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{b}\n我已经赚到十分之一的皇冠币了,太好了!"
+
+# game/script.rpy:13587
+translate schinese explore_cafe3_49d65953:
+
+    # bloc "Did you know the queen is 312 years old? The same age as our country!"
+    bloc "你知道女王312岁了吗?跟我们的国家一样大!"
+
+# game/script.rpy:13668
+translate schinese explore_cafe4_d821137a:
+
+    # brownwoman "Wow, this place is kinda nice actually. It gives retro poverty vibes."
+    brownwoman "哇,这地方还真不错.透着一股怀旧的贫穷气息."
+
+# game/script.rpy:15495
+translate schinese bern_tourney_3a605457:
+
+    # pol "You suck more than Jefferson's sister, and she's a whore."
+    pol "你比杰斐逊的妹妹还烂,她可是个妓女来着."
+

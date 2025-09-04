@@ -51299,3 +51299,17 @@ translate schinese hantalk_2a8147ab:
     # han "Oh sure! Just give me a moment to prepare."
     han "哦,当然可以!让我准备一下."
 
+# TODO: Translation updated at 2025-09-04 23:17
+
+# game/scripts/maria_events.rpy:4451
+translate schinese mar_hangout_04_9d18c1bd:
+
+    # m "I own a few other board games as well that we could all play together. A hostess must always keep a variety of games at her disposal for the entertainment of her guests~"
+    m "我还有其他几款可以一起玩的棋类游戏.毕竟作为女主人,得随时准备各种游戏给她的客人们娱乐嘛~"
+
+# game/scripts/maria_events.rpy:10927
+translate schinese marsneaky_e9d7c97c:
+
+    # m "You didn't know? Elves are master tailors. They make special weaves when making clothing, it's supposed to make clothes tear resistant."
+    m "你不知道吗?精灵们可是大师级的裁缝.他们在制作衣服的时候会使用特殊的编织工艺,据说可以让衣服抗撕裂."
+
