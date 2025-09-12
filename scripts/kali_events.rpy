@@ -48492,7 +48492,7 @@ translate schinese kalicafe_c4bfcf8a:
 translate schinese kalicafe_11b2af75:
 
     # k "I feel most loved when then people I love reassure and validate me, and my father is just never around to do that. My mother would only give me gifts... So I guess I just turned to climbing the leaderboards on videogames to get that feeling."
-    k "只有我爱的人安慰我,肯定我的时候,我才能感受到他们的爱,可我爸爸从来都没那么做过.我妈妈也只会给我礼物......所以我只能够通过登顶游戏排行榜来获得那种感觉."
+    k "当我爱的人安慰我,肯定我的时候,我就能感受到他们最深的爱意,可我爸爸从来都没那么做过.我妈妈也只会给我礼物......所以我只能够通过登顶游戏排行榜来获得那种感觉."
 
 # game/scripts/kali_events.rpy:13235
 translate schinese kalicafe_da42e13c:
@@ -51563,4 +51563,12 @@ translate schinese k_fancyq_8225ce8c:
 
     # k "I don't know if I should be freaking out, or very be excited right now..."
     k "我不知道现在该惊慌失措,还是该兴奋不已......"
+
+# TODO: Translation updated at 2025-09-13 00:40
+
+# game/scripts/kali_events.rpy:13805
+translate schinese kalicafe_d638e44a:
+
+    # k "I feel most loved when the people I love reassure and validate me, and my father is just never around to do that. My mother would only give me gifts... So I guess I just turned to climbing the leaderboards on videogames to get that feeling."
+    k "当我爱的人安慰我,肯定我的时候,我就能感受到他们最深的爱意,可我爸爸从来都没那么做过.我妈妈也只会给我礼物......所以我只能够通过登顶游戏排行榜来获得那种感觉."
 

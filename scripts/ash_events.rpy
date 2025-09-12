@@ -47778,3 +47778,11 @@ translate schinese ash_gang_01af3788:
     # nia "Ashley, what did you get us into!? I didn't agree to this!"
     nia "阿什莉,你都把我们卷进什么里了!?我可没答应过这事!"
 
+# TODO: Translation updated at 2025-09-13 00:40
+
+# game/scripts/ash_events.rpy:14495
+translate schinese ashmom_b255fe6c:
+
+    # c "Calm down, everyone... Ashley is an adult, she can make her own decisions."
+    c "大伙都冷静点......阿什利已经是成年人了,她有权自己做决定."
+

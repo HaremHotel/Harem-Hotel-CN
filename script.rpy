@@ -110794,3 +110794,91 @@ translate schinese bern_tourney_3a605457:
     # pol "You suck more than Jefferson's sister, and she's a whore."
     pol "你比杰斐逊的妹妹还烂,她可是个妓女来着."
 
+# TODO: Translation updated at 2025-09-13 00:40
+
+# game/script.rpy:1152
+translate schinese sleepwithsomeone_1c11fb8d:
+
+    # c "Lin isn't available tonight..."
+    c "林今晚不方便......"
+
+# game/script.rpy:1162
+translate schinese sleepwithsomeone_76a2ed6b:
+
+    # c "Kali isn't available tonight..."
+    c "凯莉今晚不方便......"
+
+# game/script.rpy:1172
+translate schinese sleepwithsomeone_ced487c7:
+
+    # c "Ashley isn't available tonight..."
+    c "阿什莉今晚不方便......"
+
+# game/script.rpy:1182
+translate schinese sleepwithsomeone_e9cb4ed5:
+
+    # c "[botname] isn't available tonight..."
+    c "[botname!t]今晚不方便......"
+
+# game/script.rpy:1208
+translate schinese sleepwithsomeone_e9cb4ed5_1:
+
+    # c "[botname] isn't available tonight..."
+    c "[botname!t]今晚不方便......"
+
+# game/script.rpy:1220
+translate schinese sleepwithsomeone_8b6b211c:
+
+    # c "Felicity isn't available tonight..."
+    c "菲丽希蒂今晚不方便......"
+
+# game/script.rpy:1230
+translate schinese sleepwithsomeone_bcef210b:
+
+    # c "Emma isn't available tonight..."
+    c "艾玛今晚不方便......"
+
+# game/script.rpy:16678
+translate schinese nextfrontdoor_7b21cfb9:
+
+    # c "The city is under a lockdown... best to avoid it for now."
+    c "城市已被封锁......最好暂时不要出去."
+
+# game/script.rpy:21087
+translate schinese yourroomcontinued_9adf3d4a:
+
+    # c "I should really get closer to Lin."
+    c "我应该和林更亲密点."
+
+# game/script.rpy:21092
+translate schinese yourroomcontinued_18fa0f43:
+
+    # c "I shouldn't forget to buy Ashley a gift online. Maybe a stiletto?"
+    c "可别忘了给阿什莉网购一份礼物.小刀怎么样?"
+
+translate schinese strings:
+
+    # game/script.rpy:1137
+    old "{color=#8C8C8C}Sleep with Lin{/color}"
+    new "{color=#8C8C8C}和林一起睡觉{/color}"
+
+    # game/script.rpy:1137
+    old "{color=#8C8C8C}Sleep with Kali{/color}"
+    new "{color=#8C8C8C}和凯莉一起睡觉{/color}"
+
+    # game/script.rpy:1137
+    old "{color=#8C8C8C}Sleep with Ashley{/color}"
+    new "{color=#8C8C8C}和阿什莉一起睡觉{/color}"
+
+    # game/script.rpy:1137
+    old "{color=#8C8C8C}Sleep with Maria{/color}"
+    new "{color=#8C8C8C}和玛丽亚一起睡觉{/color}"
+
+    # game/script.rpy:1137
+    old "{color=#8C8C8C}Sleep with [botname]{/color}"
+    new "{color=#8C8C8C}和[botname!t]一起睡觉{/color}"
+
+    # game/script.rpy:1137
+    old "{color=#8C8C8C}Sleep with Emma{/color}"
+    new "{color=#8C8C8C}和艾玛一起睡觉{/color}"
+

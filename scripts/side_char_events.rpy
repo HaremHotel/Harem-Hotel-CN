@@ -56050,3 +56050,11 @@ translate schinese ellenspasex_36452e1a:
     # e "Oh wow, that was a lot! I'm glad you enjoyed..."
     e "哦,哇哦,好多啊!我很高兴你能这么享受......"
 
+# TODO: Translation updated at 2025-09-13 00:40
+
+# game/scripts/side_char_events.rpy:8216
+translate schinese lucy_sigma_82a4df6c:
+
+    # jor "I use it every day, and I'm fucking ripped. You can be too. Click the link in the description below to buy yours today."
+    jor "我每天都在用它,而我现在强得离谱.你也可以变得和我一样.点击下方简介中的链接,今天就订购吧."
+

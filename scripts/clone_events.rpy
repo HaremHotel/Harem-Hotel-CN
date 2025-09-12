@@ -57662,3 +57662,11 @@ translate schinese feloutfits_51fd136f:
     # f "Are you joking? Haha! Stop... seriously."
     f "你在开玩笑吗?哈哈!停下......我说认真的."
 
+# TODO: Translation updated at 2025-09-13 00:40
+
+# game/scripts/clone_events.rpy:161
+translate schinese twin_recruit_c57a09e5:
+
+    # stoneface "Thank you for joining us, Felicity. I'd like to introduce you to everyone."
+    stoneface "感谢你加入我们,菲丽希蒂.我想请大家认识一下你."
+
