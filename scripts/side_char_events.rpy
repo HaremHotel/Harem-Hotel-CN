@@ -56058,3 +56058,10 @@ translate schinese lucy_sigma_82a4df6c:
     # jor "I use it every day, and I'm fucking ripped. You can be too. Click the link in the description below to buy yours today."
     jor "我每天都在用它,而我现在强得离谱.你也可以变得和我一样.点击下方简介中的链接,今天就订购吧."
 
+# TODO: Translation updated at 2025-12-02 02:08
+
+# game/scripts/side_char_events.rpy:871
+translate schinese jinny6choice_e77f1d3b:
+
+    # "Jin has been hired as the hotel's gardener!"
+    "金被雇佣为了酒店的园丁!"

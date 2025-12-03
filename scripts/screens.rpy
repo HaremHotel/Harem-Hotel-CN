@@ -3863,3 +3863,8 @@ translate schinese strings:
     old "Felicity & Emma's Story in v0.17"
     new "v0.17中菲丽希蒂和艾玛的故事"
 
+    old "UNLOCKED"
+    new "解锁"
+
+    old "[hotelname] is now a [hotel_stars]-Star Hotel!"
+    new "[hotelname]现在是一个[hotel_stars]星酒店!"

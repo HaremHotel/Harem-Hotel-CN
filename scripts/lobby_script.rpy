@@ -2301,3 +2301,1671 @@ translate schinese ellenchilldesk_d790d39c:
     # c "She's usually taking a shower during this time."
     c "她通常会在这个时候洗澡."
 
+# TODO: Translation updated at 2025-12-02 02:08
+
+# game/scripts/lobby_script.rpy:382
+translate schinese tourist_arrive_b1d1d91e:
+
+    # zara "Oh, hey [name]. I got bored, so... thought I'd try out your hotel."
+    zara "噢,嘿,[name].我有点无聊,所以......想来试试你的酒店."
+
+# game/scripts/lobby_script.rpy:383
+translate schinese tourist_arrive_2f165b3b:
+
+    # c "You're always welcome, Zara. We'll still need to see some ID to approve your booking, though."
+    c "随时欢迎,扎拉.不过我们仍需要核验你的身份才能确认预定."
+
+# game/scripts/lobby_script.rpy:384
+translate schinese tourist_arrive_9d41482f:
+
+    # zara "Sure."
+    zara "当然可以."
+
+# game/scripts/lobby_script.rpy:386
+translate schinese tourist_arrive_553f77a7:
+
+    # zara "Excuse you, stay in line."
+    zara "不好意思,请你排好队."
+
+# game/scripts/lobby_script.rpy:387
+translate schinese tourist_arrive_91f15625:
+
+    # e "Oh, that's just the manager, ma'am."
+    e "噢,那位是经理,女士."
+
+# game/scripts/lobby_script.rpy:388
+translate schinese tourist_arrive_c1f3ef22:
+
+    # zara "Oh. Is there an issue?"
+    zara "噢,有什么问题吗?"
+
+# game/scripts/lobby_script.rpy:389
+translate schinese tourist_arrive_d7bedcb6:
+
+    # c "No issue, ma'am, welcome to Syl'ari's best hidden gem! May I see some ID?"
+    c "没有问题,女士,欢迎来到西尔阿里州最隐秘的瑰宝!能出示下身份证件吗?"
+
+# game/scripts/lobby_script.rpy:390
+translate schinese tourist_arrive_9d41482f_1:
+
+    # zara "Sure."
+    zara "当然可以."
+
+# game/scripts/lobby_script.rpy:392
+translate schinese tourist_arrive_16b44898:
+
+    # passport "Name: Zara Zara | Age: 23\nOccupation: None\nBirthplace: The Capitol | Residency: Citizen of Caliber, Syl'ari"
+    passport "姓名:扎拉·扎拉 | 年龄:23\n职业:无业\n出生地:开普陀市 | 居住地: 西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:394
+translate schinese tourist_arrive_ed90a7bc:
+
+    # c "Zara... Zara?"
+    c "扎拉......扎拉?"
+
+# game/scripts/lobby_script.rpy:395
+translate schinese tourist_arrive_9c40334d:
+
+    # zara "My parents were pretentious... still are."
+    zara "我的父母很喜欢搞这种怪东西......现在依然如此."
+
+# game/scripts/lobby_script.rpy:400
+translate schinese tourist_arrive_c4b81737:
+
+    # c "Enjoy your stay."
+    c "祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:401
+translate schinese tourist_arrive_ee75408c:
+
+    # zara "Cool, thanks."
+    zara "酷,谢谢."
+
+# game/scripts/lobby_script.rpy:422
+translate schinese tourist_arrive_705b873c:
+
+    # c "Oh I forgot... we're fully booked today."
+    c "噢,我忘说了......我们今天已经满员了."
+
+# game/scripts/lobby_script.rpy:423
+translate schinese tourist_arrive_e753ba0e:
+
+    # zara "Seriously? Urgh..."
+    zara "你认真的?呃......"
+
+# game/scripts/lobby_script.rpy:425
+translate schinese tourist_arrive_a523c03e:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:430
+translate schinese tourist_arrive_966ce722:
+
+    # e "Ah, and this is the manager."
+    e "啊,这是经理."
+
+# game/scripts/lobby_script.rpy:431
+translate schinese tourist_arrive_862b858f:
+
+    # claire "Oh hello! I was just talking to your receptionist about the geothermal activity behind the hotel? What do you know about it?"
+    claire "噢,你好!我刚才正在和你的接待员谈论酒店后面的地热活动呢?你对此了解多少?"
+
+# game/scripts/lobby_script.rpy:432
+translate schinese tourist_arrive_c27990e4:
+
+    # c "Well, it's very relaxing. Would you like to try it?"
+    c "嗯,它能让人很放松.你想试试吗?"
+
+# game/scripts/lobby_script.rpy:433
+translate schinese tourist_arrive_2d4f670d:
+
+    # claire "Oh, no thank you. I don't believe that would be appropriate..."
+    claire "噢,不用了,谢谢.我觉得这样不合适......"
+
+# game/scripts/lobby_script.rpy:434
+translate schinese tourist_arrive_76bdddf2:
+
+    # claire "I'm an anthropologist you see, I believe there was once great cultural significance to it! There is truly nothing like it in the region, so I've come to study the area."
+    claire "你看,我是人类学家,我认为它具有重大的文化意义!这片区域没有其他类似的遗迹,所以我特来研究这片区域."
+
+# game/scripts/lobby_script.rpy:435
+translate schinese tourist_arrive_be5c2098:
+
+    # claire "If... that's alright with you?"
+    claire "如果......你不介意的话?"
+
+# game/scripts/lobby_script.rpy:437
+translate schinese tourist_arrive_a609e947:
+
+    # passport "Name: Claire | Age: 27\nOccupation: Cultural Anthropologist\nBirthplace: Korelia | Residency: Citizen of Korelia, Syl'osi"
+    passport "姓名:克莱尔 | 年龄:27\n职业:文化人类学家\n出生地:科里亚市 | 居住地: 西尔欧斯州,科里亚市"
+
+# game/scripts/lobby_script.rpy:443
+translate schinese tourist_arrive_b7ca7bdc:
+
+    # c "Of course. Good luck with your studies."
+    c "当然可以,祝你的研究好运."
+
+# game/scripts/lobby_script.rpy:444
+translate schinese tourist_arrive_bfb7f466:
+
+    # claire "Thank you so much!"
+    claire "谢谢!"
+
+# game/scripts/lobby_script.rpy:465
+translate schinese tourist_arrive_d4b3a9e8:
+
+    # c "Sorry, we can't accept you. We're full."
+    c "抱歉,我们不能接受你的预定.我们这里满员了."
+
+# game/scripts/lobby_script.rpy:466
+translate schinese tourist_arrive_bf46c753:
+
+    # claire "Ugh... I flew for 7 hours... for nothing?"
+    claire "呃......我飞了7小时过来......结果白跑一趟?"
+
+# game/scripts/lobby_script.rpy:468
+translate schinese tourist_arrive_a523c03e_1:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:473
+translate schinese tourist_arrive_de9344bc:
+
+    # c "What's going on here...?"
+    c "这里发生什么事了......?"
+
+# game/scripts/lobby_script.rpy:474
+translate schinese tourist_arrive_5f59d3ab:
+
+    # e "Um... well I assume he wants a room, but... he, or she? Doesn't speak..."
+    e "呃......我猜他想要订个房间,但是......他,或者她?不说话......"
+
+# game/scripts/lobby_script.rpy:475
+translate schinese tourist_arrive_d267661a:
+
+    # q "..."
+    q "......"
+
+# game/scripts/lobby_script.rpy:476
+translate schinese tourist_arrive_677b84f1:
+
+    # c "Need somewhere to sleep?"
+    c "你需要地方睡觉?"
+
+# game/scripts/lobby_script.rpy:477
+translate schinese tourist_arrive_270d94dc:
+
+    # q "*nods yes*"
+    q "*点头*"
+
+# game/scripts/lobby_script.rpy:478
+translate schinese tourist_arrive_b729630d:
+
+    # c "Do you have an ID?"
+    c "你有身份证吗?"
+
+# game/scripts/lobby_script.rpy:479
+translate schinese tourist_arrive_d55eba2d:
+
+    # q "*nods no*"
+    q "*摇头*"
+
+# game/scripts/lobby_script.rpy:480
+translate schinese tourist_arrive_d19f855d:
+
+    # c "..."
+    c "......"
+
+# game/scripts/lobby_script.rpy:485
+translate schinese tourist_arrive_6002069d:
+
+    # c "Well, if your money is good, then so are we. Welcome."
+    c "好吧,如果你的钱够的话,那我们也没意见.欢迎."
+
+# game/scripts/lobby_script.rpy:487
+translate schinese tourist_arrive_e8fdf909:
+
+    # q "WAPAAA!" with ssshake
+    q "{b}瓦帕!{/b}" with ssshake
+
+# game/scripts/lobby_script.rpy:488
+translate schinese tourist_arrive_7543ea61:
+
+    # c "Huh?"
+    c "嗯?"
+
+# game/scripts/lobby_script.rpy:489
+translate schinese tourist_arrive_3d38e22c:
+
+    # wapa "Wapa, wapa!"
+    wapa "瓦帕,瓦帕!"
+
+# game/scripts/lobby_script.rpy:491
+translate schinese tourist_arrive_498329df:
+
+    # c "Hm..."
+    c "呃......"
+
+# game/scripts/lobby_script.rpy:512
+translate schinese tourist_arrive_88de36c4:
+
+    # c "Sorry, we need ID to accept you."
+    c "对不起,我们需要核验你的身份才能同意."
+
+# game/scripts/lobby_script.rpy:513
+translate schinese tourist_arrive_d267661a_1:
+
+    # q "..."
+    q "......"
+
+# game/scripts/lobby_script.rpy:515
+translate schinese tourist_arrive_a523c03e_2:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:520
+translate schinese tourist_arrive_bf7c6370:
+
+    # e "Ah, and here's the owner now."
+    e "啊,这位是老板."
+
+# game/scripts/lobby_script.rpy:521
+translate schinese tourist_arrive_f9ffc5a1:
+
+    # sar "Oh! Hello handsome... you can all me Sarah."
+    sar "噢!你好,帅哥......你可以叫我莎拉."
+
+# game/scripts/lobby_script.rpy:522
+translate schinese tourist_arrive_6820e819:
+
+    # c "Welcome. Business or pleasure?"
+    c "欢迎.是商务出行还是娱乐出行?"
+
+# game/scripts/lobby_script.rpy:523
+translate schinese tourist_arrive_2ab3e74e:
+
+    # sar "Oh, pleasure. Definitely pleasure."
+    sar "噢,娱乐.绝对是娱乐."
+
+# game/scripts/lobby_script.rpy:524
+translate schinese tourist_arrive_94c83fac:
+
+    # passport "Name: Sarah \nAge: 37\nOccupation: Slaver\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:莎拉\n年龄:37\n职业:奴隶主\n居住地: 西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:525
+translate schinese tourist_arrive_73bfbe92:
+
+    # c "Okay... and I'll need to see an ID from him as well."
+    c "好的......我也需要检查一下他的身份证."
+
+# game/scripts/lobby_script.rpy:526
+translate schinese tourist_arrive_5832980e:
+
+    # sar "Of course, here you go."
+    sar "当然可以,给."
+
+# game/scripts/lobby_script.rpy:527
+translate schinese tourist_arrive_d45e7ba7:
+
+    # passport "Name: Durn \nAge: 173\nOccupation: Head Waiter\nResidency: Slave of Sarah, Sylari"
+    passport "姓名:杜恩\n年龄:173\n职业:服务员总管\n居住地: 西尔阿里州,莎拉的奴隶"
+
+# game/scripts/lobby_script.rpy:532
+translate schinese tourist_arrive_b4c573f1:
+
+    # c "Alright, everything looks to be in order. Enjoy your stay."
+    c "好了,一切看起来都很正常.祝你们居住愉快."
+
+# game/scripts/lobby_script.rpy:533
+translate schinese tourist_arrive_a96d4f48:
+
+    # sar "Thank you~"
+    sar "谢谢~"
+
+# game/scripts/lobby_script.rpy:554
+translate schinese tourist_arrive_ad46c748:
+
+    # c "Sorry, we're fully booked."
+    c "对不起,我们已经满员了."
+
+# game/scripts/lobby_script.rpy:555
+translate schinese tourist_arrive_f652f473:
+
+    # sar "Oh... that's unfortunate."
+    sar "噢......真不幸."
+
+# game/scripts/lobby_script.rpy:557
+translate schinese tourist_arrive_a523c03e_3:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:562
+translate schinese tourist_arrive_56bfaec8:
+
+    # e "Ah, and here's the owner."
+    e "啊,这位是老板."
+
+# game/scripts/lobby_script.rpy:563
+translate schinese tourist_arrive_d267661a_2:
+
+    # q "..."
+    q "......"
+
+# game/scripts/lobby_script.rpy:564
+translate schinese tourist_arrive_3b261c13:
+
+    # q "Room please."
+    q "请给我一间房."
+
+# game/scripts/lobby_script.rpy:565
+translate schinese tourist_arrive_c8ecf2fe:
+
+    # c "Sure, I'll just need to look at our ID and-"
+    c "当然可以,我只需要检查一下你的身份证和-"
+
+# game/scripts/lobby_script.rpy:566
+translate schinese tourist_arrive_35d727a1:
+
+    # q "-Don't care. Room please!"
+    q "-无所谓.请给我一间房!"
+
+# game/scripts/lobby_script.rpy:567
+translate schinese tourist_arrive_1550b6ea:
+
+    # c "Just need to look at your-"
+    c "我只是需要检查-"
+
+# game/scripts/lobby_script.rpy:568
+translate schinese tourist_arrive_ea630411:
+
+    # q "ROOM PLEASE!"
+    q "{b}请给我一间房间!{/b}"
+
+# game/scripts/lobby_script.rpy:569
+translate schinese tourist_arrive_a4e53f55:
+
+    # c "ID PLEASE!"
+    c "{b}请出示你的身份证!{/b}"
+
+# game/scripts/lobby_script.rpy:570
+translate schinese tourist_arrive_13367e7a:
+
+    # q "Don't have to yell, shit!"
+    q "你没必要大吼大叫的,操!"
+
+# game/scripts/lobby_script.rpy:571
+translate schinese tourist_arrive_6b520b16:
+
+    # passport "Name: Bob Babbart \nAge: 39\nOccupation: Westview Mall Security\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:鲍勃·巴勃特\n年龄:39\n职业:西景购物中心安保人员\n居住地: 西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:576
+translate schinese tourist_arrive_beb08972:
+
+    # c "A mall cop, huh?"
+    c "商场的保安,嗯?"
+
+# game/scripts/lobby_script.rpy:577
+translate schinese tourist_arrive_9abe4b8b:
+
+    # bob "The hell did you call me!? I'm security! Respect the badge!"
+    bob "你他妈叫我什么!?我可是安保人员!尊重这枚徽章!"
+
+# game/scripts/lobby_script.rpy:578
+translate schinese tourist_arrive_ccd10ecd:
+
+    # c "Enjoy your stay, officer."
+    c "祝你居住愉快,长官."
+
+# game/scripts/lobby_script.rpy:579
+translate schinese tourist_arrive_0fcc9db1:
+
+    # bob "Mhm."
+    bob "哼."
+
+# game/scripts/lobby_script.rpy:600
+translate schinese tourist_arrive_ad46c748_1:
+
+    # c "Sorry, we're fully booked."
+    c "对不起,我们的房间满了."
+
+# game/scripts/lobby_script.rpy:601
+translate schinese tourist_arrive_166be422:
+
+    # bob "Oh BULLSHIT! Fuckin' BULLSHIT! You're one of them abolitionists, ain't ya?"
+    bob "噢,{b}胡扯!{/b}!他妈的{b}胡扯{/b}!你是那些废奴主义者之一,对吧?"
+
+# game/scripts/lobby_script.rpy:602
+translate schinese tourist_arrive_297d93f3:
+
+    # c "What?"
+    c "什么?"
+
+# game/scripts/lobby_script.rpy:603
+translate schinese tourist_arrive_480070b6:
+
+    # bob "This business will NEVER see another customer so long as I live! You've made a {i}grave{/i} mistake, ASSHOLE!"
+    bob "只要我活着,这家酒店就{b}别{/b}想再有客人光顾!你犯了个{i}大{/i}错,{b}混蛋{/b}!"
+
+# game/scripts/lobby_script.rpy:604
+translate schinese tourist_arrive_75690968:
+
+    # c "Did you take your pills today, grandpa?"
+    c "你今天吃药了吗,老爷爷?"
+
+# game/scripts/lobby_script.rpy:605
+translate schinese tourist_arrive_28178fd2:
+
+    # bob "I {u}never{/u} forget {i}my{/i} pills..."
+    bob "我{u}从不{/u}忘记吃{i}我的{/i}药......"
+
+# game/scripts/lobby_script.rpy:608
+translate schinese tourist_arrive_a523c03e_4:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:613
+translate schinese tourist_arrive_567cb511:
+
+    # q "Woah, woah! No autographs, man. I'm undercover!"
+    q "喔,喔!别来要签名,兄弟!我在执行秘密任务!"
+
+# game/scripts/lobby_script.rpy:614
+translate schinese tourist_arrive_cafbaf85:
+
+    # q "Haha! I'm just kidding, you can have an autograph, bud!"
+    q "哈哈!我开玩笑的,哥们,我可以给你签个名!"
+
+# game/scripts/lobby_script.rpy:615
+translate schinese tourist_arrive_b2c840fc:
+
+    # c "...I'll need to see your ID."
+    c "......我需要检查一下你的身份证."
+
+# game/scripts/lobby_script.rpy:616
+translate schinese tourist_arrive_8c61c12d:
+
+    # q "Come on, you know who I am! Maverick! The one and only!"
+    q "来吧,你知道我是谁的!独行侠!独一无二的独行侠!"
+
+# game/scripts/lobby_script.rpy:617
+translate schinese tourist_arrive_28b01add:
+
+    # e "Sir, that's the owner of this hotel. He will need to confirm your booking with us."
+    e "先生,这是酒店的老板,他需要确认你在我们这里的预定."
+
+# game/scripts/lobby_script.rpy:618
+translate schinese tourist_arrive_8fe19ce1:
+
+    # c "Did your mother name you Maverick?"
+    c "你的妈妈给你起名叫独行侠吗?"
+
+# game/scripts/lobby_script.rpy:619
+translate schinese tourist_arrive_4deae07b:
+
+    # q "Heheh, well no..."
+    q "呵呵呵,好吧,不是......"
+
+# game/scripts/lobby_script.rpy:620
+translate schinese tourist_arrive_11e75e6e:
+
+    # c "Then I'll need to see some ID."
+    c "那我需要检查一下你的身份证."
+
+# game/scripts/lobby_script.rpy:621
+translate schinese tourist_arrive_4203f37d:
+
+    # q "*scoff*, yeah. Whatever, man."
+    q "*嗤笑*,行吧.随便了,兄弟."
+
+# game/scripts/lobby_script.rpy:622
+translate schinese tourist_arrive_9c49191b:
+
+    # passport "Name: Vincent Blackwood \nAge: 36\nOccupation: C-List Actor\nResidency: Citizen of Corpus, Syl'ari"
+    passport "姓名:文森特·黑木\n年龄:36\n职业:三线演员\n居住地:西尔阿里州,科普斯市"
+
+# game/scripts/lobby_script.rpy:627
+translate schinese tourist_arrive_cbdd69bd:
+
+    # c "Enjoy your stay, Mr. Blackwood."
+    c "祝你居住愉快,黑木先生."
+
+# game/scripts/lobby_script.rpy:628
+translate schinese tourist_arrive_05c92288:
+
+    # vin "Come on, you really don't know who I am? I'm sure you've seen me in a commercial!"
+    vin "拜托,你真的不认识我吗?我敢肯定你在广告里见过我!"
+
+# game/scripts/lobby_script.rpy:629
+translate schinese tourist_arrive_4819df89:
+
+    # c "*shrugs*"
+    c "*耸肩*"
+
+# game/scripts/lobby_script.rpy:630
+translate schinese tourist_arrive_75307011:
+
+    # vin "Ehhh, heh... well not everyone owns a TV..."
+    vin "呃,呵呵呵......好吧,不是所有人都有电视......"
+
+# game/scripts/lobby_script.rpy:651
+translate schinese tourist_arrive_3302c4a2:
+
+    # c "Sorry, we're closed."
+    c "对不起,我们关门了."
+
+# game/scripts/lobby_script.rpy:652
+translate schinese tourist_arrive_0d7bace6:
+
+    # vin "Oh come on!"
+    vin "噢,拜托!"
+
+# game/scripts/lobby_script.rpy:654
+translate schinese tourist_arrive_a523c03e_5:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:658
+translate schinese tourist_arrive_5196132f:
+
+    # e "Ah, and that's the owner."
+    e "啊,这是老板."
+
+# game/scripts/lobby_script.rpy:659
+translate schinese tourist_arrive_785578c6:
+
+    # q "Howdy. Lookin' for a room."
+    q "你好啊.我想要个房间."
+
+# game/scripts/lobby_script.rpy:660
+translate schinese tourist_arrive_6820e819_1:
+
+    # c "Welcome. Business or pleasure?"
+    c "欢迎.商务出行还是娱乐出行?"
+
+# game/scripts/lobby_script.rpy:661
+translate schinese tourist_arrive_8bce403b:
+
+    # q "Pleasure. I like to treat myself with a hotel stay every once in a while. Ignore my chores an' shit."
+    q "娱乐.我偶尔会犒劳一下自己去住住酒店,把家务活什么的都抛之脑后."
+
+# game/scripts/lobby_script.rpy:662
+translate schinese tourist_arrive_ca482f28:
+
+    # passport "Name: John \nAge: 46\nOccupation: Mechanic\nResidency: Citizen of Arelle, Syl'ari"
+    passport "姓名:约翰\n年龄:46\n职业:机械师\n居住地:西尔阿里州,阿瑞尔市"
+
+# game/scripts/lobby_script.rpy:667
+translate schinese tourist_arrive_c4b81737_1:
+
+    # c "Enjoy your stay."
+    c "祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:668
+translate schinese tourist_arrive_6418cbc7:
+
+    # john "Thank ya, sir."
+    john "谢谢你,先生."
+
+# game/scripts/lobby_script.rpy:689
+translate schinese tourist_arrive_3302c4a2_1:
+
+    # c "Sorry, we're closed."
+    c "对不起,我们关门了."
+
+# game/scripts/lobby_script.rpy:690
+translate schinese tourist_arrive_252e56e7:
+
+    # john "Buncha bullshit..."
+    john "胡扯......"
+
+# game/scripts/lobby_script.rpy:692
+translate schinese tourist_arrive_a523c03e_6:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:696
+translate schinese tourist_arrive_16e6fb21:
+
+    # lily "Oh, hello. I'm here on missionary work and would like a room, please."
+    lily "噢,你好.我是来这里做传教工作的.我想要一间房."
+
+# game/scripts/lobby_script.rpy:697
+translate schinese tourist_arrive_3f0aa29c:
+
+    # passport "Name: Lilith \nAge: 30\nOccupation: Saint\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:莉莉丝\n年龄:30\n职业:圣徒\n居住地:西尔阿里州,楷利泊市."
+
+# game/scripts/lobby_script.rpy:702
+translate schinese tourist_arrive_245b6bc8:
+
+    # c "Welcome Lilith, enjoy your stay."
+    c "欢迎你,莉莉丝,祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:703
+translate schinese tourist_arrive_9a8e2f78:
+
+    # lily "Thank you~"
+    lily "谢谢~"
+
+# game/scripts/lobby_script.rpy:724
+translate schinese tourist_arrive_1b0fde4d:
+
+    # c "Sorry, we're full."
+    c "对不起,我们满员了."
+
+# game/scripts/lobby_script.rpy:725
+translate schinese tourist_arrive_65f64d0a:
+
+    # lily "Oh, what a shame..."
+    lily "噢,真是遗憾......"
+
+# game/scripts/lobby_script.rpy:727
+translate schinese tourist_arrive_a523c03e_7:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:732
+translate schinese tourist_arrive_d850afc2:
+
+    # e "Oh, and there is the owner now."
+    e "噢,这位是老板."
+
+# game/scripts/lobby_script.rpy:734
+translate schinese tourist_arrive_a0888fd1:
+
+    # jes "Hey [name], what are you doing here!?\n...I'm just kidding, of course I know it's your hotel, that's why I picked it!\nMy roommate and I got into a fight, so... I need somewhere to stay."
+    jes "嘿,[name],你在这里做什么呢!?\n......我开玩笑的,我当然知道这是你的酒店,所以我才选这里的!\n我和我的室友吵架了,所以......我需要找个地方住."
+
+# game/scripts/lobby_script.rpy:735
+translate schinese tourist_arrive_05f75719:
+
+    # passport "Name: Jessica\nAge: 26\nOccupation: Erotic Performer\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:杰西卡\n年龄:26\n职业:情色表演者\n居之地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:740
+translate schinese tourist_arrive_474f6cb5:
+
+    # c "Of course you're welcome here, Jessica."
+    c "欢迎你,杰西卡."
+
+# game/scripts/lobby_script.rpy:741
+translate schinese tourist_arrive_939726c5:
+
+    # jes "Thank you!"
+    jes "谢谢!"
+
+# game/scripts/lobby_script.rpy:763
+translate schinese tourist_arrive_d4b3a9e8_1:
+
+    # c "Sorry, we can't accept you. We're full."
+    c "对不起,我们没法接受你的预定.我们这里满员了."
+
+# game/scripts/lobby_script.rpy:764
+translate schinese tourist_arrive_f88db436:
+
+    # jes "Oh... really? I could have sworn there was vacancy showing online..."
+    jes "噢......真的吗?我明明记得网上显示有空房的......"
+
+# game/scripts/lobby_script.rpy:766
+translate schinese tourist_arrive_a523c03e_8:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:771
+translate schinese tourist_arrive_2e57c058:
+
+    # e "Ah, and this is the owner."
+    e "啊,这位是老板."
+
+# game/scripts/lobby_script.rpy:772
+translate schinese tourist_arrive_0b6f1f3c:
+
+    # skye "Hello! I just need a place to stay a few nights for work."
+    skye "你好!我因为工作,需要找个地方住几晚."
+
+# game/scripts/lobby_script.rpy:774
+translate schinese tourist_arrive_55b13ce7:
+
+    # c "You look kinda familiar... have I seen you somewhere before?"
+    c "你看起来有点眼熟......我是不是在哪里见过你?"
+
+# game/scripts/lobby_script.rpy:775
+translate schinese tourist_arrive_38853722:
+
+    # skye "Oh heheh, well... it's certainly possible."
+    skye "噢,呵呵呵,嗯......这当然有可能."
+
+# game/scripts/lobby_script.rpy:776
+translate schinese tourist_arrive_4b5ea625:
+
+    # passport "Name: Skye\nAge: 28\nOccupation: Adult Film Actress\nResidency: Citizen of Corpus, Syl'ari"
+    passport "姓名:斯凯\n年龄:28\n职业:成人影片女演员\n居住地:西尔阿里州,科普斯市"
+
+# game/scripts/lobby_script.rpy:781
+translate schinese tourist_arrive_07d15936:
+
+    # c "Yep! Everything looks official. Welcome!"
+    c "好了!一切看起来都没问题.欢迎!"
+
+# game/scripts/lobby_script.rpy:782
+translate schinese tourist_arrive_c9768431:
+
+    # skye "Thank you~ I'll be quiet, don't worry!"
+    skye "谢谢~我会保持安静的,别担心!"
+
+# game/scripts/lobby_script.rpy:803
+translate schinese tourist_arrive_d4b3a9e8_2:
+
+    # c "Sorry, we can't accept you. We're full."
+    c "对不起,我们不能接受你的预定.我们满员了."
+
+# game/scripts/lobby_script.rpy:804
+translate schinese tourist_arrive_dfd8161d:
+
+    # skye "Oh... that sucks."
+    skye "噢......真糟糕."
+
+# game/scripts/lobby_script.rpy:806
+translate schinese tourist_arrive_a523c03e_9:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:812
+translate schinese tourist_arrive_bf6b9bf9:
+
+    # c "Hi, looking for a room?"
+    c "你好,想找个房间吗?"
+
+# game/scripts/lobby_script.rpy:813
+translate schinese tourist_arrive_5d1b0c4d:
+
+    # jeb "Mhm. Yessir. Need somewhere nice and quiet to scratch my balls."
+    jeb "嗯.是的先生.我需要找个安静点的地方挠挠蛋蛋."
+
+# game/scripts/lobby_script.rpy:814
+translate schinese tourist_arrive_9cb6e1e2:
+
+    # c "Right... let's see..."
+    c "好吧......我看看......"
+
+# game/scripts/lobby_script.rpy:815
+translate schinese tourist_arrive_2ad964ae:
+
+    # passport "Name: Jebediah Doe\nAge: ???\nOccupation: ???\nResidency: ???"
+    passport "姓名:杰贝迪亚·杜\n年龄:???\n职业:???\n居住地:???"
+
+# game/scripts/lobby_script.rpy:816
+translate schinese tourist_arrive_cc032f36:
+
+    # c "Sir, what is this?"
+    c "先生,这是什么?"
+
+# game/scripts/lobby_script.rpy:817
+translate schinese tourist_arrive_9c534c44:
+
+    # jeb "That's all I got. Take it or leave it."
+    jeb "这就是我的全部.要么接受,要么还给我."
+
+# game/scripts/lobby_script.rpy:822
+translate schinese tourist_arrive_bc3dc170:
+
+    # c "Well, everything looks good to me. Enjoy!"
+    c "好吧,对我来说没有问题.祝你居住愉快!"
+
+# game/scripts/lobby_script.rpy:823
+translate schinese tourist_arrive_bd5df9c7:
+
+    # jeb "Thanks boss."
+    jeb "谢谢你,老板."
+
+# game/scripts/lobby_script.rpy:844
+translate schinese tourist_arrive_2e5b1825:
+
+    # c "What am I looking at?"
+    c "我看的到底是什么?"
+
+# game/scripts/lobby_script.rpy:845
+translate schinese tourist_arrive_a42f2bad:
+
+    # jeb "It's my business card."
+    jeb "我的名片."
+
+# game/scripts/lobby_script.rpy:846
+translate schinese tourist_arrive_40bd0193:
+
+    # c "It's a piece of scrap paper with your name written on it."
+    c "这只是一张写着你的名字的废纸."
+
+# game/scripts/lobby_script.rpy:847
+translate schinese tourist_arrive_65a8e676:
+
+    # jeb "I'm good for the money."
+    jeb "我有钱."
+
+# game/scripts/lobby_script.rpy:848
+translate schinese tourist_arrive_4adbd5cd:
+
+    # e "I'm sorry sir, but it would be an insurance liability to accept you without proper identification."
+    e "很抱歉,先生,在你未出示有效的身份证件的情况下,我们无法接待你,否则将涉嫌保险责任的问题."
+
+# game/scripts/lobby_script.rpy:849
+translate schinese tourist_arrive_175d1f97:
+
+    # jeb "You'll regret this... you'll {i}all{/i} regreat this..."
+    jeb "你会后悔的......你们{i}都{/i}会后悔的......"
+
+# game/scripts/lobby_script.rpy:851
+translate schinese tourist_arrive_a523c03e_10:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:857
+translate schinese tourist_arrive_4002a9eb:
+
+    # mcart "Hey! Don't sneak up on me like that, I'm an officer of the law!"
+    mcart "嘿!别那样悄悄靠近我,我是执法人员!"
+
+# game/scripts/lobby_script.rpy:858
+translate schinese tourist_arrive_05edddbb:
+
+    # e "Ah, that's just the owner, sir."
+    e "啊,他是老板,先生."
+
+# game/scripts/lobby_script.rpy:859
+translate schinese tourist_arrive_fb4140f2:
+
+    # c "Didn't mean to scare you... can I see your ID, please?"
+    c "我无意吓到你......我能检查一下你的身份证吗?"
+
+# game/scripts/lobby_script.rpy:860
+translate schinese tourist_arrive_f4e9a78f:
+
+    # mcart "Mhmmm."
+    mcart "嗯."
+
+# game/scripts/lobby_script.rpy:861
+translate schinese tourist_arrive_4c905f52:
+
+    # passport "Name: Marcus Carter\nAge: 56\nOccupation: Chief of Police, Caliber\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:马库斯·卡特\n年龄:56\n职业:楷利泊市警长\n居住地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:862
+translate schinese tourist_arrive_185d8f6e:
+
+    # c "Are you on duty right now?"
+    c "你现在正在执行任务吗?"
+
+# game/scripts/lobby_script.rpy:863
+translate schinese tourist_arrive_e08a5854:
+
+    # mcart "Do I need to be? I got work to do, son, and I ain't doing it in here."
+    mcart "我需要吗?我有工作做的,孩子,而且我不会在这里工作."
+
+# game/scripts/lobby_script.rpy:868
+translate schinese tourist_arrive_c4b81737_2:
+
+    # c "Enjoy your stay."
+    c "祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:869
+translate schinese tourist_arrive_479ac4db:
+
+    # mcart "Oh, and don't send anyone to clean my room. I don't need any maids messing up my equipment."
+    mcart "噢,不要派人来打扫我的房间.我不需要任何女仆去弄乱我的设备."
+
+# game/scripts/lobby_script.rpy:870
+translate schinese tourist_arrive_c48dc32f:
+
+    # c "Sure."
+    c "当然可以."
+
+# game/scripts/lobby_script.rpy:871
+translate schinese tourist_arrive_c2d59640:
+
+    # mcart "Thanks..."
+    mcart "谢谢......"
+
+# game/scripts/lobby_script.rpy:892
+translate schinese tourist_arrive_ac4e21c6:
+
+    # mcart "All you assholes are the same! You see a cop trying to do his damn job, and you just have to get in the way, don't you?"
+    mcart "你们这群混蛋都一样!看到警察在尽职尽责地工作,你们就非得捣乱不可,对吧?"
+
+# game/scripts/lobby_script.rpy:894
+translate schinese tourist_arrive_a523c03e_11:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:901
+translate schinese tourist_arrive_1bdf1277:
+
+    # viktor "Ah, my friend! Hello! I am here for that stay-cation we talked about! My muscles are begging for a date with that glorious hot springs!"
+    viktor "啊,我的朋友!你好!我来履行我们约好的宅家度假计划了!我的肌肉正渴望着和那美妙的温泉来场约会呢!"
+
+# game/scripts/lobby_script.rpy:902
+translate schinese tourist_arrive_50c524aa:
+
+    # passport "Name: Viktor (The Viktorious)\nAge: 42\nOccupation: Plumber\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:维克托(胜利者)\n年龄:42\n职业:水管工\n居住地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:907
+translate schinese tourist_arrive_6f489079:
+
+    # c "Welcome! Enjoy the hot springs."
+    c "欢迎!享受温泉吧."
+
+# game/scripts/lobby_script.rpy:908
+translate schinese tourist_arrive_417b52a2:
+
+    # viktor "Thank you so much, my friend! You'll barely know I'm here!"
+    viktor "太感谢你了,我的朋友!你几乎不会察觉到我在这里的!"
+
+# game/scripts/lobby_script.rpy:909
+translate schinese tourist_arrive_05236029:
+
+    # viktor "Say, do you have a gym by any chance...?"
+    viktor "说起来,你们有健身房吗......?"
+
+# game/scripts/lobby_script.rpy:910
+translate schinese tourist_arrive_0265d7bf:
+
+    # c "I'm afraid not."
+    c "恐怕没有."
+
+# game/scripts/lobby_script.rpy:911
+translate schinese tourist_arrive_978a7546:
+
+    # viktor "Ah... well, let me know if your vending machine needs to be moved. See you!"
+    viktor "啊......好吧,要是你们需要搬售货机的话,记得告诉我.再见!"
+
+# game/scripts/lobby_script.rpy:933
+translate schinese tourist_arrive_3302c4a2_2:
+
+    # c "Sorry, we're closed."
+    c "对不起,我们关门了."
+
+# game/scripts/lobby_script.rpy:934
+translate schinese tourist_arrive_60780e38:
+
+    # josh "What? Are you serious..."
+    josh "什么?你认真的吗......"
+
+# game/scripts/lobby_script.rpy:936
+translate schinese tourist_arrive_a523c03e_12:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:941
+translate schinese tourist_arrive_cedeb8d0:
+
+    # q "You startled me. What do you want?"
+    q "你吓到我了.你想要什么?"
+
+# game/scripts/lobby_script.rpy:942
+translate schinese tourist_arrive_f3619ce9:
+
+    # e "Oh, that's the owner of this building."
+    e "噢,那是酒店老板."
+
+# game/scripts/lobby_script.rpy:943
+translate schinese tourist_arrive_57ffe4dc:
+
+    # q "Ah, so I have you to thank for opening that hot springs to the public. I am interested in booking one of your rooms and trying it for myself."
+    q "啊,原来是你才让那座温泉向公众开放的,感谢.我正考虑预定你们的房间来亲自体验一番."
+
+# game/scripts/lobby_script.rpy:944
+translate schinese tourist_arrive_0c6d7661:
+
+    # c "I'll need to see your ID, please."
+    c "我需要检查一下你的身份证."
+
+# game/scripts/lobby_script.rpy:945
+translate schinese tourist_arrive_411e7e28:
+
+    # q "Of course."
+    q "当然可以."
+
+# game/scripts/lobby_script.rpy:946
+translate schinese tourist_arrive_571c8655:
+
+    # passport "Name: Omar Ahmed | Age: 36\nOccupation: Bartender\nBirthplace: Syl'tali | Residency: Citizen of Caliber, Syl'ari"
+    passport "姓名:奥马尔·艾哈迈德 | 年龄:36\n职业:调酒师\n出生地:西尔塔里州 | 居住地:西尔阿里州,楷利泊市."
+
+# game/scripts/lobby_script.rpy:951
+translate schinese tourist_arrive_075766eb:
+
+    # c "Everything seems to be in order. Enjoy the hot springs."
+    c "一切看起来都没问题.享受温泉吧."
+
+# game/scripts/lobby_script.rpy:952
+translate schinese tourist_arrive_4ee21aaa:
+
+    # omar "Peace be upon you."
+    omar "愿平安与你同在."
+
+# game/scripts/lobby_script.rpy:973
+translate schinese tourist_arrive_1b0fde4d_1:
+
+    # c "Sorry, we're full."
+    c "对不起,我们满员了."
+
+# game/scripts/lobby_script.rpy:974
+translate schinese tourist_arrive_91e755f1:
+
+    # omar "A momentary roadblock on the path to relaxation. I will try again on another day..."
+    omar "通往放松的路上遇到了短暂的阻碍.我会在另一天再试一次的......"
+
+# game/scripts/lobby_script.rpy:976
+translate schinese tourist_arrive_a523c03e_13:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:981
+translate schinese tourist_arrive_9310e3ef:
+
+    # q "Oh hey! I remember you! Fancy meeting you here."
+    q "噢,嘿!我记得你!在这里遇到你真巧."
+
+# game/scripts/lobby_script.rpy:982
+translate schinese tourist_arrive_6fea80f7:
+
+    # c "I actually own this place, even grow my crops in the back."
+    c "实际上,我是这里的老板,后面还有我们种的作物呢."
+
+# game/scripts/lobby_script.rpy:983
+translate schinese tourist_arrive_8a5565f5:
+
+    # q "Really!? I had no clue! I'd love to see your garden sometime."
+    q "真的吗!?我完全不知道!真想找个时间看看你的花园."
+
+# game/scripts/lobby_script.rpy:984
+translate schinese tourist_arrive_8c0d2390:
+
+    # q "Oh, right! Here's my ID."
+    q "噢,对了!这是我的身份证."
+
+# game/scripts/lobby_script.rpy:985
+translate schinese tourist_arrive_126f9799:
+
+    # passport "Name: Sadie | Age: 25\nOccupation: Gardener\nBirthplace: Syl'ari | Residency: Citizen of Caliber, Syl'ari"
+    passport "姓名:萨蒂 | 年龄:25\n职业:园丁\n出生地:西尔阿里州 | 居住地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:990
+translate schinese tourist_arrive_c4b81737_3:
+
+    # c "Enjoy your stay."
+    c "祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:991
+translate schinese tourist_arrive_de4aebad:
+
+    # sadie "I will, thank you!"
+    sadie "我会的,谢谢!"
+
+# game/scripts/lobby_script.rpy:1012
+translate schinese tourist_arrive_45ce7edf:
+
+    # c "Sorry, we don't have any rooms left."
+    c "对不起,我们已经没有空房了."
+
+# game/scripts/lobby_script.rpy:1013
+translate schinese tourist_arrive_cbeca7c0:
+
+    # sadie "What? I coulda sworn I saw vacancy online..."
+    sadie "什么?我发誓我在网上看到说有空房的......"
+
+# game/scripts/lobby_script.rpy:1015
+translate schinese tourist_arrive_a523c03e_14:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:1022
+translate schinese tourist_arrive_f5985ced:
+
+    # q "Ey! Don't sneak up on me like that! What do you want??"
+    q "噫!别那样悄悄跑到我身后!你想要什么??"
+
+# game/scripts/lobby_script.rpy:1023
+translate schinese tourist_arrive_89fc7775:
+
+    # e "That's the owner of this building, ma'am."
+    e "那位是这里的老板,女士."
+
+# game/scripts/lobby_script.rpy:1024
+translate schinese tourist_arrive_68a67a71:
+
+    # q "Okay? And? What does he want?"
+    q "好的?然后呢?他想要什么?"
+
+# game/scripts/lobby_script.rpy:1025
+translate schinese tourist_arrive_61c6445c:
+
+    # c "I'll need to see your ID to confirm your booking, please."
+    c "我需要检查你的身份证来验证你的预定."
+
+# game/scripts/lobby_script.rpy:1026
+translate schinese tourist_arrive_0a5211ba:
+
+    # q "I was just doing that with her though? Whatever, I don't want to argue."
+    q "我刚才不已经给她检查过了吗?算了,我不想吵架."
+
+# game/scripts/lobby_script.rpy:1027
+translate schinese tourist_arrive_a466d2d5:
+
+    # passport "Name: Isabella Santos | Age: 24\nOccupation: Sugar Baby\nBirthplace: Syl'ari | Residency: Citizen of Caliber, Syl'ari"
+    passport "姓名:伊莎贝拉·桑托斯 | 年龄:24\n职业:甜心宝贝\n出生地:西尔阿里州 | 居住地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:1032
+translate schinese tourist_arrive_628981d7:
+
+    # c "Everything seems to be in order. Enjoy your stay."
+    c "一切看起来都没问题.祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:1033
+translate schinese tourist_arrive_23589de9:
+
+    # isa "Oh, that was quick... thanks."
+    isa "噢,还真快......谢谢."
+
+# game/scripts/lobby_script.rpy:1054
+translate schinese tourist_arrive_c5f960ea:
+
+    # c "Sorry, we just filled up."
+    c "对不起,我们满员了."
+
+# game/scripts/lobby_script.rpy:1055
+translate schinese tourist_arrive_4113bc86:
+
+    # isa "Bullshit, man! You couldn't have said that BEFORE taking my ID? Suck a dick!"
+    isa "胡扯,伙计!你就不能在看我的身份证{b}之前{/b}就说吗?去你妈的!"
+
+# game/scripts/lobby_script.rpy:1057
+translate schinese tourist_arrive_a523c03e_15:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:1062
+translate schinese tourist_arrive_db9f2149:
+
+    # maya "Well, look who it is! Hey [name]. I thought I'd give your place a try this time."
+    maya "嘿,看看这是谁来了!嘿,[name].这次我绝对来你这里试试看."
+
+# game/scripts/lobby_script.rpy:1063
+translate schinese tourist_arrive_80e41372:
+
+    # c "Hey Maya! Wow, you clean up well."
+    c "嘿,玛雅!哇哦,你打扮得真漂亮."
+
+# game/scripts/lobby_script.rpy:1064
+translate schinese tourist_arrive_9ea29394:
+
+    # maya "Are you saying I'm usually gross?"
+    maya "你是说我平时很恶心吗?"
+
+# game/scripts/lobby_script.rpy:1065
+translate schinese tourist_arrive_ee6f5825:
+
+    # c "No, not at all! I'm just s-"
+    c "不,完全不是!我只是-"
+
+# game/scripts/lobby_script.rpy:1066
+translate schinese tourist_arrive_2dccfdbb:
+
+    # maya "Relax, I'm just kidding. You need my ID, right?"
+    maya "放松,我只是在开玩笑.你需要我的身份证,对吧?"
+
+# game/scripts/lobby_script.rpy:1067
+translate schinese tourist_arrive_073cb9ee:
+
+    # passport "Name: Maya Monte | Age: 31\nOccupation: CEO of The Forge Gym\nBirthplace: The Capitol | Residency: Citizen of Caliber, Syl'ari"
+    passport "姓名:玛雅·蒙特 | 年龄:31\n职业:锻·炼健身房CEO\n出生地:开普陀市 | 居住地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:1072
+translate schinese tourist_arrive_2b4414de:
+
+    # c "Alright, enjoy your stay."
+    c "好了,祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:1073
+translate schinese tourist_arrive_b7b723f9:
+
+    # maya "Can't wait to try that hot springs..."
+    maya "我等不及要去泡那个温泉了......"
+
+# game/scripts/lobby_script.rpy:1094
+translate schinese tourist_arrive_c5f960ea_1:
+
+    # c "Sorry, we just filled up."
+    c "对不起,我们满员了."
+
+# game/scripts/lobby_script.rpy:1095
+translate schinese tourist_arrive_76dac803:
+
+    # maya "Ugh. Well that's annoying..."
+    maya "呃.真是烦人......"
+
+# game/scripts/lobby_script.rpy:1097
+translate schinese tourist_arrive_a523c03e_16:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:1103
+translate schinese tourist_arrive_c53b88fb:
+
+    # e "Ah, and here is the owner himself."
+    e "啊,这位就是老板本人."
+
+# game/scripts/lobby_script.rpy:1104
+translate schinese tourist_arrive_ea14e9f1:
+
+    # josh "Oh hey [name]... my girl and I got into a pretty bad argument, so uhh..."
+    josh "噢,嘿,[name]......我和我的女朋友吵得很厉害,所以,呃......"
+
+# game/scripts/lobby_script.rpy:1105
+translate schinese tourist_arrive_1ecd5015:
+
+    # passport "Name: Joshua\nAge: 27\nOccupation: Bartender at Bernie's\nResidency: Citizen of Caliber, Syl'ari"
+    passport "姓名:约书亚\n年龄:27\n职业:伯尼酒吧调酒师\n居住地:西尔阿里州,楷利泊市"
+
+# game/scripts/lobby_script.rpy:1110
+translate schinese tourist_arrive_f8763a7b:
+
+    # c "Say less, enjoy your room."
+    c "无需再言,祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:1111
+translate schinese tourist_arrive_abef6f1c:
+
+    # josh "Thanks..."
+    josh "谢谢......"
+
+# game/scripts/lobby_script.rpy:1133
+translate schinese tourist_arrive_3302c4a2_3:
+
+    # c "Sorry, we're closed."
+    c "对不起,我们关门了."
+
+# game/scripts/lobby_script.rpy:1134
+translate schinese tourist_arrive_60780e38_1:
+
+    # josh "What? Are you serious..."
+    josh "什么?你认真的吗......"
+
+# game/scripts/lobby_script.rpy:1136
+translate schinese tourist_arrive_a523c03e_17:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:1141
+translate schinese tourist_arrive_c53b88fb_1:
+
+    # e "Ah, and here is the owner himself."
+    e "啊,这位就是老板."
+
+# game/scripts/lobby_script.rpy:1142
+translate schinese tourist_arrive_e4728e67:
+
+    # q "Oh hey... my girl and I got into a pretty bad argument, so uhh..."
+    q "噢,嘿......我的女朋友和我大吵了一架,所以,呃......"
+
+# game/scripts/lobby_script.rpy:1147
+translate schinese tourist_arrive_f8763a7b_1:
+
+    # c "Say less, enjoy your room."
+    c "无需再言,祝你居住愉快."
+
+# game/scripts/lobby_script.rpy:1148
+translate schinese tourist_arrive_314feedd:
+
+    # q "Thanks..."
+    q "谢谢......"
+
+# game/scripts/lobby_script.rpy:1168
+translate schinese tourist_arrive_3302c4a2_4:
+
+    # c "Sorry, we're closed."
+    c "对不起,我们关门了."
+
+# game/scripts/lobby_script.rpy:1169
+translate schinese tourist_arrive_8612f286:
+
+    # q "What? Are you serious..."
+    q "什么?你认真的吗......"
+
+# game/scripts/lobby_script.rpy:1171
+translate schinese tourist_arrive_a523c03e_18:
+
+    # "[n] was turned away."
+    "[n!t]离开了."
+
+# game/scripts/lobby_script.rpy:1651
+translate schinese lobbymenu_7344295e_2:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/scripts/lobby_script.rpy:3355
+translate schinese greet_breakfast_a40c342a:
+
+    # lu "Goodmorning, [name]! Here to join us?"
+    lu "早上好,[name]!来加入我们吗?"
+
+# game/scripts/lobby_script.rpy:3356
+translate schinese greet_breakfast_a440593a:
+
+    # han "Grab a seat. The eggs are great today."
+    han "坐吧.今天的鸡蛋特别棒."
+
+# game/scripts/lobby_script.rpy:3357
+translate schinese greet_breakfast_dbec1c11:
+
+    # c "Not today, ladies. Enjoy."
+    c "今天不行,小姐们.好好享受吧."
+
+# game/scripts/lobby_script.rpy:3358
+translate schinese greet_breakfast_6a45228d:
+
+    # han "Are you sure? The pancakes are really great too."
+    han "你确定吗?今天的煎饼也很棒的."
+
+# game/scripts/lobby_script.rpy:3359
+translate schinese greet_breakfast_e79d1b5e:
+
+    # lu "Let him go, he's probably got some sexy manager stuff to do..."
+    lu "放他走吧,他大概有些不正经的事要忙呢......"
+
+# game/scripts/lobby_script.rpy:3362
+translate schinese greet_breakfast_f221c341:
+
+    # han "U-Um, [name]... how do you like your eggs?"
+    han "呃-嗯,[name]......你喜欢什么样的蛋?"
+
+# game/scripts/lobby_script.rpy:3363
+translate schinese greet_breakfast_dd15bdbc:
+
+    # c "Uh-"
+    c "呃-"
+
+# game/scripts/lobby_script.rpy:3364
+translate schinese greet_breakfast_fdb737a3:
+
+    # han "Fertilized! Wait- no... \n{i}How did the joke go again?{/i} \nOh you were supposed to- uh...! N-N-Nevermind!"
+    han "受精卵!等等-不是......\n{i}那个笑话怎么说来着?{/i}\n哦,你应该-呃......!算-算-算了!"
+
+# game/scripts/lobby_script.rpy:3368
+translate schinese greet_breakfast_8905b91e:
+
+    # lu "Kali never wants to leave her room before noon. That's why Hana and I are besties~"
+    lu "凯莉在中午前是不会离开她的房间的.这就是为什么我和哈娜才是最好的朋友~"
+
+# game/scripts/lobby_script.rpy:3369
+translate schinese greet_breakfast_7a6efe50:
+
+    # han "Well, I'll never turn down free food, heheh."
+    han "嗯,免费的食物我可不会拒绝,呵呵呵."
+
+# game/scripts/lobby_script.rpy:3379
+translate schinese greet_breakfast_53b3b76b:
+
+    # nia "Get lost..."
+    nia "滚啊......"
+
+# game/scripts/lobby_script.rpy:3380
+translate schinese greet_breakfast_08f1b4e1:
+
+    # c "Goodmorning to you too."
+    c "你也早上好."
+
+# game/scripts/lobby_script.rpy:3381
+translate schinese greet_breakfast_b46daa07:
+
+    # syl "She's not a morning person."
+    syl "她不是个早起的人."
+
+# game/scripts/lobby_script.rpy:3382
+translate schinese greet_breakfast_4bdb3311:
+
+    # nia "Don't talk to me before I finish my coffee..."
+    nia "我喝完咖啡之前别跟我说话......"
+
+# game/scripts/lobby_script.rpy:3383
+translate schinese greet_breakfast_26c2c017:
+
+    # syl "You see, that's the difference between coffee and tea drinkers! We love to chat."
+    syl "你看,这就是咖啡爱好者和茶爱好者的区别!我们喜欢聊天."
+
+# game/scripts/lobby_script.rpy:3386
+translate schinese greet_breakfast_731c0b59:
+
+    # nia "*yawwwwn*... hey..."
+    nia "*哈欠*......嘿......"
+
+# game/scripts/lobby_script.rpy:3387
+translate schinese greet_breakfast_d02439ed:
+
+    # syl "Goodmorning, [name]! The early bird gets the worm! {i}That's one of your sayings, right?{/i}"
+    syl "早上好,[name]!早起的鸟儿有虫吃!{i}这是你们的俚语,对吧?{/i}"
+
+# game/scripts/lobby_script.rpy:3388
+translate schinese greet_breakfast_b43cb8ec:
+
+    # nia "And the night belongs to the owl... know any other useless idioms?"
+    nia "还有什么夜晚属于猫头鹰......还知道其他没用的成语吗?"
+
+# game/scripts/lobby_script.rpy:3389
+translate schinese greet_breakfast_5915dfd4:
+
+    # syl "Heheh, someone's cranky."
+    syl "呵呵呵,有人在闹别扭呢."
+
+# game/scripts/lobby_script.rpy:3390
+translate schinese greet_breakfast_df4e7d8b:
+
+    # nia "Uuuugh..."
+    nia "呃......"
+
+# game/scripts/lobby_script.rpy:3393
+translate schinese greet_breakfast_4f685808:
+
+    # syl "[name], would you mind telling Nia to not slam the fucking door when she comes home at three in the morning? {i}Thanks...{/i}"
+    syl "[name],麻烦你跟妮娅说一下,凌晨三点回家的时候别把门摔得那么响,行吗?{i}谢谢......{/i}"
+
+# game/scripts/lobby_script.rpy:3394
+translate schinese greet_breakfast_da6b47b1:
+
+    # nia "What do you want me to do, climb through the window?"
+    nia "你想要我怎么做,爬窗吗?"
+
+# game/scripts/lobby_script.rpy:3395
+translate schinese greet_breakfast_9fee5b07:
+
+    # syl "Honestly, yeah! That would probably be quieter!"
+    syl "说真的,就是这样!那样可能还声音小点!"
+
+# game/scripts/lobby_script.rpy:3396
+translate schinese greet_breakfast_b56203ca:
+
+    # nia "[name], you can tell Sylvia that domestic abuse victims probably don't give a shit about her fucking lack of sleep."
+    nia "[name],你可以告诉西尔维娅,家暴受害者大概根本不在乎他妈的失眠问题."
+
+# game/scripts/lobby_script.rpy:3397
+translate schinese greet_breakfast_fccdeb4c:
+
+    # c "You know what, this is none of my business."
+    c "你们知道吗,这不关我的事."
+
+# game/scripts/lobby_script.rpy:3403
+translate schinese greet_breakfast_e15cc6e8:
+
+    # j "Hello."
+    j "你好."
+
+# game/scripts/lobby_script.rpy:3412
+translate schinese greet_breakfast_7bfc0f88:
+
+    # kate "Carbohydrants are very important, especially in your first meal of the day. It gives you the energy you need for the day."
+    kate "碳水化合物非常重要,尤其是在你第一天的第一餐.它能为你提供全天所需的能量."
+
+# game/scripts/lobby_script.rpy:3413
+translate schinese greet_breakfast_c09adae4:
+
+    # kate "Too much of a good thing is a bad thing though... I only say this because people tend to avoid them, when actually all it's doing is making them tired."
+    kate "不过好事做多了反而会变成坏事......我之所以这么说,是因为人们往往会刻意回避碳水化合物,而实际上它们只是会让人感觉疲惫罢了."
+
+# game/scripts/lobby_script.rpy:3414
+translate schinese greet_breakfast_fe915b9a:
+
+    # got "Unless you're obese... like me."
+    got "除非你和我一样......胖."
+
+# game/scripts/lobby_script.rpy:3415
+translate schinese greet_breakfast_ef0056a9:
+
+    # kate "Ignore her. Juliet's weight is quite healthy, actually."
+    kate "别管她.朱丽叶的体重其实很健康."
+
+# game/scripts/lobby_script.rpy:3416
+translate schinese greet_breakfast_bec67a7e:
+
+    # kate "Now, would you like to quiz me on pancake facts?\nPancakes, or some form, are estimated to be over 30,000 years old. I bet you didn't know that."
+    kate "现在,你想考考我有关于煎饼的冷知识?\n煎饼,或者类似食物的历史据估计已经有三万多年.我打赌你不知道."
+
+# game/scripts/lobby_script.rpy:3417
+translate schinese greet_breakfast_9bf23d2d:
+
+    # c "Damn, don't get sick."
+    c "我去,过期食物别吃中毒了."
+
+# game/scripts/lobby_script.rpy:3418
+translate schinese greet_breakfast_5e9a61ee:
+
+    # kate "That's... not what I meant."
+    kate "那......不是我的意思."
+
+# game/scripts/lobby_script.rpy:3421
+translate schinese greet_breakfast_a325edc1:
+
+    # kate "Thank you for including tea options, [name]. I much prefer it over coffee."
+    kate "谢谢你提供茶饮选择,[name].比起咖啡,我更喜欢喝茶."
+
+# game/scripts/lobby_script.rpy:3422
+translate schinese greet_breakfast_9e5011e0:
+
+    # c "You can thank Lin for that, she insisted."
+    c "你可以感谢林,这是她的坚持."
+
+# game/scripts/lobby_script.rpy:3426
+translate schinese greet_breakfast_c6fa9af6:
+
+    # "t"
+    "t"
+
+# game/scripts/lobby_script.rpy:3436
+translate schinese greet_breakfast_984166c9:
+
+    # van "Honestly, my favorite day of the week is quickly becoming this. It's like, all I look forward to now."
+    van "说实在的,这一天正在迅速成为我一周中最喜欢的一天.现在我似乎都开始支盼着这一天了."
+
+# game/scripts/lobby_script.rpy:3437
+translate schinese greet_breakfast_30b05d56:
+
+    # nala "Fresh breakfast and a trip to the hot springs~ You're so cool for letting us in without paying for a room!"
+    nala "新鲜的早餐和温泉之旅~还让我们不付房费就进来,你实在是太酷了!"
+
+# game/scripts/lobby_script.rpy:3438
+translate schinese greet_breakfast_f5ad414d:
+
+    # van "Yeah, it's like... a little vacation. Always worth the trip."
+    van "是啊,就好像......一次小小的休假.觉得值得来上一趟."
+
+# game/scripts/lobby_script.rpy:3439
+translate schinese greet_breakfast_aa434f5d:
+
+    # c "You're very welcome. Enjoy."
+    c "不客气,好好享受吧."
+
+# game/scripts/lobby_script.rpy:3442
+translate schinese greet_breakfast_40fb5e9c:
+
+    # van "I have another double shift at the orphanage this week... I really wish they would hire more people."
+    van "这周我又要去孤儿院连上两班了......真希望他们能多招点人手."
+
+# game/scripts/lobby_script.rpy:3443
+translate schinese greet_breakfast_145f0549:
+
+    # nala "I went there once to help Vanessa, worst experience of my life! I don't know how she does it, I can't stand kids."
+    nala "我曾经去那里帮过瓦妮莎,那是我人生中最糟糕的经历!真不知道她是怎么做到的,我实在受不了小孩."
+
+# game/scripts/lobby_script.rpy:3444
+translate schinese greet_breakfast_9eff4660:
+
+    # van "Eh, it's not about us. I have time, and I want to help. That's all."
+    van "呃,这和我们没关系.我有时间,又想帮忙.仅此而已."
+
+# game/scripts/lobby_script.rpy:3445
+translate schinese greet_breakfast_91e904b1:
+
+    # nala "Don't make me feel bad, I have a career to focus on..."
+    nala "别让我难堪,我还得专注事业......"
+
+# game/scripts/lobby_script.rpy:3448
+translate schinese greet_breakfast_9adffbad:
+
+    # nala "[name], thank you SO much for offering breakfast. It's my favorite meal!"
+    nala "[name],{b}非常{/b}感谢你请我吃早餐.这是我最喜欢的一餐!"
+
+# game/scripts/lobby_script.rpy:3449
+translate schinese greet_breakfast_21de7ac4:
+
+    # van "You ever eat breakfast for dinner? Best shit ever..."
+    van "你把早餐当晚餐吃吗?真是绝了......"
+
+# game/scripts/lobby_script.rpy:3450
+translate schinese greet_breakfast_8f9759d3:
+
+    # van "I don't know how she drinks her coffee black though. {i}I think she might be psychotic.{/i}"
+    van "不过我不明白她怎么能喝黑咖啡.{i}我觉得她可能有精神病.{/i}"
+
+# game/scripts/lobby_script.rpy:3451
+translate schinese greet_breakfast_38b1bafe:
+
+    # nala "I just enjoy bitterness, I don't know. Sweetness isn't really my thing."
+    nala "我就是喜欢苦味,不知道为什么.甜味真的不是我的菜."
+
+# game/scripts/lobby_script.rpy:3452
+translate schinese greet_breakfast_b273ec46:
+
+    # van "Okay, weirdo."
+    van "好吧,怪人."
+
+translate schinese strings:
+
+    # game/scripts/lobby_script.rpy:396
+    old "Accept Booking"
+    new "接受预定"
+
+    # game/scripts/lobby_script.rpy:396
+    old "Reject Booking"
+    new "拒绝预定"
+

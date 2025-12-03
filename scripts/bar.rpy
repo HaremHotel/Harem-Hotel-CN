@@ -16005,7 +16005,7 @@ translate schinese moondate_aa0240d0:
 translate schinese moondate_d9673365:
 
     # c "So long as you don't poison anyone, that sounds like a great idea."
-    c "只要你不会让人中毒,这听起来似乎是个好主意."
+    c "只要你别让人中毒了,这听起来似乎是个好主意."
 
 # game/scripts/bar.rpy:5844
 translate schinese moondate_5cba6af5:

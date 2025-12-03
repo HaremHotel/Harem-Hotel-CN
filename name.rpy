@@ -492,7 +492,7 @@ translate schinese strings:
     new "克洛伊"
 
     old "Viktor (the Viktorious)"
-    new "胜利者维克托"
+    new "维克托(胜利者)"
 
     old "Numbers"
     new "涅波斯"
@@ -520,3 +520,36 @@ translate schinese strings:
 
     old "Drone"
     new "无人机"
+
+    old "Identification:"
+    new "身份证:"
+
+    old "Jebediah"
+    new "杰贝迪亚"
+
+    old "Skye"
+    new "斯凯"
+
+    old "John"
+    new "约翰"
+
+    old "Vincent Blackwood (Maverick)"
+    new "文森特·黑木(独行侠)"
+
+    old "Bob Babbart"
+    new "鲍勃·巴勃特"
+
+    old "Omar"
+    new "奥马尔"
+
+    old "Isabella"
+    new "伊莎贝拉"
+
+    old "Sadie"
+    new "萨蒂"
+
+    old "Claire"
+    new "克莱尔"
+
+    old "Wapa"
+    new "瓦帕"

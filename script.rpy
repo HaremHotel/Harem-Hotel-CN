@@ -26625,7 +26625,7 @@ translate schinese bern_tourney_0f85d687:
 translate schinese bern_tourney_8458121a:
 
     # ba "A... homeless person?"
-    ba "一个......无家可归的人?"
+    ba "一个......流浪汉?"
 
 # game/script.rpy:13593
 translate schinese bern_tourney_a293ce5a:
@@ -27015,7 +27015,7 @@ translate schinese bern_tourney_6cd95531:
 translate schinese bern_tourney_3cc3753c:
 
     # ba "The homeless man takes a shot!"
-    ba "无家可归的人投球!"
+    ba "流浪汉投球!"
 
 # game/script.rpy:13742
 translate schinese bern_tourney_765118a5:
@@ -98045,7 +98045,7 @@ translate schinese strings:
 
     # game/script.rpy:195
     old "Homeless Person"
-    new "无家可归的人"
+    new "流浪汉"
 
     # game/script.rpy:196
     old "Dirty Woman"
@@ -110881,4 +110881,2688 @@ translate schinese strings:
     # game/script.rpy:1137
     old "{color=#8C8C8C}Sleep with Emma{/color}"
     new "{color=#8C8C8C}和艾玛一起睡觉{/color}"
+
+# TODO: Translation updated at 2025-12-02 02:08
+
+# game/script.rpy:2987
+translate schinese lobby2_7344295e_1:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/script.rpy:3722
+translate schinese ellentalking_acba35b4:
+
+    # e "We are currently accepting guests. Would you like to stop?"
+    e "我们目前接受客人.你想要暂停吗?"
+
+# game/script.rpy:3726
+translate schinese ellentalking_68749113:
+
+    # e "Very well, we'll shut our doors to the public. Please keep in mind that any guest currently staying with us will only leave after their booking has concluded."
+    e "很好,我们将暂停接待公众.请注意,目前入住的客人仅会在预订期满后才会离开酒店."
+
+# game/script.rpy:3731
+translate schinese ellentalking_05dd5303:
+
+    # e "We are currently not accepting guests. Would you like to change that?"
+    e "我们目前不接受客人.你想要改变吗?"
+
+# game/script.rpy:3735
+translate schinese ellentalking_d6c214d6:
+
+    # e "Wonderful! Consider our doors open!"
+    e "很好!我们的大门现在就敞开!"
+
+# game/script.rpy:3801
+translate schinese hotelupgrades_217c3fce:
+
+    # e "We are currently a 0-Star hotel. This means we are unable to accept short-term stays from tourists."
+    e "我们现在是0星酒店.这意味着我们无法接待游客的短期住宿."
+
+# game/script.rpy:3802
+translate schinese hotelupgrades_edc5bea8:
+
+    # e "If you would like to officially open the hotel, you may! But we need to properly upgrade the hotel in order to do that."
+    e "如果你想正式开业,大可以这么做!但我们需要为此对酒店进行全面升级."
+
+# game/script.rpy:3803
+translate schinese hotelupgrades_4b35872a:
+
+    # e "If I were you, I would focus on filling the first two floors with long-term guests. Only then should we begin construction the third floor."
+    e "如果是我,我会优先安排长期住客入住前两层.等到安排妥当后,再着手三楼的施工."
+
+# game/script.rpy:3806
+translate schinese hotelupgrades_c4387ef7:
+
+    # e "Congratulations on earning our first star, [name]! I'm so excited for what the future holds!"
+    e "恭喜,我们获得了我们的第一颗星,[name]!我对未来充满期待!"
+
+# game/script.rpy:3807
+translate schinese hotelupgrades_7f410b23:
+
+    # e "however, our goal is the prestigious five stars. A 5-Star hotel will attract more guests, and more guests will purchase more amenities."
+    e "但是,我们的目标是声望卓越的5星.5星酒店将吸引更多的客人,而更多的客人会在配套设施上进行更多的消费."
+
+# game/script.rpy:3808
+translate schinese hotelupgrades_201b1099:
+
+    # c "How can we get that second star?"
+    c "我们怎么才能获得第二颗星?"
+
+# game/script.rpy:3809
+translate schinese hotelupgrades_82b4f61d:
+
+    # e "Very simple. We only need to offer food to get the second star. Something simple like a pastry stand in the kitchen will do. Anything that doesn't sell at the end of the day will be donated by me."
+    e "很简单.我们只需要提供食物就能获得第二颗星.在厨房里摆一个糕点台之类的简单设施就行.当前卖不完的东西,我会全部捐出去."
+
+# game/script.rpy:3810
+translate schinese hotelupgrades_94a53af6:
+
+    # c "Oh, thanks Ellen."
+    c "哦,谢谢你,艾兰."
+
+# game/script.rpy:3811
+translate schinese hotelupgrades_14be8ee3:
+
+    # e "We will also need to prove ourselves as capable of running a hotel. So if we can stay in business for the next 80 days, or accept 8 guests, they will accept our application! Whichever comes first."
+    e "我们也需要证明自己有能力经营酒店.因此,只要我们能在未来80天内持续营业,或者接待8位客人,他们就会批准我们的申请!以先达成的条件为准."
+
+# game/script.rpy:3812
+translate schinese hotelupgrades_d2ca4186:
+
+    # c "Okay, I'll work towards setting up a pastry stand and wait for guests to book with us. Thanks again, Ellen."
+    c "好的,我会着手准备糕点台等待客人预约的.再次感谢你,艾兰."
+
+# game/script.rpy:3813
+translate schinese hotelupgrades_6087aa95:
+
+    # e "You're very welcome, [name]."
+    e "不用谢,[name]."
+
+# game/script.rpy:3816
+translate schinese hotelupgrades_f68a315a:
+
+    # e "Two stars, not bad! This will allow us to get a lot more bookings. People might actually go out of their way to stay with us now..."
+    e "2星了,不错!这下我们能接到更多预定了.说不定有些客人会特意来住我们这里呢......"
+
+# game/script.rpy:3817
+translate schinese hotelupgrades_9f58c786:
+
+    # c "How can we get that third star?"
+    c "我们怎么才能得到第三颗星?"
+
+# game/script.rpy:3818
+translate schinese hotelupgrades_5cd04478:
+
+    # e "There are three requirements we must meet to become a 3-Star hotel..."
+    e "要成为3星酒店,我们必须满足三个要求......"
+
+# game/script.rpy:3819
+translate schinese hotelupgrades_7df36485:
+
+    # e "The first, we must own and operate a bar. Though it may have a high initial investment, it is by far the most profitable asset we could own and will allow us to easily move forward."
+    e "首先,我们比必须拥有并经营一家酒吧.尽管初期的投资可能比较高,但这无疑是我们能拥有的最盈利的资产,并将使我们能够轻松向前发展."
+
+# game/script.rpy:3820
+translate schinese hotelupgrades_cc7c124e:
+
+    # c "Perfect, I could really use some more money."
+    c "太好了,我正缺钱呢."
+
+# game/script.rpy:3821
+translate schinese hotelupgrades_2e3d5b21:
+
+    # e "Two, we must install private restrooms in each of the guest rooms. Some better furniture wouldn't hurt either."
+    e "第二,我们必须在每间客房安排独立卫生间,添置些更好的家具也不错."
+
+# game/script.rpy:3822
+translate schinese hotelupgrades_3ad1518a:
+
+    # e "I don't know if you've tried them, but those beds are stiff as shit. Excuse my languge..."
+    e "不知道你试过没,但是那些床硬得要命.抱歉,我说话有点粗鲁......"
+
+# game/script.rpy:3823
+translate schinese hotelupgrades_8e2b145a:
+
+    # e "And finally, to be eligible for the third star, we must be in business for 120 days, or accept 16 guests."
+    e "最后,要获得第三颗星的资格,我们必须营业满120天,或接待16位客人."
+
+# game/script.rpy:3824
+translate schinese hotelupgrades_ec05004c:
+
+    # c "Alright, I'll work on getting the bar and upgrading the guest rooms. Thanks Ellen."
+    c "好了,我会着手处理酒吧的事情,并升级客房的.谢谢你,艾兰."
+
+# game/script.rpy:3825
+translate schinese hotelupgrades_e6f9b3c4:
+
+    # e "You're most welcome."
+    e "不用谢."
+
+# game/script.rpy:3828
+translate schinese hotelupgrades_52006fa3:
+
+    # e "Three stars, now we're getting somewhere!"
+    e "3星了,我们取得了一些进展!"
+
+# game/script.rpy:3829
+translate schinese hotelupgrades_b3936a3d:
+
+    # c "So how can we get that fourth star?"
+    c "所以我们怎么才能得到第四颗星?"
+
+# game/script.rpy:3830
+translate schinese hotelupgrades_c0b5717b:
+
+    # e "The fourth star will require quite a few things from us..."
+    e "第四颗星需要我们付出相当多的东西......"
+
+# game/script.rpy:3831
+translate schinese hotelupgrades_ff1b4297:
+
+    # e "Number 1, offer the breakfast buffet. Just simple things like eggs, waffles and fruits to keep the work-load low for the maids. With the addition of the pastry stand and brewer, we'll have quite the variety for our guests to enjoy."
+    e "第一,提供自助早餐.只需要准备鸡蛋,华夫饼和水果等简单食物,减轻女仆们的工作量.加上糕点摊和咖啡机,我们就能为客人提供相当丰富的选择."
+
+# game/script.rpy:3832
+translate schinese hotelupgrades_f23222aa:
+
+    # e "Number 2, we must have a greenhouse. This addition to our garden will allow the maids to pick fresh produce whenever it's needed."
+    e "第二,我们必须建造一座温室.这个新增的花园设施让女仆们可以随时采摘新鲜蔬果."
+
+# game/script.rpy:3833
+translate schinese hotelupgrades_7ef3169f:
+
+    # e "Number 3, the fourth star will also require a bigger bed and better amenities for our each of our guest rooms."
+    e "第三,四星酒店还需要位每间客房配备更大的床铺和更优质的设施."
+
+# game/script.rpy:3834
+translate schinese hotelupgrades_2e933638:
+
+    # c "I just bought more furniture though..."
+    c "我才刚买了一批家具......"
+
+# game/script.rpy:3835
+translate schinese hotelupgrades_7da574c9:
+
+    # e "What can I say? They're strict about their stars. But don't worry, everything old will be sold."
+    e "我还能说什么呢?他们对星级评分很严格.不过别担心,旧的都会卖掉."
+
+# game/script.rpy:3836
+translate schinese hotelupgrades_936b77c0:
+
+    # e "And number 4, we must approve 32 guests, or operate for a total of 160 days."
+    e "第四,我们必须接待32位顾客,或者累计运营160天."
+
+# game/script.rpy:3837
+translate schinese hotelupgrades_24c90863:
+
+    # c "Alright, thanks Ellen. I'll work towards upgrading the guest rooms, buying the greenhouse, and setting up daily breakfast."
+    c "好了,谢谢你,艾兰.我会着手升级客房,购买温室并安排每日早餐."
+
+# game/script.rpy:3838
+translate schinese hotelupgrades_6087aa95_1:
+
+    # e "You're very welcome, [name]."
+    e "不用谢,[name]."
+
+# game/script.rpy:3841
+translate schinese hotelupgrades_2d903864:
+
+    # "(5-Star Hotel in development. You cannot upgrade further right now.)"
+    "(5星酒店依然在开发中.目前无法进一步升级.)"
+
+# game/script.rpy:3842
+translate schinese hotelupgrades_c5983f9a:
+
+    # e "Four stars! Dare I say, we've actually become somewhere that people want to stay!"
+    e "4星!我敢说,我们真正成为了人们愿意居住的地方!"
+
+# game/script.rpy:3843
+translate schinese hotelupgrades_e2a9452f:
+
+    # c "We're going places, but I won't stop until we're a 5-Star hotel!"
+    c "我们前程似锦,但我绝对不会停下脚步,直到我们成为5星酒店!"
+
+# game/script.rpy:3844
+translate schinese hotelupgrades_edc03ccc:
+
+    # e "In order for us to achieve the legendary 5-Star status, we must have a fully upgraded bar, a gardener, and a second receptionist to cover the night shift."
+    e "要达到传说中的5星标准,我们必须拥有完全升级的酒吧,一名园丁和第二名接待员来负责夜班."
+
+# game/script.rpy:3845
+translate schinese hotelupgrades_cba254de:
+
+    # e "Oh, and of course we will need to upgrade the guest rooms to meet the standards that our new 5-Star guests will be expecting!"
+    e "哦,当然了,我们还得升级客房设施,以满足新入住的5星客人所期待的标准!"
+
+# game/script.rpy:3846
+translate schinese hotelupgrades_7d750f08:
+
+    # c "Okay, I'll see what I can do. Thanks Ellen."
+    c "好的,我会尽力而为.谢谢你,艾兰."
+
+# game/script.rpy:3847
+translate schinese hotelupgrades_2e8a5fe0:
+
+    # e "Of course."
+    e "不客气."
+
+# game/script.rpy:3850
+translate schinese hotelupgrades_5f830423:
+
+    # e "Congratulations [name]! You've achieved your grandfather's dream of operating a 5-Star hotel. He would be so proud of you..."
+    e "恭喜,[name]!你实现了爷爷经营5星酒店的梦想.他一定会为你感到无比自豪......"
+
+# game/script.rpy:3851
+translate schinese hotelupgrades_4aa766eb:
+
+    # e "Now that we've become a 5-Star hotel, what will you focus on?"
+    e "现在我们成为了5星酒店,下一步你要做什么?"
+
+# game/script.rpy:3852
+translate schinese hotelupgrades_a8ddc8bf:
+
+    # c "There's so much left to do, I'm not sure where to start..."
+    c "还有很多要做的,我不知道要从什么开始......"
+
+# game/script.rpy:3853
+translate schinese hotelupgrades_66557266:
+
+    # c "Now that the business side is taken care of, I'll see what good I can do with the profits."
+    c "既然生意方面已经搞定了,我来看看能用这些利润做些什么."
+
+# game/script.rpy:3854
+translate schinese hotelupgrades_e5de7d4a:
+
+    # e "Not going to take the fat and lazy route, hm?"
+    e "不打算事不关己,就此躺平,嗯?"
+
+# game/script.rpy:3855
+translate schinese hotelupgrades_0f121a75:
+
+    # c "No, that's not me. A succesful business should give back to its community. We wouldn't be here without them."
+    c "不,那不是我.一个成功的企业应该回馈社区.没有他们,我们根本不会走到今天."
+
+# game/script.rpy:3856
+translate schinese hotelupgrades_13acc11f:
+
+    # e "Great point, [name]. I'm so excited to see what you'll do next!"
+    e "说得好,[name].我超期待看到你接下来会做什么!"
+
+# game/script.rpy:3863
+translate schinese hotelupgrades_73305d85:
+
+    # c "The second floor is done! We just need carpets, beds, and some furnishings."
+    c "二层已经完工了!现在只需要铺地毯,摆床铺和添置些家具了."
+
+# game/script.rpy:3866
+translate schinese hotelupgrades_a15302f8:
+
+    # e "Absolutely. May I take the liberties of decoration?"
+    e "当然可以.我能否自行进行装修?"
+
+# game/script.rpy:3867
+translate schinese hotelupgrades_4e8c7062:
+
+    # c "Of course."
+    c "当然可以."
+
+# game/script.rpy:3868
+translate schinese hotelupgrades_384f9d92:
+
+    # e "Perfect~!\n*ahem*... I'll make sure to get it delivered and placed tomorrow."
+    e "完美~!\n*咳嗽*......我保证明天就可以送达并摆放到位."
+
+# game/script.rpy:3872
+translate schinese hotelupgrades_67799a2e:
+
+    # c "Oh. I don't have enough money for that..."
+    c "哦.我没有足够的钱......"
+
+# game/script.rpy:3873
+translate schinese hotelupgrades_02c274d0:
+
+    # e "Heheh, brokie."
+    e "呵呵呵,穷光蛋."
+
+# game/script.rpy:3878
+translate schinese hotelupgrades_373c8dd7:
+
+    # e "Oh you're interested in expanding the hotel?"
+    e "哦,你对扩建酒店感兴趣吗?"
+
+# game/script.rpy:3881
+translate schinese hotelupgrades_8bbfd7b9:
+
+    # c "Yeah, I think it's time we get some more rooms."
+    c "是的,我觉得是时候建更多的房间了."
+
+# game/script.rpy:3882
+translate schinese hotelupgrades_4fc1e11a:
+
+    # e "Very well, I'll contact a construction company right away! Construction should take a few days."
+    e "很好,我马上联系建筑公司!施工应该需要几天时间."
+
+# game/script.rpy:3883
+translate schinese hotelupgrades_20a3d281:
+
+    # c "Thanks, Ellen."
+    c "谢谢你,艾兰."
+
+# game/script.rpy:3891
+translate schinese hotelupgrades_afbfe99f:
+
+    # c "I don't have enough money for that."
+    c "我没那么多钱."
+
+# game/script.rpy:3895
+translate schinese hotelupgrades_12fad2df:
+
+    # c "Wouldn't make much sense to develop the third floor before the second..."
+    c "在二楼弄好前就开发三楼,这不太合适......"
+
+# game/script.rpy:3898
+translate schinese hotelupgrades_bd611846:
+
+    # c "I should focus on the residents of the second floor before developing the third floor. It would be useless right now."
+    c "我应该先关注二楼的住户,再考虑开发三楼.现在建三楼毫无意义."
+
+# game/script.rpy:3903
+translate schinese hotelupgrades_6182002d:
+
+    # e "Oh! The third floor, wonderful!"
+    e "哦!三楼,太好了!"
+
+# game/script.rpy:3904
+translate schinese hotelupgrades_e21e5747:
+
+    # e "Like I said, this is purely a floor for guests. On average, guests usually stay between three to seven days at a time."
+    e "正如我所说,这层是纯粹位客人准备的.平均而言,每位客人每次入住通常会停留三到七天."
+
+# game/script.rpy:3905
+translate schinese hotelupgrades_847699ac:
+
+    # e "We can have three guests maximum at any moment. Each of them will hopefully use our amenities as well, resulting in compounding profits!"
+    e "我们最多可以同时接待三位客人.每位客人都能使用我们的配套设施,从而实现利润的叠加增长!"
+
+# game/script.rpy:3908
+translate schinese hotelupgrades_09b34183:
+
+    # e "Are you still interested in buying the third floor?" nointeract
+    e "你对购买三楼还敢兴趣吗?" nointeract
+
+# game/script.rpy:3911
+translate schinese hotelupgrades_7e2d22c5:
+
+    # e "Great! I'll contact a construction company right away."
+    e "太好了!我马上联系建筑公司."
+
+# game/script.rpy:3912
+translate schinese hotelupgrades_de012d83:
+
+    # e "I'm so excited, [name]!"
+    e "我太兴奋了,[name]!"
+
+# game/script.rpy:3920
+translate schinese hotelupgrades_afbfe99f_1:
+
+    # c "I don't have enough money for that."
+    c "我没有足够的钱."
+
+# game/script.rpy:3925
+translate schinese hotelupgrades_f372b867:
+
+    # c "Looks like the third floor is finished, we just need some detailing and furnishing."
+    c "三楼看起来已经完工了,我们只需要做些细节处理和布置家具."
+
+# game/script.rpy:3926
+translate schinese hotelupgrades_620a7b12:
+
+    # e "I noticed! May I take the liberties of decoration again? I have some great ideas!"
+    e "我注意到了!我可以再擅自装修一下吗?我有几个绝妙的主意!"
+
+# game/script.rpy:3927
+translate schinese hotelupgrades_4e8c7062_1:
+
+    # c "Of course."
+    c "当然可以."
+
+# game/script.rpy:3928
+translate schinese hotelupgrades_2a8b2421:
+
+    # e "Great! I'll make sure to get it delivered and placed tomorrow."
+    e "太好了!我保证明天就能送达并摆放到位."
+
+# game/script.rpy:3932
+translate schinese hotelupgrades_afbfe99f_2:
+
+    # c "I don't have enough money for that."
+    c "我没有足够的钱."
+
+# game/script.rpy:3937
+translate schinese hotelupgrades_d1a6d63b:
+
+    # e "Ohh~ The dungeon? I see you have some special plans for someone... Very well, I'll contact the cleaners. Everything should be ready in a couple of hours!"
+    e "哦~地牢?看来你对某人有特别的安排呢......很好,我这就联系清洁人员.几个小时内一切就能就绪!"
+
+# game/script.rpy:3943
+translate schinese hotelupgrades_db28ec1d:
+
+    # "I don't have enough money for that."
+    "我没有足够的钱."
+
+# game/script.rpy:3948
+translate schinese hotelupgrades_68732bea:
+
+    # e "Oh! The bar? I'm so happy you're finally buying it!"
+    e "哦!酒吧?我很高兴你终于购买它了!"
+
+# game/script.rpy:3949
+translate schinese hotelupgrades_adad83df:
+
+    # e "Before it was dilapidated, I loved hanging out in there. So many interesting people would come by!"
+    e "在它还没荒废之前,我特别喜欢在那晃悠.总有那么多有趣的人来来往往!"
+
+# game/script.rpy:3950
+translate schinese hotelupgrades_a256b1a2:
+
+    # e "And some of us girls would get a little tipsy from time to time... Haha..."
+    e "我们这些姑娘偶尔也会喝得醉醺醺的......哈哈......"
+
+# game/script.rpy:3952
+translate schinese hotelupgrades_78070575:
+
+    # e "In any case, I'll contact a construction agency, they should have it done by tomorrow morning."
+    e "无论如何,我会联系一家建筑公司,他们应该能在明天早上之前完成."
+
+# game/script.rpy:3953
+translate schinese hotelupgrades_97db9582:
+
+    # e "I should warn you though, the bar is going to be fairly bare bones at the beginning, you may even lose some money. But once you start buying high quality alcohol and training the staff, it will definitely give you profits!"
+    e "不过我得提醒你,酒吧初期经营会相当简陋,甚至可能亏本.但一旦开始采购优质酒水并培训员工,绝对能为你带来利润!"
+
+# game/script.rpy:3954
+translate schinese hotelupgrades_3e09066e:
+
+    # e "Speaking of that, the bar has a variety of upgrades you can purchase. From entertainment like music, to top shelf spirits."
+    e "说到这个,酒吧提供多种升级可供选购.从音乐等娱乐项目,到顶级烈酒应有尽有."
+
+# game/script.rpy:3955
+translate schinese hotelupgrades_5e109c46:
+
+    # e "You may also want to advertise the bar once you have all of these upgrades. It'll cost a pretty penny, but the profits should be worth it!"
+    e "完成所有升级后,不妨考虑为酒吧做些宣传,虽然价格不菲,但收益绝对值得!"
+
+# game/script.rpy:3956
+translate schinese hotelupgrades_dec1967e:
+
+    # e "You'll get an earnings report every Monday as well."
+    e "你每周一也会收到一份收益报告."
+
+# game/script.rpy:3957
+translate schinese hotelupgrades_659d6faf:
+
+    # e "Oh, and don't worry about hiring staff, I'll do all of that work."
+    e "哦,还有,别担心员工的事情,这些工作我都能包办."
+
+# game/script.rpy:3958
+translate schinese hotelupgrades_755696db:
+
+    # e "Well, I'll get to it then!"
+    e "好吧,那我就开始了!"
+
+# game/script.rpy:3964
+translate schinese hotelupgrades_bb22c8cb:
+
+    # "I don't have enough money for that..."
+    "我没有足够的钱......"
+
+# game/script.rpy:3968
+translate schinese hotelupgrades_aece585e:
+
+    # c "Alright, let's get better furnishings. Something half-way decent."
+    c "好,我们换一些更好的家具.至少要还算的过去的那种."
+
+# game/script.rpy:3969
+translate schinese hotelupgrades_003fa950:
+
+    # e "Great idea! I'll contact a furnishing company immediately. I would expect each room to take a full day to properly furnish... so the whole project should be finished in three days."
+    e "好主意!我马上联系家具公司.预计每个房间都需要一天的时间才能布置妥当......所以整个项目应该能在三天内完成."
+
+# game/script.rpy:3974
+translate schinese hotelupgrades_db28ec1d_1:
+
+    # "I don't have enough money for that."
+    "我没有足够的钱."
+
+# game/script.rpy:3978
+translate schinese hotelupgrades_dba19ca2:
+
+    # c "Alright, let's get better furnishings. Something people actually want to use."
+    c "好,我们换一些更好的家具.一些人们真正想用的东西."
+
+# game/script.rpy:3979
+translate schinese hotelupgrades_9ab487f4:
+
+    # e "Great idea! I'll contact a furnishing company immediately."
+    e "好主意!我马上联系家具公司."
+
+# game/script.rpy:3984
+translate schinese hotelupgrades_db28ec1d_2:
+
+    # "I don't have enough money for that."
+    "我没有足够的钱."
+
+# game/script.rpy:3988
+translate schinese hotelupgrades_24601884:
+
+    # c "Okay Ellen, let's make those guest rooms luxurious."
+    c "好的,艾兰,我们把客房布置得更豪华些."
+
+# game/script.rpy:3989
+translate schinese hotelupgrades_7db9596b:
+
+    # e "Of course! I'll contact a furnishing company immediately."
+    e "当然!我马上联系家具公司."
+
+# game/script.rpy:3994
+translate schinese hotelupgrades_db28ec1d_3:
+
+    # "I don't have enough money for that."
+    "我没有足够的钱."
+
+# game/script.rpy:4001
+translate schinese hotel_amenities_bf1345e6:
+
+    # e "Oh yes! Finally~!"
+    e "哦,是的!终于~!"
+
+# game/script.rpy:4003
+translate schinese hotel_amenities_06531d0a:
+
+    # e "*Ahem*... sorry. I've just always wanted one!"
+    e "*咳嗽*......对不起.我一直都想要一个!"
+
+# game/script.rpy:4005
+translate schinese hotel_amenities_4b94eee0:
+
+    # e "The commercial coffee and tea brewer would allow us to sell hot drinks directly to the guests without any staff involvement. The more guests we have, the more money it makes!"
+    e "商用咖啡茶饮机能让我们直接向客人售卖热饮,无需任何员工参与.客人越多,收益就越高!"
+
+# game/script.rpy:4008
+translate schinese hotel_amenities_77e57d5f:
+
+    # e "Would you like to purchase one?" nointeract
+    e "你想要购买一台吗?" nointeract
+
+# game/script.rpy:4011
+translate schinese hotel_amenities_7f8ef583:
+
+    # e "Very well, I'll order it immediately! It should arrive sometime this week."
+    e "好的,我马上就下单!应该这周内就能送达."
+
+# game/script.rpy:4012
+translate schinese hotel_amenities_ddf16922:
+
+    # e "Don't worry, consider it done. I'll handle the installation and everything. All you need to worry about is the extra profits in your end-of-week report."
+    e "别担心,这事包在我身上.安装之类的事情我全权负责,你只需要关注周末报告里额外的利润就行."
+
+# game/script.rpy:4013
+translate schinese hotel_amenities_975455ee:
+
+    # c "Thanks Ellen."
+    c "谢谢你,艾兰."
+
+# game/script.rpy:4020
+translate schinese hotel_amenities_db28ec1d:
+
+    # "I don't have enough money for that."
+    "我没有足够的钱."
+
+# game/script.rpy:4023
+translate schinese hotel_amenities_424c1f36:
+
+    # e "I'm sorry, but we won't be able to offer the pastry stand at our current level. We should prioritize other things for now."
+    e "很抱歉,但是我们目前无法维持糕点台的运营.眼下应该优先处理其他事务."
+
+# game/script.rpy:4027
+translate schinese hotel_amenities_89e98fb7:
+
+    # e "Oh perfect, a pastry stand. Easy to make and easy to sell."
+    e "哦,完美,一个糕点台.做起来简单,卖起来也容易."
+
+# game/script.rpy:4028
+translate schinese hotel_amenities_7f4f705b:
+
+    # e "With your permission, I'll ask the maids to make and sell fresh pastries daily in the kitchen. It only requires an initial investment, then should pay itself off."
+    e "如果你允许的话,我会安排女仆们每日在厨房里制作并售卖新鲜糕点.只需要前期投入资金,之后便能实现自给自足."
+
+# game/script.rpy:4030
+translate schinese hotel_amenities_b30b76d5:
+
+    # e "Would you like to invest in a pastry stand?" nointeract
+    e "你想投资一个糕点台吗?" nointeract
+
+# game/script.rpy:4033
+translate schinese hotel_amenities_2807073f:
+
+    # e "Wonderful! I'll let everyone know immediately! Anything that doesn't sell I can always donate to the hungry."
+    e "太好了!我马上通知大家!卖不掉的我可以捐给那些饥饿的人."
+
+# game/script.rpy:4040
+translate schinese hotel_amenities_2c67db66:
+
+    # e "I'm sorry, but we won't be able to offer the breakfast buffet at our current level. We should prioritize other things for now."
+    e "很抱歉,但我们目前无法提供早餐自助.眼下应该优先处理其他事项."
+
+# game/script.rpy:4046
+translate schinese hotel_amenities_78d232d6:
+
+    # e "Oh yes, this was always a personal a goal of mine!"
+    e "哦,是的,这一直是我个人的目标!"
+
+# game/script.rpy:4047
+translate schinese hotel_amenities_04154b60:
+
+    # e "It will require some time, effort, and management to set up, but it will be well worth it in the long run!"
+    e "建立这个体系需要花费时间,精力和管理成本,但从长远来看,绝对物有所值!"
+
+# game/script.rpy:4048
+translate schinese hotel_amenities_45b12d41:
+
+    # e "Our long term residents have been used to eating for free, which is something we've been fine with until now. Would you like me to lock them out of the kitchen?"
+    e "我们的长期住户一直都是免费用餐,我们至今为止对此都没有介意.你需要我把她们锁在厨房外面吗?"
+
+# game/script.rpy:4049
+translate schinese hotel_amenities_ac26aa2b:
+
+    # c "No, that's fine. We'll just charge guests."
+    c "不,这样就行.我们直接对其他客人收费就可以了."
+
+# game/script.rpy:4051
+translate schinese hotel_amenities_ba825b0e:
+
+    # e "In that case, profits may be low until you have a lot of guests frequently visiting our hotel, as profits directly scale with our popularity."
+    e "这样的话,在大量客人频繁入住我们的酒店之前,获取的利润可能较低,因为利润直接取决于我们的受欢迎程度."
+
+# game/script.rpy:4053
+translate schinese hotel_amenities_f7da8061:
+
+    # e "Would you like to set up the breakfast buffet?" nointeract
+    e "你想要设置自助早餐吗?" nointeract
+
+# game/script.rpy:4055
+translate schinese hotel_amenities_b9c3d711:
+
+    # e "Wonderful! I'll let everyone know the news!"
+    e "太好了!我会把这个消息告诉大家的!"
+
+# game/script.rpy:4062
+translate schinese hotel_amenities_db28ec1d_1:
+
+    # "I don't have enough money for that."
+    "我没有足够的钱."
+
+# game/script.rpy:4065
+translate schinese hotel_amenities_0a2e9ff8:
+
+    # e "You're interested in the breakfast buffet? That would be great, but we should offer coffee, tea, and pastries first, don't you think?"
+    e "你对自助早餐感兴趣吗?那太好啦,不过我们应该先提供咖啡,茶和糕点,你觉得呢?"
+
+# game/script.rpy:4083
+translate schinese hotel_amenities_d72f2a77:
+
+    # e "I hope you know what you're doing..."
+    e "我希望你知道你在做什么......"
+
+# game/script.rpy:4091
+translate schinese hotel_amenities_c2583b9c:
+
+    # "The Elves' happiness went down..."
+    "精灵们的快乐值下降了......"
+
+# game/script.rpy:4097
+translate schinese hotel_amenities_c9e9c46b:
+
+    # c "I'm already giving them bland food."
+    c "我已经给她们粗糙的食物了."
+
+# game/script.rpy:4100
+translate schinese hotel_amenities_885254ba:
+
+    # e "Very well."
+    e "很好."
+
+# game/script.rpy:4105
+translate schinese hotel_amenities_d06a55e7:
+
+    # "The Elves' happiness went up!"
+    "精灵们的快乐值提高了!"
+
+# game/script.rpy:4110
+translate schinese hotel_amenities_c2583b9c_1:
+
+    # "The Elves' happiness went down..."
+    "精灵们的快乐值下降了......"
+
+# game/script.rpy:4116
+translate schinese hotel_amenities_9f095d90:
+
+    # c "I'm already giving them regular food."
+    c "我已经给她们普通的食物了."
+
+# game/script.rpy:4119
+translate schinese hotel_amenities_b3b6ac09:
+
+    # e "Wonderful!"
+    e "太棒了!"
+
+# game/script.rpy:4127
+translate schinese hotel_amenities_d06a55e7_1:
+
+    # "The Elves' happiness went up!"
+    "精灵们的快乐值提高了!"
+
+# game/script.rpy:4133
+translate schinese hotel_amenities_1bd817b9:
+
+    # c "I'm already giving them luxury food."
+    c "我已经给她们精美的食物了."
+
+# game/script.rpy:4958
+translate schinese billad_57fc3ea6:
+
+    # c "I heard the hotel used to have a garden?"
+    c "我听说酒店以前有个花园?"
+
+# game/script.rpy:4959
+translate schinese billad_eda54ea2:
+
+    # e "Well, sort of... we had plans to grow our own food but that didn't really go anywhere. Regardless, we have plenty of land if you would like to use it."
+    e "嗯,算是吧......我们原本打算自己种食物,但这件事并没能落实.不过,我们确实有一片等待使用的土地."
+
+# game/script.rpy:4960
+translate schinese billad_6ca5a752:
+
+    # e "Take the door to the left of the stairs. You'll find it eventually."
+    e "走楼梯左边的门,你会找到的."
+
+# game/script.rpy:5226
+translate schinese floor3construction_e29dd712:
+
+    # c "Making progress..."
+    c "正在进行中......"
+
+# game/script.rpy:5233
+translate schinese floor3construction_61efaf6f:
+
+    # c "Not bad..."
+    c "还不错......"
+
+# game/script.rpy:5240
+translate schinese floor3construction_180c11ef:
+
+    # c "Almost done!"
+    c "快好了!"
+
+# game/script.rpy:5247
+translate schinese floor3construction_fa3c6bc6:
+
+    # c "It's done! I should go to Ellen to purchase detailing."
+    c "完成了!我应该去艾兰那里买点装修家具."
+
+# game/script.rpy:5254
+translate schinese floor3construction_12a5a6d4:
+
+    # c "Can't wait for that detailing to be done..."
+    c "等不及装修完成了......"
+
+# game/script.rpy:5339
+translate schinese pre_room301_130a7306:
+
+    # skye "Oh, didn't I lock that...?"
+    skye "哦,我没有锁门吗......?"
+
+# game/script.rpy:5341
+translate schinese pre_room301_8436ef56:
+
+    # mcart "Man, get the hell outta here!"
+    mcart "伙计,给我滚开!"
+
+# game/script.rpy:5527
+translate schinese pre_room302_130a7306:
+
+    # skye "Oh, didn't I lock that...?"
+    skye "哦,我没有锁门吗......?"
+
+# game/script.rpy:5529
+translate schinese pre_room302_8436ef56:
+
+    # mcart "Man, get the hell outta here!"
+    mcart "伙计,给我滚开!"
+
+# game/script.rpy:5715
+translate schinese pre_room303_130a7306:
+
+    # skye "Oh, didn't I lock that...?"
+    skye "哦,我没有锁门吗......?"
+
+# game/script.rpy:5717
+translate schinese pre_room303_8436ef56:
+
+    # mcart "Man, get the hell outta here!"
+    mcart "伙计,给我滚开!"
+
+# game/script.rpy:5908
+translate schinese prefloor3_6a71bfc8:
+
+    # c "It's getting late... I should head to bed."
+    c "已经很晚了......我应该去睡觉了."
+
+# game/script.rpy:5976
+translate schinese floor3_6a71bfc8:
+
+    # c "It's getting late... I should head to bed."
+    c "已经很晚了......我应该去睡觉了."
+
+# game/script.rpy:6007
+translate schinese floor3_33dfda25:
+
+    # c "Nice, looks great! If I want to make use of this floor, I should talk to Ellen about allowing tourism."
+    c "不错,看起来很棒!如果我想利用这层楼,我应该和艾兰谈谈向游客开放的事宜."
+
+# game/script.rpy:6062
+translate schinese floor3_6b0910aa:
+
+    # c "This room is vacant. Hopefully someone books soon."
+    c "这间房是空置的,希望尽快有人预定."
+
+# game/script.rpy:6065
+translate schinese floor3_cbaa1c7b:
+
+    # c "This room is vacant."
+    c "这间房是空置的."
+
+# game/script.rpy:6073
+translate schinese floor3_fd5250ba:
+
+    # c "It's under construction. I shouldn't interfere."
+    c "这里正在施工中,我不应该插手."
+
+# game/script.rpy:6078
+translate schinese floor3_54d4057a:
+
+    # "[room_301_name] is currently occupying this room."
+    "[room_301_name!t]目前正在使用此房间."
+
+# game/script.rpy:6085
+translate schinese floor3_fd5250ba_1:
+
+    # c "It's under construction. I shouldn't interfere."
+    c "这里正在施工中,我不应该插手."
+
+# game/script.rpy:6100
+translate schinese floor3_6b0910aa_1:
+
+    # c "This room is vacant. Hopefully someone books soon."
+    c "这间房是空置的,希望尽快有人预定."
+
+# game/script.rpy:6103
+translate schinese floor3_cbaa1c7b_1:
+
+    # c "This room is vacant."
+    c "这间房是空置的."
+
+# game/script.rpy:6111
+translate schinese floor3_fd5250ba_2:
+
+    # c "It's under construction. I shouldn't interfere."
+    c "这里正在施工中,我不应该插手."
+
+# game/script.rpy:6116
+translate schinese floor3_3f9d33b8:
+
+    # "[room_302_name] is currently occupying this room."
+    "[room_302_name!t]目前正在使用此房间."
+
+# game/script.rpy:6123
+translate schinese floor3_fd5250ba_3:
+
+    # c "It's under construction. I shouldn't interfere."
+    c "这里正在施工中,我不应该插手."
+
+# game/script.rpy:6139
+translate schinese floor3_6b0910aa_2:
+
+    # c "This room is vacant. Hopefully someone books soon."
+    c "这间房是空置的,希望尽快有人预定."
+
+# game/script.rpy:6142
+translate schinese floor3_cbaa1c7b_2:
+
+    # c "This room is vacant."
+    c "这间房是空置的."
+
+# game/script.rpy:6150
+translate schinese floor3_fd5250ba_4:
+
+    # c "It's under construction. I shouldn't interfere."
+    c "这里正在施工中,我不应该插手."
+
+# game/script.rpy:6155
+translate schinese floor3_6cbfddc1:
+
+    # "[room_303_name] is currently occupying this room."
+    "[room_303_name!t]目前正在使用此房间."
+
+# game/script.rpy:6162
+translate schinese floor3_fd5250ba_5:
+
+    # c "It's under construction. I shouldn't interfere."
+    c "这里正在施工中,我不应该插手."
+
+# game/script.rpy:6211
+translate schinese floor3menu_35e2ae73:
+
+    # "You are here."
+    "你就在这里."
+
+# game/script.rpy:6217
+translate schinese floor3menu_7344295e:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/script.rpy:6235
+translate schinese floor3menu_7344295e_1:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/script.rpy:6521
+translate schinese floor2menu_7344295e_1:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/script.rpy:6618
+translate schinese floor2menu_868eb515:
+
+    # bot "One moment, [botown]! I'm almost finished!"
+    bot "等一下,[botown]!我就要完成了!"
+
+# game/script.rpy:8811
+translate schinese floor1menu_7344295e_2:
+
+    # c "I need to buy this upgrade first."
+    c "我应该先购买这个升级."
+
+# game/script.rpy:8894
+translate schinese floor1menu_014512ac:
+
+    # l "Hold on! Let me finish this, then I'll be over!"
+    l "等一下!我先把这个搞定,然后就过去!"
+
+# game/script.rpy:11871
+translate schinese firstbern_c36ac560:
+
+    # bartender "Great! There are a few more orders that need loaded into the van. I'll leave you to it. Everything you need to know is on the computer inside."
+    bartender "太好了!还有几单需要装进货车.我就交给你了.车厢里的电脑又你需要的所有信息."
+
+# game/script.rpy:11873
+translate schinese firstbern_962bbb62:
+
+    # josh "Oh, and you can call me Joshua. Good luck!"
+    josh "哦,你可以叫我约书亚.祝你好运!"
+
+# game/script.rpy:11883
+translate schinese firstbern_82cfa5d8:
+
+    # josh "Already? Nice! I didn't expect you to do so well on your first job. Usually our customers can be... well, demanding."
+    josh "这么快!太好了!没想到你的第一次工作就做得这么好.通常我们的客户......嗯,要求颇高."
+
+# game/script.rpy:11886
+translate schinese firstbern_aded7839:
+
+    # josh "Last time I checked you were at 15 deliveries, right? At $2 per delivery, that's $30! Plus whatever tips you got."
+    josh "上此我查的时候你送了15单,对吧?每单2$,那一共是30$!再加上你收到的小费."
+
+# game/script.rpy:11890
+translate schinese firstbern_bb3c4bbe:
+
+    # josh "I look forward to working with you in the future mister-! ...Uh, I don't think I caught your name."
+    josh "期待今后与你共事,先生-!......呃,我好像没听清你的名字."
+
+# game/script.rpy:11892
+translate schinese firstbern_1412ecad:
+
+    # josh "I look forward to working with you, Mr. [name]. Just stop by any time! We always have deliveries going out."
+    josh "期待与你公式,[name]先生.随时欢迎你来找我!我们这里总有配送订单."
+
+# game/script.rpy:12255
+translate schinese explore_gym1_dcffe94f:
+
+    # c "Sure, you can use our hot springs any time."
+    c "当然可以,你随时都可以使用我们的温泉."
+
+# game/script.rpy:12257
+translate schinese explore_gym1_63990456:
+
+    # viktor "Thank you, friend! It will help me become even more..."
+    viktor "谢谢你,朋友!这会让我变得更加强大......"
+
+# game/script.rpy:16900
+translate schinese bern_tourney_7c95e934:
+
+    # josh "Great timing, the next round begins in 20 minutes. I'll sign you up."
+    josh "时机证好,下一轮比赛20分钟后就开始,我这就帮你报名."
+
+# game/script.rpy:16904
+translate schinese bern_tourney_4b9d976a:
+
+    # josh "Ladies and Gentleman! The next round of Caliber City's Championship series begins now!"
+    josh "女士们,先生们!楷利泊市下一轮的冠军锦标赛现在开始!"
+
+# game/script.rpy:16931
+translate schinese bern_tourney_fb8fe819:
+
+    # josh "Today's winner will receive $[bowl_winnings] in cash! That's right, $[bowl_winnings]! So sit back everyone, buy a drink, and enjoy the show."
+    josh "今天的冠军将赢得[bowl_winnings]$的现金!没错,就是[bowl_winnings]$!各位请放松做好,买杯饮料,尽情享受这场精彩的表演."
+
+# game/script.rpy:16933
+translate schinese bern_tourney_1ee665dd:
+
+    # josh "Our next contestants are..."
+    josh "接下来登场的选手是......"
+
+# game/script.rpy:16942
+translate schinese bern_tourney_db11903c:
+
+    # josh "Jordan!"
+    josh "乔丹!"
+
+# game/script.rpy:16947
+translate schinese bern_tourney_c650f846:
+
+    # josh "Zara!"
+    josh "扎拉!"
+
+# game/script.rpy:16952
+translate schinese bern_tourney_93a69bf8:
+
+    # josh "Cheerleaders!"
+    josh "啦啦队员!"
+
+# game/script.rpy:16957
+translate schinese bern_tourney_f859e7ab:
+
+    # josh "Ji-yeon Moon!"
+    josh "文智妍!"
+
+# game/script.rpy:16962
+translate schinese bern_tourney_17c73a70:
+
+    # josh "Isabelle!"
+    josh "伊莎贝尔!"
+
+# game/script.rpy:16967
+translate schinese bern_tourney_06a3ff0d:
+
+    # josh "...Caliber City's police force!?"
+    josh "......楷利泊市警队!?"
+
+# game/script.rpy:16973
+translate schinese bern_tourney_65b46420:
+
+    # josh "Just 'Slave'...?"
+    josh "一个'奴隶'......?"
+
+# game/script.rpy:16975
+translate schinese bern_tourney_ea152542:
+
+    # josh "Okay..."
+    josh "好吧......"
+
+# game/script.rpy:16984
+translate schinese bern_tourney_92d6fdc6:
+
+    # josh "Jessica!"
+    josh "杰西卡!"
+
+# game/script.rpy:16989
+translate schinese bern_tourney_c6180ec5:
+
+    # josh "A... homeless person?"
+    josh "一个......流浪汉?"
+
+# game/script.rpy:16994
+translate schinese bern_tourney_323ccea9:
+
+    # josh "Ms. Mana!"
+    josh "玛娜小姐!"
+
+# game/script.rpy:16999
+translate schinese bern_tourney_13165954:
+
+    # josh "Vanessa!"
+    josh "瓦妮莎!"
+
+# game/script.rpy:17004
+translate schinese bern_tourney_a336003a:
+
+    # josh "Kate!"
+    josh "凯特!"
+
+# game/script.rpy:17009
+translate schinese bern_tourney_dc12a13b:
+
+    # josh "Nala!"
+    josh "娜拉!"
+
+# game/script.rpy:17014
+translate schinese bern_tourney_c92b2a66:
+
+    # josh "Durn, and his master!"
+    josh "杜恩,和他的主人!"
+
+# game/script.rpy:17021
+translate schinese bern_tourney_6a400bd8:
+
+    # josh "And [name]!"
+    josh "还有[name]!"
+
+# game/script.rpy:17024
+translate schinese bern_tourney_eaca706d:
+
+    # josh "The player with the highest score at the end of three rounds is the winner! You only have one ball per round, so make it count!"
+    josh "三轮比赛结束后,得分最高的玩家即为胜者!每轮比赛你只能投一球,所以务必把握好机会!"
+
+# game/script.rpy:17026
+translate schinese bern_tourney_9c74b9d0:
+
+    # josh "Ready? Set! GO!"
+    josh "各就位?预备!开始!"
+
+# game/script.rpy:17036
+translate schinese bern_tourney_425c7689:
+
+    # josh "Ji-yeon Moon takes her shot!"
+    josh "文智妍投球!"
+
+# game/script.rpy:17038
+translate schinese bern_tourney_95e83540:
+
+    # josh "Strike! 10 points!"
+    josh "全中!10分!"
+
+# game/script.rpy:17047
+translate schinese bern_tourney_f39bd51e:
+
+    # josh "Zara takes her shot!"
+    josh "扎拉投球!"
+
+# game/script.rpy:17049
+translate schinese bern_tourney_6b502dd0:
+
+    # josh "Jordan takes his shot!"
+    josh "乔丹投球!"
+
+# game/script.rpy:17051
+translate schinese bern_tourney_00df2613:
+
+    # josh "Isabelle takes her shot!"
+    josh "伊莎贝尔投球!"
+
+# game/script.rpy:17053
+translate schinese bern_tourney_ea8a855e:
+
+    # josh "Cheerleader takes a shot!"
+    josh "啦啦队长投球!"
+
+# game/script.rpy:17055
+translate schinese bern_tourney_045a6278:
+
+    # josh "The police shoot..."
+    josh "警察投球......"
+
+# game/script.rpy:17057
+translate schinese bern_tourney_fab46037:
+
+    # josh "Slave shoots...!"
+    josh "奴隶投球......!"
+
+# game/script.rpy:17063
+translate schinese bern_tourney_6023bcb2:
+
+    # josh "Strike!"
+    josh "全中!"
+
+# game/script.rpy:17066
+translate schinese bern_tourney_5878460a:
+
+    # josh "10 points!"
+    josh "10分!"
+
+# game/script.rpy:17069
+translate schinese bern_tourney_bc97d98e:
+
+    # josh "Wow! A strike!"
+    josh "哇哦!全中!"
+
+# game/script.rpy:17071
+translate schinese bern_tourney_3aba774f:
+
+    # josh "A strike! Nice!"
+    josh "全中!太棒了!"
+
+# game/script.rpy:17074
+translate schinese bern_tourney_df42cb7e:
+
+    # josh "STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17079
+translate schinese bern_tourney_cc51f855:
+
+    # josh "STEEE-RIKE!"
+    josh "{b}全-中!{/b}"
+
+# game/script.rpy:17085
+translate schinese bern_tourney_42fce7ae:
+
+    # josh "6 points! Not bad!"
+    josh "6分!还不错!"
+
+# game/script.rpy:17087
+translate schinese bern_tourney_f4100315:
+
+    # josh "6 pins down!"
+    josh "击倒6个!"
+
+# game/script.rpy:17090
+translate schinese bern_tourney_5cfc7f6e:
+
+    # josh "Just over half!"
+    josh "刚过一半!"
+
+# game/script.rpy:17092
+translate schinese bern_tourney_ea7fce32:
+
+    # josh "Great shot!"
+    josh "好球!"
+
+# game/script.rpy:17095
+translate schinese bern_tourney_a1a6043f:
+
+    # josh "6 down!"
+    josh "6个击倒!"
+
+# game/script.rpy:17102
+translate schinese bern_tourney_a1a6043f_1:
+
+    # josh "6 down!"
+    josh "6个击倒!"
+
+# game/script.rpy:17108
+translate schinese bern_tourney_9d05edc5:
+
+    # josh "It's outta here!"
+    josh "出界!"
+
+# game/script.rpy:17111
+translate schinese bern_tourney_192ff54e:
+
+    # josh "Into the gutter! What a shame!"
+    josh "掉进沟里了!真是遗憾!"
+
+# game/script.rpy:17114
+translate schinese bern_tourney_84f99ca5:
+
+    # josh "Nothing at all!"
+    josh "一个也没有!"
+
+# game/script.rpy:17117
+translate schinese bern_tourney_e1919d5f:
+
+    # josh "Ouch! A complete miss!"
+    josh "哎呀!完全没打到!"
+
+# game/script.rpy:17124
+translate schinese bern_tourney_838e3900:
+
+    # josh "IT'S A MISS!"
+    josh "{b}没中!{/b}"
+
+# game/script.rpy:17128
+translate schinese bern_tourney_06dda953:
+
+    # josh "It's a miss!"
+    josh "没中!"
+
+# game/script.rpy:17137
+translate schinese bern_tourney_3a1ef271:
+
+    # josh "The homeless man takes a shot!"
+    josh "流浪汉投球!"
+
+# game/script.rpy:17139
+translate schinese bern_tourney_422232fb:
+
+    # josh "Into the gutter!"
+    josh "掉进沟里了!"
+
+# game/script.rpy:17148
+translate schinese bern_tourney_dbb4e5a9:
+
+    # josh "Jessica takes her shot!"
+    josh "杰西卡投球!"
+
+# game/script.rpy:17150
+translate schinese bern_tourney_8a8d88dc:
+
+    # josh "Nala takes her shot!"
+    josh "娜拉投球!"
+
+# game/script.rpy:17152
+translate schinese bern_tourney_3d2b09ab:
+
+    # josh "Mana shoots her shot!"
+    josh "玛娜投球!"
+
+# game/script.rpy:17154
+translate schinese bern_tourney_be02b0df:
+
+    # josh "Vanessa shoots!"
+    josh "瓦妮莎投球!"
+
+# game/script.rpy:17156
+translate schinese bern_tourney_9862923c:
+
+    # josh "Now it's Kate's turn!"
+    josh "现在轮到凯特了!"
+
+# game/script.rpy:17158
+translate schinese bern_tourney_028d4a0d:
+
+    # josh "Now it's time for Durn!"
+    josh "现在轮到杜恩了!"
+
+# game/script.rpy:17166
+translate schinese bern_tourney_82ee0e56:
+
+    # josh "Strrrrrrike!"
+    josh "全-中!"
+
+# game/script.rpy:17171
+translate schinese bern_tourney_95e83540_1:
+
+    # josh "Strike! 10 points!"
+    josh "全中!10分!"
+
+# game/script.rpy:17174
+translate schinese bern_tourney_17f1e661:
+
+    # josh "A STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17177
+translate schinese bern_tourney_cac99127:
+
+    # josh "And scores!"
+    josh "得分!"
+
+# game/script.rpy:17180
+translate schinese bern_tourney_ad72d060:
+
+    # josh "All pins down!"
+    josh "全部倒下!"
+
+# game/script.rpy:17183
+translate schinese bern_tourney_29a72191:
+
+    # josh "A strike! 10 points!"
+    josh "全中!10分!"
+
+# game/script.rpy:17190
+translate schinese bern_tourney_a1a6043f_2:
+
+    # josh "6 down!"
+    josh "6个倒下!"
+
+# game/script.rpy:17195
+translate schinese bern_tourney_ebdc53f7:
+
+    # josh "6 pins!"
+    josh "6个!"
+
+# game/script.rpy:17198
+translate schinese bern_tourney_ff560d55:
+
+    # josh "Very nice!"
+    josh "很棒!"
+
+# game/script.rpy:17201
+translate schinese bern_tourney_f4100315_1:
+
+    # josh "6 pins down!"
+    josh "6个倒下了!"
+
+# game/script.rpy:17203
+translate schinese bern_tourney_cd980e80:
+
+    # josh "Not bad!"
+    josh "不错!"
+
+# game/script.rpy:17206
+translate schinese bern_tourney_e00a9a24:
+
+    # josh "6 points!"
+    josh "6分!"
+
+# game/script.rpy:17213
+translate schinese bern_tourney_10c50fac:
+
+    # josh "Nothin'!"
+    josh "一个也没有!"
+
+# game/script.rpy:17216
+translate schinese bern_tourney_422232fb_1:
+
+    # josh "Into the gutter!"
+    josh "掉进沟里了!"
+
+# game/script.rpy:17219
+translate schinese bern_tourney_0b59dfd0:
+
+    # josh "Nothin' at all!"
+    josh "完全没有!"
+
+# game/script.rpy:17222
+translate schinese bern_tourney_c54638d4:
+
+    # josh "She whiffs it!"
+    josh "全错过了!"
+
+# game/script.rpy:17225
+translate schinese bern_tourney_705cb9e1:
+
+    # josh "{i}Gutted!{/i}"
+    josh "{i}令人伤心!{/i}"
+
+# game/script.rpy:17228
+translate schinese bern_tourney_523a4677:
+
+    # josh "He's been gutted!"
+    josh "他失败了!"
+
+# game/script.rpy:17236
+translate schinese bern_tourney_86c398ee:
+
+    # josh "[name] takes his shot..."
+    josh "[name]投球......"
+
+# game/script.rpy:17240
+translate schinese bern_tourney_e62d08ee:
+
+    # josh "STRRRRRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17244
+translate schinese bern_tourney_cd980e80_1:
+
+    # josh "Not bad!"
+    josh "还不错!"
+
+# game/script.rpy:17248
+translate schinese bern_tourney_5870db52:
+
+    # josh "A complete miss!"
+    josh "完全错过了!"
+
+# game/script.rpy:17257
+translate schinese bern_tourney_772fc6f5:
+
+    # josh "Round 1 is over!\n[bowl_player1] has [bowl_points_p1] points!\n[bowl_player2] has [bowl_points_p2] points!\nAnd [name] has [bowl_points_mc] points!"
+    josh "第一局结束!\n[bowl_player1!t]得[bowl_points_p1]分!\n[bowl_player2!t]得[bowl_points_p2]分!\n[name]得[bowl_points_mc] 分!"
+
+# game/script.rpy:17259
+translate schinese bern_tourney_534e9074:
+
+    # josh "[name] and [bowl_player1] have tied it up!"
+    josh "[name]和[bowl_player1!t]打平!"
+
+# game/script.rpy:17265
+translate schinese bern_tourney_f487d4f0:
+
+    # josh "[name] and [bowl_player2] have tied it up!"
+    josh "[name]和[bowl_player2!t]打平!"
+
+# game/script.rpy:17270
+translate schinese bern_tourney_8d846b13:
+
+    # josh "No hits at all? Come on, give these people a show!"
+    josh "一个都没中?来吧,给这些人表演一场!"
+
+# game/script.rpy:17276
+translate schinese bern_tourney_0ba329a6:
+
+    # josh "It's all tied up! A perfect game! Amazing!"
+    josh "全部打平!完美的比赛!太棒了!"
+
+# game/script.rpy:17283
+translate schinese bern_tourney_bf5ac32f:
+
+    # josh "[bowl_player1] and [bowl_player2] have tied up!"
+    josh "[bowl_player1!t]和[bowl_player2!t]打平!"
+
+# game/script.rpy:17307
+translate schinese bern_tourney_dc576faf:
+
+    # josh "[name] steams ahead with a strike, leaving the others flopping like a fish out of water!"
+    josh "[name]以一发全中势如破竹,让其他对手像离水的鱼一样手忙脚乱!"
+
+# game/script.rpy:17341
+translate schinese bern_tourney_b96629a3:
+
+    # josh "The pins have been reset. Round 2!"
+    josh "重置完成.第二轮开始!"
+
+# game/script.rpy:17347
+translate schinese bern_tourney_425c7689_1:
+
+    # josh "Ji-yeon Moon takes her shot!"
+    josh "文智妍投球!"
+
+# game/script.rpy:17349
+translate schinese bern_tourney_d298b5ef:
+
+    # josh "Another strike! That's 10 points!"
+    josh "又是全中!10分!"
+
+# game/script.rpy:17358
+translate schinese bern_tourney_ed8590eb:
+
+    # josh "Zara takes goes again!"
+    josh "扎拉再次投球!"
+
+# game/script.rpy:17360
+translate schinese bern_tourney_a67f3331:
+
+    # josh "Jordan attempts another!"
+    josh "乔丹再次投球!"
+
+# game/script.rpy:17362
+translate schinese bern_tourney_45603d22:
+
+    # josh "Isabelle shoots!"
+    josh "伊莎贝尔投球!"
+
+# game/script.rpy:17364
+translate schinese bern_tourney_9b6adc3b:
+
+    # josh "It's the cheerleader's turn!"
+    josh "现在是啦啦队长的回合!"
+
+# game/script.rpy:17366
+translate schinese bern_tourney_4599a284:
+
+    # josh "It's the police's turn to serve justice!"
+    josh "该轮到警察伸张正义了!"
+
+# game/script.rpy:17368
+translate schinese bern_tourney_f6314e0a:
+
+    # josh "The slave shoots!"
+    josh "奴隶投球!"
+
+# game/script.rpy:17374
+translate schinese bern_tourney_6023bcb2_1:
+
+    # josh "Strike!"
+    josh "全中!"
+
+# game/script.rpy:17377
+translate schinese bern_tourney_5878460a_1:
+
+    # josh "10 points!"
+    josh "10分!"
+
+# game/script.rpy:17380
+translate schinese bern_tourney_a1048a62:
+
+    # josh "Nice! A strike!"
+    josh "漂亮!全中!"
+
+# game/script.rpy:17382
+translate schinese bern_tourney_5878460a_2:
+
+    # josh "10 points!"
+    josh "10分!"
+
+# game/script.rpy:17384
+translate schinese bern_tourney_e116bbe6:
+
+    # josh "10 points! It's a strike!"
+    josh "10分!全中!"
+
+# game/script.rpy:17389
+translate schinese bern_tourney_83a76647:
+
+    # josh "10 points to the slave!"
+    josh "奴隶10分!"
+
+# game/script.rpy:17395
+translate schinese bern_tourney_42fce7ae_1:
+
+    # josh "6 points! Not bad!"
+    josh "6分!不错!"
+
+# game/script.rpy:17398
+translate schinese bern_tourney_f4100315_2:
+
+    # josh "6 pins down!"
+    josh "击倒6个!"
+
+# game/script.rpy:17401
+translate schinese bern_tourney_62ae75cb:
+
+    # josh "Not bad! 6 pins!"
+    josh "不错!6个!"
+
+# game/script.rpy:17403
+translate schinese bern_tourney_a1a6043f_3:
+
+    # josh "6 down!"
+    josh "6个倒下!"
+
+# game/script.rpy:17405
+translate schinese bern_tourney_0a2b0fb2:
+
+    # josh "They got most!"
+    josh "大多数都倒下了!"
+
+# game/script.rpy:17407
+translate schinese bern_tourney_2f819ad3:
+
+    # josh "That's some, at least!"
+    josh "至少还是有一些的!"
+
+# game/script.rpy:17413
+translate schinese bern_tourney_9d05edc5_1:
+
+    # josh "It's outta here!"
+    josh "出界了!"
+
+# game/script.rpy:17416
+translate schinese bern_tourney_192ff54e_1:
+
+    # josh "Into the gutter! What a shame!"
+    josh "掉进沟里了!真是遗憾!"
+
+# game/script.rpy:17419
+translate schinese bern_tourney_84f99ca5_1:
+
+    # josh "Nothing at all!"
+    josh "完全没有!"
+
+# game/script.rpy:17421
+translate schinese bern_tourney_e1919d5f_1:
+
+    # josh "Ouch! A complete miss!"
+    josh "哎呀!全都错过了!"
+
+# game/script.rpy:17424
+translate schinese bern_tourney_12ff7479:
+
+    # josh "...And they whiff it!"
+    josh "......他们错过了!"
+
+# game/script.rpy:17429
+translate schinese bern_tourney_d2be02b0:
+
+    # josh "That's nothin'!"
+    josh "什么都没有!"
+
+# game/script.rpy:17438
+translate schinese bern_tourney_bab695cf:
+
+    # josh "He takes another shot!"
+    josh "他又投球了!"
+
+# game/script.rpy:17440
+translate schinese bern_tourney_bf6539aa:
+
+    # josh "Into the gutter, again!"
+    josh "又进沟了!"
+
+# game/script.rpy:17449
+translate schinese bern_tourney_305b0bbf:
+
+    # josh "Jessica takes another shot!"
+    josh "杰西卡在此投球!"
+
+# game/script.rpy:17451
+translate schinese bern_tourney_ac97beee:
+
+    # josh "Nala goes again!"
+    josh "娜拉再次投球!"
+
+# game/script.rpy:17453
+translate schinese bern_tourney_c5813862:
+
+    # josh "Mana shoots again!"
+    josh "玛娜再次投球!"
+
+# game/script.rpy:17455
+translate schinese bern_tourney_8a6e76c2:
+
+    # josh "Vanessa's turn!"
+    josh "瓦妮莎的回合!"
+
+# game/script.rpy:17457
+translate schinese bern_tourney_c157b674:
+
+    # josh "Kate shoots!"
+    josh "凯特投球!"
+
+# game/script.rpy:17459
+translate schinese bern_tourney_ffeb8da4:
+
+    # josh "Durn goes again!"
+    josh "杜恩再次投球!"
+
+# game/script.rpy:17466
+translate schinese bern_tourney_82ee0e56_1:
+
+    # josh "Strrrrrrike!"
+    josh "全-中!"
+
+# game/script.rpy:17471
+translate schinese bern_tourney_95e83540_2:
+
+    # josh "Strike! 10 points!"
+    josh "全中!10分!"
+
+# game/script.rpy:17474
+translate schinese bern_tourney_17f1e661_1:
+
+    # josh "A STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17477
+translate schinese bern_tourney_5b4433c4:
+
+    # josh "NICE! A strike!"
+    josh "{b}太棒了!{/b}全中!"
+
+# game/script.rpy:17480
+translate schinese bern_tourney_ad72d060_1:
+
+    # josh "All pins down!"
+    josh "全都倒下了!"
+
+# game/script.rpy:17483
+translate schinese bern_tourney_e395aa5e:
+
+    # josh "IT'S A STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17490
+translate schinese bern_tourney_a1a6043f_4:
+
+    # josh "6 down!"
+    josh "6个倒下!"
+
+# game/script.rpy:17493
+translate schinese bern_tourney_ebdc53f7_1:
+
+    # josh "6 pins!"
+    josh "6个!"
+
+# game/script.rpy:17496
+translate schinese bern_tourney_ff560d55_1:
+
+    # josh "Very nice!"
+    josh "很好!"
+
+# game/script.rpy:17499
+translate schinese bern_tourney_f4100315_3:
+
+    # josh "6 pins down!"
+    josh "6个倒下了!"
+
+# game/script.rpy:17502
+translate schinese bern_tourney_cd980e80_2:
+
+    # josh "Not bad!"
+    josh "还不错!"
+
+# game/script.rpy:17505
+translate schinese bern_tourney_5381d250:
+
+    # josh "6 more down!"
+    josh "又倒下6个!"
+
+# game/script.rpy:17511
+translate schinese bern_tourney_10c50fac_1:
+
+    # josh "Nothin'!"
+    josh "什么也没有!"
+
+# game/script.rpy:17514
+translate schinese bern_tourney_116943a8:
+
+    # josh "Nothing!"
+    josh "什么都没有!"
+
+# game/script.rpy:17518
+translate schinese bern_tourney_422232fb_2:
+
+    # josh "Into the gutter!"
+    josh "进沟了!"
+
+# game/script.rpy:17521
+translate schinese bern_tourney_9d05edc5_2:
+
+    # josh "It's outta here!"
+    josh "出界了!"
+
+# game/script.rpy:17524
+translate schinese bern_tourney_422232fb_3:
+
+    # josh "Into the gutter!"
+    josh "进沟里了!"
+
+# game/script.rpy:17527
+translate schinese bern_tourney_ac07577e:
+
+    # josh "It's gone!"
+    josh "跑了!"
+
+# game/script.rpy:17536
+translate schinese bern_tourney_86c398ee_1:
+
+    # josh "[name] takes his shot..."
+    josh "[name]投球......"
+
+# game/script.rpy:17540
+translate schinese bern_tourney_14c4c86c:
+
+    # josh "It's a strike!"
+    josh "全中!"
+
+# game/script.rpy:17544
+translate schinese bern_tourney_b2aa8905:
+
+    # josh "6 pins down, nice!"
+    josh "6个倒下,漂亮!"
+
+# game/script.rpy:17548
+translate schinese bern_tourney_84f99ca5_2:
+
+    # josh "Nothing at all!"
+    josh "完全没有!"
+
+# game/script.rpy:17555
+translate schinese bern_tourney_e0a790d4:
+
+    # josh "Round 2 is over!\n[bowl_player1] has [bowl_points_p1] points!\n[bowl_player2] has [bowl_points_p2] points!\nAnd [name] has [bowl_points_mc] points!"
+    josh "第二轮结束!\n[bowl_player1!t]得[bowl_points_p1]分!\n[bowl_player2!t]得[bowl_points_p2]分!\n[name]得[bowl_points_mc] 分!"
+
+# game/script.rpy:17557
+translate schinese bern_tourney_ab0e32cd:
+
+    # josh "Pick it up, [name]! You kind of suck."
+    josh "振作起来,[name]!你有点糟糕了."
+
+# game/script.rpy:17563
+translate schinese bern_tourney_4c5dc6a6:
+
+    # josh "[name] and [bowl_player1] are still tied! What a game!"
+    josh "[name]和[bowl_player1!t]依然打平!真是精彩的游戏!"
+
+# game/script.rpy:17568
+translate schinese bern_tourney_6f0aa350:
+
+    # josh "[name] and [bowl_player2] are still tied! What a game!"
+    josh "[name]和[bowl_player2!t]依然打平!真是精彩的游戏!"
+
+# game/script.rpy:17572
+translate schinese bern_tourney_848269d2:
+
+    # josh "Come on! Someone make a hit already!"
+    josh "来嘛!至少要有个人击中吧!"
+
+# game/script.rpy:17579
+translate schinese bern_tourney_f8baecc4:
+
+    # josh "It's all tied up! Everything comes down to this shot!"
+    josh "全部打平!现在都取决于最后一球了!"
+
+# game/script.rpy:17601
+translate schinese bern_tourney_84b92f0b:
+
+    # josh "[bowl_player1] and [bowl_player2] are tied, leaving [name] in the dust! He only has one chance to redeem himself, and it starts now!"
+    josh "[bowl_player1!t]和[bowl_player2!t]打平,把[name]留在后面吃灰!他只剩下一次机会来拯救他自己,而这个机会现在就要开始了!"
+
+# game/script.rpy:17666
+translate schinese bern_tourney_17bc614f:
+
+    # josh "Zara goes again!"
+    josh "扎拉再次投球!"
+
+# game/script.rpy:17668
+translate schinese bern_tourney_a67f3331_1:
+
+    # josh "Jordan attempts another!"
+    josh "乔丹再次投球!"
+
+# game/script.rpy:17670
+translate schinese bern_tourney_792e9512:
+
+    # josh "Isabelle shoots again!"
+    josh "伊莎贝尔再次投球!"
+
+# game/script.rpy:17672
+translate schinese bern_tourney_9bba97a5:
+
+    # josh "It's the cheerleader's last turn!"
+    josh "现在是啦啦队长的最后一回合!"
+
+# game/script.rpy:17674
+translate schinese bern_tourney_afc738ed:
+
+    # josh "The cops go again!"
+    josh "警察再次投球!"
+
+# game/script.rpy:17676
+translate schinese bern_tourney_f6314e0a_1:
+
+    # josh "The slave shoots!"
+    josh "奴隶投球!"
+
+# game/script.rpy:17682
+translate schinese bern_tourney_6023bcb2_2:
+
+    # josh "Strike!"
+    josh "全中!"
+
+# game/script.rpy:17685
+translate schinese bern_tourney_df42cb7e_1:
+
+    # josh "STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17688
+translate schinese bern_tourney_6871ec49:
+
+    # josh "10 points! A strike!"
+    josh "10分!全中!"
+
+# game/script.rpy:17690
+translate schinese bern_tourney_df42cb7e_2:
+
+    # josh "STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17693
+translate schinese bern_tourney_e395aa5e_1:
+
+    # josh "IT'S A STRIKE!"
+    josh "{b}全中了!{/b}"
+
+# game/script.rpy:17698
+translate schinese bern_tourney_5878460a_3:
+
+    # josh "10 points!"
+    josh "10分!"
+
+# game/script.rpy:17704
+translate schinese bern_tourney_cd980e80_3:
+
+    # josh "Not bad!"
+    josh "不错!"
+
+# game/script.rpy:17707
+translate schinese bern_tourney_ebdc53f7_2:
+
+    # josh "6 pins!"
+    josh "6个!"
+
+# game/script.rpy:17710
+translate schinese bern_tourney_f4100315_4:
+
+    # josh "6 pins down!"
+    josh "6个倒下!"
+
+# game/script.rpy:17712
+translate schinese bern_tourney_ea7fce32_1:
+
+    # josh "Great shot!"
+    josh "好球!"
+
+# game/script.rpy:17714
+translate schinese bern_tourney_090856fa:
+
+    # josh "They get 6 pins down!"
+    josh "他们击倒了6个!"
+
+# game/script.rpy:17717
+translate schinese bern_tourney_e00a9a24_1:
+
+    # josh "6 points!"
+    josh "6分!"
+
+# game/script.rpy:17723
+translate schinese bern_tourney_0479eef7:
+
+    # josh "And it's gone!"
+    josh "全都没有!"
+
+# game/script.rpy:17726
+translate schinese bern_tourney_1d266f5a:
+
+    # josh "Ouch! 0 points!"
+    josh "哎呀!0分!"
+
+# game/script.rpy:17729
+translate schinese bern_tourney_28621690:
+
+    # josh "0 points!"
+    josh "0分!"
+
+# game/script.rpy:17731
+translate schinese bern_tourney_bb193d95:
+
+    # josh "Ouch! It's outta here!"
+    josh "哎呀!出界!"
+
+# game/script.rpy:17734
+translate schinese bern_tourney_84f99ca5_3:
+
+    # josh "Nothing at all!"
+    josh "完全没有!"
+
+# game/script.rpy:17739
+translate schinese bern_tourney_28621690_1:
+
+    # josh "0 points!"
+    josh "0分!"
+
+# game/script.rpy:17748
+translate schinese bern_tourney_f1504011:
+
+    # josh "He goes again!"
+    josh "他又投球了!"
+
+# game/script.rpy:17750
+translate schinese bern_tourney_b83860b9:
+
+    # josh "And it's gone... again..."
+    josh "全都没中......再一次......"
+
+# game/script.rpy:17759
+translate schinese bern_tourney_e32f5f84:
+
+    # josh "Jessica takes her last shot!"
+    josh "杰西卡最后一球!"
+
+# game/script.rpy:17761
+translate schinese bern_tourney_5a3f0a80:
+
+    # josh "Nala goes for the last time!"
+    josh "娜拉最后一球!"
+
+# game/script.rpy:17763
+translate schinese bern_tourney_cb87629d:
+
+    # josh "Mana shoots her last shot!"
+    josh "玛娜最后一球!"
+
+# game/script.rpy:17765
+translate schinese bern_tourney_614dbba7:
+
+    # josh "Vanessa's last turn!"
+    josh "瓦妮莎的最后一回合!"
+
+# game/script.rpy:17767
+translate schinese bern_tourney_c937bf6d:
+
+    # josh "This is Kate's last shot!"
+    josh "凯特的最后一球!"
+
+# game/script.rpy:17769
+translate schinese bern_tourney_3c881963:
+
+    # josh "Durn attempts his last!"
+    josh "杜恩的最后一球!"
+
+# game/script.rpy:17776
+translate schinese bern_tourney_f07d5bb5:
+
+    # josh "Good shot, 10 points!"
+    josh "好球,10分!"
+
+# game/script.rpy:17781
+translate schinese bern_tourney_df42cb7e_3:
+
+    # josh "STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17784
+translate schinese bern_tourney_17f1e661_2:
+
+    # josh "A STRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17787
+translate schinese bern_tourney_274f4055:
+
+    # josh "Strrrrrike! 10 points!"
+    josh "全-中!10分!"
+
+# game/script.rpy:17790
+translate schinese bern_tourney_cc7691f0:
+
+    # josh "All pins down! 10 points!"
+    josh "全都倒下!10分!"
+
+# game/script.rpy:17793
+translate schinese bern_tourney_cc7691f0_1:
+
+    # josh "All pins down! 10 points!"
+    josh "全都倒下!10分!"
+
+# game/script.rpy:17801
+translate schinese bern_tourney_de6c62fe:
+
+    # josh "6 down! Nice!"
+    josh "6个倒下!很棒!"
+
+# game/script.rpy:17804
+translate schinese bern_tourney_f4100315_5:
+
+    # josh "6 pins down!"
+    josh "6个倒下!"
+
+# game/script.rpy:17807
+translate schinese bern_tourney_ff560d55_2:
+
+    # josh "Very nice!"
+    josh "很好!"
+
+# game/script.rpy:17811
+translate schinese bern_tourney_f4100315_6:
+
+    # josh "6 pins down!"
+    josh "6个倒下!"
+
+# game/script.rpy:17813
+translate schinese bern_tourney_e0b3e37f:
+
+    # josh "A good shot!"
+    josh "好球!"
+
+# game/script.rpy:17816
+translate schinese bern_tourney_f5c80b02:
+
+    # josh "6 down, 6 points!"
+    josh "6个倒下,6分!"
+
+# game/script.rpy:17822
+translate schinese bern_tourney_8899e916:
+
+    # josh "A miss!"
+    josh "没打中!"
+
+# game/script.rpy:17825
+translate schinese bern_tourney_a1489c72:
+
+    # josh "She misses!"
+    josh "她没打中!"
+
+# game/script.rpy:17828
+translate schinese bern_tourney_ac07577e_1:
+
+    # josh "It's gone!"
+    josh "错过了!"
+
+# game/script.rpy:17831
+translate schinese bern_tourney_422232fb_4:
+
+    # josh "Into the gutter!"
+    josh "进沟了!"
+
+# game/script.rpy:17834
+translate schinese bern_tourney_ac07577e_2:
+
+    # josh "It's gone!"
+    josh "错过了!"
+
+# game/script.rpy:17837
+translate schinese bern_tourney_9bab38d3:
+
+    # josh "Gone."
+    josh "错过了."
+
+# game/script.rpy:17846
+translate schinese bern_tourney_86c398ee_2:
+
+    # josh "[name] takes his shot..."
+    josh "[name]投球......"
+
+# game/script.rpy:17850
+translate schinese bern_tourney_e62d08ee_1:
+
+    # josh "STRRRRRIKE!"
+    josh "{b}全中!{/b}"
+
+# game/script.rpy:17854
+translate schinese bern_tourney_cd980e80_4:
+
+    # josh "Not bad!"
+    josh "不错!"
+
+# game/script.rpy:17858
+translate schinese bern_tourney_5870db52_1:
+
+    # josh "A complete miss!"
+    josh "完全错过了!"
+
+# game/script.rpy:17866
+translate schinese bern_tourney_a2e442f6:
+
+    # josh "And the winner is..."
+    josh "获胜者是......"
+
+# game/script.rpy:17870
+translate schinese bern_tourney_66542321:
+
+    # josh "[bowl_player1], with three strikes in a row!!! Outstanding!"
+    josh "[bowl_player1!t],三次投球三次全中!!!太棒了!"
+
+# game/script.rpy:17876
+translate schinese bern_tourney_a6db6900:
+
+    # josh "It's a tie! A tie between [bowl_player1] and [bowl_player2]!"
+    josh "平局![bowl_player1!t]和[bowl_player2!t]打平了!"
+
+# game/script.rpy:17882
+translate schinese bern_tourney_634a7ddf:
+
+    # josh "It's a tie! A tie between [name] and [bowl_player1]!"
+    josh "平局![name]和[bowl_player1!t]打平了!"
+
+# game/script.rpy:17883
+translate schinese bern_tourney_16707eb0:
+
+    # josh "The money will be evenly split between the two winners. Congratulations!"
+    josh "奖金将平均分配给两位获胜者.恭喜!"
+
+# game/script.rpy:17889
+translate schinese bern_tourney_4607f1e4:
+
+    # josh "It's a tie! A tie between [name] and [bowl_player2]!"
+    josh "平局![name]和[bowl_player2!t]打平了!"
+
+# game/script.rpy:17890
+translate schinese bern_tourney_16707eb0_1:
+
+    # josh "The money will be evenly split between the two winners. Congratulations!"
+    josh "奖金将平均分配给两位获胜者.恭喜!"
+
+# game/script.rpy:17894
+translate schinese bern_tourney_b3bbc874:
+
+    # josh "It's a tie! A three way tie! Unbelievable!"
+    josh "平局!三人打平!难以置信!"
+
+# game/script.rpy:17895
+translate schinese bern_tourney_39a47390:
+
+    # josh "The money will be evenly split between the winners. Congratulations! What an event!"
+    josh "奖金将平均分配给所有获胜者.恭喜!多么精彩的比赛!"
+
+# game/script.rpy:17900
+translate schinese bern_tourney_66542321_1:
+
+    # josh "[bowl_player1], with three strikes in a row!!! Outstanding!"
+    josh "[bowl_player1!t],三次投球三次全中!!!太棒了!"
+
+# game/script.rpy:17937
+translate schinese bern_tourney_d2b31b88:
+
+    # josh "[bowl_player2], with three strikes in a row!!! What a game!"
+    josh "[bowl_player2!t],三次投球三次全中!!!真是精彩!"
+
+# game/script.rpy:17940
+translate schinese bern_tourney_5f303647:
+
+    # josh "[name], with three strikes in a row! Unbelieveable!"
+    josh "[name],三次投球三次全中!!!难以置信!"
+
+# game/script.rpy:17944
+translate schinese bern_tourney_85a3c961:
+
+    # josh "[bowl_player1] with [bowl_points_p1] points!{w}\n[bowl_player2] finishes with [bowl_points_p2].\nAnd [name] ends it with [bowl_points_mc]."
+    josh "[bowl_player1!t]得[bowl_points_p1]分{w}\n[bowl_player2!t] 得[bowl_points_p2]分.\n[name]得[bowl_points_mc]分."
+
+# game/script.rpy:17972
+translate schinese bern_tourney_0e009bee:
+
+    # josh "[bowl_player2] with [bowl_points_p2] points!{w}\n[bowl_player1] finishes with [bowl_points_p1].\nAnd [name] ends it with [bowl_points_mc]."
+    josh "[bowl_player2!t]得[bowl_points_p2]分{w}\n[bowl_player1!t] 得[bowl_points_p1]分.\n[name]得[bowl_points_mc]分."
+
+# game/script.rpy:18002
+translate schinese bern_tourney_a055fcaf:
+
+    # josh "[name] with [bowl_points_mc] points!{w}\n[bowl_player1] finishes with [bowl_points_p1].\nAnd [bowl_player2] ends it with [bowl_points_p2]."
+    josh "[name]得[bowl_points_mc]分.\n[bowl_player1!t]得[bowl_points_p1]分{w}\n[bowl_player2!t] 得[bowl_points_p2]分."
+
+# game/script.rpy:18005
+translate schinese bern_tourney_8c171433:
+
+    # josh "Congratulations! Please collect your money at the bar at your earliest convenience."
+    josh "恭喜!请尽快到酒吧领取你的奖金."
+
+# game/script.rpy:18012
+translate schinese bern_tourney_88dec963:
+
+    # josh "Congratulations on your win! Here's your winnings."
+    josh "恭喜你获胜!这是你的奖金."
+
+# game/script.rpy:18016
+translate schinese bern_tourney_91b4f2a6:
+
+    # josh "Congratulations on your win. Here's your half of the winnings."
+    josh "恭喜你获胜!这是你的一半奖金."
+
+# game/script.rpy:18020
+translate schinese bern_tourney_91b4f2a6_1:
+
+    # josh "Congratulations on your win. Here's your half of the winnings."
+    josh "恭喜你获胜,这是你的一半奖金."
+
+# game/script.rpy:18024
+translate schinese bern_tourney_ceed73ab:
+
+    # josh "Too bad, better luck next time."
+    josh "真是糟糕,祝你下次好运."
+
+# game/script.rpy:18026
+translate schinese bern_tourney_5e2c70b5:
+
+    # josh "That's the spirit!"
+    josh "就是这种精神!"
+
+# game/script.rpy:18431
+translate schinese nextfrontdoor_f74d59f0:
+
+    # mail "You pick up Ashley's slutty schoolgirl uniform"
+    mail "你签收了阿什莉的色气学生套装"
+
+# game/script.rpy:22271
+translate schinese yourroom_2473710c:
+
+    # c "I should buy Ashley's Slutty Schoolgirl uniform."
+    c "我应该购买阿什莉的色气学生套装"
+
+# game/script.rpy:22492
+translate schinese yourroom_bd4d3cfc:
+
+    # "*knock, knock, knock*"
+    "*敲,敲,敲*"
+
+# game/script.rpy:22493
+translate schinese yourroom_4ce77e5e:
+
+    # c "Hm?"
+    c "嗯?"
+
+# game/script.rpy:23424
+translate schinese yourroommenu_7344295e_2:
+
+    # c "I need to buy this upgrade first."
+    c "我需要先购买这个升级."
+
+# game/script.rpy:32300
+translate schinese ash_insp_0517d0c9:
+
+    # "I should buy Ashley's Slutty Schoolgirl uniform."
+    "我应该购买阿什莉的色气学生套装."
+
+# game/script.rpy:34414
+translate schinese passout_885e8b52:
+
+    # "The third floor is now ready to be used!"
+    "三楼现在可以使用了!"
+
+# game/script.rpy:34431
+translate schinese passout_d33a1dbc:
+
+    # c "I should really get closer to Lin and have Sylvia at this point..."
+    c "我应该和林亲近些,让西尔维娅参与进来......"
+
+# game/script.rpy:34513
+translate schinese upgradestuff_e1920754:
+
+    # "After relentless nights of screaming, sprained backs, and broken ankles, the guest rooms have been fully upgraded!"
+    "经历了无数个彻夜尖叫,腰背扭伤,脚踝骨折的夜晚后,客房终于全面升级!"
+
+# game/script.rpy:34517
+translate schinese upgradestuff_888ad38d:
+
+    # "Construction on the guest rooms have progressed! 1 day left."
+    "客房施工进展顺利!还剩下1天完成."
+
+# game/script.rpy:34520
+translate schinese upgradestuff_def53504:
+
+    # "Construction on the guest rooms have progressed! 2 days left."
+    "客房施工进展顺利!还剩下2天完成."
+
+# game/script.rpy:34523
+translate schinese upgradestuff_8325cb5c:
+
+    # "Construction on the guest rooms have progressed! 3 days left."
+    "客房施工进展顺利!还剩下3天完成."
+
+# game/script.rpy:34527
+translate schinese upgradestuff_7cce5b10:
+
+    # "After relentless nights of stomping, drilling, and blatant safety violations, the guest rooms have been upgraded!"
+    "经过连夜不停的踩踏,钻孔和公然违反安全规定，客房终于升级完成！"
+
+# game/script.rpy:34531
+translate schinese upgradestuff_888ad38d_1:
+
+    # "Construction on the guest rooms have progressed! 1 day left."
+    "客房施工进展顺利!还剩下1天完成."
+
+# game/script.rpy:34534
+translate schinese upgradestuff_def53504_1:
+
+    # "Construction on the guest rooms have progressed! 2 days left."
+    "客房施工进展顺利!还剩下2天完成."
+
+# game/script.rpy:34537
+translate schinese upgradestuff_8325cb5c_1:
+
+    # "Construction on the guest rooms have progressed! 3 days left."
+    "客房施工进展顺利!还剩下3天完成."
+
+# game/script.rpy:34542
+translate schinese upgradestuff_d9665e6f:
+
+    # "After relentless nights of banging, cursing, and drilling, the guest rooms have been upgraded!"
+    "经过连夜不停的敲打,咒骂和钻孔,客房终于升级完成!"
+
+# game/script.rpy:34545
+translate schinese upgradestuff_a5de1757:
+
+    # "Construction on the guest rooms have progressed! 1 days left."
+    "客房施工进展顺利!还剩下1天完成."
+
+# game/script.rpy:34548
+translate schinese upgradestuff_def53504_2:
+
+    # "Construction on the guest rooms have progressed! 2 days left."
+    "客房施工进展顺利!还剩下2天完成."
+
+# game/script.rpy:34551
+translate schinese upgradestuff_8325cb5c_2:
+
+    # "Construction on the guest rooms have progressed! 3 days left."
+    "客房施工进展顺利!还剩下3天完成."
+
+# game/script.rpy:34556
+translate schinese upgradestuff_f28af119:
+
+    # "After restless nights of banging, hammering, and sawing, the third floor is complete!"
+    "经过连夜的敲打,锤击和锯切,三楼终于完工了!"
+
+# game/script.rpy:34560
+translate schinese upgradestuff_bc8a96e4:
+
+    # "Construction on the third floor has progressed!"
+    "三楼施工进展顺利!"
+
+# game/script.rpy:34564
+translate schinese upgradestuff_bc8a96e4_1:
+
+    # "Construction on the third floor has progressed!"
+    "三楼施工进展顺利!"
+
+# game/script.rpy:34568
+translate schinese upgradestuff_bc8a96e4_2:
+
+    # "Construction on the third floor has progressed!"
+    "三楼施工进展顺利!"
+
+# game/script.rpy:34573
+translate schinese upgradestuff_517be7e2:
+
+    # "After restless nights of banging, hammering, and sawing, the second floor is complete!"
+    "经过无数个彻夜不停的敲打,锤击和锯切,二楼终于完工了!"
+
+# game/script.rpy:34577
+translate schinese upgradestuff_acf26ab2:
+
+    # "Construction on the second floor has progressed!"
+    "二楼施工进展顺利!"
+
+# game/script.rpy:34581
+translate schinese upgradestuff_acf26ab2_1:
+
+    # "Construction on the second floor has progressed!"
+    "二楼施工进展顺利!"
+
+# game/script.rpy:34585
+translate schinese upgradestuff_acf26ab2_2:
+
+    # "Construction on the second floor has progressed!"
+    "二楼施工进展顺利!"
+
+translate schinese strings:
+
+    # game/script.rpy:2973
+    old "3rd Floor"
+    new "三楼"
+
+    # game/script.rpy:2973
+    old "{color=#8C8C8C}3rd Floor{/color}"
+    new "{color=#8C8C8C}三楼{/color}"
+
+    # game/script.rpy:3720
+    old "Tourism: Accepting"
+    new "游客:接受"
+
+    # game/script.rpy:3720
+    old "Tourism: Rejecting"
+    new "游客:拒绝"
+
+    # game/script.rpy:3723
+    old "Stop Tourism"
+    new "停止接待游客"
+
+    # game/script.rpy:3732
+    old "Accept Tourism"
+    new "同意接待游客"
+
+    # game/script.rpy:3796
+    old "Hotel Upgrades >"
+    new "酒店升级 >"
+
+    # game/script.rpy:3796
+    old "{color=#8C8C8C}Garden Upgrades{/color}"
+    new "{color=#8C8C8C}花园升级{/color}"
+
+    # game/script.rpy:3798
+    old "[hotelname], [hotel_stars]-Star Hotel"
+    new "[hotelname],[hotel_stars]星酒店"
+
+    # game/script.rpy:3798
+    old "Floor 3 ($500)"
+    new "三楼(500$)"
+
+    # game/script.rpy:3798
+    old "Floor 3 Detailing ($200)"
+    new "三楼装修(200$)"
+
+    # game/script.rpy:3798
+    old "Dungeon Refurbishing ($150)"
+    new "地牢翻修(150$)"
+
+    # game/script.rpy:3798
+    old "Construct a Bar ($1500)"
+    new "建造酒吧(1500$)"
+
+    # game/script.rpy:3798
+    old "Upgrade Guest Rooms II ($300)"
+    new "升级客房II(300$)"
+
+    # game/script.rpy:3798
+    old "Upgrade Guest Rooms III ($300)"
+    new "升级客房III(300$)"
+
+    # game/script.rpy:3798
+    old "Upgrade Guest Rooms IV ($300)"
+    new "升级客房IV(300$)"
+
+    # game/script.rpy:3798
+    old "Hotel Amenities >"
+    new "酒店设施 >"
+
+    # game/script.rpy:3997
+    old "Commercial Coffee & Tea Brewer ($75)"
+    new "商用咖啡茶饮机(75$)"
+
+    # game/script.rpy:3997
+    old "{color=#8C8C8C}Pastry Stand ($250){/color}"
+    new "{color=#8C8C8C}糕点柜台(250$){/color}"
+
+    # game/script.rpy:3997
+    old "Pastry Stand ($50)"
+    new "糕点柜台(50$)"
+
+    # game/script.rpy:3997
+    old "{color=#8C8C8C}Breakfast Buffet ($250){/color}"
+    new "{color=#8C8C8C}自助早餐(250$){/color}"
+
+    # game/script.rpy:3997
+    old "Breakfast Buffet ($250)"
+    new "自主早餐(250$)"
+
+    # game/script.rpy:6066
+    old "Enter Room"
+    new "进入房间"
+
+    # game/script.rpy:6079
+    old "Greet Guest"
+    new "和客人打招呼"
+
+    # game/script.rpy:6209
+    old "{color=#8C8C8C}> 3rd Floor <{/color}"
+    new "{color=#8C8C8C}> 三楼 <{/color}"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-30 22:03
+# TODO: Translation updated at 2023-12-30 22:03
 # game/scripts/autumn_events.rpy:12
 translate schinese aut_school_dfbcef5a:
 
@@ -5121,7 +5121,7 @@ translate schinese aut_capcafe_talk_573161bb:
 translate schinese aut_capcafe_talk_7d4b9002:
 
     # au "It would be an honor if I could become the third saint for Caliber's church."
-    au "如果我能成为楷利泊教堂的第三位教徒的话,那就是我的荣幸."
+    au "如果我能成为楷利泊教堂的第三位圣徒的话,那就是我的荣幸."
 
 # game/scripts/autumn_events.rpy:1259
 translate schinese aut_capcafe_talk_26ca4766:
@@ -34999,7 +34999,7 @@ translate schinese aut_dare_0ae22ea7:
 translate schinese aut_dare_78d33ad8:
 
     # abby "But her heart is in the right place, Elder. She's just confused... we've all been there before."
-    abby "但她的心是好的,长老.她只是困惑......我们都曾经历过这种事情."
+    abby "但她的心是好的,长老.她只是......我们都曾经历过这种事情."
 
 # game/scripts/autumn_events.rpy:165
 translate schinese aut_dare_848b97c8:
@@ -36400,4 +36400,18 @@ translate schinese aut_oldhouse_baffcdf1:
 
     # au "I always thought that maybe... my first kiss would be in front of a bonfire. It always seemed romantic to me, I don't know..."
     au "我一直认为,或许......我的初吻会发生在篝火前.我总觉得那很浪漫,我也说不清楚为什么......"
+
+# TODO: Translation updated at 2025-12-02 15:48
+
+# game/scripts/autumn_events.rpy:405
+translate schinese aut_dare_c7f49861:
+
+    # lib "Gaius is everything. However, Gaius is highly concentrated in gaianite."
+    lib "盖乌斯就是一切.然而,盖乌斯高度浓缩于盖乌斯石中."
+
+# game/scripts/autumn_events.rpy:407
+translate schinese aut_dare_4155be7b:
+
+    # lib "Gaianite is what you may refer to as blue crystals."
+    lib "盖乌斯石就是你们所说的蓝色水晶."
 
