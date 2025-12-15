@@ -16011,7 +16011,7 @@ translate schinese moondate_d9673365:
 translate schinese moondate_5cba6af5:
 
     # moon "Why would I poison anyone? I major in biochemistry not idiocy."
-    moon "为什么我会让人中毒?我学的是生物化学又不是白痴学."
+    moon "为什么我会让人中毒?我学的是生物化学,又不是白痴学."
 
 # game/scripts/bar.rpy:5846
 translate schinese moondate_9fde3549:
@@ -16023,19 +16023,19 @@ translate schinese moondate_9fde3549:
 translate schinese moondate_fb3d85f5:
 
     # c "Have you ever tried?"
-    c "你试过吗?"
+    c "那你试过吗?"
 
 # game/scripts/bar.rpy:5848
 translate schinese moondate_40312dd1:
 
     # moon "Well, I have mixed some drinks before, but I haven't tried anything too crazy. The tools required to make such complex things can be quite expensive."
-    moon "嗯,我之前调过一些饮料,但是我还没有尝试过一些太过疯狂的东西.制作这种复杂的东西所需的工具可能相当昂贵."
+    moon "嗯,我之前调过一些饮料,但是没有尝试过什么太过疯狂的东西.制作这种复杂的饮料所需的工具可能相当昂贵."
 
 # game/scripts/bar.rpy:5850
 translate schinese moondate_50376d38:
 
     # moon "Buuuut... if I did have such tools, I'm sure I could make something crazy delicious! I could even make them addictive."
-    moon "但是......如果我有那些工具的话,我肯定可以做出一些很疯狂的美味佳肴!我甚至可以让别人上瘾."
+    moon "但-是......如果我有那些工具的话,我肯定可以做出一些超级美味的东西!甚至能让人上瘾."
 
 # game/scripts/bar.rpy:5851
 translate schinese moondate_e35a8781:
@@ -16047,13 +16047,13 @@ translate schinese moondate_e35a8781:
 translate schinese moondate_96ccce8f:
 
     # moon "No no, don't get me wrong, never illegal drugs!"
-    moon "不是不是,别误会,我这不是非法毒品!"
+    moon "不是不是,别误会,我绝对不会制非法毒品的!"
 
 # game/scripts/bar.rpy:5854
 translate schinese moondate_9b851947:
 
     # moon "I can just use the same stuff they put in android orgasms. It's edible, not phsyically addictive and can be easily cured with another drug, it's fine! There's not that many side effects!"
-    moon "我可以用那些和他们用于智能机器人高潮时的那些东西.它可使用,不会上瘾,即使上瘾也很容易用药物治好,这很好!还没有那么多的副作用!"
+    moon "我完全可以用那些他们在智能机器人高潮时使用的液体.它完全可食用,不会产生生理依赖,使用另一种药物就可以轻松戒除,没问题的!而且也没有那么多副作用!"
 
 # game/scripts/bar.rpy:5855
 translate schinese moondate_f63b7434:
@@ -16065,7 +16065,7 @@ translate schinese moondate_f63b7434:
 translate schinese moondate_d190978e:
 
     # moon "It's illegal if you don't mention how addictive the drink is by the way."
-    moon "如果你不提这种饮料有成瘾性的话,那确实违法."
+    moon "不过,如果你没有明确说明这种饮料有成瘾性的话,那确实违法."
 
 # game/scripts/bar.rpy:5858
 translate schinese moondate_c80a6807:
@@ -16083,19 +16083,19 @@ translate schinese moondate_9d4925e4:
 translate schinese moondate_40ba61d2:
 
     # c "What dangerous things can you make?"
-    c "你可以做什么危险的东西吗?"
+    c "你能做出什么危险的东西吗?"
 
 # game/scripts/bar.rpy:5862
 translate schinese moondate_97f0978a:
 
     # moon "I can make a variety of explosive materials!"
-    moon "我可以制造各种爆炸材料!"
+    moon "我能制造各种爆炸物!"
 
 # game/scripts/bar.rpy:5863
 translate schinese moondate_4d44bf69:
 
     # c "Can you make someone go to sleep?"
-    c "你可以让人入睡吗?"
+    c "你能让人睡着吗?"
 
 # game/scripts/bar.rpy:5865
 translate schinese moondate_d2612575:
@@ -16107,73 +16107,73 @@ translate schinese moondate_d2612575:
 translate schinese moondate_dd49ee01:
 
     # c "Morbid curiosity."
-    c "病态的好奇心."
+    c "某种病态的好奇心吧."
 
 # game/scripts/bar.rpy:5868
 translate schinese moondate_3a751d1d:
 
     # moon "I wouldn't need drugs to make someone go to sleep anyway, so don't get any ideas."
-    moon "反正我不需要药物来让人入睡,所以你还是别想了."
+    moon "反正我不用药物也能让人睡着,所以你还是别打什么主意了."
 
 # game/scripts/bar.rpy:5869
 translate schinese moondate_3bb327cc:
 
     # c "I'm just curious."
-    c "我只是好奇."
+    c "我只是好奇而已."
 
 # game/scripts/bar.rpy:5871
 translate schinese moondate_7ab4c8ee:
 
     # moon "Hahah, I'm just pulling your leg! Yes, I could probably synthesize some harder drugs, but I never will. They're not good for anything."
-    moon "哈哈哈,我只是在开个玩笑.是的,我也许可以合成一些更复杂的药物,但是我永远都不会这样做.它们对任何事情都没有好处."
+    moon "哈哈哈,我只是在开玩笑.是的,我大概可以合成一些更猛的药物,但是我永远都不会那么做.那种东西毫无益处."
 
 # game/scripts/bar.rpy:5873
 translate schinese moondate_e5079bb2:
 
     # c "What are you studying for your engineering classes?"
-    c "你在工程课上学什么?"
+    c "你在工程课上都学什么?"
 
 # game/scripts/bar.rpy:5874
 translate schinese moondate_af489dcd:
 
     # moon "Oh, I'm majoring in civil engineering. My favorite subjects are bridges, towers, and airports. Basically anything that involves me climbing to great heights!"
-    moon "哦,我主修土木工程.我最喜欢的项目是桥梁,塔楼和机场.基本上都是涉及到高度的东西."
+    moon "哦,我主修土木工程.我最喜欢的科目是桥梁,塔楼和机场.基本上,只要能让我爬到高处的地方我都喜欢!"
 
 # game/scripts/bar.rpy:5875
 translate schinese moondate_2467493b:
 
     # c "Because it reminds you of climbing rocks and trees as a child?"
-    c "因为这让你想起了小时候爬石头和爬树?"
+    c "因为这让你想起了小时候攀岩爬树的时光?"
 
 # game/scripts/bar.rpy:5877
 translate schinese moondate_30b983ea:
 
     # moon "You were listening!"
-    moon "你有听我的话!"
+    moon "你听得还蛮认真的嘛!"
 
 # game/scripts/bar.rpy:5879
 translate schinese moondate_d6c911ea:
 
     # moon "It all reminds me of simpler times, and I'm pretty great at climbing anyway."
-    moon "这一切让我想起了我的小时候,而且我在攀爬方面也很厉害."
+    moon "这些东西让我想起了我那段更单纯的岁月,而且我的攀爬技术也相当不错."
 
 # game/scripts/bar.rpy:5881
 translate schinese moondate_03808035:
 
     # moon "I have a question for you now. If it is true you are interested in me as more than just an object, that would mean I would have to integrate into your harem, yes?"
-    moon "我现在有一个问题要问你,如果你是真的对我感兴趣,而不是光喜欢我的外表,那就是说我必须加入你的后宫,对吗?"
+    moon "我现在有个问题要问你,如果你是真的对我有不仅仅是当成一件物品来看待的兴趣,那是不是说我必须加入你的后宫,对吧?"
 
 # game/scripts/bar.rpy:5882
 translate schinese moondate_5ba8c8fd:
 
     # moon "So the question must be asked, what kind of leader are you, [name]?"
-    moon "所以我必须问你,你是什么样的人,[name]?"
+    moon "所以我必须问你,你是什么样的后宫之主,[name]?"
 
 # game/scripts/bar.rpy:5884
 translate schinese moondate_1540012c:
 
     # moon "So the question must be asked, what kind of leader are you, [name]?" nointeract
-    moon "所以我必须问你,你是什么样的人,[name]?" nointeract
+    moon "所以我必须问你,你是什么样的后宫之主,[name]?" nointeract
 
 # game/scripts/bar.rpy:5886
 translate schinese moondate_26e6311d:
@@ -16185,13 +16185,13 @@ translate schinese moondate_26e6311d:
 translate schinese moondate_3efad275:
 
     # moon "There are many valuable aspects of a traditional relationship, but I'm not the type of girl to serve a man's every beck and call."
-    moon "传统关系有许多有价值的地方,但我不少那种男人一叫我就得去服务的那种女孩."
+    moon "传统关系是有许多宝贵的东西,但我克不是那种对男人言听计从的女孩."
 
 # game/scripts/bar.rpy:5888
 translate schinese moondate_2e4777b8:
 
     # moon "To be honest, I never expected full equality in a harem anyway. So long as I'm not your slave-girl and have my own freedoms, I don't mind!"
-    moon "说实在的,无论如何,我也从未想过能在后宫里可以完全平等.只要我不是你的女奴,有我自己的自由,我就不介意!"
+    moon "说实话,我本来也不指望后宫里能有绝对的平等.只要我不当你的奴婢,能有我自己的自由,那我倒无所谓!"
 
 # game/scripts/bar.rpy:5891
 translate schinese moondate_1806d8d2:
@@ -16203,37 +16203,37 @@ translate schinese moondate_1806d8d2:
 translate schinese moondate_bf4832b6:
 
     # c "Only when they like it."
-    c "只有她们喜欢才会."
+    c "只有她们想要的时候,我才会那么做."
 
 # game/scripts/bar.rpy:5894
 translate schinese moondate_994736c9:
 
     # moon "Oh, so you're that kind of rough, huh? Well don't expect me to go down without a fight!"
-    moon "哦,所以你是那种粗暴的人,嗯?好吧,那可别指望我不战而降!"
+    moon "哦,所以你是那种喜欢粗暴的人,嗯?好吧,那可别指望我不战而降!"
 
 # game/scripts/bar.rpy:5897
 translate schinese moondate_84c04637:
 
     # moon "How lovely, that is not something I expected of the head of a harem. It's quite unique where I come from."
-    moon "真可爱,这不是我印象中的后宫之主的做法.在我的家乡里,这是很特别的."
+    moon "真可爱,这可不是我意料中的后宫之主.这在我的家乡可相当罕见."
 
 # game/scripts/bar.rpy:5898
 translate schinese moondate_6f2bfd6e:
 
     # c "What is it usually like?"
-    c "一般是什么样的?"
+    c "那一般是什么样的?"
 
 # game/scripts/bar.rpy:5899
 translate schinese moondate_07e6300f:
 
     # moon "Things have changed since I was a young girl. When I was growing up, I usually saw 1 man with 3 to 7 women, and they were barely more than slaves to be honest with you, hahah!"
-    moon "自从我还年轻的时候事情就已经改变了.在我成长的过程中,我经常看到一个男人带着三个到七个女人,说实在的,她们的数量都快赶上奴隶了,哈哈!"
+    moon "自从我是个小姑娘的时候,世道就变了.在我成长的过程中,我经常看到一个男人带着三个到七个女人,说实在的,她们也奴隶也没多大区别,哈哈!"
 
 # game/scripts/bar.rpy:5900
 translate schinese moondate_3aecfa0a:
 
     # moon "I read an article a couple weeks ago that said harems have halved in size in the last two decades. They say it's because of rapid development."
-    moon "我几周前读了一篇文章,说后宫在过去20年里规模减少了很多.他们说这是因为经济的快速发展."
+    moon "几周前,我读到一篇文章,它说后宫的数量在过去20年里见少了一半.他们说这是经济的快速发展造成的."
 
 # game/scripts/bar.rpy:5904
 translate schinese moondate_c974ec56:
@@ -16245,13 +16245,13 @@ translate schinese moondate_c974ec56:
 translate schinese moondate_d9c09749:
 
     # moon "{size=-10}{i}Oh shit... everyone definitely heard that!{/i}{/size}"
-    moon "{size=-10}{i}哦操了......大家肯定都听到了!{/i}{/size}"
+    moon "{size=-10}{i}哦操了......这下大家肯定都听到了!{/i}{/size}"
 
 # game/scripts/bar.rpy:5907
 translate schinese moondate_d463a99a:
 
     # moon "Are you done with your food? I think this is a good time to go now...!"
-    moon "你吃完了吗?我想现在可以走了......!"
+    moon "你吃完了吗?我觉得是时候走了......!"
 
 # game/scripts/bar.rpy:5908
 translate schinese moondate_7160acc1:
@@ -16269,7 +16269,7 @@ translate schinese moondate_34a31b59:
 translate schinese moondate_cb95de8d:
 
     # moon "This date was lovely, [name], I hope to spend more time with you in the future but I should really get back to studying! My roommate is probably pissed at me... Shall we go home?"
-    moon "这次约会真不错,[name],我希望我以后能多和你相处,但是我真的应该回去学习了!我的室友可能对我很生气......我们回家吧?"
+    moon "这次约会很愉快,[name],我希望以后能多和你相处,但是我真的得回去学习了!我的室友八成在生我的气......我们回家吧?"
 
 # game/scripts/bar.rpy:5915
 translate schinese moondate_c48dc32f:
@@ -16299,7 +16299,7 @@ translate schinese moonfuck_61731d2a:
 translate schinese moonfuck_5ab4c44e:
 
     # moon "I can't believe you! I can't believe you!"
-    moon "我不能相信你!我不能相信你!"
+    moon "我简直不能相信你!我简直不能相信你!"
 
 # game/scripts/bar.rpy:5930
 translate schinese moonfuck_f80627b2:
@@ -16317,7 +16317,7 @@ translate schinese moonfuck_93f4d377:
 translate schinese moonfuck_88ebeb21:
 
     # moon "You spank me for days! You get me wet! You stare at my bare ass!"
-    moon "你打了我好几天的屁股!你都把我弄湿了!你还一直盯着我的光屁股!"
+    moon "你打了我好几天的屁股!你都把我弄湿了!你还一直盯着我光溜溜的屁股看!"
 
 # game/scripts/bar.rpy:5935
 translate schinese moonfuck_45ad80fb:
@@ -16329,7 +16329,7 @@ translate schinese moonfuck_45ad80fb:
 translate schinese moonfuck_6f383a4d:
 
     # moon "You even rubbed my pussy! You weren't supposed to do that, remember?"
-    moon "你甚至还揉了我的小穴!你不应该那么做的,记得吗?"
+    moon "你甚至还揉我的小穴!你不应该那么做的,记得吗?"
 
 # game/scripts/bar.rpy:5938
 translate schinese moonfuck_9bb0350c:
@@ -16341,13 +16341,13 @@ translate schinese moonfuck_9bb0350c:
 translate schinese moonfuck_58d33a6a:
 
     # moon "At first it was fine, it was just a punishment after all..."
-    moon "一开始还好,毕竟这是一种惩罚......"
+    moon "一开始还好,毕竟这只是惩罚......"
 
 # game/scripts/bar.rpy:5941
 translate schinese moonfuck_bc1adccc:
 
     # moon "But then you got me wet!" with ssshake
-    moon "但是之后你让我湿了!" with ssshake
+    moon "但是你却让我湿透了!" with ssshake
 
 # game/scripts/bar.rpy:5943
 translate schinese moonfuck_4a3e7a4f:
@@ -16371,13 +16371,13 @@ translate schinese moonfuck_e5372c18:
 translate schinese moonfuck_c2989c97:
 
     # moon "I stopped coming to work with them because I would just ruin them!" with ssshake
-    moon "我不再在工作的时候穿它们是因为我会毁了它们!" with ssshake
+    moon "我不在工作期间穿内裤,是因为我会把它们全都弄湿!" with ssshake
 
 # game/scripts/bar.rpy:5949
 translate schinese moonfuck_afeccdc7:
 
     # moon "I saw your big bulge in your pants, don't act like you didn't want to either! You were clearly attracted to my ass but you never wanted to go further!"
-    moon "我看到了你裤子里鼓起来的东西了,别装的好像你也不想!你显然被我的屁股吸引了,但是你从来没有想要过进一步发展!"
+    moon "我看见你裤裆里鼓得老高了,别装的好像你也不想的样子!你分明就是被我的屁股吸引,但是你从来没有想要更进一步!"
 
 # game/scripts/bar.rpy:5950
 translate schinese moonfuck_dd15bdbc:
@@ -16389,19 +16389,19 @@ translate schinese moonfuck_dd15bdbc:
 translate schinese moonfuck_1839a633:
 
     # moon "Do you know how many times I went home to finish myself off because you didn't have the balls to go further!?"
-    moon "你知道有多少次因为你没有胆量再进一步,我回到家里得自己解决吗!?"
+    moon "你知道,有多少次因为你没有胆量再进一步,我只能回到家里自己解决吗!?"
 
 # game/scripts/bar.rpy:5953
 translate schinese moonfuck_16d9651d:
 
     # moon "I had to start spanking {i}myself{/i} to get anywhere..."
-    moon "我甚至不得不开始打我{i}自己{/i}的屁股......"
+    moon "我甚至不得不开始打{i}自己{/i}的屁股......"
 
 # game/scripts/bar.rpy:5955
 translate schinese moonfuck_384581d2:
 
     # moon "My roommate caught me, and it's your fault!" with ssshake
-    moon "我的室友抓到了我,这都是你的错!" with ssshake
+    moon "我的室友抓到了我,都怪你!" with ssshake
 
 # game/scripts/bar.rpy:5957
 translate schinese moonfuck_00055609:
@@ -16413,19 +16413,19 @@ translate schinese moonfuck_00055609:
 translate schinese moonfuck_8b85e388:
 
     # moon "The fact that I let this happen..."
-    moon "我让这一切发生了,这确实是事实......"
+    moon "是,是我让这一切发生的......"
 
 # game/scripts/bar.rpy:5961
 translate schinese moonfuck_63ff2cbd:
 
     # moon "OR THE FACT YOU NEVER FINISHED ME OFF!" with ssshake
-    moon "但是你也没有再进一步,这也是事实!" with ssshake
+    moon "{b}但你也没有把我搞定!{/b}" with ssshake
 
 # game/scripts/bar.rpy:5963
 translate schinese moonfuck_3a1e5daf:
 
     # moon "The teasing... The edging... It's too much!"
-    moon "挑逗......玩弄......太多了!"
+    moon "挑逗......寸止......够了!"
 
 # game/scripts/bar.rpy:5965
 translate schinese moonfuck_55c018aa:
@@ -16461,7 +16461,7 @@ translate schinese moonfuck_f0c2c2bb:
 translate schinese moonfuck_fdac74e2:
 
     # moon "...I- I wore something special... Do you want to see it?"
-    moon "......我-我穿了一些特殊的东西......你想看看吗?"
+    moon "......我-我穿了件特别的衣服......你想看看吗?"
 
 # game/scripts/bar.rpy:5976
 translate schinese moonfuck_4e8c7062:
@@ -16479,7 +16479,7 @@ translate schinese moonfuck_4984c9d6_1:
 translate schinese moonfuck_2bb00ef7:
 
     # moon "...You're sure? You want this too...?"
-    moon "......你确定吗?你也想要......?"
+    moon "......你确定吗?你也想要吗......?"
 
 # game/scripts/bar.rpy:5981
 translate schinese moonfuck_3f262cee:
@@ -16503,13 +16503,13 @@ translate schinese moonfuck_45ea0c48:
 translate schinese moonfuck_f4aa94cc:
 
     # moon "Hahah... It's been a while for me... I thought this lingerie may have been a stupid idea. It's my first time wearing a bra, so..."
-    moon "哈哈哈......我有这个想法已经有一段时间了......我觉得穿内衣是个愚蠢的想法.这是我第一次穿胸罩,所以......"
+    moon "哈哈哈......我有这个想法已经有一段时间了......我以为这件内衣可能是个馊主意.这是我第一次穿胸罩,所以......"
 
 # game/scripts/bar.rpy:5990
 translate schinese moonfuck_5c9b4066:
 
     # moon "But I guess it was worth it..."
-    moon "但是我想这值得......"
+    moon "但我觉得这值得......"
 
 # game/scripts/bar.rpy:5991
 translate schinese moonfuck_3778ee2d:
@@ -16551,13 +16551,13 @@ translate schinese moonfuck_49ad8350:
 translate schinese moonfuck_aa184e35:
 
     # moon "...Fine. We can do it raw... But I'm not on birth control."
-    moon "......好吧.我们可以无套......但是我现在可没有做避孕措施."
+    moon "......好吧.我们可以无套......但是我可没有避孕措施."
 
 # game/scripts/bar.rpy:6001
 translate schinese moonfuck_2b711de9:
 
     # moon "Are you ready?"
-    moon "你准备好了吗?"
+    moon "准备好了吗?"
 
 # game/scripts/bar.rpy:6002
 translate schinese moonfuck_4aabd39f:
@@ -16575,7 +16575,7 @@ translate schinese moonfuck_75bdd465:
 translate schinese moonfuck_e32348dc:
 
     # c "You buy them so you can take them off."
-    c "你买了它们就是为了脱掉的."
+    c "你买它们就是为了脱掉它们的."
 
 # game/scripts/bar.rpy:6006
 translate schinese moonfuck_0d92dad6:
@@ -16599,7 +16599,7 @@ translate schinese moonfuck_e2554a0d:
 translate schinese moonfuck_cbf3a57c:
 
     # moon "...That's quite scary, you know?"
-    moon "......那还挺吓人的,你知道吗?"
+    moon "......真够吓人的,你知道吗?"
 
 # game/scripts/bar.rpy:6013
 translate schinese moonfuck_c9b3115c:
@@ -16635,13 +16635,13 @@ translate schinese moonfuck_5ed5d25f:
 translate schinese moonfuck_dbf4d9be:
 
     # moon "HNNGAHH!" with sshake
-    moon "嗯!" with sshake
+    moon "{b}嗯!{/b}" with sshake
 
 # game/scripts/bar.rpy:6025
 translate schinese moonfuck_42d61b2a:
 
     # moon "Hahhh...! I came a little... Ah!"
-    moon "哈......!我小高潮了一下......啊!"
+    moon "哈......!我小小地高潮了一下......啊!"
 
 # game/scripts/bar.rpy:6027
 translate schinese moonfuck_fb4e25fa:
@@ -16653,13 +16653,13 @@ translate schinese moonfuck_fb4e25fa:
 translate schinese moonfuck_f14abb98:
 
     # moon "Ohhh my god! Finally! Fuck! MM!"
-    moon "哦我天!终于!操!嗯!"
+    moon "哦,我天!终于!操!{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:6029
 translate schinese moonfuck_dc5b8746:
 
     # moon "That feels so good...! Hnngh, I needed this so much!"
-    moon "感觉好舒服......!嗯,我好需要它!"
+    moon "感觉好舒服......!嗯,我太需要这个了!"
 
 # game/scripts/bar.rpy:6030
 translate schinese moonfuck_bb8262a3:
@@ -16671,25 +16671,25 @@ translate schinese moonfuck_bb8262a3:
 translate schinese moonfuck_863ffa1c:
 
     # moon "Hahhhhn!!! HNN!" with ssshake
-    moon "哈!!!嗯!" with ssshake
+    moon "哈!!!{b}嗯!{/b}" with ssshake
 
 # game/scripts/bar.rpy:6034
 translate schinese moonfuck_cc8761c1:
 
     # moon "Ssssnn! AH! I came again...! HNGUH!"
-    moon "嘶!啊!我又去了......!嗯!"
+    moon "嘶!{b}啊!{/b}我又去了......!{b}嗯!{/b}"
 
 # game/scripts/bar.rpy:6035
 translate schinese moonfuck_322d9799:
 
     # moon "I don't know why... I don't understand why your spanking did this to me..."
-    moon "我不知道为什么......我不理解为什么你打我屁股会有这种影响......"
+    moon "我不知道为什么......我不明白为什么你打我屁股会让我变成这样......"
 
 # game/scripts/bar.rpy:6036
 translate schinese moonfuck_05188f76:
 
     # moon "HN! M-Maybe it was the humiliation... Or the exhibition... Or the pain... I don't know... But I love it...!"
-    moon "嗯!也-也许是因为羞耻......或者说暴露......或者是疼痛......我不知道......但是我喜欢它......!"
+    moon "{b}嗯!{/b}也-也许是因为羞耻......或者是暴露......或者是疼痛......我不清楚......但是我喜欢......!"
 
 # game/scripts/bar.rpy:6040
 translate schinese moonfuck_56fdf3c7:
@@ -16707,37 +16707,37 @@ translate schinese moonfuck_66d2e02f:
 translate schinese moonfuck_add04def:
 
     # moon "Ahh! AHH! You're going to make me cum! Slow down!"
-    moon "啊!啊!你要让我去了!慢点!"
+    moon "啊!{b}啊!{/b}你让我要高潮了!慢点!"
 
 # game/scripts/bar.rpy:6043
 translate schinese moonfuck_d2dd4d97:
 
     # c "But don't you want to cum?"
-    c "但是你不需要去吗?"
+    c "但是你不想要高潮吗?"
 
 # game/scripts/bar.rpy:6044
 translate schinese moonfuck_d03252e3:
 
     # moon "Hnnn! Yes, but...! I just came twice! NNNNAH!"
-    moon "嗯!是的,但是......!我已经去两次了!嗯!"
+    moon "嗯!我想要,但是......!我已经去两次了!嗯!"
 
 # game/scripts/bar.rpy:6045
 translate schinese moonfuck_1db00cbb:
 
     # moon "Hahhh! Ahhh! Ahh!! AHH!"
-    moon "哈!啊!啊!!啊!"
+    moon "哈!啊!啊!!{b}啊!{/b}"
 
 # game/scripts/bar.rpy:6047
 translate schinese moonfuck_84526f61:
 
     # moon "HNNNN!!! HNNNNNNNNN!!!" with ssshake
-    moon "嗯!!!嗯!!!" with ssshake
+    moon "{b}嗯!!!嗯嗯!!!{/b}" with ssshake
 
 # game/scripts/bar.rpy:6048
 translate schinese moonfuck_3dc4c2ce:
 
     # moon "GAAAAHHH!!" with ssshake
-    moon "咕!!" with ssshake
+    moon "{b}咕!!{/b}" with ssshake
 
 # game/scripts/bar.rpy:6050
 translate schinese moonfuck_8789cec0:
@@ -16767,7 +16767,7 @@ translate schinese moonfuck_0de1bd1d:
 translate schinese moonfuck_44688b1e:
 
     # moon "...But this is... So personal..."
-    moon "......但是这是......个人行为......"
+    moon "......但是这......太私密了......"
 
 # game/scripts/bar.rpy:6058
 translate schinese moonfuck_0758f585:
@@ -16779,7 +16779,7 @@ translate schinese moonfuck_0758f585:
 translate schinese moonfuck_aa5949b4:
 
     # moon "Mmmmmmmmmmmm~"
-    moon "嗯~"
+    moon "嗯嗯嗯~"
 
 # game/scripts/bar.rpy:6061
 translate schinese moonfuck_a33f2b9f:
@@ -16809,7 +16809,7 @@ translate schinese moonfuck_e53964ee:
 translate schinese moonfuck_ee96c65b:
 
     # moon "MMMM!" with ssshake
-    moon "嗯!" with ssshake
+    moon "{b}嗯!{/b}" with ssshake
 
 # game/scripts/bar.rpy:6069
 translate schinese moonfuck_697b036b:
@@ -16839,13 +16839,13 @@ translate schinese moonfuck_12512fea:
 translate schinese moonfuck_4329a785:
 
     # c "You asked me to."
-    c "你叫我的."
+    c "是你让我内射的."
 
 # game/scripts/bar.rpy:6075
 translate schinese moonfuck_28a36296:
 
     # moon "You shouldn't have listened... Nnn..."
-    moon "你不应该听的......嗯......"
+    moon "你不应该听我的......嗯......"
 
 # game/scripts/bar.rpy:6076
 translate schinese moonfuck_62b3ca73:
@@ -16929,7 +16929,7 @@ translate schinese moondrink_eb8d867e:
 translate schinese moondrink_174e1c4c:
 
     # moon "But I don't know your name! What is it?"
-    moon "但是我还是不知道你的名字!所以是什么?"
+    moon "但是我还是不知道你的名字!所以,你叫什么?"
 
 # game/scripts/bar.rpy:6107
 translate schinese moondrink_0e5b3a10:
@@ -16953,13 +16953,13 @@ translate schinese moondrink_5cd04ec2:
 translate schinese moondrink_4e5a4202:
 
     # c "Why?"
-    c "为什么问这个?"
+    c "怎么了?"
 
 # game/scripts/bar.rpy:6113
 translate schinese moondrink_ab5b9ffa:
 
     # moon "I've never been a fan of beer. Tastes like gasoline to me..."
-    moon "我不喜欢啤酒.对我来说,它们就像汽油一样......"
+    moon "我从来都不喜欢喝啤酒.对我来说就像喝汽油一样......"
 
 # game/scripts/bar.rpy:6114
 translate schinese moondrink_7c58a589:
@@ -16983,7 +16983,7 @@ translate schinese moondrink_4e24c2ca:
 translate schinese moondrink_0c5d7ee3:
 
     # moon "Oh, think I can't handle it?"
-    moon "哦,觉得我承受不了是吗?"
+    moon "哦,觉得我应付不来是吗?"
 
 # game/scripts/bar.rpy:6119
 translate schinese moondrink_ed1e847f:
@@ -16995,7 +16995,7 @@ translate schinese moondrink_ed1e847f:
 translate schinese moondrink_2162d3d6:
 
     # moon "I could drink you under the table..."
-    moon "我可以把你喝倒......"
+    moon "我可以把你喝趴......"
 
 # game/scripts/bar.rpy:6122
 translate schinese moondrink_bf235757:
@@ -17025,7 +17025,7 @@ translate schinese moondrink_40586e75:
 translate schinese moondrink_14b02ce3:
 
     # moon "I'm not known for my jokes, [name]."
-    moon "我可不是以笑话出名的,[name]."
+    moon "我可不是以讲笑话出名的,[name]."
 
 # game/scripts/bar.rpy:6130
 translate schinese moondrink_8cb4ab5b:
@@ -17049,31 +17049,31 @@ translate schinese moondrink_94ad5704:
 translate schinese moondrink_0d70e605:
 
     # moon "Well... That was just a joke. I couldn't really drink raw ethanol..."
-    moon "嗯......那只是开个玩笑.我可不能喝无水乙醇......"
+    moon "好吧......那只是开个玩笑.我可喝不了无水乙醇......"
 
 # game/scripts/bar.rpy:6136
 translate schinese moondrink_7d2f3cd6:
 
     # moon "But I'm serious! It runs in the family. It takes ten times the normal amount of alcohol for me to get drunk!"
-    moon "但是我是认真的!这是家族遗传的.我需要十倍于正常量的酒精才会喝醉!"
+    moon "但是我是认真的!这是家族遗传的.我需要喝常人十倍的酒精才会喝醉!"
 
 # game/scripts/bar.rpy:6137
 translate schinese moondrink_1bbf35ff:
 
     # c "Not even a little tipsy?"
-    c "在那之前甚至都不会醉?"
+    c "一点微醺都不会?"
 
 # game/scripts/bar.rpy:6138
 translate schinese moondrink_95fe8000:
 
     # moon "Nope! No side effects at all! Impressive, right?"
-    moon "不!而且没有副作用!这很令人印象深刻,对吧?"
+    moon "不!而且完全没有副作用!很厉害吧?"
 
 # game/scripts/bar.rpy:6139
 translate schinese moondrink_6efe446b:
 
     # c "If it's true, then... Yeah."
-    c "如果那是真的的话,那......确实."
+    c "如果是真的话,那......确实."
 
 # game/scripts/bar.rpy:6141
 translate schinese moondrink_22122b2f:
@@ -17091,13 +17091,13 @@ translate schinese moondrink_ba26ce8b:
 translate schinese moondrink_da615de7:
 
     # moon "I'll let you get back to your drink [name]."
-    moon "我会让你继续喝你的酒的,[name]."
+    moon "你继续喝你的酒吧,[name]."
 
 # game/scripts/bar.rpy:6147
 translate schinese moondrink_450fcff4:
 
     # moon "Just make sure you don't drink yourself to death~!"
-    moon "只要确保你不会把自己喝死就行~!"
+    moon "别把自己喝死就行~!"
 
 # game/scripts/bar.rpy:6154
 translate schinese moontrain1_b306f49f:
@@ -17121,13 +17121,13 @@ translate schinese moontrain1_293c9d5f:
 translate schinese moontrain1_d059c348:
 
     # c "No, you're doing fine. But there's always room for improvement."
-    c "不,你做得很好.但是事情总是有可以改进的地方嘛."
+    c "不,你做得很好.但是人总有进步的空间嘛."
 
 # game/scripts/bar.rpy:6160
 translate schinese moontrain1_3ff065f5:
 
     # moon "Well, if you say so! What do I need to do?"
-    moon "好吧,如果你这么说的话!我需要怎么做?"
+    moon "好吧,你说得对!我需要怎么做?"
 
 # game/scripts/bar.rpy:6161
 translate schinese moontrain1_fc4e1109:
@@ -17157,7 +17157,7 @@ translate schinese moontrain1_b07595e8:
 translate schinese moontrain1_c2792e65:
 
     # c "So you haven't heard that guy asking for another beer?"
-    c "所以你没听到那个人要求再来一杯啤酒?"
+    c "所以你没听到那个人要再来一杯啤酒?"
 
 # game/scripts/bar.rpy:6167
 translate schinese moontrain1_91b4c325:
@@ -17169,19 +17169,19 @@ translate schinese moontrain1_91b4c325:
 translate schinese moontrain1_e1af66dc:
 
     # pat "Hello!? Beer please!"
-    pat "喂!?请来一杯啤酒!"
+    pat "喂!?给我来杯啤酒!"
 
 # game/scripts/bar.rpy:6170
 translate schinese moontrain1_f4d8d188:
 
     # moon "A-Ahh... Sorry boss... I guess I was paying too much attention to our conversation..."
-    moon "啊-啊......对不起老板......我想我太注意我们的谈话了......"
+    moon "啊-啊......对不起,老板......我刚才可能太专注于我们的对话了......"
 
 # game/scripts/bar.rpy:6171
 translate schinese moontrain1_915077e6:
 
     # c "Don't worry about me, get him a beer. And tell him it's on the house."
-    c "别担心我,去给他拿杯啤酒吧,然后告诉他我请客."
+    c "别管我了,去给他拿杯啤酒吧,然后告诉他这杯店里请客."
 
 # game/scripts/bar.rpy:6172
 translate schinese moontrain1_346f6971:
@@ -17193,7 +17193,7 @@ translate schinese moontrain1_346f6971:
 translate schinese moontrain1_828a7d7b:
 
     # moon "I'm so sorry for the wait sir! Here's your beer!"
-    moon "对不起让你久等了,先生!这是你的啤酒!"
+    moon "对不起,先生,让你久等了!这是你的啤酒!"
 
 # game/scripts/bar.rpy:6175
 translate schinese moontrain1_97746990:
@@ -17217,13 +17217,13 @@ translate schinese moontrain1_37af331d:
 translate schinese moontrain1_95dd568b:
 
     # moon "I'm very sorry boss! I hope you won't fire me!"
-    moon "我很抱歉,老板!我希望你不会开除我!"
+    moon "我很抱歉,老板!希望你不会开除我!"
 
 # game/scripts/bar.rpy:6180
 translate schinese moontrain1_7dc38413:
 
     # c "It's fine, that's what training is for."
-    c "没关系的,这就是训练的目的."
+    c "没关系,这就是训练的目的."
 
 # game/scripts/bar.rpy:6181
 translate schinese moontrain1_e458f82a:
@@ -17241,49 +17241,49 @@ translate schinese moontrain1_b07595e8_1:
 translate schinese moontrain1_73be9c93:
 
     # "You stand in a corner trying your best not to draw any attention from Moon, or the patrons. Being able to see the whole room, you keep an eye on Moon's performance, you notice whenever she talks, she seems to keep her ears closed..."
-    "你站在一个角落里,尽量不引起文或者顾客的注意.由于你可以看到整个房间,你一直都在关注着文的表现,你注意到每当她说话的时候,她的耳朵似乎就像是被关上了一样......"
+    "你站在一个角落里,尽量不引起文或者其他顾客的注意.由于你可以看到整个房间,你一直都在关注着文的表现,你注意到她每次说话的时候,她的耳朵就像是被关上了一样......"
 
 # game/scripts/bar.rpy:6185
 translate schinese moontrain1_9f118427:
 
     # "You inform her of this imperfection and she tries her best to keep her ears always on, while still providing the humbling feeling of small talk with the patrons."
-    "你向她告知了这一不完善的地方,然后她就尽力保持她的耳朵一直在倾听,同时依然在和顾客交谈时保持谦卑."
+    "你向她指出这个问题,她便尽力保持倾听,同时仍以谦逊的态度与顾客交谈."
 
 # game/scripts/bar.rpy:6186
 translate schinese moontrain1_0b0e22a8:
 
     # "After a couple of hours, she gets better and better. Always making a mental note of the orders each patron calls for, even when chatting."
-    "几小时后,她变得越来越好了.她可以在头脑里记下每个顾客要求的订单,甚至在聊天的时候也是如此."
+    "几小时后,她越来越得心应手.即使和客人闲聊时,她也始终牢记每位顾客点过的餐品."
 
 # game/scripts/bar.rpy:6187
 translate schinese moontrain1_3461c4fe:
 
     # "As even more time passes, she's easily able to tell where the orders are coming up."
-    "随着时间的推移,她很容易就可以分辨出订单在哪里."
+    "随着时间的推移,她能轻松判断订单来自何处."
 
 # game/scripts/bar.rpy:6188
 translate schinese moontrain1_387b8b36:
 
     # "Moon is now able to always listen, picking up on even the faintest of voices, and their direction. Even if she does trip sometimes..."
-    "文现在可以耳听八方了,即使是最微弱的声音,也能捕捉到它们的方向.虽然她有时候会被绊倒就是了......"
+    "文现在可以耳听八方了,即使是最微弱的声音,她也能捕捉到它们的方向.虽然她有时候会被绊倒就是了......"
 
 # game/scripts/bar.rpy:6190
 translate schinese moontrain1_e63c89d5:
 
     # c "Good job, Moon! I think you've improved quite a lot."
-    c "干得好,文!我觉得你进步很大."
+    c "干得好,文!我觉得你的进步很大."
 
 # game/scripts/bar.rpy:6191
 translate schinese moontrain1_c1678d0b:
 
     # c "The more you listen, the faster everyone can get their order. This means they'll be likely to order even more now."
-    c "你听得越多,大家就能越快获得他们的订单.这也意味着他们现在会有可能买更多的东西."
+    c "你听得越多,顾客就能越快拿到餐点.这也意味着他们现在可能会买更多的东西."
 
 # game/scripts/bar.rpy:6192
 translate schinese moontrain1_dd953866:
 
     # moon "Thank you boss! I'm glad you see my improvement!"
-    moon "谢谢你老板!我很高兴你看到了我的进步!"
+    moon "谢谢你老板!我很高兴你注意到了我的进步!"
 
 # game/scripts/bar.rpy:6193
 translate schinese moontrain1_c06a2ba4:
@@ -17337,13 +17337,13 @@ translate schinese moontrain2_73974658:
 translate schinese moontrain2_4d17a7c5:
 
     # c "That's not what my reports say..."
-    c "我的报告可不是这么说的......"
+    c "我的报告里可不是这么写的......"
 
 # game/scripts/bar.rpy:6210
 translate schinese moontrain2_b91b95fd:
 
     # moon "Ah, I guess it's unavoidable then... I'm sorry, Mr. [name]... These heels are really awkward to walk in..."
-    moon "啊,我想那是不可避免的......我很抱歉,[name]先生......这双高跟鞋穿起来真的很别扭......"
+    moon "啊,那种事情我可能是没法避免了......我很抱歉,[name]先生......这双高跟鞋走起来真的很别扭......"
 
 # game/scripts/bar.rpy:6212
 translate schinese moontrain2_6b260d56:
@@ -17355,19 +17355,19 @@ translate schinese moontrain2_6b260d56:
 translate schinese moontrain2_6342e0a2:
 
     # c "If your heels are the problem, it's a pretty simple fix. Take small steps, and land heel-to-toe."
-    c "如果你的鞋跟就是问题所在的话,那很容易.小步小步走,先落脚跟再落脚掌."
+    c "如果问题出在你的鞋跟上,那解决起来其实很容易.小步走,先落脚跟,再落脚掌."
 
 # game/scripts/bar.rpy:6214
 translate schinese moontrain2_55e0b418:
 
     # moon "Small steps? But wouldn't that slow me down?"
-    moon "小步走?但是这样不会让我慢下来吗?"
+    moon "小步走?但是这样不会拖慢我的速度吗?"
 
 # game/scripts/bar.rpy:6215
 translate schinese moontrain2_814bf329:
 
     # c "One problem at a time. Go ahead and serve our patrons while I watch."
-    c "一次只解决一个问题.去吧,去给我们的客人们服务,我会看着的."
+    c "一次解决一个问题.去吧,去给招待我们的客人,我会看着的."
 
 # game/scripts/bar.rpy:6216
 translate schinese moontrain2_c1710669:
@@ -17379,7 +17379,7 @@ translate schinese moontrain2_c1710669:
 translate schinese moontrain2_2bd21fed:
 
     # "You watch as Moon goes about serving guests. From time to time she almost trips, but she's giving her strut extra attention now that you're overseeing her."
-    "你看着文去服务客人.她时不时会差点被绊倒,但现在在你的监督下,她对自己的步态格外关注."
+    "你看着文忙着招待客人.她时不时还会差点绊倒,但在你的监督下,她现在格外注意自己的步伐."
 
 # game/scripts/bar.rpy:6220
 translate schinese moontrain2_1663211f:
@@ -17397,7 +17397,7 @@ translate schinese moontrain2_7c883d5b:
 translate schinese moontrain2_1dc9af3f:
 
     # moon "Oh! Oh no! No, no! Urgh!"
-    moon "哦!哦不!不,不!嗯!"
+    moon "哦!哦不!不,不!呃!"
 
 # game/scripts/bar.rpy:6226
 translate schinese moontrain2_ddec832a:
@@ -17421,7 +17421,7 @@ translate schinese moontrain2_657332c1:
 translate schinese moontrain2_9fe82e58:
 
     # c "We can always buy some more glass. Are you sure you're not hurt? Any bleeding?"
-    c "玻璃杯我们可以再买的.你确定你没有受伤吗?有流血吗?"
+    c "玻璃杯我们可以再买.你确定你没有受伤吗?有流血吗?"
 
 # game/scripts/bar.rpy:6232
 translate schinese moontrain2_55762caa:
@@ -17433,7 +17433,7 @@ translate schinese moontrain2_55762caa:
 translate schinese moontrain2_02dc4aeb:
 
     # c "Alright, keep trying, you'll improve."
-    c "好的,继续试试吧,你会进步的."
+    c "好的,继续努力吧,你会进步的."
 
 # game/scripts/bar.rpy:6234
 translate schinese moontrain2_2b8eac25:
@@ -17445,19 +17445,19 @@ translate schinese moontrain2_2b8eac25:
 translate schinese moontrain2_4bb58898:
 
     # "As time goes on, Moon's strut becomes more determined. She's growing more confident in walking in her heels. She rarely fumbles, and never trips."
-    "随着时间的推移,文的步伐变得越来越稳定.她对穿着高跟鞋走路也越来越有信心.她失误已经很少了,而且没被绊倒过."
+    "随着时间的推移,文的步伐变得越来越稳定.她穿着高跟鞋走路时越来越自信.她几乎不再踉跄,更不会跌倒."
 
 # game/scripts/bar.rpy:6238
 translate schinese moontrain2_8f62a416:
 
     # c "Good job, Moon! You've improved a lot. Now that you're not breaking as many glasses, we'll save some money."
-    c "干得好,文!你进步很大.现在你没有打碎那么多杯子了,我们可以省下一笔钱了."
+    c "干得好,文!你进步很大.现在你打碎的玻璃杯少了,我们能省点钱了."
 
 # game/scripts/bar.rpy:6239
 translate schinese moontrain2_8c1e2ea0:
 
     # moon "Thank you Mr. [name]!"
-    moon "谢谢你[name]先生!"
+    moon "谢谢你,[name]先生!"
 
 # game/scripts/bar.rpy:6240
 translate schinese moontrain2_c06a2ba4:
@@ -17487,13 +17487,13 @@ translate schinese moontrain3_1fe5482f:
 translate schinese moontrain3_c8270a9e:
 
     # c "You'll be keeping the heels on, but you're going to need to learn how to efficiently serve each guest in a timely manner."
-    c "你还得穿着高跟鞋,但是你要学会如何及时有效地给每个客人服务."
+    c "你还得穿着高跟鞋,但是你要学会如何及时且高效地给每个客人提供服务."
 
 # game/scripts/bar.rpy:6252
 translate schinese moontrain3_036fe038:
 
     # moon "Ah... That's going to be very hard Mr. [name]! My last training even slowed me down!"
-    moon "啊......那太难了,[name]先生!我上次的训练都让我变慢了!"
+    moon "啊......那太难了,[name]先生!上次训练反而让我变慢了!"
 
 # game/scripts/bar.rpy:6253
 translate schinese moontrain3_d4bb803a:
@@ -17505,55 +17505,55 @@ translate schinese moontrain3_d4bb803a:
 translate schinese moontrain3_6bd986e0:
 
     # moon "Well... I don't see how it's possible for me to not only be faster, but also not trip..."
-    moon "嗯......我不明白我怎么做到又快又不被绊倒......"
+    moon "嗯......我实在想不出怎么既能走得更快,又不会摔跤......"
 
 # game/scripts/bar.rpy:6257
 translate schinese moontrain3_d337e975:
 
     # moon "But I guess that's why you're here! So what do I need to do?"
-    moon "但是我想这就是你在这里的原因!我需要怎么做?"
+    moon "不过我想这就是你在这里的原因吧!我需要怎么做?"
 
 # game/scripts/bar.rpy:6259
 translate schinese moontrain3_bbfd8aa6:
 
     # "You explain to Moon that she needs to use all of her previous training in this one. Moon needs to always listen, and always be prepared. She needs to be at every patron's beck and call with alcohol in hand."
-    "你向文解释说,她需要再这一次使用她以前所有训练的来的技巧.文要眼观六路,耳听八方.她需要手拿酒水,听从每一位顾客的召唤."
+    "你向文解释说,这次她必须运用所有过往的训练.文要眼观六路,耳听八方.她需要随时待命,为每位顾客奉上酒水."
 
 # game/scripts/bar.rpy:6260
 translate schinese moontrain3_d64b091d:
 
     # "You inform Moon that being faster doesn't necessarily pertain to walking. Remembering a regular's face and at which time they visit can increase efficiency!"
-    "你告诉文,更快不一定和走路的速度有关.记住每一个常客的面孔和来访时间,也可以提高工作效率!"
+    "你告诉文,快不一定体现在走路的速度上.记住每一个常客的面孔和来访时间,也可以提高工作效率!"
 
 # game/scripts/bar.rpy:6261
 translate schinese moontrain3_05129739:
 
     # "Paying attention to each patron's liquid level is also very important. If Moon's foresight can predict when a patron is about to order another beer, she can have it made and ordered before they even ask!"
-    "关注每个顾客还剩下多少酒水也是非常重要的.如果文能够预测顾客什么时候需要在点一杯啤酒,那她就可以在他们开口之前就把啤酒做好点好!"
+    "关注每个顾客的杯子里还剩下多少酒水同样至关重要.如果文能够预测顾客什么时候需要续杯,那她就能在对方开口前就完成订单并端上酒杯!"
 
 # game/scripts/bar.rpy:6262
 translate schinese moontrain3_f94c1b8f:
 
     # "Knowing this, Moon puts this all into practice..."
-    "知道了这一点之后,文把这些都付诸实践了......"
+    "知道了这一点之后,文就把这些做法付诸实践......"
 
 # game/scripts/bar.rpy:6263
 translate schinese moontrain3_0e2b5e92:
 
     # "You sit down and micromanage Moon. You tell her where and how to look, and to remember their faces and pair them with their drink of choice."
-    "你坐下来,对文进行一些细节上的教学.你告诉她在哪里以及如何寻找顾客,并记住他们的面孔,将他们与他们选择的饮料配对."
+    "你坐下来,对文进行事无巨细地.你告诉她该看哪里,该怎么看,还要记住每位客人的长相,并将他们与各自点选的饮品配对."
 
 # game/scripts/bar.rpy:6264
 translate schinese moontrain3_97b1e1e0:
 
     # "Instead of sitting down and looking at her phone in her off time, she stands at the bar's counter, meticulously, and sometimes awkwardly, watching the room and it's inhabitants. Always presuming a patron's next order."
-    "她并没有在休息时间坐下来看手机,而是站在吧台前,一丝不苟地,有时候有点尴尬地观察房间和房间里的人.推测顾客的下一份订单会是什么."
+    "她并没有在休息时间坐下来看手机,而是站在吧台前,细致而略显笨拙地观察着房间和其中的人,揣测顾客的下一份订单会是什么."
 
 # game/scripts/bar.rpy:6265
 translate schinese moontrain3_43c04b6c:
 
     # "After a couple of hours, she turns into clockwork. Never having downtime. When you know what to look for, you should always be doing something. Moon is becoming a well oiled machine!"
-    "几个小时后,她已经变成了某种机械装置.没有休息时间.当你知道你要寻找什么的时候,你就应该做什么.文正在变成一台上好油的机器!"
+    "几个小时后,她就像上紧发条永不停歇的钟表.当你知道了自己应该干什么的时候,你就不会停下里.文正在变成一台上运转顺畅的机器!"
 
 # game/scripts/bar.rpy:6267
 translate schinese moontrain3_bd841a3b:
@@ -17565,25 +17565,25 @@ translate schinese moontrain3_bd841a3b:
 translate schinese moontrain3_7ca97faf:
 
     # c "You're doing great! I can tell already effeciency has improved."
-    c "你做得很好!我看得出来效率已经提高了."
+    c "你做得很好!我看得出来,你的效率已经提高了."
 
 # game/scripts/bar.rpy:6269
 translate schinese moontrain3_c4274da3:
 
     # moon "I'm glad! I had no idea I could be so busy!"
-    moon "我很高兴!我不知道我居然可以这么忙!"
+    moon "我很高兴!我完全没想到自己会这么忙!"
 
 # game/scripts/bar.rpy:6270
 translate schinese moontrain3_0cc8d6aa:
 
     # c "Don't wear yourself out too much. Make sure to drink plenty of water and eat often."
-    c "别让自己太累了.多喝水,多吃饭."
+    c "别太累着自己了.记得多喝水,吃点东西."
 
 # game/scripts/bar.rpy:6271
 translate schinese moontrain3_de499a95:
 
     # moon "Of course! Thank you boss!"
-    moon "当然了!谢谢你老板!"
+    moon "当然了!谢谢你,老板!"
 
 # game/scripts/bar.rpy:6272
 translate schinese moontrain3_c06a2ba4:
@@ -17595,19 +17595,19 @@ translate schinese moontrain3_c06a2ba4:
 translate schinese moontrain4_ed2c5967:
 
     # moon "Hello boss! More training?"
-    moon "你好老板!更多的训练吗?"
+    moon "你好,老板!更多的训练吗?"
 
 # game/scripts/bar.rpy:6280
 translate schinese moontrain4_16a78c3b:
 
     # c "No, not this time. I bought an outfit for you that I'd like you to wear from time to time."
-    c "不,这次不是.我给你买了一套新衣服,我希望你可以经常穿它."
+    c "不,这次不是.我给你买了一套新衣服,我希望你可以偶尔穿穿."
 
 # game/scripts/bar.rpy:6282
 translate schinese moontrain4_14267fae:
 
     # moon "Oh, no, this isn't one of those titty bars, is it...?"
-    moon "哦,不,这不是那种色情酒吧的,对吧......?"
+    moon "哦,不,不是那种擦边酒吧的,对吧......?"
 
 # game/scripts/bar.rpy:6283
 translate schinese moontrain4_53d1ea34:
@@ -17655,7 +17655,7 @@ translate schinese moontrain4_56d0beb3:
 translate schinese moontrain4_636fc93f:
 
     # moon "The skirt is really short, and it comes with cat ears and a cat tail extention..."
-    moon "这个裙子好短,还有附带了猫尾巴和猫耳朵......"
+    moon "这条裙子真的好短,还配了猫尾巴和猫耳朵......"
 
 # game/scripts/bar.rpy:6300
 translate schinese moontrain4_febc06a6:
@@ -17673,7 +17673,7 @@ translate schinese moontrain4_fb58f502:
 translate schinese moontrain4_96024190:
 
     # moon "Will I be wearing this every day?"
-    moon "我每天会穿这套服装吗"
+    moon "我每天都要穿这个吗?"
 
 # game/scripts/bar.rpy:6303
 translate schinese moontrain4_bda73689:
@@ -17691,7 +17691,7 @@ translate schinese moontrain4_54cde968:
 translate schinese moontrain4_9039322b:
 
     # moon "Wait... Why am I dressed up like a black cat? You're not some weird pervert with a cat fetish, are you...?"
-    moon "等等......为什么我打扮得像只黑猫一样,你不会是有什么恋猫癖吧......?"
+    moon "等等......我为什么要打扮得像只黑猫一样,你不会是个有什么恋猫癖的变态吧......?"
 
 # game/scripts/bar.rpy:6307
 translate schinese moontrain4_a4fc9d59:
@@ -17703,13 +17703,13 @@ translate schinese moontrain4_a4fc9d59:
 translate schinese moontrain4_30fc9a67:
 
     # moon "Well, I'm sure you hit the nail on the head with this then..."
-    moon "嗯,我相信你说到点子上了......"
+    moon "嗯,我想你说得对......"
 
 # game/scripts/bar.rpy:6309
 translate schinese moontrain4_ac097dc3:
 
     # c "Not only will all eyes be on you, but patrons will be so focused on you that they'll drink without thinking about it."
-    c "不仅所有的眼睛都会盯着你,而且顾客也会专注于你,这会让他们不假思索地喝酒."
+    c "顾客们不止会看着你,还会专注在你身上,以至于他们会不自觉地喝酒."
 
 # game/scripts/bar.rpy:6311
 translate schinese moontrain4_29fdda13:
@@ -17721,13 +17721,13 @@ translate schinese moontrain4_29fdda13:
 translate schinese moontrain4_4973e701:
 
     # moon "Wait, wouldn't that just promote harassment?"
-    moon "等等,这不会增加骚扰吗?"
+    moon "等等,这不就助长了骚扰行为吗?"
 
 # game/scripts/bar.rpy:6314
 translate schinese moontrain4_a4ae8e73:
 
     # c "No, no. The hope is that they'll forget why they're here and start passively drinking without much thought. When they run out of a drink without properly enjoying it, they'll order another."
-    c "不,不会.他们会忘记他们为什么会在这里,然后开始无意识地喝酒.当他们喝完一杯酒却没有好好享用它时,他们会再点一杯的."
+    c "不,不会.他们会忘记他们为什么会在这里,然后开始无意识地喝酒.当他们喝完酒却没有好好享用它时,他们会再点一杯的."
 
 # game/scripts/bar.rpy:6316
 translate schinese moontrain4_2ffa94a4:
@@ -17745,7 +17745,7 @@ translate schinese moontrain4_ba365199:
 translate schinese moontrain4_8486df5a:
 
     # moon "Oh, that's it? No 'Do better Ms. Moon!' ?"
-    moon "哦,真的吗?没有'做得更好,文小姐!'了?"
+    moon "哦,真的吗?没有'文小姐,加油!'了?"
 
 # game/scripts/bar.rpy:6319
 translate schinese moontrain4_5491d8ed:
@@ -17799,7 +17799,7 @@ translate schinese moonintro_6d9be936:
 translate schinese moonintro_181da72a:
 
     # pat "Actually, I- *hic* I was thinking..."
-    pat "实际上,我-*打嗝*我在想......"
+    pat "实际上,我-*打嗝*我想......"
 
 # game/scripts/bar.rpy:6337
 translate schinese moonintro_e6efa8c2:
@@ -17811,7 +17811,7 @@ translate schinese moonintro_e6efa8c2:
 translate schinese moonintro_30b03fe6:
 
     # pat "Waddya say? Hm? Come back t-"
-    pat "你怎么说?嗯?去-"
+    pat "你怎么说?嗯?回来-"
 
 # game/scripts/bar.rpy:6341
 translate schinese moonintro_5f702acb:
@@ -17829,7 +17829,7 @@ translate schinese moonintro_79236622:
 translate schinese moonintro_d6ee3e53:
 
     # pat "AGH! What the..."
-    pat "啊!什么......"
+    pat "{b}啊!{/b}什么......"
 
 # game/scripts/bar.rpy:6346
 translate schinese moonintro_9907d821:
@@ -17841,7 +17841,7 @@ translate schinese moonintro_9907d821:
 translate schinese moonintro_201b3a65:
 
     # moon "Are you hurt? Would you like another beer?"
-    moon "你受伤了吗?你想要再来一杯吗?"
+    moon "你受伤了吗?想要再来一杯吗?"
 
 # game/scripts/bar.rpy:6349
 translate schinese moonintro_009392c9:
@@ -17875,15 +17875,15 @@ translate schinese strings:
 
     # game/scripts/bar.rpy:1613
     old "Took it up the ass"
-    new "被肛交过"
+    new "被操过屁股"
 
     # game/scripts/bar.rpy:1613
     old "Kissed the same sex"
-    new "亲吻同性"
+    new "亲吻同性过"
 
     # game/scripts/bar.rpy:1613
     old "Shoplifted"
-    new "入店盗窃"
+    new "入店盗窃过"
 
     # game/scripts/bar.rpy:1613
     old "Had a threesome"
@@ -17891,19 +17891,19 @@ translate schinese strings:
 
     # game/scripts/bar.rpy:1613
     old "Peed on someone"
-    new "尿别人身上"
+    new "尿别人身上过"
 
     # game/scripts/bar.rpy:1613
     old "Been arrested"
-    new "被逮捕"
+    new "被逮捕过"
 
     # game/scripts/bar.rpy:1613
     old "Had sex in public"
-    new "在公共场合做爱"
+    new "在公共场合做爱过"
 
     # game/scripts/bar.rpy:1613
     old "Gone down on a girl"
-    new "给一个女孩口交"
+    new "和女孩发生关系过"
 
     # game/scripts/bar.rpy:1631
     old "Drink"
@@ -17955,23 +17955,23 @@ translate schinese strings:
 
     # game/scripts/bar.rpy:2494
     old "ANOTHER ONE!"
-    new "再来!"
+    new "{b}再来!{/b}"
 
     # game/scripts/bar.rpy:2494
     old "ANOTHSUR WUNS!!"
-    new "再赖!!"
+    new "{b}再赖!!{/b}"
 
     # game/scripts/bar.rpy:2494
     old "ARNTHERR OEN!!!"
-    new "载濑!!!"
+    new "{b}载濑!!!{/b}"
 
     # game/scripts/bar.rpy:2567
     old "{color=#8C8C8C}Call Ellen and Maria{/color}"
-    new "{color=#8C8C8C}叫艾兰和玛丽亚{/color}"
+    new "{color=#8C8C8C}叫艾兰和玛丽亚过来{/color}"
 
     # game/scripts/bar.rpy:2567
     old "Call Ellen and Maria"
-    new "叫艾兰和玛丽亚"
+    new "叫艾兰和玛丽亚过来"
 
     # game/scripts/bar.rpy:2661
     old "Spank her "
@@ -18087,7 +18087,7 @@ translate schinese strings:
 
     # game/scripts/bar.rpy:5883
     old "I would treat you with love and respect."
-    new "我以爱和尊重对待你"
+    new "我以爱和尊重对待你们"
 
     # game/scripts/bar.rpy:5883
     old "I bet I could snap your choker with my cock."
