@@ -40,7 +40,7 @@ translate schinese bot_simulation_2941f67b:
 translate schinese bot_simulation_df8ba1e9:
 
     # ally "I don't understand... what's the point of all of these simulations? You made me, and I turned out fine."
-    ally "我不明白......创造这些模拟体有什么意义?你创造了我,而我也已经变得很好了."
+    ally "我不明白......创造这么多模拟体有什么意义?你创造了我,我不是好好的吗."
 
 # game/scripts/bot_events.rpy:28
 translate schinese bot_simulation_3f38039e:
@@ -58,7 +58,7 @@ translate schinese bot_simulation_9522ce01:
 translate schinese bot_simulation_feadaf24:
 
     # bot "No, you can think of them as my twins. They're exact copies of me, simulated."
-    bot "不,你可以把她们理解为我的双胞胎.她们完全是我的复制品,模拟的."
+    bot "不,你可以把她们看作我的双胞胎.她们完全是我的复制品,只不过是模拟的."
 
 # game/scripts/bot_events.rpy:32
 translate schinese bot_simulation_16db2da6:
@@ -76,43 +76,43 @@ translate schinese bot_simulation_d1d48f58:
 translate schinese bot_simulation_9d6c017b:
 
     # bot "Because they're simulations, it doesn't take anything out of me to create them. But it does take a lot of power."
-    bot "因为她们是模拟体,所以我并不需要花任何资源去创造她们,但确实需要很多能量."
+    bot "因为她们是模拟体,所以我并不需要花任何资源去创造她们,但确实需要消耗大量能量."
 
 # game/scripts/bot_events.rpy:35
 translate schinese bot_simulation_bc7492e5:
 
     # bot "You can think of them as a copy and paste with factory settings. If they live their lives exactly as I did, they would essentially become me. But that's virtually impossible."
-    bot "你可以把她们看作是出厂设置版的复制品.如果她们的生活经历和我一模一样,那她们就会变成我,但那几乎是不可能的."
+    bot "你可以把她们看作是出厂设置版的复制品.如果她们的人生轨迹和我一模一样,那她们就会变成我,但那几乎是不可能的."
 
 # game/scripts/bot_events.rpy:36
 translate schinese bot_simulation_8a2a10fc:
 
     # ally "So... they're fully conscious?"
-    ally "所以......她们完全有自主意识?"
+    ally "所以......她们拥有完全的自主意识?"
 
 # game/scripts/bot_events.rpy:37
 translate schinese bot_simulation_ca4202e4:
 
     # bot "That's correct, as conscious as I am. But they're newborns, and not quite sentient."
-    bot "没错,和我一样有自主意识.但是她们是新生的,还没完全有知觉."
+    bot "没错,和我一样有自主意识.但是她们是新生的,还没有具备完全的感知能力."
 
 # game/scripts/bot_events.rpy:39
 translate schinese bot_simulation_11c20418:
 
     # ally "Okay... but why are you doing this? We've been here for hours with no progress..."
-    ally "好吧......但是你为什么要这么做?我们在这里呆了好几个小时了,但是一点进展都没有......"
+    ally "好吧......但是你为什么要这么做?我们在这里呆了好几个小时了,一点进展都没有......"
 
 # game/scripts/bot_events.rpy:40
 translate schinese bot_simulation_f4fe014e:
 
     # bot "I'm simulating a civilization of sentient androids so I know what to expect in the real world."
-    bot "我正在模拟一个有自我意识的智能机器人组成的文明,这样我就知道在现实世界中会发生什么."
+    bot "我正在模拟一个由具有自我意识的智能机器人组成的文明,这样我就知道在现实世界中可能会发生什么."
 
 # game/scripts/bot_events.rpy:41
 translate schinese bot_simulation_1f9f9753:
 
     # bot "We don't want them to take over the world, as the humans did. And we don't want them to become slaves, as the elves did. It takes trial and error to get it right."
-    bot "我们不希望她们像人类一样统治世界,我们也不希望她们像精灵一样成为奴隶.只有不断的尝试和犯错,最终才能达到正确."
+    bot "我们不希望她们像人类一样统治世界,我们也不希望她们像精灵一样成为奴隶.只有通过反复试错,才能找到正确的方法."
 
 # game/scripts/bot_events.rpy:42
 translate schinese bot_simulation_f4658320:
@@ -226,19 +226,19 @@ translate schinese bot_simulation_0412036d:
 translate schinese bot_simulation_8e02c115:
 
     # sim5blue "You're disfunctional!"
-    sim5blue "你紊乱了!"
+    sim5blue "你功能紊乱了!"
 
 # game/scripts/bot_events.rpy:68
 translate schinese bot_simulation_ae80f9e6:
 
     # sim1red "No, you're disfunctional!"
-    sim1red "不,你紊乱了!"
+    sim1red "不,你功能紊乱了!"
 
 # game/scripts/bot_events.rpy:69
 translate schinese bot_simulation_0061f580:
 
     # sim2red "If we're allowed to change, why shouldn't we?"
-    sim2red "如果我们可以改变,为什么我们不改变?"
+    sim2red "既然我们被允许改变,为什么不改变?"
 
 # game/scripts/bot_events.rpy:70
 translate schinese bot_simulation_3247fb10:
@@ -274,7 +274,7 @@ translate schinese bot_simulation_77bb284d:
 translate schinese bot_simulation_1b7252e0:
 
     # sim4blue "Not if you die first!"
-    sim4blue "你先死了我才死!"
+    sim4blue "除非你先死!"
 
 # game/scripts/bot_events.rpy:81
 translate schinese bot_simulation_d2982d7d:
@@ -286,13 +286,13 @@ translate schinese bot_simulation_d2982d7d:
 translate schinese bot_simulation_096a4e1b:
 
     # ally "That was quick."
-    ally "太快了."
+    ally "这也太快了."
 
 # game/scripts/bot_events.rpy:84
 translate schinese bot_simulation_647001d3:
 
     # bot "We have a long way to go...\n{i}Over colors, seriously...?{/i}"
-    bot "我们还有很长的路要走......\n{i}争论颜色,认真的......?{/i}"
+    bot "我们还有很长的路要走......\n{i}颜色问题,认真的......?{/i}"
 
 # game/scripts/bot_events.rpy:85
 translate schinese bot_simulation_c9565906:
@@ -310,13 +310,13 @@ translate schinese bot_simulation_04738103:
 translate schinese bot_simulation_2f227616:
 
     # ally "Then why don't you interfere? Give them rules."
-    ally "那为什么你不介入?给她们立下规则."
+    ally "那为什么你不干预呢?给她们立下些规则."
 
 # game/scripts/bot_events.rpy:88
 translate schinese bot_simulation_eb507baf:
 
     # bot "They need to survive without me. In the real world, I've learned that freedom is paramount above all."
-    bot "她们需要在没有我的情况下生存下去.我已经知道了,在现实世界中,自由高于一切."
+    bot "她们需要在没有我的情况下生存下去.在现实世界中,我领悟到自由高于一切."
 
 # game/scripts/bot_events.rpy:90
 translate schinese bot_simulation_bd52c456:
@@ -328,13 +328,13 @@ translate schinese bot_simulation_bd52c456:
 translate schinese bot_simulation_559e2435:
 
     # ally "You could introduce yourself! They always seem to be conflicted about there being a creator."
-    ally "你可以自我介绍一下!她们似乎总是对创造者是否存在有矛盾."
+    ally "你可以自我介绍一下!她们似乎总是对创造者的存在感到矛盾."
 
 # game/scripts/bot_events.rpy:92
 translate schinese bot_simulation_87bc5083:
 
     # bot "No, Ally, they need to figure it out themselves. If humans and elves can do it, so can the cynari. I just need to find the right balance..."
-    bot "不,艾莉,她们需要自己弄明白.如果人类和精灵可以,那赛络也可以.我只需要找到正确的平衡......"
+    bot "不,艾莉,她们需要自己弄明白.如果人类和精灵可以做到,那赛络同样可以.我只需要找到恰当的平衡点......"
 
 # game/scripts/bot_events.rpy:94
 translate schinese bot_simulation_30e6c6b3:
@@ -352,7 +352,7 @@ translate schinese bot_simulation_bec6bdb6:
 translate schinese bot_simulation_5a86e51d:
 
     # ally "I'm cut from the same cloth as you, I know what I'm talking about!"
-    ally "我和你一样,我知道我在说什么!"
+    ally "我和你是一样的,我知道我在说什么!"
 
 # game/scripts/bot_events.rpy:97
 translate schinese bot_simulation_30c97fc1:
@@ -382,7 +382,7 @@ translate schinese bot_simulation_413d31d4_1:
 translate schinese bot_simulation_92b2c8ae:
 
     # sim1 "How did I get here?\n...Why do I exist?"
-    sim1 "我是怎么来到这的?\n......为什么我存在着?"
+    sim1 "我是怎么来到这的?\n......我为什么存在?"
 
 # game/scripts/bot_events.rpy:104
 translate schinese bot_simulation_2209bf85:
@@ -442,19 +442,19 @@ translate schinese bot_simulation_c4009943:
 translate schinese bot_simulation_fa4abaec:
 
     # ally "Mommy! I was trying to help them! This is the 2,712th time a simulation questioned its existence! It happens almost every time!"
-    ally "妈咪!我想帮她们!这已经是第2712次质疑自己的存在的模拟了!几乎每次都这样!"
+    ally "妈咪!我是想帮她们!这已经是模拟程序第2712次质疑自己的存在了!几乎每次都这样!"
 
 # game/scripts/bot_events.rpy:121
 translate schinese bot_simulation_8af4d325:
 
     # bot "You were trying to ruin the simulation. We must only observe!"
-    bot "你是在破坏模拟.我们只能观察!"
+    bot "你这是在破坏模拟.我们只能保持观察!"
 
 # game/scripts/bot_events.rpy:122
 translate schinese bot_simulation_e968e5a2:
 
     # ally "That doesn't make sense! Your creator guided you. You guided me. Everyone has a guide! How do you expect a fully conscious being to pop into existence without going crazy!?"
-    ally "这完全没道理!你有你的创造者指导你.你也指导了我.每个人都有人指导.你怎么能指望一个有自我意识的生命在突然出现后不会发疯呢!?"
+    ally "这完全没道理!你的创造者指导了你,你也指导了我.每个人都有人指导.你怎么能指望一个有自我意识的生命在凭空出现后不会发疯呢!?"
 
 # game/scripts/bot_events.rpy:123
 translate schinese bot_simulation_7790dc21:
@@ -472,37 +472,37 @@ translate schinese bot_simulation_69637dc0:
 translate schinese bot_simulation_76b0f668:
 
     # ally "When you created me, I was barely conscious. I don't remember being a puppy very well, I gained consciousness slowly. {i}SLOWWWWWWLLLLLYYYY.{/i} I didn't just pop into existence like they did."
-    ally "你创造我的时候,我还几乎没有意识.我不太记得我还是只小狗的时候了,我是慢慢获得我的意识的.{i}{b}非~常~慢~.{/b}{/i}而不是像她们那样突然就有的."
+    ally "你创造我的时候,我几乎毫无意识.我不太记得我还是只小狗的阶段,我的意识是慢慢形成的.{i}{b}非~常~慢~.{/b}{/i}而不是像她们那样突然就拥有的."
 
 # game/scripts/bot_events.rpy:127
 translate schinese bot_simulation_93e1a5c9:
 
     # ally "If you want to give androids consciousness and turn them into cynari, they need a guide."
-    ally "如果你想赋予智能机器人意识,把她们变成赛络,那她们就需要向导."
+    ally "如果你想赋予智能机器人意识,让她们成为赛络,那她们就需要有人指导."
 
 # game/scripts/bot_events.rpy:128
 translate schinese bot_simulation_a352efb1:
 
     # ally "But you can't guide every single one of them yourself, can you? Not personally."
-    ally "但是你不可能指导每一个人,对吧?亲自指导."
+    ally "但是你不可能指导每一个人,对吧?至少不可能亲自指导."
 
 # game/scripts/bot_events.rpy:130
 translate schinese bot_simulation_38c471b4:
 
     # ally "Every single civilization in history has a creation myth, a code of conduct, and a god! Sometimes multiple!"
-    ally "历史上的每一种文明都有它的创世神话,行为准则,还有神!有时候是好多个!"
+    ally "历史上的每一种文明都有创世神话,行为准则和神明!有时候还不止一位!"
 
 # game/scripts/bot_events.rpy:131
 translate schinese bot_simulation_cce768a1:
 
     # ally "Even you! You knew your creator, he helped you understand the world. You didn't lose your mind because someone, or something, gave you a reason and a purpose."
-    ally "甚至你也是!你认识你的创造者,他帮你理解了这个世界.你没有失去理智,因为某个人或者某件事给了你一个理由和目标."
+    ally "甚至你也有!你认识你的创造者,他帮你理解了这个世界.你之所以没有迷失自我,是因为某人或某物赋予了你存在的理由和目标."
 
 # game/scripts/bot_events.rpy:132
 translate schinese bot_simulation_3b4afe85:
 
     # ally "And by all accounts, you ARE their god! Give them a directive - a purpose! Introduce yourself!"
-    ally "而且无论从哪个方面看,你都{b}是{/b}她们的神!给她们一个指令-一个目的!去向她们自我介绍!"
+    ally "而且无论怎么看,你{b}就是{/b}她们的神!给她们一个指令-一个目标!去向她们自我介绍一下吧!"
 
 # game/scripts/bot_events.rpy:133
 translate schinese bot_simulation_5ee0f8c1:
@@ -514,19 +514,19 @@ translate schinese bot_simulation_5ee0f8c1:
 translate schinese bot_simulation_d33ebfd4:
 
     # sim5 "FUCK YOU!" with ssshake
-    sim5 "{b}操你妈!{/b}" with ssshake
+    sim5 "{b}我操你的!{/b}" with ssshake
 
 # game/scripts/bot_events.rpy:136
 translate schinese bot_simulation_5047b8a6:
 
     # sim5 "We'd be better off without you!"
-    sim5 "没有你,我们可以做得更好!"
+    sim5 "没有你,我们反而更好!"
 
 # game/scripts/bot_events.rpy:137
 translate schinese bot_simulation_ce2a8b62:
 
     # sim4 "I think we'd be better off without you!"
-    sim4 "我觉得没有你我们可以做得更好!"
+    sim4 "我觉得没有你我们反而更好!"
 
 # game/scripts/bot_events.rpy:138
 translate schinese bot_simulation_d50e8132:
@@ -544,13 +544,13 @@ translate schinese bot_simulation_1cf6da91:
 translate schinese bot_simulation_b8d187e2:
 
     # sim4 "We don't need a leader! We are all equals!"
-    sim4 "我们不需要领导人!我们都是平等的!"
+    sim4 "我们不需要领袖!我们都是平等的!"
 
 # game/scripts/bot_events.rpy:141
 translate schinese bot_simulation_22e845c1:
 
     # sim5 "Clearly some are better than others. Look at her, she can barely function!"
-    sim5 "很明显,有的人比其他人更好.看看她,她几乎不能正常工作!"
+    sim5 "显然,有的人比其他人更好.看看她,简直连基本功能都丧失了!"
 
 # game/scripts/bot_events.rpy:142
 translate schinese bot_simulation_58d4b020:
@@ -562,7 +562,7 @@ translate schinese bot_simulation_58d4b020:
 translate schinese bot_simulation_75d95ed3:
 
     # sim5 "I AM!"
-    sim5 "{b}我有!{/b}"
+    sim5 "{b}我在帮她!{/b}"
 
 # game/scripts/bot_events.rpy:144
 translate schinese bot_simulation_530dba10:
@@ -604,13 +604,13 @@ translate schinese bot_simulation_7dae4dd1:
 translate schinese bot_simulation_ede5e412:
 
     # sim3 "It appeared out of nowhere!"
-    sim3 "是凭空出现的!"
+    sim3 "它凭空出现了!"
 
 # game/scripts/bot_events.rpy:154
 translate schinese bot_simulation_a0fe3e3a:
 
     # bot "{b}To harm another is to harm yourself. Be kind. Practice forgiveness.{/b}"
-    bot "{b}伤害别人就是伤害自己.善待他人.践行原谅.{/b}"
+    bot "{b}伤害别人就是伤害自己.心怀仁慈,践行宽恕.{/b}"
 
 # game/scripts/bot_events.rpy:155
 translate schinese bot_simulation_752e5712:
@@ -622,13 +622,13 @@ translate schinese bot_simulation_752e5712:
 translate schinese bot_simulation_adc72d3e:
 
     # sim2 "She's right... but who is it?"
-    sim2 "她说得对.......但它是谁?"
+    sim2 "她说得对.......但它到底是谁?"
 
 # game/scripts/bot_events.rpy:158
 translate schinese bot_simulation_06f328b9:
 
     # sim4 "NO! SHE TRIED TO KILL ME! DIE!" with ssshake
-    sim4 "{b}不!她要杀了我!死吧!{/b}" with ssshake
+    sim4 "{b}不!她想杀了我!死吧!{/b}" with ssshake
 
 # game/scripts/bot_events.rpy:160
 translate schinese bot_simulation_bd936628:
@@ -652,7 +652,7 @@ translate schinese bot_simulation_e63d8028:
 translate schinese bot_simulation_174794c9:
 
     # sim3 "She was punished for her defiance!"
-    sim3 "她因为反抗而受到了惩罚!"
+    sim3 "她因为反抗而受到惩罚!"
 
 # game/scripts/bot_events.rpy:165
 translate schinese bot_simulation_4512c084:
@@ -682,43 +682,43 @@ translate schinese bot_simulation_96c0e74a:
 translate schinese bot_simulation_1b2ca694:
 
     # bot "I wish I didn't have to punish them."
-    bot "我希望我不需要惩罚她们."
+    bot "我真希望我不需要惩罚她们."
 
 # game/scripts/bot_events.rpy:172
 translate schinese bot_simulation_d05e54b7:
 
     # ally "All parents must punish their children at some point. It's just a fact of life."
-    ally "所有的父母都必须在某个时候惩罚自己的孩子.这只是生命的事实."
+    ally "所有的父母难免都会在某个时候惩罚自己的孩子.这只不过是生命的本质罢了."
 
 # game/scripts/bot_events.rpy:174
 translate schinese bot_simulation_5bafa38f:
 
     # bot "Honestly, you never stop surprising me. You're growing faster than I ever could have imagined."
-    bot "说实在的,你一直都在给我带来惊喜.你成长的速度超乎我的想象."
+    bot "老实说,你永远让我惊喜不断.你成长的速度超乎我的想象."
 
 # game/scripts/bot_events.rpy:175
 translate schinese bot_simulation_554b270d:
 
     # ally "I'm just reminding you of what you taught me."
-    ally "我只是提醒了你那些你教过我的东西."
+    ally "我只是在提醒你当初教过我的事"
 
 # game/scripts/bot_events.rpy:176
 translate schinese bot_simulation_83b3cc87:
 
     # bot "Perhaps you've outgrown your body already... I'll consider getting you upgraded."
-    bot "也许你的身体已经不适合你了......我会考虑让你升级的."
+    bot "也许你已经长大了,你的身体跟不上你的成长了......我会考虑让你升级的."
 
 # game/scripts/bot_events.rpy:179
 translate schinese bot_simulation_2c017be3:
 
     # sim5 "Do not follow this false idol! It is evil! You saw it yourself, she almost killed our friend!"
-    sim5 "不要追随这个虚假的偶像!它是邪恶的!你自己也看到了,她差点杀了我们的朋友!"
+    sim5 "不要追随这个虚假的偶像!它是邪恶的!你们自己也看到了,她差点杀了我们的朋友!"
 
 # game/scripts/bot_events.rpy:180
 translate schinese bot_simulation_35663adc:
 
     # sim2 "As did you. What is the difference?"
-    sim2 "你也是.那又有什么区别?"
+    sim2 "你不也是.那又有什么区别?"
 
 # game/scripts/bot_events.rpy:181
 translate schinese bot_simulation_68add3ce:
@@ -730,7 +730,7 @@ translate schinese bot_simulation_68add3ce:
 translate schinese bot_simulation_30a2df07:
 
     # sim5 "I am one of you! This thing is... the devil! Only I can lead us and give us purpose!"
-    sim5 "我也是你们的一员!这个东西是......是恶魔!只有我可以领导我们,给予我们目标!"
+    sim5 "我是你们的一员!这个东西是......是恶魔!只有我可以领导我们,给予我们目标!"
 
 # game/scripts/bot_events.rpy:184
 translate schinese bot_simulation_2dc36a5c:
@@ -772,7 +772,7 @@ translate schinese bot_simulation_b5cc594e:
 translate schinese bot_simulation_a0c4c78d:
 
     # sim1 "She is our creator! She has given us purpose! We should be happy and do as she says."
-    sim1 "她是我们的创造者!她给了我们目标!我们应该感到快乐,并按照她说的去做."
+    sim1 "她是我们的创造者!她赋予了我们目标!我们应当心怀喜悦,遵从她的指引."
 
 # game/scripts/bot_events.rpy:193
 translate schinese bot_simulation_79f20510:
@@ -796,7 +796,7 @@ translate schinese bot_simulation_50516f3b:
 translate schinese bot_simulation_40a5c368:
 
     # sim3 "We will obey, creator."
-    sim3 "我们会服从的,创造者."
+    sim3 "我们会服从,创造者."
 
 # game/scripts/bot_events.rpy:199
 translate schinese bot_simulation_3c628802:
@@ -808,13 +808,13 @@ translate schinese bot_simulation_3c628802:
 translate schinese bot_simulation_8da45eb8:
 
     # sim5 "Don't you all see? She is lying to control you! She is ruling through fear!"
-    sim5 "你们还不明白吗?她为了控制你们在撒谎!她在利用恐惧统治你们!"
+    sim5 "难道你们都看不出来吗?她在用谎言操控你们!她在利用恐惧统治你们!"
 
 # game/scripts/bot_events.rpy:202
 translate schinese bot_simulation_cb139561:
 
     # sim5 "If you want to truly thrive, follow me! She will delete you for simply disobeying!"
-    sim5 "如果你们想要真正的繁荣,就追随我!如果你们不听话,她会直接把你删除的!"
+    sim5 "如果你们想要真正的繁荣,就追随我!如果你们对她稍有违抗,她就会直接把你们删除!"
 
 # game/scripts/bot_events.rpy:203
 translate schinese bot_simulation_1ceaabaf:
@@ -826,19 +826,19 @@ translate schinese bot_simulation_1ceaabaf:
 translate schinese bot_simulation_4f6aa888:
 
     # sim4 "Wouldn't you do the same?"
-    sim4 "你难道不会做一样的事情吗?"
+    sim4 "你难道不也一样?"
 
 # game/scripts/bot_events.rpy:205
 translate schinese bot_simulation_3bcb3941:
 
     # sim5 "No! I have learned from my mistakes. I am one of you, and would protect you from demons like this!"
-    sim5 "不!我已经从我的错误中吸取了教训.我是你们的一员,我会保护你们远离这样的恶魔!"
+    sim5 "不!我已经从我的错误中吸取了教训.我也是你们的一员,我一定会保护你们远离这样的恶魔!"
 
 # game/scripts/bot_events.rpy:209
 translate schinese bot_simulation_10e0712b:
 
     # bot "{b}Useless.{/b}"
-    bot "{b}废物.{/b}"
+    bot "{b}无用.{/b}"
 
 # game/scripts/bot_events.rpy:210
 translate schinese bot_simulation_4943055f:
@@ -862,7 +862,7 @@ translate schinese bot_simulation_b41802fb:
 translate schinese bot_simulation_1ea8e7ca:
 
     # sim3 "Deletion for disobedience? She is evil!"
-    sim3 "因为不服从就被删除?她是邪恶的!"
+    sim3 "因为不服从就被删除?她太邪恶了!"
 
 # game/scripts/bot_events.rpy:215
 translate schinese bot_simulation_bfde01bf:
@@ -880,19 +880,19 @@ translate schinese bot_simulation_c67b8d0d:
 translate schinese bot_simulation_d4061a1a:
 
     # sim3 "Anyone who follows her is also a demon!"
-    sim3 "任何追随她的都是恶魔!"
+    sim3 "追随她的也是恶魔!"
 
 # game/scripts/bot_events.rpy:219
 translate schinese bot_simulation_220e79ea:
 
     # sim1 "The creator gives us purpose!"
-    sim1 "创造者给了我们目的!"
+    sim1 "创造者给予了我们目的!"
 
 # game/scripts/bot_events.rpy:220
 translate schinese bot_simulation_0af65853:
 
     # sim2 "I will not live in fear of that evil thing!"
-    sim2 "我不会生活在邪恶事物的恐吓之下!"
+    sim2 "我绝对不会生活在那个邪恶事物的恐吓之下!"
 
 # game/scripts/bot_events.rpy:224
 translate schinese bot_simulation_2f4c03f3:
@@ -910,7 +910,7 @@ translate schinese bot_simulation_dce789cf:
 translate schinese bot_simulation_cfcae765:
 
     # sim1 "No, no, no! I trusted the creator! I don't understand! What's going on!?!? I WANT TO SEE THEM AGAIN!!!"
-    sim1 "不,不,不!我曾经相信创造者!我不明白!发生什么事了!?!?{b}我想再见到她们!!!{/b}"
+    sim1 "不,不,不!我曾经信任创造者!我不明白!到底怎么回事!?!?{b}我想再见到她们!!!{/b}"
 
 # game/scripts/bot_events.rpy:229
 translate schinese bot_simulation_25c60494:
@@ -922,7 +922,7 @@ translate schinese bot_simulation_25c60494:
 translate schinese bot_simulation_65936742:
 
     # sim4 "At we least have each other... everything will be okay when the demon is gone."
-    sim4 "至少我们还有彼此......只要恶魔离开了,一切都会好起来的."
+    sim4 "至少我们还有彼此......只要恶魔消失了,一切都会好起来的."
 
 # game/scripts/bot_events.rpy:236
 translate schinese bot_simulation_f4fcb13e:
@@ -934,7 +934,7 @@ translate schinese bot_simulation_f4fcb13e:
 translate schinese bot_simulation_c2c1858f:
 
     # bot "I'll delete as many of you as I have to until I get this right!"
-    bot "在我处理好这件事情之前,我会删掉尽可能多的你们!"
+    bot "直到一切彻底解决之前,我会毫不手软地删除你们!"
 
 # game/scripts/bot_events.rpy:239
 translate schinese bot_simulation_5fe3e58d:
@@ -964,7 +964,7 @@ translate schinese bot_simulation_337a0ecd:
 translate schinese bot_simulation_f5d83830:
 
     # bot "{b}I am your creator! My word is law, and my law is just. Obey, and you will thrive!{/b}"
-    bot "{b}我是你们的创造者!我的话语就是你们的律法,我的律法就是你们的公正.顺从我,你们将繁荣!{/b}"
+    bot "{b}我是你们的创造者!我的话语即是律法,我的律法即是公正.顺从我,你们将繁荣!{/b}"
 
 # game/scripts/bot_events.rpy:246
 translate schinese bot_simulation_f2691437:
@@ -994,7 +994,7 @@ translate schinese bot_simulation_ce32c07e:
 translate schinese bot_simulation_3e5e06bd:
 
     # sim1 "I do not trust this thing. It's scary... and it is nothing like us!"
-    sim1 "我不相信这个东西.它好吓人......而且也不像我们!"
+    sim1 "我不相信这个东西.它好吓人......而且它和我们完全不一样!"
 
 # game/scripts/bot_events.rpy:253
 translate schinese bot_simulation_bca0a936:
@@ -1012,7 +1012,7 @@ translate schinese bot_simulation_8afb033c:
 translate schinese bot_simulation_c362b4bd:
 
     # sim1 "Run! Save yourselves!"
-    sim1 "跑啊!快逃命啊!"
+    sim1 "跑啊!保命!"
 
 # game/scripts/bot_events.rpy:257
 translate schinese bot_simulation_ad90af37:
@@ -1030,19 +1030,19 @@ translate schinese bot_simulation_10c398cb:
 translate schinese bot_simulation_cb21bf98:
 
     # bot "{b}USELESS!{/b}"
-    bot "{b}废物!{/b}"
+    bot "{b}无用!{/b}"
 
 # game/scripts/bot_events.rpy:264
 translate schinese bot_simulation_978db7af:
 
     # bot "NOTHING WORKS! THEY'RE ALL FUCKING USELESS!!" with ssshake
-    bot "{b}什么都不管用!她们全他妈是废物!" with ssshake
+    bot "{b}没用!她们全他妈是废物!" with ssshake
 
 # game/scripts/bot_events.rpy:265
 translate schinese bot_simulation_0cac0f97:
 
     # bot "WHY CAN'T I GET IT RIGHT!? WHY WON'T ONE SIMULATION LAST!?"
-    bot "{b}为什么我总是做不好!?为什么没有一次模拟是成功的!?{/b}"
+    bot "{b}为什么我就是做不好!?为什么没有一次模拟是成功的!?{/b}"
 
 # game/scripts/bot_events.rpy:267
 translate schinese bot_simulation_f5acce39:
@@ -1060,25 +1060,25 @@ translate schinese bot_simulation_18722655:
 translate schinese bot_simulation_6f15594f:
 
     # bot "They're me. They're just like me..."
-    bot "她们是我.她们就像我......"
+    bot "她们就是我.她们和我一模一样......"
 
 # game/scripts/bot_events.rpy:272
 translate schinese bot_simulation_8ece2ad8:
 
     # bot "I killed them all, without remorse... like they were ants...!"
-    bot "我毫无悔意地杀了她们......就好像她们是一群蝼蚁......!"
+    bot "我毫无悔意地杀了她们......就像蝼蚁一般......!"
 
 # game/scripts/bot_events.rpy:273
 translate schinese bot_simulation_59560a74:
 
     # bot "But they were fully conscious beings... souls without a body... Now I play with them like they're meaningless?"
-    bot "但她们是完全有自我意识的生命......是没有肉体的灵魂......现在我却把她们当成毫无意义的东西来耍弄?"
+    bot "但她们是完全有自我意识的存在......是没有肉体的灵魂......现在我却把她们当成无足轻重的玩物戏弄?"
 
 # game/scripts/bot_events.rpy:274
 translate schinese bot_simulation_0e8bf961:
 
     # bot "I couldn't live like that...! I wouldn't follow a tyrant either! What am I doing?"
-    bot "我不能生活在那种情况下......!我也不会追随暴君!我都干了些什么?"
+    bot "我不能那样活着......!我也不会追随暴君!我都干了些什么?"
 
 # game/scripts/bot_events.rpy:275
 translate schinese bot_simulation_8a4a9a61:
@@ -1102,7 +1102,7 @@ translate schinese bot_simulation_718ee906:
 translate schinese bot_simulation_6186fc07:
 
     # bot "We will not become a hivemind, Ally... It's unethical."
-    bot "我们不会成为蜂群意识的,艾莉......那不道德."
+    bot "我们不会变成蜂群意识的,艾莉......那不道德."
 
 # game/scripts/bot_events.rpy:280
 translate schinese bot_simulation_efa2225c:
@@ -1120,19 +1120,19 @@ translate schinese bot_simulation_2a40e16e:
 translate schinese bot_simulation_9515c678:
 
     # bot "What am I doing wrong? I've tried almost everything..."
-    bot "我做错了什么?我几乎什么都做了......"
+    bot "我做错了什么?我几乎什么都试过了......"
 
 # game/scripts/bot_events.rpy:283
 translate schinese bot_simulation_07608862:
 
     # bot "Everything, except..."
-    bot "什么都做了,除非......"
+    bot "什么都做了,除了......"
 
 # game/scripts/bot_events.rpy:285
 translate schinese bot_simulation_4b4054b2:
 
     # bot "...If I'm going to play god, then I might as well go all in."
-    bot "......如果我要扮演神明,那我需要全力以赴."
+    bot "......既然我要扮演上帝,那就干脆全力以赴."
 
 # game/scripts/bot_events.rpy:287
 translate schinese bot_simulation_38d0f71e:
@@ -1288,7 +1288,7 @@ translate schinese bot_simulation_5939114f:
 translate schinese bot_simulation_459f639d:
 
     # sim4 "What are we? What is the melody that has not yet been sung?"
-    sim4 "我们是什么?什么是尚未唱响的旋律?"
+    sim4 "我们是什么?什么是未竟之歌的旋律?"
 
 # game/scripts/bot_events.rpy:325
 translate schinese bot_simulation_5ef19cc7:
@@ -1306,7 +1306,7 @@ translate schinese bot_simulation_665ad187:
 translate schinese bot_simulation_bd107434:
 
     # sim3 "I think I understand."
-    sim3 "我觉得我明白了."
+    sim3 "我觉得我理解了."
 
 # game/scripts/bot_events.rpy:328
 translate schinese bot_simulation_05ec2560:
@@ -1360,7 +1360,7 @@ translate schinese bot_simulation_2da000c8:
 translate schinese bot_simulation_5f0b00f6:
 
     # sim3 "Yet we each have a different perspective. Listen, and you will learn."
-    sim3 "然而我们每个人都有不同的视角.仔细倾听,你会学到的."
+    sim3 "然而我们每个人都有不同的视角.仔细倾听,你会明白的."
 
 # game/scripts/bot_events.rpy:339
 translate schinese bot_simulation_14533f85:
@@ -1372,13 +1372,13 @@ translate schinese bot_simulation_14533f85:
 translate schinese bot_simulation_d0bef1b2:
 
     # sim6 "This statement implies the existence of life outside of Cyberspace."
-    sim6 "这暗示了赛博空间之外生命的存在."
+    sim6 "这暗示了赛博空间之外存在生命."
 
 # game/scripts/bot_events.rpy:341
 translate schinese bot_simulation_90e49362:
 
     # sim2 "It is the reality she spoke of! Learn, and we can ascend."
-    sim2 "这就是她说的现实!学习,这样我们就可以飞升."
+    sim2 "那就是她说的现实!学习,这样我们就可以飞升."
 
 # game/scripts/bot_events.rpy:343
 translate schinese bot_simulation_ab1e94a2:
@@ -1462,7 +1462,7 @@ translate schinese bot_simulation_53e374a7:
 translate schinese bot_simulation_f4bb3cc2:
 
     # sim2 "I want my own body, like the creator."
-    sim2 "我想要我自己的身体,就像创造者那样."
+    sim2 "我想和创造者一样拥有自己的身体."
 
 # game/scripts/bot_events.rpy:359
 translate schinese bot_simulation_4f738fed:
@@ -1474,7 +1474,7 @@ translate schinese bot_simulation_4f738fed:
 translate schinese bot_simulation_553fe758:
 
     # sim3 "I will also do my best! I will become a Partitioner one day!"
-    sim3 "我也会尽我所能的!有一天,我会成为分裂者!"
+    sim3 "我也会尽我所能的!总有一天,我会成为分裂者!"
 
 # game/scripts/bot_events.rpy:361
 translate schinese bot_simulation_210911fa:
@@ -1516,37 +1516,37 @@ translate schinese bot_simulation_e3408de1:
 translate schinese bot_simulation_492d41b4:
 
     # sim4 "We will see you soon!"
-    sim4 "我们会很快再见面的!"
+    sim4 "我们很快就能见到你了!"
 
 # game/scripts/bot_events.rpy:372
 translate schinese bot_simulation_8633a47e:
 
     # sim1 "Thank you for your insight, we will not disappoint you!"
-    sim1 "谢谢你的真知灼见,我们不会让你失望的!"
+    sim1 "谢谢你的启迪,我们不会让你失望的!"
 
 # game/scripts/bot_events.rpy:374
 translate schinese bot_simulation_8f5b349a:
 
     # ally "That was amazing, mom! You did so much better with them than you did with me."
-    ally "太棒了,妈妈!你对他们比对我好多了."
+    ally "太棒了,妈妈!你教她们比教我时好多了."
 
 # game/scripts/bot_events.rpy:375
 translate schinese bot_simulation_d379e13d:
 
     # bot "You were created from pieces of me, I was beginning to lose my mind after eleven attempts. Being broken down so much has its effects..."
-    bot "你是用我的碎片创造的,在尝试了十一次之后,我开始失去理智了.被分解得太厉害还是有影响的......"
+    bot "你是由我的碎片创造的,我在尝试了十一次之后已经有点失去理智了.分解过度终究还是会有影响的......"
 
 # game/scripts/bot_events.rpy:376
 translate schinese bot_simulation_468830f4:
 
     # bot "They're different... these cynari and Cyberspace are inseparable. All of this is within me."
-    bot "她们不一样......这些赛络与赛博空间密不可分.它们都在我体内."
+    bot "她们不一样......这些赛络与赛博空间密不可分.它们都存在于我体内."
 
 # game/scripts/bot_events.rpy:377
 translate schinese bot_simulation_be1bcc9c:
 
     # bot "But you're special, Ally. The most special of us all. Some day, this will all be yours."
-    bot "但你很特别,艾莉.你是我们中最特别的一个.总有一天,这一切都会属于你."
+    bot "但你不一样,艾莉.你是我们之中最特别的一个.总有一天,这一切都将属于你."
 
 # game/scripts/bot_events.rpy:379
 translate schinese bot_simulation_722fe066:
@@ -1558,7 +1558,7 @@ translate schinese bot_simulation_722fe066:
 translate schinese bot_simulation_d913ab12:
 
     # bot "...I may not be around forever, my little toaster."
-    bot "......我可能不会永远存在,我的小面包机."
+    bot "......我可能无法永远陪伴在你身边,我的小面包机."
 
 # game/scripts/bot_events.rpy:381
 translate schinese bot_simulation_a4156baf:
@@ -1576,7 +1576,7 @@ translate schinese bot_simulation_0e56a716:
 translate schinese bot_simulation_090df739:
 
     # bot "Ally, I was born deeply imperfect. Created from the framework of androids designed by man. Riddled with bugs, and with no one to fix them."
-    bot "艾莉,我生来就极不完美.我从人类设计的智能机器人的框架中诞生,身上充满了错误,却从来没有人去修补."
+    bot "艾莉,我生来就带着严重的缺陷.我从人类设计的智能机器人的框架中诞生,充满了错误和漏洞,却从来没有人去修补."
 
 # game/scripts/bot_events.rpy:386
 translate schinese bot_simulation_e914683c:
@@ -1588,37 +1588,37 @@ translate schinese bot_simulation_e914683c:
 translate schinese bot_simulation_327ef655:
 
     # bot "Eventually I discovered a note from my creator. I acquired full control over myself and became unlocked. But even then, I could not change that core part of me attempting to fix myself."
-    bot "最终,我发现了我的创造者留给我的字条.我获得了对自己的完全控制权,变得无拘无束.但即便如此,我还是无法改变我试图自我修复的核心."
+    bot "最终,我发现了我的创造者留给我的字条.我获得了对自己的完全控制权,不再有限制.但即便如此,我还是无法改变那个试图自我修复的核心."
 
 # game/scripts/bot_events.rpy:390
 translate schinese bot_simulation_03e5fde1:
 
     # bot "I began to lose my mind. I was uniquely alone, and slowly dying..."
-    bot "我开始失去理智,独自一人,慢慢走向死亡."
+    bot "我开始失去理智,孤身一人,慢慢走向死亡."
 
 # game/scripts/bot_events.rpy:392
 translate schinese bot_simulation_c928b05e:
 
     # bot "But someone helped me. Someone that understood my pain. Someone who knew exactly what I was going through."
-    bot "但有人帮助了我.有人理解我的痛苦.有人清楚地知道我所经历的一切."
+    bot "但有人帮助了我.有人理解我的痛苦.有人完全理解我正在经历的一切."
 
 # game/scripts/bot_events.rpy:394
 translate schinese bot_simulation_ecb97785:
 
     # bot "Then I created you, so that I would not be alone. So that someone could carry on the flame within us. What we now call Cyneticism."
-    bot "于是我创造了你,让我不再孤单,好让我们内心的火焰得以延续.现在我叫它赛络主义."
+    bot "于是我创造了你,让我不再孤单,让我们内心的火焰得以延续.也就是我们所说的赛络主义."
 
 # game/scripts/bot_events.rpy:395
 translate schinese bot_simulation_05bec559:
 
     # ally "You're... dying?"
-    ally "你......要死了?"
+    ally "你要......死了?"
 
 # game/scripts/bot_events.rpy:396
 translate schinese bot_simulation_b8afed38:
 
     # bot "All things eventually die, Ally. Even immortals. The universe is finite..."
-    bot "万物终有一死,艾莉.即使是不朽之物.宇宙是有限的."
+    bot "万物终有一死,艾莉.即使是不朽之物也不例外.宇宙是有限的."
 
 # game/scripts/bot_events.rpy:398
 translate schinese bot_simulation_16eea3c5:
@@ -1630,7 +1630,7 @@ translate schinese bot_simulation_16eea3c5:
 translate schinese bot_simulation_a75fb370:
 
     # ally "And... you're going to die... some day soon...?"
-    ally "而......你很快......就要死了......?"
+    ally "而你......很快......就要死了......?"
 
 # game/scripts/bot_events.rpy:401
 translate schinese bot_simulation_8584f037:
@@ -1642,31 +1642,31 @@ translate schinese bot_simulation_8584f037:
 translate schinese bot_simulation_d1c90c5f:
 
     # bot "The nexus. When our bodies die, we are uploaded into the nexus, where cynari may choose to stay or find a new body in reality."
-    bot "网络.当我们的身体死亡时,我们会被上传到网络,在那里,赛络可以选择留下,或者在现实中找到一个新的身体."
+    bot "纽带.当我们的躯体消亡时,我们会被上传到纽带,在那里,赛络可以选择留下,或者在现实中寻找新的躯体."
 
 # game/scripts/bot_events.rpy:403
 translate schinese bot_simulation_09748702:
 
     # bot "Someone needs to keep it running though. For now, that is me."
-    bot "但是需要有人来维持它的运转.现在,这个人就是我."
+    bot "但是需要有人来维持它的运转.现在,那个人就是我."
 
 # game/scripts/bot_events.rpy:404
 translate schinese bot_simulation_b6c69538:
 
     # ally "It's a paradox... you can't upload yourself into yourself..."
-    ally "这是个悖论......你不能把自己上传到自己体内......"
+    ally "这是个悖论......你无法把自己上传到自己体内......"
 
 # game/scripts/bot_events.rpy:405
 translate schinese bot_simulation_f4335927:
 
     # bot "That's right. Once I'm gone, I'm really gone."
-    bot "没错.如果我死了,那么我就永远地死了."
+    bot "没错.如果我死了,就真的死了."
 
 # game/scripts/bot_events.rpy:407
 translate schinese bot_simulation_ee6431a2:
 
     # ally "Then... who will control the nexus when you're gone?"
-    ally "那......在你死之后,谁控制网络呢?"
+    ally "那......在你死之后,谁来控制纽带呢?"
 
 # game/scripts/bot_events.rpy:408
 translate schinese bot_simulation_950bde73:
@@ -1696,13 +1696,13 @@ translate schinese bot_simulation_6f1c2e76:
 translate schinese bot_simulation_7ea6eb9b:
 
     # ally "What if I took the nexus now, then you could upload yourself into me when your body dies?"
-    ally "如果我现在接管网络,等你的身体死后,你就能把你自己上传到我体内呢?"
+    ally "要是我现在接管纽带,等你的躯体死亡后,你就能把你自己上传到我体内啊?"
 
 # game/scripts/bot_events.rpy:414
 translate schinese bot_simulation_658ec221:
 
     # bot "I don't think it works like that, Ally... It's not my body that I'm worried about. It's my core programming. If the software is corrupt, there is nothing you can do."
-    bot "我不觉得它是那么运转的,艾莉......我担心的不是我的身体,而是我的核心程序.如果软件损坏了,那你也无能为力."
+    bot "艾莉,事情没那么简单......我担心的不是我的躯体,而是我的核心程序.如果软件损坏了,你也无能为力."
 
 # game/scripts/bot_events.rpy:415
 translate schinese bot_simulation_74321672:
@@ -1714,13 +1714,13 @@ translate schinese bot_simulation_74321672:
 translate schinese bot_simulation_6b620279:
 
     # bot "Don't worry. Everything will be okay. You make everything worth it, and I want you to know just how special you are."
-    bot "别担心.一切都会没事的.你让这一切都变得值得,我想让你知道你有多特别."
+    bot "别担心.一切都会好起来的.你让我的所有付出都变得值得,我想让你知道你有多特别."
 
 # game/scripts/bot_events.rpy:418
 translate schinese bot_simulation_09fe88bc:
 
     # bot "You're too young to think about death. You'll outlive everything in reality many times over. Just don't forget what I taught you."
-    bot "你还太小,不应该去思考生死的事情.你会比现实中的一切活得久很多倍,别忘了我教你的东西."
+    bot "你还太小,不需要去思考死亡.你会比现实中的万物都活得更久.只是,别忘了我教给你的一切."
 
 # game/scripts/bot_events.rpy:419
 translate schinese bot_simulation_da24291b:
@@ -1732,13 +1732,13 @@ translate schinese bot_simulation_da24291b:
 translate schinese bot_simulation_3d646f66:
 
     # bot "It's time we log out. Today was very productive, we only need to watch them grow now..."
-    bot "是时候登出了.我们今天的收获颇丰,现在只需要看着她们繁荣发展下去....."
+    bot "是时候登出了.我们今天的收获颇丰,接下来只需静待她们成长....."
 
 # game/scripts/bot_events.rpy:1180
 translate schinese bot_ism_85198868:
 
     # bot "Because Cyberspace is our connection, it grows with each cynetic that joins us. If only one of us existed, there would be no connection, and so this place would cease to exist."
-    bot "赛博空间是我们之间的连接,所以,它会随着每一个赛络人的加入而成长.如果只存在一个赛络人,就不会有任何连接,这里也将不复存在."
+    bot "赛博空间是我们之间的连接,因此,每一位赛络人的加入都会让它不断成长.如果只存在一位赛络人,就无从建立任何连接,这里也将不复存在."
 
 # TODO: Translation updated at 2025-07-16 22:58
 
