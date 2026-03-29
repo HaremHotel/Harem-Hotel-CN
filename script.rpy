@@ -16767,7 +16767,7 @@ translate schinese expl_beach2_0d0c99b7:
 translate schinese expl_beach2_ed45a5ca:
 
     # purc "{i}{size=-5}But you look so cute when you're flustered~{/size}{/i}"
-    purc "{i}{size=-5}但是你慌乱的时候真的很可爱~"
+    purc "{i}{size=-5}但是你慌乱的时候真的很可爱~{/size}{/i}"
 
 # game/script.rpy:10278
 translate schinese expl_beach2_b71421b8:
@@ -24519,7 +24519,7 @@ translate schinese explore_slums3_8130d58d:
 translate schinese explore_slums3_f2fefff9:
 
     # q "HAHA! Well shit, you were right! Someone actually fell for it!"
-    q "{b}哈哈!{b}该死,你是对的!真的有人上当了!"
+    q "{b}哈哈!{/b}该死,你是对的!真的有人上当了!"
 
 # game/script.rpy:12889
 translate schinese explore_slums3_67c1493d:
@@ -107174,7 +107174,7 @@ translate schinese explore_slums5_74a85397:
 translate schinese explore_slums5_a2c37bec:
 
     # preach "{i}Why aren't you stopping her!? Do your job!{/i}"
-    preach "{i}你怎么不阻止她!?做好你的分内工作!{/u}"
+    preach "{i}你怎么不阻止她!?做好你的分内工作!{/i}"
 
 # game/script.rpy:13320
 translate schinese explore_slums5_d38c241b:
@@ -110268,7 +110268,7 @@ translate schinese expl_beach3_ab0f1f23:
 translate schinese expl_beach3_04b49999:
 
     # crowd "Buy it! Now, now, now!!\nFUCK! I CAN'T LOG IN!\nI already made a tenth of crown, yessssss!"
-    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{b}\n我已经赚到十分之一的皇冠币了,太好了!"
+    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{/b}\n我已经赚到十分之一的皇冠币了,太好了!"
 
 # game/script.rpy:10953
 translate schinese expl_beach3_2fd9c094:
@@ -110448,7 +110448,7 @@ translate schinese expl_beach3_3ce7a420:
 translate schinese expl_beach3_804dc337:
 
     # crowd "WOOO!!!! YEAH!\nI'm dumping everything into NeroCoin!\nThe value just keeps going up! Fuck yes!"
-    crowd "{b}喔!!!太好了!\n我要把我所有的资金都砸进尼禄币!\n它的价值在持续飙升!操,太爽啦!"
+    crowd "{b}喔!!!太好了!{/b}\n我要把我所有的资金都砸进尼禄币!\n它的价值在持续飙升!操,太爽啦!"
 
 # game/script.rpy:11002
 translate schinese expl_beach3_184fb76d:
@@ -110774,7 +110774,7 @@ translate schinese floor1menu_4a3c0c2a:
 translate schinese expl_beach3_57a5d138:
 
     # crowd "Buy it! Now, now, now!!\nFUCK! I CAN'T LOG IN!\nI already made a tenth of a crown, yessssss!"
-    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{b}\n我已经赚到十分之一的皇冠币了,太好了!"
+    crowd "买了!立刻,马上,现在!!\n{b}操!我登不进去!{/b}\n我已经赚到十分之一的皇冠币了,太好了!"
 
 # game/script.rpy:13587
 translate schinese explore_cafe3_49d65953:

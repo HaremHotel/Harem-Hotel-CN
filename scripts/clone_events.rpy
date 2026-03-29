@@ -3,61 +3,61 @@
 translate schinese twin_secure_a18d1925:
 
     # e "Oh hello [name], how can I help?"
-    e "哦,你好[name],有什么需要我帮忙的吗?"
+    e "哦,你好,[name],有什么需要我帮忙的吗?"
 
 # game/scripts/clone_events.rpy:25
 translate schinese twin_secure_7183617a:
 
     # c "We need to talk about our defenses."
-    c "我们需要谈谈我们的防御措施."
+    c "我们需要讨论一下我们的防御措施."
 
 # game/scripts/clone_events.rpy:27
 translate schinese twin_secure_67a20b2d:
 
     # e "Oh? I'm sorry, but what do we need to defend against? [botname] can take care of any intruder."
-    e "哦?不好意思,但是我们需要防御什么?[botname!t]可以对付任何的入侵者."
+    e "哦?不好意思,但是我们需要防御什么?[botname!t]可以对付任何入侵者."
 
 # game/scripts/clone_events.rpy:28
 translate schinese twin_secure_8ebe6acb:
 
     # c "I'm not just worried about intruders. Syl'anar is much more dangerous than I thought it would be when I moved here..."
-    c "我担心的不仅仅是入侵者.西尔阿纳尔比我刚搬到这里时所想象的要危险得多......"
+    c "我担心的不只是入侵者.自从搬来这里后,我才发现西尔阿纳尔远比我想象中要危险得多......"
 
 # game/scripts/clone_events.rpy:29
 translate schinese twin_secure_7eec848e:
 
     # c "Running away isn't an option for me, I have people I need to protect, and enemies that might want to hurt them. Even the police aren't on our side."
-    c "逃跑对我来说从来都不是一种选择,我有需要保护的人,还有可能会伤害她们的敌人.甚至连警察都不站在我们这一边."
+    c "逃跑对我来说从来都不是选项,我有我需要去保护的人,而敌人随时都有可能伤害她们.甚至连警察都不站在我们这一边."
 
 # game/scripts/clone_events.rpy:30
 translate schinese twin_secure_e31bdb4e:
 
     # e "Oh... well I suppose when you put it that way... I do feel rather unsafe knowing just anyone could come in that door now. I know this is a hotel, but maybe we have enough residents at this point...?"
-    e "哦......你这么说的话......我确实觉得很不安全,因为所有人都可以进那扇门.我知道这是一家酒店,但也许我们现在的住客已经够多了......?"
+    e "哦......你这么说的话......现在想想,任何人都能从那扇门利闯进来,确实是不安全.我知道我们这是家酒店,但也许,我们现在的住客已经够多了......?"
 
 # game/scripts/clone_events.rpy:31
 translate schinese twin_secure_2a47e0ef:
 
     # c "We can keep the door locked. In fact, why don't we install ugprades to this whole hotel. ...How old is it?"
-    c "我们可以把门锁上.实际上,为什么我们不给整个酒店升级一下......这地方有多老了?"
+    c "我们可以把门锁上.说实在的,我们何不给整个酒店升级一下......这地方有多老了?"
 
 # game/scripts/clone_events.rpy:33
 translate schinese twin_secure_df6c9dcf:
 
     # e "Hmm, well let's see... I suppose it must be somewhere between 20 and 30 years old... I'm not sure exactly, I joined after it had completed."
-    e "嗯,我看看......我想它已经有20到30年的历史了......我不确定,我是在它完工之后才加入的."
+    e "嗯,我想像......我想它已经有20到30年的历史了......具体我不太确定,我加入的时候它早已经完工了."
 
 # game/scripts/clone_events.rpy:34
 translate schinese twin_secure_9eba84e8:
 
     # c "That's ancient by today's standards. Nanochips were just becoming popular a few years before then, so this hotel must be nothing but bricks and wood."
-    c "以今天的标准来看已经很旧了.纳米芯片几年前才开始流行起来,这家酒店肯定是砖木结构的."
+    c "按今天的标准来看,这家酒店简直就是古代建筑了.纳米芯片几年前才开始普及,这家酒店想必是砖木结构的."
 
 # game/scripts/clone_events.rpy:35
 translate schinese twin_secure_d6740e70:
 
     # e "Yes, that's correct... although we do have a few wires in the walls for our 10 year old security system... run by a 30 year old android..."
-    e "是的,没错......不过我们的安全系统上的电线都是十年前的了......还依托着一个30年前的智能机器人运行......"
+    e "是的,没错......不过我们安防系统的电线都是十年前的了......还是由一个30年前的智能机器人运行的......"
 
 # game/scripts/clone_events.rpy:37
 translate schinese twin_secure_4637833d:
@@ -69,19 +69,19 @@ translate schinese twin_secure_4637833d:
 translate schinese twin_secure_6abdb64e:
 
     # c "I'm not too worried about [botname], she's the best defense we could hope for. But we've seen how easily she can be countered."
-    c "我并不担心[botname!t],她是我们最好的防御措施.但我们已经看到她有多容易被反制了."
+    c "我对[botname!t]倒是不太担心,她是我们能指望的最好的防御措施.但我们已经看到她有多容易被反制了."
 
 # game/scripts/clone_events.rpy:39
 translate schinese twin_secure_075552c2:
 
     # e "Yes, that's true... What do you propose then? Should I order guns for every resident? I suppose that if the circumstances called for it, we could stake out on the roof for weeks!"
-    e "是的,那确实......你有什么建议吗?我应该为每个居民订购枪支吗?我想如果情况需要的话,我们可以在楼顶坚守数周的!"
+    e "是的,确实如此......那你有什么建议吗?我应该为每位住客配备枪支吗?我想,如果形式需要,我们完全可以在楼顶坚守数周!"
 
 # game/scripts/clone_events.rpy:41
 translate schinese twin_secure_93539979:
 
     # e "Well, depending on how much Kali eats. I've seen that girl eat two whole pizzas in one day!"
-    e "好吧,这取决于凯莉会吃多少东西.我见过那个女孩一天吃了两个披萨!"
+    e "好吧,这得看凯莉吃多少了.我见过那个姑娘一天能吃两整张披萨!"
 
 # game/scripts/clone_events.rpy:42
 translate schinese twin_secure_55ea52b1:
@@ -93,13 +93,13 @@ translate schinese twin_secure_55ea52b1:
 translate schinese twin_secure_caee2b59:
 
     # c "I'm planning to avoid it coming to that. Most of them don't want to fight. Or just can't..."
-    c "我是打算避免让事情发展到那种地步.她们中的大多数人都不想打架.或者说不能打架......"
+    c "我并不想让事情发展到那种地步.她们中的大多数人都不想战斗,也根本没法战斗......"
 
 # game/scripts/clone_events.rpy:45
 translate schinese twin_secure_a86285d8:
 
     # e "There is always the option of hiring The Silver Shields."
-    e "你可以雇佣银盾公司的人."
+    e "你完全可以雇佣银盾公司的人."
 
 # game/scripts/clone_events.rpy:46
 translate schinese twin_secure_199aa782:
@@ -111,25 +111,25 @@ translate schinese twin_secure_199aa782:
 translate schinese twin_secure_fd06841d:
 
     # e "They're a private security agency. Well, a for-hire police force to be frank. They'll protect anything you want for the right price."
-    e "他们是一家私人安全机构.坦率地说,是一支雇佣警察部队.他们会以合适的价格保护你任何想要保护的东西."
+    e "他们是一家私人安保公司.或者说,是一支雇佣警察部队.只要价格合适,他们会保护你任何想要保护的东西."
 
 # game/scripts/clone_events.rpy:48
 translate schinese twin_secure_862b6d7d:
 
     # c "Somehow I don't think they would approve of what we do here."
-    c "不知怎的,我不觉得他们会认同我们在这里干的事情."
+    c "不知怎的,我觉得他们不会赞同我们在这里做的事情."
 
 # game/scripts/clone_events.rpy:49
 translate schinese twin_secure_abf662e2:
 
     # e "Such as Nia? Well, I think they would be rather loyal to whoever pays them."
-    e "比如妮娅?好吧,我觉得他们会对给他们钱的人相当忠诚的."
+    e "比如妮娅?好吧,我觉得谁付钱给他们,他们就效忠谁."
 
 # game/scripts/clone_events.rpy:50
 translate schinese twin_secure_ca841c70:
 
     # c "Exactly. We won't last long if our guards can be bought."
-    c "确实.如果我们的警卫可以被收买的话,那我们也坚持不了多久."
+    c "是这样.如果我们的警卫可以被收买,那我们也撑不了多久."
 
 # game/scripts/clone_events.rpy:51
 translate schinese twin_secure_f9fde835:
@@ -147,7 +147,7 @@ translate schinese twin_secure_fb00336c:
 translate schinese twin_secure_25676105:
 
     # e "I believe the government sells them for about $75,000 each."
-    e "我想政府的售价是每台75,000$."
+    e "我想,政府的售价是每台75,000$."
 
 # game/scripts/clone_events.rpy:54
 translate schinese twin_secure_3058d908:
@@ -159,7 +159,7 @@ translate schinese twin_secure_3058d908:
 translate schinese twin_secure_d2d65087:
 
     # e "I could be wrong, but it's somewhere around that price, I'm certain. They're very old models, but they were originally designed to kill humans abroad. These unchanged models sell for a premium."
-    e "我可能是错的,但是我可以肯定,大概是这个价格.它们是非常老旧的型号,但最初它们是为了在国外杀死人类而设计的.这些固定型号的东西售价是很高的."
+    e "我也许记错了,但是价格大概就在这个区间.它们是非常老旧的型号,但它们最初的设计就是为了在海外杀害人类.这些未经改造的型号售价不菲."
 
 # game/scripts/clone_events.rpy:56
 translate schinese twin_secure_17d0a3f7:
@@ -177,13 +177,13 @@ translate schinese twin_secure_3a3f4e88:
 translate schinese twin_secure_b7918cb8:
 
     # c "Just thinking out loud.\nWe don't have many options, do we? Every one and every thing is against us. We have to rely on ourselves..."
-    c "只是想想.\n我们没有多少选择,不是吗?所有人所有事情都对我们来说很不利.我们必须依靠自己......"
+    c "只是随口说说.\n我们没有多少选择,不是吗?所有人,所有事都与我们为敌.我们只能依靠自己......"
 
 # game/scripts/clone_events.rpy:59
 translate schinese twin_secure_c6919b6a:
 
     # e "I'm sure there are others out there who are in very similar situations..."
-    e "我相信还有其他情况非常类似的人......"
+    e "我相信还有其他处在类似情况的人......"
 
 # game/scripts/clone_events.rpy:60
 translate schinese twin_secure_18eca15d:
@@ -207,13 +207,13 @@ translate schinese twin_secure_4ce77e5e:
 translate schinese twin_secure_784201b9:
 
     # e "Perhaps, if somehow... we were to get ahold of a dozen or so MK-1 models that are soon to be recycled... we could fix them up and connect them to our network so [botname] could control them?"
-    e "也许,如果以某种方式......我们得到了十几个即将回收的MK-1模型......我们可以修复它们,并将它们连接到我们的网络中,这样[botname!t]就可以控制它们?"
+    e "也许,我们可以用某种方式......弄到十几个即将回收的MK-1模型......修复它们,并将它们连接到我们的网络中,这样[botname!t]就可以控制它们?"
 
 # game/scripts/clone_events.rpy:64
 translate schinese twin_secure_17b61486:
 
     # c "That's not a bad idea... but if they can take out one, they can take them all out."
-    c "这并不是一个坏主意......但既然他们有一台,那他们也还会有更多台."
+    c "这个主意倒也不坏......但如果他们能干掉一台,那他们也能干掉其他的."
 
 # game/scripts/clone_events.rpy:65
 translate schinese twin_secure_78bf66b2:
@@ -225,25 +225,25 @@ translate schinese twin_secure_78bf66b2:
 translate schinese twin_secure_2a811888:
 
     # c "At the end of the day, we need people on our side. But who?"
-    c "归根结底,我们需要有人站在我们这边.但是是谁呢?"
+    c "归根结底,我们需要有人站在我们这边.但是,谁呢?"
 
 # game/scripts/clone_events.rpy:67
 translate schinese twin_secure_956c2e18:
 
     # c "Oh, Moon! She's an engineer with an interest in architecture. I bet she could turn this whole place into a walking mech for the price of one wardroid."
-    c "哦,文!她是一个对建筑感兴趣的工程师.我敢打赌,她可以用一个衣柜的价格把这个地方变成一台行走的战争机器."
+    c "哦,文!她是一个对建筑感兴趣的工程师.我敢打赌,她可以仅用一个作战机器人的价格就把这个地方变成一台步战机甲."
 
 # game/scripts/clone_events.rpy:68
 translate schinese twin_secure_2359f628:
 
     # e "That would be rather uncomfortable, [name]. Think of the spills... I hope you aren't serious!"
-    e "那会很不舒服的,[name].想想颠簸吧......我希望你不是认真的!"
+    e "那可不太舒服,[name].想想颠簸吧......我希望你不是认真的!"
 
 # game/scripts/clone_events.rpy:69
 translate schinese twin_secure_12fffad2:
 
     # c "No, but I think I will talk to her."
-    c "确实不是,但我想我会和她谈谈的."
+    c "当然不是,但我想我会和她谈谈的."
 
 # game/scripts/clone_events.rpy:70
 translate schinese twin_secure_0f6f99d2:
@@ -279,55 +279,55 @@ translate schinese twin_secure_dc2f8305:
 translate schinese twin_secure_9dbaa90a:
 
     # f "Well I am too, but if I let it show then I'll get worry lines..."
-    f "嗯,我也是,但是如果我表现出来的话我就会长皱纹的......"
+    f "嗯,我也是,但要是表现出来的话,我脸上就会添上忧虑的皱纹......"
 
 # game/scripts/clone_events.rpy:77
 translate schinese twin_secure_7a2240a8:
 
     # em "Let's spend some time together [name]! Just the three of us, no one else! I just want to stop and relax..."
-    em "我们在一起待一会吧,[name]!就我们三个,没有其他人!我只想停下来放松一下.."
+    em "我们在一起待一会吧,[name]!就我们三个,没有别人!我只想停下来放松一下......"
 
 # game/scripts/clone_events.rpy:78
 translate schinese twin_secure_d9f8b447:
 
     # f "Yeah! It's not going to do us any good to worry all the time. We won't be young forever!"
-    f "是的!一直担心对我们都没有好处的.人就年轻这一回!"
+    f "是的!杞人忧天对我们没有好处.人就年轻这一回!"
 
 # game/scripts/clone_events.rpy:79
 translate schinese twin_secure_f0039fda:
 
     # c "I'd love to, but I need to think of our safety first."
-    c "我很想要,但我得先考虑我们的安全问题."
+    c "我也很想要,但我得先考虑我们的安全问题."
 
 # game/scripts/clone_events.rpy:81
 translate schinese twin_secure_1b4f2514:
 
     # em "Oh come on, the world isn't going to end in the next hour."
-    em "哦,来嘛,世界又不是一小时后就毁灭了."
+    em "哦,来嘛,又不是一小时后世界就毁灭了."
 
 # game/scripts/clone_events.rpy:82
 translate schinese twin_secure_4d1fec1a:
 
     # f "Women have needs you know, we need attention!"
-    f "你知道女人也是有需求的,我们需要你的注意!"
+    f "你知道女人也是有需求的,我们需要你的关注!"
 
 # game/scripts/clone_events.rpy:83
 translate schinese twin_secure_66df26dc:
 
     # em "She's speaking for herself because it turns her on..."
-    em "她这么说是因为这会让她兴奋起来......"
+    em "她这么说是因为这会让她变得很兴奋......"
 
 # game/scripts/clone_events.rpy:84
 translate schinese twin_secure_d46e61a8:
 
     # f "{i}Shut up. As if you don't love being praised...{/i}"
-    f "{i}闭嘴.说的好像你不喜欢被奉承一样......{/i}"
+    f "{i}闭嘴.说的好像你不喜欢被夸一样......{/i}"
 
 # game/scripts/clone_events.rpy:85
 translate schinese twin_secure_9c43d075:
 
     # c "We'll talk later, I need to speak with Moon."
-    c "我们待会再说吧,我需要和文谈谈."
+    c "我们待会再聊,我需要和文谈谈."
 
 # game/scripts/clone_events.rpy:87
 translate schinese twin_secure_78e3143f:
@@ -345,7 +345,7 @@ translate schinese twin_secure_2a05fe76:
 translate schinese twin_secure_920f28d1:
 
     # f "You're our boyfriend first, ya know! You have responsibilities!"
-    f "你知道的,你先是我们的男朋友!你得负责!"
+    f "你知道的,你可是我们的男朋友!你得负责!"
 
 # game/scripts/clone_events.rpy:90
 translate schinese twin_secure_b6a4deb4:
@@ -369,31 +369,31 @@ translate schinese twin_secure_e157b8bb:
 translate schinese twin_secure_87b0b077:
 
     # em "Sorry [name], you've been outvoted!"
-    em "对不起[name],你的提议被否决了!"
+    em "对不起,[name],你的提议被否决了!"
 
 # game/scripts/clone_events.rpy:94
 translate schinese twin_secure_985ed71a:
 
     # c "Is our relationship a democracy?"
-    c "我们的关系是某种民主议程吗?"
+    c "我们的关系是某种民主制度吗?"
 
 # game/scripts/clone_events.rpy:96
 translate schinese twin_secure_2858071f:
 
     # f "You should have considered that {i}before{/i} you created a harem. Now come along..."
-    f "你应该在你建立后宫{i}之前{/i}就考虑到这种情况了.现在过来吧......"
+    f "你{i}当初{/i}组建后宫时就该考虑到这种情况.现在过来吧......"
 
 # game/scripts/clone_events.rpy:97
 translate schinese twin_secure_57cb6264:
 
     # c "Alright, I'll spend an hour with you, that's all. Then I need to figure out how to defend this place."
-    c "好吧,我会和你们在一起一小时的,仅此而已.之后我得想想怎么保卫这个地方."
+    c "好吧,我陪你们一小时,仅此而已.之后我得想办法守住这地方."
 
 # game/scripts/clone_events.rpy:98
 translate schinese twin_secure_c516732e:
 
     # f "Mhm, sure. Come on!"
-    f "嗯,好的.来吧!"
+    f "嗯,没问题.来吧!"
 
 # game/scripts/clone_events.rpy:99
 translate schinese twin_secure_2eb30182:
@@ -411,7 +411,7 @@ translate schinese twin_secure_a998ca22:
 translate schinese twin_secure_c6a71cd4:
 
     # f "I've always appreciated this place. But the bugs can be annoying, especially at night..."
-    f "我一直都很喜欢这个地方.但是那些虫子可能会很烦人,尤其是晚上......"
+    f "我一直都很喜欢这个地方.但这里的虫子有时很烦人,尤其是晚上......"
 
 # game/scripts/clone_events.rpy:104
 translate schinese twin_secure_f2331f00:
@@ -447,7 +447,7 @@ translate schinese twin_secure_7a8bd1e2:
 translate schinese twin_secure_0e46936a:
 
     # f "Your work can wait. Women don't like men who prioritize work over everything else..."
-    f "你的工作可以等等.女人不喜欢把工作放在第一位的男人......"
+    f "你的工作可以待会再处理.女人可不喜欢把工作置于一切之上的男人......"
 
 # game/scripts/clone_events.rpy:111
 translate schinese twin_secure_a81c54ef:
@@ -459,19 +459,19 @@ translate schinese twin_secure_a81c54ef:
 translate schinese twin_secure_b2c22c2d:
 
     # f "Just like sitting in a circle and talking about our feelings would be~"
-    f "我们坐成一圈谈论我们的感受也是为我们好~"
+    f "我们围坐成圈聊聊感受也是为我们好~"
 
 # game/scripts/clone_events.rpy:114
 translate schinese twin_secure_39dbfeee:
 
     # em "Totally, I have some really big things I would like to get off my chest..."
-    em "而且,我有些很重要的事情要说......"
+    em "而且,我有些压在心底很久的大事要说......"
 
 # game/scripts/clone_events.rpy:115
 translate schinese twin_secure_6a7ea832:
 
     # f "And {u}I'm{/u} going to avoid the obvious joke and agree."
-    f "{u}我{/u}也不会开玩笑的."
+    f "{u}我{/u}也不开玩笑了,我同意你."
 
 # game/scripts/clone_events.rpy:117
 translate schinese twin_secure_f6fcfa07:
@@ -483,13 +483,13 @@ translate schinese twin_secure_f6fcfa07:
 translate schinese twin_secure_c2ef9217:
 
     # f "Just like your tits over the years. Moving on!"
-    f "就像你的奶子一样长大了.继续!"
+    f "就像这些年来你的奶子也长大了一样.继续!"
 
 # game/scripts/clone_events.rpy:119
 translate schinese twin_secure_d96a76bc:
 
     # em "Ugh. You couldn't resist..."
-    em "呃.你就是忍不住......"
+    em "唉.你就是忍不住......"
 
 # game/scripts/clone_events.rpy:121
 translate schinese twin_secure_c3af7a42:
@@ -513,31 +513,31 @@ translate schinese twin_secure_547e3e6f:
 translate schinese twin_secure_8b1a432e:
 
     # c "Everything. It doesn't feel safe here anymore. How do you deal with it so well?"
-    c "因为一切事情.这里不再安全了.你们是怎么这么容易就接受的?"
+    c "因为一切.这里已经不再安全了.你们怎么这么从容?"
 
 # game/scripts/clone_events.rpy:125
 translate schinese twin_secure_840fdffc:
 
     # em "We were born here."
-    em "我们本就出生于这个国家."
+    em "我们生于此."
 
 # game/scripts/clone_events.rpy:126
 translate schinese twin_secure_487da462:
 
     # c "Nothing could prepare you for being targeted by the mafia..."
-    c "但是这并不能让你们准备好面对成为黑手党目标的威胁......"
+    c "被黑手党盯上,再怎么准备也不为过......"
 
 # game/scripts/clone_events.rpy:127
 translate schinese twin_secure_8972c8bf:
 
     # f "We've lived with our sociopathic father for our whole lives, it's not much different."
-    f "我们和我们那个反社会的父亲一起生活了一辈子,这并没有什么不同."
+    f "我们和我们那个反社会的父亲在一起生活了一辈子,这并没有什么两样."
 
 # game/scripts/clone_events.rpy:128
 translate schinese twin_secure_c8020a2b:
 
     # em "Well I'm sure it's different... but, you know, welcome to Syl'anar! That's why everybody owns a gun. The police aren't going to help you, the only thing they do is give out speeding tickets..."
-    em "好吧,我觉得还是有所不同的......但是,你知道吧,欢迎来到西尔阿纳尔!这就是为什么这里每个人都有枪.警察不会帮你,他们唯一会做的事情就是发超速罚单......"
+    em "好吧,我觉得还是有些不一样的......不过,你知道的,欢迎来到西尔阿纳尔!这就是为什么这里每个人都有枪.警察可不会帮你,他们只会开超速罚单......"
 
 # game/scripts/clone_events.rpy:129
 translate schinese twin_secure_4379f2c9:
@@ -549,25 +549,25 @@ translate schinese twin_secure_4379f2c9:
 translate schinese twin_secure_8c3dad70:
 
     # em "Okay yeah, two things that's not much..."
-    em "哦对,就只会做这两件事可不算多......"
+    em "好吧,两件事可不算多......"
 
 # game/scripts/clone_events.rpy:131
 translate schinese twin_secure_a7fb9f3c:
 
     # f "Oh hey, speaking of, I overheard you and Ellen talking about The Silver Shields. Dad hired them a few times! They're not very nice, but they'll do more than the police if you have the money."
-    f "哦嘿,说到这里,我无意中听到你和艾兰在谈论银盾公司.我爸爸曾经雇佣过他们几次!他们不是什么好人,但如果你有钱的话,他们比警察有用多了."
+    f "哦嘿,说到这个,我无意中听到你和艾兰在聊银盾公司.我爸爸曾经雇佣过他们几次!他们不是什么好人,但只要你出得起钱,他们可比警察有用多了."
 
 # game/scripts/clone_events.rpy:132
 translate schinese twin_secure_3e1fd050:
 
     # c "Why did he hire them?"
-    c "为什么他要雇佣他们?"
+    c "他为什么要雇佣他们?"
 
 # game/scripts/clone_events.rpy:133
 translate schinese twin_secure_3b8213f1:
 
     # f "Well we're pretty wealthy... we have a lot to protect. Crime used to be a lot higher too."
-    f "嗯,我们很有钱......我们有很多东西要保护.过去的犯罪率也比现在高得多."
+    f "嗯,我们很有钱......有很多东西要保护.过去的犯罪率也比现在高得多."
 
 # game/scripts/clone_events.rpy:134
 translate schinese twin_secure_f89be12e:
@@ -591,7 +591,7 @@ translate schinese twin_secure_0a99f3ba:
 translate schinese twin_secure_86b7db31:
 
     # f "I don't want a guard dog! It would bark all the time!"
-    f "我不想要看门狗!它会一直叫的!"
+    f "我不想要看门狗!它老是会叫!"
 
 # game/scripts/clone_events.rpy:139
 translate schinese twin_secure_e8a04468:
@@ -645,37 +645,37 @@ translate schinese twin_secure_64222ca9:
 translate schinese twin_secure_1ea2b488:
 
     # f "There, see? Just listen to me..."
-    f "这样,看到了吗?听我说就是了......"
+    f "这样,看到了吗?听我的就是了......"
 
 # game/scripts/clone_events.rpy:152
 translate schinese twin_secure_0242aafc:
 
     # f "Now grab my waist and hold me tight. Like you'll never let me go... It makes me feel safe."
-    f "现在抓紧我的腰,紧紧抱着我.就像你永远都不会让我离开那样......这让我感到很安全."
+    f "现在搂住我的腰,紧紧抱着我.就像你永远不会放手一样......这让我感到很安全."
 
 # game/scripts/clone_events.rpy:154
 translate schinese twin_secure_50e5dd71:
 
     # em "Well, if she's going to..."
-    em "好吧,如果她要这么做的话......"
+    em "好吧,既然她要这么做的话......"
 
 # game/scripts/clone_events.rpy:156
 translate schinese twin_secure_e33a37a5:
 
     # f "Hey! Don't be so worried all of the time. Live in the moment with us. We're finally happy..."
-    f "嘿!别那么担心嘛.和我们一起活在当下就是了.我们终于可以幸福地在一起了......"
+    f "嘿!别总是那么担心嘛.和我们一起活在当下嘛.我们终于可以幸福地在一起了......"
 
 # game/scripts/clone_events.rpy:157
 translate schinese twin_secure_00e2abde:
 
     # c "That's what I'm afraid of losing."
-    c "这就是为什么我害怕失去你们."
+    c "这也是我害怕失去的东西."
 
 # game/scripts/clone_events.rpy:158
 translate schinese twin_secure_161575b9:
 
     # f "Well don't be! All I need you to do is be here with me right now. Can you do that?"
-    f "好吧,别这样!我只需要你现在和我在一起.你能做到吗?"
+    f "好吧,别这样!我只需要你此刻陪在我身边.你能做到吗?"
 
 # game/scripts/clone_events.rpy:159
 translate schinese twin_secure_63ea9cf4:
@@ -693,7 +693,7 @@ translate schinese twin_secure_1ea9c1ae:
 translate schinese twin_secure_ec82525f:
 
     # em "*sigh*... It's so not fair how warm you are..."
-    em "*叹气*......你对她这么热情,好不公平......"
+    em "*叹气*......你这么暖心,太不公平啦......"
 
 # game/scripts/clone_events.rpy:163
 translate schinese twin_secure_c4398167:
@@ -711,13 +711,13 @@ translate schinese twin_secure_98988565:
 translate schinese twin_secure_77b7e0c1:
 
     # f "[name]... Sunny really makes us happy... she makes us smile every day! It's what I've always dreamt of."
-    f "[name]......桑妮真的让我们很开心......她每天都能让我们微笑!这是我一直都在梦想着的事情."
+    f "[name]......桑妮真的让我们很开心......她每天都能让我们喜笑颜开!这正是我一直以来的梦想."
 
 # game/scripts/clone_events.rpy:168
 translate schinese twin_secure_4b7825ef:
 
     # f "I love that kitty so much... thank you for letting us keep her."
-    f "我很喜欢那只小猫......谢谢你让我们留下她."
+    f "我很喜欢那只小猫......谢谢你让我们收养她."
 
 # game/scripts/clone_events.rpy:169
 translate schinese twin_secure_8fde976c:
@@ -729,7 +729,7 @@ translate schinese twin_secure_8fde976c:
 translate schinese twin_secure_ff715b34:
 
     # f "It is to me, and I mean that. Please never stop being you..."
-    f "但对我来说是,我是认真的.请不要忘记你的初心......"
+    f "但对我来说是,我是认真的.请永远做最真实的自己......"
 
 # game/scripts/clone_events.rpy:171
 translate schinese twin_secure_2cd7f688:
@@ -741,7 +741,7 @@ translate schinese twin_secure_2cd7f688:
 translate schinese twin_secure_6fc0aa9d:
 
     # f "Well, Dad wanted to arrange our marriage so he never let us date when we were young. We found ways around that rule of course... but no. I think I have everything I've wanted now."
-    f "嗯,爸爸想包办我们的婚姻,所以他在我们年轻的时候不让我们约会.当然了,我们找到了绕过这条规则的办法......但是,不.我想我现在已经拥有了我想要的一切."
+    f "嗯,爸爸想包办我们的婚姻,所以我们年轻时他从不让我们约会.当然了,我们总能找到办法绕过这条规矩......但是,不.我觉得现在已经我拥有了想要的一切."
 
 # game/scripts/clone_events.rpy:173
 translate schinese twin_secure_89ef8c8c:
@@ -753,49 +753,49 @@ translate schinese twin_secure_89ef8c8c:
 translate schinese twin_secure_9ab20ca4:
 
     # f "It was traditional for his parents back in their homeland, but we were pretty quick to tell him we didn't want that."
-    f "这对于他的父母来说是一件很传统的事情,但我们立马就告诉他我们不想要这样."
+    f "在他父母的故乡,这是传统习俗,但我们立马就告诉他我们不想要那样."
 
 # game/scripts/clone_events.rpy:176
 translate schinese twin_secure_f4d91bb3:
 
     # em "He never even chose our husbands-to-be, so don't worry about it. It was a very long time ago."
-    em "他甚至从来都没选择过我们的丈夫会是谁,所以别担心了.那是很久之前的事情了."
+    em "他甚至从来都没给我们选过未婚夫,所以别担心.那已经是很久之前的事情了."
 
 # game/scripts/clone_events.rpy:177
 translate schinese twin_secure_bd258369:
 
     # c "He must have been pretty upset when you refused that life."
-    c "你们拒绝过那样的生活一定让他很难过吧."
+    c "你们拒绝过那样的生活,他一定很难过吧."
 
 # game/scripts/clone_events.rpy:178
 translate schinese twin_secure_57c358de:
 
     # em "What life? Arranged marriages are stupid... I prefer how our love grew from nothing."
-    em "什么生活?包办婚姻是最傻逼的东西......我更喜欢从无到有慢慢发展的爱情."
+    em "什么生活?包办婚姻是最傻逼的东西......我更喜欢日久生情."
 
 # game/scripts/clone_events.rpy:179
 translate schinese twin_secure_b4d43932:
 
     # em "It's not like he cares about how we feel anyway... it would just be some game to him... Some way to build a business relationship or something..."
-    em "他并不在乎我们的感受......这对他来说只是一场游戏......某种和别人建立起商业联系的方式......"
+    em "反正他根本不在乎我们的感受......这对他来说只是一场游戏......某种和别人建立商业联系的方式罢了......"
 
 # game/scripts/clone_events.rpy:180
 translate schinese twin_secure_4b2e59be:
 
     # c "Does he really see you as his pawns?"
-    c "他真的把你们看成是他的棋子吗?"
+    c "他真的把你们当成是他的棋子吗?"
 
 # game/scripts/clone_events.rpy:181
 translate schinese twin_secure_1b408242:
 
     # f "We don't call him a sociopath for no reason..."
-    f "我们不会无缘无故说他反社会的......"
+    f "我们说他反社会可不是没来由的......"
 
 # game/scripts/clone_events.rpy:183
 translate schinese twin_secure_e2bef265:
 
     # em "I think it was mom... her death really broke him. I guess we were lucky to be too young to remember..."
-    em "我想是因为妈妈......她的死让他崩溃了.我想我们很幸运,我们那时候还小,记不得这种事情......"
+    em "我想是因为妈妈......她的去世击垮了他.我们当时年纪太小记不得那些事,也算是幸运吧......"
 
 # game/scripts/clone_events.rpy:184
 translate schinese twin_secure_d19f855d:
@@ -807,7 +807,7 @@ translate schinese twin_secure_d19f855d:
 translate schinese twin_secure_81027bfd:
 
     # f "Honestly I think it's just who he is... he's controlling."
-    f "实际上,我认为他本就是如此......他喜欢控制一切."
+    f "说实话,我倒觉得这就是他的本性......他的控制欲很强."
 
 # game/scripts/clone_events.rpy:187
 translate schinese twin_secure_c124bdba:
@@ -55221,7 +55221,7 @@ translate schinese twin_stone_cont_4f27e31e:
 translate schinese twin_stone_cont_52bbe694:
 
     # a "{i}THEY! CAN'T! KEEP! DOING! THIS! TO! MEEEEEE!!!{/i}" with sshake
-    a "{i}{b}他!们!不!能!总!是!对!我!做!这!样!的!事!情!!!{/b}{/i0}" with sshake
+    a "{i}{b}他!们!不!能!总!是!对!我!做!这!样!的!事!情!!!{/b}{/i}" with sshake
 
 # game/scripts/clone_events.rpy:454
 translate schinese twin_stone_cont_eae68416:

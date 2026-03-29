@@ -1036,7 +1036,7 @@ translate schinese bot_simulation_cb21bf98:
 translate schinese bot_simulation_978db7af:
 
     # bot "NOTHING WORKS! THEY'RE ALL FUCKING USELESS!!" with ssshake
-    bot "{b}没用!她们全他妈是废物!" with ssshake
+    bot "{b}没用!她们全他妈是废物!{/b}" with ssshake
 
 # game/scripts/bot_events.rpy:265
 translate schinese bot_simulation_0cac0f97:

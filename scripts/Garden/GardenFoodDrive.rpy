@@ -64,7 +64,7 @@ translate schinese strings:
 
     # game/scripts/Garden/GardenFoodDrive.rpy:2
     old "Donate 3 Carrots, 3 Cabbages and 3 Onions for {b}Tier 3 Seeds{/b}, 4 Bug Sprays and 4 Fertilizers."
-    new "捐献3份胡萝卜,3份卷心菜和3份洋葱,换取{b}3级种子{/i},2份杀虫剂和2份肥料"
+    new "捐献3份胡萝卜,3份卷心菜和3份洋葱,换取{b}3级种子{/b},2份杀虫剂和2份肥料"
 
     # game/scripts/Garden/GardenFoodDrive.rpy:2
     old "The children's hospital is running low on food again! They're taking anything they can get right now, so we could really use your help. What do ya say? Care to donate some food?!"
@@ -147,7 +147,7 @@ translate schinese strings:
 
     # game/scripts/Garden/GardenFoodDrive.rpy:2
     old "Donate 3 Carrots, 3 Cabbages and 3 Onions for {b}Tier 3 Seeds{/b}, 2 Bug Sprays and 2 Fertilizers."
-    new "捐献3份胡萝卜,3份卷心菜和3份洋葱,换取{b}3级种子{/i},2份杀虫剂和2份肥料"
+    new "捐献3份胡萝卜,3份卷心菜和3份洋葱,换取{b}3级种子{/b},2份杀虫剂和2份肥料"
 # TODO: Translation updated at 2024-11-09 02:03
 
 translate schinese strings:

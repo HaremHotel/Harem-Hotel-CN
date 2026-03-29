@@ -6123,7 +6123,7 @@ translate schinese syl_lv_2_2a74718d:
 translate schinese syl_lv_2_9944111a:
 
     # cia "{b}NOOO!!!{/i}"
-    cia "{b}不!!!{/i}"
+    cia "{b}不!!!{/b}"
 
 # game/scripts/side_char_events.rpy:1598
 translate schinese syl_lv_2_fd07bf73:
@@ -49483,7 +49483,7 @@ translate schinese love_nia_7_5d7afa4d:
 translate schinese love_nia_7_1421065e:
 
     # "{fast}*BARK!* *BARK!* *BARK!*{w=0.25}{nw}"
-    "{fast}{b}*汪!**汪!**汪!*{w=0.25}{nw}"
+    "{fast}{b}*汪!**汪!**汪!*{/b}{w=0.25}{nw}"
 
 # game/scripts/side_char_events.rpy:5370
 translate schinese love_nia_7_2c05884c:
@@ -54640,7 +54640,7 @@ translate schinese vanessa6_15a46d02:
 translate schinese vanessa6_1afe170f:
 
     # nala "{i}Done!{/i}"
-    nala "{i}行了!{/b}"
+    nala "{i}行了!{/i}"
 
 # game/scripts/side_char_events.rpy:13419
 translate schinese vanessa6_9be0b80f:
@@ -55964,7 +55964,7 @@ translate schinese hana_spa_sex_0d32b85d:
 translate schinese hana_spa_sex_5b9edfdf:
 
     # han "Oh fuck, FUCK! MMMH! Don't stop, don't stop! Mmmh! It feels so fucking good...!"
-    han "哦操,[b]操!嗯!{/b}不要停,不要停!嗯!感觉好他妈棒.....!"
+    han "哦操,{b}操!嗯!{/b}不要停,不要停!嗯!感觉好他妈棒.....!"
 
 # game/scripts/side_char_events.rpy:13473
 translate schinese hana_spa_sex_d0a03b5e:

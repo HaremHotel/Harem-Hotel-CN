@@ -7089,7 +7089,7 @@ translate schinese ash_poverty_continue_df331e3e:
 translate schinese ash_poverty_continue_51095239:
 
     # a "{i}{size=-5}Cia? How are you here?{/size}{/i}"
-    a "{i}{size=-5}西娅?你怎么在这?{/size}"
+    a "{i}{size=-5}西娅?你怎么在这?{/size}{/i}"
 
 # game/scripts/ash_events.rpy:2003
 translate schinese ash_poverty_continue_b4e2cb21:
@@ -7965,7 +7965,7 @@ translate schinese ash_poverty_continue_67acb501:
 translate schinese ash_poverty_continue_b076e7d1:
 
     # c "...\n{i}(Rgh, I don't have much of a choice here, this is our last lead... I doubt anyone at the community center is going to know about them if the guys working for him barely do...)"
-    c "......\n{i}(呃,我爆丸小子,这是我们最后的线索......我怀疑如果连为他工作的人都不知道那些人的话,这个社区中心应该也没人知道了......)"
+    c "......\n{i}(呃,我没有其他选择,这是我们最后的线索......如果连为他工作的人都不知道那些人的话,这个社区中心应该也没人知道了......){/i}"
 
 # game/scripts/ash_events.rpy:2210
 translate schinese ash_poverty_continue_15149bf5:
@@ -17673,7 +17673,7 @@ translate schinese ash_fairiesjoin_aaf073ca:
 translate schinese ash_fairiesjoin_10e70704:
 
     # a "YES! Oh my god, I've wanted her phone for so long!"
-    a "{b}太棒了!{/i}天哪,我想拿她的手机很久了!"
+    a "{b}太棒了!{/b}天哪,我想拿她的手机很久了!"
 
 # game/scripts/ash_events.rpy:4783
 translate schinese ash_fairiesjoin_098e3579:
@@ -29013,7 +29013,7 @@ translate schinese ashprefuckathon_dd70b324:
 translate schinese ashprefuckathon_3d52d8ca:
 
     # c "{i}(Hmm? She put something in my mouth... a tooth? No... A pill? Two pills?){/i}"
-    c "{i}(嗯?她往我嘴里塞了什么东西......一颗牙齿?不对......是一片药片?两片药片?)"
+    c "{i}(嗯?她往我嘴里塞了什么东西......一颗牙齿?不对......是一片药片?两片药片?){/i}"
 
 # game/scripts/ash_events.rpy:8402
 translate schinese ashprefuckathon_bf6fec5e:
@@ -34845,7 +34845,7 @@ translate schinese katetalk_ecab1346:
 translate schinese katetalk_83a4dcab:
 
     # kate "A banana may be yellow on the {i}outside{/i}... try harder next time."
-    kate "香蕉的{i}外面{i}也可能是金黄色的......再试试."
+    kate "香蕉的{i}外面{/i}也可能是金黄色的......再试试."
 
 # game/scripts/ash_events.rpy:10784
 translate schinese katetalk_7cd99d48_8:
@@ -45878,7 +45878,7 @@ translate schinese ash_gang_e5b87cce:
 translate schinese ash_gang_812e77d6:
 
     # a "{i}Sorry...{/i}"
-    a "{i}对不起......"
+    a "{i}对不起......{/i}"
 
 # game/scripts/ash_events.rpy:240
 translate schinese ash_gang_1b21f335:
@@ -46352,7 +46352,7 @@ translate schinese ash_gang_b9ac63b0:
 translate schinese ash_gang_4ac4b0f2:
 
     # rasha "Easier said than done! I just hope MY former boss isn't here..."
-    rasha "说起来容易做起来难!我只希望{b}我{/n}的前任老大不在这里......"
+    rasha "说起来容易做起来难!我只希望{b}我{/b}的前任老大不在这里......"
 
 # game/scripts/ash_events.rpy:346
 translate schinese ash_gang_6eb41a3e:
@@ -47534,7 +47534,7 @@ translate schinese ash_gang_f50b68f5:
 translate schinese ash_gang_cde249ce:
 
     # runa "I am {i}not{/i} wasting a charge on proving anything to your friend."
-    runa "我{i}不会{/b}浪费任何东西来向你的朋友证明什么."
+    runa "我{i}不会{/i}浪费任何东西来向你的朋友证明什么."
 
 # game/scripts/ash_events.rpy:618
 translate schinese ash_gang_0ed8f4e0:

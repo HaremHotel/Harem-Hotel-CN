@@ -1569,7 +1569,7 @@ translate schinese mar_practice_0b0b5f3d:
 translate schinese mar_practice_a59f3084:
 
     # m "You're {i}going{/i} to give me that code, Mr. Pennyworth... there's nothing I won't do for it..."
-    m "你{i}会{/i/}给我密码的,潘尼沃斯先生......没有什么我做不到的事情......"
+    m "你{i}会{/i}给我密码的,潘尼沃斯先生......没有什么我做不到的事情......"
 
 # game/scripts/maria_events.rpy:368
 translate schinese mar_practice_9b126e4b:
@@ -16389,7 +16389,7 @@ translate schinese mar_floor1fuck_818b1341:
 translate schinese mar_floor1fuck_314cdd54:
 
     # a "{i}{size=-5}Hehe~ she's so horny... she can't control herself when she's horny...{/size}{/i}"
-    a "{i}{size=-5}呵呵~她太饥渴了......她饥渴的时候是没法控制自己的......"
+    a "{i}{size=-5}呵呵~她太饥渴了......她饥渴的时候是没法控制自己的......{/size}{/i}"
 
 # game/scripts/maria_events.rpy:4324
 translate schinese mar_floor1fuck_3944dcbe:
@@ -43051,7 +43051,7 @@ translate schinese mar_corn_0c27e957:
 translate schinese mar_corn_a43e55ff:
 
     # corn "{i}I said you could bring a friend, I did {u}not{/u} say you could bring {u}them!{/u}"
-    corn "{i}我说过你可以带朋友来,但是我可{u}没{/u}说过你可以带{u}他们{/u}来!"
+    corn "{i}我是说过你可以带朋友来,但是我可{u}没{/u}说过你可以带{u}他们{/u}来!{/i}"
 
 # game/scripts/maria_events.rpy:168
 translate schinese mar_corn_51f131f6:
@@ -43417,7 +43417,7 @@ translate schinese mar_corn_3568830f:
 translate schinese mar_corn_a4c009b6:
 
     # m "{i}(I brought a stun pen! Thanks Nia.)"
-    m "{i}(我带了支电击笔!感谢妮娅.)"
+    m "{i}(我带了支电击笔!感谢妮娅.){/i}"
 
 # game/scripts/maria_events.rpy:257
 translate schinese mar_corn_fb25e91e:

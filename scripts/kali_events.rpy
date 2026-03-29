@@ -15483,7 +15483,7 @@ translate schinese kali_botwork_9c2dcc91:
 translate schinese kali_botwork_c7459ac7:
 
     # van "{i}But why help topple your father's empire? Surely you'd gain much more if you inherited it...{/i}"
-    van "{i}但是你为什么要帮助推翻你父亲的商业帝国?如果你继承了它,你肯定会收获更多的......"
+    van "{i}但是你为什么要帮助推翻你父亲的商业帝国?按理说,如果你继承它,肯定可以收获更多......{/i}"
 
 # game/scripts/kali_events.rpy:4216
 translate schinese kali_botwork_65cc938b:
@@ -50446,7 +50446,7 @@ translate schinese kali_videocall_520bf7c8:
 translate schinese kali_work_aff2be21:
 
     # kang "IT'S AN HONOR TO MEET YOU, SIR! MY NAME IS SEO-YEON KANG, AND THIS IS MY SISTER, BAE!!" with ssshake
-    kang "{b}很荣幸见到你,先生!我叫姜修延,这是我的妹妹,裴!!" with ssshake
+    kang "{b}很荣幸见到你,先生!我叫姜修延,这是我的妹妹,裴!!{/b}" with ssshake
 
 # game/scripts/kali_events.rpy:405
 translate schinese kali_work_451cc495:

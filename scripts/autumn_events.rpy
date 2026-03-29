@@ -13119,7 +13119,7 @@ translate schinese aut_exh_nude3_8c067ed1:
 translate schinese aut_exh_nude3_4a92a34f:
 
     # au "{i}Mmmn... if this is wrong, it feels too right... I don't care what she thinks, this is so fun~!"
-    au "{i}嗯......就算这是错的,感觉也真的好棒......我才不管她想什么呢,这太有趣了~!"
+    au "{i}嗯......就算这是错的,感觉也真的好棒......我才不管她想什么呢,这太有趣了~!{/i}"
 
 # game/scripts/autumn_events.rpy:3437
 translate schinese aut_exh_nude3_b72f94b3:
@@ -13341,7 +13341,7 @@ translate schinese aut_exh_nude3_7375b54a:
 translate schinese aut_exh_nude3_bfef52b4:
 
     # ha "AUTUMN! If you don't cut this out, you're fired!"
-    ha "{b}秋!{/b停下,不然你就被解雇了!"
+    ha "{b}秋!{/b}停下,不然你就被解雇了!"
 
 # game/scripts/autumn_events.rpy:3501
 translate schinese aut_exh_nude3_a75c1db0:
@@ -13935,7 +13935,7 @@ translate schinese aut_exh_nude1_3faf7d7e:
 translate schinese aut_exh_nude1_55052cb6:
 
     # au "{i}Come on, Hazel, this isn't that bad, is it...?"
-    au "{i}拜托,榛,这也没那么糟糕,对吧......?"
+    au "{i}拜托,榛,这也没那么糟糕,对吧......?{/i}"
 
 # game/scripts/autumn_events.rpy:3699
 translate schinese aut_exh_nude1_31352f31:
@@ -14451,7 +14451,7 @@ translate schinese aut_exh_serve1_596c65d0:
 translate schinese aut_exh_serve1_7e67cf81:
 
     # ha "{i}Autumn! What in Gaius' name are you wearing!?{/i}"
-    ha "{i}秋!以盖乌斯之名,你穿的是什么!?{i}"
+    ha "{i}秋!以盖乌斯之名,你穿的是什么!?{/i}"
 
 # game/scripts/autumn_events.rpy:3846
 translate schinese aut_exh_serve1_97d3f4b5:
@@ -33940,7 +33940,7 @@ translate schinese autumn_save_9fad788c:
 translate schinese autumn_save_62dc1158:
 
     # doc "RUN! IT'S GOING TO EXPLODE!"
-    doc "{b}快跑!要爆炸了!{/i}"
+    doc "{b}快跑!要爆炸了!{/b}"
 
 # game/scripts/autumn_events.rpy:444
 translate schinese autumn_save_98d0e2a1:
@@ -34963,7 +34963,7 @@ translate schinese aut_dare_f49895cb:
 translate schinese aut_dare_36ff216e:
 
     # deli "CEPHERUS 5:9! WALK AMONGST THE HUNGRY, THE NEEDY, {u}THE DYING{/u}, AND ASK {u}THEM{/u} IF SILKEN BEDS WOULD SOOTHE THEIR SUFFERING!"
-    deli "{b}塞弗勒斯书5:9!与那饥饿的人,困苦的人,{u}将死的人{/u}同行,问{u}他们{/u},丝绸的床可消解他们的苦难吗!"
+    deli "{b}塞弗勒斯书5:9!与那饥饿的人,困苦的人,{u}将死的人{/u}同行,问{u}他们{/u},丝绸的床可消解他们的苦难吗!{/b}"
 
 # game/scripts/autumn_events.rpy:156
 translate schinese aut_dare_f153aa4f_1:

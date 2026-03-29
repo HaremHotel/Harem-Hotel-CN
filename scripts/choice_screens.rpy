@@ -11,7 +11,7 @@ translate schinese strings:
 
     # game/scripts/choice_screens.rpy:56
     old "{color=#00A40A}Exibitionism{/color}"
-    new "{color=#00A40A}暴露{/color}"
+    new "{color=#00A40A}露出{/color}"
 
     # game/scripts/choice_screens.rpy:60
     old "Submission"

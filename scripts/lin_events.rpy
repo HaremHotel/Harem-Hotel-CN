@@ -5157,7 +5157,7 @@ translate schinese lin_lobby_lunch_7c2a1f27:
 translate schinese lin_lobby_lunch_45f1d092:
 
     # f "OW!"
-    f "{b}哦!{b}"
+    f "{b}哦!{/b}"
 
 # game/scripts/lin_events.rpy:1328
 translate schinese lin_lobby_lunch_3766734d:
@@ -13137,7 +13137,7 @@ translate schinese lin_syltin_3e56e38a:
 translate schinese lin_syltin_e43d3562:
 
     # l "Would it be nice to raise a generation in a world without hate? That's what I want for my child, little Lia..."
-    l "在一个没有仇恨的世界里养育一代人,应该很好吧?这就是我想要为我的孩子所做的,我的小莉亚......(也是Runey早年平行宇宙作品The Toymaster的女主)"
+    l "在一个没有仇恨的世界里养育一代人,应该很好吧?这就是我想要为我的孩子所做的,我的小莉亚......(也是Harem Hotel同宇宙平行时间线作品The Toymaster的女主)"
 
 # game/scripts/lin_events.rpy:5065
 translate schinese lin_syltin_f3f78f4d:
@@ -25749,7 +25749,7 @@ translate schinese lin_finalday_0c800f5d:
 translate schinese lin_finalday_03ed3287:
 
     # syl "{i}(Now's my chance!){/i}"
-    syl "{i}(现在是我的机会!){/u}"
+    syl "{i}(现在是我的机会!){/i}"
 
 # game/scripts/lin_events.rpy:8635
 translate schinese lin_finalday_f9093324:
@@ -25761,25 +25761,25 @@ translate schinese lin_finalday_f9093324:
 translate schinese lin_finalday_4147d2d5:
 
     # syl "[name]! Lin! GET HER!!!" with ssshake
-    syl "[name]!林!抓住她!!!" with ssshake
+    syl "[name]!林!{b}抓住她!!!{/b}" with ssshake
 
 # game/scripts/lin_events.rpy:8638
 translate schinese lin_finalday_deb2263d:
 
     # syl "NNGH!!" with ssshake
-    syl "嗯!" with ssshake
+    syl "{b}呃!{/b}" with ssshake
 
 # game/scripts/lin_events.rpy:8640
 translate schinese lin_finalday_bf81fb4e:
 
     # hqueen "SYLVIA!" with ssshake
-    hqueen "西尔维娅!" with ssshake
+    hqueen "{b}西尔维娅!{/b}" with ssshake
 
 # game/scripts/lin_events.rpy:8641
 translate schinese lin_finalday_0fe07c20:
 
     # hqueen "How dare you attack your QUEEN!"
-    hqueen "你怎么敢攻击你的女王的!"
+    hqueen "你怎么胆敢攻击你的{b}女王{/b}!"
 
 # game/scripts/lin_events.rpy:8648
 translate schinese lin_finalday_cabed8b6:
@@ -45867,7 +45867,7 @@ translate schinese linbotthree_b78c8dce:
 translate schinese linbotthree_fe809963:
 
     # l "Mhm! I want a little girl. I'll turn her in to a great maid! And I'll name her Lia! It means love."
-    l "嗯!我想要一个女孩!我会让她成为一个很棒的女仆的!我要给她取名叫莉亚!(联动Runey早年的和另一条时间线的漫画The Toymaster)它的意思是爱."
+    l "嗯!我想要一个女孩!我会让她成为一个很棒的女仆的!我要给她取名叫莉亚!(也是Harem Hotel同宇宙平行时间线作品The Toymaster的女主)它的意思是爱."
 
 # game/scripts/lin_events.rpy:14648
 translate schinese linbotthree_95a87c7e:
@@ -46869,7 +46869,7 @@ translate schinese linlib_e09860a4:
 translate schinese linlib_b71c7f71:
 
     # syl "Tsk. {size=-10}{i}This one is smarter than he looks...{/i}{/size}"
-    syl "啧.{size=-10}{i}这个人比他看上去更聪明......{i}{/size}"
+    syl "啧.{size=-10}{i}这个人比他看上去更聪明......{/i}{/size}"
 
 # game/scripts/lin_events.rpy:14890
 translate schinese linlib_c8b3f4e0:
@@ -53124,7 +53124,7 @@ translate schinese lin_teaparty_f266c6a4:
 translate schinese lin_teaparty_d8ea5a0d:
 
     # kd "{i}DELETE IT! FUCKING DELETE IT!!{/i}"
-    kd "{i}{b}删了它!他妈地删了它!!{/i}"
+    kd "{i}{b}删了它!他妈地删了它!!{/i}{/b}"
 
 # game/scripts/lin_events.rpy:44
 translate schinese lin_teaparty_f0c6c1a0:
@@ -57844,7 +57844,7 @@ translate schinese lin_abduct_71bd8889_1:
 translate schinese lin_abduct_1ff283c8:
 
     # jia "RRGH! YOU FUCKING BITCH!"
-    jia "{b}呃!你个该死的婊子!"
+    jia "{b}呃!你个该死的婊子!{/b}"
 
 # game/scripts/lin_events.rpy:643
 translate schinese lin_abduct_926e809b:
